@@ -9205,7 +9205,7 @@ Here you can go to our other sources, as well as join the INT TEAM discord serve
 //175*瘦长鬼影_Slenderman
 <noparse>Slenderman</noparse>=<noparse>瘦长鬼影</noparse>
 tall guy no face=高个子，没脸. 
-<size%3D1.5em>Slenderman</size>\ntall guy no face\n<noparse>A mod by Uranium255 for game version 1.28</noparse>=<size%3D1.5em>瘦长鬼影</size>\n特点\r\n\r\n书页系统\r\n8页系统\r\n无限书页模式\r\n动态书页计数器\r\n\r\n触手系统\r\n可配置触手计数\r\n可调触手长度\r\n八种攻击模式：\r\n拉扯\r\n挥甩\r\n举摔\r\n发射\r\n猛击\r\n穿刺\r\n闲置\r\n自动择优\r\n\r\n能力\r\n传送——点击任意位置即可传送。（按 F 键）\r\n静电场——伤害实体并与灯光和电子设备相互作用。（按 H 键）\r\n打孔开关（上下文菜单）\r\n刺手键——通过双手的 H 键切换。\r\n触手——按 H 键切换攻击模式，按 F 键启用或关闭触手。\r\n近乎刀枪不入\r\n\r\n附加内容\r\n黑领结 纤细的权力给予者\r\n收藏页面\r\n\r\n游戏玩法\r\n\r\n每一页收集起来的页面都永久强化了瘦长人。\r\n\r\n你收集的页数越多，他就越危险。\r\n\r\n我会随着时间不断更新和改进这个模组。\r\n\r\n欢迎提供功能建议和反馈。\r\n\r\n免责声明\r\n\r\n如果你遇到问题，最可能的原因就是模组冲突。\r\n\r\n光敏感警告\r\n\r\n该模组包含闪烁灯光、屏幕失真、静态特效和惊吓跳跃，可能不适合对光敏感玩家使用。\r\n\r\n玩游戏由你自己决定。 \n<noparse>由 Uranium255 制作的模组，适用于游戏版本 1.28</noparse>
+<size%3D1.5em>Slenderman</size>\ntall guy no face\n<noparse>A mod by Uranium255 for game version 1.28</noparse>=<size%3D1.5em>瘦长鬼影</size>\n特点\r\n\r\n书页系统\r\n8页系统\r\n无限书页模式\r\n动态书页计数器\r\n\r\n触手系统\r\n可配置触手计数\r\n可调触手长度\r\n八种攻击模式：\r\n拉扯\r\n挥甩\r\n举摔\r\n发射\r\n猛击\r\n穿刺\r\n闲置\r\n自动择优\r\n\r\n能力\r\n传送——点击任意位置即可传送. （按 F 键）\r\n静电场——伤害实体并与灯光和电子设备相互作用. （按 H 键）\r\n打孔开关（上下文菜单）\r\n刺手键——通过双手的 H 键切换. \r\n触手——按 H 键切换攻击模式，按 F 键启用或关闭触手. \r\n近乎刀枪不入\r\n\r\n附加内容\r\n黑领结 纤细的权力给予者\r\n收藏页面\r\n\r\n游戏玩法\r\n\r\n每一页收集起来的页面都永久强化了瘦长人. \r\n\r\n你收集的页数越多，他就越危险. \r\n\r\n我会随着时间不断更新和改进这个模组. \r\n\r\n欢迎提供功能建议和反馈. \r\n\r\n免责声明\r\n\r\n如果你遇到问题，最可能的原因就是模组冲突. \r\n\r\n光敏感警告\r\n\r\n该模组包含闪烁灯光、屏幕失真、静态特效和惊吓跳跃，可能不适合对光敏感玩家使用. \r\n\r\n玩游戏由你自己决定.  \n<noparse>由 Uranium255 制作的模组，适用于游戏版本 1.28</noparse>
 Slender Playground=瘦长鬼影的游乐场
 //物品栏
 <b>Slenderman</b>\r\nScary Tall And Slender Dude.=<b>瘦长鬼影</b>\r\n又高又吓人的瘦长家伙
@@ -9304,7 +9304,7 @@ Enter page count (1-8):=输入页数（1-8）：
 
 
 
-//176*菜单模组
+//176*多功能上下文菜单_Multi-function Context Menu
 Multi-function Context Menu=多功能上下文菜单
 //生命
 Stats=状态
@@ -9437,28 +9437,6 @@ Toggle saving regeneration state for all selected=切换是否保存所有所选
 
 
 
-
-//177*超级机器人模组_SUPER DROIDS MOD
-<noparse>SUPER DROIDS MOD</noparse>=<noparse>超级机器人模组</noparse>
-Have fun with it! :D=尽情享受吧！:D
-<size%3D1.5em>SUPER DROIDS MOD</size>\nHave fun with it! :D\n<noparse>A mod by cttc321 for game version 1.13+</noparse>=<size%3D1.5em>超级机器人模组</size>\n尽情享受吧！:D\n<noparse>由 cttc321 制作的模组，适用于游戏版本 1.13+</noparse>
-<b>CTTC- Anti-Gravity Slicer Droid</b>\r\nSlice And Make Weightless Objects Or Entities With His Arms On Touch.=<b>CTTC- 反重力切割机器人</b>\r\n用他的手臂触碰即可切割并让物体或实体失重
-<b>CTTC- Atom Droid</b>\r\n(Hold) Activate his arms to shoot a Very Strong Laser Bolt and Pulverise Skin On Touch.=<b>CTTC- 原子机器人</b>\r\n（按住）激活他的手臂以发射非常强大的激光弹，并触碰时粉碎皮肤
-<b>CTTC- Electro Droid</b>\r\n(Hold) Activate his arms to Electrocute the aimed entities.=<b>CTTC- 电击机器人</b>\r\n（按住）激活他的手臂以电击瞄准的实体
-<b>CTTC- Energy-Beam Droid</b>\r\n(Hold) Activate his arm to shoot a Energy-Beam, Activate his Head to shoot a Energy-Blast.=<b>CTTC- 能量光束机器人</b>\r\n（按住）激活他的手臂以发射能量光束，激活他的头部以发射能量爆裂
-<b>CTTC- Fire Droid</b>\r\n(Hold) Activate his arms to Burn the aimed or touched entities.=<b>CTTC- 火焰机器人</b>\r\n（按住）激活他的手臂以燃烧瞄准或触碰的实体
-<b>CTTC- Ice Droid</b>\r\n(Hold) Activate his arms to Freeze the aimed or touched entities.=<b>CTTC- 冰霜机器人</b>\r\n（按住）激活他的手臂以冻结瞄准或触碰的实体
-<b>CTTC- Ion-Goop Droid</b>\r\n(Hold) Activate his arm to shoot a beam that will transform the aimed entities into green goop.=<b>CTTC- 离子粘液机器人</b>\r\n（按住）激活他的手臂以发射光束，将瞄准的实体转化为绿色粘液
-<b>CTTC- Limb Blower Droid</b>\r\n(Hold) Activate his arms to Blow The Limbs of the aimed entities.=<b>CTTC- 肢体爆破机器人</b>\r\n（按住）激活他的手臂以炸飞瞄准实体的肢体
-<b>CTTC- MegaDroid</b>\r\nActivate his arm to shoot a Huge Beam.=<b>CTTC- 巨型机器人</b>\r\n激活他的手臂以发射巨大光束
-<b>CTTC- Pulverisation Droid</b>\r\nActivate his arms to shoot a beam that will disintegrate the aimed entities.=<b>CTTC- 粉碎机器人</b>\r\n激活他的手臂以发射光束，瓦解瞄准的实体
-<b>CTTC- Telekinesis Droid</b>\r\n(Hold) Activate his arms to Slice And Lift the aimed entities or objects.=<b>CTTC- 念力机器人</b>\r\n（按住）激活他的手臂以切割并举起瞄准的实体或物体
-
-
-
-
-
-
 //178*Blocksify的疯狂注射器模组_Blocksify's Crazy Syringes Mod
 <noparse>Blocksify's Crazy Syringes Mod</noparse>=<noparse>Blocksify的疯狂注射器模组</noparse>
 This mod is a cool mod that adds syringes of all kinds. We're adding Superhero syringes, Color/Colour Syringes and more! Hope you enjoy! -Blocksify=这个模组很酷，添加了各种各样的注射器. 我们加入了超级英雄注射器、颜色注射器等等！希望你喜欢！——Blocksify
@@ -9502,7 +9480,7 @@ This mod is a cool mod that adds syringes of all kinds. We're adding Superhero s
 //180*鱼的黑魔法
 <noparse>Fish Black Magic </noparse>=<noparse>鱼的黑魔法</noparse>
 Inspired by an old song <That Old Black Magic>=灵感来自一首老歌《That Old Black Magic》
-<size%3D1.5em>Fish Black Magic </size>\nInspired by an old song <That Old Black Magic>\n<noparse>A mod by NeitherFishNorCat for game version 1.21+</noparse>=<size%3D1.5em>鱼的黑魔法</size>\n灵感来自歌曲 "That Old Black Magic"\r\n\r\n包含五种不同的魔法和一些独特的魔法物品，每种物品都属于Black Magic类别下。\r\n\r\n如何学习魔法：\r\n1. 放置一个祭坛\r\n2. 在祭坛上放 6 根蜡烛\r\n3. 将祭坛物品放在祭坛的桌子部分\r\n4. 在祭坛上放置人类\r\n5. 激活祭坛\r\n\r\n魔法类型：\r\n血魔法 - 血挪移和血液抽取，激活中间身体开始抽取血液。在抽取血液的同时，激活他的手并指向其他人进行血挪移。进行血液抽取时，血魔法使用者可以通过触碰造成伤口\r\n使用带血状态的祭祀刀作为祭坛物品\r\n\r\n巫毒魔法 - 使用玩偶来转换伤害，激活他的手部然后触摸玩偶以获得一个大玩偶，然后激活玩偶的中间身体并将其与其他人类相连接以造成伤害转移。对玩偶使用蜘蛛和青蛙会有特殊效果\r\n将玩偶用作祭坛道具\r\n\r\n死灵法术 - 召唤鬼魂附在尸体上，激活他的手召唤鬼魂，鬼魂可被玫瑰吸收\r\n使用头骨作为祭坛物品\r\n\r\n镜像魔法 - 在镜像世界和现实世界之间切换，这个功能不太稳定慎用\r\n使用玫瑰作为祭坛物品\r\n\r\n变身魔法 - 将人类变为动物，只有死亡或亲吻才能解除诅咒。如果使用亲吻来打破诅咒，亲吻的两人将坠入爱河\r\n使用皇冠作为祭坛物品\r\n\r\n每种魔法都以血液抽取为基础魔法，通过抽取血液可获得魔法能量，血液只能从伤口和容器中抽取\r\n\r\n\r\n魔法道具：\r\n冰冻之心 - 逆向炎拳\r\n\r\n被诅咒的南瓜 - 南瓜会对触碰它的人下诅咒。诅咒包含一个倒计时，一旦倒计时结束，这个人就会变成另一个南瓜。人类可以通过接触其他人类来传递诅咒。\r\n\r\n玫瑰 - 存储灵魂，可用于使任意物体被附体并变成自主行动的“活物”\r\n\r\n丘比特箭 - 将箭同时插入两个不同的人体内，就会产生爱情。\r\n\r\n魔镜 - 激活魔镜可切换世界，通过魔镜快速移动物体可将其传送到相反的世界。\r\n\r\n特有机制：\r\n爱情 - 相当于狼人杀里的恋人。\r\n\r\n镜像世界 - 通过镜子与现实世界相连的平行世界\n<noparse>由 NeitherFishNorCat 制作的模组，适用于游戏版本 1.21+</noparse>
+<size%3D1.5em>Fish Black Magic </size>\nInspired by an old song <That Old Black Magic>\n<noparse>A mod by NeitherFishNorCat for game version 1.21+</noparse>=<size%3D1.5em>鱼的黑魔法</size>\n灵感来自歌曲 "That Old Black Magic"\r\n\r\n包含五种不同的魔法和一些独特的魔法物品，每种物品都属于Black Magic类别下. \r\n\r\n如何学习魔法：\r\n1. 放置一个祭坛\r\n2. 在祭坛上放 6 根蜡烛\r\n3. 将祭坛物品放在祭坛的桌子部分\r\n4. 在祭坛上放置人类\r\n5. 激活祭坛\r\n\r\n魔法类型：\r\n血魔法 - 血挪移和血液抽取，激活中间身体开始抽取血液. 在抽取血液的同时，激活他的手并指向其他人进行血挪移. 进行血液抽取时，血魔法使用者可以通过触碰造成伤口\r\n使用带血状态的祭祀刀作为祭坛物品\r\n\r\n巫毒魔法 - 使用玩偶来转换伤害，激活他的手部然后触摸玩偶以获得一个大玩偶，然后激活玩偶的中间身体并将其与其他人类相连接以造成伤害转移. 对玩偶使用蜘蛛和青蛙会有特殊效果\r\n将玩偶用作祭坛道具\r\n\r\n死灵法术 - 召唤鬼魂附在尸体上，激活他的手召唤鬼魂，鬼魂可被玫瑰吸收\r\n使用头骨作为祭坛物品\r\n\r\n镜像魔法 - 在镜像世界和现实世界之间切换，这个功能不太稳定慎用\r\n使用玫瑰作为祭坛物品\r\n\r\n变身魔法 - 将人类变为动物，只有死亡或亲吻才能解除诅咒. 如果使用亲吻来打破诅咒，亲吻的两人将坠入爱河\r\n使用皇冠作为祭坛物品\r\n\r\n每种魔法都以血液抽取为基础魔法，通过抽取血液可获得魔法能量，血液只能从伤口和容器中抽取\r\n\r\n\r\n魔法道具：\r\n冰冻之心 - 逆向炎拳\r\n\r\n被诅咒的南瓜 - 南瓜会对触碰它的人下诅咒. 诅咒包含一个倒计时，一旦倒计时结束，这个人就会变成另一个南瓜. 人类可以通过接触其他人类来传递诅咒. \r\n\r\n玫瑰 - 存储灵魂，可用于使任意物体被附体并变成自主行动的“活物”\r\n\r\n丘比特箭 - 将箭同时插入两个不同的人体内，就会产生爱情. \r\n\r\n魔镜 - 激活魔镜可切换世界，通过魔镜快速移动物体可将其传送到相反的世界. \r\n\r\n特有机制：\r\n爱情 - 相当于狼人杀里的恋人. \r\n\r\n镜像世界 - 通过镜子与现实世界相连的平行世界\n<noparse>由 NeitherFishNorCat 制作的模组，适用于游戏版本 1.21+</noparse>
 <b>Strange Dark Magic</b>\r\nstrange dark magic.=<b>奇异黑暗魔法</b>\r\n奇异黑暗魔法
 <b><color%3D#Bb2327>BlackMagic-<color%3Dwhite>Altar</b>\r\nIt gives magic.=<b><color%3D#Bb2327>黑魔法-<color%3Dwhite>祭坛</b>\r\n它赋予魔法. 
 <b><color%3D#Bb2327>BlackMagic-<color%3Dwhite>Candle</b>\r\nRequired for altar.=<b><color%3D#Bb2327>黑魔法-<color%3Dwhite>蜡烛</b>\r\n祭坛所需. 
@@ -9583,33 +9561,33 @@ I DONT CARE!!=我他妈不在乎！！
 <b> <b><i><size%3D200%><color%3D#FF00D5>G<color%3D#B300FF>o<color%3D#7700FF>d <color%3D#3300FF>C<color%3D#001AFF>u<color%3D#005EFF>b<color%3D#00B3FF>e</b>\r\nDrag onto someones head to give them chance of getting Gods powers.=<b> <b><i><size%3D200%><color%3D#FF00D5>上<color%3D#B300FF>帝<color%3D#7700FF><color%3D#3300FF>方<color%3D#001AFF>块</b>\r\n拖到某人的头上，让他们有机会获得上帝的力量.
 <i><size%3D150%><color%3Dred>This entity now contains 1% of gods power...=<i><size%3D150%><color%3Dred>此实体现在拥有了 1% 的上帝之力……
 Enable Energy Ball=启用能量球
-Enable Energy Ball.=启用能量球。
+Enable Energy Ball.=启用能量球. 
 Disable Energy Ball=禁用能量球
-Disable Energy Ball.=禁用能量球。
+Disable Energy Ball.=禁用能量球. 
 
 
 
 //183*泰拉瑞亚AI_Terraria Al
 Terraria AI=泰拉瑞亚AI
-<size%3D120%><align%3D"center">Terraria AI - <color%3D"red">SLIMES<color%3D"white"> UPDATE ALREADY HERE!\n<size%3D100%><align%3D"left">\nWe've prepared updates, the only thing we ask is that you watch a video about it. \nThat way you can support us for future developments!=<size%3D120%><align%3D"center">Terraria AI - <color%3D"red">史莱姆<color%3D"white"> 更新已到！\n<size%3D100%><align%3D"left">\n我们已经准备了更新，我们唯一的要求是请您观看相关视频。\n这样您就可以支持我们未来的开发工作！
-We took the time to develop this mod for you.\nThe only thing we ask in return is that you watch the trailer\nwe prepared so that you can contribute to new updates of this mod=我们花时间为你开发了这个模组。\n我们唯一要求的回报是请你观看我们准备的预告片，\n这样你就能为这个模组的新更新做出贡献。
-<b>Terraria AI</b>\r\nUpdates of this mod will depend on your activity\nAlso updates will be released earlier on Patreon and Boosty.=<b>泰拉瑞亚AI</b>\r\n此模组的更新将取决于您的活跃度\n此外，更新将在 Patreon 和 Boosty 上提前发布。
-<b>Patreon / Boosty</b>\nTo support and get early access to updates.=<b>Patreon / Boosty</b>\n提供支持并抢先体验更新。
-<b>Discord</b>\nOur discord server.=<b>Discord</b>\n我们的 Discord 服务器。
-<b>YouTube</b>\nOur YouTube channel.=<b>YouTube</b>\n我们的 YouTube 频道。
-<b>[Terraria AI] Eye of Cthulhu</b>\r\nBig Eye.=<b>[泰拉瑞亚AI] 克苏鲁之眼</b>\r\n大眼睛。
-<b>[Terraria AI] Servant of Cthulhu</b>\r\nSmall Eye.=<b>[泰拉瑞亚AI] 克苏鲁之仆</b>\r\n小眼睛。
-<b>[Terraria AI] Slime</b>\r\nUsual Slime.=<b>[泰拉瑞亚AI] 史莱姆</b>\r\n普通史莱姆。
-<b>[Terraria AI] Spiked Slime</b>\r\nServant of King Slime.=<b>[泰拉瑞亚AI] 尖刺史莱姆</b>\r\n史莱姆之王的仆从。
+<size%3D120%><align%3D"center">Terraria AI - <color%3D"red">SLIMES<color%3D"white"> UPDATE ALREADY HERE!\n<size%3D100%><align%3D"left">\nWe've prepared updates, the only thing we ask is that you watch a video about it. \nThat way you can support us for future developments!=<size%3D120%><align%3D"center">Terraria AI - <color%3D"red">史莱姆<color%3D"white"> 更新已到！\n<size%3D100%><align%3D"left">\n我们已经准备了更新，我们唯一的要求是请您观看相关视频. \n这样您就可以支持我们未来的开发工作！
+We took the time to develop this mod for you.\nThe only thing we ask in return is that you watch the trailer\nwe prepared so that you can contribute to new updates of this mod=我们花时间为你开发了这个模组. \n我们唯一要求的回报是请你观看我们准备的预告片，\n这样你就能为这个模组的新更新做出贡献. 
+<b>Terraria AI</b>\r\nUpdates of this mod will depend on your activity\nAlso updates will be released earlier on Patreon and Boosty.=<b>泰拉瑞亚AI</b>\r\n此模组的更新将取决于您的活跃度\n此外，更新将在 Patreon 和 Boosty 上提前发布. 
+<b>Patreon / Boosty</b>\nTo support and get early access to updates.=<b>Patreon / Boosty</b>\n提供支持并抢先体验更新. 
+<b>Discord</b>\nOur discord server.=<b>Discord</b>\n我们的 Discord 服务器. 
+<b>YouTube</b>\nOur YouTube channel.=<b>YouTube</b>\n我们的 YouTube 频道. 
+<b>[Terraria AI] Eye of Cthulhu</b>\r\nBig Eye.=<b>[泰拉瑞亚AI] 克苏鲁之眼</b>\r\n大眼睛. 
+<b>[Terraria AI] Servant of Cthulhu</b>\r\nSmall Eye.=<b>[泰拉瑞亚AI] 克苏鲁之仆</b>\r\n小眼睛. 
+<b>[Terraria AI] Slime</b>\r\nUsual Slime.=<b>[泰拉瑞亚AI] 史莱姆</b>\r\n普通史莱姆. 
+<b>[Terraria AI] Spiked Slime</b>\r\nServant of King Slime.=<b>[泰拉瑞亚AI] 尖刺史莱姆</b>\r\n史莱姆之王的仆从. 
 <b>[Terraria AI] King of Slimes</b>\r\nAdam Smasher 2.0?=<b>[泰拉瑞亚AI] 史莱姆之王</b>\r\n亚当·重锤 2.0？
 Eye of Cthulhu has awoken!=克苏鲁之眼已苏醒！
 Eye of Cthulhu has been defeated!=克苏鲁之眼已被击败！
 Toggle Second Phase=切换第二阶段
-Toggle Second Phase.=切换第二阶段。
+Toggle Second Phase.=切换第二阶段. 
 Toggle Last Phase=切换最终阶段
-Toggle Last Phase.=切换最终阶段。
+Toggle Last Phase.=切换最终阶段. 
 Toggle Boss Controll=切换Boss控制
-Toggle Boss Controll.=切换Boss控制。
+Toggle Boss Controll.=切换Boss控制. 
 Boss Controll Enabled=Boss控制已启用
 Open Terraria Mod Settings=打开泰拉瑞亚模组设置
 Terraria Controlled Boss Up=泰拉瑞亚控制Boss上移
@@ -9639,12 +9617,12 @@ Gibs/Gore/Blood Currently Enabled=碎块/血腥/血液当前已启用
 
 //184*更多流体_Mo' Fluids
 <noparse>Mo' Fluids</noparse>=<noparse>更多流体</noparse>
-Adds a few fluids.=添加了几种流体。
-<size%3D1.5em>Mo' Fluids</size>\nAdds a few fluids.\n<noparse>A mod by JGrimesGamed for game version 1.16+</noparse>=<size%3D1.5em>更多流体</size>\n添加了几种流体。\n<noparse>由 JGrimesGamed 制作的模组，适用于游戏版本 1.16+</noparse>
-<b>Alcohol Flask</b>\r\nFlask full of drunkening alcohol. May cause liver failure.=<b>酒精烧瓶</b>\r\n装满令人醉倒的酒精的烧瓶。可能导致肝衰竭。
-<b>Lava Flask</b>\r\nFlask full of boiling rock. Very hot and solidifies in water.=<b>熔岩烧瓶</b>\r\n装满沸腾岩石的烧瓶。非常炽热，在水中会凝固。
-<b>Salt Water Flask</b>\r\nFlask full of salty water. Very painful when flowing though someone's veins.=<b>盐水烧瓶</b>\r\n装满盐水的烧瓶。流过某人的血管时会非常痛苦。
-<b>Water Flask</b>\r\nFlask full of plain-old water.=<b>水烧瓶</b>\r\n装满普通水的烧瓶。
+Adds a few fluids.=添加了几种流体. 
+<size%3D1.5em>Mo' Fluids</size>\nAdds a few fluids.\n<noparse>A mod by JGrimesGamed for game version 1.16+</noparse>=<size%3D1.5em>更多流体</size>\n添加了几种流体. \n<noparse>由 JGrimesGamed 制作的模组，适用于游戏版本 1.16+</noparse>
+<b>Alcohol Flask</b>\r\nFlask full of drunkening alcohol. May cause liver failure.=<b>酒精烧瓶</b>\r\n装满令人醉倒的酒精的烧瓶. 可能导致肝衰竭. 
+<b>Lava Flask</b>\r\nFlask full of boiling rock. Very hot and solidifies in water.=<b>熔岩烧瓶</b>\r\n装满沸腾岩石的烧瓶. 非常炽热，在水中会凝固. 
+<b>Salt Water Flask</b>\r\nFlask full of salty water. Very painful when flowing though someone's veins.=<b>盐水烧瓶</b>\r\n装满盐水的烧瓶. 流过某人的血管时会非常痛苦. 
+<b>Water Flask</b>\r\nFlask full of plain-old water.=<b>水烧瓶</b>\r\n装满普通水的烧瓶. 
 
 
 
@@ -9652,51 +9630,51 @@ Adds a few fluids.=添加了几种流体。
 
 //185*东京喰种:re_Tokyo:re
 <noparse>Tokyo:re</noparse>=<noparse>东京喰种:re</noparse>
-<b>[A Rank] Doujima 1/2</b>\r\nA koukaku quinque originally owned by Harima and later wielded by Amon. It is most suitable for physically powerful attacks.=<b>[A级] 堂岛1/2</b>\r\n原为真户晓所有、后由亚门使用的甲赫库因克。最适合用于强力物理攻击。
-<b>[A Rank] Kura</b>\r\nA heavy koukaku quinque from Mado's collection. Press F to split into dual blades or merge back together.=<b>[A级] 仓</b>\r\n真户收藏中的重型甲赫库因克。按F键可分离为双刃或合并恢复。
-<b>[A Rank] Nagomi 1/3</b>\r\nNagomi 1/3  is a rinkaku quinque wielded by Take Hirako. It is a sword with 3 rectangular segments embedded on its blade, with what appears to no point at the end of the blade.=<b>[A级] 和1/3</b>\r\n平子丈所使用的鳞赫库因克。剑刃上嵌有三段长方形结构，剑尖似乎没有锋刃。
-<b>[A+ Rank] Taruhi</b>\r\nTaruhi is a koukaku-type quinque used in the battle against Yoshimura, the Non-Killing Owl, during the Owl Suppression Operation. Taruhi vaguely resembles a halberd, and its head is capable of functioning as an effective whip.=<b>[A+级] 垂飞</b>\r\n枭讨伐战中对抗不杀之枭——芳村时使用的甲赫库因克。外形略似长戟，头部可作有效鞭刃使用。
-<b>[Arata] Arata</b>\r\nArata Full.=<b>[新] 新</b>\r\n新·完全体。
-<b>[Arata] Arata Proto</b>\r\nArata Proto.=<b>[新] 新·试作型</b>\r\n新·试作型。
+<b>[A Rank] Doujima 1/2</b>\r\nA koukaku quinque originally owned by Harima and later wielded by Amon. It is most suitable for physically powerful attacks.=<b>[A级] 堂岛1/2</b>\r\n原为真户晓所有、后由亚门使用的甲赫库因克. 最适合用于强力物理攻击. 
+<b>[A Rank] Kura</b>\r\nA heavy koukaku quinque from Mado's collection. Press F to split into dual blades or merge back together.=<b>[A级] 仓</b>\r\n真户收藏中的重型甲赫库因克. 按F键可分离为双刃或合并恢复. 
+<b>[A Rank] Nagomi 1/3</b>\r\nNagomi 1/3  is a rinkaku quinque wielded by Take Hirako. It is a sword with 3 rectangular segments embedded on its blade, with what appears to no point at the end of the blade.=<b>[A级] 和1/3</b>\r\n平子丈所使用的鳞赫库因克. 剑刃上嵌有三段长方形结构，剑尖似乎没有锋刃. 
+<b>[A+ Rank] Taruhi</b>\r\nTaruhi is a koukaku-type quinque used in the battle against Yoshimura, the Non-Killing Owl, during the Owl Suppression Operation. Taruhi vaguely resembles a halberd, and its head is capable of functioning as an effective whip.=<b>[A+级] 垂飞</b>\r\n枭讨伐战中对抗不杀之枭——芳村时使用的甲赫库因克. 外形略似长戟，头部可作有效鞭刃使用. 
+<b>[Arata] Arata</b>\r\nArata Full.=<b>[新] 新</b>\r\n新·完全体. 
+<b>[Arata] Arata Proto</b>\r\nArata Proto.=<b>[新] 新·试作型</b>\r\n新·试作型. 
 <b>[Arata] Arata Random</b>\r\nRandom armor - each spawn is unique!=<b>[新] 新·随机</b>\r\n随机铠甲——每次生成都独一无二！
-<b>[B Rank] Yukimura 1/3</b>\r\nYukimura 1/3 now opens into a guitar case that deploys two handles. Press F on each handle to transform it into a full koukaku blade.=<b>[B级] 雪村1/3</b>\r\n雪村1/3可展开为吉他箱，展开后露出两个握柄。对每个握柄按F键，可将其完全变形为甲赫刀刃。
-<b>[C Rank] Tsunagi</b>\r\nA mass-produced quinque. Shaped like a long sword without a guard.=<b>[C级] 纲木</b>\r\n量产型库因克。形似无护手的长剑。
-<b>[S Rank] Demon Yamada</b>\r\nDemon Yamada is a bikaku-type quinque that takes the form of a long butcher knife. It is made from Demon Yamada's kagune.=<b>[S级] 鬼·山田</b>\r\n鬼·山田为尾赫库因克，形似长屠刀。由鬼·山田的赫子制成。
-<b>[S Rank] Kuroiwa Special</b>\r\nKuroiwa Special is a rinkaku-type quinque wielded by Iwao Kuroiwa. Press F to create a protective shield.=<b>[S级] 黑岩特制</b>\r\n黑岩特制为黑岩岩所持有的鳞赫库因克。按F键可生成防护盾。
-<b>[S+ Rank] Hollow</b>\r\nHollow is an Ukaku-type Quinque, which is wrapped around the arm and thus obtains the possibility of firing high-power projectiles that embed themselves in their target and detonate after a chorus in a powerful explosion after a few moments.=<b>[S+级] 虚空</b>\r\n虚空为羽赫库因克，缠绕于手臂上，可发射高威力弹丸嵌入目标，经过短暂延迟后引发强力爆炸。
-<b>[S+ Rank] IXA</b>\r\nA powerful koukaku quinque wielded by Arima.\nMode 1 (Spikes): Press F to summon ground spikes.\nMode 2 (Shield): Creates a pixel-shield nearby.\nUse 'Switch IXA Mode' to change modes.=<b>[S+级] IXA</b>\r\n有马所持有的强力甲赫库因克。\n模式1（尖刺）：按F键召唤地刺。\n模式2（护盾）：在附近生成像素护盾。\n使用“切换IXA模式”来切换模式。
-<b>[Serum] Half-Human Serum</b>\r\nA serum containing genetic material from the Sunlit Garden experiments. Select the desired Half-Human type on the spawned syringe before injection.=<b>[血清] 半人类血清</b>\r\n含有“向阳庭”实验遗传物质的血清。注射前，在生成的注射器上选择所需的半人类类型。
-<b>[SS Rank] Chi She</b>\r\nA koukaku-type quinque that has a large straight blade and a curved guard, somewhat resembling a pole axe.=<b>[SS级] 赤蛇</b>\r\n甲赫库因克，带有宽大直刃和弯曲护手，外形略似钺戟。
-<b>[SS Rank] Doujima</b>\r\nDoujima 1/2 was repaired by Akira Mado and Kouitsu Chigyou using the Bin brothers' kagune, taking the form of a spear with a conical lance-like head. For additional offensive power, the bikaku kagune of the Bin brothers can be projected from the spearhead, spiraling around it in a drill-like manner.=<b>[SS级] 堂岛</b>\r\n堂岛1/2经由真户晓和地行甲乙使用“瓶”兄弟的赫子修复，呈锥形枪头长矛形态。可额外从枪尖释放“瓶”兄弟的尾赫，如钻头般螺旋缠绕增强攻击力。
-<b>[SS Rank] Jason13</b>\r\nRinkaku quinque that takes the form of a square and jagged scythe and has an L-shaped blade with a sharp tip. It was created from Yamori's kakuhou and its final form was designed by Kouitsu Chigyou of the CCG Laboratory Division.=<b>[SS级] 杰森13</b>\r\n鳞赫库因克，呈方形锯齿镰刀形态，带有L型利刃和尖锐尖端。由“壁虎”的赫包制成，最终形态由CCG实验课的地行甲乙设计。
-<b>[SS Rank] Kajiri</b>\r\nA unique quinque with a double-bladed design. Press F to shoot crystals.=<b>[SS级] 梶理</b>\r\n独特的双刃型库因克。按F键发射结晶。
-<b>[SSS Rank] Narukami</b>\r\nNarukami is an ukaku-type quinque with a firing rate of four firing patterns. It has a great range but only limited ammunition capacity. Created from the kakuhou of an SSS rated ghoul.=<b>[SSS级] 鸣神</b>\r\n鸣神为羽赫库因克，拥有四种射击模式。射程极远但弹容量有限。由SSS级喰种的赫包制成。
-<b>[SSS Rank] Owl Quinque</b>\r\nA quinque owned by Arima and created from a kakuhou torn out during his battle with the Non-Killing Owl. It is the only known example of an SSS-rated quinque, and the only one known to be created from a living ghoul.=<b>[SSS级] 枭·库因克</b>\r\n有马所持有的库因克，由与“不杀之枭”战斗中夺取的赫包制成。是已知唯一的SSS级库因克，也是唯一已知由活体喰种制成的库因克。
-<b><color%3D#6F1C1C>RC Cell [Owl]</color></b>\r\nYoshimura preset. Starts at rank SSS with Owl full kakuja available.=<b><color%3D#6F1C1C>RC细胞 [枭]</color></b>\r\n芳村预设。初始SSS级，可使用枭·完整赫者形态。
-<b><color%3D#9966CC>RC Cell [Tsukiyama]</color></b>\r\nShuu Tsukiyama preset. Starts at rank S with a Koukaku ghoul kagune.=<b><color%3D#9966CC>RC细胞 [月山]</color></b>\r\n月山习预设。初始S级，甲赫喰种赫子。
-<b><color%3D#9B111E>RC Cell [Noro]</color></b>\r\nNoro preset. Starts at rank SSS with extreme durability and Noro bikaku.=<b><color%3D#9B111E>RC细胞 [诺罗]</color></b>\r\n诺罗预设。初始SSS级，拥有极高耐久度与诺罗式尾赫。
-<b><color%3D#9FB7B8>CRC Gas Grenade</color></b>\r\nDeploys a CRC cloud. Ghouls inside cannot regenerate or activate Kagune.=<b><color%3D#9FB7B8>CRC瓦斯手雷</color></b>\r\n释放CRC气体云。处于其中的喰种无法再生或激活赫子。
-<b><color%3D#A54CFF>RC Cell [Ayato]</color></b>\r\nAyato Kirishima preset. Starts at rank S with anime-colored ukaku wings and crystal attacks.=<b><color%3D#A54CFF>RC细胞 [绫人]</color></b>\r\n雾岛绫人预设。初始S级，动画配色羽赫双翼，可进行结晶攻击。
-<b><color%3D#B08A62>Anteiku Coffee</color></b>\r\nA bitter cup from Anteiku. Calms Madness and memory pressure.=<b><color%3D#B08A62>古董咖啡</color></b>\r\n来自古董的一杯苦咖啡。可安抚疯狂与记忆压力。
-<b><color%3D#B14B32>Ghoul Meat</color></b>\r\nA compact meat source for ghouls. Touch a ghoul to fully restore hunger.=<b><color%3D#B14B32>喰种肉</color></b>\r\n便携式喰种肉源。触碰喰种即可完全恢复饥饿值。
-<b><color%3D#B8B8B8>RC Suppressant Syringe</color></b>\r\nSuppresses ghoul regeneration, Kagune, and Kakuja for 30 seconds.=<b><color%3D#B8B8B8>RC抑制注射器</color></b>\r\n30秒内抑制喰种的再生、赫子与赫者化能力。
-<b><color%3D#C43A3A>RC Cell [Jason]</color></b>\r\nRinkaku preset of Yamori. Starts at rank S with two oversized tentacles and Jason half-kakuja lineage.=<b><color%3D#C43A3A>RC细胞 [杰森]</color></b>\r\n“壁虎”鳞赫预设。初始S级，拥有两根巨大触手及杰森半赫者谱系。
-<b><color%3D#CC6633>RC Cell [Bin]</color></b>\r\nBin brothers preset. Starts at rank S with Bin bikaku and no kakuja forms.=<b><color%3D#CC6633>RC细胞 [瓶]</color></b>\r\n“瓶”兄弟预设。初始S级，持有“瓶”式尾赫，无赫者形态。
-<b><color%3D#D8D8D8>Enable/Disable Hunger</color></b>\r\nUse to toggle ghoul hunger globally. Press F to toggle.=<b><color%3D#D8D8D8>启用/禁用饥饿</color></b>\r\n用于全局切换喰种饥饿状态。按F键切换。
-<b><color%3D#D95B5B>RC Cell [Nishio]</color></b>\r\nNishio preset. Starts at rank A with Nishio bikaku.=<b><color%3D#D95B5B>RC细胞 [西尾]</color></b>\r\n西尾预设。初始A级，持有西尾式尾赫。
-<b><color%3D#D9D3C3>CCG Application</color></b>\r\nTurns a human into a Rank 3 CCG investigator on contact.=<b><color%3D#D9D3C3>CCG入职申请书</color></b>\r\n触碰后使人类成为三等CCG搜查官。
-<b><color%3D#E44747>Kakuja Unlock Pill</color></b>\r\nA capsule containing highly concentrated RC cells and mutation catalysts. Upon ingestion, it triggers a sharp RC surge and activates Kakuja mode.=<b><color%3D#E44747>赫者解锁药丸</color></b>\r\n含有高浓度RC细胞与变异催化剂的胶囊。服用后将引发RC剧烈激增，激活赫者模式。
-<b><color%3D#E6DFC9>Promotion Document</color></b>\r\nPromotes a CCG investigator by one rank on contact.=<b><color%3D#E6DFC9>晋升文件</color></b>\r\n触碰后使CCG搜查官晋升一级。
-<b><color%3D#F25AA8>RC Cell [Rize]</color></b>\r\nRize Kamishiro preset. Starts at rank SS with Ken-style rinkaku and Kaneki kakuja lineage.=<b><color%3D#F25AA8>RC细胞 [利世]</color></b>\r\n神代利世预设。初始SS级，拥有金木式鳞赫及金木赫者谱系。
-<b><color%3D#FF6A4A>RC Cell [Tatara]</color></b>\r\nTatara preset. Starts at rank SSS with Tatara bikaku.=<b><color%3D#FF6A4A>RC细胞 [多多良]</color></b>\r\n多多良预设。初始SSS级，多多良式尾赫。
-<b><color%3D#FF7042>RC Cell [Touka]</color></b>\r\nTouka Kirishima preset. Starts at rank A with crimson ukaku wings.=<b><color%3D#FF7042>RC细胞 [董香]</color></b>\r\n雾岛董香预设。初始A级，深红羽赫双翼。
-<b><color%3D#FF92C2>RC Cell [Kosatka]</color></b>\r\nKosatka preset. Starts at rank SS with reinforced body proportions and tougher limbs.=<b><color%3D#FF92C2>RC细胞 [虎鲸]</color></b>\r\n虎鲸预设。初始SS级，强化体魄与更坚韧的四肢。
-<b><color%3D#FFB347>RC Booster</color></b>\r\nAdds 1000 RC cells to a ghoul or half-ghoul on contact.=<b><color%3D#FFB347>RC增幅剂</color></b>\r\n触碰后为喰种或半喰种增加1000个RC细胞。
-<b><color%3Dblue>RC Cell [Koukaku]</color></b>\r\nA living RC cell cluster of the Koukaku type. Touch it to a human to transform them into a Koukaku ghoul.=<b><color%3Dblue>RC细胞 [甲赫]</color></b>\r\n甲赫型活体RC细胞集群。触碰人类可将其转化为甲赫喰种。
-<b><color%3Dgreen>RC Cell [Bikaku]</color></b>\r\nA living RC cell cluster of the Bikaku type. Touch it to a human to transform them into a Bikaku ghoul.=<b><color%3Dgreen>RC细胞 [尾赫]</color></b>\r\n尾赫型活体RC细胞集群。触碰人类可将其转化为尾赫喰种。
-<b><color%3Dorange>RC Cell [Ukaku]</color></b>\r\nA living RC cell cluster of the Ukaku type. Touch it to a human to transform them into an Ukaku ghoul.=<b><color%3Dorange>RC细胞 [羽赫]</color></b>\r\n羽赫型活体RC细胞集群。触碰人类可将其转化为羽赫喰种。
-<b><color%3Dred>RC Cell [Rinkaku]</color></b>\r\nA living RC cell cluster of the Rinkaku type. Touch it to a human to transform them into a Rinkaku ghoul.=<b><color%3Dred>RC细胞 [鳞赫]</color></b>\r\n鳞赫型活体RC细胞集群。触碰人类可将其转化为鳞赫喰种。
-<b><color%3Dsilver>Scalpel</color></b>\r\nA CCG surgical scalpel. Hit a ghoul to extract their Kakuho organ.=<b><color%3Dsilver>手术刀</color></b>\r\nCCG手术刀。击中喰种可提取其赫包器官。
+<b>[B Rank] Yukimura 1/3</b>\r\nYukimura 1/3 now opens into a guitar case that deploys two handles. Press F on each handle to transform it into a full koukaku blade.=<b>[B级] 雪村1/3</b>\r\n雪村1/3可展开为吉他箱，展开后露出两个握柄. 对每个握柄按F键，可将其完全变形为甲赫刀刃. 
+<b>[C Rank] Tsunagi</b>\r\nA mass-produced quinque. Shaped like a long sword without a guard.=<b>[C级] 纲木</b>\r\n量产型库因克. 形似无护手的长剑. 
+<b>[S Rank] Demon Yamada</b>\r\nDemon Yamada is a bikaku-type quinque that takes the form of a long butcher knife. It is made from Demon Yamada's kagune.=<b>[S级] 鬼·山田</b>\r\n鬼·山田为尾赫库因克，形似长屠刀. 由鬼·山田的赫子制成. 
+<b>[S Rank] Kuroiwa Special</b>\r\nKuroiwa Special is a rinkaku-type quinque wielded by Iwao Kuroiwa. Press F to create a protective shield.=<b>[S级] 黑岩特制</b>\r\n黑岩特制为黑岩岩所持有的鳞赫库因克. 按F键可生成防护盾. 
+<b>[S+ Rank] Hollow</b>\r\nHollow is an Ukaku-type Quinque, which is wrapped around the arm and thus obtains the possibility of firing high-power projectiles that embed themselves in their target and detonate after a chorus in a powerful explosion after a few moments.=<b>[S+级] 虚空</b>\r\n虚空为羽赫库因克，缠绕于手臂上，可发射高威力弹丸嵌入目标，经过短暂延迟后引发强力爆炸. 
+<b>[S+ Rank] IXA</b>\r\nA powerful koukaku quinque wielded by Arima.\nMode 1 (Spikes): Press F to summon ground spikes.\nMode 2 (Shield): Creates a pixel-shield nearby.\nUse 'Switch IXA Mode' to change modes.=<b>[S+级] IXA</b>\r\n有马所持有的强力甲赫库因克. \n模式1（尖刺）：按F键召唤地刺. \n模式2（护盾）：在附近生成像素护盾. \n使用“切换IXA模式”来切换模式. 
+<b>[Serum] Half-Human Serum</b>\r\nA serum containing genetic material from the Sunlit Garden experiments. Select the desired Half-Human type on the spawned syringe before injection.=<b>[血清] 半人类血清</b>\r\n含有“向阳庭”实验遗传物质的血清. 注射前，在生成的注射器上选择所需的半人类类型. 
+<b>[SS Rank] Chi She</b>\r\nA koukaku-type quinque that has a large straight blade and a curved guard, somewhat resembling a pole axe.=<b>[SS级] 赤蛇</b>\r\n甲赫库因克，带有宽大直刃和弯曲护手，外形略似钺戟. 
+<b>[SS Rank] Doujima</b>\r\nDoujima 1/2 was repaired by Akira Mado and Kouitsu Chigyou using the Bin brothers' kagune, taking the form of a spear with a conical lance-like head. For additional offensive power, the bikaku kagune of the Bin brothers can be projected from the spearhead, spiraling around it in a drill-like manner.=<b>[SS级] 堂岛</b>\r\n堂岛1/2经由真户晓和地行甲乙使用“瓶”兄弟的赫子修复，呈锥形枪头长矛形态. 可额外从枪尖释放“瓶”兄弟的尾赫，如钻头般螺旋缠绕增强攻击力. 
+<b>[SS Rank] Jason13</b>\r\nRinkaku quinque that takes the form of a square and jagged scythe and has an L-shaped blade with a sharp tip. It was created from Yamori's kakuhou and its final form was designed by Kouitsu Chigyou of the CCG Laboratory Division.=<b>[SS级] 杰森13</b>\r\n鳞赫库因克，呈方形锯齿镰刀形态，带有L型利刃和尖锐尖端. 由“壁虎”的赫包制成，最终形态由CCG实验课的地行甲乙设计. 
+<b>[SS Rank] Kajiri</b>\r\nA unique quinque with a double-bladed design. Press F to shoot crystals.=<b>[SS级] 梶理</b>\r\n独特的双刃型库因克. 按F键发射结晶. 
+<b>[SSS Rank] Narukami</b>\r\nNarukami is an ukaku-type quinque with a firing rate of four firing patterns. It has a great range but only limited ammunition capacity. Created from the kakuhou of an SSS rated ghoul.=<b>[SSS级] 鸣神</b>\r\n鸣神为羽赫库因克，拥有四种射击模式. 射程极远但弹容量有限. 由SSS级喰种的赫包制成. 
+<b>[SSS Rank] Owl Quinque</b>\r\nA quinque owned by Arima and created from a kakuhou torn out during his battle with the Non-Killing Owl. It is the only known example of an SSS-rated quinque, and the only one known to be created from a living ghoul.=<b>[SSS级] 枭·库因克</b>\r\n有马所持有的库因克，由与“不杀之枭”战斗中夺取的赫包制成. 是已知唯一的SSS级库因克，也是唯一已知由活体喰种制成的库因克. 
+<b><color%3D#6F1C1C>RC Cell [Owl]</color></b>\r\nYoshimura preset. Starts at rank SSS with Owl full kakuja available.=<b><color%3D#6F1C1C>RC细胞 [枭]</color></b>\r\n芳村预设. 初始SSS级，可使用枭·完整赫者形态. 
+<b><color%3D#9966CC>RC Cell [Tsukiyama]</color></b>\r\nShuu Tsukiyama preset. Starts at rank S with a Koukaku ghoul kagune.=<b><color%3D#9966CC>RC细胞 [月山]</color></b>\r\n月山习预设. 初始S级，甲赫喰种赫子. 
+<b><color%3D#9B111E>RC Cell [Noro]</color></b>\r\nNoro preset. Starts at rank SSS with extreme durability and Noro bikaku.=<b><color%3D#9B111E>RC细胞 [诺罗]</color></b>\r\n诺罗预设. 初始SSS级，拥有极高耐久度与诺罗式尾赫. 
+<b><color%3D#9FB7B8>CRC Gas Grenade</color></b>\r\nDeploys a CRC cloud. Ghouls inside cannot regenerate or activate Kagune.=<b><color%3D#9FB7B8>CRC瓦斯手雷</color></b>\r\n释放CRC气体云. 处于其中的喰种无法再生或激活赫子. 
+<b><color%3D#A54CFF>RC Cell [Ayato]</color></b>\r\nAyato Kirishima preset. Starts at rank S with anime-colored ukaku wings and crystal attacks.=<b><color%3D#A54CFF>RC细胞 [绫人]</color></b>\r\n雾岛绫人预设. 初始S级，动画配色羽赫双翼，可进行结晶攻击. 
+<b><color%3D#B08A62>Anteiku Coffee</color></b>\r\nA bitter cup from Anteiku. Calms Madness and memory pressure.=<b><color%3D#B08A62>古董咖啡</color></b>\r\n来自古董的一杯苦咖啡. 可安抚疯狂与记忆压力. 
+<b><color%3D#B14B32>Ghoul Meat</color></b>\r\nA compact meat source for ghouls. Touch a ghoul to fully restore hunger.=<b><color%3D#B14B32>喰种肉</color></b>\r\n便携式喰种肉源. 触碰喰种即可完全恢复饥饿值. 
+<b><color%3D#B8B8B8>RC Suppressant Syringe</color></b>\r\nSuppresses ghoul regeneration, Kagune, and Kakuja for 30 seconds.=<b><color%3D#B8B8B8>RC抑制注射器</color></b>\r\n30秒内抑制喰种的再生、赫子与赫者化能力. 
+<b><color%3D#C43A3A>RC Cell [Jason]</color></b>\r\nRinkaku preset of Yamori. Starts at rank S with two oversized tentacles and Jason half-kakuja lineage.=<b><color%3D#C43A3A>RC细胞 [杰森]</color></b>\r\n“壁虎”鳞赫预设. 初始S级，拥有两根巨大触手及杰森半赫者谱系. 
+<b><color%3D#CC6633>RC Cell [Bin]</color></b>\r\nBin brothers preset. Starts at rank S with Bin bikaku and no kakuja forms.=<b><color%3D#CC6633>RC细胞 [瓶]</color></b>\r\n“瓶”兄弟预设. 初始S级，持有“瓶”式尾赫，无赫者形态. 
+<b><color%3D#D8D8D8>Enable/Disable Hunger</color></b>\r\nUse to toggle ghoul hunger globally. Press F to toggle.=<b><color%3D#D8D8D8>启用/禁用饥饿</color></b>\r\n用于全局切换喰种饥饿状态. 按F键切换. 
+<b><color%3D#D95B5B>RC Cell [Nishio]</color></b>\r\nNishio preset. Starts at rank A with Nishio bikaku.=<b><color%3D#D95B5B>RC细胞 [西尾]</color></b>\r\n西尾预设. 初始A级，持有西尾式尾赫. 
+<b><color%3D#D9D3C3>CCG Application</color></b>\r\nTurns a human into a Rank 3 CCG investigator on contact.=<b><color%3D#D9D3C3>CCG入职申请书</color></b>\r\n触碰后使人类成为三等CCG搜查官. 
+<b><color%3D#E44747>Kakuja Unlock Pill</color></b>\r\nA capsule containing highly concentrated RC cells and mutation catalysts. Upon ingestion, it triggers a sharp RC surge and activates Kakuja mode.=<b><color%3D#E44747>赫者解锁药丸</color></b>\r\n含有高浓度RC细胞与变异催化剂的胶囊. 服用后将引发RC剧烈激增，激活赫者模式. 
+<b><color%3D#E6DFC9>Promotion Document</color></b>\r\nPromotes a CCG investigator by one rank on contact.=<b><color%3D#E6DFC9>晋升文件</color></b>\r\n触碰后使CCG搜查官晋升一级. 
+<b><color%3D#F25AA8>RC Cell [Rize]</color></b>\r\nRize Kamishiro preset. Starts at rank SS with Ken-style rinkaku and Kaneki kakuja lineage.=<b><color%3D#F25AA8>RC细胞 [利世]</color></b>\r\n神代利世预设. 初始SS级，拥有金木式鳞赫及金木赫者谱系. 
+<b><color%3D#FF6A4A>RC Cell [Tatara]</color></b>\r\nTatara preset. Starts at rank SSS with Tatara bikaku.=<b><color%3D#FF6A4A>RC细胞 [多多良]</color></b>\r\n多多良预设. 初始SSS级，多多良式尾赫. 
+<b><color%3D#FF7042>RC Cell [Touka]</color></b>\r\nTouka Kirishima preset. Starts at rank A with crimson ukaku wings.=<b><color%3D#FF7042>RC细胞 [董香]</color></b>\r\n雾岛董香预设. 初始A级，深红羽赫双翼. 
+<b><color%3D#FF92C2>RC Cell [Kosatka]</color></b>\r\nKosatka preset. Starts at rank SS with reinforced body proportions and tougher limbs.=<b><color%3D#FF92C2>RC细胞 [虎鲸]</color></b>\r\n虎鲸预设. 初始SS级，强化体魄与更坚韧的四肢. 
+<b><color%3D#FFB347>RC Booster</color></b>\r\nAdds 1000 RC cells to a ghoul or half-ghoul on contact.=<b><color%3D#FFB347>RC增幅剂</color></b>\r\n触碰后为喰种或半喰种增加1000个RC细胞. 
+<b><color%3Dblue>RC Cell [Koukaku]</color></b>\r\nA living RC cell cluster of the Koukaku type. Touch it to a human to transform them into a Koukaku ghoul.=<b><color%3Dblue>RC细胞 [甲赫]</color></b>\r\n甲赫型活体RC细胞集群. 触碰人类可将其转化为甲赫喰种. 
+<b><color%3Dgreen>RC Cell [Bikaku]</color></b>\r\nA living RC cell cluster of the Bikaku type. Touch it to a human to transform them into a Bikaku ghoul.=<b><color%3Dgreen>RC细胞 [尾赫]</color></b>\r\n尾赫型活体RC细胞集群. 触碰人类可将其转化为尾赫喰种. 
+<b><color%3Dorange>RC Cell [Ukaku]</color></b>\r\nA living RC cell cluster of the Ukaku type. Touch it to a human to transform them into an Ukaku ghoul.=<b><color%3Dorange>RC细胞 [羽赫]</color></b>\r\n羽赫型活体RC细胞集群. 触碰人类可将其转化为羽赫喰种. 
+<b><color%3Dred>RC Cell [Rinkaku]</color></b>\r\nA living RC cell cluster of the Rinkaku type. Touch it to a human to transform them into a Rinkaku ghoul.=<b><color%3Dred>RC细胞 [鳞赫]</color></b>\r\n鳞赫型活体RC细胞集群. 触碰人类可将其转化为鳞赫喰种. 
+<b><color%3Dsilver>Scalpel</color></b>\r\nA CCG surgical scalpel. Hit a ghoul to extract their Kakuho organ.=<b><color%3Dsilver>手术刀</color></b>\r\nCCG手术刀. 击中喰种可提取其赫包器官. 
 Enable Quinque=启用库因克
 Disable Quinque=禁用库因克
 Set: Normal=设置：普通
@@ -9714,7 +9692,7 @@ Inject Kaiko Half-Human serum=注射介子半人类血清
 Enable Quinque=启用库因克
 Disable Quinque=禁用库因克
 Split/Merge Kura=分离/合并 仓
-Split or merge the blade.=分离或合并刀刃。
+Split or merge the blade.=分离或合并刀刃. 
 No matter what form I take...=无论我化身为何种形态……
 
 
@@ -9727,7 +9705,150 @@ No matter what form I take...=无论我化身为何种形态……
 
 //186*上帝方块重制版_God Cube Remake
 God Cube Remake=上帝方块重制版
-<b> <size%3D200%><color%3D#FF00D5>G<color%3D#B300FF>o<color%3D#7700FF>d <color%3D#3300FF>C<color%3D#001AFF>u<color%3D#005EFF>b<color%3D#00B3FF>e</b>\r\n<size%3D100%>Drag onto someones head to give them Gods powers. \n-Flight: activate lower body \n-Energy Blast: activate hands to shoot energy blasts, hold H to make them follow the mouse.=<b><size%3D200%><color%3D#FF00D5>上<color%3D#B300FF>帝<color%3D#7700FF><color%3D#3300FF>方<color%3D#001AFF>块</b>\r\n<size%3D100%>拖到某人头上，赋予他们神的力量。\n-飞行：激活下半身 \n-能量爆破：激活双手发射能量弹，按住H使其跟随鼠标.
+<b> <size%3D200%><color%3D#FF00D5>G<color%3D#B300FF>o<color%3D#7700FF>d <color%3D#3300FF>C<color%3D#001AFF>u<color%3D#005EFF>b<color%3D#00B3FF>e</b>\r\n<size%3D100%>Drag onto someones head to give them Gods powers. \n-Flight: activate lower body \n-Energy Blast: activate hands to shoot energy blasts, hold H to make them follow the mouse.=<b><size%3D200%><color%3D#FF00D5>上<color%3D#B300FF>帝<color%3D#7700FF><color%3D#3300FF>方<color%3D#001AFF>块</b>\r\n<size%3D100%>拖到某人头上，赋予他们神的力量. \n-飞行：激活下半身 \n-能量爆破：激活双手发射能量弹，按住H使其跟随鼠标.
 <i><size%3D150%><color%3Dpurple>Human now contains a fraction of god's power...=<i><size%3D150%><color%3Dpurple>人类现在拥有了一丝上帝的力量……
 Toggle Energy Blast=切换能量爆破
 Toggle Energy Blast.=切换能量爆破.
+
+
+
+
+
+
+
+
+
+//189*传说之下重制版2.0_Soul Mod Rewrite [2.0.0]
+<noparse>Soul Mod Rewrite [2.0.0]</noparse>=<noparse>灵魂模组重制版 [2.0.0]</noparse>
+Adds humans with SOULs from UNDERTALE. Select me and read the description for more details! ------>>=添加了来自《传说之下》的拥有灵魂的人类. 选择我并阅读描述以了解更多详情！------>>
+<size%3D1.5em>Soul Mod Rewrite [2.0.0]</size>\n<align%3D"center"><size%3D200%><b>SOUL MOD REWRITE</align></size></b>\r\n\r\nThis mod is a rewrite of my old mod that was made a long long time ago. Using my newly found skills, and my determination, I created this.\r\n\r\n<align%3D"center"><size%3D150%><b>MAIN FEATURES</b></align></size>\r\n\r\nAdds humans with different SOULs, with customizable colors in the context menu.\r\n\r\nFUN values were removed.\r\n\r\nIf a human's SOUL is <b>not</b> white, they have the ability to <color%3D"yellow">SAVE</color>, <color%3D"yellow">LOAD</color>, and <color%3D"yellow">RESET</color>.\r\nWhite SOULs cannot do anything. When it dies, it will fade into dust, leaving no trace of existing.\r\nNon-white SOULs have a chance to refuse their SOUL upon death. White SOULs cannot do this.\r\n<color%3D"red">RED</color> SOULs can sometimes be extremely determined, and will resist death.\r\nYou are able to manually <color%3D"red">REFUSE</color> any non-white SOUL that is cracked via the context menu.\r\nYou can adjust the chance that humans refuse via the context menu. (1 - 100) The number chosen will be a 1 in ## chance to refuse.\r\n\r\nUsing the context menu, you can rip SOULs from humans and put them into other humans or SOUL containers.\r\n\r\n<align%3D"center"><b><size%3D100%>CREDITS</b></align></size>\r\nOriginal Mod, Sprites ------ ME because I made it.\r\nSounds, Ideas, Sprite Bases ------ UNDERTALE\r\nIdeas, Sounds ------ UNDERTALE <color%3D"yellow">YELLOW</color>\r\n\r\nArmor Structure ------ weirdo's Functioning Armor\r\nDisplay Text Font Source ------ MaxDux and QuanGPT's Chatterbox Mod=<size%3D1.5em>灵魂模组重制版 [2.0.0]</size>\n<align%3D"center"><size%3D200%><b>灵魂模组重制版</align></size></b>\r\n\r\n这个模组是我很久以前制作的旧模组的重制版. 运用我新学到的技能和我的决心，我创造了这个模组. \r\n\r\n<align%3D"center"><size%3D150%><b>主要特性</b></align></size>\r\n\r\n添加了拥有不同灵魂的人类，可在上下文菜单中自定义颜色. \r\n\r\nFUN值已被移除. \r\n\r\n如果人类的灵魂<b>不是</b>白色的，他们就有能力<color%3D"yellow">保存</color>、<color%3D"yellow">读取</color>和<color%3D"yellow">重置</color>. \r\n白色灵魂无法做任何事情. 当其死亡时，会化为尘埃，不留任何存在痕迹. \r\n非白色灵魂在死亡时有几率拒绝死亡. 白色灵魂无法做到这一点. \r\n<color%3D"red">红色</color>灵魂有时会极其坚定，并能抵抗死亡. \r\n你可以通过上下文菜单手动<color%3D"red">拒绝</color>任何已碎裂的非白色灵魂. \r\n你可以通过上下文菜单调整人类拒绝的几率. （1 - 100）所选数字将成为 ## 分之一（1 in ##）的拒绝几率. \r\n\r\n使用上下文菜单，你可以从人类身上撕下灵魂并将其放入其他人类或灵魂容器中. \r\n\r\n<align%3D"center"><b><size%3D100%>致谢</b></align></size>\r\n原始模组、精灵图 ------ 我本人，因为我制作了它. \r\n音效、创意、精灵图基础 ------ 《传说之下》\r\n创意、音效 ------ 《传说之下<color%3D"yellow">黄色</color>》\r\n\r\n铠甲结构 ------ weirdo的Functioning Armor\r\n显示文本字体来源 ------ MaxDux和QuanGPT的Chatterbox Mod
+
+
+<b>Soul Mod Rewrite</b>\r\nContains humans with SOULs, prop SOULs, and weapons from UNDERTALE and UNDERTALE YELLOW.=<b>灵魂模组重制版</b>\r\n包含来自《传说之下》和《传说之下黄色》的拥有灵魂的人类、道具灵魂和武器. 
+
+<b>Human with <color%3Dred>DETERMINATION</color></b>\r\nA human with the soul trait "<color%3Dred>DETERMINATION</color>". This human will do <b>ANYTHING</b> to get what they want, no matter what happens. It is always conscious, has better healing, health, and resistance.=<b>拥有<color%3Dred>决心</color>的人类</b>\r\n一个拥有“<color%3Dred>决心</color>”灵魂特质的人类. 无论发生什么，这个人类都会<b>不惜一切代价</b>去得到他们想要的. 它始终保持着意识，拥有更好的治疗、生命值和抗性. 
+
+<b>Monster</b>\r\nA monster with a monster SOUL. It cannot do anything special unless it absorbs a human SOUL.=<b>怪物</b>\r\n一个拥有怪物灵魂的怪物. 除非它吸收了一个人类的灵魂，否则它无法做任何特别的事情. 
+
+<b>SOUL Toggler</b>\r\nSpawn this to make any other entity that spawns have a SOUL. Spawn it again to de-activate this.=<b>灵魂切换器</b>\r\n生成此物可使任何其他生成的实体拥有灵魂. 再次生成它可停用此功能. 
+
+<b>SOUL Container</b>\r\nTouching a SOUL with this machine will hold it until activation.=<b>灵魂容器</b>\r\n用此机器触摸灵魂，它会将灵魂保存起来，直到被激活. 
+
+<b>Gaster Blaster</b>\r\nActivate it to fire it. It will freeze in mid-air and fall back to the ground after it is done firing.=<b>龙骨炮</b>\r\n激活它来发射. 发射过程中会悬浮在半空中，发射完成后会落回地面. 
+
+<b>Human with <color%3D#E67F00>BRAVERY</color></b>\r\nA human with the soul trait "<color%3D#E67F00>BRAVERY</color>". This human is ready for anything and can tough anything out. Its health and vitality is twice as strong as a normal human.=<b>拥有<color%3D#E67F00>勇气</color>的人类</b>\r\n一个拥有“<color%3D#E67F00>勇气</color>”灵魂特质的人类. 这个人类时刻准备着面对任何事情，并能承受一切. 其生命值和活力是普通人的两倍. 
+
+<b>Human with <color%3Dblue>INTEGRITY</color></b>\r\nA human with the soul trait "<color%3Dblue>INTEGRITY</color>". This human will always be ready for anything. It will always have adrenaline.=<b>拥有<color%3Dblue>正直</color>的人类</b>\r\n一个拥有“<color%3Dblue>正直</color>”灵魂特质的人类. 这个人类永远准备好面对一切. 它始终处于肾上腺素激发的状态. 
+
+<b>Human with <color%3Dyellow>JUSTICE</color></b>\r\nA human with the soul trait "<color%3Dyellow>JUSTICE</color>". When this human's SOUL is in its <b>physical state</b>, it can be activated to fire electric bullets. It can be charged up to fire an even larger one.=<b>拥有<color%3Dyellow>正义</color>的人类</b>\r\n一个拥有“<color%3Dyellow>正义</color>”灵魂特质的人类. 当这个人类的灵魂处于<b>物理状态</b>时，可以激活它以发射电击子弹. 还可以蓄力发射威力更大的子弹. 
+
+<b>Human with <color%3Dgreen>KINDNESS</color></b>\r\nA human with the soul trait "<color%3Dgreen>KINDNESS</color>". This human is always nice to others, and to itself. It will have a slight healing boost.=<b>拥有<color%3Dgreen>仁慈</color>的人类</b>\r\n一个拥有“<color%3Dgreen>仁慈</color>”灵魂特质的人类. 这个人类总是善待他人，也善待自己. 它拥有轻微的治疗加成. 
+
+<b>Human with <color%3D#00BFFF>PATIENCE</color></b>\r\nA human with the soul trait "<color%3D#00BFFF>PATIENCE</color>". This human is always calm and composed. Its bloodflow will be more controlled than the average human.=<b>拥有<color%3D#00BFFF>耐心</color>的人类</b>\r\n一个拥有“<color%3D#00BFFF>耐心</color>”灵魂特质的人类. 这个人类总是沉着冷静. 其血液流动比普通人更受控制. 
+
+<b>Human with <color%3D#E670FF>PERSEVERANCE</color></b>\r\nA human with the soul trait "<color%3D#E670FF>PERSEVERANCE</color>". Similar to DETERMINATION, this human will always want to keep going with trial and error. It will always stay conscious no matter what.=<b>拥有<color%3D#E670FF>毅力</color>的人类</b>\r\n一个拥有“<color%3D#E670FF>毅力</color>”灵魂特质的人类. 与决心类似，这个人类总是想要在反复试错中坚持下去. 无论发生什么，它始终都会保持意识. 
+
+<b><color%3Dblue>Ballet Shoes</color></b>\r\nUsed ballet shoes.=<b><color%3Dblue>芭蕾舞鞋</color></b>\r\n用过的芭蕾舞鞋. 
+
+<b><color%3Dgreen>Burnt Pan</color></b>\r\nPan. Can reduce the intensity and stop most bullets.=<b><color%3Dgreen>烧焦的平底锅</color></b>\r\n平底锅. 可以降低强度并阻挡大部分子弹. 
+
+<b>Damaging Bone</b>\r\nA bone that damages humans for every frame it is being touched. Toggle the mode in the context menu to change it to Damaging, Blue, or Orange.=<b>伤害之骨</b>\r\n一种每帧都会伤害与之接触的人类的骨头. 在上下文菜单中切换模式可将其更改为伤害、蓝色或橙色. 
+
+<b>Dog Residue</b>\r\nActivate it 15 times for a special surprise.=<b>狗残留物</b>\r\n激活15次可获得一个特别的惊喜. 
+
+<b><color%3Dred>Real Knife</color></b>\r\nHere we are! Can stab anything.=<b><color%3Dred>真正的刀</color></b>\r\n我们到了！能刺穿任何东西. 
+
+<b><color%3D#ffff00>Wild Revolver</color></b>\r\nAn antique revolver.=<b><color%3D#ffff00>荒野左轮</color></b>\r\n一把古董左轮手枪. 
+
+<b>Sharp Bone</b>\r\nA sharp bone. Stabs.=<b>锋利之骨</b>\r\n一根锋利的骨头. 用于刺击. 
+
+<b>Undyne's Spear</b>\r\nA spear made of magic. It is wielded by the Royal Guard of the Underground, Undyne.=<b>安黛因的矛</b>\r\n一把由魔法制成的矛. 由地下王国的皇家卫兵安黛因所 wielded. 
+
+<b><color%3Dred>Stick</color></b>\r\nIts bark is worse than its bite.=<b><color%3Dred>树枝</color></b>\r\n它的树皮比它的咬人还厉害. 
+
+<b><color%3Dpurple>Torn Notebook</color></b>\r\nContains illegible scrawls. When a human holds this upon activating it (F), it will make the human temporarily invincible for 3 seconds.=<b><color%3Dpurple>破旧笔记本</color></b>\r\n包含难以辨认的潦草字迹. 当人类拿着它并激活时（F），会使持有者在3秒内暂时无敌. 
+
+<b><color%3Dorange>Tough Glove</color></b>\r\nWorn pink leather gloves.=<b><color%3Dorange>坚韧手套</color></b>\r\n磨损的粉色皮手套. 
+
+<b><color%3D#00ffff>"Toy" Knife</color></b>\r\nMade of plastic. Not a rarity nowadays.=<b><color%3D#00ffff>“玩具”刀</color></b>\r\n由塑料制成. 如今已不算稀罕物. 
+
+<b><color%3D#ffff00>Trashcan Lid Shield</color></b>\r\nCounts more as a weapon than a real gun.=<b><color%3D#ffff00>垃圾桶盖盾</color></b>\r\n与其说是真正的枪，不如说更像武器. 
+
+<b>Asgore's Trident</b>\r\nA large red trident, wielded by the King of the Underground, <color%3Dred>ASGORE</color>.=<b>艾斯戈尔的三叉戟</b>\r\n一把巨大的红色三叉戟，由地下王国的国王<color%3Dred>艾斯戈尔</color> wielded. 
+
+<b><color%3D#FF7F00>Bravery</color></b>\r\nA fragile human soul representing the attribute <color%3D#FF7F00>"Bravery"</color>.=<b><color%3D#FF7F00>勇气</color></b>\r\n一个脆弱的人类灵魂，代表着“<color%3D#FF7F00>勇气</color>”这一特质. 
+
+<b><color%3Dred>Determination.</color></b>\r\nA fragile human soul representing the attribute <color%3Dred>"DETERMINATION"</color>.=<b><color%3Dred>决心</color></b>\r\n一个脆弱的人类灵魂，代表着“<color%3Dred>决心</color>”这一特质. 
+
+<b><color%3Dblue>Integrity</color></b>\r\nA fragile human soul representing the attribute <color%3Dblue>"Integrity"</color>.=<b><color%3Dblue>正直</color></b>\r\n一个脆弱的人类灵魂，代表着“<color%3Dblue>正直</color>”这一特质. 
+
+<b><color%3Dyellow>Justice</color></b>\r\nA fragile human soul representing the attribute <color%3Dyellow>"Justice"</color>. (F) to shoot. Hold the activation button to charge up and fire a [[BIG SHOT]].=<b><color%3Dyellow>正义</color></b>\r\n一个脆弱的人类灵魂，代表着“<color%3Dyellow>正义</color>”这一特质. （F）射击. 按住激活键蓄力可发射[[BIG SHOT]]. 
+
+<b><color%3Dgreen>Kindness</color></b>\r\nA fragile human soul representing the attribute <color%3Dgreen>"Kindness"</color>.=<b><color%3Dgreen>仁慈</color></b>\r\n一个脆弱的人类灵魂，代表着“<color%3Dgreen>仁慈</color>”这一特质. 
+
+<b>Monster SOUL</b>\r\nA fragile monster SOUL. Has no attributes.=<b>怪物灵魂</b>\r\n一个脆弱的怪物灵魂. 没有任何特质. 
+
+<b><color%3D#00BFFF>Patience</color></b>\r\nA fragile human soul representing the attribute <color%3D#00BFFF>"Patience"</color>.=<b><color%3D#00BFFF>耐心</color></b>\r\n一个脆弱的人类灵魂，代表着“<color%3D#00BFFF>耐心</color>”这一特质. 
+
+<b><color%3D#E670FF>Perseverance</color></b>\r\nA fragile human soul representing the attribute <color%3D#E670FF>"PERSEVERANCE"</color>.=<b><color%3D#E670FF>毅力</color></b>\r\n一个脆弱的人类灵魂，代表着“<color%3D#E670FF>毅力</color>”这一特质. 
+
+<b>Monster Candy</b>\r\nHas a distinct, non-licorice flavor. Heals 10% HP.=<b>怪物糖果</b>\r\n有一种独特的、非甘草的味道. 恢复10%生命值. 
+
+<b>Spider Doughnut</b>\r\nA donut made with Spider Cider in the batter. Heals 12% HP.=<b>蜘蛛甜甜圈</b>\r\n在面糊中加入了蜘蛛苹果酒的甜甜圈. 恢复12%生命值. 
+
+<b>Butterscotch Pie</b>\r\nButterscotch-cinnamon pie, one slice. Provides a full heal.=<b>奶油糖肉桂派</b>\r\n一片奶油糖肉桂派. 提供完全治疗. 
+
+<b>Snowman Piece</b>\r\nA piece of a snowman. Heals 45% HP.=<b>雪人碎片</b>\r\n雪人的一块碎片. 恢复45%生命值. 
+
+<b>Instant Noodles</b>\r\nInstant ramen. They're better dry. Heals 90% HP.=<b>方便面</b>\r\n速食拉面. 干吃更好吃. 恢复90%生命值. 
+
+<b>Hot Dog...?</b>\r\nThe "meat" is made of something called a "water sausage".. Heals 20% HP.=<b>热狗……？</b>\r\n“肉”是由一种叫做“水香肠”的东西制成的……恢复20%生命值. 
+
+<b>Steak in the Shape of Mettaton's Face</b>\r\nHuge steak in the shape of Mettaton's face. Heals 61% HP.=<b>梅塔顿脸型牛排</b>\r\n巨大的梅塔顿脸型牛排. 恢复61%生命值. 
+SOUL toggler is turned on.=灵魂切换器已开启. 
+SOUL toggler is turned off.=灵魂切换器已关闭. 
+Toggle Blue=切换蓝色
+Toggle the Human's SOUL to red or blue.=将人类的灵魂切换为红色或蓝色. 
+Save the data of the human(s).=保存人类的数据. 
+Load the data of the human(s).=加载人类的数据. 
+Delete the data of the human(s).=删除人类的数据. 
+Remove SOUL=移除灵魂
+Remove the SOUL from this human, making it a physical object.=从该人类身上移除灵魂，使其成为实体物体. 
+Change SOUL colour=改变灵魂颜色
+Change the colour of these SOULS.=改变这些灵魂的颜色. 
+Set tint for selected humans SOUL:=为所选人类的灵魂设置色调：
+Toggle SOUL Visibility=切换灵魂可见性
+Change the visibility of these SOULS.=改变这些灵魂的可见性. 
+Set REFUSE Rate=设置拒绝率
+Set the chance to refuse. 1 means it will always refuse.=设置拒绝的几率. 1表示始终拒绝. 
+Set chance to refuse. (1 in ## chance.)=设置拒绝几率. （1/## 的几率. ）
+* But it refused.=* 但它拒绝了.
+//* But=* 但
+//* 但 it=* 但它
+//* 但它 refused.=* 但它拒绝了.
+Use [IJKL] to change gravity.=使用 [IJKL] 更改重力.
+SAVE=保存
+Set the damage that this Gaster Blaster does. (Default: 60)=设置此龙骨炮冲击波造成的伤害.（默认：60）
+Check armor quality=检查护甲质量
+Check how effective the armor is.=检查护甲的有效性. 
+r:"Armor points (\d+) / (\d+) -- (\d+)% effectiveness"="护甲点数 $1 / $2 -- $3% 有效性"
+Repair armor=修复护甲
+Repairs the armor.=修复护甲. 
+Armor repaired!=护甲已修复！
+Modify durability=修改耐久度
+Modify or disable the durability of the armor.=修改或禁用护甲的耐久度. 
+Input a value for max durability. This will repair the armor.=输入最大耐久度的数值. 这将修复护甲. 
+Disable durability=禁用耐久度
+Modify hardness=修改硬度
+Modify how well the armor can stop bullets.=修改护甲阻挡子弹的能力. 
+r:"Input a value for absorption\. Current absorption is ([\d.]+)"="输入吸收值的数值. 当前吸收值为$1. "
+<b>Set to <color%3Dblue>BLUE</color></b>=<b>设置为<color%3Dblue>蓝色</color></b>
+<b>Set to <color%3Dorange>ORANGE</color></b>=<b>设置为<color%3Dorange>橙色</color></b>
+Set to DAMAGING=设置为伤害模式
+Change the mode of these bones.=更改这些骨头的模式. 
+Set Damage.=设置伤害. 
+Set the damage that this bone does. (Default: 30)=设置此骨头造成的伤害. （默认：30）
+Set Speed Threshold=设置速度阈值
+Set the speed threshold of the objects to meet for this bone to hit.=设置此骨头命中所需满足的对象速度阈值. 
+Set the speed threshold. (Default: 2.5)=设置速度阈值. （默认：2.5）
+
