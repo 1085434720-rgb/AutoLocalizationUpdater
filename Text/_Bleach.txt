@@ -1,0 +1,1902 @@
+﻿//*TF_RC汉化
+Bleach Playground=死神游乐场
+Souls Playground Patreon 2.0 KitKat Edition!=灵魂游乐场框架Patreon2.0破解版
+no yamamoto bankai, very sad=没有山本八幡, 我无疑是悲伤的
+
+<b>Souls Playground 01</b>.=<b>死神游乐场[TF_RC汉化]</b>
+
+//*地图
+
+The Crystal World=内心世界
+Enter The Crystal World=进入内心世界
+Root=下边
+Right=右边
+Floor=上边
+Left=左边
+Has Collision=存在碰撞
+Hosues Count=房屋数量
+Max Floors=最大楼层
+
+//*物品
+
+<b>[SPG 01] Power Ball</b>.=<b>[SPG 01] 崩玉</b>.
+
+<b>[SPG 01]  Ability Picker</b>\r\nFor advanced users. Can cause bugs.<b>=[SPG 01] 能力选择器</b>\r\n适用于高级用户,可能引发错误.
+
+<b>[SPG 01]  Souls Playground Settings</b>\r\nVarious mod settings.=<b>[SPG 01] 死神游乐场设置</b>\r\n各种模组设置
+
+//*人物&简介
+
+<b>Monster [Tier 2]</b>.=<b>虚 [等级2].</b>
+
+<b>Monster Giganto [Tier 3]</b>.=<b>大虚 [等级3].</b>
+
+<b>[SPG 01] Aizen Sosuke</b>\r\nEnergy : <color%3D#FF59C2FF>300000</color>  |  Energy Throughput : <color%3D#FF59C2FF>2000</color>\nPhysical : <color%3D#FF59C2FF>3000</color>  |  Speed : <color%3D#FF59C2FF>2000</color>\n[MP] : <color%3D#FF59C2FF>2000</color> | [AM] : <color%3D#00FF00FF>999</color> | [DM] : <color%3D#00FF00FF>999</color> | [HM] : <color%3D#00FF00FF>999</color>\nState : [Soul]  |  [AC] : <color%3D#41138CFF>COLOR</color>.=<b>[SPG 01] 蓝染惣右介</b>\n能量 : <color%3D#FF59C2FF>300000</color> | 能量吞吐量 : <color%3D#FF59C2FF>2000</color>\n肉体 : <color%3D#FF59C2FF>3000</color> | 速度 : <color%3D#FF59C2FF>2000</color>\n[MP] : <color%3D#FF59C2FF>2000</color> | [AM] : <color%3D#00FF00FF>999</color> | [DM] : <color%3D#00FF00FF>999</color> | [HM] : <color%3D#00FF00FF>999</color>\n状态 : [灵魂] | [AC] : <color%3D#41138CFF>COLOR</color>.
+
+<b>[SPG 01] Baraggan Louisenbairn</b>\r\nEnergy : <color%3D#6E9000FF>85000</color>  |  Energy Throughput : <color%3D#49A2A7FF>1050</color>\nPhysical : <color%3D#C670B9FF>1700</color>  |  Speed : <color%3D#38C700FF>780</color>\n[MP] : <color%3D#40BF00FF>750</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#990D0DFF>COLOR</color>.=<b>[SPG 01] 拜勒岗·鲁伊森邦</b>\r\n能量 : <color%3D#6E9000FF>85000</color> | 能量吞吐量 : <color%3D#49A2A7FF>1050</color>\n肉体 : <color%3D#C670B9FF>1700</color> | 速度 : <color%3D#38C700FF>780</color>\n[MP] : <color%3D#40BF00FF>750</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#990D0DFF>COLOR</color>.
+
+<b>[SPG 01] Byakuya Kuchiki</b>\r\nEnergy : <color%3D#AA5500FF>50000</color>  |  Energy Throughput : <color%3D#33CC00FF>800</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#3A3F44FF>COLOR</color>.=<b>[SPG 01] 朽木白哉</b>\r\n能量 : <color%3D#AA5500FF>50000</color> | 能量吞吐量 : <color%3D#33CC00FF>800</color>\n肉体 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#3A3F44FF>COLOR</color>.
+
+<b>[SPG 01] Gin Ichimaru</b>\r\nEnergy : <color%3D#996600FF>60000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#554070FF>COLOR</color>.=<b>[SPG 01] 市丸银</b>\r\n能量 : <color%3D#996600FF>60000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#554070FF>COLOR</color>.
+
+<b>[SPG 01] Grimmjow Jaegerjaquez</b>\r\nEnergy : <color%3D#AA5500FF>50000</color>  |  Energy Throughput : <color%3D#5DA200FF>635</color>\nPhysical : <color%3D#838BB0FF>1350</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#59A600FF>650</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#004FA4FF>COLOR</color>.=<b>[SPG 01] 葛力姆乔·贾卡杰克</b>\r\n能量 : <color%3D#AA5500FF>50000</color> | 能量吞吐量 : <color%3D#5DA200FF>635</color>\n肉体 : <color%3D#838BB0FF>1350</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#59A600FF>650</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#004FA4FF>COLOR</color>.
+
+<b>[SPG 01] Hichigo</b>\r\nEnergy : <color%3D#CC3300FF>30000</color>  |  Energy Throughput : <color%3D#669900FF>600</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 虚白</b>\r\n能量 : <color%3D#CC3300FF>30000</color> | 能量吞吐量 : <color%3D#669900FF>600</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#4D0000FF>COLOR</color>.
+
+<b>[SPG 01] Hitsugaya Toshiro</b>\r\nEnergy : <color%3D#BB4400FF>40000</color>  |  Energy Throughput : <color%3D#619E00FF>620</color>\nPhysical : <color%3D#838BB0FF>1350</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#4CB200FF>700</color> | [AM] : <color%3D#40BF00FF>750</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#B04F00FF>310</color>\nState : [Soul]  |  [AC] : <color%3D#416181FF>COLOR</color>.=<b>[SPG 01] 日番谷冬狮郎</b>\r\n能量 : <color%3D#BB4400FF>40000</color> | 能量吞吐量 : <color%3D#619E00FF>620</color>\n肉体 : <color%3D#838BB0FF>1350</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#4CB200FF>700</color> | [AM] : <color%3D#40BF00FF>750</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#B04F00FF>310</color>\n状态 : [灵魂] | [AC] : <color%3D#416181FF>COLOR</color>.
+
+<b>[SPG 01] Ichigo</b>\r\nEnergy : <color%3D#D42A00FF>25000</color>  |  Energy Throughput : <color%3D#669900FF>600</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#2D4E61FF>COLOR</color>.=<b>[SPG 01] 黑崎一护</b>\r\n能量 : <color%3D#D42A00FF>25000</color> | 能量吞吐量 : <color%3D#669900FF>600</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#2D4E61FF>COLOR</color>.
+
+<b>[SPG 01] Kaname Tousen</b>\r\nEnergy : <color%3D#808000FF>75000</color>  |  Energy Throughput : <color%3D#798FAEFF>1300</color>\nPhysical : <color%3D#9086B2FF>1420</color>  |  Speed : <color%3D#539EA9FF>1100</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#619E00FF>620</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\nState : [Soul]  |  [AC] : <color%3D#B266B2FF>COLOR</color>.=<b>[SPG 01] 东仙要</b>\r\n能量 : <color%3D#808000FF>75000</color> | 能量吞吐量 : <color%3D#798FAEFF>1300</color>\n肉体 : <color%3D#9086B2FF>1420</color> | 速度 : <color%3D#539EA9FF>1100</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#619E00FF>620</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\n状态 : [灵魂] | [AC] : <color%3D#B266B2FF>COLOR</color>.
+
+<b>[SPG 01] Kenpachi Zaraki</b>\r\nEnergy : <color%3D#669900FF>90000</color>  |  Energy Throughput : <color%3D#9F7FB4FF>1500</color>\nPhysical : <color%3D#FF59C2FF>2125</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#E61A00FF>100</color> | [DM] : <color%3D#D92600FF>150</color> | [HM] : <color%3D#E61A00FF>100</color>\nState : [Soul]  |  [AC] : <color%3D#FFB41AFF>COLOR</color>.=<b>[SPG 01] 更木剑八</b>\r\n能量 : <color%3D#669900FF>90000</color> | 能量吞吐量 : <color%3D#9F7FB4FF>1500</color>\n肉体 : <color%3D#FF59C2FF>2125</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#E61A00FF>100</color> | [DM] : <color%3D#D92600FF>150</color> | [HM] : <color%3D#E61A00FF>100</color>\n状态 : [灵魂] | [AC] : <color%3D#FFB41AFF>COLOR</color>.
+
+<b>[SPG 01] Kira Izuru</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 吉良伊鹤</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
+
+<b>[SPG 01] Kisuke Urahara</b>\r\nEnergy : <color%3D#778800FF>80000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#B378B7FF>1600</color>  |  Speed : <color%3D#1AE600FF>900</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#40A6A6FF>1000</color> | [DM] : <color%3D#40A6A6FF>1000</color> | [HM] : <color%3D#40A6A6FF>1000</color>\nState : [Soul]  |  [AC] : <color%3D#3D0600FF>COLOR</color>.=<b>[SPG 01] 浦原喜助</b>\r\n能量 : <color%3D#778800FF>80000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n肉体 : <color%3D#B378B7FF>1600</color> | 速度 : <color%3D#1AE600FF>900</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#40A6A6FF>1000</color> | [DM] : <color%3D#40A6A6FF>1000</color> | [HM] : <color%3D#40A6A6FF>1000</color>\n状态 : [灵魂] | [AC] : <color%3D#3D0600FF>COLOR</color>.
+
+<b>[SPG 01] Kyoraku Shunsui</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#941A7BFF>COLOR</color>.=<b>[SPG 01] 京乐春水</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#941A7BFF>COLOR</color>.
+
+<b>[SPG 01] Mayuri Kurotsuchi</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#924273FF>COLOR</color>.=<b>[SPG 01] 涅茧利</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#924273FF>COLOR</color>.
+
+<b>[SPG 01] Orihime Inoue</b>\r\nEnergy : <color%3D#FA0500FF>3000</color>  |  Energy Throughput : <color%3D#CC3300FF>200</color>\nPhysical : <color%3D#808000FF>500</color>  |  Speed : <color%3D#F20D00FF>50</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#3D3900FF>COLOR</color>.=<b>[SPG 01] 井上织姬</b>\r\n能量 : <color%3D#FA0500FF>3000</color> | 能量吞吐量 : <color%3D#CC3300FF>200</color>\n肉体 : <color%3D#808000FF>500</color> | 速度 : <color%3D#F20D00FF>50</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#3D3900FF>COLOR</color>.
+
+<b>[SPG 01] Rangiku Matsumoto</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 松本乱菊</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
+
+<b>[SPG 01] Renji Abarai</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 阿散井恋次</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
+
+<b>[SPG 01] Rukia Kuchiki</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#40A6A6FF>1000</color>  |  Speed : <color%3D#B24C00FF>300</color>\n[MP] : <color%3D#6B9400FF>580</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\nState : [Soul]  |  [AC] : <color%3D#3A3F44FF>COLOR</color>.=<b>[SPG 01] 朽木露琪亚</b>\r\n能量 : <color%3D#E61A00FF>15000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n肉体 : <color%3D#40A6A6FF>1000</color> | 速度 : <color%3D#B24C00FF>300</color>\n[MP] : <color%3D#6B9400FF>580</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\n状态 : [灵魂] | [AC] : <color%3D#3A3F44FF>COLOR</color>.
+
+<b>[SPG 01] Shinji Hirako</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#9683B2FF>1450</color>  |  Speed : <color%3D#7093ADFF>1250</color>\n[MP] : <color%3D#2ED100FF>820</color> | [AM] : <color%3D#26D900FF>850</color> | [DM] : <color%3D#2ED100FF>820</color> | [HM] : <color%3D#40BF00FF>750</color>\nState : [Soul]  |  [AC] : <color%3D#917131FF>COLOR</color>.=<b>[SPG 01] 平子真子</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n肉体 : <color%3D#9683B2FF>1450</color> | 速度 : <color%3D#7093ADFF>1250</color>\n[MP] : <color%3D#2ED100FF>820</color> | [AM] : <color%3D#26D900FF>850</color> | [DM] : <color%3D#2ED100FF>820</color> | [HM] : <color%3D#40BF00FF>750</color>\n状态 : [灵魂] | [AC] : <color%3D#917131FF>COLOR</color>.
+
+<b>[SPG 01] Stark Coyote</b>\r\nEnergy : <color%3D#669900FF>90000</color>  |  Energy Throughput : <color%3D#7093ADFF>1250</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#2ED100FF>820</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#002485FF>COLOR</color>.=<b>[SPG 01] 史塔克·柯雅泰</b>\r\n能量 : <color%3D#669900FF>90000</color> | 能量吞吐量 : <color%3D#7093ADFF>1250</color>\n肉体 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#2ED100FF>820</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#002485FF>COLOR</color>.
+
+<b>[SPG 01] Tier Harribel</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#25DA00FF>855</color>\nPhysical : <color%3D#9683B2FF>1450</color>  |  Speed : <color%3D#50AF00FF>685</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#EABE2CFF>COLOR</color>.=<b>[SPG 01] 蒂雅·赫丽贝尔</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#25DA00FF>855</color>\n肉体 : <color%3D#9683B2FF>1450</color> | 速度 : <color%3D#50AF00FF>685</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#EABE2CFF>COLOR</color>.
+
+<b>[SPG 01] Ukitake Jushiro</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#39C600FF>775</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#639C00FF>610</color>\nState : [Soul]  |  [AC] : <color%3D#8A8A8AFF>COLOR</color>.=<b>[SPG 01] 浮竹十四郎</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#39C600FF>775</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#639C00FF>610</color>\n状态 : [灵魂] | [AC] : <color%3D#8A8A8AFF>COLOR</color>.
+
+<b>[SPG 01] Ulquiorra Cifer</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#25DA00FF>855</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#00A66AFF>COLOR</color>.=<b>[SPG 01] 乌尔奇奥拉·西法</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#25DA00FF>855</color>\n肉体 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#00A66AFF>COLOR</color>.
+
+<b>[SPG 01] Uryu Ishida</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#7093ADFF>1250</color>  |  Speed : <color%3D#808000FF>500</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#001F39FF>COLOR</color>.=<b>[SPG 01] 石田雨龙</b>\r\n能量 : <color%3D#E61A00FF>15000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n肉体 : <color%3D#7093ADFF>1250</color> | 速度 : <color%3D#808000FF>500</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#001F39FF>COLOR</color>.
+
+<b>[SPG 01] Yamamoto Genryuusai</b>\r\nEnergy : <color%3D#8C87B1FF>210000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#FF59C2FF>5500</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#0DF200FF>950</color> | [AM] : <color%3D#06F900FF>975</color> | [DM] : <color%3D#0DF200FF>950</color> | [HM] : <color%3D#17E800FF>910</color>\nState : [Soul]  |  [AC] : <color%3D#E64C1FFF>COLOR</color>.=<b>[SPG 01] 山本元柳斋</b>\r\n能量 : <color%3D#8C87B1FF>210000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#FF59C2FF>5500</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#0DF200FF>950</color> | [AM] : <color%3D#06F900FF>975</color> | [DM] : <color%3D#0DF200FF>950</color> | [HM] : <color%3D#17E800FF>910</color>\n状态 : [灵魂] | [AC] : <color%3D#E64C1FFF>COLOR</color>.
+
+<b>[SPG 01] Yasutora Sado</b>\r\nEnergy : <color%3D#F00F00FF>9000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#7D8DAFFF>1320</color>  |  Speed : <color%3D#A65900FF>350</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#2D4E61FF>COLOR</color>.=<b>[SPG 01] 茶渡泰虎</b>\r\n能量 : <color%3D#F00F00FF>9000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n肉体 : <color%3D#7D8DAFFF>1320</color> | 速度 : <color%3D#A65900FF>350</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#2D4E61FF>COLOR</color>.
+
+<b>[SPG 01] Yoruichi Shihoin</b>\r\nEnergy : <color%3D#996600FF>60000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#D968BCFF>1800</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#33CC00FF>800</color> | [DM] : <color%3D#33CC00FF>800</color> | [HM] : <color%3D#33CC00FF>800</color>\nState : [Human]  |  [AC] : <color%3D#3D3900FF>COLOR</color>.=<b>[SPG 01] 四枫院夜一</b>\r\n能量 : <color%3D#996600FF>60000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n肉体 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#D968BCFF>1800</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#33CC00FF>800</color> | [DM] : <color%3D#33CC00FF>800</color> | [HM] : <color%3D#33CC00FF>800</color>\n状态 : [人类] | [AC] : <color%3D#3D3900FF>COLOR</color>.
+
+//*右键菜单
+
+Hands: <color%3D#00FF00FF>Enable</color>=手臂: <color%3D#00FF00FF>已开启</color>
+Hands: <color%3D#FF0000FF>Disable</color>=手臂: <color%3D#FF0000FF>已关闭</color>
+Switch Hands=切换手臂
+Switch Hands.=切换手臂.
+
+<color%#FFD800><b>[UNION]</b> Open Abilities Menu=<color%#FFD800><b>[UNION]</b> 打开能力菜单
+<color%#FFD800><b>[UNION]</b> Open Abilities Menu.=<color%#FFD800><b>[UNION]</b> 打开能力菜单.
+
+Anyone can use=任何人都可以使用
+Anyone can use.=任何人都可以使用.
+
+Powerball Menu=崩玉菜单
+Powerball Menu.=崩玉菜单.
+
+Enable Soul Status=<color%3D#00FF00FF>开启灵魂状态
+Disable Soul Status=<color%3D#FF0000FF>关闭灵魂状态
+Switch Soul Status=切换灵魂状态
+Switch Soul Status.=切换灵魂状态.
+
+Change Skin=切换皮肤
+Change Skin.=切换皮肤.
+Skin Changer=皮肤更换器
+
+Change Stage=切换状态
+Change Stage.=切换状态.
+Stage Changer=状态切换器
+
+Enable Instant Step=<color%3D#00FF00FF>开启瞬步
+Disable Instant Step=<color%3D#FF0000FF>关闭瞬步
+Toggle Instant Step=切换瞬步
+Toggle Instant Step.=切换瞬步.(按住头部按下J键瞬步)
+Instant Step Open Menu=<color%3D#FFD800>打开瞬步菜单
+Instant Step Open Menu.=打开瞬步菜单.
+
+Instant Step=<b>瞬步</b>
+Instant Step.=瞬步.
+
+Enable Instant Evasion=<color%3D#00FF00FF>开启瞬间闪避
+Disable Instant Evasion=<color%3D#FF0000FF>关闭瞬间闪避
+Toggle Instant Evasion=切换瞬间闪避
+Toggle Instant Evasion.=切换瞬间闪避.
+Instant Evasion Open Menu=<color%3D#FFD800>打开瞬间闪避菜单
+Instant Evasion Open Menu.=打开瞬间闪避菜单.
+
+Enable Speed Moving=<color%3D#00FF00FF>开启高速移动
+Disable Speed Moving=<color%3D#FF0000FF>关闭高速移动
+Toggle Speed Moving=切换高速移动
+Toggle Speed Moving.=切换高速移动.
+Speed Moving Open Menu=<color%3D#FFD800>打开高速移动菜单
+Speed Moving Open Menu.=打开高速移动菜单.
+
+Enable Fly Ability=<color%3D#00FF00FF>开启飞行能力
+Disable Fly Ability=<color%3D#FF0000FF>关闭飞行能力
+Toggle Fly Ability=切换飞行能力
+Toggle Fly Ability.=切换飞行能力.
+Fly Ability Open Menu=<color%3D#FFD800>打开飞行能力菜单
+Fly Ability Open Menu.=打开飞行能力菜单.
+
+Enable Passive Aura=<color%3D#00FF00FF>开启被动光环
+Disable Passive Aura=<color%3D#FF0000FF>关闭被动光环
+Toggle Passive Aura=切换被动光环
+Toggle Passive Aura.=切换被动光环.
+Passive Aura Open Menu=<color%3D#FFD800>打开被动光环菜单
+Passive Aura Open Menu.=打开被动光环菜单.
+
+Enable Better Durability=<color%3D#00FF00FF>开启更好的耐久性
+Disable Better Durability=<color%3D#FF0000FF>关闭更好的耐久性
+Toggle Better Durability=切换更好的耐久性
+Toggle Better Durability.=切换更好的耐久性.
+Better Durability Open Menu=<color%3D#FFD800>打开更好的耐久性菜单
+Better Durability Open Menu.=打开更好的耐久性菜单.
+
+Enable [HM] Passive Heal=<color%3D#00FF00FF>开启[HM]被动治疗
+Disable [HM] Passive Heal=<color%3D#FF0000FF>关闭[HM]被动治疗
+Toggle [HM] Passive Heal=切换[HM]被动治疗
+Toggle [HM] Passive Heal.=切换[HM]被动治疗.
+[HM] Passive Heal Open Menu=<color%3D#FFD800>打开[HM]被动治疗菜单
+[HM] Passive Heal Open Menu.=打开[HM]被动治疗菜单.
+
+Enable [HM] Passive Regrowth=<color%3D#00FF00FF>开启[HM]被动再生
+Disable [HM] Passive Regrowth=<color%3D#FF0000FF>关闭[HM]被动再生
+Toggle [HM] Passive Regrowth=切换[HM]被动再生
+Toggle [HM] Passive Regrowth.=切换[HM]被动再生.
+[HM] Passive Regrowth Open Menu=<color%3D#FFD800>打开[HM]被动再生菜单
+[HM] Passive Regrowth Open Menu.=打开[HM]被动再生菜单.
+
+Enable Fly Upright=<color%3D#00FF00FF>开启直立飞行
+Disable Fly Upright=<color%3D#FF0000FF>关闭直立飞行
+Toggle Fly Upright=切换直立飞行
+Toggle Fly Upright.=切换直立飞行.
+Fly Upright Open Menu=<color%3D#FFD800>打开垂直飞行菜单
+Fly Upright Open Menu.=打开垂直飞行菜单.
+
+Sakura Garden Menu=樱花园菜单
+
+Enable Lightning Aura=<color%3D#00FF00FF>开启闪电光环
+Disable Lightning Aura=<color%3D#FF0000FF>关闭闪电光环
+Toggle Lightning Aura=切换闪电光环
+Toggle Lightning Aura.=切换闪电光环.
+Lightning Aura Open Menu=<color%3D#FFD800>打开闪电光环菜单
+Lightning Aura Open Menu.=打开闪电光环菜单.
+
+Enable Passive Immortality=<color%3D#00FF00FF>开启被动不朽
+Disable Passive Immortality=<color%3D#FF0000FF>关闭被动不朽
+Toggle Passive Immortality=切换被动不朽
+Toggle Passive Immortality.=切换被动不朽.
+Passive Immortality Open Menu=<color%3D#FFD800>打开被动不朽菜单
+Passive Immortality Open Menu.=打开被动不朽菜单.
+
+Enable Monster Energy Blast=<color%3D#00FF00FF>开启虚闪(大虚)
+Disable Monster Energy Blast=<color%3D#FF0000FF>关闭虚闪(大虚)
+Toggle Monster Energy Blast=切换虚闪(大虚)
+Toggle Monster Energy Blast.=切换虚闪(大虚).
+Monster Energy Blast Open Menu=<color%3D#FFD800>打开虚闪(大虚)菜单
+Monster Energy Blast Open Menu.=打开虚闪(大虚)菜单.
+
+Enable Body Modification=<color%3D#00FF00FF>开启身体改造
+Disable Body Modification=<color%3D#FF0000FF>关闭身体改造
+Toggle Body Modification=切换身体改造
+Toggle Body Modification.=切换身体改造.
+Body Modification Open Menu=<color%3D#FFD800>打开身体改造菜单
+Body Modification Open Menu.=打开身体改造菜单.
+
+Enable False Skin=<color%3D#00FF00FF>开启伪皮
+Disable False Skin=<color%3D#FF0000FF>关闭伪皮
+Toggle False Skin=切换伪皮
+Toggle False Skin.=切换伪皮.
+False Skin Open Menu=<color%3D#FFD800>打开伪皮菜单
+False Skin Open Menu.=打开伪皮菜单.
+
+Change Sword Form=调整刀剑形态
+Change Sword Form.=调整刀剑形态.
+
+Change Mask Form=调整面罩形态
+Change Mask Form.=调整面罩形态.
+
+Enable Hand Throw=<color%3D#00FF00FF>开启手部投掷
+Disable Hand Throw=<color%3D#FF0000FF>关闭手部投掷
+Toggle Hand Throw=切换手部投掷
+Toggle Hand Throw.=切换手部投掷.
+Hand Throw Open Menu=<color%3D#FFD800>打开手部投掷菜单
+Hand Throw Open Menu.=打开手部投掷菜单.
+
+Disable Punch=<color%3D#FF0000FF>关闭打击
+Enable Punch=<color%3D#00FF00FF>开启打击
+Toggle Punch=切换打击.
+Toggle Punch.=切换打击.
+Punch Open Menu=<color%3D#FFD800>打开打击菜单
+Punch Open Menu.=打开打击菜单.
+
+Enable Strong Punch=<color%3D#00FF00FF>开启强力打击
+Disable Strong Punch=<color%3D#FF0000FF>关闭强力打击
+Toggle Strong Punch=切换强力打击
+Toggle Strong Punch.=切换强力打击.
+Strong Punch Open Menu=<color%3D#FFD800>打开强力打击菜单
+Strong Punch Open Menu.=打开强力打击菜单.
+
+Enable Authority Touch=<color%3D#00FF00FF>开启权威之触
+Disable Authority Touch=<color%3D#FF0000FF>关闭权威之触
+Toggle Authority Touch=切换权威之触
+Toggle Authority Touch.=切换权威之触.
+
+Enable Spin Holding=<color%3D#00FF00FF>开启旋转握持
+Disable Spin Holding=<color%3D#FF0000FF>关闭旋转握持
+Toggle Spin Holding=切换旋转握持
+Toggle Spin Holding.=切换旋转握持.
+
+Enable Grip Assistance=<color%3D#00FF00FF>开启握持指向辅助
+Disable Grip Assistance=<color%3D#FF0000FF>关闭握持指向辅助
+Toggle Grip Assistance=切换握持指向辅助
+Toggle Grip Assistance.=切换握持指向辅助.
+
+Enable Item Throw=<color%3D#00FF00FF>开启物品投掷
+Disable Item Throw=<color%3D#FF0000FF>关闭物品投掷
+Toggle Item Throw=切换物品投掷
+Toggle Item Throw.=切换物品投掷.
+
+Enable [AM] Throw 1=<color%3D#00FF00FF>开启[AM]\n破道之一·冲
+Disable [AM] Throw 1=<color%3D#FF0000FF>关闭[AM]\n破道之一·冲
+Toggle [AM] Throw 1=切换[AM]\n破道之一·冲
+Toggle [AM] Throw 1.=切换[AM]\n破道之一·冲.
+[AM] Throw 1 Open Menu=<color%3D#FFD800>打开[AM]\n破道之一·冲菜单
+[AM] Throw 1 Open Menu.=打开[AM]\n破道之一·冲菜单.
+
+Enable [AM] Blast 4=<color%3D#00FF00FF>开启[AM]\n破道之四·白雷
+Disable [AM] Blast 4=<color%3D#FF0000FF>关闭[AM]\n破道之四·白雷
+Toggle [AM] Blast 4=切换[AM]\n破道之四·白雷
+Toggle [AM] Blast 4.=切换[AM]\n破道之四·白雷.
+[AM] Blast 4 Open Menu=<color%3D#FFD800>打开[AM]\n破道之四·白雷菜单
+[AM] Blast 4 Open Menu.=打开[AM]\n破道之四·白雷菜单.
+
+Enable [AM] Enhance 11=<color%3D#00FF00FF>开启[AM]\n破道之十一·缀雷电
+Disable [AM] Enhance 11=<color%3D#FF0000FF>关闭[AM]\n破道之十一·缀雷电
+Toggle [AM] Enhance 11=切换[AM]\n破道之十一·缀雷电
+Toggle [AM] Enhance 11.=切换[AM]\n破道之十一·缀雷电.
+[AM] Enhance 11 Open Menu=<color%3D#FFD800>打开[AM]\n破道之十一·缀雷电菜单
+[AM] Enhance 11 Open Menu.=打开[AM]\n破道之十一·缀雷电菜单.
+
+Enable [AM] Blast 33=<color%3D#00FF00FF>开启[AM]\n破道之三十三·苍火坠
+Disable [AM] Blast 33=<color%3D#FF0000FF>关闭[AM]\n破道之三十三·苍火坠
+Toggle [AM] Blast 33=切换[AM]\n破道之三十三·苍火坠
+Toggle [AM] Blast 33.=切换[AM]\n破道之三十三·苍火坠.
+[AM] Blast 33 Open Menu=<color%3D#FFD800>打开[AM]\n破道之三十三·苍火坠菜单
+[AM] Blast 33 Open Menu.=打开[AM]\n破道之三十三·苍火坠菜单.
+
+Enable [AM] Box 90=<color%3D#00FF00FF>开启[AM]\n破道之九十·黑棺
+Disable [AM] Box 90=<color%3D#FF0000FF>关闭[AM]\n破道之九十·黑棺
+Toggle [AM] Box 90=切换[AM]\n破道之九十·黑棺
+Toggle [AM] Box 90.=切换[AM]\n破道之九十·黑棺.
+[AM] Box 90 Open Menu=<color%3D#FFD800>打开[AM]\n破道之九十·黑棺菜单
+[AM] Box 90 Open Menu.=打开[AM]\n破道之九十·黑棺菜单.
+
+Enable [DM] Restriction 1=<color%3D#00FF00FF>开启[DM]\n缚道之一·塞
+Disable [DM] Restriction 1=<color%3D#FF0000FF>关闭[DM]\n缚道之一·塞
+Toggle [DM] Restriction 1=切换[DM]\n缚道之一·塞
+Toggle [DM] Restriction 1.=切换[DM]\n缚道之一·塞.
+[DM] Restriction 1 Open Menu=<color%3D#FFD800>打开[DM]\n缚道之一·塞菜单
+[DM] Restriction 1 Open Menu.=打开[DM]\n缚道之一·塞菜单.
+
+Enable [DM] Shield 39=<color%3D#00FF00FF>开启[DM]\n缚道之三十九·圆闸扇
+Disable [DM] Shield 39=<color%3D#FF0000FF>关闭[DM]\n缚道之三十九·圆闸扇
+Toggle [DM] Shield 39=切换[DM]\n缚道之三十九·圆闸扇
+Toggle [DM] Shield 39.=切换[DM]\n缚道之三十九·圆闸扇.
+[DM] Shield 39 Open Menu=<color%3D#FFD800>打开[DM]\n缚道之三十九·圆闸扇菜单
+[DM] Shield 39 Open Menu.=打开[DM]\n缚道之三十九·圆闸扇菜单.
+
+Enable [DM] Ray Prison 61=<color%3D#00FF00FF>开启[DM]\n缚道之六十一·六杖光牢
+Disable [DM] Ray Prison 61=<color%3D#FF0000FF>关闭[DM]\n缚道之六十一·六杖光牢
+Toggle [DM] Ray Prison 61=切换[DM]\n缚道之六十一·六杖光牢
+Toggle [DM] Ray Prison 61.=切换[DM]\n缚道之六十一·六杖光牢.
+[DM] Ray Prison 61 Open Menu=<color%3D#FFD800>打开[DM]\n缚道之六十一·六杖光牢菜单
+[DM] Ray Prison 61 Open Menu.=打开[DM]\n缚道之六十一·六杖光牢菜单.
+
+Enable [HM] Heal Magic=<color%3D#00FF00FF>开启[HM]回道
+Disable [HM] Heal Magic=<color%3D#FF0000FF>关闭[HM]回道
+Toggle [HM] Heal Magic=切换[HM]回道
+Toggle [HM] Heal Magic.=切换[HM]回道.
+[HM] Heal Magic Open Menu=<color%3D#FFD800>打开[HM]回道菜单
+[HM] Heal Magic Open Menu.=打开[HM]回道菜单.
+
+Enable [DM] Restriction 9=<color%3D#00FF00FF>开启[DM]\n缚道之九·击
+Disable [DM] Restriction 9=<color%3D#FF0000FF>关闭[DM]\n缚道之九·击
+Toggle [DM] Restriction 9=切换[DM]\n缚道之九·击
+Toggle [DM] Restriction 9.=切换[DM]\n缚道之九·击.
+
+Enable Lightining Manipulation=<color%3D#00FF00FF>开启操控闪电
+Disable Lightining Manipulation=<color%3D#FF0000FF>关闭操控闪电
+Toggle Lightining Manipulation=切换操控闪电
+Toggle Lightining Manipulation.=切换操控闪电.
+Lightining Manipulation Open Menu=<color%3D#FFD800>打开操控闪电菜单
+Lightining Manipulation Open Menu.=打开操控闪电菜单.
+
+Enable Handy Hand=<color%3D#00FF00FF>开启灵巧之手
+Disable Handy Hand=<color%3D#FF0000FF>关闭灵巧之手
+Toggle Handy Hand=切换灵巧之手
+Toggle Handy Hand.=切换灵巧之手.
+Handy Hand Open Menu=<color%3D#FFD800>打开灵巧之手菜单
+Handy Hand Open Menu.=打开灵巧之手菜单.
+
+Enable Tiger Strong Punch=<color%3D#00FF00FF>开启豹王之爪
+Disable Tiger Strong Punch=<color%3D#FF0000FF>关闭豹王之爪
+Toggle Tiger Strong Punch=切换豹王之爪
+Toggle Tiger Strong Punch.=切换豹王之爪.
+Tiger Strong Punch Open Menu=<color%3D#FFD800>打开豹王之爪菜单
+Tiger Strong Punch Open Menu.=打开豹王之爪菜单.
+
+Enable Tiger Claws=<color%3D#00FF00FF>开启虎爪
+Disable Tiger Claws=<color%3D#FF0000FF>关闭虎爪
+Toggle Tiger Claws=切换虎爪
+Toggle Tiger Claws.=切换虎爪.
+Tiger Claws Open Menu=<color%3D#FFD800>打开虎爪菜单
+Tiger Claws Open Menu.=打开虎爪菜单.
+
+Enable [AM] Fire Fist=<color%3D#00FF00FF>开启[AM]火焰拳
+Disable [AM] Fire Fist=<color%3D#FF0000FF>关闭[AM]火焰拳
+Toggle [AM] Fire Fist=切换[AM]火焰拳
+Toggle [AM] Fire Fist.=切换[AM]火焰拳.
+[AM] Fire Fist Open Menu=<color%3D#FFD800>打开[AM]火焰拳菜单
+[AM] Fire Fist Open Menu.=打开[AM]火焰拳菜单.
+
+Enable [AM] Iron Arm=<color%3D#00FF00FF>开启[AM]\n巨人的右臂
+Disable [AM] Iron Arm=<color%3D#FF0000FF>关闭[AM]\n巨人的右臂
+Toggle [AM] Iron Arm=切换[AM]\n巨人的右臂
+Toggle [AM] Iron Arm.=切换[AM]\n巨人的右臂.
+[AM] Iron Arm Open Menu=<color%3D#FFD800>打开[AM]\n巨人的右臂菜单
+[AM] Iron Arm Open Menu.=打开[AM]\n巨人的右臂菜单.
+Edit Iron Arm=编辑铁臂
+Edit Iron Arm.=编辑铁臂.
+
+Enable Monster Blast Base=<color%3D#00FF00FF>开启虚闪
+Disable Monster Blast Base=<color%3D#FF0000FF>关闭虚闪
+Toggle Monster Blast Base=切换虚闪
+Toggle Monster Blast Base.=切换虚闪.
+Monster Blast Base Open Menu=<color%3D#FFD800>打开虚闪菜单
+Monster Blast Base Open Menu.=打开虚闪菜单.
+
+Enable Monster Blast Strong=<color%3D#00FF00FF>开启王虚的闪光
+Disable Monster Blast Strong=<color%3D#FF0000FF>关闭王虚的闪光
+Toggle Monster Blast Strong=切换王虚的闪光
+Toggle Monster Blast Strong.=切换王虚的闪光.
+Monster Blast Strong Open Menu=<color%3D#FFD800>打开王虚的闪光菜单
+Monster Blast Strong Open Menu.=打开王虚的闪光菜单.
+
+Enable Monster Blast Max Potential=<color%3D#00FF00FF>开启黑虚闪
+Disable Monster Blast Max Potential=<color%3D#FF0000FF>关闭黑虚闪
+Toggle Monster Blast Max Potential=切换黑虚闪
+Toggle Monster Blast Max Potential.=切换黑虚闪.
+Monster Blast Max Potential Open Menu=<color%3D#FFD800>打开黑虚闪菜单
+Monster Blast Max Potential Open Menu.=打开黑虚闪菜单.
+
+Enable Better Sharp=<color%3D#00FF00FF>切换成高锋利度
+Switch Sharp=切换高锋利度
+Switch Sharp.=切换高锋利度.
+
+Enable Barrage=<color%3D#00FF00FF>开启连续拳击
+Disable Barrage=<color%3D#FF0000FF>关闭连续拳击
+Toggle Barrage=切换连续拳击
+Toggle Barrage.=切换连续拳击.
+Barrage Open Menu=<color%3D#FFD800>打开连续拳击菜单
+Barrage Open Menu.=打开连续拳击菜单.
+
+Enable Spiritual Pressure=<color%3D#00FF00FF>开启灵压
+Disable Spiritual Pressure=<color%3D#FF0000FF>关闭灵压
+Toggle Spiritual Pressure=切换灵压
+Toggle Spiritual Pressure.=切换灵压.
+Spiritual Pressure Open Menu=<color%3D#FFD800>打开灵压菜单
+Spiritual Pressure Open Menu.=打开灵压菜单.
+
+Enable [DM] Repulsion 8=<color%3D#00FF00FF>开启[DM]\n缚道之八·斥
+Disable [DM] Repulsion 8=<color%3D#FF0000FF>关闭[DM]\n缚道之八·斥
+Toggle [DM] Repulsion 8=切换[DM]\n缚道之八·斥
+Toggle [DM] Repulsion 8.=切换[DM]\n缚道之八·斥.
+[DM] Repulsion 8 Open Menu=<color%3D#FFD800>打开[DM]\n缚道之八·斥菜单
+[DM] Repulsion 8 Open Menu.=打开[DM]\n缚道之八·斥菜单.
+
+Power Ball Evolve=崩玉进化
+
+Enable Blitz Dash=<color%3D#00FF00FF>开启闪电冲刺
+Disable Blitz Dash=<color%3D#FF0000FF>关闭闪电冲刺
+Toggle Blitz Dash=切换闪电冲刺
+Toggle Blitz Dash.=切换闪电冲刺.
+Blitz Dash Open Menu=<color%3D#FFD800>打开闪电冲刺菜单
+Blitz Dash Open Menu.=打开闪电冲刺菜单.
+
+Enable Controllable Dash=<color%3D#00FF00FF>开启可控冲刺
+Disable Controllable Dash=<color%3D#FF0000FF>关闭可控冲刺
+Toggle Controllable Dash=切换可控冲刺
+Toggle Controllable Dash.=切换可控冲刺.
+Controllable Dash Open Menu=<color%3D#FFD800>打开可控冲刺菜单
+Controllable Dash Open Menu.=打开可控冲刺菜单.
+
+Enable Spark Dash=<color%3D#00FF00FF>开启火花冲刺
+Disable Spark Dash=<color%3D#FF0000FF>关闭火花冲刺
+Toggle Spark Dash=切换火花冲刺
+Toggle Spark Dash.=切换火花冲刺.
+
+Enable [AM] Destruction 78=<color%3D#00FF00FF>开启[AM]\n破道之七十八·斩华轮
+Disable [AM] Destruction 78=<color%3D#FF0000FF>关闭[AM]\n破道之七十八·斩华轮
+Toggle [AM] Destruction 78=切换[AM]\n破道之七十八·斩华轮
+Toggle [AM] Destruction 78.=切换[AM]\n破道之七十八·斩华轮.(按F蓄力,再按F释放)
+[AM] Destruction 78 Open Menu=<color%3D#FFD800>打开[AM]\n破道之七十八·斩华轮菜单
+[AM] Destruction 78 Open Menu.=打开[AM]\n破道之七十八·斩华轮菜单.
+
+Enable Lightning Wings=<color%3D#00FF00FF>开启闪电之翼
+Disable Lightning Wings=<color%3D#FF0000FF>关闭闪电之翼
+Toggle Lightning Wings=切换闪电之翼
+Toggle Lightning Wings.=切换闪电之翼.
+Lightning Wings Open Menu=<color%3D#FFD800>打开闪电之翼菜单
+Lightning Wings Open Menu.=打开闪电之翼菜单.
+
+Enable Tornado Spin=<color%3D#00FF00FF>开启龙卷风旋转
+Disable Tornado Spin=<color%3D#FF0000FF>关闭龙卷风旋转
+Toggle Tornado Spin=切换龙卷风旋转
+Toggle Tornado Spin.=切换龙卷风旋转.
+Tornado Spin Open Menu=<color%3D#FFD800>打开龙卷风旋转菜单
+Tornado Spin Open Menu.=打开龙卷风旋转菜单.
+
+Enable Sky Walking=<color%3D#00FF00FF>开启空中漫步
+Disable Sky Walking=<color%3D#FF0000FF>关闭空中漫步
+Toggle Sky Walking=切换空中漫步
+Toggle Sky Walking.=切换空中漫步.(按F脚下生成滚木,细节预览可查看)
+
+Enable [DM] Smoke 21=<color%3D#00FF00FF>开启 [DM] \n缚道之二十一·赤烟遁
+Disable [DM] Smoke 21=<color%3D#FF0000FF>关闭 [DM] \n缚道之二十一·赤烟遁
+Toggle [DM] Smoke 21=切换 [DM] \n缚道之二十一·赤烟遁
+Toggle [DM] Smoke 21.=切换 [DM] \n缚道之二十一·赤烟遁.
+[DM] Smoke 21 Open Menu=<color%3D#FFD800>打开[DM] \n缚道之二十一·赤烟遁 设置菜单
+[DM] Smoke 21 Open Menu.=打开[DM] \n缚道之二十一·赤烟遁 设置菜单.
+
+Enable Tiger Ground Punch=<color%3D#00FF00FF>开启豹王之爪
+Disable Tiger Ground Punch=<color%3D#FF0000FF>关闭豹王之爪
+Toggle Tiger Ground Punch=切换豹王之爪
+Toggle Tiger Ground Punch.=切换豹王之爪.
+Tiger Ground Punch Open Menu=<color%3D#FFD800>打开豹王之爪设置菜单
+Tiger Ground Punch Open Menu.=打开豹王之爪设置菜单.
+
+//*灵魂状态
+
+Soul Status=灵魂状态
+r:"Max Energy: (.*)"=最大能量: $1
+Set Custom Max Energy\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义最大能量</b>\n<size%3D70%>使用默认值时设为 -1
+r:"Energy Throughput:\s*(.*)"=能量吞吐量: $1
+Set Custom Energy Throughput\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义能量吞吐量</b>\n<size%3D70%>使用默认值时设为 -1
+r:"Physical:\s*(.*)"=肉体: $1
+Set Custom Physical\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义肉体</b>\n<size%3D70%>使用默认值时设为 -1
+r:"Speed:\s*(.*)"=速度: $1
+Set Custom Speed\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义速度</b>\n<size%3D70%>使用默认值时设为 -1
+r:"Sword Mastery:\s*(.*)"=剑术精通: $1
+Set Custom Sword Mastery\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义剑术精通</b>\n<size%3D70%>使用阶段值时设为 -1
+r:"Magic Power:\s*(.*)"=[MP]魔力: $1
+Set Custom Magic Power\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义魔力</b>\n<size%3D70%>使用阶段值时设为 -1
+r:"Attack Magic:\s*(.*)"=[AM]攻击魔法: $1
+Set Custom Attack Magic\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义攻击魔法</b>\n<size%3D70%>使用阶段值时设为 -1
+r:"Defend Magic:\s*(.*)"=[DM]防御魔法: $1
+Set Custom Defend Magic\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义防御魔法</b>\n<size%3D70%>使用阶段值时设为 -1
+r:"Healing Magic:\s*(.*)"=[HM]治愈魔法: $1
+Set Custom Healing Magic\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义治愈魔法</b>\n<size%3D70%>使用阶段值时设为 -1
+Force Collision: <color%3D#00FF00FF>Enabled</color>=强制碰撞: <color%3D#00FF00FF>开启</color>
+Force Collision: <color%3D#FF0000FF>Disabled</color>=强制碰撞: <color%3D#FF0000FF>关闭</color>
+Magic Skills: <color%3D#00FF00FF>Enabled</color>=魔法技能: <color%3D#00FF00FF>开启</color>
+Magic Skills: <color%3D#FF0000FF>Disabled</color>=魔法技能: <color%3D#FF0000FF>关闭</color>
+
+//*能力选择
+
+Ability Picker=能力选择器
+
+Soul System=灵魂系统
+
+Infinity Energy=无限能量
+
+God Hand=神之手
+RealMaxEnergy:=实际最大能量:
+EnergyThroughput:=能量吞吐量:
+Physical:=肉体:
+Speed:=速度:
+SwordMastery:=剑术精通:
+MagicPower:=[MP]魔力:
+AttackMagic:=[AM]攻击魔法:
+DefendMagic:=[DM]防御魔法:
+HealingMagic:=[HM]治愈魔法:
+Max Out=榨干性能
+
+Open cloth editor=打开布料编辑器
+
+Make Soul=塑造灵魂
+User of Soul System become free soul=灵魂系统的使用者成为自由灵魂
+
+Make Human=塑造人类
+User of Soul System become human=灵魂系统的使用者变回人类
+
+Make Monster=塑造虚
+User of Soul System become monster=灵魂系统的用户变成虚
+
+Full Heal Human=完全治愈人类
+Fully heals target=完全治愈目标
+
+Quick Moment Save=即时保存
+Save and Load the Moment! (Hold LeftShift To Clear Moment)=保存并加载时刻！（按住左Shift键可清除时刻）
+
+Punch Ability=打击能力
+All characters can punch and kick Enabled by default\r\n Target: AnyLimb=所有角色都有打击能力 默认已启用\n\n目标: 任意肢体
+
+Strong Punch Ability=强力打击能力
+If the strength parameter is greater than 350 - you can enable strong punches Pressing "H" instantly charges a punch, and the next hit deals area damage, knocking back Radius, damage, and knockback increase with strength\r\n Target: AnyLimb=如果力量参数大于350，你可以解锁强力拳击. 按下“H”键会立即充能一拳，下一次攻击会造成范围伤害，击退半径、伤害和击退效果都会随着力量的增加而增强\n\n目标: 任意肢体
+
+Stops Swords Objects and Some Attacks upon contact\n\n Target: AnyGripBehaviour=接触时能阻止剑类物体和一些攻击\n\n目标: 任何有抓握行为肢体
+
+When the H button is pressed, the sword is no longer fixed in the hand. Now you can spin it in a circle. Pressing H again stops the sword. Pressing K makes the sword spin automatically\r\n Target: AnyGripBehaviour=按下H键后物品不再固定在手中.现在你可以旋转它.再次按下H键可停止物品旋转.按H松开再按住K键则可使物品自动旋转\n\n目标: 任何有抓握行为肢体
+
+Throws an item and returns it X / Additonal Four Button\n\n Target: AnyGripBehaviour=按X投掷一个物品再按X收回/附加四个按钮\r\n 目标：任何抓取行为肢体
+
+When the H button is pressed, the grip loosens and the weapon automatically aims at the nearest enemy.\n\n Target: AnyGripBehaviour=按下H键后松手，武器会自动指向最近的敌人\n\n 目标：任何抓取行为肢体
+
+Holding the F button accumulates energy and releases a small projectile that deals area damage\n\n Target: AnyGripBehaviour=按住F键会积蓄能量，并释放一枚小型投射物，造成范围伤害\n\n 目标：任何抓取行为肢体
+
+Pressing F starts accumulating energy and fires a low-power energy beam in an area\n\n Target: AnyGripBehaviour=按下F键开始积聚能量，并在一定区域内发射低功率能量束\n\n 目标：任何抓取行为肢体
+
+Enhances holded weapon with energy\n\n Target: AnyGripBehaviour=为持有的武器充能\n\n 目标：任何抓取行为肢体
+
+A stronger version of Blast 4\n\n Target: AnyGripBehaviour=\n破道之四·白雷的增强版\n\n 目标：任何抓取行为肢体
+
+Activate to create Aura then Activate to Explode Aura Require 750 Defend Magic\n\n Target: MiddleBody=激活以生成光环，再激活以引爆光环，需750点[DM]防御魔法解锁\n\n目标: 中半身
+
+Activate to create Big Black Box Require 930 Attack Magic\n\n Target: AnyGripBehaviour=激活以创造大黑盒，需要930点[AM]攻击魔法解锁\n\n 目标：任何抓取行为肢体
+
+While holding the F button, the target the hand is aimed at is paralyzed\n\n Target: AnyGripBehaviour=按住F键时，手部瞄准的敌人的手会被锁住\n\n 目标：任何抓取行为肢体
+
+When the ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds\n\n Target: UpperBody=当该能力被激活时，如果有什么东西接触到用户，每隔几秒就会在接触点产生一次小型排斥爆炸\n\n 目标：上半身
+
+Upon activation - the ability creates a projectile, then upon further activation in the direction of the hand, the projectile disappears and the target is bound indefinitely. Pressing F again releases the target\n\n Target: AnyGripBehaviour=激活后，该能力会生成一个投射物，然后再次朝手的方向激活时，投射物会消失，目标会被无限期绑定.再次按下F键可释放目标\n\n 目标：任何抓取行为肢体
+
+Pressing F creates smoke in an area with a size varying depending on Defend Magic, after which there is a short delay before the next use\n\n Target: MiddleBody=按下F键会在一个区域内产生烟雾，烟雾的大小取决于[DM]防御魔法数值，之后会有短暂的延迟才能再次使用\n\n 目标: 中半身
+
+Pressing F creates a shield that absorbs damage until it is destroyed. Pressing F again can disable it.\r\n Target: AnyGripBehaviour=按F键会生成一个护盾，该护盾能吸收伤害，直至被摧毁.再次按F键可将其禁用\n\n 目标：任何抓取行为肢体
+
+Pressing F fires a ray of light from the hand that forms a prison restricting movement on hit.\n\n Target: AnyGripBehaviour=按下F键，手部会发射出一道光线，击中目标后形成一道限制其移动的囚牢\n\n 目标：任何抓取行为肢体
+
+When activated, his arm is strengthened. Pressing F builds up a charge that explodes on contact, knocking back and dealing high damage\n\n Target: AnyGripBehaviour=当被激活时，他的手臂会获得强化.按下F键会积聚能量，一旦接触就会爆炸，击退敌人并造成高额伤害\n\n 目标：任何抓取行为肢体
+
+Upon activation and touch - heals the target.\n\nTarget: AnyGripBehaviour=激活并触摸目标-治疗目标\n\n 目标：任何抓取行为肢体
+
+Barrage Ability=连续拳击能力
+When strength and speed parameters are above 350 - can be enabled on the upperbody Holding F delivers a series of blows\r\n Target: UpperBody=当肉体和速度数值超过350时，可以对上半身按F进行连续拳击(按H使用加强版)\n\n 目标：上半身
+
+When the speed parameter is above 350 - can be enabled on the middlebody Pressing F launches forward and deals damage to everything it passes through Pressing H allows you to choose the direction and approximate distance where the user should land\n\n Target: MiddleBody=当速度数值超过350时，可在中半体上启用.按F键可向前发射并对所经过的一切造成伤害.按H键用户可选择冲刺的方向和大致距离\n\n 目标: 中半身
+
+When speed and sword mastery parameters are above 700 - spark dash can be enabled on the middle body Pressing F, if there is a target a few meters ahead, teleports behind it with an effect, draining 25% of the target's total energy and dealing high damage to random limbs\r\n Target: Head=当速度和剑术精通数值超过700时，可在中半身启用火花冲刺. 若前方几米内有敌人，则可以按F键冲刺至目标后方并产生效果，吸取目标25%的总能量，并对随机肢体造成高额伤害\n\n 目标: 中半身&头
+
+Draw your own ricochet path by moving the mouse. Move the mouse back to undo a segment.\n\n Target: MiddleBody=按H通过移动鼠标来绘制自己的冲刺路径(鼠标经过物体和地面来绘制),将鼠标移回原处可撤销一段路径\n\n 目标: 中半身
+
+When the speed parameter is above 700 - can be enabled on the head Pressing J or in the context menu - shows a projection of where the user will end up. Clicking on a location teleports there and deals damage to everything passed through.\r\n Target: Head=当速度数值超过700时，可以在头部按下J键或在上下文菜单中使用该功能，该功能会显示用户最终位置的投影.点击这个位置即可传送至该处，并对经过的一切造成伤害\n\n 目标: 头
+
+An instant dodge from most attacks\n\n Target: Head=能对大多数攻击进行瞬间闪避\n\n目标: 头
+
+Grants Fly When Enabled\n\n Target: Head=开启飞行\n\n目标: 头
+
+Allows the user to create a virtual floor beneath them. In Detail View Mode you can see him.\n\n Target: LowerBody=允许用户在自身下方创建一个空气地板.在S详细视图模式下你可以看到这个空气地板\n\n目标: 下半身
+
+Slowes time by 5X Mult\n\n Target: Head=时间减慢5倍\n\n目标: 头
+
+Any owner of the energy system can enable an aura\n\n Target: Head=任何灵魂系统的拥有者都能激发出这种气场\n\n目标: 头
+
+Redistributes damage across the entire body\n\n Target: Head=将伤害分散到全身\n\n目标: 头
+
+Provides immunity to unusual damage types\n\n Target: Head=对异常伤害类型提供免疫\n\n目标: 头
+
+Activate To Hide\n\n Target: Head=激活以隐藏\n\n目标: 头
+
+Passive Heal=被动治愈
+Passively heals user with low speed\n\n Target: Head=以较低的速度被动地治疗用户\n\n目标: 头
+
+Passive Regrowth=被动再生
+
+Keeps the user alive\n\n Target: Head=让用户保持存活\n\n目标: 头
+
+Any energy system owner with Energy Throughput above 500 can enable spiritual pressure It has several modes and settings If a target within the ability's area of effect is weaker than the user, then pressure of the selected type is successfully applied to them\r\n Target: UpperBody=任何灵魂系统拥有者只要其能量吞吐量超过500就能解锁灵压,该能力有多种模式和设置.如果能力作用范围内的目标比使用者弱，则所选类型的压力就能成功施加于其身上\n\n 目标：上半身
+
+Fire a powerful beam\n\n Target: Head=发射强力光束\n\n目标: 头
+
+Holding the F button accumulates energy and releases a projectile that deals area damage\n\n Target: AnyLimb=按住F键会积蓄能量，并释放一个造成范围伤害的投射物\n\n 目标: 任何肢体
+
+Gives passive protection against all damage\n\n Target: Head=提供对所有伤害的被动保护\n\n目标: 头
+
+The creature accelerates so fast that the space around it distorts, creating a vortex with a radius of damage that will harm any target caught in it. It also allows you to significantly increase the speed parameter in exchange for energy.\n\n Target: MiddleBody=该生物速度极快，以至于其周围的空间都发生了扭曲，形成了一个具有伤害半径的漩涡，任何被卷入其中的目标都会受到伤害.此外它还能以消耗能量为代价，显著提高速度参数\n\n 目标: 中半身
+
+Tiger Ground Punch Ability=豹王之爪能力
+Tiger Strong Punch Ability=豹王之爪能力
+\n\n Target: AnyLimb=\n\n 目标: 任何肢体
+
+Fire Fist=火拳
+\n\n Target: AnyGripBehaviour=\n\n 目标：任何抓取行为肢体
+
+Activate to detach the hand\n\n Target: UpperArm=激活以分离手部\n\n 目标: 上臂
+
+Multifunctional capability. Use menu to provide various scientific technologies\n\n Target: AnyGripBehaviour=多功能性.通过上下文菜单提供各种科学技术\n\n 目标：任何抓取行为肢体
+
+Lightning Manipulation=操控闪电
+
+\n\n Target: Head=\n\n目标: 头
+\n\n Target: MiddleBody=\n\n 目标: 中半身
+
+Is not a Head=这不是头
+Limb can't grab items=这个肢体无法抓取物品
+Is not a UpperBody=这不是上半身
+Is not a MiddleBody=这不是中半身
+Is not a LowerBody=这不是下半身
+
+
+//*灵魂游乐场设置
+
+Souls Playground Settings=灵魂游乐场设置
+
+Toggle Height Randomization=切换身高随机化
+Height Randomization: <color%3D#FF0000FF>Disabled</color>=高度随机化: <color%3D#FF0000FF>已禁用</color>
+Height Randomization: <color%3D#00FF00FF>Enabled</color>=高度随机化: <color%3D#00FF00FF>已开启</color>
+
+Cross Sword Colliders=刀剑交叉碰撞箱
+Cross Sword Colliders: <color%3D#FF0000FF>Disabled</color>=刀剑交叉碰撞箱: <color%3D#FF0000FF>已禁用</color>
+Cross Sword Colliders: <color%3D#00FF00FF>Enabled</color>=刀剑交叉碰撞箱: <color%3D#00FF00FF>已开启</color>
+Cross Sword Colliders are colliders that interfere with other colliders of the same type, so swords can block other swords' strikes and behave more logically.=刀剑交叉碰撞箱是一种会干扰其他同类碰撞箱的碰撞箱，因此剑可以阻挡其他剑的攻击，并使行为更加符合逻辑.
+
+Auto Physical Parameter=自动解锁肉体参数
+Auto Physical Parameter: <color%3D#FF0000FF>Disabled</color>=自动解锁肉体参数: <color%3D#FF0000FF>已禁用</color>
+Auto Physical Parameter: <color%3D#00FF00FF>Enabled</color>=自动解锁肉体参数: <color%3D#00FF00FF>已开启</color>
+When enabled, all mod characters will automatically unlock the Physical parameter upon spawning. Most of the mod's features depend on this parameter. Disable this if you want to manually control when the Physical parameter is unlocked for mod characters.=启用后，所有其他模组角色生成时将自动解锁肉体属性.模组的大部分功能都依赖于这一属性.如果您想手动控制其他模组角色何时解锁物理属性，请禁用此功能
+
+Cell in Raw UI=原生UI单元格
+
+Soul System Settings=灵魂系统设置
+Advanced settings for Soul System=灵魂系统高级设置
+Auto Adding: <color%3D#FF0000FF>Disabled</color>=自动添加: <color%3D#FF0000FF>已禁用</color>
+Auto Adding: <color%3D#00FF00FF>Enabled</color>=自动添加: <color%3D#00FF00FF>已开启</color>
+Determines whether Soul System will be added to the creature you spawned (not from SPG)=决定是否将灵魂系统添加到您生成的生物（来自非SPG模组）中
+
+Chain System:=因果之链系统: 
+Determines whether the chain system will be enabled.=确定是否启用因果之链系统
+
+Chain Self-Destruction Speed=因果之链自毁速度
+r:"Determines the rate of self-destruction of the circuit\.\n\nCurrent: ([\d.]+)"=决定因果之链自毁的速度.\r\n\n\n当前：$1
+
+Chain Action Setting=因果之链作用设置
+Determines what the soul will become after the chain is completely broken.\n\nCurrent: Soul=决定灵魂在因果之链完全打破后将变成什么样子.\n\n当前: 灵魂
+Determines what the soul will become after the chain is completely broken.\n\nCurrent: Monster=决定灵魂在锁链完全打破后将变成什么样子.\n\n当前: 虚
+Determines what the soul will become after the chain is completely broken.=决定灵魂在因果之链完全打破后将变成什么样子.
+Current: Soul=当前: 灵魂
+Chain Action Setting Selection=因果之链作用设置选项
+Monster=虚
+Soul=灵魂
+
+Chain Break After=因果之链断裂触发
+Determines when the chain will break.\n\nCurrent: Death=决定因果之链何时开始断裂.\n\n当前: 死亡
+Determines when the chain will break.\n\nCurrent: Rot=决定因果之链何时开始断裂.\n\n当前: 腐烂
+Determines when the chain will break.\n\nCurrent: Never=决定因果之链何时开始断裂.\n\n当前: 永不断裂
+Determines when the chain will break.=决定因果之链何时开始断裂
+Death=死亡
+Rot=腐烂
+Never=永不断裂
+
+Souls Has Collision: =灵魂有碰撞: 
+Determines whether they can touch people's souls.=决定灵魂是否能碰撞.
+
+Souls Has Explode Damage: =灵魂受到爆炸伤害: 
+Determines whether explosions deal damage to souls.=确定爆炸是否对灵魂造成伤害.
+
+Bullets Pass Through Souls: =子弹会穿透灵魂: 
+Determines whether bullets pass through souls or inflict damage.=决定子弹是穿透灵魂还是造成伤害
+
+Mod Sounds Volume=模组音效音量
+
+Power Punch Chance=强力打击概率
+r:"Current: ([\d.]+)%"=当前：$1%
+
+Enhanced Destruction=增强破坏
+Enhanced Destruction: =增强破坏: 
+
+Blood Decals on Characters=角色身上的血迹贴图
+Blood Decals: =角色血迹贴图: 
+Sheaths=刀鞘
+Sheaths: =刀鞘: 
+
+External Localization=外部本地化(误点,没做完)
+External Localization: =外部本地化: 
+
+Global Stat Mults=全局属性倍率
+Global Max Energy Mult=设置全局最大能量倍数
+Set Global Max Energy Mult [0.1 - 10]=全局最大能量倍数 [0.1 - 10]
+Global Energy Throughput Mult=全局能量吞吐倍数
+Set Global Energy Throughput Mult [0.1 - 10]=设置全局能量吞吐倍数 [0.1 - 10]
+Global Physical Mult=全局肉体倍数
+Set Global Physical Mult [0.1 - 10]=设置全局肉体倍数 [0.1 - 10]
+Global Speed Mult=全局速度倍数
+Set Global Speed Mult [0.1 - 10]=设置全局速度倍数 [0.1 - 10]
+Global Sword Mastery Mult=全局剑术精通倍数
+Set Global Sword Mastery Mult [0.1 - 10]=设置全局剑术精通倍数 [0.1 - 10]
+Global Magic Power Mult=全局魔力倍数
+Set Global Magic Power Mult [0.1 - 10]=设置全局魔力倍数 [0.1 - 10]
+Global Attack Magic Mult=全局攻击魔法倍数
+Set Global Attack Magic Mult [0.1 - 10]=设置全局攻击魔法倍数 [0.1 - 10]
+Global Defend Magic Mult=全局防御魔法倍数
+Set Global Defend Magic Mult [0.1 - 10]=设置全局防御魔法倍数 [0.1 - 10]
+Global Healing Magic Mult=全局治疗魔法倍数
+Set Global Healing Magic Mult [0.1 - 10]=设置全局治疗魔法倍数 [0.1 - 10]
+
+
+
+Fun=搞笑
+Fun Settings=趣味设置
+Fun Menu!=趣味菜单!
+Christmas Mode: =圣诞模式: 
+Everyone is wearing Christmas hats :D=大家都戴着圣诞帽呢:D
+Back to General Settings=返回通用设置
+
+//*能力菜单
+
+Abilities Menu=能力菜单
+search...=搜索...
+OFF=关闭
+
+Main Character Ability=主角特质
+Enable Main Character Ability=<color%3D#00FF00FF>开启主角特质
+Disable Main Character Ability=<color%3D#FF0000FF>关闭主角特质
+Toggle Main Character Ability=切换主角特质
+Toggle Main Character Ability.=切换主角特质.
+
+Powerball=崩玉
+Powerball Settings=崩玉设置
+Current: Evolution 1=当前：      进化 1
+Current: Evolution 2=当前：      进化 2
+Current: Evolution 3=当前：      进化 3
+Powerball Evolution Changer=崩玉进化转换器
+Evolution 1=进化 1
+Evolution 2=进化 2
+Evolution 3=进化 3
+Evolve=进化
+Should Evolve: <color%3D#00FF00FF>Enabled</color>=是否进化：<color%3D#00FF00FF>已开启</color>
+Should Evolve: <color%3D#FF0000FF>Disabled</color>=是否进化: <color%3D#FF0000FF>已关闭</color>
+Increase Stats: <color%3D#00FF00FF>Enabled</color>=属性提升：<color%3D#00FF00FF>已开启</color>
+Increase Stats: <color%3D#FF0000FF>Disabled</color>=属性提升：<color%3D#FF0000FF>已关闭</color>
+Clear Stat Buffs=清除状态增益
+Clear Stat Buffs?=是否清除状态增益?
+Destroy Powerball=摧毁崩玉
+Destroy Powerball?=是否摧毁崩玉?
+Cheat Menu=作弊菜单
+Powerball Cheat Menu=崩玉作弊菜单
+Force Evolution=强制进化
+Evolution Speed Mult=进化速度倍数
+Evolution Power Mult=进化能量倍数
+Full Evolution=完全进化
+
+Cloth Editor=布料编辑器
+General Clothes=通用服装
+Clothes in any state of person=任何状态下的服装
+Default Clothes=默认服装
+Clothes when person is living creature=活着状态下的服装
+Soul Clothes=灵魂服装
+Clothes when person is spiritual creature=灵魂状态下的服装
+Set Advanced Sorting=自定义排序规则
+Set good configured layers and sorting orders for limbs. It can help with rendering clothes, but can broke some another mods sorting.=为肢体设置配置良好的图层和排序顺序,它可以帮助渲染服装，但也可能会破坏一些其他模组的服装图层排序
+General Cloth Editor=通用布料编辑器
+Default Cloth Editor=默认布料编辑器
+Soul Cloth Editor=灵魂布料编辑器
+Add clothes=添加服装
+Add new clothes=添加新服装.
+Edit added clothes, change priority, delete and other=编辑已添加的布料，调整优先级，删除等操作.
+Exclude Cloth Layers=排除布料层
+Exclude unnecessary layers from clothing. For example, when you are not replacing one cape with another, but simply want to turn off the original one.=去除衣物中不必要的层次.例如当你不想用另一件披风替换原来的披风，而只是想脱掉它时.
+Include Cloth Layers=包含布料层
+You can restore the layers you excluded in this menu.=你可以恢复在此菜单中排除的图层.
+Cape=披肩
+Pants=裤子
+Footwear=鞋子
+Clothes=服装
+Hair=头发
+Priority:=优先级:
+Add Priority=增加优先级
+Remove Priority=减少优先级
+Change Color=改变颜色
+Remove=移除
+Current: Original=当前: 原始
+Current: =当前: 
+Change Cloth Color=更改布料颜色
+
+Item Controller=物品栏
+Recreate Form=重新创建表单
+Hide Form=隐藏表单
+
+Mask Controller=面罩栏
+
+Instant Step Options=瞬步编辑器
+Active Flip <color%3D#FF0000FF>Disabled</color>=主动翻转: <color%3D#FF0000FF>已禁用</color>
+Active Flip <color%3D#00FF00FF>Enabled</color>=主动翻转: <color%3D#00FF00FF>已开启</color>
+Should Damage <color%3D#FF0000FF>Disabled</color>=造成伤害: <color%3D#FF0000FF>已禁用</color>
+Should Damage <color%3D#00FF00FF>Enabled</color>=造成伤害: <color%3D#00FF00FF>已开启</color>
+Enable Effects <color%3D#FF0000FF>Disabled</color>=特效: <color%3D#FF0000FF>已禁用</color>
+Enable Effects <color%3D#00FF00FF>Enabled</color>=特效: <color%3D#00FF00FF>已开启</color>
+No Grip Collide <color%3D#FF0000FF>Disabled</color>=无碰撞抓握: <color%3D#FF0000FF>已禁用</color>
+No Grip Collide <color%3D#00FF00FF>Enabled</color>=无碰撞抓握: <color%3D#00FF00FF>已开启</color>
+
+Instant Evasion=瞬间闪避
+Instant Evasion Options=瞬间闪避编辑器
+Dash On Damage: <color%3D#FF0000FF>Disabled</color>=受击闪避: <color%3D#FF0000FF>已禁用</color>
+Dash On Damage: <color%3D#00FF00FF>Enabled</color>=受击闪避: <color%3D#00FF00FF>已开启</color>
+Dash On Contact: <color%3D#FF0000FF>Disabled</color>=接触时闪避: <color%3D#FF0000FF>已禁用</color>
+Dash On Contact: <color%3D#00FF00FF>Enabled</color>=接触时闪避: <color%3D#00FF00FF>已开启</color>
+Dash Lenght Mult: =间隔倍数: 
+
+Speed Moving=高速移动
+Speed Moving Options=高速移动编辑器
+Slow Mult: =缓慢倍数: 
+
+Fly Ability=飞行模式
+Fly Ability Options=飞行模式编辑器
+Auto Balance <color%3D#FF0000FF>Disabled</color>=自动平衡: <color%3D#FF0000FF>已禁用</color>
+Auto Balance <color%3D#00FF00FF>Enabled</color>=自动平衡: <color%3D#00FF00FF>已开启</color>
+Passive Extra Boost: =被动额外增益: 
+
+Passive Aura=被动光环
+Passive Aura Options=被动光环编辑器
+Aura Size: =光环大小:
+Controls the size of the base effect and the fire.=控制基础效果和火焰的大小.
+Set Aura Color=设置被动光环颜色
+Change color of aura=改变光环颜色
+Sets the color for the base aura and the fire.=设置基本光环和火焰颜色
+Aura Speed: =光环速度
+Controls the playback speed of the fire effect.=控制火焰效果的播放速度
+Aura Layer: Background=光环层: 背景
+Aura Layer: Background Selection=光环层：背景选项
+Background=背景
+Top=表面
+Set the sorting layer for the fire effect.=为火焰效果设置排序层
+
+Better Durability=更好的耐用性 
+Better Durability Options=更好的耐用性编辑器
+Visual Regen <color%3D#FF0000FF>Disabled</color>=视觉再生: <color%3D#FF0000FF>已禁用</color>
+Visual Regen <color%3D#00FF00FF>Enabled</color>=视觉再生: <color%3D#00FF00FF>已开启</color>
+Regen Dead Limbs <color%3D#FF0000FF>Disabled</color>=损坏肢体再生: <color%3D#FF0000FF>已禁用</color>
+Regen Dead Limbs <color%3D#00FF00FF>Enabled</color>=损坏肢体再生: <color%3D#00FF00FF>已开启</color>
+Check Speed Mult: =检查速度倍数：
+
+[HM] Passive Heal=[HM] 被动治疗
+[HM] Passive Heal Options=[HM]被动治疗选项
+Heal Speed Mult: =治疗速度倍数
+Auto Regen Mode: <color%3D#FF0000FF>Disabled</color>=自动再生模式: <color%3D#FF0000FF>已禁用</color>
+Auto Regen Mode: <color%3D#00FF00FF>Enabled</color>=自动再生模式: <color%3D#00FF00FF>已开启</color>
+
+[HM] Passive Regrowth=[HM] 被动再生
+[HM] Passive Regrowth Options=[HM] 被动再生编辑器
+Auto Extinguish: <color%3D#FF0000FF>Disabled</color>=自动灭火: <color%3D#FF0000FF>已禁用</color>
+Auto Extinguish: <color%3D#00FF00FF>Enabled</color>=自动灭火: <color%3D#00FF00FF>已开启</color>
+
+Sakura Garden =樱花园
+Create Blades=创造刃群
+Ground Blades Count=地面刃群数量
+Invoke Sky Swords=召唤天剑
+Remove Blades=移除刃群
+Reveal Blades=显露刃群
+Sky Swords: <color%3D#FF0000FF>Disabled</color>=天空之剑: <color%3D#FF0000FF>已禁用</color>
+Sky Swords: <color%3D#00FF00FF>Enabled</color>=天空之剑: <color%3D#00FF00FF>已开启</color>
+Angel Wings=天使之翼
+Always Black Background: <color%3D#FF0000FF>Disabled</color>=始终黑色背景: <color%3D#FF0000FF>已禁用</color>
+Always Black Background: <color%3D#00FF00FF>Enabled</color>=始终黑色背景: <color%3D#00FF00FF>已开启</color>
+Show background on Distance: <color%3D#FF0000FF>Disabled</color>=根据距离显示背景: <color%3D#FF0000FF>已禁用</color>
+Show background on Distance: <color%3D#00FF00FF>Enabled</color>=根据距离显示背景: <color%3D#00FF00FF>已开启</color>
+Close Garden=关闭花园
+Refresh=刷新
+
+Lightning Aura=闪电光环
+Charge Aura Options=光环能量编辑器
+Limb Selection Options=肢体选择选项
+Selected Limbs Only=仅限选定肢体
+Set Limbs To Charge=设定四肢能量
+Select All Limbs=选择所有肢体
+Set Charge Power=设置充能功率
+Set Particle Multiplier=设置粒子倍数
+Sound: <color%3D#FF0000FF>Disabled</color>=音效: <color%3D#FF0000FF>已禁用</color>
+Sound: <color%3D#00FF00FF>Enabled</color>=音效: <color%3D#00FF00FF>已开启</color>
+
+Body Modification=身体改造
+
+False Skin=伪皮
+
+Passive Immortality=被动不朽
+
+Monster Energy Blast =虚闪(大虚)
+Monster Energy Blast Options=虚闪(大虚)编辑器
+
+Hand Throw=手部投掷
+Hand Throw Options=手部投掷设置
+Detach Power: =分离力量: 
+Move Power: =移动力量: 
+Shift Move Power Mult: =Shift 移动力量倍数: 
+Auto Attach=自动锁定
+Automatically attempts to grab when launched=启动时自动尝试抓住
+
+Punch=打击
+Punch Options=打击编辑器
+Punch Mult: =打击倍数: 
+Close=关闭
+Enter=确认
+
+Strong Punch=强力打击
+Strong Punch Options=强力打击编辑器
+Select Affect Type=选择作用类型
+Select Affect Type Selection=选择作用类型选项
+Damage=损伤
+Forсe=力量
+Damage Mult: =损伤倍数: 
+Force Mult: =力量倍数: 
+Range Mult: =范围倍数: 
+
+Authority Touch=权威之触
+
+Spin Holding=旋转握持
+
+Grip Assistance=握持指向辅助
+
+Item Throw=物品投掷
+
+[AM] Throw 1=[AM]\n破道之一·冲
+[AM] Throw 1 Options=[AM]\n破道之一·冲编辑器
+Fly Speed Mult: =飞行速度倍数：
+Max Mult: =最大倍数: 
+Speed Cast Mult: =施法速度倍数：
+Power Mult: =能量倍数: 
+
+[AM] Blast 4=[AM]\n破道之四·白雷
+[AM] Blast 4 Options=[AM]\n破道之四·白雷编辑器
+
+[AM] Enhance 11=[AM]\n破道之十一·缀雷电
+[AM] Enhance 11 Options=[AM]\n破道之十一·缀雷电编辑器
+Extra Weapon Enhance: <color%3D#FF0000FF>Disabled</color>=额外武器增强: <color%3D#FF0000FF>已禁用</color>
+Extra Weapon Enhance: <color%3D#00FF00FF>Enabled</color>=额外武器增强: <color%3D#00FF00FF>已开启</color>
+Enhances power of firearms, blasters, explosives, and projectile weapons! (Non-canon)=增强火器、爆破器、爆炸物和投射武器的威力！（非官方）
+Change Color To Aura Color: <color%3D#FF0000FF>Disabled</color>=颜色改为光环颜色: <color%3D#FF0000FF>已禁用</color>
+Change Color To Aura Color: <color%3D#00FF00FF>Enabled</color>=颜色改为光环颜色: <color%3D#00FF00FF>已开启</color>
+Changes effects color to aura color=将效果颜色更改为光环颜色
+Visual Effects Mult: =视觉效果倍数: 
+After Effect Mult: =效果持续倍数：
+Changes how long the effect lasts (useful for extending long combos, etc)=改变效果的持续时间（对于延长连击等操作有用）
+
+[AM] Blast 33=[AM]\n破道之三十三·苍火坠
+[AM] Blast 33 Options=[AM]\n破道之三十三·苍火坠编辑器
+
+[AM] Box 90=[AM] \n破道之九十·黑棺
+[AM] Box 90 Options=[AM] \n破道之九十·黑棺编辑器
+
+[DM] Restriction 1=[DM]\n缚道之一·塞
+[DM] Restriction 1 Options=[DM]\n缚道之一·塞编辑器
+Hold Mode <color%3D#FF0000FF>Disabled</color>=按住模式: <color%3D#FF0000FF>已禁用</color>
+Hold Mode <color%3D#00FF00FF>Enabled</color>=按住模式: <color%3D#00FF00FF>已开启</color>
+
+[DM] Restriction 9=[DM]\n缚道之九·击
+
+[DM] Shield 39=[DM]\n缚道之三十九·圆闸扇
+[DM] Shield 39 Options=[DM]\n缚道之三十九·圆闸扇编辑器
+Durability Mult: =耐久性倍数：
+
+[DM] Ray Prison 61=[DM]\n缚道之六十一·六杖光牢
+[DM] Ray Prison 61 Options=[DM]\n缚道之六十一·六杖光牢编辑器
+Stun Time Mult: =囚禁时间倍数：
+
+[HM] Heal Magic=[HM]\n回道
+[HM] Heal Magic Options=[HM]\n回道编辑器
+
+Lightining Manipulation=操控闪电
+Lightining Manipulation Options=操控闪电编辑器
+Punch Mode: =拳击模式: 
+Lightining Sphere Single Throw = 雷电球体单体投掷
+Cast: Lightining Sphere Single Throw = 施法: 雷电球体单体投掷
+Current: Lightining Sphere Single Throw = 当前: 雷电球体单体投掷
+Lightining Sphere Ultimate = 雷电球体终极技
+Cast: Lightining Sphere Ultimate = 施法: 雷电球体终极技
+Current: Lightining Sphere Ultimate = 当前: 雷电球体终极技
+Lightning Bombs = 雷电炸弹
+Cast: Lightning Bombs = 施法: 雷电炸弹
+Current: Lightning Bombs = 当前: 雷电炸弹
+
+Handy Hand=灵巧之手
+Handy Hand Options=灵巧之手编辑器
+Plant Explosive On Contact <color%3D#FF0000FF>Disabled</color>=接触时放置炸药: <color%3D#FF0000FF>已禁用</color>
+Plant Explosive On Contact <color%3D#00FF00FF>Enabled</color>=接触时放置炸药: <color%3D#00FF00FF>已开启</color>
+Equip Flesh-Healing Serum=装备肉体修复血清
+Equip Acceleration Serum=装备加速血清
+
+Explosion Power Mult:<color%3D#FF0000FF>Disabled</color>=爆炸威力倍数: <color%3D#FF0000FF>已禁用</color>
+Explosion Power Mult:<color%3D#00FF00FF>Enabled</color>=爆炸威力倍数: <color%3D#00FF00FF>已开启</color>
+
+Tiger Strong Punch=豹王之爪
+Tiger Strong Punch Options=豹王之爪编辑器
+Tiger Fast Cut = 豹牙快斩
+Cast: Tiger Fast Cut = 施法: 豹牙快斩
+Current: Tiger Fast Cut = 当前: 豹牙快斩
+Tiger Triple Cut = 豹牙三连斩
+Cast: Tiger Triple Cut = 施法: 豹牙三连斩
+Current: Tiger Triple Cut = 当前: 豹牙三连斩
+Tiger Slash Strong = 豹牙强力斩击
+Cast: Tiger Slash Strong = 施法: 豹牙强力斩击
+Current: Tiger Slash Strong = 当前: 豹牙强力斩击
+
+Tiger Claws=豹爪
+Tiger Claws Options=豹爪设置
+
+[AM] Fire Fist =[AM]火焰拳
+[AM] Fire Fist Options=[AM]火焰拳编辑器
+
+[AM] Iron Arm=[AM]\n巨人的右臂
+[AM] Iron Arm Options=[AM]\n巨人的右臂编辑器
+
+Monster Blast Base=虚闪
+Monster Blast Base Options=虚闪编辑器
+Beam Type=冲击类型
+Beam Type Selection=冲击类型选项
+Selected: Base=已选择: 基础
+Selected: Wide=已选择: 开阔
+Selected: Pierce=已选择: 冲破
+Selected: Ball=已选择: 球
+Base=基础
+Wide=开阔
+Pierce=冲破
+Ball=球
+Charge Power Mult: =充能倍数
+Width Mult: =宽度倍数：
+Travel Speed Mult: =行进速度倍数：
+Decay Time Mult: =衰减时间倍数: 
+Beam Segments: =光束细分: 
+
+Monster Blast Strong=王虚的闪光
+Monster Blast Strong Options=王虚的闪光编辑器
+
+Monster Blast Max Potential=黑虚闪
+Monster Blast Max Potential Options=黑虚闪编辑器
+
+
+Barrage=连续拳击
+Barrage Options=连续拳击编辑器
+Spin Mult: =旋转倍数: 
+Attack Speed Mult =攻击速度倍数: 
+
+Spiritual Pressure=灵压
+Spiritual Pressure Options=灵压编辑器
+Passive Pressure <color%3D#FF0000FF>Disabled</color>=被动压制: <color%3D#FF0000FF>已禁用</color>
+Passive Pressure <color%3D#00FF00FF>Enabled</color>=被动压制: <color%3D#00FF00FF>已开启</color>
+Aura Affect Type=光环影响类型
+Aura Affect Type Selection=光环影响类型选项
+Selected: Push=已选择: 推动
+Selected: Press=已选择: 压力
+Selected: Stun=已选择: 眩晕
+Selected: Fear=已选择: 恐惧
+Selected: Damage=已选择: 损伤
+Push=推动
+Press=压力
+Stun=眩晕
+Fear=恐惧
+
+[DM] Repulsion 8=[DM]\n缚道之八·斥
+[DM] Repulsion 8 Options=[DM]\n缚道之八·斥编辑器
+Delay Mult: =间隔倍数: 
+
+Blitz Dash=闪电冲刺
+Blitz Dash Options=闪电冲刺编辑器
+Collide Mode <color%3D#FF0000FF>Disabled</color>=碰撞模式: <color%3D#FF0000FF>已禁用</color>
+Collide Mode <color%3D#00FF00FF>Enabled</color>=碰撞模式: <color%3D#00FF00FF>已开启</color>
+Dont Stop <color%3D#FF0000FF>Disabled</color>=不停止: <color%3D#FF0000FF>已禁用</color>
+Dont Stop <color%3D#00FF00FF>Enabled</color>=不停止: <color%3D#00FF00FF>已开启</color>
+Impulse Mult: =推动力倍数: 
+Speed Mult: =速度倍数: 
+
+Controllable Dash=可控冲刺
+Controllable Dash Options=可控冲刺编辑器
+Dash Range: =冲刺范围: 
+Dash Speed: =冲刺速度: 
+
+Spark Dash=火花冲刺
+
+[AM] Destruction 78=[AM]\n破道之七十八·斩华轮
+[AM] Destruction 78 Options=[AM]\n破道之七十八·斩华轮编辑器
+
+Lightning Wings=闪电之翼
+
+Tornado Spin=龙卷风旋转
+Tornado Spin Options=龙卷风旋转编辑器
+
+Sky Walking=空中漫步
+
+[DM] Smoke 21=[DM] \n缚道之二十一·赤烟遁
+[DM] Smoke 21 Options=[DM] \n缚道之二十一·赤烟遁 编辑器
+Scale Mult: =缩放倍数：
+
+Tiger Ground Punch=豹王之爪
+Tiger Ground Punch Options=豹王之爪编辑器
+
+//*武器
+
+<b>[SPG 01] Hypnosis Sword</b>.=<b>[SPG 01] 镜花水月</b>.
+Hypnosis I=镜花水月 I
+Hypnosis II=镜花水月 II
+Hypnosis Sword Menu=镜花水月 刀剑菜单
+Hypnosis Sword Menu.=镜花水月刀剑菜单
+Hypnosis Caster Menu=镜花水月 技能菜单
+Main Hypnosis Mode=镜花水月主要模式
+Main Hypnosis Mode Selection=镜花水月主要模式选项
+Second Hypnosis Mode=第二镜花水月模式
+Second Hypnosis Mode Selection=第二镜花水月模式选项
+Current: None=当前: 无
+HealPerson=治愈之人
+Current: HealPerson=当前: 治愈之人
+MakeClone=制造克隆
+Current: MakeClone=当前: 制造克隆
+SkinClone=皮肤克隆
+Current: SkinClone=当前: 皮肤克隆
+DamageExchange=伤害交换
+Current: DamageExchange=当前: 伤害交换
+Weaponless=无武器
+Current: Weaponless=当前: 无武器
+RepulseProjectiles=击退投射物
+Current: RepulseProjectiles=当前: 击退投射物
+MomentSave=瞬间保存
+Current: MomentSave=当前: 瞬间保存
+HideUser=隐藏用户
+Current: HideUser=当前: 隐藏用户
+HideSword=隐藏剑
+Current: HideSword=当前: 隐藏剑
+MoveSelected=移动所选
+Current: MoveSelected=当前: 移动所选
+PositionSwitch=位置切换
+Current: PositionSwitch=当前: 位置切换
+PersonReplacement=人物替换
+Current: PersonReplacement=当前: 人物替换
+SpeedBoost=速度提升
+Current: SpeedBoost=当前: 速度提升
+Passive Revive Mode=被动复活模式
+Passive Revive Mode Selection=被动复活模式选项
+Current: Disabled=当前：已禁用
+QuantumImmortality=量子永生
+Current: QuantumImmortality=当前: 量子永生
+Passive Stat Boost=被动属性提升
+Passive Stat Boost Selection=被动属性提升选项
+MaxEnergy=最大能量
+Current: MaxEnergy=当前: 最大能量
+EnergyThroughput=能量吞吐
+Current: EnergyThroughput=当前: 能量吞吐
+Physical=肉体
+Current: Physical=当前: 肉体
+SwordMastery=剑术精通
+Current: SwordMastery=当前: 剑术精通
+MagicPower=魔力
+Current: MagicPower=当前: [MP]魔力
+AttackMagic=攻击魔法
+Current: AttackMagic=当前: [AM]攻击魔法
+DefendMagic=防御魔法
+Current: DefendMagic=当前: [DM]防御魔法
+HealingMagic=\n回道
+Current: HealingMagic=当前: [HM]\n回道
+Stat Boost Power=属性提升力量
+Passive Stat Debuff Target=被动属性减益目标
+Current: No Target=当前：无目标
+Object Picker=对象选择器
+Select=选择
+Pick Damage Exchange=伤害转移拾取
+Pick Heal Person=选择治疗人员
+Pick Hide Person=选择隐藏的人
+Fast Create Clone=快速创建克隆
+Fast Moment Save=即时存档
+
+<b>[SPG 01] Death Sword</b>.=<b>[SPG 01] 灭亡之斧</b>.
+Death I=灭亡之斧 I
+Death II=灭亡之斧 II
+Death Sword Menu=灭亡之斧 刀剑菜单
+Death Sword Menu.=灭亡之斧刀剑菜单
+You also can find seperate button for this menu in context menu of object.=在对象的右键菜单中，你也可以找到此菜单的单独按钮.
+Cast System=等级制度
+Casting: <color%3D#FF0000FF>Disabled</color>=施法: <color%3D#FF0000FF>已禁用</color>
+Casting: <color%3D#00FF00FF>Enabled</color>=施法: <color%3D#00FF00FF>已开启</color>
+You can switch active casting for each caster you want.=你可以为每个你想要的施法者切换主动施法.
+Cast: =施法: 
+Cast Select Type=选项施法类型
+Death Touch=死亡之触
+Cast: Death Touch=施法: 死亡之触
+Current: Death Touch=当前: 死亡之触
+Death Flame=死亡火焰
+Cast: Death Flame=施法: 死亡火焰
+Current: Death Flame=当前: 死亡火焰
+Death Orb=死亡宝珠
+Cast: Death Orb=施法: 死亡宝珠
+Current: Death Orb=当前: 死亡宝珠
+Death Orb Homing=追踪死亡宝珠
+Cast: Death Orb Homing=施法: 追踪死亡宝珠
+Current: Death Orb Homing=当前: 追踪死亡宝珠
+Fast Cast (H) Power: 0.5=快速施法(H)能量：0.5
+Fast Cast (H) Power: =快速施法(H)能量：
+Max Cast Mult: =最大施法倍数：
+Slice Decay: <color%3D#FF0000FF>Disabled</color>=切片腐蚀: <color%3D#FF0000FF>已禁用</color>
+Slice Decay: <color%3D#00FF00FF>Enabled</color>=切片腐蚀: <color%3D#00FF00FF>已开启</color>
+Passive Decay: <color%3D#FF0000FF>Disabled</color>=被动腐蚀: <color%3D#FF0000FF>已禁用</color>
+Passive Decay: <color%3D#00FF00FF>Enabled</color>=被动腐蚀: <color%3D#00FF00FF>已开启</color>
+Aura Power Mult: =光环能量倍数: 
+
+<b>[SPG 01] Sakura Sword</b>.=<b>[SPG 01] 千本樱</b>.
+Sakura I=千本樱 I
+Sakura II=千本樱 II
+Sakura Sword Menu=千本樱 刀剑菜单
+Sakura Sword Menu.=千本樱刀剑菜单
+Sakura Shot=樱花射击
+Cast: Sakura Shot=施法: 樱花射击
+Current: Sakura Shot=当前: 樱花射击
+Sakura Airshot=樱花空中射击
+Cast: Sakura Airshot=施法: 樱花空中射击
+Current: Sakura Airshot=当前: 樱花空中射击
+Sakura Wind=樱花之风
+Cast: Sakura Wind=施法: 樱花之风
+Current: Sakura Wind=当前: 樱花之风
+Sakura Shotgun = 樱花霰射
+Cast: Sakura Shotgun = 施法: 樱花霰射
+Current: Sakura Shotgun = 当前: 樱花霰射
+Sakura Petals Collection = 樱花集瓣
+Cast: Sakura Petals Collection = 施法: 樱花集瓣
+Current: Sakura Petals Collection = 当前: 樱花集瓣
+Shield: <color%3D#FF0000FF>Disabled</color>=护盾: <color%3D#FF0000FF>已禁用</color>
+Shield: <color%3D#00FF00FF>Enabled</color>=护盾: <color%3D#00FF00FF>已开启</color>
+Creates a shield of petals that neither the owner nor other creatures can pass through without using special techniques.=创造一个花瓣组成的屏障，无论是主人还是其他生物，如果不使用特殊技巧都无法穿越.
+Blade Disappear: <color%3D#FF0000FF>Disabled</color>=移除刀刃: <color%3D#FF0000FF>已禁用</color>
+Blade Disappear: <color%3D#00FF00FF>Enabled</color>=移除刀刃: <color%3D#00FF00FF>已开启</color>
+Removes the blade but reduces the energy consumption of abilities; such a sword can no longer cut.=移除刀刃，但能降低技能的能耗；这样的剑再无法砍人
+Open Sakura Garden (GB)=打开樱花园(GB)
+Opens Sakura Garden with blades behind the owner.=用刀片在主人身后打开樱花园
+Open Sakura Garden (SB)=打开樱花园(SB)
+Opens Sakura Garden with swords above the owner that he can use as projectiles in Caster.=在主人头顶打开樱花花园，主人可以在施法者模式中将剑作为投射物使用
+
+<b>[SPG 01] Long Sword</b>.=<b>[SPG 01] 神枪</b>.
+Long I=神枪 I
+Long II=神杀枪II
+Long Sword Menu=神枪 刀剑菜单
+Long Sword Menu.=神枪刀剑菜单
+Resizing : <color%3D#FF0000FF>Disabled</color>=调整大小: <color%3D#FF0000FF>已禁用</color>
+Resizing : <color%3D#00FF00FF>Enabled</color>=调整大小: <color%3D#00FF00FF>已开启</color>
+Throw Mode : <color%3D#FF0000FF>Disabled</color>=投掷模式: <color%3D#FF0000FF>已禁用</color>
+Throw Mode : <color%3D#00FF00FF>Enabled</color>=投掷模式: <color%3D#00FF00FF>已开启</color>
+Throw : <color%3D#FF0000FF>Disabled</color>=投掷: <color%3D#FF0000FF>已禁用</color>
+Throw : <color%3D#00FF00FF>Enabled</color>=投掷: <color%3D#00FF00FF>已开启</color>
+Max Length: =最大长度: 
+Default Length: 0.4=默认长度: 0.4
+Default Length: =默认长度: 
+Acid Power: =酸性能量: 
+
+<b>[SPG 01] Tiger Sword</b>.=<b>[SPG 01] 豹王</b>.
+Tiger I=豹王 I
+Tiger II=豹王 II
+
+<b>[SPG 01] Alter Butcher Sword</b>.=<b>[SPG 01] 白斩月</b>.
+Alter Butcher I=斩月 I
+Alter Butcher II=斩月 II
+Alter Butcher III=斩月 III
+Alter Butcher Sword Menu=斩月 刀剑菜单
+Alter Butcher Sword Menu.=斩月刀剑菜单.
+Butcher Fly Cut= 飞斩
+Cast: Butcher Fly Cut=施法: 飞斩
+Current: Butcher Fly Cut=当前: 飞斩
+Butcher Horizontal= 横斩
+Cast: Butcher Horizontal=施法: 横斩
+Current: Butcher Horizontal=当前: 横斩
+Butcher Double= 二连斩
+Cast: Butcher Double=施法: 二连斩
+Current: Butcher Double=当前: 二连斩
+Butcher Vertical Cast= 竖斩施放
+Cast: Butcher Vertical Cast=施法: 竖斩施放
+Current: Butcher Vertical Cast=当前: 竖斩施放
+Butcher Triple Cast= 三连斩施放
+Cast: Butcher Triple Cast=施法: 三连斩施放
+Current: Butcher Triple Cast=当前: 三连斩施放
+
+<b>[SPG 01] Ice Sword</b>.=<b>[SPG 01] 冰轮丸</b>.
+Ice I=冰轮丸 I
+Ice II=冰轮丸 II
+Ice Sword Menu=冰轮丸 刀剑菜单
+Ice Sword Menu.=冰轮丸刀剑菜单.
+Ice Sword Caster Menu=冰轮丸技能菜单
+Ice Blast Cast=寒冰爆裂施放
+Cast: Ice Blast Cast=施法: 寒冰爆裂施放
+Current: Ice Blast Cast=当前: 寒冰爆裂施放
+Ice Shield Cast=寒冰护盾施放
+Cast: Ice Shield Cast=施法: 寒冰护盾施放
+Current: Ice Shield Cast=当前: 寒冰护盾施放
+Ice Aura Cast=寒冰光环施放
+Cast: Ice Aura Cast=施法: 寒冰光环施放
+Current: Ice Aura Cast=当前: 寒冰光环施放
+Ice Spikes Cast=寒冰尖刺施放
+Cast: Ice Spikes Cast=施法: 寒冰尖刺施放
+Current: Ice Spikes Cast=当前: 寒冰尖刺施放
+Ice Slice Cast=寒冰切割施放
+Cast: Ice Slice Cast=施法: 寒冰切割施放
+Current: Ice Slice Cast=当前: 寒冰切割施放
+Ice Missle Cast=寒冰飞弹施放
+Cast: Ice Missle Cast=施法: 寒冰飞弹施放
+Current: Ice Missle Cast=当前: 寒冰飞弹施放
+Passive Freeze : <color%3D#FF0000FF>Disabled</color>=被动冻结: <color%3D#FF0000FF>已禁用</color>
+Passive Freeze : <color%3D#00FF00FF>Enabled</color>=被动冻结: <color%3D#00FF00FF>已开启</color>
+Passive Body Freeze : <color%3D#FF0000FF>Disabled</color>=被动身体冻结: <color%3D#FF0000FF>已禁用</color>
+Passive Body Freeze : <color%3D#00FF00FF>Enabled</color>=被动身体冻结: <color%3D#00FF00FF>已开启</color>
+Invoke Dragon=召唤冰龙
+Dragon Scale Mult=冰龙缩放倍数
+Dragon Speed Mult=冰龙速度倍数
+Dragon Power Mult=冰龙能量倍数
+Dragon Trail Length=冰龙长度
+
+<b>[SPG 01] Butcher Sword</b>.=<b>[SPG 01] 斩月</b>.
+Butcher I=斩月 I
+Butcher II=斩月 II
+Butcher III=斩月 III
+
+<b>[SPG 01] Blind Sword</b>.=<b>[SPG 01] 清虫</b>.
+Blind I=清虫 I
+Blind II=清虫 II
+Blind Sword Menu=清虫 刀剑菜单
+Blind Sword Menu.=清虫刀剑菜单.
+Cast Blind Area=投射盲区
+Blind Area Settings=盲区设置
+Close Area=关闭区域
+
+<b>[SPG 01] Berserk Sword</b>.=<b>[SPG 01] 野晒 </b>.
+Berserk I=野晒 I
+
+<b>[SPG 01] Weight Sword</b>.=<b>[SPG 01] 侘助</b>.
+Weight I=侘助 I
+Weight II=侘助 II
+Weight Sword Menu=侘助 刀剑菜单
+Weight Sword Menu.=侘助刀剑菜单.
+Slicing : <color%3D#FF0000FF>Disabled</color>=断肢: <color%3D#FF0000FF>已禁用</color>
+Slicing : <color%3D#00FF00FF>Enabled</color>=断肢: <color%3D#00FF00FF>已开启</color>
+Weight Adding : <color%3D#FF0000FF>Disabled</color>=增重: <color%3D#FF0000FF>已禁用</color>
+Weight Adding : <color%3D#00FF00FF>Enabled</color>=增重: <color%3D#00FF00FF>已开启</color>
+Weight Per Stab Multiplier=每次刺击增重倍数
+
+<b>[SPG 01] Green Sword</b>.=<b>[SPG 01] 红姬</b>.
+Green I=红姬 I
+Green II=红姬 II
+Green Sword Caster Menu=红姬 技能菜单
+Green Sword Menu.=红姬 刀剑菜单.
+Green Sword Menu.=红姬刀剑菜单.
+Sleep Touch <color%3D#00FF00FF>Enabled</color>=轻触睡眠 <color%3D#00FF00FF>已开启</color>
+Sleep Touch <color%3D#00FF00FF>Disabled</color>=轻触睡眠 <color%3D#00FF00FF>已关闭</color>
+Toggle Sleep Touch.=切换轻触睡眠
+Green Base Cut=红姬基础斩击
+Cast: Green Base Cut=施法: 红姬基础斩击
+Current: Green Base Cut=当前: 红姬基础斩击
+Green Fast Cut=红姬迅捷斩
+Cast: Green Fast Cut=施法: 红姬迅捷斩
+Current: Green Fast Cut=当前: 红姬迅捷斩
+Shield Cast=护盾施放
+Cast: Shield Cast=施法: 护盾施放
+Current: Shield Cast=当前: 护盾施放
+Green Strong Cut=红姬强力斩
+Cast: Green Strong Cut=施法: 红姬强力斩
+Current: Green Strong Cut=当前: 红姬强力斩
+
+<b>[SPG 01] Tricky Sword</b>.=<b>[SPG 01] 天花狂骨</b>.
+Tricky I=花天狂骨 I
+Tricky II=花天狂骨 II
+Games Menu=游戏菜单
+Current Game: Not Choosen=当前游戏：未选择
+Current Game: Behind=当前游戏：背后
+Behind=背后
+Grant sword mastery buff when someone behind user=当用户身后有人时，授予剑术精通增益效果
+Current Game: Highest=当前游戏：最高
+Highest=最高
+Grants speed buff when user higher than all people in radius=当用户等级高于半径范围内的所有人时，授予速度增益
+Current Game: Floor is Lava=当前游戏：地板是熔岩
+Floor is Lava=地板是熔岩
+Rule for all people in radius. Don't touch floor!=对半径范围内所有人员的规定：请勿触碰地面！
+Current Game: Color=当前游戏：颜色
+Change Color in Color Game=更改颜色游戏中的颜色
+Change Color in Color Game.=更改颜色游戏中的颜色.
+Color Game / Choose Color=颜色游戏/选择颜色
+Players can choose colors, and their swords will deal more damage in areas where that color dominates.=玩家可以选择颜色，在相应颜色占主导地位的区域，他们的剑将造成更多伤害
+Auto Choice: <color%3D#FF0000FF>Disabled</color>=自动选择: <color%3D#FF0000FF>已禁用</color>
+Auto Choice: <color%3D#00FF00FF>Enabled</color>=自动选择: <color%3D#00FF00FF>已开启</color>
+It automatically selects the best game for the current situation, auto choice plays on your side, and you will rarely find yourself at a disadvantage.=它会自动为当前情况选择最佳游戏，自动选择对你有利的玩法，你很少会处于不利境地
+Auto Choice Settings=自动选择设置
+Configure which games will be included in auto choice=设置哪些游戏将被纳入自动选择
+Auto Choice: <color%3D#FF0000FF>Excluded</color>=自动选择: <color%3D#FF0000FF>已排除</color>
+Auto Choice: <color%3D#00FF00FF>Included</color>=自动选择: <color%3D#00FF00FF>已包含</color>
+
+<b>[SPG 01] Science Sword</b>.=<b>[SPG 01] 疋杀地藏</b>.
+Science I=疋杀地藏 I
+Science II=疋杀地藏 II
+Science Sword Menu=疋杀地藏 技能菜单
+Science Sword Menu.=疋杀地藏技能菜单
+Main Affect Type=主要影响类型
+Main Affect Type Selection=主要影响类型选项
+Liquid=液体
+Selected: None=已选：无
+Selected: Liquid=已选：液体
+Scream Affect Type=尖叫影响类型
+Scream Affect Type Selection=尖叫影响类型选项
+Select Liquid=选择液体
+Select Liquid Menu=选择液体菜单
+Selected Liquid: 已选液体
+Stab To Turn Into Liquid: <color%3D#FF0000FF>Disabled</color>=刺击转化为液体: <color%3D#FF0000FF>已禁用</color>
+Stab To Turn Into Liquid: <color%3D#00FF00FF>Enabled</color>=刺击转化为液体: <color%3D#00FF00FF>已开启</color>
+Passive Aura: <color%3D#FF0000FF>Disabled</color>=被动光环: <color%3D#FF0000FF>已禁用</color>
+Passive Aura: <color%3D#00FF00FF>Enabled</color>=被动光环: <color%3D#00FF00FF>已开启</color>
+Aura Size Mult: =光环大小倍数: 
+Create Giant Creature=创造巨型生物
+Start Destruction=自毁
+Start Destruction.=自毁.
+Giant Creature Menu=巨型生物菜单
+Giant Creature Menu.=巨型生物菜单.
+Passive Fly: <color%3D#FF0000FF>Disabled</color>=被动飞行: <color%3D#FF0000FF>已禁用</color>
+Passive Fly: <color%3D#00FF00FF>Enabled</color>=被动飞行: <color%3D#00FF00FF>已开启</color>
+
+<b>[SPG 01] Ash Sword</b>.=<b>[SPG 01] 灰猫</b>.
+Ash I=灰猫 I
+Ash II=灰猫 II
+Ash Sword Menu=灰猫 技能菜单
+Ash Sword Menu.=灰猫技能菜单.
+Smoke Shield Cast=烟幕护盾施放
+Cast: Smoke Shield Cast=施法: 烟幕护盾施放
+Current: Smoke Shield Cast=当前: 烟幕护盾施放
+Smoke Forward Splash=烟幕向前泼溅
+Cast: Smoke Forward Splash=施法: 烟幕向前泼溅
+Current: Smoke Forward Splash=当前: 烟幕向前泼溅
+Smoke Prison=烟幕囚笼
+Cast: Smoke Prison=施法: 烟幕囚笼
+Current: Smoke Prison=当前: 烟幕囚笼
+Smoke Ash Slicing=烟尘切割
+Cast: Smoke Ash Slicing=施法: 烟尘切割
+Current: Smoke Ash Slicing=当前: 烟尘切割
+
+<b>[SPG 01] Snake Sword</b>.=<b>[SPG 01] 蛇尾丸</b>.
+Snake I=蛇尾丸 I
+Snake II=蛇尾丸 II
+Snake Sword Menu=蛇尾丸 技能菜单
+Snake Sword Menu.=蛇尾丸 技能菜单.
+Action Status=操作状态
+Action Status Selection=操作状态选项
+Folded=折叠
+Unfolded=展开
+Saw Parts Count=锯片零件数量
+Step Scale=分段比例
+Max Stretch=最大拉伸
+Direct Positioning=精确定位
+Direct Positioning: <color%3D#FF0000FF>Disabled</color>=精确定位: <color%3D#FF0000FF>已禁用</color>
+Direct Positioning: <color%3D#00FF00FF>Enabled</color>=精确定位: <color%3D#00FF00FF>已开启</color>
+Saw Speed=锯片速度
+Stretch Speed=拉伸速度
+
+<b>[SPG 01] Snow Sword</b>.=<b>[SPG 01] 袖白雪</b>.
+Snow I=袖白雪 I
+Snow II=袖白雪 II
+Freeze Sword Caster Menu=袖白雪技能菜单
+Enable Freeze: <color%3D#FF0000FF>Disabled</color>=启用冻结: <color%3D#FF0000FF>已禁用</color>
+Enable Freeze: <color%3D#00FF00FF>Enabled</color>=启用冻结: <color%3D#00FF00FF>已开启</color>
+You can switch EnableFreeze=你可以切换启用冻结
+Frozen Dance 1=冰霜之舞1
+Cast: Frozen Dance 1=施法: 冰霜之舞1
+Current: Frozen Dance 1=当前: 冰霜之舞1
+Frozen Dance 2=冰霜之舞2
+Cast: Frozen Dance 2=施法: 冰霜之舞2
+Current: Frozen Dance 2=当前: 冰霜之舞2
+
+<b>[SPG 01] Delusion Sword</b>.=<b>[SPG 01] 逆抚</b>.
+Delusion I=逆抚 I
+Delusion II=逆抚 II
+Open Delusion Settings=打开 逆抚 设置菜单
+Delusion Settings=逆抚 设置菜单
+Foot Step Change Gravity=脚步朝向改变重力
+Rotate Camera=旋转相机
+Use Direct Gravity=剑朝向改变重力
+Gravity Scale=重力系数
+Rotate Angle=旋转角度
+
+<b>[SPG 01] Wolf Sword</b>.=<b>[SPG 01] 孤狼</b>.
+Wolf I=孤狼 I
+Wolf II=孤狼 II
+Energy Blast Directional = 定向能量爆裂
+Cast: Energy Blast Directional = 施法: 定向能量爆裂
+Current: Energy Blast Directional = 当前: 定向能量爆裂
+Energy Blast Directional Barrage = 定向能量爆裂弹幕
+Cast: Energy Blast Directional Barrage = 施法: 定向能量爆裂弹幕
+Current: Energy Blast Directional Barrage = 当前: 定向能量爆裂弹幕
+
+<b>[SPG 01] Shark Sword</b>.=<b>[SPG 01] 皇鲛后</b>.
+Shark I=皇鲛后 I
+Shark II=皇鲛后 II
+Energy Blast = 能量爆裂
+Cast: Energy Blast = 施法: 能量爆裂
+Current: Energy Blast = 当前: 能量爆裂
+Water Blast Cast = 水之爆裂施放
+Cast: Water Blast Cast = 施法: 水之爆裂施放
+Current: Water Blast Cast = 当前: 水之爆裂施放
+Water Strong Cut = 水之强力斩
+Cast: Water Strong Cut = 施法: 水之强力斩
+Current: Water Strong Cut = 当前: 水之强力斩
+Water Near Explode = 水之近距爆裂
+Cast: Water Near Explode = 施法: 水之近距爆裂
+Current: Water Near Explode = 当前: 水之近距爆裂
+Water Sphere = 水之球体
+Cast: Water Sphere = 施法: 水之球体
+Current: Water Sphere = 当前: 水之球体
+Water Tornado = 水之龙卷
+Cast: Water Tornado = 施法: 水之龙卷
+Current: Water Tornado = 当前: 水之龙卷
+
+<b>[SPG 01] Reverse Sword</b>.=<b>[SPG 01] 双鱼理</b>.
+Reverse I=双鱼理 I
+Reverse II=双鱼理 II
+Open Reverse Menu=打开 双鱼理 菜单
+Open Reverse Menu.=打开双鱼理菜单.
+Reverse Sword Menu=双鱼理 刀剑菜单
+Max Cast Mult: =最大施法倍数: 
+Max Cast Mult: 1.5=最大施法倍数: 1.5
+Open Choose Menu=打开选项菜单
+Reverse Sword - Select Projectile=双鱼理 - 选择投射物
+
+<b>[SPG 01] Bat Sword</b>.=<b>[SPG 01] 黑翼大魔</b>.
+Bat I=黑翼大魔 I
+Bat II=黑翼大魔 II
+Bat III=黑翼大魔 III
+
+<b>[SPG 01] Bow Sword</b>.=<b>[SPG 01] 弧雀</b>.
+Bow I=弧雀 I
+
+<b>[SPG 01] Fire Sword</b>.=<b>[SPG 01] 流刃若火</b>.
+Fire I=流刃若火 I
+Fire II=流刃若火 II
+Fire Sword Menu=流刃若火 刀剑菜单
+Pyro Slash = 烈焰斩击
+Cast: Pyro Slash = 施法: 烈焰斩击
+Current: Pyro Slash = 当前: 烈焰斩击
+Fire Nuke = 火焰核爆
+Cast: Fire Nuke = 施法: 火焰核爆
+Current: Fire Nuke = 当前: 火焰核爆
+Fire Meteor = 火焰陨石
+Cast: Fire Meteor = 施法: 火焰陨石
+Current: Fire Meteor = 当前: 火焰陨石
+Fire Sphere = 火焰球体
+Cast: Fire Sphere = 施法: 火焰球体
+Current: Fire Sphere = 当前: 火焰球体
+Fire Strong Cut = 火焰强力斩
+Cast: Fire Strong Cut = 施法: 火焰强力斩
+Current: Fire Strong Cut = 当前: 火焰强力斩
+Passive Burn : <color%3D#FF0000FF>Disabled</color>=被动燃烧 : <color%3D#FF0000FF>已禁用</color>
+Passive Burn : <color%3D#00FF00FF>Enabled</color>=被动燃烧 : <color%3D#00FF00FF>已开启</color>
+Passive Body Burn : <color%3D#FF0000FF>Disabled</color>=被动身体燃烧: <color%3D#FF0000FF>已禁用</color>
+Passive Body Burn : <color%3D#00FF00FF>Enabled</color>=被动身体燃烧: <color%3D#00FF00FF>已开启</color>
+Passive Ignition : <color%3D#FF0000FF>Disabled</color>=被动点燃: <color%3D#FF0000FF>已禁用</color>
+Passive Ignition : <color%3D#00FF00FF>Enabled</color>=被动点燃: <color%3D#00FF00FF>已开启</color>
+Passive Burn Target Temperature=被动燃烧目标温度
+Guaranteed to ignite anyone with less than 10145 energy nearby=保证能点燃附近能量值低于10145的任何人
+Cast Fire Area=展开火焰领域
+Creates a dangerous fire zone where survival is a miracle=这里形成了一个危险的火灾区，能幸存下来简直是个奇迹
+Fire Area Settings=火焰领域设置
+Heating : <color%3D#FF0000FF>Disabled</color>=加热 : <color%3D#FF0000FF>已禁用</color>
+Heating : <color%3D#00FF00FF>Enabled</color>=加热 : <color%3D#00FF00FF>已开启</color>
+Target Temperature=目标温度
+Maximum Output: Heat=最大输出: 热量
+The survivors will envy the dead.=幸存者会羡慕那些死去的人
+
+//*武器通用右键菜单
+Enable Cross Collider=<color%3D#00FF00FF>开启武器交叉碰撞
+Disable Cross Collider=<color%3D#FF0000FF>关闭武器交叉碰撞
+Switch Cross Collider=切换武器交叉碰撞
+Switch Cross Collider.=切换武器交叉碰撞.
+
+Enable Draw Cross Collider=<color%3D#00FF00FF>开启绘制武器交叉碰撞箱
+Disable Draw Cross Collider=<color%3D#FF0000FF>关闭绘制武器交叉碰撞箱
+Switch Draw Cross Collider=切换绘制武器交叉碰撞箱
+Switch Draw Cross Collider.=切换绘制武器交叉碰撞箱.
+
+Unassign Sword=<b><color%3D#FF0000FF>解除</color>刀剑绑定</b>
+Unassign Sword.=解除刀剑绑定.
+
+Enable Slice=<color%3D#00FF00FF>开启断肢
+Disable Slice=<color%3D#FF0000FF>关闭断肢
+Switch Slice=切换断肢
+Switch Slice.=切换断肢.
+
+Enable Default Sharp=<color%3D#00FF00FF>切换成原版锋利度
+Switch Default Sharp=切换高锋利度
+Switch Default Sharp.=切换高锋利度.
+Default Sharp Open Menu=<color%3D#FFD800>打开高锋利度菜单
+Default Sharp Open Menu.=打开高锋利度菜单.
+
+Caster Settings=施法者设置
+
+//*面罩切换栏
+
+Butcher Mask I=屠夫面具 I
+MF: Butcher Mask I=MF: 屠夫面具 I
+Butcher Mask II=屠夫面具 II
+MF: Butcher Mask II=MF: 屠夫面具 II
+
+Death Mask=死亡面具
+MF: Death Mask=MF: 死亡面具 
+Death Mask I=死亡面具 I
+MF: Death Mask I=MF: 死亡面具 I
+Death Mask II=死亡面具 II
+MF: Death Mask II=MF: 死亡面具 II
+
+Tiger Mask I=老虎面具 I
+MF: Tiger Mask I=MF: 老虎面具 I
+Tiger Mask II=老虎面具 II
+MF: Tiger Mask II=MF: 老虎面具 II
+
+//*状态
+
+Arancar=破面
+Doofy=舞台
+Invasion=侵入
+Revealed=掀开
+
+//*皮肤
+Skeleton=骷髅
+
+NoShade=无太阳镜
+Young=青年
+
+Smile (dyad ver)=微笑"(二重奏版")
+Smile (quames ver)=微笑("这是真的")
+
+//*对话
+
+Beh断nd=背后
+上边 is Lava=地板是熔岩
+Game Over=游戏结束
+
+The body can't handle deep synergy=这个身体无法承受深度协同
+
+Evolution Available=新进化形态已解锁
+
+The target is too close=目标太近
+
+
+
+
+
+
+//*物品翻译补充
+<b>[SPG 01] Alter Butcher IItem </b>.\r\n=<b>[SPG 01] 白斩月 I</b>.\r\n
+<b>[SPG 01] Alter Butcher IIItem </b>.\r\n=<b>[SPG 01] 白斩月 II</b>.\r\n
+<b>[SPG 01] Alter Butcher IIIItem </b>.\r\n=<b>[SPG 01] 白斩月 III</b>.\r\n
+<b>[SPG 01] Ash IItem </b>.\r\n=<b>[SPG 01] 灰猫 I</b>.\r\n
+<b>[SPG 01] Ash IIItem </b>.\r\n=<b>[SPG 01] 灰猫 II</b>.\r\n
+<b>[SPG 01] Bat IItem </b>.\r\n=<b>[SPG 01] 黑翼大魔 I</b>.\r\n
+<b>[SPG 01] Bat IIItem </b>.\r\n=<b>[SPG 01] 黑翼大魔 II</b>.\r\n
+<b>[SPG 01] Bat IIIItem </b>.\r\n=<b>[SPG 01] 黑翼大魔 III</b>.\r\n
+<b>[SPG 01] Berserk IItem </b>.\r\n=<b>[SPG 01] 野晒 I</b>.\r\n
+<b>[SPG 01] Blind IItem </b>.\r\n=<b>[SPG 01] 清虫 I</b>.\r\n
+<b>[SPG 01] Blind IIItem </b>.\r\n=<b>[SPG 01] 清虫 II</b>.\r\n
+<b>[SPG 01] Bow IItem </b>.\r\n=<b>[SPG 01] 弧雀 I</b>.\r\n
+<b>[SPG 01] Butcher IItem </b>\r\nWho even use it lol??\r\n=<b>[SPG 01] 斩月 I</b>\r\n这玩意儿谁还用啊哈哈??\r\n
+<b>[SPG 01] Butcher IIItem </b>\r\nIS A BUTCHER KNIFE!\r\n=<b>[SPG 01] 斩月 II</b>\r\n这是一把屠刀!\r\n
+<b>[SPG 01] Butcher IIIItem </b>\r\nFull power of butcher knife.\r\n=<b>[SPG 01] 斩月 III</b>\r\n杀鸡焉用牛刀.\r\n
+<b>[SPG 01] Death IItem </b>.\r\n=<b>[SPG 01] 灭亡之斧 I</b>.\r\n
+<b>[SPG 01] Death IIItem </b>.\r\n=<b>[SPG 01] 灭亡之斧 II</b>.\r\n
+<b>[SPG 01] Delusion IItem </b>.\r\n=<b>[SPG 01] 逆抚 I</b>.\r\n
+<b>[SPG 01] Delusion IIItem </b>.\r\n=<b>[SPG 01] 逆抚 II</b>.\r\n
+<b>[SPG 01] Fire IItem </b>.\r\n=<b>[SPG 01] 流刃若火 I</b>.\r\n
+<b>[SPG 01] Fire IIItem </b>.\r\n=<b>[SPG 01] 流刃若火 II</b>.\r\n
+<b>[SPG 01] Green IItem </b>.\r\n=<b>[SPG 01] 红姬 I</b>.\r\n
+<b>[SPG 01] Green IIItem </b>.\r\n=<b>[SPG 01] 红姬 II</b>.\r\n
+<b>[SPG 01] Hypnosis IItem </b>.\r\n=<b>[SPG 01] 镜花水月 I</b>.\r\n
+<b>[SPG 01] Hypnosis IIItem </b>.\r\n=<b>[SPG 01] 镜花水月 II</b>.\r\n
+<b>[SPG 01] Ice IItem </b>.\r\n=<b>[SPG 01] 冰轮丸 I</b>.\r\n
+<b>[SPG 01] Ice IIItem </b>.\r\n=<b>[SPG 01] 冰轮丸 II</b>.\r\n
+<b>[SPG 01] Long IItem </b>.\r\n=<b>[SPG 01] 神枪 I</b>.\r\n
+<b>[SPG 01] Long IIItem </b>.\r\n=<b>[SPG 01] 神杀枪 II</b>.\r\n
+<b>[SPG 01] Reverse IItem </b>.\r\n=<b>[SPG 01] 双鱼理 I</b>.\r\n
+<b>[SPG 01] Reverse IIItem </b>\r\nTechnically cannot exist without an owner. Use Ability Picker or a sword instead of a form to give it.\r\n=<b>[SPG 01] 双鱼理 II</b>\r\n技术上没有所有者便无法存在. 请使用能力拾取器或剑来赋予它，而非通过形态.\r\n
+<b>[SPG 01] Sakura IItem </b>.\r\n=<b>[SPG 01] 千本樱 I</b>.\r\n
+<b>[SPG 01] Sakura IIItem </b>.\r\n=<b>[SPG 01] 千本樱 II</b>.\r\n
+<b>[SPG 01] Science IItem </b>.\r\n=<b>[SPG 01] 疋杀地藏 I</b>.\r\n
+<b>[SPG 01] Science IIItem </b>.\r\n=<b>[SPG 01] 疋杀地藏 II</b>.\r\n
+<b>[SPG 01] Shark IItem </b>.\r\n=<b>[SPG 01] 皇鲛后 I</b>.\r\n
+<b>[SPG 01] Shark IIItem </b>.\r\n=<b>[SPG 01] 皇鲛后 II</b>.\r\n
+<b>[SPG 01] Snake IItem </b>.\r\n=<b>[SPG 01] 蛇尾丸 I</b>.\r\n
+<b>[SPG 01] Snake IIItem </b>.\r\n=<b>[SPG 01] 蛇尾丸 II</b>.\r\n
+<b>[SPG 01] Snow IItem </b>.\r\n=<b>[SPG 01] 袖白雪 I</b>.\r\n
+<b>[SPG 01] Snow IIItem </b>.\r\n=<b>[SPG 01] 袖白雪 II</b>.\r\n
+<b>[SPG 01] Tricky IItem </b>.\r\n=<b>[SPG 01] 花天狂骨 I</b>.\r\n
+<b>[SPG 01] Tricky IIItem </b>\r\nTechnically cannot exist without an owner. Use Ability Picker or a sword instead of a form to give it.\r\n=<b>[SPG 01] 花天狂骨 II</b>\r\n技术上没有所有者便无法存在. 请使用能力拾取器或剑来赋予它，而非通过形态.\r\n
+<b>[SPG 01] Weight IItem </b>.\r\n=<b>[SPG 01] 侘助 I</b>.\r\n
+<b>[SPG 01] Weight IIItem </b>.\r\n=<b>[SPG 01] 侘助 II</b>.\r\n
+<b>[SPG 01] Wolf IItem </b>.\r\n=<b>[SPG 01] 孤狼 I</b>.\r\n
+<b>[SPG 01] Wolf IIItem </b>.\r\n=<b>[SPG 01] 孤狼 II</b>.\r\n
+
+SF: Alter Butcher I=剑形: 白斩月 I
+Sword Form: Alter Butcher I=剑形: 白斩月 I
+SF: Alter Butcher II=剑形: 白斩月 II
+Sword Form: Alter Butcher II=剑形: 白斩月 II
+SF: Alter Butcher III=剑形: 白斩月 III
+Sword Form: Alter Butcher III=剑形: 白斩月 III
+SF: Ash I=剑形: 灰猫 I
+Sword Form: Ash I=剑形: 灰猫 I
+SF: Ash II=剑形: 灰猫 II
+Sword Form: Ash II=剑形: 灰猫 II
+SF: Bat I=剑形: 黑翼大魔 I
+Sword Form: Bat I=剑形: 黑翼大魔 I
+SF: Bat II=剑形: 黑翼大魔 II
+Sword Form: Bat II=剑形: 黑翼大魔 II
+SF: Bat III=剑形: 黑翼大魔 III
+Sword Form: Bat III=剑形: 黑翼大魔 III
+SF: Berserk I=剑形: 野晒 I
+Sword Form: Berserk I=剑形: 野晒 I
+SF: Blind I=剑形: 清虫 I
+Sword Form: Blind I=剑形: 清虫 I
+SF: Blind II=剑形: 清虫 II
+Sword Form: Blind II=剑形: 清虫 II
+SF: Bow I=剑形: 弧雀 I
+Sword Form: Bow I=剑形: 弧雀 I
+SF: Butcher I=剑形: 斩月 I
+<size%3D60%><b>Sword Form: Butcher I</b></size>\nWho even use it lol??=<size%3D60%><b>剑形：屠夫 I</b></size>\n这玩意儿谁还用啊哈哈??
+SF: Butcher II=剑形: 斩月 II
+<size%3D60%><b>Sword Form: Butcher II</b></size>\nIS A BUTCHER KNIFE!=<size%3D60%><b>剑形：屠夫 II</b></size>\n这是一把屠夫刀！
+SF: Butcher III=剑形: 斩月 III
+<size%3D60%><b>Sword Form: Butcher III</b></size>\nFull power of butcher knife.=<size%3D60%><b>剑形：屠夫 III</b></size>\n杀鸡焉用牛刀。
+SF: Death I=剑形: 灭亡之斧 I
+Sword Form: Death I=剑形: 灭亡之斧 I
+SF: Death II=剑形: 灭亡之斧 II
+Sword Form: Death II=剑形: 灭亡之斧 II
+SF: Delusion I=剑形: 逆抚 I
+Sword Form: Delusion I=剑形: 逆抚 I
+SF: Delusion II=剑形: 逆抚 II
+Sword Form: Delusion II=剑形: 逆抚 II
+SF: Fire I=剑形: 流刃若火 I
+Sword Form: Fire I=剑形: 流刃若火 I
+SF: Fire II=剑形: 流刃若火 II
+Sword Form: Fire II=剑形: 流刃若火 II
+SF: Green I=剑形: 红姬 I
+Sword Form: Green I=剑形: 红姬 I
+SF: Green II=剑形: 红姬 II
+Sword Form: Green II=剑形: 红姬 II
+SF: Hypnosis I=剑形: 镜花水月 I
+Sword Form: Hypnosis I=剑形: 镜花水月 I
+SF: Hypnosis II=剑形: 镜花水月 II
+Sword Form: Hypnosis II=剑形: 镜花水月 II
+SF: Ice I=剑形: 冰轮丸 I
+Sword Form: Ice I=剑形: 冰轮丸 I
+SF: Ice II=剑形: 冰轮丸 II
+Sword Form: Ice II=剑形: 冰轮丸 II
+SF: Long I=剑形: 神枪 I
+Sword Form: Long I=剑形: 神枪 I
+SF: Long II=剑形: 神杀枪 II
+Sword Form: Long II=剑形: 神杀枪 II
+SF: Reverse I=剑形: 双鱼理 I
+Sword Form: Reverse I=剑形: 双鱼理 I
+SF: Reverse II=剑形: 双鱼理 II
+<size%3D60%><b>Sword Form: Reverse II</b></size>\nTechnically cannot exist without an owner. Use Ability Picker or a sword instead of a form to give it.=<size%3D60%><b>剑形：逆转 II</b></size>\n技术上没有所有者便无法存在. 请使用能力拾取器或剑来赋予它，而非通过形态
+SF: Sakura I=剑形: 千本樱 I
+Sword Form: Sakura I=剑形: 千本樱 I
+SF: Sakura II=剑形: 千本樱 II
+Sword Form: Sakura II=剑形: 千本樱 II
+SF: Science I=剑形: 疋杀地藏 I
+Sword Form: Science I=剑形: 疋杀地藏 I
+SF: Science II=剑形: 疋杀地藏 II
+Sword Form: Science II=剑形: 疋杀地藏 II
+SF: Shark I=剑形: 皇鲛后 I
+Sword Form: Shark I=剑形: 皇鲛后 I
+SF: Shark II=剑形: 皇鲛后 II
+Sword Form: Shark II=剑形: 皇鲛后 II
+SF: Snake I=剑形: 蛇尾丸 I
+Sword Form: Snake I=剑形: 蛇尾丸 I
+SF: Snake II=剑形: 蛇尾丸 II
+Sword Form: Snake II=剑形: 蛇尾丸 II
+SF: Snow I=剑形: 袖白雪 I
+Sword Form: Snow I=剑形: 袖白雪 I
+SF: Snow II=剑形: 袖白雪 II
+Sword Form: Snow II=剑形: 袖白雪 II
+SF: Tricky I=剑形: 花天狂骨 I
+Sword Form: Tricky I=剑形: 花天狂骨 I
+SF: Tricky II=剑形: 花天狂骨 II
+<size%3D60%><b>Sword Form: Tricky II</b></size>\nTechnically cannot exist without an owner. Use Ability Picker or a sword instead of a form to give it.=<size%3D60%><b>剑形：诡计 II</b></size>\n技术上没有所有者便无法存在. 请使用能力拾取器或剑来赋予它，而非通过形态.
+SF: Weight I=剑形: 侘助 I
+Sword Form: Weight I=剑形: 侘助 I
+SF: Weight II=剑形: 侘助 II
+Sword Form: Weight II=剑形: 侘助 II
+SF: Wolf I=剑形: 孤狼 I
+Sword Form: Wolf I=剑形: 孤狼 I
+SF: Wolf II=剑形: 孤狼 II
+Sword Form: Wolf II=剑形: 孤狼 II
+SF: Tiger I=剑形: 豹王 I
+Sword Form: Tiger I=剑形: 豹王 I
+SF: Tiger II=剑形: 豹王 II
+Sword Form: Tiger II=剑形: 豹王 II
+
+
+
+
+
+
+
+//*右下角对话
+
+<color%3D"green">Anyone can use this powerball now=<color%3D"green">现在，任何人都可以使用这个崩玉
+
+<color%3D"red">No SoulSystem Was Found=<color%3D"red">未找到灵魂系统
+
+<color%3D"green">Weight Sword: masses cleared=<color%3D"green">侘助：质量已清零
+
+<color%3D"red">Direct Positioning Parameter Disabled=<color%3D"red">精确定位参数已禁用
+<color%3D"green">Direct Positioning Parameter Enabled=<color%3D"green">精确定位参数已启用
+
+//*提示框
+Soul System required!=需要灵魂系统！
+Soul System not found=灵魂系统未找到
+Add and continue=添加并继续
+
+//*血腥设置
+
+[UNION] Cloth Physical Damage=[UNION] 布料物理伤害
+Only Skin Reference=仅影响皮肤
+Fully Enabled=全部启用
+Disabled - completely turns off all clothing damage. Only Skin Reference - mirrors skin damage state without Damage Points. Fully Enabled - enables complete physical damage. Default: Fully Enabled.=禁用 - 完全关闭所有衣物伤害.仅影响皮肤 - 仅反映皮肤伤害状态，不考虑伤害值.完全启用 - 启用完整的物理伤害.默认：完全启用
+
+[UNION] Cloth Bullet Intensity=[UNION] 布料子弹强度
+Controls the intensity of bullet damage applied to clothing materials. Higher values create more pronounced bullet hole effects and fabric tearing. Default is 0.6=控制子弹对衣物材料造成的伤害强度. 值越高，子弹孔效果越明显，布料撕裂程度也越大.默认值为0.6
+
+[UNION] Cloth Stab Intensity=[UNION] 布料刺穿强度
+Adjusts the severity of stab and puncture damage on clothing. Higher values result in larger tears and more visible fabric damage from sharp objects. Default is 3.0=调整衣物上刺伤和戳伤的严重程度. 值越高，尖锐物体造成的撕裂越大，布料损坏越明显.默认值为3.0
+
+[UNION] Cloth Burn Intensity=[UNION] 布料燃烧强度
+Determines the intensity of burn damage effects on clothing materials. Higher values create more extensive burn marks and fabric deterioration. Default 1.2=决定衣物材料上烧伤效果的强度. 值越高，烧痕越明显，布料损坏越严重.默认值为1.2
+
+[UNION] Cloth Pixel Damage Scale=[UNION]布料像素损伤量表
+Controls the pixel-level scaling of damage effects on clothing textures. Lower values create finer detail damage, while higher values produce larger, more visible damage areas. Default 0.5=控制衣物纹理上损伤效果的像素级缩放. 值越低，产生的损伤细节越精细；值越高，产生的损伤区域越大且越明显.默认值为0.5
+
+[UNION] Physical Clothes=[UNION] 实体衣物
+You can disable physical clothing if you wish. This may be useful if you have a weak computer.=如果你愿意，可以禁用物理衣物. 如果你电脑性能较差，这可能会很有用.
+
+[UNION] Cloth Heal Sync=[UNION] 布料修复同步
+Allows you to “heal” clothing like a character's skin.=让你能够像修复角色皮肤一样“修复”衣物
+
+//*键位设置
+[UNION] Refresh Assets=[UNION] 刷新资产
+Alternative Power Button (ENSYS, HTR, BN, CSM, etc)=备用能力按钮 (ENSYS, HTR, BN, CSM, etc)
+[UNION] Additional Second Button=[UNION] 附加的第二个按钮
+[UNION] Additional Third Button=[UNION] 附加的第三个按钮
+[UNION] Additional Fourth Button=[UNION] 附加的第四个按钮
+[UNION] Open Abilities Menu=[UNION] 打开能力菜单
+
+
+//*特殊功能按钮补充                                       //不知为何我没有出现这些按钮, 所以这些是群友提供给我的
+Set 01 standard Layers=设置01标准图层
+[UDBG] Set 01 Standard Layers=[UDBG]01标准图层
+Set Clothes=整理衣服
+[UDBG] Set Clothes=[UDBG]整理衣服
+Remove Clothes=脱掉衣服
+[UDBG] Remove Clothes=[UDBG]脱掉衣服
+Add Feature=添加功能
+[UDBG] Add Feature=[UDBG]添加功能
+Remove Feature=移除功能
+[UDBG] Remove Feature=[UDBG]移除功能
+[U] Clear Cloth Damage=[U] 清除布料损坏
+[U] Clear Cloth Damage.=[U] 清除布料损坏.

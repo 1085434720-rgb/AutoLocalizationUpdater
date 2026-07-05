@@ -1,0 +1,3132 @@
+//*TF_RC汉化
+//使用说明===================================================================================================
+<size%3D1.5em>Jujutsu Playground Release</size>\n<b>Jujutsu Playground [JJP]</b> – is an Advanced Large-Scale Global Mod which was in Development for almost 2 years!  \r\n<b>[JJP]</b> implements Best Elements created during this time and significantly Improves them!\r\n\r\n\r\n<size%3D160%><b>[JJP] CONTAINS:</b></size>\r\n\r\n• Over 100+ <b>Characters</b> – (Including Evolutions)  \r\n• Over 100+ <b>Unique Abilities</b> – (Including different variants and etc)  \r\n• Over 20+ <b>Domain Expansions</b> – (Including Poses with Domain Plates)  \r\n• Over 50+ <b>Various Items</b> – (Including Functional Clothing and etc)  \r\n• <b>High-Quality Effects</b>, <b>UI</b>, <b>Animations</b>, and much more!\r\n\r\n\r\n<size%3D130%><b>MORE DETAILED ABOUT FEATURES:</b></size>\r\n\r\n• <b>Ability Picker</b>, <b>Hotkeys</b>, <b>Abilities Menu</b> – (With Ability Options)  \r\n• Everything is <b>Fully Customizable</b> – (Including Global Settings and Json Configs)  \r\n• Improved <b>Combat and Melee</b> Weapons System  \r\n• Global Energy and <b>Durability</b> System  \r\n• Dynamic <b>Description</b> System  \r\n• System of <b>Jujutsu Sorcerers</b>, <b>Cursed Spirits</b> and <b>Shikigami</b>\r\n\r\n\r\n<size%3D130%><b>OTHER STUFF:</b></size>\r\n\r\n• Dynamic <b>Skin System</b> (Including Guide Below)  \r\n• <b>Compatibility</b> with ENSYS-based mods like (HTR, BN, CM, HB)  \r\n• And <b>Secret Content</b> for the most curious\r\n\r\n\r\n<size%3D160%><b>SPECIAL THANKS TO</b></size>\r\n\r\n<size%3D140%><b>MOD HELPERS</b></size>\r\n\r\n• zooi – (Literally PPG Creator + Helped with Cool Systems, Shaders, Bug fixes and Much More)  \r\n• Alibarda – ENSYS, Compatibilities and Much More – (Raspilil robota)  \r\n• ce ce Bence – Helped with bug fixes  \r\n• + HUGE thanks to our web developers!\r\n\r\n\r\n<size%3D140%><b>SPRITERS</b></size>\r\n\r\n• LightNyan – Main Spriter and Vfx Maker  \r\n• Quames – Second Main Spriter and Vfx Maker  \r\n• BarBeQ – Original Spriter  \r\n• Axulre – Spriter helper  \r\n• hazel – Spriter helper  \r\n• pressedXD – Spriter helper  \r\n• TheGlitcher – Spriter helper\r\n\r\n\r\n<size%3D140%><b>VIDEO EDITORS</b></size>\r\n\r\n• Chebupeli – Goated Video Editor – (12+ Mins Vid In 15 Hours)  \r\n• C_Quarian – Old Video Editor\r\n\r\n\r\n<size%3D140%><b>SUPPORT GODS</b></size>\r\n\r\n• Noa – THE FIRST ORDER  \r\n• George Cerda – Patreon GOD  \r\n• Mario – Boosty GOD  \r\n• Divinez – ORDER GOD  \r\n• Cup – ORDER GOD\r\n\r\n\r\n<size%3D140%><b>GOATED CUSTOMERS</b></size>\r\n\r\n• Ashlocity – customer  \r\n• Seth Lowell – customer  \r\n• witty bitty – customer  \r\n• nova – customer  \r\n• TubularTax19130 – customer  \r\n• kyash – customer  \r\n• Divine! – customer  \r\n• TheTrox – customer  \r\n• Evan – customer  \r\n• ForzaKorizonX: BackShot Central – customer  \r\n• SwordOfLumière – customer  \r\n• Blank – customer  \r\n• TheBigTurk – customer=<size%3D1.5em>咒术游乐场发布</size>\n<b>咒术游乐场 [JJP]</b> – 是一个先进的大型全球模组，开发周期近两年！\r\n<b>[JJP]</b> 集成了此期间创造的最佳元素，并对其进行了显著改进！\r\n\r\n\r\n<size%3D160%><b>[JJP] 包含：</b></size>\r\n\r\n• 超过 100+ <b>角色</b> –（包含进化形态）\r\n• 超过 100+ <b>独特能力</b> –（包含不同变体等）\r\n• 超过 20+ <b>领域展开</b> –（包含带有领域板块的姿势）\r\n• 超过 50+ <b>各类物品</b> –（包含功能性服装等）\r\n• <b>高品质特效</b>、<b>UI</b>、<b>动画</b>，以及更多内容！\r\n\r\n\r\n<size%3D130%><b>功能详细介绍：</b></size>\r\n\r\n• <b>能力选择器</b>、<b>快捷键</b>、<b>能力菜单</b> –（附带能力选项）\r\n• 一切均可<b>完全自定义</b> –（包含全局设置和Json配置）\r\n• 改进的<b>战斗与近战</b>武器系统\r\n• 全局能量与<b>耐久度</b>系统\r\n• 动态<b>描述</b>系统\r\n• <b>咒术师</b>、<b>咒灵</b>和<b>式神</b>的系统\r\n\r\n\r\n<size%3D130%><b>其他内容：</b></size>\r\n\r\n• 动态<b>皮肤系统</b>（包含下方指南）\r\n• 与基于能量系统的模组（如HTR、BN、CM、HB）的<b>兼容性</b>\r\n• 以及为最富好奇心的玩家准备的<b>隐藏内容</b>\r\n\r\n\r\n<size%3D160%><b>特别感谢</b></size>\r\n\r\n<size%3D140%><b>模组协助者</b></size>\r\n\r\n• zooi –（实际上是PPG创造者 + 协助制作酷炫系统、着色器、修复错误等）\r\n• Alibarda – 能量系统、兼容性及更多 –（分摊了工作）\r\n• ce ce Bence – 协助修复错误\r\n• + 衷心感谢我们的网页开发者！\r\n\r\n\r\n<size%3D140%><b>像素画师</b></size>\r\n\r\n• LightNyan – 首席像素画师与特效制作者\r\n• Quames – 第二首席像素画师与特效制作者\r\n• BarBeQ – 原版像素画师\r\n• Axulre – 像素画师助理\r\n• hazel – 像素画师助理\r\n• pressedXD – 像素画师助理\r\n• TheGlitcher – 像素画师助理\r\n\r\n\r\n<size%3D140%><b>视频剪辑师</b></size>\r\n\r\n• Chebupeli – 顶尖视频剪辑师 –（15小时内完成12+分钟视频）\r\n• C_Quarian – 早期视频剪辑师\r\n\r\n\r\n<size%3D140%><b>赞助大神</b></size>\r\n\r\n• Noa – 第一订单\r\n• George Cerda – Patreon大神\r\n• Mario – Boosty大神\r\n• Divinez – 订单大神\r\n• Cup – 订单大神\r\n\r\n\r\n<size%3D140%><b>尊贵客户</b></size>\r\n\r\n• Ashlocity – 客户\r\n• Seth Lowell – 客户\r\n• witty bitty – 客户\r\n• nova – 客户\r\n• TubularTax19130 – 客户\r\n• kyash – 客户\r\n• Divine! – 客户\r\n• TheTrox – 客户\r\n• Evan – 客户\r\n• ForzaKorizonX: BackShot Central – 客户\r\n• SwordOfLumière – 客户\r\n• Blank – 客户\r\n• TheBigTurk – 客户
+
+
+//JJP皮肤===================================================================================================
+JJP Skins=JJP皮肤
+It locates in Mods/JJPSkins\nYou can change name, thumb, description in mod.json\nJust put skins in folder, restart game and upload if u want!=它位于Mods/JJPSkins文件夹中\n你可以在mod.json中更改名称、缩略图和描述\n只需将皮肤放入文件夹，重启游戏，如果你想的话就可以上传
+
+
+
+
+
+//物品栏===================================================================================================
+<b>Jujutsu Playground 01</b>.=<b>咒术游乐场 01[TF_RC汉化]</b>.
+
+
+
+
+
+//*首次游玩弹窗===================================================================================================
+<size%3D120%><b>This is not an advertisement.</b></size>\n\n<color%3D#FFD700>We failed a little with the release, we did not expect such activity <3</color>\n\nWe want to say <b>thank you</b> to everyone who has been with us all this time.\nIt is thanks to <color%3D#4CAF50>you and your support</color> that we were able to reach the current stage of development.\n\n<i>I still can't believe that so many people supported the development of this mod.</i>\n\nWe want to continue to <b>delight you</b> with our mods.\n\n<size%3D110%><color%3D#00BCD4><b>Enjoy playing with the mod!</b></color></size>=<size%3D120%><b>这不是广告</b></size>\n\n<color%3D#FFD700>我们在发布时有点失误，没想到会有这么高的热度 <3</color>\n\n我们想对一直以来支持我们的所有人说声<b>谢谢</b>.\n正是因为有<color%3D#4CAF50>你和你的支持</color>，我们才能达到目前的开发阶段.\n\n<i>我仍然不敢相信有这么多人支持这个模组的开发.</i>\n\n我们希望能继续用我们的模组<b>让大家开心</b>.\n\n<size%3D110%><color%3D#00BCD4><b>祝游玩愉快！</b></color></size>
+
+<color%3Dred><b>JUJUTSU PLAYGROUND</b></color> <size%3D110%>FINALLY</size> <color%3Dred><b>HERE!</b></color>\n<size%3D30%><color%3D#808080>And now for the advertisement, I wouldn't be me if I didn't add it xD</color>=<color%3Dred><b>咒术游乐场</b></color> <size%3D110%>终于</size> <color%3Dred><b>来了！</b></color>\n<size%3D30%><color%3D#808080>现在是广告时间，如果不加广告那就不是我了 xD</color>
+
+Our Discord community, where you can ask questions about\nthe mod, follow news about future mods, and just chat.=我们的Discord社区，在这里你可以提问关于\n模组的问题，关注未来模组的新闻，或者只是闲聊.
+
+Follow this link to support our work on Boosty or Patreon and\nreceive exclusive mods.=点击此链接在Boosty或Patreon上支持我们的工作，并\n获得独家模组.
+
+Don't forget to like us, we'll rework Hanami and Dagon when\nwe get 15,000 likes.=别忘了给我们点赞，当点赞达到15000时，我们会重做花见和陀艮.\n```
+
+
+
+
+
+//*细节预览===================================================================================================
+Jujutsu Status=咒术状态
+
+
+
+
+
+//*能力菜单===================================================================================================
+Jujutsu System=咒术系统
+Set Max Energy=设置能量上限
+Set Speed Recovery Energy=设置能量恢复速度
+Heavenly Restriction=天与咒缚
+Remove Abilities=移除能力
+Remove Abilities (CAN CAUSE BUGS)=移除能力（可能导致错误）
+Remove All=移除所有
+Copy Abilities=复制能力
+FOREGROUND=前面
+BACKGROUND=背面
+LowerArmFront FrontArmClone=前下臂 前臂克隆
+LowerArmFront BackArmClone=前下臂 后臂克隆
+LowerArmFrontClone=前下臂克隆
+LowerArmClone=下臂克隆
+UpperArmFrontSecond=前上臂2
+LowerArmFrontSecond=前下臂2
+UpperArmSecond=上臂2
+LowerArmSecond=下臂2
+Tail 04Clone=尾巴04克隆
+Tail 03Clone=尾巴03克隆
+Tail 02Clone=尾巴02克隆
+Tail 01Clone=尾巴01克隆
+Tail 8Clone=尾巴8克隆
+Tail 7Clone=尾巴7克隆
+Tail 6Clone=尾巴6克隆
+Tail 5Clone=尾巴5克隆
+Tail 4Clone=尾巴4克隆
+Tail 3Clone=尾巴3克隆
+Tail 2Clone=尾巴2克隆
+Tail 1Clone=尾巴1克隆
+
+
+//任何肢体===================================================================================================
+Head: Punch Ability=头部: 打击能力
+UpperBody: Punch Ability=上半身: 打击能力
+MiddleBody: Punch Ability=中半身: 打击能力
+LowerBody: Punch Ability=下半身: 打击能力
+UpperArm: Punch Ability=上臂: 打击能力
+UpperArmFront: Punch Ability=前上臂: 打击能力
+LowerArm: Punch Ability=下臂: 打击能力
+LowerArmFront: Punch Ability=前下臂: 打击能力
+UpperLeg: Punch Ability=大腿: 打击能力
+UpperLegFront: Punch Ability=前大腿: 打击能力
+LowerLeg: Punch Ability=小腿: 打击能力
+LowerLegFront: Punch Ability=前小腿: 打击能力
+Foot: Punch Ability=脚部: 打击能力
+FootFront: Punch Ability=前脚部: 打击能力
+Enable Punch Ability=<color%3D#00FF00FF>开启打击能力
+Disable Punch Ability=<color%3D#FF0000FF>关闭打击能力
+Toggle Punch Ability=切换打击能力
+Toggle Punch Ability.=切换打击能力.
+Set Punch Power=<color%3D#FFD800>设置打击力量
+Set Punch Power.=设置打击力量.
+Punch Ability Options=打击能力选项
+Set Punch Power [0 - 5]=设置打击力量 [0 - 5]
+
+Head: Strong Punch Ability=头部: 强力打击能力
+UpperBody: Strong Punch Ability=上半身: 强力打击能力
+MiddleBody: Strong Punch Ability=中半身: 强力打击能力
+LowerBody: Strong Punch Ability=下半身: 强力打击能力
+UpperArm: Strong Punch Ability=上臂: 强力打击能力
+UpperArmFront: Strong Punch Ability=前上臂: 强力打击能力
+LowerArm: Strong Punch Ability=下臂: 强力打击能力
+LowerArmFront: Strong Punch Ability=前下臂: 强力打击能力
+UpperLeg: Strong Punch Ability=大腿: 强力打击能力
+UpperLegFront: Strong Punch Ability=前大腿: 强力打击能力
+LowerLeg: Strong Punch Ability=小腿: 强力打击能力
+LowerLegFront: Strong Punch Ability=前小腿: 强力打击能力
+Foot: Strong Punch Ability=脚部: 强力打击能力
+FootFront: Strong Punch Ability=前脚部: 强力打击能力
+Enable Strong Punch Ability=<color%3D#00FF00FF>开启强力打击能力
+Disable Strong Punch Ability=<color%3D#FF0000FF>关闭强力打击能力
+Toggle Strong Punch Ability=切换强力打击能力
+Toggle Strong Punch Ability.=切换强力打击能力.
+
+Black Flash=黑闪
+Head: Black Flash=头部: 黑闪
+UpperBody: Black Flash=上半身: 黑闪
+MiddleBody: Black Flash=中半身: 黑闪
+LowerBody: Black Flash=下半身: 黑闪
+UpperArm: Black Flash=上臂: 黑闪
+UpperArmFront: Black Flash=前上臂: 黑闪
+LowerArm: Black Flash=下臂: 黑闪
+LowerArmFront: Black Flash=前下臂: 黑闪
+UpperLeg: Black Flash=大腿: 黑闪
+UpperLegFront: Black Flash=前大腿: 黑闪
+LowerLeg: Black Flash=小腿: 黑闪
+LowerLegFront: Black Flash=前小腿: 黑闪
+Foot: Black Flash=脚部: 黑闪
+FootFront: Black Flash=前脚部: 黑闪
+Enable Black Flash=<color%3D#00FF00FF>开启黑闪
+Disable Black Flash=<color%3D#FF0000FF>关闭黑闪
+Toggle Black Flash=切换黑闪
+Toggle Black Flash.=切换黑闪.
+Edit Black Flash=<color%3D#FFD800>编辑黑闪
+Edit Black Flash.=编辑黑闪.
+Black Flash Options=黑闪选项
+Set Random Black Flash Chance=设置随机黑闪几率
+Set Random Black Flash Chance [0 - 100%]=设置随机黑闪几率 [0 - 100%]
+Current 0=当前 0
+Enable Effect Always=启用持续生效
+Disable Effect Always=禁用持续生效
+
+Divergent Fist=径庭拳
+Head: Divergent Fist=头部: 径庭拳
+UpperBody: Divergent Fist=上半身: 径庭拳
+MiddleBody: Divergent Fist=中半身: 径庭拳
+LowerBody: Divergent Fist=下半身: 径庭拳
+UpperArm: Divergent Fist=上臂: 径庭拳
+UpperArmFront: Divergent Fist=前上臂: 径庭拳
+LowerArm: Divergent Fist=下臂: 径庭拳
+LowerArmFront: Divergent Fist=前下臂: 径庭拳
+UpperLeg: Divergent Fist=大腿: 径庭拳
+UpperLegFront: Divergent Fist=前大腿: 径庭拳
+LowerLeg: Divergent Fist=小腿: 径庭拳
+LowerLegFront: Divergent Fist=前小腿: 径庭拳
+Foot: Divergent Fist=脚部: 径庭拳
+FootFront: Divergent Fist=前脚部: 径庭拳
+Enable Divergent Fist=<color%3D#00FF00FF>开启径庭拳
+Disable Divergent Fist=<color%3D#FF0000FF>关闭径庭拳
+Toggle Divergent Fist=切换径庭拳
+Toggle Divergent Fist.=切换径庭拳.
+Edit Divergent Fist=<color%3D#FFD800>编辑径庭拳
+Edit Divergent Fist.=编辑径庭拳.
+Divergent Options=径庭拳选项
+Set Random Divergent Chance=设置随机径庭拳几率
+Set Random Divergent Chance [0 - 100%]=设置随机径庭拳几率 [0 - 100%]
+
+Collapse=瓦落瓦落
+Head: Collapse=头部: 瓦落瓦落
+UpperBody: Collapse=上半身: 瓦落瓦落
+MiddleBody: Collapse=中半身: 瓦落瓦落
+LowerBody: Collapse=下半身: 瓦落瓦落
+UpperArm: Collapse=上臂: 瓦落瓦落
+UpperArmFront: Collapse=前上臂: 瓦落瓦落
+LowerArm: Collapse=下臂: 瓦落瓦落
+LowerArmFront: Collapse=前下臂: 瓦落瓦落
+UpperLeg: Collapse=大腿: 瓦落瓦落
+UpperLegFront: Collapse=前大腿: 瓦落瓦落
+LowerLeg: Collapse=小腿: 瓦落瓦落
+LowerLegFront: Collapse=前小腿: 瓦落瓦落
+Foot: Collapse=脚部: 瓦落瓦落
+FootFront: Collapse=前脚部: 瓦落瓦落
+Enable Collapse=<color%3D#00FF00FF>开启瓦落瓦落
+Disable Collapse=<color%3D#FF0000FF>关闭瓦落瓦落
+Toggle Collapse=切换瓦落瓦落
+Toggle Collapse.=切换瓦落瓦落.
+Edit Collapse=<color%3D#FFD800>编辑瓦落瓦落
+Edit Collapse.=瓦落瓦落.
+Collapse Options=瓦落瓦落选项
+Set Random Collapse Chance=设置随机瓦落瓦落几率
+Set Random Collapse Chance [0 - 100%]=设置随机瓦落瓦落几率 [0 - 100%]
+
+Resistance to Cold=抗寒性
+
+Resistance to Flammability=抗燃性
+
+Sukuna's Control Ability=宿傩的操控能力
+
+Grade 4=<color%3D#60E24F>四级</color>
+
+Grade 3=<color%3D#44E2A0>三级</color>
+
+Grade 2=<color%3D#38BBE2>二级</color>
+
+Grade 1=<color%3D#2D52E5>一级</color>
+
+Special Grade=<color%3D#8825F9>特级</color>
+
+Special Plus Grade=<color%3D#9400B2>特级+</color>
+
+Sukuna Fingers Grade Boost=宿傩指级强化
+Set Fingers Amount Limits [-10 - 100] OG [0 - 20]=设置手指数量限制 [-10 - 100] 原始范围 [0 - 20]
+
+Set Sukuna Fingers=设置宿傩手指
+Set Fingers Amount Limits [0 - 20]=设置手指数量限制 [0 - 20]
+Current: 0 Limits [0 - 20]=当前: 0 限制 [0 - 20]
+
+Transfigurate=改造
+Set Curse Energy=设置咒力
+
+Make Curse=转化为咒灵
+r:"(.*?) Is Now A <color%3D#BB3DFF>Curse</color>"=$1 现已成为 <color%3D#BB3DFF>咒灵</color>
+
+Soul Cure=灵魂治愈
+
+Edit Cursed Sharp=编辑咒刃
+Set CE Damage [Min 0 Max 5000]=设置咒力伤害 [最小值 0 最大值 5000]
+r:"(.*?) CE Damage Set to \[(\d+)\]"=$1 咒力伤害设为 [$2]
+
+Edit Cursed Blunt=编辑咒钝
+Set Base Power [Min 0 Max 1000]=设置基础威力 [最小值 0 最大值 1000]
+r:"(.*?) Base Power Set to \[(\d+)\]"=$1 基础威力设为 [$2]
+Set Damage Energy Mult [Min 0 Max 10]=设置伤害能量倍率 [最小值 0 最大值 10]
+r:"(.*?) Damage Energy Mult Set to \[(\d+)\]"=$1 伤害能量倍率设为 [$2]
+Set Force Mult [Min 0 Max 10]=设置力度倍率 [最小值 0 最大值 10]
+r:"(.*?) Force Mult Set to \[(\d+)\]"=$1 力度倍率设为 [$2]
+
+//头部===================================================================================================
+Infinity=无限
+Head: Infinity=头部: 无限
+Enable Infinity=<color%3D#00FF00FF>开启无限
+Disable Infinity=<color%3D#FF0000FF>关闭无限
+Toggle Infinity=无限
+Toggle Infinity.=无限.
+Infinity Settings=<color%3D#FFD800>无限设置
+Infinity Settings.=无限设置.
+Change Infinity Range=更改无限范围
+Pressure: Enabled=压力：开启
+Pressure: Disabled=压力：关闭
+Change Pressure Power=改变压力倍数
+Pressure Power=压力倍数
+Pressure P骨wer=压力倍数
+Push/Pull: Enabled=牵引/排斥：开启
+Push/Pull: Disabled=牵引/排斥：关闭
+Mode: Push=排斥
+Mode: Pull=牵引
+Change Push/Pull Force=改变牵引/排斥力度
+Push/Pull Force=牵引/排斥力度
+Damage: Enabled=伤害：开启
+Damage: Disabled=伤害：关闭
+Change Damage Power=改变伤害倍数
+Damage Power=伤害倍数
+
+Six Eyes=六眼
+Head: Six Eyes=头部: 六眼
+Enable Six Eyes=<color%3D#00FF00FF>开启六眼
+Disable Six Eyes=<color%3D#FF0000FF>关闭六眼
+Toggle Six Eyes=六眼
+Toggle Six Eyes.=六眼.
+Six Eyes Settings=六眼设置
+Disable Glow Eyes=关闭眼发光
+Enable Glow Eyes=开启眼发光
+Switch Glow Eyes=切换眼发光
+Switch Glow Eyes.=切换眼发光.
+
+Main Character=主角光环
+Head: Main Character=头部: 主角光环
+Enable Main Character=<color%3D#00FF00FF>开启主角光环
+Disable Main Character=<color%3D#FF0000FF>关闭主角光环
+Toggle Main Character=主角光环
+Toggle Main Character.=主角光环.
+
+Ten Shadows=十种影法术
+Head: Ten Shadows=头部: 十种影法术
+Enable Ten Shadows=<color%3D#00FF00FF>开启十种影法术
+Disable Ten Shadows=<color%3D#FF0000FF>关闭十种影法术
+Toggle Ten Shadows=十种影法术
+Toggle Ten Shadows.=十种影法术.
+Edit Ten Shadows=<color%3D#FFD800>编辑十种影法术
+Edit Ten Shadows.=编辑十种影法术.
+Rabbit Escape: Prime=脱兔：原初
+Ten Shadows: Rabbit Escape: Prime=十种影法术：脱兔：原初
+Invoke: Rabbit Escape: Prime=召唤：脱兔：原初
+Link To Limb: Rabbit Escape: Prime=链接至肢体：脱兔：原初
+Revoke: Rabbit Escape: Prime=撤销: 脱兔：原初
+Link shadow to limb=将影法与肢体相连
+Unlink from Head=与头部解除关联
+Unlink from UpperBody=与上半身解除关联
+Unlink from MiddleBody=与中半身解除关联
+Unlink from LowerBody=与下半身解除关联
+Unlink from UpperArm=与上臂解除关联
+Unlink from UpperArmFront=与前上臂解除关联
+Unlink from LowerArm=与下臂解除关联
+Unlink from LowerArmFront=与前下臂解除关联
+Unlink from UpperLeg=与大腿解除关联
+Unlink from UpperLegFront=与前大腿解除关联
+Unlink from LowerLeg=与小腿解除关联
+Unlink from LowerLegFront=与前小腿解除关联
+Unlink from Foot=与脚部解除关联
+Unlink from FootFront=与前脚部解除关联
+Back to menu=返回菜单
+Rabbit Escape: Fly=脱兔：飞
+Ten Shadows: Rabbit Escape: Fly=十种影法术：脱兔：飞
+Invoke: Rabbit Escape: Fly=召唤：脱兔：飞
+Link To Limb: Rabbit Escape: Fly=链接至肢体：脱兔：飞
+Revoke: Rabbit Escape: Fly=撤销: 脱兔：飞
+Rabbit Escape: Attack=脱兔：攻
+Ten Shadows: Rabbit Escape: Attack=十种影法术：脱兔：攻
+Invoke: Rabbit Escape: Attack=召唤：脱兔：攻
+Link To Limb: Rabbit Escape: Attack=链接至肢体：脱兔：攻
+Revoke: Rabbit Escape: Attack=撤销: 脱兔：攻
+Orochi: Attack=大蛇：攻
+Ten Shadows: Orochi: Attack=十种影法术：大蛇：攻
+Invoke: Orochi: Attack=召唤：大蛇：攻
+Link To Limb: Orochi Attack=链接至肢体：大蛇攻
+Revoke: Orochi: Attack=撤销: 大蛇攻
+Orochi=大蛇
+Ten Shadows: Orochi=十种影法术：大蛇
+Invoke: Orochi=召唤：大蛇
+Link To Limb: Orochi=链接至肢体：大蛇
+Revoke: Orochi=撤销: 大蛇
+Toad (5)=蛤蟆（5）
+Ten Shadows: Toad (5)=十种影法术：蛤蟆（5）
+Invoke: Toad (5)=召唤：蛤蟆（5）
+Link To Limb: Toad (5)=链接至肢体：蛤蟆（5）
+Revoke: Toad (5)=撤销: 蛤蟆（5）
+Flying Toad (5)=飞蛤蟆（5）
+Ten Shadows: Flying Toad (5)=十种影法术：飞蛤蟆（5）
+Invoke: Flying Toad (5)=召唤：飞蛤蟆（5）
+Link To Limb: Flying Toad (5)=链接至肢体：飞蛤蟆（5）
+Revoke: Flying Toad (5)=撤销: 飞蛤蟆（5）
+Nue=鵺
+Ten Shadows: Nue=十种影法术：鵺
+Invoke: Nue=召唤：鵺
+Link To Limb: Nue=链接至肢体：鵺
+Revoke: Nue=撤销: 鵺
+Round Deer=圆鹿
+Ten Shadows: Round Deer=十种影法术：圆鹿
+Invoke: Round Deer=召唤：圆鹿
+Link To Limb: Round Deer=链接至肢体：圆鹿
+Revoke: Round Deer=撤销: 圆鹿
+Piercing Ox=贯牛
+Ten Shadows: Piercing Ox=十种影法术：贯牛
+Invoke: Piercing Ox=召唤：贯牛
+Link To Limb: Piercing Ox=链接至肢体：贯牛
+Revoke: Piercing Ox=撤销: 贯牛
+Divine Dog: Black=神犬：黑
+Ten Shadows: Divine Dog: Black=十种影法术：神犬：黑
+Invoke: Divine Dog: Black=召唤：神犬：黑
+Link To Limb: Divine Dog: Black=链接至肢体：神犬：黑
+Revoke: Divine Dog: Black=撤销: 神犬：黑
+Divine Dog: White=神犬：白
+Ten Shadows: Divine Dog: White=十种影法术：神犬：白
+Invoke: Divine Dog: White=召唤：神犬：白
+Link To Limb: Divine Dog: White=链接至肢体：神犬：白
+Revoke: Divine Dog: White=撤销: 神犬：白
+Max Elephant=满象
+Ten Shadows: Max Elephant=十种影法术：满象
+Invoke: Max Elephant=召唤：满象
+Link To Limb: Max Elephant=链接至肢体：满象
+Revoke: Max Elephant=撤销: 满象
+Mahoraga=魔虚罗
+Ten Shadows: Mahoraga=十种影法术：魔虚罗
+Invoke: Mahoraga=召唤：魔虚罗
+Link To Limb: Mahoraga=链接至肢体：魔虚罗
+Revoke: Mahoraga=撤销: 魔虚罗
+Revoke on Distance: Disabled=距离失效：禁用
+Revoke on Distance: Enabled=距离失效：启用
+Revoke Last Shadow=撤销上一个式神
+Configure Ten Shadows Power=配置十种影法术能力
+Revive all shadows [CHEAT]=复活全部式神 [作弊]
+Revoke Menu=撤销菜单
+Ten Shadows: Revoke Menu=十种影法术: 撤销菜单
+Revoke All Shadows=撤销所有式神
+Summon Adaptation=召唤适应体
+Summon Adaptation.=召唤适应体.
+Spin Wheel=转动适应之轮
+Spin Wheel.=转动适应之轮.
+Switch Adaptation=切换适应
+Enable Full User Adaptation=开启完全适应
+Enable Full User Adaptation.=开启完全适应.
+Enable Adaptation=启用适应
+Disable Adaptation=禁用适应
+Switch Adaptation=切换适应
+Switch Adaptation.=切换适应.
+Enable Wheel=启用轮盘
+Disable Wheel=禁用轮盘
+Switch Wheel=切换轮盘
+Switch Wheel.=切换轮盘.
+Remove Adaptation=清除适应
+Remove Adaptation.=清除适应
+Revoke Shadow=撤销式神
+Attack To=攻击目标
+Attack To.=攻击目标.
+Choose Attack Mode=选择攻击模式
+Choose Passive Mode=选择被动模式
+Toggle Attack Mode.=切换攻击模式.
+Set Owner=设置主人
+Set Owner.=设置主人.
+Follow Owner=跟随主人
+Stop Following Owner=停止跟随主人
+Toggle Owner.=切换主人.
+
+Head: Speed Moving=头部: 高速移动
+Change Slow Mult=<color%3D#FFD800>修改缓慢倍数
+Change Slow Mult.=修改缓慢倍数.
+Set Slow Mult=设置缓慢倍数
+
+Angel=天使
+Head: Angel=头部: 天使
+
+Maximum Output: Jacob's Ladder=最大输出：雅各布的天梯
+Head: Maximum Output: Jacob's Ladder=头部: 最大输出：雅各布的天梯
+Jacob's Ladder=雅各布天梯
+Jacob's Ladder.=雅各布天梯.
+Switch Ladder Damage=切换天梯伤害
+Switch Ladder Damage.=切换天梯伤害.
+Ladder Damage: Only Cursed=天梯伤害：仅咒术生效
+Ladder Damage: All=天梯伤害：全部生效
+
+Cursed Energy Reinforcement=咒力强化
+Head: Cursed Energy Reinforcement=头部: 咒力强化
+Enable Cursed Energy Reinforcement=<color%3D#00FF00FF>开启咒力强化
+Disable Cursed Energy Reinforcement=<color%3D#FF0000FF>关闭咒力强化
+Toggle Cursed Energy Reinforcement=切换咒力强化
+Toggle Cursed Energy Reinforcement.=切换咒力强化
+Edit CER Options=<color%3D#FFD800>编辑咒力强化
+Edit CER Options.=编辑咒力强化.
+Cursed Energy Reinforcement Options=咒力强化选项
+Limbs Selection Options=肢体选取设置
+Set Limbs To Protect=设定要保护的肢体
+Previous Options=返回选项
+Set Armor Multiplier=设置护甲倍率
+Set Armor Multiplier [0 - 90%]=设置护甲倍率 [0 - 90%]
+Set Aura Speed=设置光环速度
+Set Aura Speed [0.1 - 5]=设置光环速度 [0.1 - 5]
+Set Aura Size=设置光环尺寸
+Set Aura Size [0.1 - 5]=设置光环尺寸 [0.1 - 5]
+Aura Layer: Default=光环层：默认
+Aura Layer: Top=光环层：最前
+
+Solo Forbidden Area=单独禁区
+Head: Solo Forbidden Area=头部: 单独禁区
+Enable Solo Forbidden Area=<color%3D#00FF00FF>开启单独禁区
+Disable Solo Forbidden Area=<color%3D#FF0000FF>关闭单独禁区
+Toggle Solo Forbidden Area=切换单独禁区
+Toggle Solo Forbidden Area.=切换单独禁区.
+Edit Boost Sorcerer=<color%3D#FFD800>编辑强化术士
+Edit Boost Sorcerer.=编辑强化术士.
+Not Selected=未选择
+Set Energy Boost=设置能量提升
+Set Energy Boost Multiplier [0 - 1.2]=设置能量提升倍率 [0 - 1.2]
+
+Miguel Dance=祈祷之歌
+Head: Miguel Dance=头部: 祈祷之歌
+Enable Miguel Dance=<color%3D#00FF00FF>开启祈祷之歌
+Disable Miguel Dance=<color%3D#FF0000FF>关闭祈祷之歌
+Toggle Miguel Dance=切换祈祷之歌
+Toggle Miguel Dance.=切换祈祷之歌.
+Edit Miguel Dance=<color%3D#FFD800>编辑祈祷之歌
+Edit Miguel Dance.=编辑祈祷之歌.
+Miguel Dance Option=祈祷之歌选项
+Should Dance: True=跳舞: 开
+Should Dance: False=跳舞: 关
+
+Clone Technique=分身术式
+Head: Clone Technique=头部: 分身术式
+Enable Clone Technique=<color%3D#00FF00FF>开启分身术式
+Disable Clone Technique=<color%3D#FF0000FF>关闭分身术式
+Toggle Clone Technique=切换分身术式
+Toggle Clone Technique.=切换分身术式.
+Create Clone=<color%3D#FFD800>创建克隆
+Create Clone.=创建克隆.
+
+Obstacle Removal=障碍移除
+Head: Obstacle Removal=头部: 障碍移除
+Disable Obstacle Removal=禁用障碍移除
+Enable Obstacle Removal=启用障碍移除
+Toggle Obstacle Removal=切换障碍移除
+Toggle Obstacle Removal.=切换障碍移除.
+Enable Super Mode=启用超级模式
+Enable Super Mode.=启用超级模式.
+
+Antigravity System=反重力术式
+Head: Antigravity System=头部: 反重力术式
+Enable Antigravity System=<color%3D#00FF00FF>开启反重力术式
+Disable Antigravity System=<color%3D#FF0000FF>关闭反重力术式
+Toggle Antigravity System=切换反重力术式
+Toggle Antigravity System.=切换反重力术式.
+
+Cursed Speech=咒言术
+Cursed Speech Settings=咒言术设置
+Head: Cursed Speech=头部: 咒言术
+Enable Cursed Speech=<color%3D#00FF00FF>开启咒言术
+Disable Cursed Speech=<color%3D#FF0000FF>关闭咒言术
+Toggle Cursed Speech=切换咒言术
+Toggle Cursed Speech.=切换咒言术.
+Select Command=选择命令
+Select Command.=选择命令.
+Disable Damage To Effect=禁用伤害影响效果
+Enable Damage To Effect=启用伤害影响效果
+Switch Damage To Effect=切换伤害影响效果
+Switch Damage To Effect.=切换伤害影响效果.
+Explode=爆炸吧
+Get Crushed=碾碎吧
+Crumble Away=崩塌吧
+Blast Away=炸飞吧
+Don't Move=不许动
+Sleep=睡吧
+
+Miracles=奇迹
+Head: Miracles=头部: 奇迹
+Enable Miracles=<color%3D#00FF00FF>开启奇迹
+Disable Miracles=<color%3D#FF0000FF>关闭奇迹
+Toggle Miracles=切换奇迹
+Toggle Miracles.=切换奇迹.
+
+Teleport=瞬移
+Teleport.=瞬移.
+Teleport Technique=瞬移术式
+Head: Teleport=头部: 瞬移
+Head: Teleport Technique=头部: 瞬移术式
+Enable Teleport Technique=<color%3D#00FF00FF>开启瞬移术式
+Disable Teleport Technique=<color%3D#FF0000FF>关闭瞬移术式
+Toggle Teleport Technique=切换瞬移术式
+Toggle Teleport Technique.=切换瞬移术式.
+
+Fly=飞行
+Head: Fly=头部: 飞行
+Enable Fly=<color%3D#00FF00FF>开启飞行
+Disable Fly=<color%3D#FF0000FF>关闭飞行
+Toggle Fly=切换飞行
+Toggle Fly.=切换飞行.
+
+Sleep Touch Ability=睡眠操纵
+Sleep Touch=睡眠操纵
+Head: Sleep Touch Ability=头部: 睡眠操纵
+LowerArm: Sleep Touch Ability=下臂: 睡眠操纵
+Enable Sleep Touch Ability=<color%3D#00FF00FF>开启睡眠操纵
+Disable Sleep Touch Ability=<color%3D#FF0000FF>关闭睡眠操纵
+Toggle Sleep Touch Ability=切换睡眠操纵
+Toggle Sleep Touch Ability.=切换睡眠操纵.
+
+Inverse=颠倒
+Head: Inverse=头部: 颠倒
+Enable Inverse=<color%3D#00FF00FF>开启颠倒
+Disable Inverse=<color%3D#FF0000FF>关闭颠倒
+Toggle Inverse=切换颠倒
+Toggle Inverse.=切换颠倒.
+
+Reversed Cursed Technique=反转术式
+Head: Reversed Cursed Technique=头部: 反转术式
+Enable Reversed Cursed Technique=<color%3D#00FF00FF>开启反转术式
+Disable Reversed Cursed Technique=<color%3D#FF0000FF>关闭反转术式
+Toggle Reversed Cursed Technique=切换反转术式
+Toggle Reversed Cursed Technique.=切换反转术式.
+Edit RCT=<color%3D#FFD800>编辑反转术式
+Edit RCT.=编辑反转术式.
+Reversed Cursed Technique Options=反转术式选项
+Set RCT Speed=设置反转术式速度
+Set Reverse Cursed Technique Slow Modifier [1 - 10]=设置反转术式慢速修正系数 [1 - 10]
+Set Manual RCT=设置手动反转术式
+Set Automatic RCT=设置自动反转术式
+
+Ratio Technique=十划咒法
+Head: Ratio Technique=头部: 十划咒法
+Enable Ratio Technique=<color%3D#00FF00FF>开启十划咒法
+Disable Ratio Technique=<color%3D#FF0000FF>关闭十划咒法
+Toggle Ratio Technique=切换十划咒法
+Toggle Ratio Technique.=切换十划咒法.
+
+Love Rendezvous=星间飞行
+Head: Love Rendezvous=头部: 星间飞行
+Enable Love Rendezvous=<color%3D#00FF00FF>开启星间飞行
+Disable Love Rendezvous=<color%3D#FF0000FF>关闭星间飞行
+Toggle Love Rendezvous=切换星间飞行
+Toggle Love Rendezvous.=切换星间飞行.
+Edit Love Rendezvous=<color%3D#FFD800>编辑星间飞行
+Edit Love Rendezvous.=编辑星间飞行.
+Love Rendezvous Options=星间飞行选项
+Remove Star=移除星星
+Add Star=添加星星
+Set Star Id [1 - 5]=设置星星ID [1 - 5]
+Set Push Back Distance=设置弹开距离
+Set Push Back Distance [1 - 50]=设置弹开距离 [1 - 50]
+Enable Push Back Same Stars=启用相同星星弹开
+Disable Push Back Same Stars=禁用相同星星弹开
+Enable Swap Close Starts=启用相邻星星交换
+Disable Swap Close Starts=禁用相邻星星交换
+r:"Remove (\d+) Star"=移除星星 $1 
+
+Granite Blast=冰沙冲击波
+Granite Blast Ability=冰沙冲击波
+Head: Granite Blast Ability=头部: 冰沙冲击波
+Enable Granite Blast Ability=<color%3D#00FF00FF>开启冰沙冲击波
+Disable Granite Blast Ability=<color%3D#FF0000FF>关闭冰沙冲击波
+Toggle Granite Blast Ability=切换冰沙冲击波
+Toggle Granite Blast Ability.=切换冰沙冲击波.
+
+Rika Blast=纯爱炮
+Head: Rika Blast=头部: 纯爱炮
+Enable Rika Blast=<color%3D#00FF00FF>开启纯爱炮
+Disable Rika Blast=<color%3D#FF0000FF>关闭纯爱炮
+Toggle Rika Blast=切换纯爱炮
+Toggle Rika Blast.=切换纯爱炮.
+
+Cursed Energy Discharge=咒力放出
+Head: Cursed Energy Discharge=头部: 咒力放出
+Enable Cursed Energy Discharge=<color%3D#00FF00FF>开启咒力放出
+Disable Cursed Energy Discharge=<color%3D#FF0000FF>关闭咒力放出
+Toggle Cursed Energy Discharge=切换咒力放出
+Toggle Cursed Energy Discharge.=切换咒力放出.
+
+Helicopter Hair=螺旋桨头发
+Head: Helicopter Hair=头部: 螺旋桨头发
+Enable Helicopter Hair=<color%3D#00FF00FF>开启螺旋桨头发
+Disable Helicopter Hair=<color%3D#FF0000FF>关闭螺旋桨头发
+Toggle Helicopter Hair=切换螺旋桨头发
+Toggle Helicopter Hair.=切换螺旋桨头发.
+
+Scorpion Hair=蝎发
+Head: Scorpion Hair=头部: 蝎发
+
+Comedian=超人
+Head: Comedian=头部: 超人
+Enable Comedian=<color%3D#00FF00FF>开启超人
+Disable Comedian=<color%3D#FF0000FF>关闭超人
+Toggle Comedian=切换超人
+Toggle Comedian.=切换超人.
+Edit Comedian=<color%3D#FFD800>编辑超人
+Edit Comedian.=编辑超人.
+Bowling Master=保龄球大师
+Fart Attack=放屁攻击
+UP=向上
+DOWN=向下
+Truck-Kun=卡车君
+Good Plant=好植物
+Whats In Your Hand??=你手里有什么？？
+Nurse=护士小姐
+Russian Roulette=俄罗斯轮盘
+Van Helsing=范海辛
+
+Body Transfiguration=身体无为转变
+Head: Body Transfiguration=头部: 身体无为转变
+Enable Body Transfiguration=<color%3D#00FF00FF>开启身体无为转变
+Disable Body Transfiguration=<color%3D#FF0000FF>关闭身体无为转变
+Toggle Body Transfiguration=切换身体无为转变
+Toggle Body Transfiguration.=切换身体无为转变.
+Edit Body Transfiguration Ability=<color%3D#FFD800>编辑身体无为转变
+Edit Body Transfiguration Ability.=编辑身体无为转变.
+Body Transfiguration Ability Options=身体无为转变选项
+Set Scaling Speed=设置缩放速度
+Set Scaling Speed [0.01 - 0.5]=设置缩放速度 [0.01 - 0.5]
+Scale Mode: Target=缩放模式：选取目标
+Scale Mode: All=缩放模式：全体
+Backscale Mode: Target=反向缩放模式：选取目标
+Backscale Mode: All=反向缩放模式：全体
+
+Self Soul Transfiguration=自我灵魂无为转变
+Head: Self Soul Transfiguration=头部: 自我灵魂无为转变
+Enable Self Soul Transfiguration=<color%3D#00FF00FF>开启自我灵魂无为转变
+Disable Self Soul Transfiguration=<color%3D#FF0000FF>关闭自我灵魂无为转变
+Toggle Self Soul Transfiguration=切换自我灵魂无为转变
+Toggle Self Soul Transfiguration.=切换自我灵魂无为转变.
+Edit Self Soul Transfiguration=<color%3D#FFD800>编辑自我灵魂无为转变
+Edit Self Soul Transfiguration.=编辑自我灵魂无为转变.
+Self Soul Transfiguration Options=自我灵魂无为转变选项
+Passive Manipulation Mode=被动发动模式
+Speed Mode=速度模式
+Wings Mode=翅膀模式
+Spikes Mode=尖刺模式
+Clone Mode=克隆模式
+Explode Mode=爆炸模式
+
+Paralyzing Gaze=眼术式
+Head: Paralyzing Gaze=头部: 眼术式
+Enable Paralyzing Gaze=<color%3D#00FF00FF>开启眼术式
+Disable Paralyzing Gaze=<color%3D#FF0000FF>关闭眼术式
+Toggle Paralyzing Gaze=切换眼术式
+Toggle Paralyzing Gaze.=切换眼术式.
+Edit Paralyzing Gaze=<color%3D#FFD800>编辑眼术式
+Edit Paralyzing Gaze.=编辑眼术式.
+Paralyzing Gaze Option=眼术式选项
+
+Projection Sorcery=投射咒法
+Head: Projection Sorcery=头部: 投射咒法
+Enable Projection Sorcery=<color%3D#00FF00FF>开启投射咒法
+Disable Projection Sorcery=<color%3D#FF0000FF>关闭投射咒法
+Toggle Projection Sorcery=切换投射咒法
+Toggle Projection Sorcery.=切换投射咒法.
+
+Charge Aura=咒力放电
+Head: Charge Aura=头部: 咒力放电
+Enable Charge Aura=<color%3D#00FF00FF>开启咒力放电
+Disable Charge Aura=<color%3D#FF0000FF>关闭咒力放电
+Toggle Charge Aura=切换咒力放电
+Toggle Charge Aura.=切换咒力放电.
+Charge Aura Options=咒力放电选项
+Charge Aura Options.=咒力放电选项.
+Set Particle Multiplier [0 - 2]=设置粒子倍数 [0 - 2]
+Set Charge Power [0 To Disable | 1500+ To Activate Mythical Beast Amber]=设置充能功率 [0为禁用 | 1500以上激活幻兽琥珀]
+Amber Aura Options=幻兽琥珀选项
+Cursed Armor Options=咒力铠甲选项
+
+Sound Blast=音波冲击
+Head: Sound Blast=头部: 音波冲击
+Enable Sound Blast=<color%3D#00FF00FF>开启音波冲击
+Disable Sound Blast=<color%3D#FF0000FF>关闭音波冲击
+Toggle Sound Blast=切换音波冲击
+Toggle Sound Blast.=切换音波冲击.
+
+Cursed Cockroaches Aura=咒力蟑螂群
+Head: Cursed Cockroaches Aura=头部: 咒力蟑螂群
+Enable Cursed Cockroaches Aura=<color%3D#00FF00FF>开启咒力蟑螂群
+Disable Cursed Cockroaches Aura=<color%3D#FF0000FF>关闭咒力蟑螂群
+Toggle Cursed Cockroaches Aura=切换咒力蟑螂群
+Toggle Cursed Cockroaches Aura.=切换咒力蟑螂群.
+
+Sky Manipulation=天空术式
+Head: Sky Manipulation=头部: 天空术式
+Enable Sky Manipulation=<color%3D#00FF00FF>开启天空术式
+Disable Sky Manipulation=<color%3D#FF0000FF>关闭天空术式
+Toggle Sky Manipulation=切换天空术式
+Toggle Sky Manipulation.=切换天空术式.
+Edit Sky Manipulation=<color%3D#FFD800>编辑天空术式
+Edit Sky Manipulation.=编辑天空术式.
+Sky Manipulate=天空操纵
+Fly: Enabled=飞行: 开启
+Fly: Disabled=飞行: 关闭
+Invisibility: Enabled=透明: 开启
+Invisibility: Disabled=透明: 关闭
+
+Blood Armor=血铠
+Head: Blood Armor=头部: 血铠
+Enable Blood Armor=<color%3D#00FF00FF>开启血铠
+Disable Blood Armor=<color%3D#FF0000FF>关闭血铠
+Toggle Blood Armor=切换血铠
+Toggle Blood Armor.=切换血铠.
+
+Rot Technique (Kechizu)=蚀烂腐术(血涂)
+Head: Rot Technique (Kechizu)=头部: 蚀烂腐术(血涂)
+Enable Rot Technique (Kechizu)=<color%3D#00FF00FF>开启蚀烂腐术(血涂)
+Disable Rot Technique (Kechizu)=<color%3D#FF0000FF>关闭蚀烂腐术(血涂)
+Toggle Rot Technique (Kechizu)=切换蚀烂腐术(血涂)
+Toggle Rot Technique (Kechizu).=切换蚀烂腐术(血涂).
+Edit Rot Technique (Kechizu)=<color%3D#FFD800>编辑蚀烂腐术(血涂)
+Edit Rot Technique (Kechizu).=编辑蚀烂腐术(血涂).
+
+Cursed Spirit Manipulation=咒灵操术
+Head: Cursed Spirit Manipulation=头部: 咒灵操术
+Enable Cursed Spirit Manipulation=<color%3D#00FF00FF>开启咒灵操术
+Disable Cursed Spirit Manipulation=<color%3D#FF0000FF>关闭咒灵操术
+Toggle Cursed Spirit Manipulation=切换咒灵操术
+Toggle Cursed Spirit Manipulation.=切换咒灵操术.
+
+Door Teleport Ability=空间传送门能力
+Head: Door Teleport Ability=头部: 空间传送门能力
+Enable Door Teleport Ability=<color%3D#00FF00FF>开启空间传送门能力
+Disable Door Teleport Ability=<color%3D#FF0000FF>关闭空间传送门能力
+Toggle Door Teleport Ability=切换空间传送门能力
+Toggle Door Teleport Ability.=切换空间传送门能力.
+Door Teleport Settings=空间传送门设置
+Door Teleport=<color%3D#FFD800>空间传送门
+Door Teleport.=空间传送门
+
+Immortality Technique=不死术式
+Head: Immortality Technique=头部: 不死术式
+Enable Immortality Technique=<color%3D#00FF00FF>开启不死术式
+Disable Immortality Technique=<color%3D#FF0000FF>关闭不死术式
+Toggle Immortality Technique=切换不死术式
+Toggle Immortality Technique.=切换不死术式.
+
+Fly Barrier=飞行结界
+Head: Fly Barrier=头部: 飞行结界
+Enable Fly Barrier=<color%3D#00FF00FF>开启飞行结界
+Disable Fly Barrier=<color%3D#FF0000FF>关闭飞行结界
+Toggle Fly Barrier=切换飞行结界
+Toggle Fly Barrier.=切换飞行结界.
+
+Adaptation=适应
+
+Black Bird=黑鸟
+Black Bird.=黑鸟.
+Follow Mouse=跟随鼠标
+Follow Mouse.=跟随鼠标.
+Strike=神风
+Strike.=神风.
+Set Strike Power=设定神风力量
+Set Strike Power.=设定神风力量.
+Strike Energy Power=神风能量
+
+Garuda=迦楼罗
+Garuda.=迦楼罗.
+Open Menu Garuda=打开迦楼罗菜单
+Open Menu Garuda.=打开迦楼罗菜单
+Twist=扭转
+Untwist=复位
+Set Gravity Scale [-20 - 20]=设置重力比例 [-20 - 20]
+Set Mass Scale=设置质量比例
+Set Mass Scale [0.1 - 999]=设置质量比例 [0.1 - 999]
+Garuda Settings=迦楼罗设置
+Disable Better Sharp=禁用高锋利度
+
+Cursed Jellyfish=淀月
+Cursed Jellyfish.=淀月.
+
+Bulldog=玉犬
+Bulldog.=玉犬.
+
+Daruma Doll Curse=达摩咒灵
+Daruma Doll Curse.=达摩咒灵.
+
+Giant Catfish Curse=大鲶咒灵
+Giant Catfish Curse.=大鲶咒灵.
+
+
+//可抓取部位===================================================================================================
+Boogie Woogie=不义游戏
+Head: Boogie Woogie=头部: 不义游戏
+UpperBody: Boogie Woogie=上半身: 不义游戏
+MiddleBody: Boogie Woogie=中半身: 不义游戏
+LowerBody: Boogie Woogie=下半身: 不义游戏
+UpperArm: Boogie Woogie=上臂: 不义游戏
+UpperArmFront: Boogie Woogie=前上臂: 不义游戏
+LowerArm: Boogie Woogie=下臂: 不义游戏
+LowerArmFront: Boogie Woogie=前下臂: 不义游戏
+UpperLeg: Boogie Woogie=大腿: 不义游戏
+UpperLegFront: Boogie Woogie=前大腿: 不义游戏
+LowerLeg: Boogie Woogie=小腿: 不义游戏
+LowerLegFront: Boogie Woogie=前小腿: 不义游戏
+Foot: Boogie Woogie=脚部: 不义游戏
+FootFront: Boogie Woogie=前脚部: 不义游戏
+Enable Boogie Woogie=<color%3D#00FF00FF>开启不义游戏
+Disable Boogie Woogie=<color%3D#FF0000FF>关闭不义游戏
+Toggle Boogie Woogie=切换不义游戏
+Toggle Boogie Woogie.=切换不义游戏.
+Boogie Woogie Settings=<color%3D#FFD800>不义游戏设置
+Boogie Woogie Settings.=不义游戏设置.
+Clap=拍手
+Clap on use: =激活拍手: 
+
+Pain Killer=止痛药
+Head: Pain Killer=头部: 止痛药
+UpperBody: Pain Killer=上半身: 止痛药
+MiddleBody: Pain Killer=中半身: 止痛药
+LowerBody: Pain Killer=下半身: 止痛药
+UpperArm: Pain Killer=上臂: 止痛药
+UpperArmFront: Pain Killer=前上臂: 止痛药
+LowerArm: Pain Killer=下臂: 止痛药
+LowerArmFront: Pain Killer=前下臂: 止痛药
+UpperLeg: Pain Killer=大腿: 止痛药
+UpperLegFront: Pain Killer=前大腿: 止痛药
+LowerLeg: Pain Killer=小腿: 止痛药
+LowerLegFront: Pain Killer=前小腿: 止痛药
+Foot: Pain Killer=脚部: 止痛药
+FootFront: Pain Killer=前脚部: 止痛药
+Enable Pain Killer=<color%3D#00FF00FF>开启止痛药
+Disable Pain Killer=<color%3D#FF0000FF>关闭止痛药
+Toggle Pain Killer=切换止痛药
+Toggle Pain Killer.=切换止痛药.
+
+Iron Arm=铁臂
+Head: Iron Arm=头部: 铁臂
+UpperBody: Iron Arm=上半身: 铁臂
+MiddleBody: Iron Arm=中半身: 铁臂
+LowerBody: Iron Arm=下半身: 铁臂
+UpperArm: Iron Arm=上臂: 铁臂
+UpperArmFront: Iron Arm=前上臂: 铁臂
+LowerArm: Iron Arm=下臂: 铁臂
+LowerArmFront: Iron Arm=前下臂: 铁臂
+UpperLeg: Iron Arm=大腿: 铁臂
+UpperLegFront: Iron Arm=前大腿: 铁臂
+LowerLeg: Iron Arm=小腿: 铁臂
+LowerLegFront: Iron Arm=前小腿: 铁臂
+Foot: Iron Arm=脚部: 铁臂
+FootFront: Iron Arm=前脚部: 铁臂
+Enable Iron Arm=<color%3D#00FF00FF>开启铁臂
+Disable Iron Arm=<color%3D#FF0000FF>关闭铁臂
+Toggle Iron Arm=切换铁臂
+Toggle Iron Arm.=切换铁臂.
+
+Claw Arm=爪臂
+Head: Claw Arm=头部: 爪臂
+UpperBody: Claw Arm=上半身: 爪臂
+MiddleBody: Claw Arm=中半身: 爪臂
+LowerBody: Claw Arm=下半身: 爪臂
+UpperArm: Claw Arm=上臂: 爪臂
+UpperArmFront: Claw Arm=前上臂: 爪臂
+LowerArm: Claw Arm=下臂: 爪臂
+LowerArmFront: Claw Arm=前下臂: 爪臂
+UpperLeg: Claw Arm=大腿: 爪臂
+UpperLegFront: Claw Arm=前大腿: 爪臂
+LowerLeg: Claw Arm=小腿: 爪臂
+LowerLegFront: Claw Arm=前小腿: 爪臂
+Foot: Claw Arm=脚部: 爪臂
+FootFront: Claw Arm=前脚部: 爪臂
+Enable Claw Arm=<color%3D#00FF00FF>开启爪臂
+Disable Claw Arm=<color%3D#FF0000FF>关闭爪臂
+Toggle Claw Arm=切换爪臂
+Toggle Claw Arm.=切换爪臂.
+
+Virtual Scissors=御厨子
+Head: Virtual Scissors=头部: 御厨子
+UpperBody: Virtual Scissors=上半身: 御厨子
+MiddleBody: Virtual Scissors=中半身: 御厨子
+LowerBody: Virtual Scissors=下半身: 御厨子
+UpperArm: Virtual Scissors=上臂: 御厨子
+UpperArmFront: Virtual Scissors=前上臂: 御厨子
+LowerArm: Virtual Scissors=下臂: 御厨子
+LowerArmFront: Virtual Scissors=前下臂: 御厨子
+UpperLeg: Virtual Scissors=大腿: 御厨子
+UpperLegFront: Virtual Scissors=前大腿: 御厨子
+LowerLeg: Virtual Scissors=小腿: 御厨子
+LowerLegFront: Virtual Scissors=前小腿: 御厨子
+Foot: Virtual Scissors=脚部: 御厨子
+FootFront: Virtual Scissors=前脚部: 御厨子
+Enable Virtual Scissors=<color%3D#00FF00FF>开启御厨子
+Disable Virtual Scissors=<color%3D#FF0000FF>关闭御厨子
+Toggle Virtual Scissors=切换御厨子
+Toggle Virtual Scissors.=切换御厨子.
+Yuji Scissors Settings=虎杖悠仁的剪刀设置
+Yuji Scissors Settings.=虎杖悠仁的剪刀设置.
+Set Scissors Speed=设置剪刀速度
+Set Scissors Speed [0.2 - 10]=设置剪刀速度 [0.2 - 10]
+Set Cleave Mode=设置「捌」模式
+Set Default Mode=设为默认模式
+
+Chizuru Claws Ability=千钧爪
+Head: Chizuru Claws Ability=头部: 千钧爪
+UpperBody: Chizuru Claws Ability=上半身: 千钧爪
+MiddleBody: Chizuru Claws Ability=中半身: 千钧爪
+LowerBody: Chizuru Claws Ability=下半身: 千钧爪
+UpperArm: Chizuru Claws Ability=上臂: 千钧爪
+UpperArmFront: Chizuru Claws Ability=前上臂: 千钧爪
+LowerArm: Chizuru Claws Ability=下臂: 千钧爪
+LowerArmFront: Chizuru Claws Ability=前下臂: 千钧爪
+UpperLeg: Chizuru Claws Ability=大腿: 千钧爪
+UpperLegFront: Chizuru Claws Ability=前大腿: 千钧爪
+LowerLeg: Chizuru Claws Ability=小腿: 千钧爪
+LowerLegFront: Chizuru Claws Ability=前小腿: 千钧爪
+Foot: Chizuru Claws Ability=脚部: 千钧爪
+FootFront: Chizuru Claws Ability=前脚部: 千钧爪
+Enable Chizuru Claws Ability=<color%3D#00FF00FF>开启千钧爪
+Disable Chizuru Claws Ability=<color%3D#FF0000FF>关闭千钧爪
+Toggle Chizuru Claws Ability=切换千钧爪
+Toggle Chizuru Claws Ability.=切换千钧爪.
+
+Train Door Ability=列车门
+Head: Train Door Ability=头部: 列车门
+UpperBody: Train Door Ability=上半身: 列车门
+MiddleBody: Train Door Ability=中半身: 列车门
+LowerBody: Train Door Ability=下半身: 列车门
+UpperArm: Train Door Ability=上臂: 列车门
+UpperArmFront: Train Door Ability=前上臂: 列车门
+LowerArm: Train Door Ability=下臂: 列车门
+LowerArmFront: Train Door Ability=前下臂: 列车门
+UpperLeg: Train Door Ability=大腿: 列车门
+UpperLegFront: Train Door Ability=前大腿: 列车门
+LowerLeg: Train Door Ability=小腿: 列车门
+LowerLegFront: Train Door Ability=前小腿: 列车门
+Foot: Train Door Ability=脚部: 列车门
+FootFront: Train Door Ability=前脚部: 列车门
+Enable Train Door Ability=<color%3D#00FF00FF>开启列车门
+Disable Train Door Ability=<color%3D#FF0000FF>关闭列车门
+Toggle Train Door Ability=切换列车门
+Toggle Train Door Ability.=切换列车门.
+
+Metal Liquid=液态金属
+Head: Metal Liquid=头部: 液态金属
+UpperBody: Metal Liquid=上半身: 液态金属
+MiddleBody: Metal Liquid=中半身: 液态金属
+LowerBody: Metal Liquid=下半身: 液态金属
+UpperArm: Metal Liquid=上臂: 液态金属
+UpperArmFront: Metal Liquid=前上臂: 液态金属
+LowerArm: Metal Liquid=下臂: 液态金属
+LowerArmFront: Metal Liquid=前下臂: 液态金属
+UpperLeg: Metal Liquid=大腿: 液态金属
+UpperLegFront: Metal Liquid=前大腿: 液态金属
+LowerLeg: Metal Liquid=小腿: 液态金属
+LowerLegFront: Metal Liquid=前小腿: 液态金属
+Foot: Metal Liquid=脚部: 液态金属
+FootFront: Metal Liquid=前脚部: 液态金属
+Enable Metal Liquid=<color%3D#00FF00FF>开启液态金属
+Disable Metal Liquid=<color%3D#FF0000FF>关闭液态金属
+Toggle Metal Liquid=切换液态金属
+Toggle Metal Liquid.=切换液态金属.
+Edit Metal Liquid=<color%3D#FFD800>编辑液态金属
+Edit Metal Liquid.=编辑液态金属.
+Single Shot=单发
+Metal Explosion=金属爆炸
+Metal Punch=金属重拳
+Set Punch Explosion Multiplier=设置重拳爆炸倍率
+Punch Explosion Multiplier=重拳爆炸倍率
+Metal Arrow=金属箭矢
+True Sphere=真球
+Set Damage Multiplier=设置伤害倍率
+Damage Multiplier=伤害倍率
+
+Kaichi Technique=害一
+Kaichi=害一
+Head: Kaichi=头部: 害一
+UpperBody: Kaichi=上半身: 害一
+MiddleBody: Kaichi=中半身: 害一
+LowerBody: Kaichi=下半身: 害一
+UpperArm: Kaichi=上臂: 害一
+UpperArmFront: Kaichi=前上臂: 害一
+LowerArm: Kaichi=下臂: 害一
+LowerArmFront: Kaichi=前下臂: 害一
+UpperLeg: Kaichi=大腿: 害一
+UpperLegFront: Kaichi=前大腿: 害一
+LowerLeg: Kaichi=小腿: 害一
+LowerLegFront: Kaichi=前小腿: 害一
+Foot: Kaichi=脚部: 害一
+FootFront: Kaichi=前脚部: 害一
+Enable Kaichi=<color%3D#00FF00FF>开启害一
+Disable Kaichi=<color%3D#FF0000FF>关闭害一
+Toggle Kaichi=切换害一
+Toggle Kaichi.=切换害一.
+Set Kaichi Power=<color%3D#FFD800>设置害一力量
+Set Kaichi Power.=设置害一力量.
+
+Heart Catch=心身掌握
+Head: Heart Catch=头部: 心身掌握
+UpperBody: Heart Catch=上半身: 心身掌握
+MiddleBody: Heart Catch=中半身: 心身掌握
+LowerBody: Heart Catch=下半身: 心身掌握
+UpperArm: Heart Catch=上臂: 心身掌握
+UpperArmFront: Heart Catch=前上臂: 心身掌握
+LowerArm: Heart Catch=下臂: 心身掌握
+LowerArmFront: Heart Catch=前下臂: 心身掌握
+UpperLeg: Heart Catch=大腿: 心身掌握
+UpperLegFront: Heart Catch=前大腿: 心身掌握
+LowerLeg: Heart Catch=小腿: 心身掌握
+LowerLegFront: Heart Catch=前小腿: 心身掌握
+Foot: Heart Catch=脚部: 心身掌握
+FootFront: Heart Catch=前脚部: 心身掌握
+Enable Heart Catch=<color%3D#00FF00FF>开启心身掌握
+Disable Heart Catch=<color%3D#FF0000FF>关闭心身掌握
+Toggle Heart Catch=切换心身掌握
+Toggle Heart Catch.=切换心身掌握.
+Edit Heart Catch=<color%3D#FFD800>编辑心身掌握
+Edit Heart Catch.=编辑心身掌握.
+Heart Catch Settings=心身掌握设置
+Scale Multiplier=缩放倍率
+Set Scale Multiplier [0.1 - 50]=设置缩放倍率 [0.1 - 50]
+Range Multiplier=范围倍率
+Set Mass Multiplier [0.1 - 10]=设置质量倍率 [0.1 - 10]
+
+Mechamaru Abilities=机械丸能力
+Head: Mechamaru Abilities=头部: 机械丸能力
+UpperBody: Mechamaru Abilities=上半身: 机械丸能力
+MiddleBody: Mechamaru Abilities=中半身: 机械丸能力
+LowerBody: Mechamaru Abilities=下半身: 机械丸能力
+UpperArm: Mechamaru Abilities=上臂: 机械丸能力
+UpperArmFront: Mechamaru Abilities=前上臂: 机械丸能力
+LowerArm: Mechamaru Abilities=下臂: 机械丸能力
+LowerArmFront: Mechamaru Abilities=前下臂: 机械丸能力
+UpperLeg: Mechamaru Abilities=大腿: 机械丸能力
+UpperLegFront: Mechamaru Abilities=前大腿: 机械丸能力
+LowerLeg: Mechamaru Abilities=小腿: 机械丸能力
+LowerLegFront: Mechamaru Abilities=前小腿: 机械丸能力
+Foot: Mechamaru Abilities=脚部: 机械丸能力
+FootFront: Mechamaru Abilities=前脚部: 机械丸能力
+Enable Mechamaru Abilities=<color%3D#00FF00FF>开启机械丸能力
+Disable Mechamaru Abilities=<color%3D#FF0000FF>关闭机械丸能力
+Toggle Mechamaru Abilities=切换机械丸能力
+Toggle Mechamaru Abilities.=切换机械丸能力.
+Edit Mechamaru Abilities=<color%3D#FFD800>编辑机械丸能力
+Edit Mechamaru Abilities.=编辑机械丸能力.
+Mechamaru Abilities Options=机械丸能力选项
+None Mode=无模式
+Ultra Cannon Mode=大祓砲模式
+Ultra Shield Mode=剑山盾模式
+Sword Option Mode=剑刃选项模式
+Ultra Spin Mode=绝技抉剔模式
+Boost On Mode=动力提升模式
+
+Fire Cannon=火焰加农炮
+Head: Fire Cannon=头部: 火焰加农炮
+UpperBody: Fire Cannon=上半身: 火焰加农炮
+MiddleBody: Fire Cannon=中半身: 火焰加农炮
+LowerBody: Fire Cannon=下半身: 火焰加农炮
+UpperArm: Fire Cannon=上臂: 火焰加农炮
+UpperArmFront: Fire Cannon=前上臂: 火焰加农炮
+LowerArm: Fire Cannon=下臂: 火焰加农炮
+LowerArmFront: Fire Cannon=前下臂: 火焰加农炮
+UpperLeg: Fire Cannon=大腿: 火焰加农炮
+UpperLegFront: Fire Cannon=前大腿: 火焰加农炮
+LowerLeg: Fire Cannon=小腿: 火焰加农炮
+LowerLegFront: Fire Cannon=前小腿: 火焰加农炮
+Foot: Fire Cannon=脚部: 火焰加农炮
+FootFront: Fire Cannon=前脚部: 火焰加农炮
+Enable Fire Cannon=<color%3D#00FF00FF>开启火焰加农炮
+Disable Fire Cannon=<color%3D#FF0000FF>关闭火焰加农炮
+Toggle Fire Cannon=切换火焰加农炮
+Toggle Fire Cannon.=切换火焰加农炮.
+
+Star Rage=星之怒
+Head: Star Rage=头部: 星之怒
+UpperBody: Star Rage=上半身: 星之怒
+MiddleBody: Star Rage=中半身: 星之怒
+LowerBody: Star Rage=下半身: 星之怒
+UpperArm: Star Rage=上臂: 星之怒
+UpperArmFront: Star Rage=前上臂: 星之怒
+LowerArm: Star Rage=下臂: 星之怒
+LowerArmFront: Star Rage=前下臂: 星之怒
+UpperLeg: Star Rage=大腿: 星之怒
+UpperLegFront: Star Rage=前大腿: 星之怒
+LowerLeg: Star Rage=小腿: 星之怒
+LowerLegFront: Star Rage=前小腿: 星之怒
+Foot: Star Rage=脚部: 星之怒
+FootFront: Star Rage=前脚部: 星之怒
+Enable Star Rage=<color%3D#00FF00FF>开启星之怒
+Disable Star Rage=<color%3D#FF0000FF>关闭星之怒
+Toggle Star Rage=切换星之怒
+Toggle Star Rage.=切换星之怒.
+Set Mass Multiplier=设置质量倍数
+Set Mass Multiplier.=设置质量倍数.
+Set Mass Multiplier [-1 - 1000]=设置质量倍数 [-1 - 1000]
+
+Output Healing=治疗输出
+Head: Output Healing=头部: 治疗输出
+UpperBody: Output Healing=上半身: 治疗输出
+MiddleBody: Output Healing=中半身: 治疗输出
+LowerBody: Output Healing=下半身: 治疗输出
+UpperArm: Output Healing=上臂: 治疗输出
+UpperArmFront: Output Healing=前上臂: 治疗输出
+LowerArm: Output Healing=下臂: 治疗输出
+LowerArmFront: Output Healing=前下臂: 治疗输出
+UpperLeg: Output Healing=大腿: 治疗输出
+UpperLegFront: Output Healing=前大腿: 治疗输出
+LowerLeg: Output Healing=小腿: 治疗输出
+LowerLegFront: Output Healing=前小腿: 治疗输出
+Foot: Output Healing=脚部: 治疗输出
+FootFront: Output Healing=前脚部: 治疗输出
+Enable Output Healing=<color%3D#00FF00FF>开启治疗输出
+Disable Output Healing=<color%3D#FF0000FF>关闭治疗输出
+Toggle Output Healing=切换治疗输出
+Toggle Output Healing.=切换治疗输出.
+
+Wooden Ball=树鞠
+Head: Wooden Ball=头部: 树鞠
+UpperBody: Wooden Ball=上半身: 树鞠
+MiddleBody: Wooden Ball=中半身: 树鞠
+LowerBody: Wooden Ball=下半身: 树鞠
+UpperArm: Wooden Ball=上臂: 树鞠
+UpperArmFront: Wooden Ball=前上臂: 树鞠
+LowerArm: Wooden Ball=下臂: 树鞠
+LowerArmFront: Wooden Ball=前下臂: 树鞠
+UpperLeg: Wooden Ball=大腿: 树鞠
+UpperLegFront: Wooden Ball=前大腿: 树鞠
+LowerLeg: Wooden Ball=小腿: 树鞠
+LowerLegFront: Wooden Ball=前小腿: 树鞠
+Foot: Wooden Ball=脚部: 树鞠
+FootFront: Wooden Ball=前脚部: 树鞠
+Enable Wooden Ball=<color%3D#00FF00FF>开启树鞠
+Disable Wooden Ball=<color%3D#FF0000FF>关闭树鞠
+Toggle Wooden Ball=切换树鞠
+Toggle Wooden Ball.=切换树鞠.
+
+Cursed Bud=咒种
+Head: Cursed Bud=头部: 咒种
+UpperBody: Cursed Bud=上半身: 咒种
+MiddleBody: Cursed Bud=中半身: 咒种
+LowerBody: Cursed Bud=下半身: 咒种
+UpperArm: Cursed Bud=上臂: 咒种
+UpperArmFront: Cursed Bud=前上臂: 咒种
+LowerArm: Cursed Bud=下臂: 咒种
+LowerArmFront: Cursed Bud=前下臂: 咒种
+UpperLeg: Cursed Bud=大腿: 咒种
+UpperLegFront: Cursed Bud=前大腿: 咒种
+LowerLeg: Cursed Bud=小腿: 咒种
+LowerLegFront: Cursed Bud=前小腿: 咒种
+Foot: Cursed Bud=脚部: 咒种
+FootFront: Cursed Bud=前脚部: 咒种
+Enable Cursed Bud=<color%3D#00FF00FF>开启咒种
+Disable Cursed Bud=<color%3D#FF0000FF>关闭咒种
+Toggle Cursed Bud=切换咒种
+Toggle Cursed Bud.=切换咒种.
+
+Limitless=无下限咒术
+Head: Limitless=头部: 无下限咒术
+UpperBody: Limitless=上半身: 无下限咒术
+MiddleBody: Limitless=中半身: 无下限咒术
+LowerBody: Limitless=下半身: 无下限咒术
+UpperArm: Limitless=上臂: 无下限咒术
+UpperArmFront: Limitless=前上臂: 无下限咒术
+LowerArm: Limitless=下臂: 无下限咒术
+LowerArmFront: Limitless=前下臂: 无下限咒术
+UpperLeg: Limitless=大腿: 无下限咒术
+UpperLegFront: Limitless=前大腿: 无下限咒术
+LowerLeg: Limitless=小腿: 无下限咒术
+LowerLegFront: Limitless=前小腿: 无下限咒术
+Foot: Limitless=脚部: 无下限咒术
+FootFront: Limitless=前脚部: 无下限咒术
+Enable Limitless=<color%3D#00FF00FF>开启无下限咒术
+Disable Limitless=<color%3D#FF0000FF>关闭无下限咒术
+Toggle Limitless=切换无下限咒术
+Toggle Limitless.=切换无下限咒术.
+Open Limitless Options=<color%3D#FFD800>打开无下限咒术选项
+Open Limitless Options.=打开无下限咒术选项.
+Limitless Technique Options=无下限咒术技能选项
+Blue Punch Mode=苍 拳
+Mini Blues Mode=迷你 苍
+Lapse Blue Mode=术式顺转·苍
+Max Blue Mode=最大输出「苍」
+Red Punch Mode=赫 拳
+Mini Red Mode=迷你 赫
+Advanced Red Mode=术式反转·赫
+Max Output Red Mode=最大输出「赫」
+Imaginary Purple Mode=最大输出虚式「茈」
+Hollow Purple Mode=虚式「茈」
+Insta Hollow Purple Nuke (CHEAT)=瞬发虚式「茈」核爆（作弊）
+Customization Settings=自定义设置
+Limitless Technique Settings=无下限咒术设置
+Cast Speed Mult=施法速度倍率
+Set Cast Speed Mult [0.1 - 25]=设置施法速度倍率 [0.1 - 25]
+Max Cast Mult=最大施法倍率
+Set Max Cast Mult [0.1 - 10]=设置最大施法倍率 [0.1 - 10]
+Life Time Mult=持续时间倍率
+Set LifeTime Mult [0.1 - 5]=设置持续时间倍率 [0.1 - 5]
+Speed Mult=速度倍率
+Set Speed Mult [0.1 - 5]=设置速度倍率 [0.1 - 5]
+Radius Mult=范围倍率
+Set Radius Mult [0.1 - 5]=设置范围倍率 [0.1 - 5]
+Damage Mult=伤害倍率
+Set Damage Mult [0.1 - 5]=设置伤害倍率 [0.1 - 5]
+Force Mult=力度倍率
+Set Force Mult [0.1 - 5]=设置力度倍率 [0.1 - 5]
+Time Before Send=发射前延迟
+Set Time Before Send [0.1 - 5]=设置发射前延迟 [0.1 - 5]
+Enable Follow Mouse=启用鼠标跟随
+Disable Follow Mouse=禁用鼠标跟随
+Enable Interaction With No Collision=启用无碰撞交互
+Disable Interaction With No Collision=禁用无碰撞交互
+Main Options=主选项
+
+(OLD) Limitless=(旧版) 无下限咒术
+Limitless OLD=无下限咒术旧版
+Head: Limitless OLD=头部: 无下限咒术旧版
+UpperBody: Limitless OLD=上半身: 无下限咒术旧版
+MiddleBody: Limitless OLD=中半身: 无下限咒术旧版
+LowerBody: Limitless OLD=下半身: 无下限咒术旧版
+UpperArm: Limitless OLD=上臂: 无下限咒术旧版
+UpperArmFront: Limitless OLD=前上臂: 无下限咒术旧版
+LowerArm: Limitless OLD=下臂: 无下限咒术旧版
+LowerArmFront: Limitless OLD=前下臂: 无下限咒术旧版
+UpperLeg: Limitless OLD=大腿: 无下限咒术旧版
+UpperLegFront: Limitless OLD=前大腿: 无下限咒术旧版
+LowerLeg: Limitless OLD=小腿: 无下限咒术旧版
+LowerLegFront: Limitless OLD=前小腿: 无下限咒术旧版
+Foot: Limitless OLD=脚部: 无下限咒术旧版
+FootFront: Limitless OLD=前脚部: 无下限咒术旧版
+Enable Limitless OLD=<color%3D#00FF00FF>开启无下限咒术旧版
+Disable Limitless OLD=<color%3D#FF0000FF>关闭无下限咒术旧版
+Toggle Limitless OLD=切换无下限咒术旧版
+Toggle Limitless OLD.=切换无下限咒术旧版.
+Open Limitless Old Settings=<color%3D#FFD800>打开无下限咒术旧版设置
+Open Limitless Old Settings.=打开无下限咒术旧版设置.
+Infinity Punch Mode=不可侵 拳
+Blue Mode=「苍」
+Red Mode=「赫」
+Purple Mode=「茈」
+Set Explosion Time=设置爆炸时间
+Enable Ball Follow Mouse=启用球体鼠标跟随
+Disable Ball Follow Mouse=禁用球体鼠标跟随
+
+Hand Transfiguration=手部无为转变
+Head: Hand Transfiguration=头部: 手部无为转变
+UpperBody: Hand Transfiguration=上半身: 手部无为转变
+MiddleBody: Hand Transfiguration=中半身: 手部无为转变
+LowerBody: Hand Transfiguration=下半身: 手部无为转变
+UpperArm: Hand Transfiguration=上臂: 手部无为转变
+UpperArmFront: Hand Transfiguration=前上臂: 手部无为转变
+LowerArm: Hand Transfiguration=下臂: 手部无为转变
+LowerArmFront: Hand Transfiguration=前下臂: 手部无为转变
+UpperLeg: Hand Transfiguration=大腿: 手部无为转变
+UpperLegFront: Hand Transfiguration=前大腿: 手部无为转变
+LowerLeg: Hand Transfiguration=小腿: 手部无为转变
+LowerLegFront: Hand Transfiguration=前小腿: 手部无为转变
+Foot: Hand Transfiguration=脚部: 手部无为转变
+FootFront: Hand Transfiguration=前脚部: 手部无为转变
+Enable Hand Transfiguration=<color%3D#00FF00FF>开启手部无为转变
+Disable Hand Transfiguration=<color%3D#FF0000FF>关闭手部无为转变
+Toggle Hand Transfiguration=切换手部无为转变
+Toggle Hand Transfiguration.=切换手部无为转变.
+Edit Hand Transfiguration=<color%3D#FFD800>编辑手部无为转变
+Edit Hand Transfiguration.=编辑手部无为转变.
+Hand Transfiguration Options=手部无为转变选项
+Sharp Arm Mode=利刃臂模式
+Axe Mode=战斧臂模式
+Whip Arm Mode=长鞭臂模式
+Drill Arm Mode=螺旋钻模式
+Club Arm Mode=棍棒臂模式
+Set Base Shrapnel Сount=设置基础弹片数量
+Gun Arm Mode=手枪臂模式
+Explosive Gun Arm Mode=爆裂枪臂模式
+
+Other Soul Transfiguration=改造他人灵魂
+Head: Other Soul Transfiguration=头部: 改造他人灵魂
+UpperBody: Other Soul Transfiguration=上半身: 改造他人灵魂
+MiddleBody: Other Soul Transfiguration=中半身: 改造他人灵魂
+LowerBody: Other Soul Transfiguration=下半身: 改造他人灵魂
+UpperArm: Other Soul Transfiguration=上臂: 改造他人灵魂
+UpperArmFront: Other Soul Transfiguration=前上臂: 改造他人灵魂
+LowerArm: Other Soul Transfiguration=下臂: 改造他人灵魂
+LowerArmFront: Other Soul Transfiguration=前下臂: 改造他人灵魂
+UpperLeg: Other Soul Transfiguration=大腿: 改造他人灵魂
+UpperLegFront: Other Soul Transfiguration=前大腿: 改造他人灵魂
+LowerLeg: Other Soul Transfiguration=小腿: 改造他人灵魂
+LowerLegFront: Other Soul Transfiguration=前小腿: 改造他人灵魂
+Foot: Other Soul Transfiguration=脚部: 改造他人灵魂
+FootFront: Other Soul Transfiguration=前脚部: 改造他人灵魂
+Enable Other Soul Transfiguration=<color%3D#00FF00FF>开启改造他人灵魂
+Disable Other Soul Transfiguration=<color%3D#FF0000FF>关闭改造他人灵魂
+Toggle Other Soul Transfiguration=切换改造他人灵魂
+Toggle Other Soul Transfiguration.=切换改造他人灵魂.
+Edit Other Soul Transfiguration=<color%3D#FFD800>编辑改造他人灵魂
+Edit Other Soul Transfiguration.=编辑改造他人灵魂.
+Other Soul Transfiguration Options=改造他人灵魂选项
+Soul Deforming Mode=变形灵魂模式
+Soul Destruction Mode=毁灭灵魂模式
+Limb Destruction Mode=肢体毁灭模式
+Soul Reduction Mode=缩减灵魂模式
+Soul Cure Mode=灵魂治愈模式
+Small Body Repel Mode=小型排斥模式
+Huge Body Repel Mode=大型排斥模式
+Create Disfigure Soul=创造畸形魂
+Create Polymorphic Soul Isomer=创造多形灵魂异构体
+Create Transfigurated Hammer=创造改造锤
+Create Transfigurated Sword=创造改造剑
+Souls Count =灵魂数量 
+Set Souls Count [0 - =设置灵魂数量 [0 - 
+Set Transfiguration Energy=设置改造能量
+Set Transfiguration Energy [500 - 19000]=设置改造能量 [500 - 19000]
+
+Projection Mover=投射推动
+Head: Projection Mover=头部: 投射推动
+UpperBody: Projection Mover=上半身: 投射推动
+MiddleBody: Projection Mover=中半身: 投射推动
+LowerBody: Projection Mover=下半身: 投射推动
+UpperArm: Projection Mover=上臂: 投射推动
+UpperArmFront: Projection Mover=前上臂: 投射推动
+LowerArm: Projection Mover=下臂: 投射推动
+LowerArmFront: Projection Mover=前下臂: 投射推动
+UpperLeg: Projection Mover=大腿: 投射推动
+UpperLegFront: Projection Mover=前大腿: 投射推动
+LowerLeg: Projection Mover=小腿: 投射推动
+LowerLegFront: Projection Mover=前小腿: 投射推动
+Foot: Projection Mover=脚部: 投射推动
+FootFront: Projection Mover=前脚部: 投射推动
+Enable Projection Mover=<color%3D#00FF00FF>开启投射推动
+Disable Projection Mover=<color%3D#FF0000FF>关闭投射推动
+Toggle Projection Mover=切换投射推动
+Toggle Projection Mover.=切换投射推动.
+
+Charge Manipulation=电荷操控
+Head: Charge Manipulation=头部: 电荷操控
+UpperBody: Charge Manipulation=上半身: 电荷操控
+MiddleBody: Charge Manipulation=中半身: 电荷操控
+LowerBody: Charge Manipulation=下半身: 电荷操控
+UpperArm: Charge Manipulation=上臂: 电荷操控
+UpperArmFront: Charge Manipulation=前上臂: 电荷操控
+LowerArm: Charge Manipulation=下臂: 电荷操控
+LowerArmFront: Charge Manipulation=前下臂: 电荷操控
+UpperLeg: Charge Manipulation=大腿: 电荷操控
+UpperLegFront: Charge Manipulation=前大腿: 电荷操控
+LowerLeg: Charge Manipulation=小腿: 电荷操控
+LowerLegFront: Charge Manipulation=前小腿: 电荷操控
+Foot: Charge Manipulation=脚部: 电荷操控
+FootFront: Charge Manipulation=前脚部: 电荷操控
+Enable Charge Manipulation=<color%3D#00FF00FF>开启电荷操控
+Disable Charge Manipulation=<color%3D#FF0000FF>关闭电荷操控
+Toggle Charge Manipulation=切换电荷操控
+Toggle Charge Manipulation.=切换电荷操控.
+Edit Charge Manipulation=<color%3D#FFD800>编辑电荷操控
+Edit Charge Manipulation.=编辑电荷操控.
+Charge Manipulation Options=电荷操控选项
+Charge Punch Mode=蓄力冲拳模式
+Piercing Shot Mode=穿刺射击模式
+Single Charge Shot Mode=单次蓄力射击模式
+Strong Charge Shot Mode=强力蓄力射击模式
+Air Strike Mode=空中打击模式
+Set Charge Multiplier=设置蓄力倍率
+Set Charge Multiplier [0.01 - 5]=设置蓄力倍率 [0.01 - 5]
+
+Ice Formation=冰凝咒法
+Head: Ice Formation=头部: 冰凝咒法
+UpperBody: Ice Formation=上半身: 冰凝咒法
+MiddleBody: Ice Formation=中半身: 冰凝咒法
+LowerBody: Ice Formation=下半身: 冰凝咒法
+UpperArm: Ice Formation=上臂: 冰凝咒法
+UpperArmFront: Ice Formation=前上臂: 冰凝咒法
+LowerArm: Ice Formation=下臂: 冰凝咒法
+LowerArmFront: Ice Formation=前下臂: 冰凝咒法
+UpperLeg: Ice Formation=大腿: 冰凝咒法
+UpperLegFront: Ice Formation=前大腿: 冰凝咒法
+LowerLeg: Ice Formation=小腿: 冰凝咒法
+LowerLegFront: Ice Formation=前小腿: 冰凝咒法
+Foot: Ice Formation=脚部: 冰凝咒法
+FootFront: Ice Formation=前脚部: 冰凝咒法
+Enable Ice Formation=<color%3D#00FF00FF>开启冰凝咒法
+Disable Ice Formation=<color%3D#FF0000FF>关闭冰凝咒法
+Toggle Ice Formation=切换冰凝咒法
+Toggle Ice Formation.=切换冰凝咒法.
+Edit Ice Formation=<color%3D#FFD800>编辑冰凝咒法
+Edit Ice Formation.=编辑冰凝咒法.
+Ice Formation Options=冰凝咒法选项
+Ice Punch Mode=冰拳模式
+Strong Ice Punch Mode=强力冰拳模式
+Freeze Wind Mode=冻气模式
+Freeze Beam Mode=冻结光束模式
+Icicle Mode=冰柱模式
+Small Orb Mode=小冰球模式
+Frost Mega Orb Mode=寒霜巨球模式
+Ice Fall Mode=冰瀑模式
+Frost Calm Mode=霜凪模式
+Spike Attack Mode=冰刺攻击模式
+Tornado Mode=冰龙卷模式
+Set Freeze Multiplier=设置冰冻倍率
+Set Freeze Multiplier [0.1 - 5]=设置冰冻倍率 [0.1 - 5]
+
+Fire Manipulation=災厄火焰
+Head: Fire Manipulation=头部: 災厄火焰
+UpperBody: Fire Manipulation=上半身: 災厄火焰
+MiddleBody: Fire Manipulation=中半身: 災厄火焰
+LowerBody: Fire Manipulation=下半身: 災厄火焰
+UpperArm: Fire Manipulation=上臂: 災厄火焰
+UpperArmFront: Fire Manipulation=前上臂: 災厄火焰
+LowerArm: Fire Manipulation=下臂: 災厄火焰
+LowerArmFront: Fire Manipulation=前下臂: 災厄火焰
+UpperLeg: Fire Manipulation=大腿: 災厄火焰
+UpperLegFront: Fire Manipulation=前大腿: 災厄火焰
+LowerLeg: Fire Manipulation=小腿: 災厄火焰
+LowerLegFront: Fire Manipulation=前小腿: 災厄火焰
+Foot: Fire Manipulation=脚部: 災厄火焰
+FootFront: Fire Manipulation=前脚部: 災厄火焰
+Enable Fire Manipulation=<color%3D#00FF00FF>开启災厄火焰
+Disable Fire Manipulation=<color%3D#FF0000FF>关闭災厄火焰
+Toggle Fire Manipulation=切换災厄火焰
+Toggle Fire Manipulation.=切换災厄火焰.
+Edit Fire Manipulation=<color%3D#FFD800>编辑災厄火焰
+Edit Fire Manipulation.=编辑災厄火焰.
+Fire Control Options=灾厄火焰选项
+Fire Punch Mode+=火焰拳模式+
+Flame Thrower Mode+=火焰喷射器模式+
+Explosive Blast Mode+=爆炸冲击模式+
+Instantaneous Ignition Mode+=瞬燃模式+
+Explosive Point Mode+=爆破点模式+
+Fire Shotgun Mode+=火焰霰弹模式+
+Fire Minigun Mode+=火焰加特林模式+
+Magma Minigun Mode+=岩浆加特林模式+
+Magma Beam Mode+=岩浆光束模式+
+Magma Impale Mode+=岩浆穿刺模式+
+Ember Insects Mode=火砾虫模式
+Place Volcano Mode=设置火山口
+Meteor Mode=极之番「陨」模式
+Set Power Multiplier=设置威力倍率
+Set Power Multiplier [0.1 - 10]=设置威力倍率 [0.1 - 10]
+Set Cast Speed Multiplier=设置施法速度倍率
+Set Cast Speed Multiplier [0.1 - 10]=设置施法速度倍率 [0.1 - 10]
+Set Temperature Multiplier=设置温度倍率
+Set Temperature Multiplier [0.1 - 999]=设置温度倍率 [0.1 - 999]
+
+Magma Hands=岩浆之手
+Head: Magma Hands=头部: 岩浆之手
+UpperBody: Magma Hands=上半身: 岩浆之手
+MiddleBody: Magma Hands=中半身: 岩浆之手
+LowerBody: Magma Hands=下半身: 岩浆之手
+UpperArm: Magma Hands=上臂: 岩浆之手
+UpperArmFront: Magma Hands=前上臂: 岩浆之手
+LowerArm: Magma Hands=下臂: 岩浆之手
+LowerArmFront: Magma Hands=前下臂: 岩浆之手
+UpperLeg: Magma Hands=大腿: 岩浆之手
+UpperLegFront: Magma Hands=前大腿: 岩浆之手
+LowerLeg: Magma Hands=小腿: 岩浆之手
+LowerLegFront: Magma Hands=前小腿: 岩浆之手
+Foot: Magma Hands=脚部: 岩浆之手
+FootFront: Magma Hands=前脚部: 岩浆之手
+Enable Magma Hands=<color%3D#00FF00FF>开启岩浆之手
+Disable Magma Hands=<color%3D#FF0000FF>关闭岩浆之手
+Toggle Magma Hands=切换岩浆之手
+Toggle Magma Hands.=切换岩浆之手.
+Edit Magma Hands=<color%3D#FFD800>编辑岩浆之手
+Edit Magma Hands.=编辑岩浆之手.
+Magma Hands Settings=岩浆之手设置
+Set Mass Multiplier [0.1 - 50]=设置质量倍数[0.1 - 50]
+
+Water Manipulation=灾祸潮汐
+Head: Water Manipulation=头部: 灾祸潮汐
+UpperBody: Water Manipulation=上半身: 灾祸潮汐
+MiddleBody: Water Manipulation=中半身: 灾祸潮汐
+LowerBody: Water Manipulation=下半身: 灾祸潮汐
+UpperArm: Water Manipulation=上臂: 灾祸潮汐
+UpperArmFront: Water Manipulation=前上臂: 灾祸潮汐
+LowerArm: Water Manipulation=下臂: 灾祸潮汐
+LowerArmFront: Water Manipulation=前下臂: 灾祸潮汐
+UpperLeg: Water Manipulation=大腿: 灾祸潮汐
+UpperLegFront: Water Manipulation=前大腿: 灾祸潮汐
+LowerLeg: Water Manipulation=小腿: 灾祸潮汐
+LowerLegFront: Water Manipulation=前小腿: 灾祸潮汐
+Foot: Water Manipulation=脚部: 灾祸潮汐
+FootFront: Water Manipulation=前脚部: 灾祸潮汐
+Enable Water Manipulation=<color%3D#00FF00FF>开启灾祸潮汐
+Disable Water Manipulation=<color%3D#FF0000FF>关闭灾祸潮汐
+Toggle Water Manipulation=切换灾祸潮汐
+Toggle Water Manipulation.=切换灾祸潮汐.
+
+Fish Attack Ability=死累累涌军
+Head: Fish Attack Ability=头部: 死累累涌军
+UpperBody: Fish Attack Ability=上半身: 死累累涌军
+MiddleBody: Fish Attack Ability=中半身: 死累累涌军
+LowerBody: Fish Attack Ability=下半身: 死累累涌军
+UpperArm: Fish Attack Ability=上臂: 死累累涌军
+UpperArmFront: Fish Attack Ability=前上臂: 死累累涌军
+LowerArm: Fish Attack Ability=下臂: 死累累涌军
+LowerArmFront: Fish Attack Ability=前下臂: 死累累涌军
+UpperLeg: Fish Attack Ability=大腿: 死累累涌军
+UpperLegFront: Fish Attack Ability=前大腿: 死累累涌军
+LowerLeg: Fish Attack Ability=小腿: 死累累涌军
+LowerLegFront: Fish Attack Ability=前小腿: 死累累涌军
+Foot: Fish Attack Ability=脚部: 死累累涌军
+FootFront: Fish Attack Ability=前脚部: 死累累涌军
+Enable Fish Attack Ability=<color%3D#00FF00FF>开启死累累涌军
+Disable Fish Attack Ability=<color%3D#FF0000FF>关闭死累累涌军
+Toggle Fish Attack Ability=切换死累累涌军
+Toggle Fish Attack Ability.=切换死累累涌军.
+Fish Attack Settings=<color%3D#FFD800>鱼群攻击设置
+Fish Attack Settings.=鱼群攻击设置.
+Set Fish Spawn Speed=设置鱼群生成速度
+Set Fish Speed=设置鱼速
+
+Slice Ability=斩击
+Head: Slice Ability=头部: 斩击
+UpperBody: Slice Ability=上半身: 斩击
+MiddleBody: Slice Ability=中半身: 斩击
+LowerBody: Slice Ability=下半身: 斩击
+UpperArm: Slice Ability=上臂: 斩击
+UpperArmFront: Slice Ability=前上臂: 斩击
+LowerArm: Slice Ability=下臂: 斩击
+LowerArmFront: Slice Ability=前下臂: 斩击
+UpperLeg: Slice Ability=大腿: 斩击
+UpperLegFront: Slice Ability=前大腿: 斩击
+LowerLeg: Slice Ability=小腿: 斩击
+LowerLegFront: Slice Ability=前小腿: 斩击
+Foot: Slice Ability=脚部: 斩击
+FootFront: Slice Ability=前脚部: 斩击
+Enable Slice Ability=<color%3D#00FF00FF>开启斩击
+Disable Slice Ability=<color%3D#FF0000FF>关闭斩击
+Toggle Slice Ability=切换斩击
+Toggle Slice Ability.=切换斩击.
+Edit Slice Ability=<color%3D#FFD800>编辑斩击
+Edit Slice Ability.=编辑斩击.
+Open Cut Settings=<color%3D#FFD800>打开切割设置
+Open Cut Settings.=打开切割设置.
+Cut Settings=切割设置
+Damage Mode=伤害模式
+Cleave Mode=「捌」模式
+Dismantle Mode=「解」模式
+Base Hit+ Type=基础打击+型
+Strong Hit+ Type=强力打击+型
+Strong Fly+ Type=强力飞斩+型
+Close Area+ Type=近距离范围+型
+Long Area+ Type=远距离范围+型
+Grid Cut+ Type=网格切割+型
+Cleave Punch+ Type=捌拳+型
+World Cut+ Type=空间斩+型
+Set Cut Area=设置切割范围
+Set Slice Size=设置切割尺寸
+Set Slice Size [0.5 - 3]=设置切割尺寸 [0.5 - 3]
+Set Damage Multiplier [1 - 5]=设置伤害倍率 [1 - 5]
+
+Fire Arrow=「开」
+Head: Fire Arrow=头部: 「开」
+UpperBody: Fire Arrow=上半身: 「开」
+MiddleBody: Fire Arrow=中半身: 「开」
+LowerBody: Fire Arrow=下半身: 「开」
+UpperArm: Fire Arrow=上臂: 「开」
+UpperArmFront: Fire Arrow=前上臂: 「开」
+LowerArm: Fire Arrow=下臂: 「开」
+LowerArmFront: Fire Arrow=前下臂: 「开」
+UpperLeg: Fire Arrow=大腿: 「开」
+UpperLegFront: Fire Arrow=前大腿: 「开」
+LowerLeg: Fire Arrow=小腿: 「开」
+LowerLegFront: Fire Arrow=前小腿: 「开」
+Foot: Fire Arrow=脚部: 「开」
+FootFront: Fire Arrow=前脚部: 「开」
+Enable Fire Arrow=<color%3D#00FF00FF>开启「开」
+Disable Fire Arrow=<color%3D#FF0000FF>关闭「开」
+Toggle Fire Arrow=切换「开」
+Toggle Fire Arrow.=切换「开」.
+
+Cursed Cockroaches Arm=咒力蟑螂臂
+Head: Cursed Cockroaches Arm=头部: 咒力蟑螂臂
+UpperBody: Cursed Cockroaches Arm=上半身: 咒力蟑螂臂
+MiddleBody: Cursed Cockroaches Arm=中半身: 咒力蟑螂臂
+LowerBody: Cursed Cockroaches Arm=下半身: 咒力蟑螂臂
+UpperArm: Cursed Cockroaches Arm=上臂: 咒力蟑螂臂
+UpperArmFront: Cursed Cockroaches Arm=前上臂: 咒力蟑螂臂
+LowerArm: Cursed Cockroaches Arm=下臂: 咒力蟑螂臂
+LowerArmFront: Cursed Cockroaches Arm=前下臂: 咒力蟑螂臂
+UpperLeg: Cursed Cockroaches Arm=大腿: 咒力蟑螂臂
+UpperLegFront: Cursed Cockroaches Arm=前大腿: 咒力蟑螂臂
+LowerLeg: Cursed Cockroaches Arm=小腿: 咒力蟑螂臂
+LowerLegFront: Cursed Cockroaches Arm=前小腿: 咒力蟑螂臂
+Foot: Cursed Cockroaches Arm=脚部: 咒力蟑螂臂
+FootFront: Cursed Cockroaches Arm=前脚部: 咒力蟑螂臂
+Enable Cursed Cockroaches Arm=<color%3D#00FF00FF>开启咒力蟑螂臂
+Disable Cursed Cockroaches Arm=<color%3D#FF0000FF>关闭咒力蟑螂臂
+Toggle Cursed Cockroaches Arm=切换咒力蟑螂臂
+Toggle Cursed Cockroaches Arm.=切换咒力蟑螂臂.
+Edit Cockroaches Manipulation=<color%3D#FFD800>编辑蟑螂操控
+Edit Cockroaches Manipulation.=编辑蟑螂操控.
+Cockroaches Manipulation=蟑螂操控
+Cockroaches Throw=蟑螂投掷
+Cockroaches Wind=蟑螂旋风
+Cockroaches Punch=蟑螂重拳
+Toxic Insect=剧毒毒虫
+Cockroaches Follow=追踪蟑螂
+Set Damage Mult=设置伤害倍率
+Set Damage Mult [0.1 - 2]=设置伤害倍率 [0.1 - 2]
+
+Sky Manipulation Arm=天空之手
+Head: Sky Manipulation Arm=头部: 天空之手
+UpperBody: Sky Manipulation Arm=上半身: 天空之手
+MiddleBody: Sky Manipulation Arm=中半身: 天空之手
+LowerBody: Sky Manipulation Arm=下半身: 天空之手
+UpperArm: Sky Manipulation Arm=上臂: 天空之手
+UpperArmFront: Sky Manipulation Arm=前上臂: 天空之手
+LowerArm: Sky Manipulation Arm=下臂: 天空之手
+LowerArmFront: Sky Manipulation Arm=前下臂: 天空之手
+UpperLeg: Sky Manipulation Arm=大腿: 天空之手
+UpperLegFront: Sky Manipulation Arm=前大腿: 天空之手
+LowerLeg: Sky Manipulation Arm=小腿: 天空之手
+LowerLegFront: Sky Manipulation Arm=前小腿: 天空之手
+Foot: Sky Manipulation Arm=脚部: 天空之手
+FootFront: Sky Manipulation Arm=前脚部: 天空之手
+Enable Sky Manipulation Arm=<color%3D#00FF00FF>开启天空之手
+Disable Sky Manipulation Arm=<color%3D#FF0000FF>关闭天空之手
+Toggle Sky Manipulation Arm=切换天空之手
+Toggle Sky Manipulation Arm.=切换天空之手.
+Edit Sky Manipulation Arm=<color%3D#FFD800>编辑天空之手
+Edit Sky Manipulation Arm.=编辑天空之手.
+Uzumaki=极之番「漩涡」
+Sky Slice=宇守罗弹
+Sky Protection=天空防御
+Thin Ice Breaker=薄冰破
+Set Push Power=设置击飞力度
+
+Blood Manipulation User=赤血操术使用者
+Blood Manipulation=赤血操术
+Head: Blood Manipulation=头部: 赤血操术
+UpperBody: Blood Manipulation=上半身: 赤血操术
+MiddleBody: Blood Manipulation=中半身: 赤血操术
+LowerBody: Blood Manipulation=下半身: 赤血操术
+UpperArm: Blood Manipulation=上臂: 赤血操术
+UpperArmFront: Blood Manipulation=前上臂: 赤血操术
+LowerArm: Blood Manipulation=下臂: 赤血操术
+LowerArmFront: Blood Manipulation=前下臂: 赤血操术
+UpperLeg: Blood Manipulation=大腿: 赤血操术
+UpperLegFront: Blood Manipulation=前大腿: 赤血操术
+LowerLeg: Blood Manipulation=小腿: 赤血操术
+LowerLegFront: Blood Manipulation=前小腿: 赤血操术
+Foot: Blood Manipulation=脚部: 赤血操术
+FootFront: Blood Manipulation=前脚部: 赤血操术
+Enable Blood Manipulation=<color%3D#00FF00FF>开启赤血操术
+Disable Blood Manipulation=<color%3D#FF0000FF>关闭赤血操术
+Toggle Blood Manipulation=切换赤血操术
+Toggle Blood Manipulation.=切换赤血操术.
+Edit Blood Control=<color%3D#FFD800>编辑赤血操术
+Edit Blood Control.=编辑赤血操术.
+Enable Infinity Blood=<color%3D#00FF00FF>启用无限血液
+Disable Infinity Blood=<color%3D#FF0000FF>禁用无限血液
+Switch Infinity Blood=切换无限血液
+Switch Infinity Blood.=切换无限血液.
+Create Blood=创造血液
+Blood Absorb=血液吸收
+Create Blood Knife=创造血刃
+Piercing Blood=穿血
+Blood Orb=血球
+Blood Supernova=血之超新星
+Circle Attack=圆环攻击
+Slicing Exorcism=斩除咒轮
+Impale Spikes=贯穿尖刺
+Impale Crystals=贯穿晶刺
+Arrow=血箭
+Arrow Rain=箭雨
+Blood Slash=血斩
+Blood Shield=血之护盾
+Blood Tornado=鲜血龙卷
+Set Blood Detect Range=设置血液探测范围
+Blood Detect Range=血液探测范围
+Enable Blood Regen=<color%3D#00FF00FF>启用血液再生
+Disable Blood Regen=<color%3D#FF0000FF>禁用血液再生
+Switch Blood Regen=切换血液再生
+Switch Blood Regen.=切换血液再生.
+
+Seance Technique=降灵术
+Head: Seance Technique=头部: 降灵术
+UpperBody: Seance Technique=上半身: 降灵术
+MiddleBody: Seance Technique=中半身: 降灵术
+LowerBody: Seance Technique=下半身: 降灵术
+UpperArm: Seance Technique=上臂: 降灵术
+UpperArmFront: Seance Technique=前上臂: 降灵术
+LowerArm: Seance Technique=下臂: 降灵术
+LowerArmFront: Seance Technique=前下臂: 降灵术
+UpperLeg: Seance Technique=大腿: 降灵术
+UpperLegFront: Seance Technique=前大腿: 降灵术
+LowerLeg: Seance Technique=小腿: 降灵术
+LowerLegFront: Seance Technique=前小腿: 降灵术
+Foot: Seance Technique=脚部: 降灵术
+FootFront: Seance Technique=前脚部: 降灵术
+Enable Seance Technique=<color%3D#00FF00FF>开启降灵术
+Disable Seance Technique=<color%3D#FF0000FF>关闭降灵术
+Toggle Seance Technique=切换降灵术
+Toggle Seance Technique.=切换降灵术.
+
+Cursed Spirit Manipulation User=咒灵操术使用者
+Head: Cursed Spirit Manipulation User=头部: 咒灵操术使用者
+UpperBody: Cursed Spirit Manipulation User=上半身: 咒灵操术使用者
+MiddleBody: Cursed Spirit Manipulation User=中半身: 咒灵操术使用者
+LowerBody: Cursed Spirit Manipulation User=下半身: 咒灵操术使用者
+UpperArm: Cursed Spirit Manipulation User=上臂: 咒灵操术使用者
+UpperArmFront: Cursed Spirit Manipulation User=前上臂: 咒灵操术使用者
+LowerArm: Cursed Spirit Manipulation User=下臂: 咒灵操术使用者
+LowerArmFront: Cursed Spirit Manipulation User=前下臂: 咒灵操术使用者
+UpperLeg: Cursed Spirit Manipulation User=大腿: 咒灵操术使用者
+UpperLegFront: Cursed Spirit Manipulation User=前大腿: 咒灵操术使用者
+LowerLeg: Cursed Spirit Manipulation User=小腿: 咒灵操术使用者
+LowerLegFront: Cursed Spirit Manipulation User=前小腿: 咒灵操术使用者
+Foot: Cursed Spirit Manipulation User=脚部: 咒灵操术使用者
+FootFront: Cursed Spirit Manipulation User=前脚部: 咒灵操术使用者
+Enable Cursed Spirit Manipulation User=<color%3D#00FF00FF>开启咒灵操术使用者
+Disable Cursed Spirit Manipulation User=<color%3D#FF0000FF>关闭咒灵操术使用者
+Toggle Cursed Spirit Manipulation User=切换咒灵操术使用者
+Toggle Cursed Spirit Manipulation User.=切换咒灵操术使用者.
+Spawn Curse=生成咒灵
+Spawn Curse.=生成咒灵.
+Steal Curse Abilities=窃取咒灵术式
+Steal Curse Abilities.=窃取咒灵术式.
+Maximum Uzumaki=极之番「漩涡」
+Maximum Uzumaki.=极之番「漩涡」.
+
+Octopus Summon=召唤章鱼
+Head: Octopus Summon=头部: 召唤章鱼
+UpperBody: Octopus Summon=上半身: 召唤章鱼
+MiddleBody: Octopus Summon=中半身: 召唤章鱼
+LowerBody: Octopus Summon=下半身: 召唤章鱼
+UpperArm: Octopus Summon=上臂: 召唤章鱼
+UpperArmFront: Octopus Summon=前上臂: 召唤章鱼
+LowerArm: Octopus Summon=下臂: 召唤章鱼
+LowerArmFront: Octopus Summon=前下臂: 召唤章鱼
+UpperLeg: Octopus Summon=大腿: 召唤章鱼
+UpperLegFront: Octopus Summon=前大腿: 召唤章鱼
+LowerLeg: Octopus Summon=小腿: 召唤章鱼
+LowerLegFront: Octopus Summon=前小腿: 召唤章鱼
+Foot: Octopus Summon=脚部: 召唤章鱼
+FootFront: Octopus Summon=前脚部: 召唤章鱼
+Enable Octopus Summon=<color%3D#00FF00FF>开启召唤章鱼
+Disable Octopus Summon=<color%3D#FF0000FF>关闭召唤章鱼
+Toggle Octopus Summon=切换召唤章鱼
+Toggle Octopus Summon.=切换召唤章鱼.
+
+Empty Barriers Cast=释放空之结界
+Head: Empty Barriers Cast=头部: 释放空之结界
+UpperBody: Empty Barriers Cast=上半身: 释放空之结界
+MiddleBody: Empty Barriers Cast=中半身: 释放空之结界
+LowerBody: Empty Barriers Cast=下半身: 释放空之结界
+UpperArm: Empty Barriers Cast=上臂: 释放空之结界
+UpperArmFront: Empty Barriers Cast=前上臂: 释放空之结界
+LowerArm: Empty Barriers Cast=下臂: 释放空之结界
+LowerArmFront: Empty Barriers Cast=前下臂: 释放空之结界
+UpperLeg: Empty Barriers Cast=大腿: 释放空之结界
+UpperLegFront: Empty Barriers Cast=前大腿: 释放空之结界
+LowerLeg: Empty Barriers Cast=小腿: 释放空之结界
+LowerLegFront: Empty Barriers Cast=前小腿: 释放空之结界
+Foot: Empty Barriers Cast=脚部: 释放空之结界
+FootFront: Empty Barriers Cast=前脚部: 释放空之结界
+Enable Empty Barriers Cast=<color%3D#00FF00FF>开启释放空之结界
+Disable Empty Barriers Cast=<color%3D#FF0000FF>关闭释放空之结界
+Toggle Empty Barriers Cast=切换释放空之结界
+Toggle Empty Barriers Cast.=切换释放空之结界.
+Edit Barriers Cast=<color%3D#FFD800>编辑空之结界
+Edit Barriers Cast.=编辑空之结界.
+Barriers Cast Settings=空之结界设置
+Random Mode=随机模式
+Wall Mode=墙壁模式
+Circle Mode=圆形模式
+Barricade Mode=路障模式
+Draw Mode=绘制模式
+Automatic Mode=自动模式
+Starfall Mode=星落模式
+Pressing Mode=按压模式
+Rain Mode=下雨模式
+Clock Mode=时钟模式
+Set Max Wait Time=设置最大等待时间
+
+//上半身===================================================================================================
+Angel Fly=天使飞行
+Fly Options=飞行选项
+Enable Stand Upright=启用直立姿态
+Disable Stand Upright=关闭直立姿态
+Switch Fly Upright=切换飞行姿态
+Switch Fly Upright.=切换飞行姿态.
+
+
+//中半身===================================================================================================
+Dash Toward Ability=冲刺朝向能力
+MiddleBody: Dash Toward Ability=中半身:冲刺朝向能力
+Enable Dash Toward Ability=<color%3D#00FF00FF>开启冲刺朝向能力
+Disable Dash Toward Ability=<color%3D#FF0000FF>关闭冲刺朝向能力
+Toggle Dash Toward Ability=切换冲刺朝向能力
+Toggle Dash Toward Ability.=切换冲刺朝向能力.
+
+Sword Dash Ability=剑冲刺能力
+MiddleBody: Sword Dash Ability=中半身:剑冲刺能力
+Enable Sword Dash Ability=<color%3D#00FF00FF>开启剑冲刺能力
+Disable Sword Dash Ability=<color%3D#FF0000FF>关闭剑冲刺能力
+Toggle Sword Dash Ability=切换剑冲刺能力
+Toggle Sword Dash Ability.=切换剑冲刺能力.
+
+Active Charge=激活 咒术放电
+MiddleBody: Active Charge=中半身: 激活 咒术放电
+Enable Active Charge=<color%3D#00FF00FF>开启激活 咒术放电
+Disable Active Charge=<color%3D#FF0000FF>关闭激活 咒术放电
+Toggle Active Charge=切换激 活咒术放电
+Toggle Active Charge.=切激活 咒术放电.
+
+Active Fire Manipulation=激活 災厄火焰
+MiddleBody: Active Fire Manipulation=中半身: 激活 災厄火焰
+Enable Active Fire Manipulation=<color%3D#00FF00FF>开启激活 災厄火焰
+Disable Active Fire Manipulation=<color%3D#FF0000FF>关闭激活 災厄火焰
+Toggle Active Fire Manipulation=切换激活 災厄火焰
+Toggle Active Fire Manipulation.=切换激活 災厄火焰.
+
+Water Shield=水阵壁
+MiddleBody: Water Shield=中半身: 水阵壁
+Enable Water Shield=<color%3D#00FF00FF>开启水阵壁
+Disable Water Shield=<color%3D#FF0000FF>关闭水阵壁
+Toggle Water Shield=切换水阵壁
+Toggle Water Shield.=切换水阵壁.
+
+Active Slices=激活 斩击
+MiddleBody: Active Slices=中半身: 激活 斩击
+Enable Active Slices=<color%3D#00FF00FF>开启激活 斩击
+Disable Active Slices=<color%3D#FF0000FF>关闭激活 斩击
+Toggle Active Slices=切换激活 斩击
+Toggle Active Slices.=切换激活 斩击.
+
+Rot Technique (Eso)=蚀烂腐术(坏相)
+MiddleBody: Rot Technique (Eso)=中半身: 蚀烂腐术(坏相)
+Enable Rot Technique (Eso)=<color%3D#00FF00FF>开启蚀烂腐术(坏相)
+Disable Rot Technique (Eso)=<color%3D#FF0000FF>关闭蚀烂腐术(坏相)
+Toggle Rot Technique (Eso)=切换蚀烂腐术(坏相)
+Toggle Rot Technique (Eso).=切换蚀烂腐术(坏相).
+
+Enable Wing King=<color%3D#00FF00FF>开启翅王
+Disable Wing King=<color%3D#FF0000FF>关闭翅王
+Toggle Wing King=切换翅王
+Toggle Wing King.=切换翅王.
+
+Enable Decay=<color%3D#00FF00FF>开启腐朽
+Disable Decay=<color%3D#FF0000FF>关闭腐朽
+Toggle Decay=切换腐朽
+Toggle Decay.=切换腐朽.
+Decay Settings=<color%3D#FFD800>腐朽设置
+Decay Settings.=<color%3D#FFD800>腐朽设置.
+Partner: Not Selected=合作伙伴：未选定
+Clear People from Blood=从血液中清除人类
+
+Passive Empty Barriers=被动 · 空之结界
+MiddleBody: Passive Empty Barriers=中半身: 被动 · 空之结界
+Enable Passive Empty Barriers=<color%3D#00FF00FF>开启被动 · 空之结界
+Disable Passive Empty Barriers=<color%3D#FF0000FF>关闭被动 · 空之结界
+Toggle Passive Empty Barriers=切换被动 · 空之结界
+Toggle Passive Empty Barriers.=切换被动 · 空之结界.
+Edit Passive Barriers=<color%3D#FFD800>编辑被动结界
+Edit Passive Barriers.=编辑被动结界.
+Passive Empty Barriers Settings=被动 · 空之结界设置
+Passive Mode=被动模式
+Attack Mode=攻击模式
+
+
+//非能力选择器在内===================================================================================================
+Domain Amplification=领域展延
+Head: Domain Amplification=头部: 领域展延
+Enable Domain Amplification=<color%3D#00FF00FF>开启领域展延
+Disable Domain Amplification=<color%3D#FF0000FF>关闭领域展延
+Toggle Domain Amplification=切换领域展延
+Toggle Domain Amplification.=切换领域展延.
+Edit Domain Amplification=<color%3D#FFD800>编辑领域展延
+Edit Domain Amplification.=编辑领域展延.
+Domain Amplification Options=领域展延选项
+
+
+Stand Proud=霸气十足
+Disable Stand Proud=关闭霸气十足
+Enable Stand Proud=开启霸气十足
+Toggle Stand Proud=切换霸气十足
+Toggle Stand Proud.=切换霸气十足.
+
+Head Blast=头部喷发
+Head: Head Blast=头部: 头部喷发
+Enable Head Blast=<color%3D#00FF00FF>开启头部喷发
+Disable Head Blast=<color%3D#FF0000FF>关闭头部喷发
+Toggle Head Blast=切换头部喷发
+Toggle Head Blast.=切换头部喷发.
+Set Blast Power=<color%3D#FFD800>设置喷发能量
+Set Blast Power.=设置喷发能量.
+
+Insect Wing=虫之翼
+MiddleBody: Insect Wing=中半身:虫之翼
+Enable Insect Wing=<color%3D#00FF00FF>开启虫之翼
+Disable Insect Wing=<color%3D#FF0000FF>关闭虫之翼
+Toggle Insect Wing=切换虫之翼
+Toggle Insect Wing.=切换虫之翼.
+
+Mode Albatross=炮咒强化形态
+Head: Mode Albatross=头部: 炮咒强化形态
+Enable Mode Albatross=<color%3D#00FF00FF>开启炮咒强化形态
+Disable Mode Albatross=<color%3D#FF0000FF>关闭炮咒强化形态
+Toggle Mode Albatross=切换炮咒强化形态
+Toggle Mode Albatross.=切换炮咒强化形态.
+
+Charge Aura Blast=幻兽琥珀
+Head: Charge Aura Blast=头部: 幻兽琥珀
+Enable Charge Aura Blast=<color%3D#00FF00FF>开启幻兽琥珀
+Disable Charge Aura Blast=<color%3D#FF0000FF>关闭幻兽琥珀
+Toggle Charge Aura Blast=切换幻兽琥珀
+Toggle Charge Aura Blast.=切换幻兽琥珀.
+
+Sukuna Output Healing=宿傩·反转治愈
+Enable Sukuna Output Healing=<color%3D#00FF00FF>开启宿傩·反转治愈
+Disable Sukuna Output Healing=<color%3D#FF0000FF>关闭宿傩·反转治愈
+Toggle Sukuna Output Healing=切换宿傩·反转治愈
+Toggle Sukuna Output Healing.=切换宿傩·反转治愈.
+
+Body Detonation Full Potential=爆裂肉体·极限
+Enable Body Detonation Full Potential=<color%3D#00FF00FF>开启爆裂肉体·极限
+Disable Body Detonation Full Potential=<color%3D#FF0000FF>关闭爆裂肉体·极限
+Toggle Body Detonation Full Potential=切换爆裂肉体·极限
+Toggle Body Detonation Full Potential.=切换爆裂肉体·极限.
+Explode Limb=<color%3D#FFD800>爆裂肉体
+Explode Limb.=爆裂肉体.
+
+Flesh Ripper=血肉撕裂
+Enable Flesh Ripper=<color%3D#00FF00FF>开启血肉撕裂
+Disable Flesh Ripper=<color%3D#FF0000FF>关闭血肉撕裂
+Toggle Flesh Ripper=切换血肉撕裂
+Toggle Flesh Ripper.=切换血肉撕裂.
+
+Miracle Cannon=二重大祓砲
+Enable Miracle Cannon=<color%3D#00FF00FF>开启二重大祓砲
+Disable Miracle Cannon=<color%3D#FF0000FF>关闭二重大祓砲
+Toggle Miracle Cannon=切换二重大祓砲
+Toggle Miracle Cannon.=切换二重大祓砲.
+
+Ultra Cannon=大祓砲
+Enable Ultra Cannon=<color%3D#00FF00FF>开启大祓砲
+Disable Ultra Cannon=<color%3D#FF0000FF>关闭大祓砲
+Toggle Ultra Cannon=切换大祓砲
+Toggle Ultra Cannon.=切换大祓砲.
+Set Ultra Target=<color%3D#FFD800>设置大祓砲目标
+Set Ultra Target.=设置大祓砲目标.
+Ultra Cannon Options=大祓砲选项
+
+Pigeon Viola=追尾弾五重奏
+Enable Pigeon Viola=<color%3D#00FF00FF>开启追尾弾五重奏
+Disable Pigeon Viola=<color%3D#FF0000FF>关闭追尾弾五重奏
+Toggle Pigeon Viola=切换追尾弾五重奏
+Toggle Pigeon Viola.=切换追尾弾五重奏.
+Pigeon Viola Options=追尾弾五重奏选项
+Disable Viola Auto Target=禁用追尾弹自动瞄准
+Toggle Viola Auto Target.=切换追尾弹自动瞄准.
+
+Simple Domain Tech Charge=简易领域·术式充能
+Enable Simple Domain Tech Charge=<color%3D#00FF00FF>开启简易领域·术式充能
+Disable Simple Domain Tech Charge=<color%3D#FF0000FF>关闭简易领域·术式充能
+Toggle Simple Domain Tech Charge=切换简易领域·术式充能
+Toggle Simple Domain Tech Charge.=切换简易领域·术式充能.
+Edit Simple Domain Tech Charge=<color%3D#FFD800>编辑简易领域·术式充能
+Edit Simple Domain Tech Charge.=编辑简易领域·术式充能.
+
+Contractual Re-Creation Ability=契约重现
+
+
+
+//*右键菜单===================================================================================================
+Disable Jujutsu Status=关闭咒术状态
+Enable Jujutsu Status=开启咒术状态
+Switch Jujutsu Status=切换咒术状态
+Switch Jujutsu Status.=切换咒术状态.
+Open Head=打开头盖骨
+Close Head=关闭头盖骨
+Switch Head State=切换头盖骨状态
+Switch Head State.=切换头盖骨状态
+Leave Head=离开头部
+Leave Head.=离开头部.
+Scale=大小
+Unscale=取消缩放
+Scale/Unscale.=大小/取消缩放.
+Jail=监禁
+Jail.=监禁.
+Unjail=取消监禁
+Unjail.=取消监禁.
+Open Mask=打开面罩
+Close Mask=关闭面罩
+Switch Mask=切换面罩
+Switch Mask.=切换面罩.
+Choose Prison Realm=选择监狱领域
+Choose Prison Realm.=选择监狱领域.
+Pick Prison Realm=点击监狱领域
+Enable Goji Hair=启用五条悟发型
+Disable Goji Hair=禁用五条悟发型
+Switch Goji Hair=切换五条悟发型
+Switch Goji Hair.=切换五条悟发型.
+Enable always sukuna hair=启用常驻宿傩发型
+Disable always sukuna hair=禁用常驻宿傩发型
+Switch always sukuna hair=切换常驻宿傩发型
+Switch always sukuna hair.=切换常驻宿傩发型.
+Enable Collar=启用衣领
+Disable Collar=禁用衣领
+Switch Collar=切换衣领
+Switch Collar.=切换衣领.
+Set white skin=设置白色皮肤
+Set black skin=设置黑色皮肤
+Set white hair color=设置白发
+Set blue hair color=设置蓝发
+Switch Hair Color=切换头发颜色
+Switch Hair Color.=切换头发颜色.
+Switch Blindfold Skin=切换眼罩皮肤
+Switch Blindfold Skin.=切换眼罩皮肤.
+Edit Owner=编辑所有者
+Edit Owner.=编辑所有者.
+Mechamaru Owner=机械丸所有者
+Enable Inventory=启用库存
+Disable Inventory=禁用库存
+Toggle Inventory=切换库存
+Toggle Inventory.=切换库存.
+Morph Full Form=完全形态
+Morph Full Form.=完全形态.
+Enable Dagon Robe=穿上陀艮之袍
+Disable Dagon Robe=解除陀艮之袍
+Switch Dagon Robe=解除陀艮之袍
+Switch Dagon Robe.=解除陀艮之袍.
+Rika=里香
+Rika.=里香.
+Set blond hair color=设置金发
+Set pink hair color=设置粉发
+Edit Naoya Curse=编辑直哉咒灵
+Edit Naoya Curse Abilities.=编辑直哉咒灵能力.
+Naoya Curse Options=直哉咒灵选项
+Closed Mode=封闭模式
+Tendrils Mode=触须模式
+Turbo Mode=涡轮加速模式
+Set Turbo Speed=设置涡轮速度
+Set Turbo Speed Multiplier [0.1 - 5]=设置涡轮速度倍率 [0.1 - 5]
+Set Turbo Rotation=设置涡轮旋转角度
+Set Turbo Rotation Multiplier [0.1 - 10]=设置涡轮旋转角度倍率 [0.1 - 10]
+Rotate Hand Lock: Enabled=旋转手锁：已启用
+Rotate Hand Lock: Disabled=旋转手锁：已禁用
+Position Hand Lock: Enabled=位置手锁：已启用
+Position Hand Lock: Disabled=位置手锁：已禁用
+Enable eye playe=启用眼部效果
+Disable eye playe=禁用眼部效果
+Set Item=设置物品
+Set Item.=设置物品
+Copy Movement :=复制移动:
+Switch Copy Movement=切换复制移动
+Switch Copy Movement=切换复制移动
+Physical Impacts :=物理冲击:
+Switch Physical Impacts=切换物理冲击
+Switch Physical Impacts.=切换物理冲击.
+Change owner=更改所有者
+Change owner.=更改所有者.
+Choose target=选择目标
+Choose target.=选择目标.
+Unlink target=解除目标链接
+Unlink target.=解除目标链接.
+Cursed Melee Options=咒术近战选项
+Cursed Melee Options.=咒术近战选项.
+Set Aura Scale [0.1 - 5]=设置光环大小 [0.1 - 5]
+Set Aura Scale=设置光环大小
+Enable Sharpness=开启锐化
+Disable Sharpness=关闭锐化
+Switch Sharpness=切换锐化
+Switch Sharpness.=切换锐化.
+Enable Highlight=启用高亮
+Disable Highlight=禁用高亮
+Switch highlight=切换高亮
+Switch highlight.=切换高亮.
+Target To=指定目标
+Target To.=指定目标.
+Mode: Follow=模式：跟随
+Mode: Attack=模式：攻击
+Switch Mode=切换模式
+Switch Mode.=切换模式.
+Select Target=选择目标
+Select Target.=选择目标.
+Set Power Multiplier.=设置力量倍数
+Set Power Multiplier [0.3 - 3]=设置力量倍数 [0.3 - 3]
+Set Energy Damage=设置能量伤害
+Set Energy Damage.=设置能量伤害.
+Enable Infinity Arrows=启用无限箭矢
+Disable Infinity Arrows=禁用无限箭矢
+Switch Infinity Arrows=切换无限箭矢
+Switch Infinity Arrows.=切换无限箭矢.
+Hairpin=簪
+Hairpin.=簪.
+Remove Nails=移除钉子
+Remove Nails.=移除钉子.
+Lightning Mode=闪电模式
+Projectile Mode=弹丸模式
+Switch Kamutoke Mode=切换神武地鸣模式
+Switch Kamutoke Mode.=切换神武地鸣模式.
+Switch Visibility=切换可见性
+Switch Visibility.=切换可见性.
+Settings.=设置.
+Follow To=跟随目标
+Follow To.=跟随目标.
+Absorb Itself=自身吸收
+Absorb Itself.=自身吸收.
+Connect Chain=连接锁链
+Connect Chain.=连接锁链.
+Slice Chain=切割锁链
+Slice Chain.=切割锁链.
+Enable Physic Wire=启用物理丝线
+Disable Physic Wire=禁用物理丝线
+Toggle Physic Wire=切换物理丝线
+Grow Up=长大
+Grow Up.=长大.
+Enable Eye=打开眼睛
+Disable Eye=关闭眼睛
+Switch Eye=切换眼睛
+Switch Eye.=切换眼睛.
+Enable Rika Copy Ability=启用里香复制能力
+Disable Rika Copy Ability=禁用里香复制能力
+Switch Rika Copy Ability=切换里香复制能力
+Switch Rika Copy Ability.=切换里香复制能力.
+Morph True Form=完全形态
+Morph True Form.=完全形态.
+Leave Vessel=离开容器
+Leave Vessel.=离开容器.
+Toggle Sukuna=切换宿傩
+Toggle Sukuna.=切换宿傩.
+Open Sukuna Tattoo Settings=打开宿傩刺青设置
+Open Sukuna Tattoo Settings.=打开宿傩刺青设置.
+Sukuna Tattoo System=宿傩刺青系统
+Set Scale=设置大小
+Set Scale.=设置大小.
+Drope Rope=放下绳子
+Drope Rope.=放下绳子.
+Equip Rope=装备绳子
+Equip Rope.=装备绳子.
+Open Owner Hatch=打开所有者舱门
+Close Owner Hatch=关闭所有者舱门
+Toggle Owner Hatch=切换所有者舱门
+Toggle Owner Hatch.=切换所有者舱门.
+Set Target GW Time=设置G战杖预知时间
+Set Target GW Time.设置G战杖预知时间.
+Set GW Target Time=设置G战杖预知时间
+current: =当前: 
+Disable Sword of Extermination=禁用灭世之剑
+Disable Curse Anihilation=禁用咒术湮灭
+Enable Sword of Extermination=开启灭世之剑
+Enable Curse Anihilation=开启咒术湮灭
+Switch Sword of Extermination=切换灭世之剑
+Switch Sword of Extermination=切换灭世之剑.
+Switch Curse Anihilation=切换咒术湮灭
+Switch Curse Anihilation=切换咒术湮灭.
+
+//*领域===================================================================================================
+Domain User=领域使用者
+Domain Expansion=<b><i>领域展开</i></b>
+Domain Expansion.=领域展开.
+Close Domain=<b><i>关闭领域</i></b>
+Close Domain.=关闭领域.
+Set Domain Energy Scale=设置领域能量标度
+Set Domain Scale=设置领域比例
+
+Superior Barrier=纯化结界
+Superior=纯化
+Barrier=结界
+Superior Barrier <color%3D#00FF00>[Closed]=纯化结界 <color%3D#00FF00>[封闭]
+<color%3D"white">Superior Barrier <color%3D#03FC00>[Clashing]=<color%3D"white">纯化结界 <color%3D#03FC00>[冲突]
+
+Coffin of the=盖棺
+Iron Mountain=铁围山
+Coffin of the Iron Mountain=盖棺铁围山
+Coffin of the Iron Mountain <color%3D#00FF00>[Closed]=盖棺铁围山 <color%3D#00FF00>[封闭]
+<color%3D"white">Coffin of the Iron Mountain <color%3D#03FC00>[Clashing]=<color%3D"white">盖棺铁围山 <color%3D#03FC00>[冲突]
+Coffin of the Iron Mountain Settings=盖棺铁围山设置
+Heating: on=加热：开启
+Heating: off=加热：关闭
+Set Heat Multiplier=设置加热倍率
+
+Malevolent Shrine (Open)=伏魔御厨子(开放)
+Malevolent=伏魔御
+Shrine=厨子
+Cooking Type=烹调方式
+Slicing: off=切割: 关闭
+Slicing: on=切割: 开启
+Slice Damage Energy: on=切割损伤能量: 开启
+Slice Damage Energy: off=切割损伤能量: 关闭
+Slice Size=切割大小
+Slice Size [0.1 - 10]=切割大小 [0.1 - 10]
+Slice Speed=切割速度
+Slice Speed [0.1 - 4]=切割速度 [0.1 - 4]
+
+Malevolent Shrine (Closed)=伏魔御厨子(封闭)
+
+Malevolent Shrine Heian (Open)=伏魔御厨子平安时代(开放)
+
+Graveyard Domain=墓地领域
+Graveyard=墓地
+Domain=领域
+
+Idle Death Gamble (First Stage)= 坐杀博徒(一阶段)
+Idle Death=坐杀
+Gamble=博徒
+Gamble Settings=坐杀博徒设置
+Guaranteed Win [CHEAT]=稳赢 [作弊]
+Stop Jackpot=停止头奖
+Stop Jackpot.=停止头奖.
+Set Volume Jackpot=设置头奖音量
+Set Volume Jackpot.=设置头奖音量.
+Set Jackpot Volume [0 - 1]=设置头奖音量 [0 - 1]
+Set Shake Jackpot=设置头奖震动
+Set Shake Jackpot.=设置头奖震动.
+Set Jackpot Shake Multiplier [0 - 5]=设置头奖震动倍率 [0 - 5]
+
+Idle Death Gamble (Second Stage)= 坐杀博徒(二阶段)
+
+Dagon Domain=荡蕴平线
+Horizon of the=荡蕴
+Captivating Skandha=平线
+Dagon Domain Settings=荡蕴平线设置
+Fish Attack: off=鱼群攻击: 关闭
+Fish Attack: on=鱼群攻击: 启用
+Soccer goal: Disabled=球门: 关闭
+Soccer goal: Enabled=球门: 启用
+
+Unlimited=无量
+Void=空处
+Unlimited Void=无量空处
+Unlimited Void <color%3D#00FF00>[Closed]=无量空处 <color%3D#00FF00>[封闭]
+<color%3D"white">Unlimited Void <color%3D#03FC00>[Clashing]=<color%3D"white">无量空处 <color%3D#03FC00>[冲突]
+Unlimited Void Settings=无量空处设置
+Stun Multiplier After Close=领域关闭后眩晕倍率
+Stun Multiplier=眩晕倍率
+Unstun [GOJO]=清醒 [五条]
+
+Threefold Affliction=三重疾苦
+Threefold=三重
+Affliction=疾苦
+Threefold Affliction <color%3D#00FF00>[Closed]=三重疾苦 <color%3D#00FF00>[封闭]
+<color%3D"white">Threefold Affliction <color%3D#03FC00>[Clashing]=<color%3D"white">三重疾苦 <color%3D#03FC00>[冲突]
+Threefold Affliction Settings=三重疾苦设置
+True Sphere Expansion=真球扩张
+
+Authentic Mutual Love=真赝相爱
+Authentic=真赝
+Mutual Love=相爱
+Pick Katana Ability=选择武士刀能力
+
+Womb Profusion=胎蔵遍野
+Womb=胎蔵
+Profusion=遍野
+Womb Profusion Settings=胎蔵遍野设置
+Implemented Technique: Blood Manipulation=实装术式：赤血操术
+Attacking: Enabled=攻击：开启
+Attacking: Disabled=攻击：关闭
+SupernovaExplode: Enabled=血之超新星·爆裂：开启
+SupernovaExplode: Disabled=血之超新星·爆裂：关闭
+CircleBloodAttack: Enabled=血之圆环攻击：开启
+CircleBloodAttack: Disabled=血之圆环攻击：关闭
+Arrow: Enabled=血箭：开启
+Arrow: Disabled=血箭：关闭
+SlicingExorcism: Enabled=血之斩除：开启
+SlicingExorcism: Disabled=血之斩除：关闭
+Set Attack Speed=设置攻击速度
+Set Attack Speed Multiplier [1 - 6]=设置攻击速度倍率 [1 - 6]
+Implemented Technique: Antigravity=实装术式：反重力
+Antigravity=反重力
+Direction: DOWN=方向：向下
+Direction: UP=方向：向上
+Gravity Force Factor=重力系数
+
+Bloodbath Completed (Fan Made)=完全血浴(粉丝自制)
+Bloodbath Completed=完全血浴
+fan made=粉丝自制
+Bloodbath Completed (Fan Made) Settings=完全血浴(粉丝自制)设置
+
+Bloodbath Non-Completed (Fan Made)=非完全血浴(粉丝自制)
+Bloodbath Non-Completed (Fan Made) Settings=非完全血浴(粉丝自制)设置
+
+Chimera Shadow Garden Incomplete=嵌合暗翳庭
+Chimera Shadow=嵌合暗
+Garden Incomplete=翳庭
+
+Time Cell Moon Palace=时胞月宫
+Time Cell=时胞
+Moon Palace=月宫
+Time Cell Moon Palace Settings=时胞月宫设置
+Set Frame Speed=设置帧速度
+Set Frame Speed Multiplier [1 - 6]=设置帧速度倍数 [1 - 6]
+Set Frame Force=设置帧力度
+Set Frame Force Multiplier [1 - 6]=设置帧力度倍数 [1 - 6]
+
+Hometown Domain=家乡领域
+Hometown=家乡
+Domain=领域
+Domain Settings=领域设置
+No wounds here: =这没有伤口: 
+Set Slice Speed=设置切割速度
+Set Slice Speed Multiplier [1 - 6]=设置切割速度倍率 [1 - 6]
+Set Slice Force=设置切割力度
+Set Slice Force Multiplier [1 - 6]=设置切割力度倍率 [1 - 6]
+
+
+Kuchisake Domain=裂口女领域
+DOMAIN=领域
+Attack=攻击
+Attack.=攻击.
+
+Self-Embodiment of Perfection=自闭圆顿裹
+Self-Embodiment=自闭
+of Perfection=圆顿裹
+Souls Transfiguration Ability Options=灵魂无为转变选项
+Instant Transfiguration Deforming Mode=瞬时转变·变形模式
+Instant Transfiguration Destruction Mode=瞬时转变·破坏模式
+Idle Transfiguration Reduction Mode=无为转变·缩小模式
+Idle Transfiguration Cure Mode=无为转变·治愈模式
+
+Hollow Wicker Basket=弥虚葛笼
+Hollow Wicker=弥虚
+Basket=葛笼
+
+Deadly Sentencing=诛伏赐死
+Deadly=诛伏
+Sentencing=赐死
+Sentencing selection=赐死选择
+Death Penalty=死刑
+
+NSS: Simple Domain=新阴流·简易领域
+NEW SHADOW STYLE=新阴流
+Simple Domain=简易领域
+NSS: Simple Domain Settings=新阴流·简易领域设置
+Allow Moving: off=允许移动: 关闭
+Allow Moving: on=允许移动: 开启
+
+Empty Domain=空领域
+Empty=空
+Simple Domain Options=简单领域选项
+Set Color=设置颜色
+Set Background Color=设置背景颜色
+Enable Visual=启用视觉效果
+Disable Visual=禁用视觉效果
+
+Custom Domain=自定义领域
+Custom=自定义
+Custom Domain Options=自定义领域选项
+Set Radius=设置半径
+Move Domain=移动领域
+Select Mode=选择模式
+Custom Domain Modes=自定义领域模式
+Electricity=电击
+Bleed=流血
+HeartAttack=心脏骤停
+Slowness=减速
+Force=冲击
+Explosion=爆炸
+BACK=返回
+
+Curtain=帐
+CURTAIN=帐
+Curtain Settings=帐设置
+Interact: All=互动：所有
+Interact: Only Human=互动：仅人类
+Interact: Only Curse=互动：仅咒灵
+Access: Any=出入：任意
+Access: Only Enter=出入：仅进入
+Access: Only Exit=出入：仅离开
+
+
+
+//隐藏
+Jo<color%3D#00E9FF>GOAT</color> the curse GOD=漏瑚·<color%3D#00E9FF>史上最强</color>咒灵之神
+<color%3D#FF0019>KING OF CURSES</color>=<color%3D#FF0019>咒术之王</color>
+
+American Domain (Super secret)=美国领域(高度机密)
+American=美国
+American Domain (Super secret) Settings=美国领域(高度机密)设置
+Set Speed Multiplier=设置速度倍数
+Set Speed Multiplier [1 - 10]=设置速度倍数 [1 - 10]
+
+
+
+//*物品===================================================================================================
+
+<b>[JJP] Sukuna's Finger</b>\r\n<b><i>Yummers..</b></i>\n[<color%3D#BB3DFF>Cursed Object</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 宿傩的手指</b>\r\n<b><i>真好吃..</b></i>\n[<color%3D#BB3DFF>诅咒物体</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Disfigure Exhausted Soul</b>\r\nMahito's mutilated exhausted victim\n[<color%3D#BB3DFF>Cursed Object</color>]\n<color%3D#38BBE2>[Grade 2]</color>.=<b>[JJP] 残缺疲惫的灵魂</b>\r\n真人摧残的疲惫受害者\n[<color%3D#BB3DFF>咒物</color>]\n<color%3D#38BBE2>[二级]</color>.
+
+<b>[JJP] Cursed Bullets</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 咒弹</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Kamo Bow</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 加茂弓</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Kamo Bow Arrow</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 加茂箭</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Nyoi Staff</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 如意棒</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Kamutoke</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 神威</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Hiten</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 飞天</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Playful Cloud</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 游云</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Inverted Spear of Heaven</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 天逆鉾</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Split Soul Katana</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 散魂刀</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Split Soul Katana Maki</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 真希的散魂刀</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Mei's Axe</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 冥冥的斧</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Juzo's Axe</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 组屋鞣造的斧</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Megumi Sword</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 伏黑惠的剑</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Maki's Spear</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 真希的矛</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] G Warstaff</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] G战杖</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Kasumi Miwa's Katana</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 三轮霞的刀</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Yuta's Katana</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 乙骨忧太的刀</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Kusakabe's Katana</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 日下部笃也的刀</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Nameless Katana</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 无名刀</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Hand Sword</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 手剑</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Slaughter Demon</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 屠戮魔</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Nanami's Knife</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 七海的刀</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Festering Life Sword</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 腐生剑</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Akuro's Axe</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 悪路王的斧</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Scissors</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 剪刀</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Miguel Rope</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 米格尔的绳子</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Ino Megaphone</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 猪野的扩音器</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Angel's Horn</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 天使的角</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Stuffed Doll</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 布偶</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Gavel</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 法槌</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Nobara's Hammer</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 钉崎的锤子</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Nobara's Straw Doll</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 钉崎的稻草人偶</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Yoshinobu's Guitar</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 乐岩寺嘉伸的吉他</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+Cursed Bullets=咒弹
+Kamo Bow=加茂弓
+Kamo Bow Arrow=加茂箭
+Nyoi Staff=如意棒
+Kamutoke=神威
+Hiten=飞天
+Playful Cloud=游云
+Inverted Spear of Heaven=天逆鉾
+Split Soul Katana=散魂刀
+Split Soul Katana Maki=真希的散魂刀
+Mei's Axe=冥冥的斧
+Juzo's Axe=组屋鞣造的斧
+Megumi Sword=伏黑惠的剑
+Maki's Spear=真希的矛
+G Warstaff=G战杖
+Kasumi Miwa's Katana=三轮霞的刀
+Yuta's Katana=乙骨忧太的刀
+Kusakabe's Katana=日下部笃也的刀
+Nameless Katana=无名刀
+Hand Sword=手剑
+Slaughter Demon=屠戮魔
+Nanami's Knife=七海的刀
+Festering Life Sword=腐生剑
+Akuro's Axe=悪路王的斧
+Scissors=剪刀
+Miguel Rope=米格尔的绳子
+Ino Megaphone=猪野的扩音器
+Angel's Horn=天使的角
+Stuffed Doll=布偶
+Gavel=法槌
+Nobara's Hammer=钉崎的锤子
+Nobara's Straw Doll=钉崎的稻草人偶
+Yoshinobu's Guitar=乐岩寺嘉伸的吉他
+
+<b>[JJP] Straw Broom</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 稻草扫帚</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Phone</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 手机</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Cigarette</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 香烟</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Contract</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 契约</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Blood Bag</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 血袋</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Prison Realm</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 狱门疆</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Prison Realm - Back Gate</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]=<b>[JJP] 狱门疆·里门</b>\r\n[<color%3D#BB3DFF>咒物</color>]
+
+<b>[JJP] Death Painting</b>\r\n[<color%3D#BB3DFF>Cursed Object</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 咒胎九相图</b>\r\n[<color%3D#BB3DFF>咒物</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Beach umbrella</b>\r\nDagon Domain supplement.=<b>[JJP] 沙滩伞</b>\r\n陀艮领域补充物.
+
+<b>[JJP] Beach sunbed</b>\r\nDagon Domain supplement.=<b>[JJP] 沙滩躺椅</b>\r\n陀艮领域补充物.
+
+<b>[JJP] Gojo's Blindfold</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 五条悟的眼罩</b>\r\n[<color%3D#D8A072>服装</color>]	(它为什么在这??)
+
+<b>[JJP] Maki's Goggles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 真希的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Hanyu's Goggles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 羽生的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Niji's Hat</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 虹的帽子</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Bag</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 包</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Nanami's Goggles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 七海的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Kenjaku's Googles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 羂索的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] American's Bandana</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 美国人的头巾</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Jin's Goggles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 仁的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Yaga's Goggles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 夜蛾的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Miguel's Goggles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 米格尔的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Ijichi's Goggles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 伊地知的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+<b>[JJP] Gojo's Goggles</b>\r\n[<color%3D#D8A072>Clothing</color>]=<b>[JJP] 五条悟的护目镜</b>\r\n[<color%3D#D8A072>服装</color>]
+
+Detach Straw Broom=卸下稻草扫帚
+Detach Straw Broom.=卸下稻草扫帚.
+
+Detach Cigarette=卸下香烟
+Detach Cigarette.=卸下香烟.
+
+Detach Gojo's Blindfold=卸下五条悟的眼罩
+Detach Gojo's Blindfold.=卸下五条悟的眼罩.
+
+Detach Maki's Goggles=卸下真希的护目镜
+Detach Maki's Goggles.=卸下真希的护目镜.
+
+Detach Hanyu's Goggles=卸下羽生的护目镜
+Detach Hanyu's Goggles.=卸下羽生的护目镜.
+
+Detach Niji's Hat=卸下虹的帽子
+Detach Niji's Hat.=卸下虹的帽子.
+
+Detach Bag=卸下包
+Detach Bag.=卸下包.
+
+Detach Nanami's Goggles=卸下七海的护目镜
+Detach Nanami's Goggles.=卸下七海的护目镜.
+
+Detach Kenjaku's Googles=卸下羂索的护目镜
+Detach Kenjaku's Googles.=卸下羂索的护目镜.
+
+Detach American's Bandana=卸下美国人的头巾
+Detach American's Bandana.=卸下美国人的头巾.
+
+Detach Jin's Goggles=卸下仁的护目镜
+Detach Jin's Goggles.=卸下仁的护目镜.
+
+Detach Yaga's Goggles=卸下夜蛾的护目镜
+Detach Yaga's Goggles.=卸下夜蛾的护目镜.
+
+Detach Miguel's Goggles=卸下米格尔的护目镜
+Detach Miguel's Goggles.=卸下米格尔的护目镜.
+
+Detach Ijichi's Goggles=卸下伊地知的护目镜
+Detach Ijichi's Goggles.=卸下伊地知的护目镜.
+
+Detach Gojo's Goggles=卸下五条悟的护目镜
+Detach Gojo's Goggles.=卸下五条悟的护目镜.
+
+
+
+
+
+
+
+
+
+
+
+//*人物===================================================================================================
+<b>[JJP] Sukuna True Form</b>\r\nKing Of Curses\nEnergy : <color%3D#7FF2FF>69000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>.=<b>[JJP] 两面宿傩</b>\r\n诅咒之王\n能量 : <color%3D#7FF2FF>69000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Mahoraga</b>\r\nEight-Handled Sword Divergent Sila Divine General\nEnergy : <color%3D#7FF2FF>35000</color>  |  Recover : <color%3D#7FF2FF>5</color>\n[<color%3D#603DFF>Shikigami</color>, <color%3D#FF6D0C>Adaptation</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>.=<b>[JJP] 魔虚罗</b>\r\n八握剑异戒神将魔虚罗\n能量 : <color%3D#7FF2FF>35000</color>  |  恢复 : <color%3D#7FF2FF>5</color>\n[<color%3D#603DFF>式神</color>, <color%3D#FF6D0C>适应</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Agito</b>\r\nEnergy : <color%3D#7FF2FF>12000</color>  |  Recover : <color%3D#7FF2FF>5</color>\n[<color%3D#603DFF>Shikigami</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>.=<b>[JJP] 阿基托</b>\r\n能量 : <color%3D#7FF2FF>12000</color>  |  恢复 : <color%3D#7FF2FF>5</color>\n[<color%3D#603DFF>式神</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Uraume</b>\r\nThe Frozen Star\nEnergy : <color%3D#7FF2FF>22700</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 里梅</b>\r\n冰星\n能量 : <color%3D#7FF2FF>22700</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Satoru Gojo</b>\r\nThe Strongest Sorcerer Of Today\nEnergy : <color%3D#7FF2FF>35000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>.=<b>[JJP] 五条悟</b>\r\n当代最强咒术师\n能量 : <color%3D#7FF2FF>35000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Rika</b>\r\nEnergy : <color%3D#7FF2FF>60000</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>.=<b>[JJP] 祈本里香</b>\r\n能量 : <color%3D#7FF2FF>60000</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Yuta Okkotsu</b>\r\nEnergy : <color%3D#7FF2FF>60000</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 乙骨忧太</b>\r\n能量 : <color%3D#7FF2FF>60000</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Toji Fushiguro</b>\r\nEnergy : <color%3D#7FF2FF>0</color>  |  Recover : <color%3D#7FF2FF>0</color>\n[<color%3D#FFFFFF>Heavenly Restriction</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>.=<b>[JJP] 伏黑甚尔</b>\r\n能量 : <color%3D#7FF2FF>0</color>  |  恢复 : <color%3D#7FF2FF>0</color>\n[<color%3D#FFFFFF>天与咒缚</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Suguru Geto</b>\r\nEnergy : <color%3D#7FF2FF>20000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 夏油杰</b>\r\n能量 : <color%3D#7FF2FF>20000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Kenjaku</b>\r\nAncient Brain-Swapping Sorcerer\nEnergy : <color%3D#7FF2FF>25000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 羂索</b>\r\n古代脑换咒术师\n能量 : <color%3D#7FF2FF>25000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Noritoshi Kamo (Ancestor)</b>\r\nEnergy : <color%3D#7FF2FF>18000</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 加茂宪纪（祖先）</b>\r\n能量 : <color%3D#7FF2FF>18000</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Yuki Tsukumo</b>\r\nEnergy : <color%3D#7FF2FF>20000</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 九十九由基</b>\r\n能量 : <color%3D#7FF2FF>20000</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Fumihiko Takaba</b>\r\nEnergy : <color%3D#7FF2FF>17000</color>  |  Recover : <color%3D#7FF2FF>1.6</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 高羽文彦</b>\r\n能量 : <color%3D#7FF2FF>17000</color>  |  恢复 : <color%3D#7FF2FF>1.6</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Hajime Kashimo</b>\r\nEnergy : <color%3D#7FF2FF>19500</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 鹿紫云一</b>\r\n能量 : <color%3D#7FF2FF>19500</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Kinji Hakari</b>\r\nEnergy : <color%3D#7FF2FF>17000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 秤金次</b>\r\n能量 : <color%3D#7FF2FF>17000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Kirara Hoshi</b>\r\nEnergy : <color%3D#7FF2FF>5700</color>  |  Recover : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>.=<b>[JJP] 星绮罗罗</b>\r\n能量 : <color%3D#7FF2FF>5700</color>  |  恢复 : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Charles Bernard</b>\r\nEnergy : <color%3D#7FF2FF>6500</color>  |  Recover : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 查尔斯·贝尔纳德</b>\r\n能量 : <color%3D#7FF2FF>6500</color>  |  恢复 : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Utahime Iori</b>\r\nEnergy : <color%3D#7FF2FF>7000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 庵歌姬</b>\r\n能量 : <color%3D#7FF2FF>7000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Shoko Ieiri</b>\r\nEnergy : <color%3D#7FF2FF>4500</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#44E2A0>[Grade 3]</color>.=<b>[JJP] 家入硝子</b>\r\n能量 : <color%3D#7FF2FF>4500</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Miguel</b>\r\nEnergy : <color%3D#7FF2FF>11000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 米格尔</b>\r\n能量 : <color%3D#7FF2FF>11000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Nanako Hasaba</b>\r\nEnergy : <color%3D#7FF2FF>5500</color>  |  Recover : <color%3D#7FF2FF>1.3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>.=<b>[JJP] 枷场菜菜子</b>\r\n能量 : <color%3D#7FF2FF>5500</color>  |  恢复 : <color%3D#7FF2FF>1.3</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Mimiko Hasaba</b>\r\nEnergy : <color%3D#7FF2FF>5500</color>  |  Recover : <color%3D#7FF2FF>1.3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>.=<b>[JJP] 枷场美美子</b>\r\n能量 : <color%3D#7FF2FF>5500</color>  |  恢复 : <color%3D#7FF2FF>1.3</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Larue</b>\r\nEnergy : <color%3D#7FF2FF>8900</color>  |  Recover : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 拉鲁</b>\r\n能量 : <color%3D#7FF2FF>8900</color>  |  恢复 : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Hiromi Higuruma</b>\r\nEnergy : <color%3D#7FF2FF>9500</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 日车宽见</b>\r\n能量 : <color%3D#7FF2FF>9500</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Hana Kurusu</b>\r\nEnergy : <color%3D#7FF2FF>20000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 来栖华</b>\r\n能量 : <color%3D#7FF2FF>20000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Iori Hazenoki</b>\r\nEnergy : <color%3D#7FF2FF>10000</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 黄栌折</b>\r\n能量 : <color%3D#7FF2FF>10000</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Chizuru Hari</b>\r\nEnergy : <color%3D#7FF2FF>2500</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 针千钧</b>\r\n能量 : <color%3D#7FF2FF>2500</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Rokujushi Miyo</b>\r\nEnergy : <color%3D#7FF2FF>4000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 六十六·三代</b>\r\n能量 : <color%3D#7FF2FF>4000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Hagane Daido</b>\r\nEnergy : <color%3D#7FF2FF>3700</color>  |  Recover : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 大道·钢</b>\r\n能量 : <color%3D#7FF2FF>3700</color>  |  恢复 : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Rin Amai</b>\r\nEnergy : <color%3D#7FF2FF>2500</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 甘井·凛</b>\r\n能量 : <color%3D#7FF2FF>2500</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Haba</b>\r\nEnergy : <color%3D#7FF2FF>2800</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 羽场</b>\r\n能量 : <color%3D#7FF2FF>2800</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Hanyu</b>\r\nEnergy : <color%3D#7FF2FF>3200</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 羽生</b>\r\n能量 : <color%3D#7FF2FF>3200</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Niji Ebina</b>\r\nEnergy : <color%3D#7FF2FF>2100</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 海老名·虹</b>\r\n能量 : <color%3D#7FF2FF>2100</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Remi</b>\r\nEnergy : <color%3D#7FF2FF>1500</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 蕾米</b>\r\n能量 : <color%3D#7FF2FF>1500</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Uro Takako</b>\r\nEnergy : <color%3D#7FF2FF>30000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 乌鹭亨子</b>\r\n能量 : <color%3D#7FF2FF>30000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Ryu Ishigori</b>\r\nEnergy : <color%3D#7FF2FF>19000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 石流龙</b>\r\n能量 : <color%3D#7FF2FF>19000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>.
+
+<b>[JJP] Reggie Star</b>\r\nEnergy : <color%3D#7FF2FF>9000</color>  |  Recover : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#38BBE2>[Grade 2]</color>.=<b>[JJP] 雷吉·斯塔</b>\r\n能量 : <color%3D#7FF2FF>9000</color>  |  恢复 : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#38BBE2>[二级]</color>.
+
+<b>[JJP] Yorozu</b>\r\nEnergy : <color%3D#7FF2FF>22000</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>.=<b>[JJP] 万</b>\r\n能量 : <color%3D#7FF2FF>22000</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>.
+
+<b>[JJP] Kento Nanami</b>\r\nEnergy : <color%3D#7FF2FF>11500</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 七海建人</b>\r\n能量 : <color%3D#7FF2FF>11500</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>.
+
+<b>[JJP] Mei Mei</b>\r\nEnergy : <color%3D#7FF2FF>10000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 冥冥</b>\r\n能量 : <color%3D#7FF2FF>10000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>.
+
+<b>[JJP] Ui Ui</b>\r\nEnergy : <color%3D#7FF2FF>14000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#44E2A0>[Grade 3]</color>.=<b>[JJP] 忧忧</b>\r\n能量 : <color%3D#7FF2FF>14000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#44E2A0>[三级]</color>.
+
+<b>[JJP] Atsuya Kusakabe</b>\r\nEnergy : <color%3D#7FF2FF>15000</color>  |  Recover : <color%3D#7FF2FF>1.3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 日下部笃也</b>\r\n能量 : <color%3D#7FF2FF>15000</color>  |  恢复 : <color%3D#7FF2FF>1.3</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>.
+
+<b>[JJP] Masamichi Yaga</b>\r\nEnergy : <color%3D#7FF2FF>11000</color>  |  Recover : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 夜蛾正道</b>\r\n能量 : <color%3D#7FF2FF>11000</color>  |  恢复 : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>.
+
+<b>[JJP] Panda</b>\r\nEnergy : <color%3D#7FF2FF>1000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>Cursed Object</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 熊猫</b>\r\n能量 : <color%3D#7FF2FF>1000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>咒物</color>]\n<color%3D#2D52E5>[一级]</color>.
+
+<b>[JJP] Yoshinobu Gakuganji</b>\r\nEnergy : <color%3D#7FF2FF>11000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 乐岩寺嘉伸</b>\r\n能量 : <color%3D#7FF2FF>11000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>.
+
+<b>[JJP] Naobito Zenin</b>\r\nEnergy : <color%3D#7FF2FF>12500</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 禅院直毘人</b>\r\n能量 : <color%3D#7FF2FF>12500</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>.
+
+<b>[JJP] Naoya Zenin</b>\r\nEnergy : <color%3D#7FF2FF>10000</color>  |  Recover : <color%3D#7FF2FF>1.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>.=<b>[JJP] 禅院直哉</b>\r\n能量 : <color%3D#7FF2FF>10000</color>  |  恢复 : <color%3D#7FF2FF>1.5</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>.
+
+<b>[JJP] Ranta Zenin</b>\r\nEnergy : <color%3D#7FF2FF>9500</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 禅院兰太</b>\r\n能量 : <color%3D#7FF2FF>9500</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Maki Zenin</b>\r\nEnergy : <color%3D#7FF2FF>10</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#FFFFFF>Heavenly Restriction</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 禅院真希</b>\r\n能量 : <color%3D#7FF2FF>10</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#FFFFFF>天与咒缚</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Mai Zenin</b>\r\nEnergy : <color%3D#7FF2FF>500</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 禅院真依</b>\r\n能量 : <color%3D#7FF2FF>500</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Aoi Todo</b>\r\nEnergy : <color%3D#7FF2FF>6500</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 东堂葵</b>\r\n能量 : <color%3D#7FF2FF>6500</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Arata Nitta</b>\r\nEnergy : <color%3D#7FF2FF>3500</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 新田明</b>\r\n能量 : <color%3D#7FF2FF>3500</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Akari Nitta</b>\r\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 新田明里</b>\r\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Kokichi Muta</b>\r\nEnergy : <color%3D#7FF2FF>1000000</color>  |  Recover : <color%3D#7FF2FF>0.015</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>, <color%3D#FFFFFF>Heavenly Restriction</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 与幸吉</b>\r\n能量 : <color%3D#7FF2FF>1000000</color>  |  恢复 : <color%3D#7FF2FF>0.015</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>, <color%3D#FFFFFF>天与咒缚</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Ultimate Mechamaru</b>\r\nEnergy : <color%3D#7FF2FF>8000</color>  |  Recover : <color%3D#7FF2FF>-1</color>\n[<color%3D#BB3DFF>Cursed Object</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 究极机械丸</b>\r\n能量 : <color%3D#7FF2FF>8000</color>  |  恢复 : <color%3D#7FF2FF>-1</color>\n[<color%3D#BB3DFF>咒物</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Ultimate Mechamaru - Mode: Absolute</b>\r\nEnergy : <color%3D#7FF2FF>100000</color>  |  Recover : <color%3D#7FF2FF>-1</color>\n[<color%3D#BB3DFF>Cursed Object</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>=<b>[JJP] 究极机械丸 - 模式：绝对</b>\r\n能量 : <color%3D#7FF2FF>100000</color>  |  恢复 : <color%3D#7FF2FF>-1</color>\n[<color%3D#BB3DFF>咒物</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Momo Nishimiya</b>\r\nEnergy : <color%3D#7FF2FF>3000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 西宫桃</b>\r\n能量 : <color%3D#7FF2FF>3000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Kasumi Miwa</b>\r\nEnergy : <color%3D#7FF2FF>2000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 三轮霞</b>\r\n能量 : <color%3D#7FF2FF>2000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Nobara Kugisaki</b>\r\nEnergy : <color%3D#7FF2FF>4000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 钉崎野蔷薇</b>\r\n能量 : <color%3D#7FF2FF>4000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Megumi Fushiguro</b>\r\nEnergy : <color%3D#7FF2FF>9000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 伏黑惠</b>\r\n能量 : <color%3D#7FF2FF>9000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Toge Inumaki</b>\r\nEnergy : <color%3D#7FF2FF>6000</color>  |  Recover : <color%3D#7FF2FF>1.5</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 狗卷棘</b>\r\n能量 : <color%3D#7FF2FF>6000</color>  |  恢复 : <color%3D#7FF2FF>1.5</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Takuma Ino</b>\r\nEnergy : <color%3D#7FF2FF>9000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 猪野琢真</b>\r\n能量 : <color%3D#7FF2FF>9000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Yuji Itadori</b>\r\nEnergy : <color%3D#7FF2FF>6000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>, <color%3D#FFFFB6>Time Skip</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 虎杖悠仁</b>\r\n能量 : <color%3D#7FF2FF>6000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>, <color%3D#FFFFB6>时间跳跃</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Noritoshi Kamo</b>\r\nEnergy : <color%3D#7FF2FF>6500</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 加茂宪纪</b>\r\n能量 : <color%3D#7FF2FF>6500</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Choso</b>\r\nEnergy : <color%3D#7FF2FF>11000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 胀相</b>\r\n能量 : <color%3D#7FF2FF>11000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Eso</b>\r\nEnergy : <color%3D#7FF2FF>5200</color>  |  Recover : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 坏相</b>\r\n能量 : <color%3D#7FF2FF>5200</color>  |  恢复 : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Kechizu</b>\r\nEnergy : <color%3D#7FF2FF>4300</color>  |  Recover : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 血涂</b>\r\n能量 : <color%3D#7FF2FF>4300</color>  |  恢复 : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Jiro Awasaka</b>\r\nEnergy : <color%3D#7FF2FF>5000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 粟坂二良</b>\r\n能量 : <color%3D#7FF2FF>5000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Ogami</b>\r\nEnergy : <color%3D#7FF2FF>6500</color>  |  Recover : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 参拜婆</b>\r\n能量 : <color%3D#7FF2FF>6500</color>  |  恢复 : <color%3D#7FF2FF>1.2</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Ogami's Grandson</b>\r\nEnergy : <color%3D#7FF2FF>6000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 参拜婆的孙子</b>\r\n能量 : <color%3D#7FF2FF>6000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Bagman</b>\r\nEnergy : <color%3D#7FF2FF>4500</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 袋男</b>\r\n能量 : <color%3D#7FF2FF>4500</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Juzo Kumiya</b>\r\nEnergy : <color%3D#7FF2FF>5200</color>  |  Recover : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 组屋鞣造</b>\r\n能量 : <color%3D#7FF2FF>5200</color>  |  恢复 : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Haruta Shigemo</b>\r\nEnergy : <color%3D#7FF2FF>3500</color>  |  Recover : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 重面春太</b>\r\n能量 : <color%3D#7FF2FF>3500</color>  |  恢复 : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Kiyotaka Ijichi</b>\r\nEnergy : <color%3D#7FF2FF>800</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 伊地知洁高</b>\r\n能量 : <color%3D#7FF2FF>800</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Tsumiki Fushiguro</b>\r\n<color%3D#60E24F>[Grade 4]</color>=<b>[JJP] 伏黑津美纪</b>\r\n<color%3D#60E24F>[四级]</color>
+
+<b>[JJP] Kaori Itadori</b>\r\nEnergy : <color%3D#7FF2FF>4000</color>  |  Recover : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 虎杖香织</b>\r\n能量 : <color%3D#7FF2FF>4000</color>  |  恢复 : <color%3D#7FF2FF>1.1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#44E2A0>[三级]</color>
+
+<b>[JJP] Jin Itadori</b>\r\n<color%3D#60E24F>[Grade 4]</color>=<b>[JJP] 虎杖仁</b>\r\n<color%3D#60E24F>[四级]</color>
+
+<b>[JJP] Wasuke Itadori</b>=<b>[JJP] 虎杖倭助</b>
+
+<b>[JJP] Junpei Yoshino</b>\r\nEnergy : <color%3D#7FF2FF>3000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#60E24F>[Grade 4]</color>=<b>[JJP] 吉野顺平</b>\r\n能量 : <color%3D#7FF2FF>3000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#60E24F>[四级]</color>
+
+<b>[JJP] Nagi Yoshino</b>\r\nJUNPEI'S MOM IS REEAAL.=<b>[JJP] 吉野凪</b>\r\n顺平妈妈是真的.
+
+<b>[JJP] Yu Haibara</b>\r\nEnergy : <color%3D#7FF2FF>4000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>Jujutsu Sorcerer</color>]\n<color%3D#38BBE2>[Grade 2]</color>.=<b>[JJP] 灰原雄</b>\r\n能量 : <color%3D#7FF2FF>4000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#5394EF>咒术师</color>]\n<color%3D#38BBE2>[二级]</color>.
+
+<b>[JJP] Riko Amanai</b>.=<b>[JJP] 天内理子</b>.
+
+<b>[JJP] Misato Kuroi</b>.=<b>[JJP] 黑井美里</b>.
+
+<b>[JJP] Shiu Kong</b>.=<b>[JJP] 孔时雨</b>.
+
+<b>[JJP] Garuda</b>\r\nEnergy : <color%3D#7FF2FF>3000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#603DFF>Shikigami</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 迦楼罗</b>\r\n能量 : <color%3D#7FF2FF>3000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#603DFF>式神</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Inventory Curse</b>\r\nEnergy : <color%3D#7FF2FF>150</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>]\n<color%3D#60E24F>[Grade 4]</color>=<b>[JJP] 储藏咒灵</b>\r\n能量 : <color%3D#7FF2FF>150</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>咒灵</color>]\n<color%3D#60E24F>[四级]</color>
+
+<b>[JJP] Rainbow Dragon</b>\r\nEnergy : <color%3D#7FF2FF>10000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 彩虹龙</b>\r\n能量 : <color%3D#7FF2FF>10000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>咒灵</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Kuchisake-Onna</b>\r\nEnergy : <color%3D#7FF2FF>8500</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 裂口女</b>\r\n能量 : <color%3D#7FF2FF>8500</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] SmallPox</b>\r\nEnergy : <color%3D#7FF2FF>16000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 疱疮神</b>\r\n能量 : <color%3D#7FF2FF>16000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Roppongi</b>\r\nEnergy : <color%3D#7FF2FF>4000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 六本木</b>\r\n能量 : <color%3D#7FF2FF>4000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Akuro-o Otake</b>\r\nEnergy : <color%3D#7FF2FF>12000</color>  |  Recover : <color%3D#7FF2FF>1.5</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 悪路王・大岳</b>\r\n能量 : <color%3D#7FF2FF>12000</color>  |  恢复 : <color%3D#7FF2FF>1.5</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Daruma Doll</b>\r\nEnergy : <color%3D#7FF2FF>3600</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 达摩娃娃</b>\r\n能量 : <color%3D#7FF2FF>3600</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Giant Catfish</b>\r\nEnergy : <color%3D#7FF2FF>2900</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 巨大鲶鱼</b>\r\n能量 : <color%3D#7FF2FF>2900</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Ganesha</b>\r\nEnergy : <color%3D#7FF2FF>12300</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 象头神</b>\r\n能量 : <color%3D#7FF2FF>12300</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Tengen</b>\r\nEnergy : <color%3D#7FF2FF>50000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 天元</b>\r\n能量 : <color%3D#7FF2FF>50000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Finger Bearer</b>\r\nEnergy : <color%3D#7FF2FF>50000</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 指宿</b>\r\n能量 : <color%3D#7FF2FF>50000</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Jogo</b>\r\nEnergy : <color%3D#7FF2FF>22000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 漏瑚</b>\r\n能量 : <color%3D#7FF2FF>22000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Mini Dagon</b>\r\nEnergy : <color%3D#7FF2FF>8000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 迷你陀艮</b>\r\n能量 : <color%3D#7FF2FF>8000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Dagon</b>\r\nEnergy : <color%3D#7FF2FF>18000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 陀艮</b>\r\n能量 : <color%3D#7FF2FF>18000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Hanami</b>\r\nEnergy : <color%3D#7FF2FF>15000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 花御</b>\r\n能量 : <color%3D#7FF2FF>15000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Mahito</b>\r\nEnergy : <color%3D#7FF2FF>9500</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 真人</b>\r\n能量 : <color%3D#7FF2FF>9500</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Polymorphic Soul Isomer</b>\r\nIt consists of 12 human souls\nEnergy : <color%3D#7FF2FF>3600</color>  |  Recover : <color%3D#7FF2FF>2</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 多形灵魂异构体</b>\r\n由12个人类灵魂构成\n能量 : <color%3D#7FF2FF>3600</color>  |  恢复 : <color%3D#7FF2FF>2</color>\n[<color%3D#BB3DFF>咒灵</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Disfigure Soul</b>\r\nThe transformed Mahito's mutilated exhausted victim.\nEnergy : <color%3D#7FF2FF>1000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 残缺灵魂</b>\r\n被真人改造后残缺不堪的受害者\n能量 : <color%3D#7FF2FF>1000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>咒灵</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Kurourushi</b>\r\nEnergy : <color%3D#7FF2FF>16000</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#8825F9>[Special Grade]</color>=<b>[JJP] 黑沐死</b>\r\n能量 : <color%3D#7FF2FF>16000</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#8825F9>[特级]</color>
+
+<b>[JJP] Ko-Guy</b>\r\nEnergy : <color%3D#7FF2FF>8000</color>  |  Recover : <color%3D#7FF2FF>2.5</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>]\n<color%3D#2D52E5>[Grade 1]</color>=<b>[JJP] 小灰</b>\r\n能量 : <color%3D#7FF2FF>8000</color>  |  恢复 : <color%3D#7FF2FF>2.5</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>]\n<color%3D#2D52E5>[一级]</color>
+
+<b>[JJP] Naoya Curse</b>\r\nEnergy : <color%3D#7FF2FF>14200</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>=<b>[JJP] 直哉咒灵</b>\r\n能量 : <color%3D#7FF2FF>14200</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] True Naoya Curse</b>\r\nEnergy : <color%3D#7FF2FF>25700</color>  |  Recover : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>Cursed Spirit</color>, <color%3D#41D848>RCT User</color>, <color%3D#F2D843>Domain User</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>=<b>[JJP] 真·直哉咒灵</b>\r\n能量 : <color%3D#7FF2FF>25700</color>  |  恢复 : <color%3D#7FF2FF>3</color>\n[<color%3D#BB3DFF>咒灵</color>, <color%3D#41D848>反转术式使用者</color>, <color%3D#F2D843>领域使用者</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Cursed Jellyfish</b>\r\nEnergy : <color%3D#7FF2FF>6000</color>  |  Recover : <color%3D#7FF2FF>1.1</color>\n[<color%3D#603DFF>Shikigami</color>]\n<color%3D#38BBE2>[Grade 2]</color>=<b>[JJP] 淀月</b>\r\n能量 : <color%3D#7FF2FF>6000</color>  |  恢复 : <color%3D#7FF2FF>1.1</color>\n[<color%3D#603DFF>式神</color>]\n<color%3D#38BBE2>[二级]</color>
+
+<b>[JJP] Blop Sukuna</b>\r\nEnergy : <color%3D#7FF2FF>1000</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>Cursed Object</color>]\n<color%3D#9400B2>[Special Plus Grade]</color>=<b>[JJP] 软泥宿傩</b>\r\n能量 : <color%3D#7FF2FF>1000</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#BB3DFF>咒物</color>]\n<color%3D#9400B2>[特级+]</color>
+
+<b>[JJP] Bulldog</b>\r\nEnergy : <color%3D#7FF2FF>1200</color>  |  Recover : <color%3D#7FF2FF>1</color>\n[<color%3D#603DFF>Shikigami</color>]\n<color%3D#44E2A0>[Grade 3]</color>=<b>[JJP] 玉犬</b>\r\n能量 : <color%3D#7FF2FF>1200</color>  |  恢复 : <color%3D#7FF2FF>1</color>\n[<color%3D#603DFF>式神</color>]\n<color%3D#44E2A0>[三级]</color>
+
+
+//隐藏角色
+<b>[JJP] Jo<color%3D#00E9FF>GOAT</color></b>\r\n<size%3D200%>’’As the strongest curse Jo<color%3D#00E9FF>GOAT</color> said, Stand proud, you are strong.’’</size>.=<b>[JJP] 漏瑚·<color%3D#00E9FF>史上最强</color></b>\r\n<size%3D200%>“正如<color%3D#00E9FF>史上最强</color>咒灵漏瑚所说，引以为傲吧，你很强大. ”</size>
+
+<b>[JJP] SUPER SENIOR GOJO?!</b>\r\nwhat in the shenanigans? \n <size%3D300%>MAXIMUM OUTPUT PURPLE AIR THIS ?BLEACH? OUT</size>.=<b>[JJP] 无敌前辈五条悟？！</b>\r\n这什么鬼整活操作？\n<size%3D300%>终极输出·虚式·茈？这玩意能把死神轰飞？</size>
+
+
+
+
+
+//*其他物品===================================================================================================
+<b>Ability Picker</b>\r\nFor advanced users. Can cause bugs=<b>能力选择器</b>\r\n适用于高级用户，可能导致错误
+
+<b>JJP Mod Settings</b>\r\nVarious mod settings=<b>JJP模组设置</b>\r\n各种模组设置
+
+<b>[JJP] Our Discord Community</b>\r\nClick and open invite link in browser.=<b>[JJP] 我们的Discord社区</b>\r\n点击并在浏览器中打开邀请链接
+
+<b>Jujutsu Playground Guides</b>\r\nAll YouTube Videos about Mod with Guides.=<b>咒术回战游乐场指南</b>\r\n所有关于模组的带指南的YouTube视频
+
+<b>[JJP] Like Mod</b>\r\nIf you like the mod, please like the mod page. This will help promote it and speed up the release of updates if they are planned (see the Steam page for details)=<b>[JJP] 为模组点赞</b>\r\n如果你喜欢这个模组，请给模组页面点赞. 这将有助于推广它，并加快更新发布速度（如有计划，详情见Steam页面）
+
+
+
+
+
+
+
+
+//*设置菜单===================================================================================================
+Mod Settings=模组设置
+Toggle Domain Plate=切换领域屏幕特效
+<color%3D"red">Domain Plates Disabled=<color%3D"red">领域屏幕特效已禁用
+<color%3D"green">Domain Plates Enabled=<color%3D"green">领域屏幕特效已启用
+
+Toggle Domain Poses=切换领域展开姿势
+<color%3D"red">Domain Poses Disabled=<color%3D"red">领域展开姿势已禁用
+<color%3D"green">Domain Poses Enabled=<color%3D"green">领域展开姿势已启用
+
+<color%3D"red">Height Randomization Disabled=<color%3D"red">身高随机化已禁用
+<color%3D"green">Height Randomization Enabled=<color%3D"green">身高随机化已启用
+
+Curse Physical Damage=咒术物理伤害
+<color%3D"red">Curse Physical Camage Disabled=<color%3D"red">咒术物理伤害已禁用
+<color%3D"green">Curse Physical Camage Enabled=<color%3D"green">咒术物理伤害已启用
+
+RCT Extinguish=反转术式熄灭火焰
+<color%3D"red">RCT Extinguish Disabled=<color%3D"red">RCT熄灭火焰已禁用
+<color%3D"green">RCT Extinguish Enabled=<color%3D"green">RCT熄灭火焰已启用
+
+Punch Any Object=打击任何物体
+<color%3D"red">Punching Any Object Disabled=<color%3D"red">打击任何物体已禁用
+<color%3D"green">Punching Any Object Enabled=<color%3D"green">打击任何物体已启用
+
+<color%3D"red">Enhanced Destruction Disabled=<color%3D"red">增强破坏已禁用
+<color%3D"green">Enhanced Destruction Enabled=<color%3D"green">增强破坏已启用
+
+Domain Durability Multiplier=领域耐久倍数
+Set Domain Durability Multiplier=设置领域耐久倍数
+
+Adaptation Speed Multiplier=适应速度倍数
+Set Adaptation Speed Multiplier=设置适应速度倍数
+
+CE Cost Multiplier=咒力消耗倍数
+Set CE Cost Multiplier=设置咒力消耗倍数
+
+Punch Power Multiplier=打击力量倍数
+Set Punch Power Multiplier Percent [0 - 100%]=设置打击力量倍数百分比[0 - 100%]
+
+Random Power Punch Chance=随机强力拳击概率
+Set Random Power Punch Chance [0 - 100%]=设置随机强力拳击概率[0 - 100%]
+
+SFX Volume=特效音量
+SFX Volume [0 - 100]=特效音量 [0 - 100]
+
+Toggle Secret Phrases=切换秘密短语
+<color%3D"green">Brain Rot Enabled=<color%3D"green">脑腐功能已启用
+<color%3D"red">Brain Rot Disabled=<color%3D"red">脑腐功能已禁用
+
+Core CE=核心咒力
+<color%3D"green">Core CE Enabled=<color%3D"green">核心咒力已启用
+<color%3D"red">Core CE Disabled=<color%3D"red">核心咒力已禁用
+
+//*提示框===================================================================================================
+Not enough energy=能量不足
+Need more cursed energy!=咒力不足！
+Jujutsu System not found=咒术系统未找到
+Jujutsu System To Copy Not Found=未找到要复制的咒术系统.
+You can't choose owner of ability!=你不能选择能力使用者!
+This object has already been selected!=此对象已被选中!
+Jujutsu System has abilities. Delete them.=咒术系统拥有能力. 删除它们.
+Is not a head=这不是头
+Sukuna not found=未找到宿傩
+Blood Manipulation not found=未找到赤血操术
+Decay has not been detected!=未检测到腐朽
+
+
+
+
+
+//*右下角提示===================================================================================================
+<color%3D"green">[JJS] Loaded Without Errors=<color%3D"green">[JJS] 加载成功，无错误
+[JJS] Error Loading ImportantThings=[JJS] 加载重要内容时出错
+[JJS] Error Loading BundleThings=[JJS] 加载捆绑包内容时出错
+[JJS] Error Loading Prefabs=[JJS] 加载预制体时出错
+[JJS] Error Loading EndMain=[JJS] 加载结束主体时出错
+[JJS] Error Loading DelayMain=[JJS] 加载延迟主体时出错
+r:"\[JJS\] Errors In (\d+) Sections"=[JJS] $1 个部分出现错误
+r:"Copied All Abilities From (.+) To (.+)"=已将 $1 的所有能力复制给 $2.
+r:"Sukuna In (.*?) Now Has <color%3D#BB3DFF>(\d+)</color> Fingers"=宿傩在 $1 体内现在拥有 $2 根手指
+<color%3D"green"><size%3D150%>Pick Orochi position!=<color%3D"green"><size%3D150%>指定大蛇的位置！
+<color%3D"green"><size%3D300%>Pick ladder position!=<color%3D"green"><size%3D300%>选择梯子位置！
+r:"(.*?) Set To <color%3D[^>]+>Toggle</color> Mode"=$1 设置为 手动 模式
+r:"(.*?) Set To <color%3D[^>]+>Automatic</color> Mode"=$1 设置为 自动 模式
+r:"Added (.+) With Id (\d+)"=已添加 $1，ID 为 $2
+r:"<color%3D\"green\">(.+?) Removed"=<color%3D\"green\">$1 已移除
+<color%3D"red">You can enter only in Domains=<color%3D"red">仅限领域内使用
+<color%3D"green">Domain: Pick the person=<color%3D"green">领域：选择人物
+<color%3D"green"><size%3D150%>Pick Elephant position!=<color%3D"green"><size%3D150%>选择满象位置!
+The <color%3Dred>Doll<color%3Dwhite> must be linked to a human!=这个<color%3Dred>人偶<color%3Dwhite>必须链接到一个人！
+Copy Movement is now set to :=复制移动当前设置为：
+Physical Impacts is now set to :=物理冲击当前设置为：
+<color%3D"green"><size%3D150%>Pick target!=<color%3D"green"><size%3D150%>选择目标!
+r:"<color%3D\"green\">(.*?)\s*picked"=<color%3D\"green\">$1 已选择
+r:"<color%3Dred>Unlinked<color%3Dwhite> from \"(.*?) <color%3Dwhite>\""%3D从“$1”解除链接
+r:"Gived (.+) <color%3D#BB3DFF>(\d+)</color> Fingers Grade"=给予 $1 <color%3D#BB3DFF>$2</color> 手指等级
+r:"(.*?) Is Now A Cursed With <color%3D#BB3DFF>(\d+)</color> CE"=$1 现已成为拥有 <color%3D#BB3DFF>$2</color> 咒力的咒灵
+r:"(.*?) Soul Is Now Cured"=$1 的灵魂现已治愈
+<color%3D"green">[YutaDomain] Ability Gived: =<color%3D"green">[真赝相爱] 赋予能力: 
+<color%3D"red">[YutaDomain] Ability Give Canceled=<color%3D"red">[真赝相爱] 能力赋予已取消
+[JJP] Selected Head=[JJP] 选择头部
+[JJP] Selected UpperBody=[JJP] 选择上半身
+[JJP] Selected MiddleBody=[JJP] 选择中半身
+[JJP] Selected LowerBody=[JJP] 选择下半身
+[JJP] Selected UpperArm=[JJP] 选择上臂
+[JJP] Selected UpperArmFront=[JJP] 选择前上臂
+[JJP] Selected LowerArm=[JJP] 选择下臂
+[JJP] Selected LowerArmFront=[JJP] 选择前下臂
+[JJP] Selected UpperLeg=[JJP] 选择大腿
+[JJP] Selected UpperLegFront=[JJP] 选择前大腿
+[JJP] Selected LowerLeg=[JJP] 选择小腿
+[JJP] Selected LowerLegFront=[JJP] 选择前小腿
+[JJP] Selected Foot=[JJP] 选择脚部
+[JJP] Selected FootFront=[JJP] 选择前脚部
+
+
+
+
+
+
+
+//皮肤===================================================================================================
+Closed Mouth=闭嘴
+Open Mouth=张嘴
+
+Sigma=西格玛
+
+White=白色
+
+Regular=常规
+Suit=西装
+Casual=休闲
+Damaged=受伤
+Student=学生
+Teacher=老师
+After prison=越狱后
+Gojo x Toji=五条 x 甚尔
+Gojo Hype=五条悟热潮
+
+Before Death=濒死前
+After Death=死亡后
+Zenin=禅院
+
+Recolor=换色
+
+OtherSide=另一面
+Cop=警察
+Doc=医生
+Gentle=绅士
+
+Undershirt=背心
+
+Insect Armor=昆虫装甲
+
+First Form=第一形态
+Second Form=第二形态
+Third Form=第三形态
+Mini Form=迷你形态
+
+Healed=痊愈
+Bandaged=包扎
+
+Kimono=和服
+Backpack=背包
+Kimono Damaged=破损和服
+Kimono and Cape=和服与披风
+
+After Shibuya Incident=涩谷事变后
+Torso=赤膊
+Robe=长袍
+Sun=阳光
+Shinjuku=新宿
+Meeting Hakari=会面秤
+Torso #2=赤膊2
+In Shibuya Incident=涩谷事变中
+Hoodie=连帽衫
+
+In Culling Game=在狩猎游戏中
+Sweater=毛衣
+
+Past=过去
+
+Rabbit=兔形态
+True Kind Of Soul=真实形态
+
+
+
+
+
+
+//*指南===================================================================================================
+Jujutsu Playground Guides=咒术游乐场指南
+
+Toji Fushiguro, Inventory Curse, Heavenly Restriction,  Split Soul Katana, Inverted Spear of Heaven, Megumi Fushiguro=伏黑甚尔，储藏咒灵，天与咒缚，散魂刀，天逆鉾，伏黑惠
+
+Kento Nanami, Toge Inumaki, Maki Zenin, Kasumi Miwa, Full Sukuna Rework. New Abilities: Ratio Technique, Cursed Speech. New Melee: Megumi Sword, Maki's Spear, Playful Cloud, Miwa's Katana, Slaughter Demon, Nanami's Knife=七海建人，狗卷棘，禅院真希，三轮霞，宿傩完全重做. 新能力：十划咒法，咒言. 新近战武器：伏黑惠的剑，真希的矛，游云，三轮霞的刀，屠戮魔，七海的刀
+
+Jogo, Hanami, Choso, Kenjaku=漏瑚，花御，胀相，羂索
+
+Kenjaku, Suguru Geto, Cursed Spirit Manipulation, Dagon, Aoi Todo and Boogie Woogie, new transfigurations of Mahito, Rainbow Dragon, Yuta Okkotsu and Rika, secondary characters Junpei, Ui Ui, Haibara=羂索，夏油杰，咒灵操术，陀艮，东堂葵和不义游戏，真人的全新改造形态，彩虹龙，乙骨忧太和里香，配角顺平，忧忧，灰原
+
+First domain expansion - Unlimited Void, New characters Kokichi Muta, Ultimate Mechamaru, Shoko Ieiri, Wasuke Itadori, and Finger Bearer, Polymorphic Soul Isomer, Skins - true form of Mahito's soul=首个领域展开 - 无量空处，新角色与幸吉，究极机械丸，家入硝子，虎杖倭助，以及指宿者，多形灵魂异构体，皮肤 - 真人灵魂的真面目
+
+Haruta Shigemo, Ogami, Ogami's Grandson, Jiro Awasaka, Noritoshi Kamo. New abilities Satoru Gojo, Kento Nanami,. New skins for Yuji Itadori, Gojo, Maki=重面春太，参拜婆，参拜婆的孙子，粟坂二良，加茂宪纪. 五条悟的新能力，七海建人. 虎杖悠仁、五条悟、真希的新皮肤
+
+Naobito Zenin, Mai Zenin, Naoya Zenin, Momo Nishimiya, Garuda=禅院直毘人，禅院真依，禅院直哉，西宫桃，迦楼罗
+
+Kuchisake-Onna, Ko-Guy, new domain expansions, Prison Realm, New Gojo Abilities and rework melee and energy system=裂口女，小灰，新领域展开，狱门疆，五条悟新能力以及近战与能量系统重做
+
+Arata Nitta, Atsuya Kusakabe, Takuma Ino, Kiyotaka Ijichi, Yoshinobu Gakuganji, Kaori Itadori=新田明，日下部笃也，猪野琢真，伊地知洁高，乐岩寺嘉伸，虎杖香织
+
+Eso, Kechizu, Ryu Ishigori, Akari Nitta, Utahime, Panda, and other: update punch system, new Mahito Domain - Self-Embodiment of Perfection=坏相，血涂，石流龙，新田明里，歌姬，熊猫，以及其他：重做打击系统，真人新领域 - 自闭圆顿裹
+
+ full rework Sukuna, he got full form, all slice and cut types, Malevolent Shrine Domain,  Dagon also got rework, we change his abilities, and Jogo got his domain - Coffin of the Iron Mountain=宿傩完全重做，获得完整形态，所有斩击类型，伏魔御厨子领域，陀艮也重做了，我们改了它的能力，漏瑚获得了他的领域 - 盖棺铁围山
+
+Mahoraga and an adaptation, Heart Catch, Angel and Hana Kurusu, Riko Amanai, Masamichi Yaga, Back Gate for Prison Realm=魔虚罗与适应，心身掌握，天使和来栖华，天内理子，夜蛾正道，狱门疆·里门
+
+Hakari and his domain, Uraume, new Yuji abilities and some fixes=秤金次和他的领域，里梅，虎杖新能力以及一些修复
+
+Hajime Kashimo, Dagon Fishes, Auras, New Grade System, Custom Skins, and more=鹿紫云一，陀艮的鱼，光环，新等级系统，自定义皮肤，以及更多
+
+Uro Takako, Kurourushi, Kirara Hoshi, and Iori Hazenoki=乌鹭亨子，黑沐死，星绮罗罗，黄栌折
+
+Limitless Rework, Infinity Rework, Ten Shadows Rework, Naoya Curse, Yorozu, few new domains and other=无下限重做，不可侵重做，十种影法术重做，直哉咒灵，万，几个新领域及其他
+
+Mimiko and Nanako with doll and phone, Tsumiki Fushiguro, Nagi Yoshino, Chizuru Hari and his claws, Charles Bernard with G Warstaff=枷场美美子和枷场菜菜子（人偶与手机），伏黑津美纪，吉野凪，针千钧和他的利爪，查尔斯·贝尔纳德（持有G战杖）
+
+another rework Sukuna, he got new slice and cut types, new Malevolent Shrine Heian Domain. Reworks many abilities, Takaba, Mechamaru Absolute=宿傩又一次重做，获得新斩击类型，新平安时代伏魔御厨子领域. 重做大量能力，高羽文彦，究极机械丸·绝对
+
+Biggest Jogo rework, Final Sukuna rework, Geto rework with new curses, Yuta with Rika rework, Itadori rework, 2 new Domains, Many other reworks, new Quality of life features and way much more!=漏瑚最大规模重做，宿傩最终重做，夏油杰重做（新增咒灵），乙骨忧太与里香重做，虎杖重做，2个新领域，大量其他重做，新生活质量优化功能，以及更多！
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

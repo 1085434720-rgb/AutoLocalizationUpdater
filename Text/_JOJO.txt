@@ -1,0 +1,496 @@
+//-[未完成]
+//TF_RC汉化
+Generic Jojo Mod Remastered=通用Jojo模组重置版
+a jojo mod with fully working powers and more=一个功能齐全且拥有完整能力的JOJO模组以及更多内容.
+
+//物品栏
+<b><color%3D#d9caf2>GJJMR</b>\r\nContains all items from Generic Jojo Mod Remastered.=<b><color%3D#d9caf2>GJJMR[TF_RC汉化]</b>\r\n包含来自通用JOJO模组重制版的所有物品
+
+
+
+
+//右键菜单
+Show Bar=显示条
+Hide Bar=隐藏条
+Show/Hide Bar=显示/隐藏条
+Show/Hide Bar.=显示/隐藏条.
+Show Aura=显示气场
+Hide Aura=隐藏气场
+Show/Hide Aura=显示/隐藏气场
+Show/Hide Aura.=显示/隐藏气场.
+Enable Arm Summons=启用手臂召唤
+Disable Arm Summons=禁用手臂召唤
+Toggle Arm Summons=切换手臂召唤
+Toggle Arm Summons.=切换手臂召唤.
+Toggle Exist After Death=切换死亡后存在
+Toggle Exist After Death.=切换死亡后存在.
+Change Distance=更改距离
+Change Distance.=更改距离.
+Change the max stand distance=更改最大替身距离
+default is =默认是
+Toggle Stand Limits=切换替身限制
+Toggle Stand Limits.=切换替身限制.
+
+
+//皮肤
+Change Skin to Default=切换皮肤至默认
+Change Skin to Alt Palette=切换皮肤至备用配色
+Change Skin to Manga=切换皮肤至漫画版
+Change Skin to Part 6=切换皮肤至第六部
+Change Skin to Light Novel=切换皮肤至轻小说版
+Change Skin to Zarythe=切换皮肤至Zarythe
+Change Skin to OVA=切换皮肤至OVA版
+Change Skin to Yellow Aura=切换皮肤至黄色光环
+Change Skin to Alt Palette 2=切换皮肤至备用配色2
+Change Skin to Alt Palette 3=切换皮肤至备用配色3
+Change Skin to HFTF=切换皮肤至HFTF
+Change Skin to Damaged=切换皮肤至破损版
+Change Skin to Anime=切换皮肤至动画版
+Change Skin to Alt Pallete=切换皮肤至备用配色
+Change Skin to Mob Boss=切换皮肤至黑帮老大
+Change Skin to Young=切换皮肤至年轻版
+Change Skin to Dream World=切换皮肤至梦境世界
+Change Skin to Part 4=切换皮肤至第四部
+Change Skin to Kosaku Kawajiri=切换皮肤至川尻浩作
+Change Skin to Matured Kira=切换皮肤至成熟吉良
+Change Skin to Dead Mans Questions=切换皮肤至死人之问
+Change Skin to Alt Pallete 2=切换皮肤至备用配色2
+Change Skin to Jojonium=切换皮肤至Jojonium
+Change Skin to Old Jonathan=切换皮肤至老年乔纳森
+Change Skin to Bites The Dust=切换皮肤至败者食尘
+Change Skin to Doctor=切换皮肤至医生装
+Change Skin to Made In Galaxy=切换皮肤至银河制造
+Change Skin to Ghost=切换皮肤至幽灵
+Change Skin to Guard=切换皮肤至守卫
+Change Skin to Half Stand=切换皮肤至半替身
+Change Skin to Hell Bound=切换皮肤至地狱束缚
+Change Skin to Analog II=切换皮肤至模拟II
+Change Skin to Shadow The World Requiem=切换皮肤至暗影世界镇魂曲
+Change Skin to Part 5=切换皮肤至第五部
+Change Skin to Manga (Josuke)=切换皮肤至漫画版（仗助）
+Change Skin to Yellow Aura (Jotaro)=切换皮肤至黄色光环（承太郎）
+
+
+
+
+//替身名
+MOODY BLUES!=忧郁蓝调!
+STAR PLATINUM!=白金之星!
+KING CRIMSON!=绯红之王!
+THE WORLD!=世界!
+THE WORLD OVER HEAVEN!=世界超越天堂!
+STAR PLATINUM OVER HEAVEN!=白金之星超越天堂!
+THE WORLD: ALTERNATE UNIVERSE!=世界: 平行世界!
+SCARY MONSTERS!=骇人恶兽!
+SHADOW THE WORLD!=暗影世界!
+CRAZY DIAMOND!=疯狂钻石!
+WHITESNAKE!=白蛇!
+C-MOON!=C-MOON!
+MADE IN HEAVEN!=天堂制造!
+HEY YA!=HEY YA！
+GOLDEN EXPERIENCE!=黄金体验!
+KILLER QUEEN!=杀手皇后!
+KILLER QUEEN (JOJOLION)!=杀手皇后（乔乔福音）!
+MAGICIANS RED!=红色魔术师!
+SPEED KING!=速度之王!
+NUT KING CALL!=坚果王召唤!
+STONE FREE!=石之自由!
+DIVER DOWN!=潜行者!
+RED HOT CHILLI PEPPER!=猩红辣椒!
+THE HAND!=轰炸空间!
+D4C!=D4C!
+STICKY FINGERS!=钢链手指!
+SILVER CHARIOT!=银色战车!
+WEATHER REPORT!=天气预报!
+HERMIT PURPLE (JOJOLION)!=紫色隐者（乔乔福音）!
+MANDOM!=MANDOM!
+20TH CENTURY BOY!=20世纪少年!
+UNDERWORLD!=地下世界!
+GREEN DAY!=青春岁月!
+WHITE ALBUM!=白色专辑!
+OASIS!=绿洲!
+KISS!=亲吻!
+CATCH THE RAINBOW!=抓住彩虹!
+NOVEMBER RAIN!=十一月雨!
+SOFT AND WET!=软又湿
+HERMIT PURPLE!=紫色隐者!
+WONDER OF U!=奇迹于你!
+
+
+
+//人物
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>diavolo</b>\r\n'In order to grow, we must defeat the mistakes of our past.'\n Interact with chest to spawn King Crimson.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>迪亚波罗</b>\r\n“为了成长，我们必须战胜过去的错误. ”\n 与胸部互动可召唤“绯红之王”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>king crimson</b>\r\nStand of Diavolo\n Interact with head to Erase Time \n Interact with chest to Skip Time.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>绯红之王</b>\r\n迪亚波罗的替身\n 与头部互动可消除时间\n 与胸部互动可跳过时间
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>dio</b>\r\n'Oh? You're approaching me?'\n Interact with chest to spawn The World.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>迪奥</b>\r\n“哦？你正靠近我吗？”\n 与胸部互动可召唤“世界”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>straitzo</b>\r\n'I, Straizo will show no mercy.'\n Interact with back hand to toggle blood sucking and stab someone, then activate the hand to suck their blood and increase the blood bar. Abilities are unlocked as the blood bar levels up, such as freezing, stingy eyes, zombie creation and head seperation.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>史特雷</b>\r\n“我，史特雷，不会手下留情. ”\n 与后手互动可开关吸血并刺伤他人，再激活该手吸取血液并增加血条. 随着血条等级提升，会解锁冰冻、眼部针刺、制造丧尸和头部分离等能力. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>heaven ascension dio</b>\r\n'Reality itself, bend to my will'\n Interact with chest to spawn The World Over Heaven.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>天堂迪奥</b>\r\n“现实本身，服从我的意志吧”\n 与胸部互动可召唤“超越天堂的世界”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>heaven ascension Jotaro</b>\r\n'So, this is Heaven?'\n Interact with chest to spawn Star Platinum Over Heaven.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>天堂承太郎</b>\r\n“这就是天堂吗？”\n 与胸部互动可召唤“超越天堂的白金之星”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>diego</b>\r\n'I will stand above that flock of pigeons and I will control them!'\n Interact with chest to spawn The World Alternate Universe.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>迪亚哥</b>\r\n“我将凌驾于那群鸽子之上，并控制它们！”\n 与胸部互动可召唤“平行世界世界”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>diego (scary monsters)</b>\r\n'The one who was victorious was… me!'\n Interact with chest to spawn Scary Monsters.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>迪亚哥（骇人恶兽）</b>\r\n“获胜者是…我！”\n 与胸部互动可召唤“骇人恶兽”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>shadow dio</b>\r\n'This might be called fate... a fate I must be rid of, a destiny I must erase.'\n Interact with chest to spawn Shadow The World.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>暗影迪奥</b>\r\n“这或许被称为命运…一个我必须摆脱的命运，一个我必须抹去的宿命. ”\n 与胸部互动可召唤“暗影世界”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>dio (part 1)</b>\r\n'I reject my humanity, Jojo!'\n Interact with back hand to toggle blood sucking and stab someone, then activate the hand to suck their blood and increase the blood bar. Abilities are unlocked as the blood bar levels up, such as freezing, stingy eyes, zombie creation and head seperation.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>迪奥（第一部）</b>\r\n“我拒绝人性，JOJO！”\n 与后手互动可开关吸血并刺伤他人，再激活该手吸取血液并增加血条. 随着血条等级提升，会解锁冰冻、眼部针刺、制造丧尸和头部分离等能力. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>young dio</b>\r\n'It was I, Dio!'=<b><color%3D#d9caf2>GJMR <color%3Dwhite>年轻迪奥</b>\r\n“是我迪奥哒！”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>the world</b>\r\nStand of Dio\n Interact with chest to Stop Time, interact with hands to launch knifes (ability can be changed in context menu).=<b><color%3D#d9caf2>GJMR <color%3Dwhite>世界</b>\r\n迪奥的替身\n 与胸部互动可停止时间，与手部互动可投掷飞刀（能力可在上下文菜单中更改）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>shadow the world</b>\r\nStand of Shadow Dio\n Interact with chest to Stop Time.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>暗影世界</b>\r\n暗影迪奥的替身\n 与胸部互动可停止时间
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>the world over heaven</b>\r\nStand of Heaven Ascension Dio\n Interact with chest to Stop Time\n Interact with front hand to change an object you are pointing at to an alternate universe varient (ability can be changed in context menu)\n Interact back hand to smite whatever object you are pointing at.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>超越天堂的世界</b>\r\n天堂迪奥的替身\n 与胸部互动可停止时间\n 与前手互动可将你指向的物体变为平行世界变体（能力可在上下文菜单中更改）\n 与后手互动可摧毁你指向的任何物体
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>star platinum over heaven</b>\r\nStand of Heaven Ascension Jotaro\n Interact with chest to Stop Time\n Interact with front hand to change an object you are pointing at to an alternate universe varient (ability can be changed in context menu)\n Interact back hand to smite whatever object you are pointing at.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>超越天堂的白金之星</b>\r\n天堂承太郎的替身\n 与胸部互动可停止时间\n 与前手互动可将你指向的物体变为平行世界变体（能力可在上下文菜单中更改）\n 与后手互动可摧毁你指向的任何物体
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>the world: alternate universe</b>\r\nStand of Diego\n Interact with chest to Stop Time, interact with hands to launch knifes (ability can be changed in context menu)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>平行世界世界</b>\r\n迪亚哥的替身\n 与胸部互动可停止时间，与手部互动可投掷飞刀（能力可在上下文菜单中更改）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>josuke</b>\r\n'What did you just say about my hair?'\n Interact with chest to spawn Crazy Diamond\n Activate head while Crazy Diamond is summoned to enter Rage Mode.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>仗助</b>\r\n“你刚才说我的头发怎么了？”\n 与胸部互动可召唤“疯狂钻石”\n 在疯狂钻石被召唤时激活头部可进入狂怒模式
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>crazy diamond</b>\r\nStand of Josuke\n Punch someone to heal them (powers toggleable in context menu)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>疯狂钻石</b>\r\n仗助的替身\n 拳击他人可治疗（能力可在上下文菜单中开关）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>pucci</b>\r\n'In the name of God, I will smite you!'\n Interact with chest to spawn Whitesnake.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>普奇</b>\r\n“以上帝之名，我将击倒你！”\n 与胸部互动可召唤“白蛇”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>pucci (c-moon)</b>\r\n'Our Father, who art in Heaven. I beseech you to lead and guide me! I ask you to watch over me, so I may not walk down the wrong path! It is to your very will that I shall dedicate myself!'\n Interact with chest to spawn C-Moon.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>普奇（C-MOON）</b>\r\n“我们在天上的父，我恳求您指引我！求您看顾我，使我不会走错路！我愿奉献自己，遵从您的旨意！”\n 与胸部互动可召唤“C-MOON”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>pucci (made in heaven)</b>\r\n'The time for Heaven has finally arrived..'\n Interact with chest to spawn Made In Heaven.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>普奇（天堂制造）</b>\r\n“天堂的时刻终于到来了…”\n 与胸部互动可召唤“天堂制造”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>pocoloco</b>\r\n'I proclaim, once I pass you, you will never be able to take the lead from me, Pocoloco.'\n Interact with chest to spawn Hey Ya.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>波克洛可</b>\r\n“我宣布，一旦我超过你，你就再也无法从我手中夺回领先，波克洛可. ”\n 与胸部互动可召唤“嘿呀！”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>hey ya</b>\r\nStand of Pocoloco. Activate head to grant the user luck, making them automatically dodge oncoming hits and objects.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>嘿呀！</b>\r\n波克洛可的替身. 激活头部可赋予使用者幸运，使其自动躲避来袭的攻击和物体. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>whitesnake</b>\r\nStand of Pucci\n Interact with front hand to Spawn a disc, which can store memories or stands depending on if their inserted into the head or chest.\nActivate head to shoot acid.\nActivate back hand to spawn a Control Disc, which can have a command written into it via the context menu.\nActivate the chest to transform into the nearest person.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>白蛇</b>\r\n普奇的替身\n 与前手互动可生成一个光碟，根据插入头部或胸部可存储记忆或替身. \n 激活头部可喷射酸液. \n 激活后手可生成控制光碟，可通过上下文菜单将命令写入其中. \n 激活胸部可变成最近的人. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>whitesnake ultimate</b>\r\nStand of Kars\nActivate hands to spawn an Ultimate Stand Disc, which acts as a normal stand disc but will make ultimate stands, granting them extra powers(can be changed to normal stand disc in power menu)\nTouch any disc with its back hand to transport it in and out of the Disc Dimension\nActivate chest to go in an out of the Disc Dimension.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>终极白蛇</b>\r\n卡兹的替身\n 激活双手可生成终极替身光碟，功能类似普通替身光碟，但会制造终极替身，赋予额外力量（可在能力菜单中改为普通替身光碟）\n 用后手触碰任何光碟可将其移入/移出光碟次元\n 激活胸部可进入/离开光碟次元. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>giorno</b>\r\n'I, Giorno Giovanna, have a dream'\n Interact with chest to spawn Golden Experience.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>乔鲁诺</b>\r\n“我，乔鲁诺·乔巴拿，有一个梦想”\n 与胸部互动可召唤“黄金体验”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>golden experience</b>\r\nStand of Giorno\n Punch someone to heal them (abilities can be changed in context menu).=<b><color%3D#d9caf2>GJMR <color%3Dwhite>黄金体验</b>\r\n乔鲁诺的替身\n 拳击他人可治疗（能力可在上下文菜单中更改）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>the hand</b>\r\nStand of Okuyasu\n touch something with your back hand to erase it.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>轰炸空间</b>\r\n亿泰的替身\n 用后手触碰物体可将其消除
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>golden experience requiem</b>\r\nStand of Giorno\nAbilites can be changed in the context menu for both the chest and arms.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>黄金体验镇魂曲</b>\r\n乔鲁诺的替身\n 胸部和手臂的能力可在上下文菜单中更改. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>kakyoin</b>\r\n'No one can just deflect the emerald splash?'\n Interact with chest to spawn Hierophant Green.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>花京院</b>\r\n“没有人能单纯地弹开绿宝石水花？”\n 与胸部互动可召唤“绿色法皇”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>sale</b>\r\n'If I go all-out with my Stand, Kraft Work, it ain't a challenge for me to swat your bullets down.'\n Interact with chest to spawn Kraft Work=<b><color%3D#d9caf2>GJMR <color%3Dwhite>沙雷</b>\r\n“如果我用我的替身‘手艺工作’全力出击，打落你的子弹根本不是挑战. ”\n 与胸部互动可召唤“手艺工作”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>melone</b>\r\n'DI MOLTO!'\n Interact with chest to spawn Baby Face=<b><color%3D#d9caf2>GJMR <color%3Dwhite>梅洛尼</b>\r\n“太棒了！”\n 与胸部互动可召唤“娃娃脸”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>rai</b>\r\n'The priorities here are protecting me is first... then your own life comes second.'\n Interact with chest to Doggy Style=<b><color%3D#d9caf2>GJMR <color%3Dwhite>莱</b>\r\n“这里的优先顺序是：保护我是第一…然后才是你自己的生命. ”\n 与胸部互动可召唤“犬式”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>doggy style</b>\r\nStand Of Rai\nActivate hands to shoot out a string anchor, which can latch onto objects or be free standing. If the anchor hits an object, pointing at another object will tie it to that object.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>犬式</b>\r\n莱的替身\n 激活双手可发射绳索锚点，可附着在物体上或自由站立. 如果锚点击中物体，指向另一物体可将其与锚点绑定. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>baby face</b>\r\nStand Of Melone\n Touch someone and activate its hands to make a Junior from them. Junior can dismember limbs by touching them and activating his hands.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>娃娃脸</b>\r\n梅洛尼的替身\n 触碰某人并激活双手可从中制造一个“小子”. “小子”可通过触碰肢体并激活其双手来切断肢体. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>junior</b>\r\nCan dismember things by touching them and activating its hand.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>小子</b>\r\n通过触碰物体并激活其手部可切断物体
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>speedwagon</b>\r\n'I was raised in squalor, and I've seen a lot of lowlifes. My nose knows the difference between good and bad.'\n Activate head to toss his hat, and activate his back hand to shoot a barrage of bullets.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>史比特瓦根</b>\r\n“我在肮脏中长大，见过很多下三滥. 我的鼻子能分辨善恶. ”\n 激活头部可投掷帽子，激活后手可发射一连串子弹. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>hierophant green</b>\r\nStand of Kakyoin\n Interact with hands to use the Emerald Splash\n interact with head to summon an Emerald Barrier.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>绿色法皇</b>\r\n花京院的替身\n 与手部互动可使用“绿宝石水花”\n 与头部互动可召唤绿宝石屏障
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>kraft work</b>\r\nStand of Sale\n Interact with hands to use the Emerald Splash\n Touch something and activate its hands to lock it, punch any locked object to add energy to it and touch and activate its hands on a locked object to unlock it.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>手艺工作</b>\r\n沙雷的替身\n 与手部互动可使用“绿宝石水花”\n 触碰某物并激活双手可将其锁定，拳击任何锁定的物体会为其增加能量，在锁定物上触碰并激活双手可解锁. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>king crimson requiem</b>\r\nStand of Diavolo\n Interact with head to Erase Time\n Interact with hand whilst pointing at someone to put them in a cutscene.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>绯红之王镇魂曲</b>\r\n迪亚波罗的替身\n 与头部互动可消除时间\n 指向某人时与手部互动可将其置于过场动画中
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>soft and wet</b>\r\nStand of Josuke\n Interact with hands to shoot bubbles (Can change what aspect they take/affect they have in the context menu)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>软又湿</b>\r\n定助的替身\n 与手部互动可发射气泡（可在上下文菜单中更改气泡的性质/效果）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>soft and wet: go beyond</b>\r\nStand of Josuke\n Interact with hands to shoot bubbles (Can change what aspect they take/affect they have in the context menu). Activate chest to summon a bubble from the users birthmark, that can then be attatched to a target by pointing at something with the users back hand and activating it. Activating it again will make the bubble pursue the target.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>软又湿：超越</b>\r\n定助的替身\n 与手部互动可发射气泡（可在上下文菜单中更改气泡的性质/效果）. 激活胸部可从使用者的胎记处召唤一个气泡，然后用使用者的后手指向某物并激活，可将气泡附着到目标上. 再次激活将使气泡追逐目标. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>red hot chilli pepper</b>\r\nStand of Akira\n While touching a power source with its front hand, activating the hand will draw power from it and add it to the total charge.\n Punching something with its back hand will apply the total charge to it, and activating its hands while pointing at something will blitz behind it and also apply the current energy level.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>红热辣椒</b>\r\n明夫的替身\n 用前手触碰电源时，激活该手会从中吸取能量并加入总电荷. \n 用后手拳击物体可将总电荷施加给物体，指向某物时激活双手会闪现到其背后并施加当前能量等级. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>star platinum</b>\r\nStand of Jotaro\n Interact with chest to Stop Time\nActivate hands to use Star Finger (ability can be changed in context menu).=<b><color%3D#d9caf2>GJMR <color%3Dwhite>白金之星</b>\r\n承太郎的替身\n 与胸部互动可停止时间\n 激活双手可使用“星指”（能力可在上下文菜单中更改）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>star platinum: the world</b>\r\nStand of Jotaro\n Interact with chest to Stop Time\nActivate hands to use Star Finger (ability can be changed in context menu).=<b><color%3D#d9caf2>GJMR <color%3Dwhite>白金之星：世界</b>\r\n承太郎的替身\n 与胸部互动可停止时间\n 激活双手可使用“星指”（能力可在上下文菜单中更改）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>star platinum (part 6)</b>\r\nStand of Jotaro\n Interact with chest to Stop Time\nActivate hands to use Star Finger (ability can be changed in context menu)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>白金之星（第六部）</b>\r\n承太郎的替身\n 与胸部互动可停止时间\n 激活双手可使用“星指”（能力可在上下文菜单中更改）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>wonder of u</b>\r\nStand of Tooru. \n Activate head to toggle Total Nullification, undoing any time-related abilites done. \n Activate chest to toggle Calamity, affecting people who come close to WOU with a scale of events ranging on how close they are.\n Point at someone and activate the hands to toggle Automatic Calamities (stage can be changed in context menu)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>奇迹于你</b>\r\n透龙的替身. \n 激活头部可开关“完全无效化”，撤销任何已完成的时间相关能力. \n 激活胸部可开关“灾厄”，影响靠近WOU的人，灾厄程度取决于距离远近. \n 指向某人并激活双手可开关“自动灾厄”（阶段可在上下文菜单中更改）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>cream</b>\r\nStand of Vanilla Ice\n Activate chest to transform into a void ball, and activate that to transform back.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>亚空瘴气</b>\r\n瓦尼拉·艾斯的替身\n 激活胸部可变身为虚空球，再次激活可变回原形
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>mandom</b>\r\nStand of Ringo\n Interact with head to Rewind Time.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>Mandom</b>\r\n林戈的替身\n 与头部互动可倒转时间
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>hermit purple (jojolion)</b>\r\nStand of Joseph (Jojolion)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>隐者之紫（乔乔福音）</b>\r\n约瑟夫（乔乔福音）的替身
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>kira</b>\r\n'You must die. I can't leave witnesses alive.'\n Interact with chest to spawn Killer Queen.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>吉良</b>\r\n“你必须死. 我不能留下活口. ”\n 与胸部互动可召唤“杀手皇后”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>tooru</b>\r\n'When everything's over, all that will remain...are dreams and memories. That's all.'\n Interact with chest to spawn Wonder Of U.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>透龙</b>\r\n“当一切结束时，剩下的只有…梦想和记忆. 仅此而已. ”\n 与胸部互动可召唤“奇迹于你”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>avdol</b>\r\n' I am not bound by the laws of nature. I can control fire as I wish.'\n Interact with chest to spawn Magicians Red.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>阿布德尔</b>\r\n“我不受自然法则约束. 我可以随心所欲地控制火焰. ”\n 与胸部互动可召唤“红色魔术师”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>magicians red</b>\r\nStand of Avdol\nActivate hands to shoot out Red Bind (can be changed to Cross Fire Hurricane in context menu)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>红色魔术师</b>\r\n阿布德尔的替身\n 激活双手可射出“红色捆绑”（可在上下文菜单中改为“十字火焰风暴”）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>jobin</b>\r\n'The one that wins is the one in the right.'\n Interact with chest to spawn Speed King.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>乔宾</b>\r\n“获胜的一方才是正确的. ”\n 与胸部互动可召唤“速度之王”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>joshu</b>\r\n'But I... don't even have that kind of talent, do I...? Even if it's just a little... I have something, right?'\n Interact with chest to spawn Nut King Call.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>常秀</b>\r\n“但是我…连那种才能都没有吧…？就算只有一点点…我也是有优点的，对吧？”\n 与胸部互动可召唤“坚果王召唤”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>nut king call</b>\r\nStand of Joshu\n Interact with hands whilst pointing at someone to set a bolt on them, and Interact with the hand again to dismember the limb.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>坚果王召唤</b>\r\n常秀的替身\n 指向某人时与手部互动可在其身上设置螺栓，再次与该手互动可切断该肢体
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>kira (jojolion)</b>\r\n'Im going to steal one... one of those fruits...'\n Interact with chest to spawn Killer Queen (Jojolion)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>吉良（乔乔福音）</b>\r\n“我要偷一个…那种果实中的一个…”\n 与胸部互动可召唤“杀手皇后（乔乔福音）”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>vanilla ice</b>\r\n'One by one, each of you shall fall in line, as I scatter your atomic fragments across the deepest recesses of the void.'\n Interact with chest to spawn Cream.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>瓦尼拉·艾斯</b>\r\n“你们一个接一个，排好队，我会把你们的原子碎片散播到虚空的最深处. ”\n 与胸部互动可召唤“亚空瘴气”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>jolyne</b>\r\n'Yare Yare Dawa'\n Interact with chest to spawn Stone Free.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>徐伦</b>\r\n“真是够呛”\n 与胸部互动可召唤“石之自由”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>anasui</b>\r\n'FUCK'S SAKE! IF THERE'S NO MICKEY, THIS SHIT AIN'T DISNEY!!'\n Interact with chest to spawn Diver Down.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>安纳苏</b>\r\n“操！没有米奇，这破玩意儿就不是迪士尼！！”\n 与胸部互动可召唤“潜行者”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>akira</b>\r\n'My dream is to be like Jimi Hendrix or Jeff Beck. To be an ultra super guitarist and live life hard and fast!'\n Interact with chest to spawn Red Hot Chilli Pepper.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>明夫</b>\r\n“我的梦想是成为像吉米·亨德里克斯或杰夫·贝克那样的吉他手，成为超级吉他手，活得又猛又快！”\n 与胸部互动可召唤“红热辣椒”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>stone free</b>\r\nStand of Joylne\nActivate hands to shoot out a string anchor, which can latch onto objects or be free standing. If the anchor hits an object, pointing at another object will tie it to that object.\nActivating the lower body on the user will turn their chest into a mobius strip, negating the effects of map flips.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>石之自由</b>\r\n徐伦的替身\n 激活双手可发射绳索锚点，可附着在物体上或自由站立. 如果锚点击中物体，指向另一物体可将其与锚点绑定. \n 激活使用者的下半身可将其胸部变为莫比乌斯环，抵消地图翻转的效果. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>highway star</b>\r\nStand of Yuya\nPoint at something with its back hands to place a target on the object\nActivate chest to turn into feet that will go after the target, activating one of the feet will revert the stand back to normal.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>公路之星</b>\r\n由花的替身\n 用后手指向某物可在该物体上放置目标\n 激活胸部可变身为追逐目标的脚，激活其中一只脚可使替身恢复正常. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>speed king</b>\r\nStand of Jobin\n Touch someone to increase their temperature\n Interact with hand to make people combust if you have touched them.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>速度之王</b>\r\n乔宾的替身\n 触碰某人可升高其体温\n 与手部互动可使你触碰过的人自燃
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>killer queen</b>\r\nStand of Kira\n touch an object to set a bomb\n Interact with hand to explode all bombs (you can remove bombs by selecting the item and going down in the context menu)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>杀手皇后</b>\r\n吉良的替身\n 触碰物体可设置炸弹\n 与手部互动可引爆所有炸弹（你可以在物品上打开上下文菜单并选择移除炸弹）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>killer queen (jojolion)</b>\r\nStand of Kira (Jojolion)\n Interact with hands to shoot Explosive Bubbles.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>杀手皇后（乔乔福音）</b>\r\n吉良（乔乔福音）的替身\n 与手部互动可发射爆炸气泡
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>killer queen bites the dust</b>\r\nStand of Kira\n touch an object to set a bomb\n Interact with hand to explode all bombs\n Activate torso to shoot Explosive Bubbles\n activate chest to start a countdown for a cutscene\nyou can remove bombs by selecting the item and going down in the context menu.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>杀手皇后：败者食尘</b>\r\n吉良的替身\n 触碰物体可设置炸弹\n 与手部互动可引爆所有炸弹\n 激活躯干可发射爆炸气泡\n 激活胸部可开始倒计时进入过场动画\n 你可以在物品上打开上下文菜单并选择移除炸弹
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>20th century boy</b>\r\nStand of Magent\n When summoned, it makes the user invincible, but also frozen.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>20世纪少年</b>\r\n马杰特的替身\n 召唤时使使用者无敌，但也无法移动
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>tusk</b>\r\nStand of Johnny\n Point at someone and activate hand to do a cutscene barrage.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>牙</b>\r\n乔尼的替身\n 指向某人并激活手部可进行过场动画连打
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>tusk: act 3</b>\r\nStand of Johnny\n Boosts nail spin, can be evolved into Act 4 by achieving a level 5 nail spin, and by putting the Golden Rectangle and Saints Corpse Heart into the users chest.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>牙：Act 3</b>\r\n乔尼的替身\n 增强指甲旋转，达到5级指甲旋转并将“黄金矩形”和“圣者遗体心脏”放入使用者胸部可进化为Act 4. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>weather report</b>\r\nStand of Weather Report\n Interact with front hand while pointing at something to strike it with lightning, interact with back hand to give the person pointed at a cloud suit.\n Activate chest to concentrate oxygen in a nearby area, suffocating anyone in it.\n Activate head to start making it rain dart frogs.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>天气预报</b>\r\n天气预报的替身\n 前手指向某物时可释放闪电击中它，后手互动可给予指向的人一套云衣. \n 激活胸部可在附近区域浓缩氧气，使区域内的人窒息. \n 激活头部可开始下飞镖蛙雨. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>weather report: heavy weather</b>\r\nStand of Weather Report\n Interact with front hand while pointing at something to strike it with lightning, interact with back hand to give the person pointed at a cloud suit.\n Activate chest to concentrate oxygen in a nearby area, suffocating anyone in it.\n Activate head to start making it rain dart frogs.\n Shoots out rainbows automatically that bounce around and turn anything they hit into a snail, making them slower and weaker.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>天气预报：狂暴天气</b>\r\n天气预报的替身\n 前手指向某物时可释放闪电击中它，后手互动可给予指向的人一套云衣. \n 激活胸部可在附近区域浓缩氧气，使区域内的人窒息. \n 激活头部可开始下飞镖蛙雨. \n 自动射出彩虹，彩虹会弹跳并将击中的任何物体变成蜗牛，使其变慢变弱. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>the hand requiem</b>\r\nStand of Okuyasu\n Touch someone with back hand to send them to a Different Dimension\n Interact with front hand to teleport to the Different Dimension.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>轰炸空间镇魂曲</b>\r\n亿泰的替身\n 用后手触碰某人可将其送入异次元\n 与前手互动可传送到异次元
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>d4c</b>\r\nStand of Valentine\n Interact with chest to travel to an alternate universe\n Interact with hands whilst pointing at someone to summon a clone of them that will explode in 10 seconds.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>D4C</b>\r\n瓦伦泰的替身\n 与胸部互动可前往平行世界\n 指向某人时与手部互动可召唤其克隆体，克隆体将在10秒后爆炸
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>d4c: love train</b>\r\nStand of Valentine\nInteract with head to toggle Love Train, repulsing anything that tries to enter it and sends any damage taken to the user to the nearest person.\n Interact with chest to travel to an alternate universe\n Interact with hands whilst pointing at someone to summon a clone of them that will explode in 10 seconds.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>D4C：爱之列车</b>\r\n瓦伦泰的替身\n 与头部互动可开关“爱之列车”，排斥任何试图进入的事物，并将使用者受到的伤害转移到最近的人身上. \n 与胸部互动可前往平行世界\n 指向某人时与手部互动可召唤其克隆体，克隆体将在10秒后爆炸
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>c-moon</b>\r\nStand of Pucci\n Interact with head to rotate the map and gravty direction by 90 degrees\n Interact with chest to create a gravitational field the repells anything that gets close\n Interact with hans and touch someone to set a gravity punch, and interact with the hand again to set it off.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>C-MOON</b>\r\n普奇的替身\n 与头部互动可将地图和重力方向旋转90度\n 与胸部互动可产生一个排斥任何靠近物体的重力场\n 用手触碰某人可设置重力拳，再次与该手互动可触发
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>c-moon requiem</b>\r\nStand of Pucci\n Interact with chest to summon a gravity dome, anything inside the gravity dome can be moved by pointing at it and activating the hand to move it. Activating the head in the gravity dome will release gravity for a few seconds, and using a barrage in the gravity dome will make it lock onto the nearest person. Outside the gravity dome, activating the head will rotate the map 180 degrees, and punching something will knock it back farther and apply skin damage to it.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>C-MOON镇魂曲</b>\r\n普奇的替身\n 与胸部互动可召唤重力穹顶，穹顶内的任何物体可通过指向并激活手部来移动. 在穹顶内激活头部会释放重力几秒钟，在穹顶内使用连打会锁定最近的人. 在穹顶外，激活头部可将地图旋转180度，拳击物体会将其击退更远并造成皮肤损伤. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>silver chariot</b>\r\nStand of Polnareff\n Interact with rapier to make it shoot off\nActivate chest to take off armour, while the armour is off activating the chest again will make afterimages of the stand, and using a barrage will result in a faster and stronger sword barrage.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>银色战车</b>\r\n波鲁那雷夫的替身\n 与刺剑互动可将其射出\n 激活胸部可卸下盔甲，盔甲卸下时再次激活胸部会产生替身的残影，使用连打会触发更快更强的剑连击. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>green baby</b>\r\nMakes worthy stands one step closer to achieving Heaven.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>绿色婴孩</b>\r\n使有资格的替身离达成天堂更近一步
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>johnny</b>\r\n'It's truly, truly been a very long roundabout path'\n Interact with chest to spawn Tusk\n hold down hands to charge spin\n re-interact with the hands to shoot nail shots. Activate head to toggle Dark Determination.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>乔尼</b>\r\n“真的，真的是一条非常漫长的迂回之路”\n 与胸部互动可召唤“牙”\n 长按手部可充能旋转\n 再次与手部互动可发射指甲射击. 激活头部可开关“漆黑意志”. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>okuyasu</b>\r\nOI JOSUKE!'\n Interact with chest to spawn The Hand.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>亿泰</b>\r\n“喂，仗助！”\n 与胸部互动可召唤“轰炸空间”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>valentine</b>\r\n'Power! Glory! Happiness! Culture! Law! Money! Food! The hearts of people! I have taken the first napkin!'\n Interact with chest to spawn D4C.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>瓦伦泰</b>\r\n“力量！荣耀！幸福！文化！法律！金钱！食物！人们的心！我已经拿走了第一张餐巾！”\n 与胸部互动可召唤“D4C”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>sticky fingers</b>\r\nStand of Bruno\n Interact with hands whilst pointing at an object to create a portal, and use it on another object to link the two portals together.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>钢链手指</b>\r\n布加拉提的替身\n 指向物体时与手部互动可创建一个传送门，在另一物体上使用可连接两个传送门
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>bruno</b>\r\n'Arrivederci!'\n Interact with chest to spawn Sticky Fingers.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>布加拉提</b>\r\n“再见啦！”\n 与胸部互动可召唤“钢链手指”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>polnareff</b>\r\n'I'm gonna turn you into a pincushion!!'\n Interact with chest to spawn Silver Chariot.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>波鲁那雷夫</b>\r\n“我要把你扎成针垫！！”\n 与胸部互动可召唤“银色战车”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>weather report (user)</b>\r\n'I'm going to be the one to kill Pucci'\n Interact with chest to spawn Weather Report.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>天气预报（使用者）</b>\r\n“我将是杀死普奇的人”\n 与胸部互动可召唤“天气预报”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>hol horse</b>\r\n'Why be number one when you can be number two?'\n Interact with hand to spawn Emperor\n Interact with back hand whilst pointing at someone to set a target on them\n interact with Emperor whilst a target is set to shoot a homing shot that will hit the target.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>荷尔·荷斯</b>\r\n“能做第二，何必做第一？”\n 与手部互动可召唤“皇帝”\n 指向某人时与后手互动可设置目标\n 在目标设置时与“皇帝”互动可发射制导射击，击中目标
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>joseph</b>\r\n'OH, NO!'\n Interact Hands to summon Hermit Purple\n Interact with head to Charge Hamon\n Interact with middle body to Heal Wounds(3 hamon)\n Interact with hermit purple whilst hamon is charged to imbue the vine with hamon(1 hamon)\n Interact with chest whilst hamon is charged to imbue the protective vines with hamon(2 hamon)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>约瑟夫</b>\r\n“哦，不！”\n 与手部互动可召唤“隐者之紫”\n 与头部互动可为波纹充能\n 与中部身体互动可疗伤（3波纹）\n 在波纹充能时与“隐者之紫”互动可为藤蔓注入波纹（1波纹）\n 在波纹充能时与胸部互动可为保护藤蔓注入波纹（2波纹）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>will</b>\r\n'Courage is knowing fear and making that fear your own!'\n Interact with head to Charge Hamon\n Interact hands to use Zoom Punch(3 hamon)\n Interact chest to use Sunlight Yellow Overdrive(5 hamon)\n Interact middle body to Heal Wounds(3 hamon)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>威尔</b>\r\n“勇气是认识恐惧并将其化为己有！”\n 与头部互动可为波纹充能\n 与手部互动可使用“波纹疾走”（3波纹）\n 与胸部互动可使用“山吹色波纹疾走”（5波纹）\n 与中部身体互动可疗伤（3波纹）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>caesar</b>\r\n'Let me show you the fruits of my training!'\n Interact with head to Charge Hamon\n interact with hands to shoot bubbles(1 hamon) whilst hamon is charged, any attacker who touches him will be trapped in a bubble(2 hamon)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>西撒</b>\r\n“让你看看我训练的成果！”\n 与头部互动可为波纹充能\n 在波纹充能时与手部互动可发射气泡（1波纹），任何碰到他的攻击者都会被囚禁在气泡中（2波纹）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>young joseph</b>\r\n'Your next line is...'\n Interact with head to Charge Hamon\n Interact with hands to use Zoom Punch(3 hamon)\n Interact with chest to use Sunlight Yellow Overdrive(5 hamon)\n Interact with middle body to Heal Wounds(3 hamon)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>年轻约瑟夫</b>\r\n“你接下来要说的是…”\n 与头部互动可为波纹充能\n 与手部互动可使用“波纹疾走”（3波纹）\n 与胸部互动可使用“山吹色波纹疾走”（5波纹）\n 与中部身体互动可疗伤（3波纹）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>dire</b>\r\n'I, Dire, will sink you into the depths of Hell!'\nInteract with head to Charge Hamon\n Interact with hands to use Zoom Punch(3 hamon)\n Interact with chest to use Sunlight Yellow Overdrive(5 hamon)\n Interact with middle body to Heal Wounds(3 hamon)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>戴亚</b>\r\n“我，戴亚，会将你沉入地狱深处！”\n 与头部互动可为波纹充能\n 与手部互动可使用“波纹疾走”（3波纹）\n 与胸部互动可使用“山吹色波纹疾走”（5波纹）\n 与中部身体互动可疗伤（3波纹）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>jodio</b>\r\n'I'm becoming rich no matter what it takes! '\n Interact with chest to spawn November Rain.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>乔迪奥</b>\r\n“无论付出什么代价，我都要变得富有！”\n 与胸部互动可召唤“十一月雨”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>november rain</b>\r\nStand of Jodio\nActivate body to start making it rain heavy rain drops.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>十一月雨</b>\r\n乔迪奥的替身\n 激活身体可开始下暴雨雨滴
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>joseph (jojolion)</b>\r\n'All the living things I know, aren’t as hard or dry as that! '\n Interact with chest to spawn Hermit Purple (Jojolion)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>约瑟夫（乔乔福音）</b>\r\n“我所知道的生物，都没有那么坚硬或干燥！”\n 与胸部互动可召唤“隐者之紫（乔乔福音）”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>jonathan</b>\r\n'My heart resonates... Heat enough to burn... My blood is razor sharp! SUNLIGHT YELLOW OVERDRIVE!\nInteract with head to Charge Hamon\n Interact with hands to use Zoom Punch(3 hamon)\n Interact with chest to use Sunlight Yellow Overdrive(5 hamon)\n Interact with middle body to Heal Wounds(3 hamon)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>乔纳森</b>\r\n“我的心在共鸣…灼热到燃烧…我的血液如剃刀般锋利！山吹色波纹疾走！”\n 与头部互动可为波纹充能\n 与手部互动可使用“波纹疾走”（3波纹）\n 与胸部互动可使用“山吹色波纹疾走”（5波纹）\n 与中部身体互动可疗伤（3波纹）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>young jonathan</b>\r\n'I can afford to lose a few fingers. I'm fighting to protect my family! That's far more than you can say!'=<b><color%3D#d9caf2>GJMR <color%3Dwhite>年轻乔纳森</b>\r\n“我可以失去几根手指. 我在为保护家人而战！这比你所能说的要重要得多！”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>ringo</b>\r\n'Welcome...to a real man's world...?'\n Interact with chest to spawn Mandom.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>林戈</b>\r\n“欢迎…来到真正的男人的世界…？”\n 与胸部互动可召唤“Mandom”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>mista</b>\r\n'We'll end it right here, right now. Time to bust a cap in his mouth!'\n Interact with hand to spawn Sex Pistols\n Interact with back hand whilst pointing at someone to set a target on them\n interact with Sex Pistols whilst a target is set to shoot a homing shot that will hit the target.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>米斯达</b>\r\n“我们就在这儿，就在此刻结束. 该往他嘴里来一枪了！”\n 与手部互动可召唤“性手枪”\n 指向某人时与后手互动可设置目标\n 在目标设置时与“性手枪”互动可发射制导射击，击中目标
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>magent</b>\r\n'Once I decide to take revenge, I always take revenge.'\n Interact with chest to spawn 20th Century Boy.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>马杰特</b>\r\n“一旦我决定复仇，我就一定会复仇. ”\n 与胸部互动可召唤“20世纪少年”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>silver chariot requiem</b>\r\nStand of Polnareff\nActivate chest to swap the souls of anyone near the stand.\nAny barrages that hit the stand will be deflected.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>银色战车镇魂曲</b>\r\n波鲁那雷夫的替身\n 激活胸部可交换替身附近所有人的灵魂. \n 任何击中替身的连击都会被弹开. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>foo fighters (stand)</b>\r\nCan turn others into a host of FF by touching a dead body with its hands and activating them.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>F.F（替身）</b>\r\n用手触碰尸体并激活，可将他人转变为F.F的宿主. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>gyro</b>\r\n'Nyo-ho ho ho'\n hold down hands to charge spin\n re-interact with the hands to shoot the steel ball. Activate head to toggle Dark Determination.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>杰洛</b>\r\n“咻吼吼吼”\n 长按手部可充能旋转\n 再次与手部互动可发射铁球. 激活头部可开关“漆黑意志”. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>ghostgyro</b>\r\n'Nyo-ho ho ho'\n hold down hands to charge spin\n re-interact with the hands to shoot the steel ball.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>幽灵杰洛</b>\r\n“咻吼吼吼”\n 长按手部可充能旋转\n 再次与手部互动可发射铁球
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>wekapipo</b>\r\n'One step! It seems that I am one step ahead of you.'\n hold down hands to charge spin\n re-interact with the hands to shoot the steel ball.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>韦卡皮波</b>\r\n“一步！看来我领先你一步. ”\n 长按手部可充能旋转\n 再次与手部互动可发射铁球
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>chaka</b>\r\n'And now, I think I'll cut you in half too.'\n Interact with hands to spawn Anubis.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>查卡</b>\r\n“现在，我想我也要把你切成两半. ”\n 与手部互动可召唤“阿努比斯”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>koichi</b>\r\n'In case you're wondering, my name is Koichi Hirose'\n Interact with chest to spawn Echoes.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>康一</b>\r\n“如果你想知道的话，我叫广濑康一”\n 与胸部互动可召唤“回音”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>echoes act 3</b>\r\nStand Of Koichi\n Anything echoes touches has a massive increase in downwards pressure, that weakens the funther away echoes is from the target\n you can remove the pressure by interacting with the hand that touched the target.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>回音 Act 3</b>\r\n康一的替身\n 回音触碰的任何物体都会受到巨大的向下的压力，回音距离目标越远，压力越弱\n 与被触碰的手互动可移除压力
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>echoes act 2</b>\r\nStand Of Koichi\n Open the context menu in its tail to select a sound effect to shoot out, and activate the tail to shoot the sound effect that will apply its effect to whatever it hits. \n Activate its body to evolve into Act 3.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>回音 Act 2</b>\r\n康一的替身\n 在尾巴上打开上下文菜单选择要射出的音效，激活尾巴即可射出该音效，对击中的物体施加效果. \n 激活身体可进化为Act 3. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>echoes</b>\r\nStand Of Koichi\n Can evolve into Act 2 by activating its body.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>回音</b>\r\n康一的替身\n 激活身体可进化为Act 2. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>heavens door</b>\r\nStand of Rohan\n Interact with hands whilst touching someones head to make them turn into a book\n In the context menu of the book, you can type in commands that will happen to the victim when their book is returned to their head.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>天堂之门</b>\r\n岸边露伴的替身\n 手部触碰某人的头部时互动可将其变成一本书\n 在该书的上下文菜单中，你可以输入命令，当书被放回受害者头部时，命令就会生效. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>ball breaker</b>\r\nRotation Energy\nActivate hands to launch a perfect Steel Ball\nIgnores Love Train's Barriers.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>球破碎者</b>\r\n旋转能量\n 激活双手可发射完美的铁球\n 无视“爱之列车”的屏障
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>purple haze</b>\r\nStand of Fugo\nPunch something with its hands to break a capsule on it, and activate hands to automatically break a capsule, affecting anyone within the range with a deadly virus.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>紫烟</b>\r\n福葛的替身\n 用手拳击物体可打破其上的胶囊，激活双手可自动打破胶囊，影响范围内所有人，使其感染致命病毒. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>purple haze distortion</b>\r\nEvolved Stand of Fugo\nPunch something with its front hand to break a capsule on it, and activate its front hand to automatically break a capsule, affecting anyone within the range with a deadlier virus.\nActivate back hand to shoot out capsules.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>紫烟·扭曲</b>\r\n福葛的进化替身\n 用前手拳击物体可打破其上的胶囊，激活前手可自动打破胶囊，影响范围内所有人，使其感染更致命的病毒. \n 激活后手可射出胶囊. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>the world requiem</b>\r\nStand of Dio\n Interact with chest to stop time\n interact with front hand to shoot a knife that will freeze in midair 2 seconds after being fired\n Press r when the knife is frozen to make it shoot wherever the mouse is pointing.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>世界镇魂曲</b>\r\n迪奥的替身\n 与胸部互动可停止时间\n 与前手互动可射出飞刀，飞刀会在射出2秒后冻结在半空中\n 飞刀冻结时按R键可使其向鼠标指向的方向射出
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>star platinum requiem</b>\r\nStand of Jotaro\n Interact with chest to create a time bubble, which has 4 different modes.\nActivate front hand to switch between modes, and activate head to use the modes (except the first one which uses the back hand)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>白金之星镇魂曲</b>\r\n承太郎的替身\n 与胸部互动可创造一个时间气泡，有4种不同模式. \n 激活前手可切换模式，激活头部可使用模式（第一种模式使用后手）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>jotaro</b>\r\n'Yare Yare Daze'\n Interact with chest to spawn Star Platinum.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>承太郎</b>\r\n“真是够了”\n 与胸部互动可召唤“白金之星”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>jotaro (part 4)</b>\r\n'You truly are a reliable guy'\n Interact with chest to spawn Star Platinum: The World.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>承太郎（第四部）</b>\r\n“你真是个可靠的人”\n 与胸部互动可召唤“白金之星：世界”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>jotaro (part 6)</b>\r\n' '\n Interact with chest to spawn Star Platinum (part 6)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>承太郎（第六部）</b>\r\n“ ”\n 与胸部互动可召唤“白金之星（第六部）”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>prosciutto</b>\r\n'When we truly think “I'll kill you!” from the bottom of our hearts … by that time, our target's already dead and the deed has already been done!'\n Interact with chest to spawn The Grateful Dead.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>普罗修特</b>\r\n“当我们从心底真正想着‘我要杀了你！’时……到那时，我们的目标已经死了，事情已经完成了！”\n 与胸部互动可召唤“壮烈成仁”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>the grateful dead</b>\r\nStand of Prosciutto\n Touch something and activate its hands to rapidly age it (the user can also use this power)\nActivate its chest to make anything nearby age, aging is relitave to the persons temperature.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>壮烈成仁</b>\r\n普罗修特的替身\n 触碰某物并激活双手可使其迅速老化（使用者也可使用此能力）\n 激活胸部可使附近任何物体老化，老化速度与人的温度有关
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>lisa</b>\r\n'I'm not teaching you the Ripple to save your life. I'm teaching you to become warriors'\n Interact with head to Charge Hamon\n Interact with hands to use Zoom Punch(3 hamon)\n Interact with chest to use Sunlight Yellow Overdrive(5 hamon)\n Interact with middle body to Heal Wounds(3 hamon)=<b><color%3D#d9caf2>GJMR <color%3Dwhite>丽莎</b>\r\n“我教你波纹不是为了救你的命. 我是为了让你成为战士. ”\n 与头部互动可为波纹充能\n 与手部互动可使用“波纹疾走”（3波纹）\n 与胸部互动可使用“山吹色波纹疾走”（5波纹）\n 与中部身体互动可疗伤（3波纹）
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>doppio</b>\r\n'Tururururururu'\n Interact with head to erase time\n Interact with arms to use King Crimsons arms\nInteract with chest to turn into Diavolo.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>多比欧</b>\r\n“嘟噜噜噜噜噜”\n 与头部互动可消除时间\n 与手臂互动可使用绯红之王的手臂\n 与胸部互动可变身为迪亚波罗
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>kars</b>\r\n'Do you not wish to conquer the sun?! Do you not wish to rule over all? Do you not wish to be afraid of nothing?!'\n Activate hands to use the Brilliant Bone Blade.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>卡兹</b>\r\n“你不想征服太阳吗？！你不想统治一切吗？！你不想无所畏惧吗？！”\n 激活双手可使用“辉彩骨刃”. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>esidisi</b>\r\n'Men with a look like that in their eyes die quickly when they run into me.'\nActivate head to enter Flame Mode, while in flame mode punching anything will transfer heat to them and activating his hands will fire his own blood vesels, which will heat up whatever they hit.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>艾斯迪斯</b>\r\n“眼里有那种神情的男人，遇到我都会死得很快. ”\n 激活头部可进入火焰模式，在火焰模式下拳击任何物体会将热量转移给对方，激活双手会射出自己的血管，血管击中物体会使其升温. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>wamuu</b>\r\n'I have no regrets... from the bottom of my heart, I am grateful to have witnessed your growth.'\nActivate head to shoot the Atmospheric Rift.\nPoint at something with hands and use them to use the Divine Sandstorm.\nActivate chest to use the Wind Suit move.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>瓦姆乌</b>\r\n“我无悔…从心底感谢能见证你的成长. ”\n 激活头部可发射“大气裂空”\n 用手触碰某物并激活可使用“神砂岚”\n 激活胸部可使用“风之衣”招式. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>josuke (jojolion)</b>\r\n'Who the hell am I?'\n Interact with chest to spawn Soft & Wet.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>定助（乔乔福音）</b>\r\n“我到底是谁？”\n 与胸部互动可召唤“软又湿”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>josefumi</b>\r\n'If I can be even a little help to Holy...... That's my precious image of happiness.'\n Interact with chest to spawn Soft & Wet.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>乔瑟夫米</b>\r\n“如果我能对荷莉有一点帮助……那是我珍贵的幸福画面. ”\n 与胸部互动可召唤“软又湿”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>fugo</b>\r\n'You stupid delinquent! Are you messing with me!?'\n Interact with chest to spawn Purple Haze.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>福葛</b>\r\n“你这蠢货！你在耍我吗？！”\n 与胸部互动可召唤“紫烟”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>narancia</b>\r\n'If I can't find your breath all because the fire's too big... then I'll just have to make it bigger!'\n Interact with chest to spawn Aerosmith.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>纳兰迦</b>\r\n“如果因为火太大而找不到你的气息…那我就把火弄更大！”\n 与胸部互动可召唤“航空史密斯”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>abbacchio</b>\r\n'I'll use my Stand to solve the mystery!'\n Interact with chest to spawn Moody Blues.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>阿帕基</b>\r\n“我会用我的替身解开谜团！”\n 与胸部互动可召唤“忧郁蓝调”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>rohan</b>\r\n'I refuse.'\n Interact with chest to spawn Heaven's Door.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>岸边露伴</b>\r\n“我拒绝. ”\n 与胸部互动可召唤“天堂之门”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>mikitaka</b>\r\n'Alien? Yes, that is the term. I'm an Alien!'\n Open the context menu on Mikitaka to be able to make him transform into any object.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>美吉多</b>\r\n“外星人？没错，就是这么叫的. 我就是外星人！”\n 在美吉多身上打开上下文菜单，可以让他变成任何物体. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>made in heaven</b>\r\nStand of Pucci\n interact with chest to gradually accelerate time.\nAt the peak of Time Acceleration, activating MIH's glowing head will reset the universe.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>天堂制造</b>\r\n普奇的替身\n 与胸部互动可逐渐加速时间. \n 在时间加速达到顶峰时，激活天堂制造发光的头部将重置宇宙. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>diver down</b>\r\nStand of Anasui\nInteract with head to be able to enter in and out of objects.\nPoint at someone with the back hand and activate it to put Diver Down inside of them, granting them more protection.\nPunch an object with the front hand to store a barrage in it and activate the front hand to unleash all stored barrages.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>潜行者</b>\r\n安纳苏的替身\n 与头部互动可进入或离开物体. \n 用后手指向某人并激活，可将“潜行者”放入其体内，给予更多保护. \n 用前手拳击物体可将连击存储在其中，激活前手可释放所有存储的连击. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>moody blues</b>\r\nStand of Abbachio\nPoint at an object and activate its hands to transform into that object temporarily.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>忧郁蓝调</b>\r\n阿帕基的替身\n 指向物体并激活双手可暂时变身为该物体. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>risotto</b>\r\n'I can't wait to see the look on your face as you die! I win! I'll send your head flying!'\n Interact with chest to summon Metallica.\nWhile the stand is active, pointing at someone and activating the front hand will draw blood from them and increase the iron metre.\nActivating the head will make the user invisible, activating the back hand while not pointing at a limb will create throwable scissors, and activating the back hand while pointing at a limb will create razors inside of the limb.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>里苏特</b>\r\n“我等不及看你死时的表情了！我赢了！我要让你的头飞起来！”\n 与胸部互动可召唤“金属制品”. \n 替身激活时，指向某人并激活前手可吸取他们的血液并增加铁量条. \n 激活头部可使使用者隐形，不指向肢体时激活后手可制造可投掷剪刀，指向肢体时激活后手可在该肢体内制造刀片. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>cioccolata</b>\r\n'Show me your despair as you fall!'\n Interact with chest to spawn Green Day.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>乔克拉特</b>\r\n“让我看看你坠落时的绝望吧！”\n 与胸部互动可召唤“青春岁月”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>green day</b>\r\nStand of Cioccolata\n Activate chest to toggle it's ability, displaying numbers above everybodys head indicating their current height. The lower the height, the more damage their skin will take, and if they are above Green Day, their skin will start to heal.\nActivate the head of the user to fill their wounds with mold.\nActivate the hands of the user to launch them off like a boomerang, stabbing anything on it's way back.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>青春岁月</b>\r\n乔克拉特的替身\n 激活胸部可开关能力，每个人头顶会显示数字表示当前高度. 高度越低，皮肤受到的伤害越大，如果高于青春岁月，皮肤会开始愈合. \n 激活使用者的头部可用霉菌填满伤口. \n 激活使用者的双手可将其像回旋镖一样发射出去，在返回途中刺穿任何物体. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>jesus</b>\r\nEvolves users of Tusk Act 2 into Tusk Act 3 by touching their chest.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>耶稣</b>\r\n通过触碰使用者胸部，可将牙Act 2使用者进化为牙Act 3. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>kiss</b>\r\nStand of Ermes\nPunch an object and activate its hands to place a sticker on the object, making a duplicate of it. Activate the same hand again to send the objects flying together, making an explosion when they hit eachother.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>吻</b>\r\n艾梅斯的替身\n 拳击物体并激活双手可在物体上放置贴纸，制造一个复制品. 再次激活同一只手可使两个物体飞向彼此，碰撞时发生爆炸. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>blackmore</b>\r\n'All of you will repent for your collective sins! All of you, in the other world.\n Interact with chest to summon Catch The Rainbow\nWhile the stand is active, activating his lower legs will allow him to walk on rain, activating his back hand will fire rain barriers, activating his front hand will fire rain shards and activating his head will entangle him in the rain.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>布莱克摩尔</b>\r\n“你们所有人都要为集体的罪孽忏悔！你们所有人，在另一个世界. ”\n 与胸部互动可召唤“抓住彩虹”\n 替身激活时，激活他的小腿可让他在雨上行走，激活后手可发射雨屏障，激活前手可发射雨刃，激活头部可让他被雨缠绕. 
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>ghiaccio</b>\r\n'You know Paris, France? In English they pronounce it 'Pari-IS', but everyone else pronounces it as the French do, without the S. But with Venezia, everybody pronounces it the English way, 'Ven-ICE'. There's 'The Merchant of Venice', 'Death in Venice'... WHY, though? Why isn't the title 'The Merchant of Venezia'? Are you shitting me? This takes place in Italy, so use the Italian name, dammit! That shit pisses me off! Bunch of dumbasses!'\n interact with chest to summon White Album.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>加丘</b>\r\n“你知道法国巴黎吗？英语里他们发音‘帕里-IS’，但其他人都像法语一样不发S. 可对于威尼斯，大家都用英语发音‘维尼-ICE’. 有‘威尼斯商人’、‘威尼斯之死’…为什么？为什么不是‘维尼-兹亚商人’？你他妈在逗我吗？这故事发生在意大利，所以就该用意大利语名称，该死！这破事儿气死我了！一群蠢货！”\n 与胸部互动可召唤“白色专辑”
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>white album</b>\r\nStand of Ghiaccio\n When summoned, =<b><color%3D#d9caf2>GJMR <color%3Dwhite>白色专辑</b>\r\n加丘的替身\n 召唤时，
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>secco</b>\r\n'You're nothing to me now that you've lost!'\nSpawns with oasis activated. Activating the head while the stand is active will let Secco dive into the ground.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>赛可</b>\r\n“你现在输了，对我来说什么都不是！”\n 生成
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>donatello</b>\r\n'I can't die here! I have a right to be happy!'\r\n Interact with chest to spawn Underworld.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>多纳泰罗</b>\r\n'我不能死在这里！我有权获得幸福！'\r\n 与胸部互动以生成冥界
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>emporio</b>\r\n'My name... My name is Emporio.'=<b><color%3D#d9caf2>GJMR <color%3Dwhite>安波里欧</b>\r\n'我的名字...我的名字是安波里欧.'
+
+<b><color%3D#d9caf2>GJMR <color%3Dwhite>ermes</b>\r\n'Revenge is for settling a score with your own fate!'\n interact with chest to summon Kiss.=<b><color%3D#d9caf2>GJMR <color%3Dwhite>埃尔梅斯</b>\r\n“复仇是为了与自己的命运清算！”\n 与胸部互动以召唤亲吻
+
+
+
+
+
+
+//物品
+<b>requiem arrow</b>\r\nEvolves worthy stands.=<b>镇魂箭</b>\r\n进化有资格的替身
+
+<b>golden rectangle</b>\r\nEvolves Tusk Act 1 into Act 2, Soft And Wet into Soft And Wet: Go Beyond and is 1 of the items needed to evolve Tusk Act 3 into Act 4.=<b>黄金矩形</b>\r\n将牙Act 1进化为Act 2，软又湿进化为软又湿：超越，并且是将牙Act 3进化为Act 4所需的物品之一. 
+
+<b>saints corpse eye</b>\r\nGrants spin users SCAN and grants non spin users Dark Determination by inserting it into their head.=<b>圣者遗体眼球</b>\r\n赐予旋转使用者“SCAN”，并通过将其插入头部赐予非旋转使用者“漆黑意志”. 
+
+<b>saints corpse heart</b>\r\nEvolves D4C into D4C: Love Train by inserting it into the users chest, and is 1 of the needed items to evolve Tusk: Act 3 into Act 4.=<b>圣者遗体心脏</b>\r\n通过将其插入使用者胸部将D4C进化为D4C：爱之列车，并且是将牙Act 3进化为Act 4所需的物品之一. 
+
+<b>locacaca</b>\r\nAfter hitting 2 stand users, activating the fruit will create a fusion of both the humans and stands. Works with anyone who has a stand!=<b>洛卡卡卡</b>\r\n击中2个替身使用者后，激活果实将融合两个人及其替身. 适用于任何拥有替身的人！
+
+<b>stone mask</b>\r\nMakes the wearer become a vampire.=<b>石鬼面</b>\r\n使佩戴者成为吸血鬼
+
+<b>Global Aura Modifier</b>\r\nModifies auras from the Generic Jojo Mod Remastered mod.=<b>全局气场修改器</b>\r\n修改来自Generic Jojo Mod Remastered模组的光环
+
+<b>red stone of aja</b>\r\nNeeds to be inserted into the Pillarmen Mask for it to function.=<b>艾哲红石</b>\r\n需要插入柱之男面具才能发挥功能. 
+
+<b>water cup</b>\r\nCan be inserted into a pool of water and then given to a host of FF to heal them.=<b>水杯</b>\r\n可以插入水池中，然后交给F.F的宿主以治疗他们. 
+
+<b>pillarmen mask</b>\r\nWill turn the user of it into the Ultimate Lifeform. Requires the Red Stone of Aja to function.=<b>柱之男面具</b>\r\n将使用者变成究极生物. 需要艾哲红石才能发挥功能. 
+
+<b>stand disc</b>\r\nCan store stands.=<b>替身光碟</b>\r\n可以存储替身
+
+<b>dios diary</b>\r\nMakes worthy stands achieve Heaven by having the user hold it and using the book.=<b>迪奥的日记</b>\r\n使用者持有并使用该书，可使有资格的替身达成天堂
+
+<b>caesars headband</b>\r\nMakes the wearer learn Bubble Hamon.=<b>西撒的头带</b>\r\n使佩戴者学会泡沫波纹
+
+<b>gyros hat</b>\r\nMakes the wearer learn Gyro's Spin.=<b>杰洛的帽子</b>\r\n使佩戴者学会杰洛的旋转
+
+<b>mikitakas hair</b>\r\nMakes the wearer become an Alien.=<b>美吉多的头发</b>\r\n使佩戴者变成外星人
+
+<b>johnnys hat</b>\r\nMakes the wearer learn Nail Spin.=<b>乔尼的帽子</b>\r\n使佩戴者学会指甲旋转
+
+<b>zeppelis hat</b>\r\nMakes the wearer learn Ripple Hamon.=<b>齐贝林的帽子</b>\r\n使佩戴者学会波纹呼吸法
+
+<b>stand arrow</b>\r\nGives the person a random stand if they are worthy (stand can be changed in the context menu)=<b>替身箭</b>\r\n如果有资格，给予随机替身（替身可在上下文菜单中更改）
+
+<b>bow and arrow</b>\r\nShoots stand arrows, has to be loaded.=<b>弓与箭</b>\r\n射出替身箭，需要装填
+
+<b>anubis</b>\r\nWhen picked up by a person, they become the user of Anubis\n move quickly with Anubis and hit someone to dismember the victim's limbs.=<b>阿努比斯</b>\r\n当被人拾起时，他们成为阿努比斯的使用者\n 使用阿努比斯快速移动并击中某人可切断受害者的肢体
+
+<b>dios bone</b>\r\nIf healed, will become Green Baby.=<b>迪奥的遗骨</b>\r\n如果被治疗，将变成绿色婴孩
+
+<b>hermitarmour</b>\r\nshe needs him.=<b>隐者铠甲</b>\r\n她需要他
+
+<b>electrcc</b>\r\nshe needs him.=<b>电气</b>\r\n她需要他
+
+<b>aerosmith</b>\r\nStand of Narancia\n Use to shoot.=<b>航空史密斯</b>\r\n纳兰迦的替身\n 用于射击
+
+<b>tusk: act 1</b>\r\nStand of Johnny.\nBoosts nail spin. Can be evolved into Act 2 by putting the Golden Rectangle into the users chest.=<b>牙：Act 1</b>\r\n乔尼的替身. \n 增强指甲旋转. 将黄金矩形放入使用者胸部可进化为Act 2
+
+<b>tusk: act 2</b>\r\nStand of Johnny\nBoosts nail spin. Can be evolved into Act 3 by touching Jesus' hands to the users chest.=<b>牙：Act 2</b>\r\n乔尼的替身\n 增强指甲旋转. 用耶稣的手触碰使用者胸部可进化为Act 3
+
+<b>jesusvideo</b>\r\n =<b>耶稣影像</b>\r\n 
+
+<b>heavenvideo</b>\r\n =<b>天堂影像</b>\r\n 
+
+<b>wouvideo</b>\r\n =<b>WOU影像</b>\r\n 
+
+<b>flag</b>\r\n =<b>旗帜</b>\r\n 
+
+<b>emperor</b>\r\n =<b>皇帝</b>\r\n 
+
+<b>sex pistols</b>\r\n =<b>性感手枪</b>\r\n 
+
+<b>hermitpurple</b>\r\n =<b>隐者之紫</b>\r\n 
+
+<b>anubis2</b>\r\n =<b>阿努比斯2</b>\r\n 
+
+<b>twrknife</b>\r\n =<b>世界镇魂曲飞刀</b>\r\n 
+
+<b>otwrknife</b>\r\n =<b>超越天堂世界飞刀</b>\r\n 

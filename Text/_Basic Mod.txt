@@ -1,0 +1,762 @@
+//TF_RC汉化
+//顾名思义, 这里放的都是什么战争包,人物包,枪械包, 内容大多是普通物品且基本没特殊功能, 简单说就是模版量产模组
+
+
+//1*设施模组 2
+//==============================================================
+// Facility Mod 2 - 简体中文翻译
+//==============================================================
+<size%3D1.5em>Facility Mod 2</size>\nFacility Mod 2, Adds 2 Factions, Blastov Mechanical and Nemestorm.\r\n\r\nContaining Personnel, Armor, Guns, Props and Even Anomalies (literally SCP).\r\n\r\nBlastov Mechanical is a Secretive Corporation, While What They Do can be Considered Wrong\r\nby Others, Some Know that Theyre the Ones Keeping Anomalies Away from the Public, Literally\r\nSCP.\r\n\r\nNemestorm is a Terrorist Group Opposing Blastov Mechanical, Comprised Mostly of Ex-Blastov Mechanical\r\nPersonnel, Terrorists, Hired Mercenaries and Others, Their Goal is to Destroy Blastov Mechanical\r\nAnd Probably Free the Anomalies, Afterall Theyre Terrorists.=<size%3D1.5em>设施模组 2</size>\n设施模组 2，添加了2个阵营：Blastov Mechanical 和 Nemestorm.\r\n\r\n包含人员、护甲、枪械、道具，甚至异常实体（完全是SCP风格）.\r\n\r\nBlastov Mechanical 是一家秘密企业，虽然他们的行为可能会被他人视为错误，但有些人知道，他们正是将异常实体远离公众的那些人，完全是SCP风格.\r\n\r\nNemestorm 是一个反对 Blastov Mechanical 的恐怖组织，主要由前 Blastov Mechanical 人员、恐怖分子、雇佣兵及其他人员组成，他们的目标是摧毁 Blastov Mechanical，并可能释放那些异常实体——毕竟，他们是恐怖分子.
+Prepare thyself.=做好准备吧. 
+//==============================================================
+// 分类
+//==============================================================
+Facility Mod 2=设施模组 2
+Blastov ''Mechanical''=Blastov “机械”
+
+//==============================================================
+// 人员 - Blastov Mechanical (囚犯/受试者)
+//==============================================================
+<b>FM2 - Subject</b>\r\nA Test Subject of Blastov Mechanical, Or a Prisoner or Whatever You Call Them, They are Either Inmates Which were Meant to go on the Death Row, Or Employees that Tried to Sabotage or in Other Means Do Anything Against Blastov Mechanical, Literally Class-D.=<b>FM2 - 受试者</b>\r\nBlastov机械的一名受试者，或者说是囚犯，随你怎么称呼. 他们要么是应该上死囚区的囚犯，要么是试图破坏或以其他方式做出任何对Blastov机械不利行为的员工，基本上就是D级人员.
+
+<b>FM2 - Expendable Subject</b>\r\nA Basicly the Same as a Normal Subject, Just Wearing Less Technological or Whatever Clothing.=<b>FM2 - 消耗型受试者</b>\r\n基本上和普通受试者一样，只是穿着更少科技感或随便什么衣服.
+
+//==============================================================
+// 人员 - 科学家
+//==============================================================
+<b>FM2 - Scientist</b>\r\nA Scientist of Blastov Mechanical, Researches Things, and Does Other 'Sciencific' Things, Basicly What Keeps Blastov Mechanical In Business. \n\n''Your Argument Has No Science Nor Research To Back It Up.''=<b>FM2 - 科学家</b>\r\nBlastov机械的一名科学家，研究各种事物，做其他“科学”的事情，基本上是让Blastov机械得以运营的关键.\n\n“你的论点没有任何科学或研究来支持.”
+
+<b>FM2 - Scientist (Long Lab Coat)</b>\r\nA Scientist of Blastov Mechanical, Researches Things, and Does Other 'Sciencific' Things, Basicly What Keeps Blastov Mechanical In Business. \n\n''The Longer Your Labcoat Is, The Smarter You Are.''=<b>FM2 - 科学家（长实验服）</b>\r\nBlastov机械的一名科学家，研究各种事物，做其他“科学”的事情，基本上是让Blastov机械得以运营的关键.\n\n“你的实验服越长，你就越聪明.”
+
+<b>FM2 - Scientist (No Lab Coat)</b>\r\nA Scientist of Blastov Mechanical, Researches Things, and Does Other 'Sciencific' Things, Basicly What Keeps Blastov Mechanical In Business. \n\n''My Boss Never Gives Me a Single Break...''=<b>FM2 - 科学家（无实验服）</b>\r\nBlastov机械的一名科学家，研究各种事物，做其他“科学”的事情，基本上是让Blastov机械得以运营的关键.\n\n“我的老板从不让我休息片刻……”
+
+<b>FM2 - Field Scientist</b>\r\nA Field Scientist of Blastov Mechanical, Researches Things Outside Blastov Mechanical Facilities, has A Bit of Armor, Not Enough to Grant him Kubason Creator Bias TM.=<b>FM2 - 外勤科学家</b>\r\nBlastov机械的一名外勤科学家，在Blastov机械设施之外进行研究，有一些护甲，但不足以让他获得Kubason创造者偏见TM.
+
+<b>FM2 - Black-Coat Scientist</b>\r\nA Black-Coat Scientist of Blastov Mechanical, Generally Higher-Ranking Scientists, Sent to Research Higher Priority Things. \n\n''I dont F##king Care that Black Coats are Less Practical than White Ones!''=<b>FM2 - 黑大衣科学家</b>\r\nBlastov机械的一名黑大衣科学家，通常是级别更高的科学家，被派去研究优先级更高的事物.\n\n“我他##才不在乎黑大衣比白大衣不实用呢！”
+
+<b>FM2 - Black-Coat Scientist (Long Lab Coat)</b>\r\nA Black-Coat Scientist of Blastov Mechanical, Generally Higher-Ranking Scientists, Sent to Research Higher Priority Things. \n\n''I dont F##king Care that Black Coats are Less Practical than White Ones!''=<b>FM2 - 黑大衣科学家（长实验服）</b>\r\nBlastov机械的一名黑大衣科学家，通常是级别更高的科学家，被派去研究优先级更高的事物.\n\n“我他##才不在乎黑大衣比白大衣不实用呢！”
+
+//==============================================================
+// 人员 - 员工
+//==============================================================
+<b>FM2 - Employee</b>\r\nA Employee of Blastov Mechanical, Generally a 'Desk Jockey' or Whatever, Works at his Desk, Hates his Job, And Wish he Was in Bed Instead of Being at Work. \n\n''My Boss Never Gives Me a Single Break...''=<b>FM2 - 员工</b>\r\nBlastov机械的一名员工，基本上就是“办公室职员”之类的，在办公桌前工作，讨厌自己的工作，希望自己是在床上而不是在工作.\n\n“我的老板从不让我休息片刻……”
+
+<b>FM2 - Utility Worker</b>\r\nA Utility Worker of Blastov Mechanical, Conducts Maintenance and Other Things in Blastov Mechanical's Facilities, Also Serves As a Janitor for Areas with Restricted Access for Normal Janitors.=<b>FM2 - 勤务工人</b>\r\nBlastov机械的一名勤务工人，在Blastov机械的设施中进行维护和其他工作，同时也担任普通清洁工无法进入区域的清洁工.
+
+<b>FM2 - Engineer</b>\r\nA Engineer Worker of Blastov Mechanical, Does a Variety of Things, Maintenance, Construction, Etc, His Uniform Is Yellow but Still has Hi-Vis Stripes, Insert Unfunny TF2 Engineer Joke Here.=<b>FM2 - 工程师</b>\r\nBlastov机械的一名工程师工人，做各种事情，维护、建造等，他的制服是黄色的，但仍然有高可见度条纹，在此插入一个不好笑的军团要塞2工程师笑话.
+
+<b>FM2 - Hazmat Personnel</b>\r\nA Personnel of Blastov Mechanical Wearing a Hazmat Suit, Wearing a Level A Protective Hazmat Suit, Providing Maximum Respiratory Protection And Maximum Skin Protection.=<b>FM2 - 危险品处理人员</b>\r\nBlastov机械的一名穿着危险品防护服的人员，穿着A级防护危险品防护服，提供最大的呼吸防护和最大的皮肤防护.
+
+<b>FM2 - Thermal Unit</b>\r\nA Thermal Unit of Blastov Mechanical Wearing a Fire Retardant Suit, Either Serves a Rule of a Fire Fighter or a 'Thermal Biological Disposal' Unit, Basicly Either Puts out Fires or Starts the Fires, Burns Stuff like Infected / Mutants and Other Things, Including Books (Literally Fahrenheit 451).=<b>FM2 - 热力部队</b>\r\nBlastov机械的一名穿着阻燃服的热力部队成员，充当消防员或“热力生物处理”部队的角色，基本上要么灭火要么放火，焚烧感染体/变异体和其他东西，包括书籍（字面意义上的华氏451度）.
+
+<b>FM2 - Medic</b>\r\nA Medic of Blastov Mechanical, Treats Wounded Personnel and Does other Medical Things. \n\n''Leaving Fallen Feels so Cold.''=<b>FM2 - 医疗兵</b>\r\nBlastov机械的一名医疗兵，治疗受伤人员并做其他医疗工作.\n\n“抛弃倒下者感觉如此冰冷.”
+
+//==============================================================
+// 人员 - 安保
+//==============================================================
+<b>FM2 - Light Security Guard</b>\r\nA Light Security Guard of Blastov Mechanical, Light Security is Seen Less Often, Mostly in Entrance Zones and Low Priority Zones.=<b>FM2 - 轻型安保警卫</b>\r\nBlastov机械的一名轻型安保警卫，轻型安保不太常见，主要在入口区域和低优先级区域出现.
+
+<b>FM2 - Security Guard</b>\r\nA Security Guard of Blastov Mechanical, Generally Just Guards Blastov Mechanical Facilities And Keeps 'Prisoners' from Escaping, Highly Trained and Unlike the TSC Security, They can Actually Prevent Abominations From Breaching Containment. \n\n''You Better Get Your A## Back To The Chamber Now! Im Not Asking you Again!''=<b>FM2 - 安保警卫</b>\r\nBlastov机械的一名安保警卫，基本上就是守卫Blastov机械设施并防止“囚犯”逃跑，训练有素，与TSC安保不同，他们实际上能够防止怪物突破收容.\n\n“你最好现在就给我滚回收容室！我不会再问你了！”
+
+<b>FM2 - Security Hazmat Guard</b>\r\nA Security Guard of Blastov Mechanical, Wearing A Level B Protective Hazmat Suit.=<b>FM2 - 危险品处理安保警卫</b>\r\nBlastov机械的一名安保警卫，穿着B级防护危险品防护服.
+
+<b>FM2 - Security Shotgunner</b>\r\nA Security Guard of Blastov Mechanical, Generally Just A Guard But Who Carries a Shotgun, Given More Armor.=<b>FM2 - 霰弹枪安保警卫</b>\r\nBlastov机械的一名安保警卫，基本上就是一名警卫，但携带霰弹枪，配有更多护甲.
+
+<b>FM2 - Heavy Security Guard</b>\r\nA Heavier Security Guard of Blastov Mechanical, Wearing Heavier Armor, Generally Guarding Entrance Zones and Restricted Zones Sometimes.=<b>FM2 - 重型安保警卫</b>\r\nBlastov机械的一名更重型的安保警卫，穿着更重的护甲，通常在入口区域和有时在限制区域守卫.
+
+<b>FM2 - Security Captain</b>\r\nA Security Captain of Blastov Mechanical, Generally A Higher Rank Guard, Given Better Armor and Equipment, Even Being Highest Rank, They Still Dont have Access to Every Part of Blastov Mechanical's Facilities, The Only Times they Are Sent into Restricted Zones is When the Situation is Very Dire. \n\n''Designated For Termination.''=<b>FM2 - 安保队长</b>\r\nBlastov机械的一名安保队长，通常是更高级别的警卫，配备更好的护甲和装备，即使是最高的级别，他们仍然无法进入Blastov机械设施的所有区域，只有在情况非常危急时才会被派往限制区域.\n\n“指定处决.”
+
+<b>FM2 - Elite Security Guard</b>\r\nA Elite Security Guard of Blastov Mechanical, The Most Skilled Type of Guard, Having Unlimited Access, Also Genetically Modified, But Less Than the Super Soldier, Wears a Small Exo Skeleton, Nicknamed ''Light Houses'' Because of All the Bright ''Glowing'' Parts.=<b>FM2 - 精英安保警卫</b>\r\nBlastov机械的一名精英安保警卫，最高技能的警卫类型，拥有无限访问权限，也经过基因改造，但程度低于超级士兵，穿着小型外骨骼，因所有明亮的“发光”部件而被称为“灯塔”.
+
+<b>FM2 - Super Soldier</b>\r\nA Security Super Soldier of Blastov Mechanical, A MOTHERF##KING SUPER SOLDIER FROM LEAD BRIGADE? A Genetically Modified Human Being, Wearing a Exo Skeleton and Huge Armor.=<b>FM2 - 超级士兵</b>\r\nBlastov机械的一名安保超级士兵，一个他##的来自Lead Brigade的超级士兵？一个基因改造的人类，穿着外骨骼和巨大护甲.
+
+<b>FM2 - MOTF Operative</b>\r\nA Operative of Blastov Mechanical's MOTF, MOTF aka Military Operations Task Force, Which Works Outside Blastov Mechanical Facilities, Basicly Mobile Task Force of Blastov Mechanical.=<b>FM2 - MOTF特工</b>\r\nBlastov机械的MOTF的一名特工，MOTF即军事行动特遣队，在Blastov机械设施外行动，基本上是Blastov机械的机动特遣队.
+
+<b>FM2 - MOTF Operative (Tan)</b>\r\nA Operative of Blastov Mechanical's MOTF, Wearing a Tan Uniform, Its More Rare to See The Tan Uniforms, They Dont Give Much in Camouflage, Because of All the Black.=<b>FM2 - MOTF特工（沙漠色）</b>\r\nBlastov机械的MOTF的一名特工，穿着沙漠色制服，沙漠色制服更为罕见，它们不能提供多少伪装效果，因为有很多黑色.
+
+<b>FM2 - MOTF Stealth Unit</b>\r\nA Special Unit of Blastov Mechanical's MOTF, Sent Into Stealth Missions, Having NVG Goggles and Other Stealth-Related Things, Wears Less Armor.=<b>FM2 - MOTF潜行部队</b>\r\nBlastov机械的MOTF的一支特殊部队，被派往潜行任务，配备夜视镜NVG和其他与潜行相关的装备，穿着较少的护甲.
+
+//==============================================================
+// 人员 - 主管
+//==============================================================
+<b>FM2 - Director</b>\r\nA Director of Blastov Mechanical, A Director Which has Full Control of The Blastov Mechanical Facilities hes Staying At, Barely Anything is Known about Directors as how Secretive They Are. Bald PPG Generic Variant that has Nothing to do with Lore.=<b>FM2 - 主管</b>\r\nBlastov机械的一名主管，完全控制其所驻扎的Blastov机械设施，由于主管们的保密性，关于他们几乎一无所知. 秃头PPG通用变体，与背景故事无关.
+
+<b>FM2 - Director Ron Rennov</b>\r\nDirector of Facility 1 ''MERKATA'', A 52 Year Old Russian Whos in Charge of Merkata-1, Hes Part of the ''Retrieva-9'' Divisions, Which Serve as Directors With Combat Skills. \n\n''There Wont be any Lockdowns if you Dont F##k it Up!''=<b>FM2 - Ron Rennov主管</b>\r\n1号设施“MERKATA”的主管，52岁的俄罗斯人，负责Merkata-1，他是“Retrieva-9”部门的一员，该部门作为具备战斗技能的主管.\n\n“只要你们他##的别搞砸，就不会有任何封锁！”
+
+<b>FM2 - Director Malgana Baden</b>\r\nDirector of Facility 2 ''SKURNAN'', A 42 Year Old Pole Whos in Charge of Skurnan-2. \n\n''You Think They Can Raid Us? We Got F##king Super Soldiers Here!''=<b>FM2 - Malgana Baden主管</b>\r\n2号设施“SKURNAN”的主管，42岁的波兰人，负责Skurnan-2.\n\n“你觉得他们能突袭我们？我们他##的有超级士兵在这里！”
+
+<b>FM2 - Director Gestramo Synchaz</b>\r\nDirector of Facility 3 ''Brecald'', A 67 Year Old Mexican Whos in Charge of Brecald-3, The Oldest Blastov Mechanical Director Alive. \n\n''Dont Take Your Last Chances.'=<b>FM2 - Gestramo Synchaz主管</b>\r\n3号设施“Brecald”的主管，67岁的墨西哥人，负责Brecald-3，在世的Blastov机械主管中最年长的一位.\n\n“不要挥霍你最后的机会.”
+
+//==============================================================
+// 人员 - 机器人
+//==============================================================
+<b>FM2 - SAM-Z-8450</b>\r\nA ''Self Automated Machine'', The Z-8450 is a Advanced Model of Android, Originally Built to Be a Exo-Skeleton, But Later Modified to be a Android.=<b>FM2 - SAM-Z-8450</b>\r\n一台“自行自动化机器”，Z-8450是先进型号的仿生人，最初建造为外骨骼，后来改装为仿生人.
+
+<b>FM2 - SAM-Z-20000</b>\r\nA ''Self Automated Machine'', The Z-20000 is a Large Model of Android, Being Around 12 Feet Tall, Its Used to Transport Large / Heavy Cargo over Small Distances, And Sometimes Combat.=<b>FM2 - SAM-Z-20000</b>\r\n一台“自行自动化机器”，Z-20000是大型型号的仿生人，大约12英尺高，用于短距离运输大型/重型货物，有时也用于战斗.
+
+<b>FM2 - MA-3500</b>\r\nA ''Modern Android'', The MA-3500 is the Most Advanced Model of Android Manufactured by Blastov Mechanical, Its Designed for Use by The Military, It has Industrial Hooks on the Back, Either Used to Scale Obstacles or Bring Enemies or Objects Closer.=<b>FM2 - MA-3500</b>\r\n一台“现代仿生人”，MA-3500是Blastov机械制造的最先进型号的仿生人，设计用于军事用途，背部有工业挂钩，可用于攀越障碍物或将敌人或物体拉近.
+
+<b>FM2 - V3 FROM INSTAKILL</b>\r\nTHE PROTAGONIST FROM THE VIDEO GAME INSTAKILL, HE KILLS DEMONS OR SOMETHING IDK, ANYWAYS, YOU SHOULD ULTRA-KILL YOURSELF NOW!=<b>FM2 - 来自INSTAKILL的V3</b>\r\n来自电子游戏INSTAKILL的主角，他杀恶魔什么的我不知道，总之，你现在应该玩ULTRA-KILL了！
+
+//==============================================================
+// 装备 - 头盔
+//==============================================================
+<b>FM2 - Engineer Helmet</b>\r\nA Helmet worn By Blastov Mechanical Engineer, A Heavily Modified LIH-1 or ''Light Issue Helmet 1'', Basicly a Advanced Hard Hat.=<b>FM2 - 工程师头盔</b>\r\nBlastov机械工程师佩戴的头盔，是经过大量改装的LIH-1或“轻型配发头盔1型”，基本上是一种先进的安全帽.
+
+<b>FM2 - Engineer Helmet (Visor Down)</b>\r\nA Helmet worn By Blastov Mechanical Engineer, A Heavily Modified LIH-1 or ''Light Issue Helmet 1'', Basicly a Advanced Hard Hat.=<b>FM2 - 工程师头盔（面罩放下）</b>\r\nBlastov机械工程师佩戴的头盔，是经过大量改装的LIH-1或“轻型配发头盔1型”，基本上是一种先进的安全帽.
+
+<b>FM2 - Engineer Helmet (Goggles)</b>\r\nA Helmet worn By Blastov Mechanical Engineer, A Heavily Modified LIH-1 or ''Light Issue Helmet 1'', Basicly a Advanced Hard Hat.=<b>FM2 - 工程师头盔（护目镜）</b>\r\nBlastov机械工程师佩戴的头盔，是经过大量改装的LIH-1或“轻型配发头盔1型”，基本上是一种先进的安全帽.
+
+<b>FM2 - Medic Helmet</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Medics, It is Fairly Modern and Its Full Name is LIH-2 or ''Light Issue Helmet 2'', Provided by BENDARMA Corp, Its not Really Designed for Combat, Since it Has Holes To Make it Lighter.=<b>FM2 - 医疗兵头盔</b>\r\nBlastov机械医疗兵佩戴的防弹头盔，相当现代化，全称为LIH-2或“轻型配发头盔2型”，由BENDARMA公司提供，并非真正为战斗设计，因为它有孔洞以减轻重量.
+
+<b>FM2 - Medic Helmet (Visor Down)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Medics, It is Fairly Modern and Its Full Name is LIH-2 or ''Light Issue Helmet 2'', Provided by BENDARMA Corp, Its not Really Designed for Combat, Since it Has Holes To Make it Lighter.=<b>FM2 - 医疗兵头盔（面罩放下）</b>\r\nBlastov机械医疗兵佩戴的防弹头盔，相当现代化，全称为LIH-2或“轻型配发头盔2型”，由BENDARMA公司提供，并非真正为战斗设计，因为它有孔洞以减轻重量.
+
+<b>FM2 - Medic Helmet (Gasmask)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Medics, It is Fairly Modern and Its Full Name is LIH-2 or ''Light Issue Helmet 2'', Provided by BENDARMA Corp, Its not Really Designed for Combat, Since it Has Holes To Make it Lighter.=<b>FM2 - 医疗兵头盔（防毒面具）</b>\r\nBlastov机械医疗兵佩戴的防弹头盔，相当现代化，全称为LIH-2或“轻型配发头盔2型”，由BENDARMA公司提供，并非真正为战斗设计，因为它有孔洞以减轻重量.
+
+<b>FM2 - Security Helmet</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Security Guards, It is Fairly Modern and Its Full Name is SICH-3 or ''Security Issue Combat Helmet 3'', Provided by BENDARMA Corp.=<b>FM2 - 安保头盔</b>\r\nBlastov机械安保警卫佩戴的防弹头盔，相当现代化，全称为SICH-3或“安保配发战斗头盔3型”，由BENDARMA公司提供.
+
+<b>FM2 - Security Helmet (Visor Down)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Security Guards, It is Fairly Modern and Its Full Name is SICH-3 or ''Security Issue Combat Helmet 3'', Provided by BENDARMA Corp.=<b>FM2 - 安保头盔（面罩放下）</b>\r\nBlastov机械安保警卫佩戴的防弹头盔，相当现代化，全称为SICH-3或“安保配发战斗头盔3型”，由BENDARMA公司提供.
+
+<b>FM2 - Security Helmet (Gasmask)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Security Guards, It is Fairly Modern and Its Full Name is SICH-3 or ''Security Issue Combat Helmet 3'', Provided by BENDARMA Corp.=<b>FM2 - 安保头盔（防毒面具）</b>\r\nBlastov机械安保警卫佩戴的防弹头盔，相当现代化，全称为SICH-3或“安保配发战斗头盔3型”，由BENDARMA公司提供.
+
+<b>FM2 - Heavy Security Helmet</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Heavy Security Guards, It is Bit More Futuristic and Its Full Name is SICH-5A or ''Security Issue Combat Helmet 5 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 重型安保头盔</b>\r\nBlastov机械重型安保警卫佩戴的防弹头盔，更具未来感，全称为SICH-5A或“安保配发战斗头盔5型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Heavy Security Helmet (Face Shield Down)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Heavy Security Guards, It is Bit More Futuristic and Its Full Name is SICH-5A or ''Security Issue Combat Helmet 5 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 重型安保头盔（面盾放下）</b>\r\nBlastov机械重型安保警卫佩戴的防弹头盔，更具未来感，全称为SICH-5A或“安保配发战斗头盔5型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Security Captain Helmet</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Security Captains, It is Bit More Futuristic and Its Full Name is SICH-5A or ''Security Issue Combat Helmet 5 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 安保队长头盔</b>\r\nBlastov机械安保队长佩戴的防弹头盔，更具未来感，全称为SICH-5A或“安保配发战斗头盔5型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Security Captain Helmet (Visor Down)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Security Captains, It is Bit More Futuristic and Its Full Name is SICH-5A or ''Security Issue Combat Helmet 5 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 安保队长头盔（面罩放下）</b>\r\nBlastov机械安保队长佩戴的防弹头盔，更具未来感，全称为SICH-5A或“安保配发战斗头盔5型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Security Captain Helmet (Gasmask)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Security Captains, It is Bit More Futuristic and Its Full Name is SICH-5A or ''Security Issue Combat Helmet 5 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 安保队长头盔（防毒面具）</b>\r\nBlastov机械安保队长佩戴的防弹头盔，更具未来感，全称为SICH-5A或“安保配发战斗头盔5型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Task Force Helmet</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical's MOTF, It is Bit More Futuristic and Its Full Name is SICH-8A or ''Security Issue Combat Helmet 8 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 特遣队头盔</b>\r\nBlastov机械MOTF佩戴的防弹头盔，更具未来感，全称为SICH-8A或“安保配发战斗头盔8型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Task Force Helmet (Goggles)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical's MOTF, It is Bit More Futuristic and Its Full Name is SICH-8A or ''Security Issue Combat Helmet 8 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 特遣队头盔（护目镜）</b>\r\nBlastov机械MOTF佩戴的防弹头盔，更具未来感，全称为SICH-8A或“安保配发战斗头盔8型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Task Force Helmet (Night Vision Goggles)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical's MOTF, It is Bit More Futuristic and Its Full Name is SICH-8A or ''Security Issue Combat Helmet 8 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 特遣队头盔（夜视镜）</b>\r\nBlastov机械MOTF佩戴的防弹头盔，更具未来感，全称为SICH-8A或“安保配发战斗头盔8型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Task Force Helmet (Gasmask)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical's MOTF, It is Bit More Futuristic and Its Full Name is SICH-8A or ''Security Issue Combat Helmet 8 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 特遣队头盔（防毒面具）</b>\r\nBlastov机械MOTF佩戴的防弹头盔，更具未来感，全称为SICH-8A或“安保配发战斗头盔8型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Task Force Helmet (Tan)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical's MOTF, It is Bit More Futuristic and Its Full Name is SICH-8A or ''Security Issue Combat Helmet 8 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 特遣队头盔（沙漠色）</b>\r\nBlastov机械MOTF佩戴的防弹头盔，更具未来感，全称为SICH-8A或“安保配发战斗头盔8型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Task Force Helmet (Goggles) (Tan)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical's MOTF, It is Bit More Futuristic and Its Full Name is SICH-8A or ''Security Issue Combat Helmet 8 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 特遣队头盔（护目镜）（沙漠色）</b>\r\nBlastov机械MOTF佩戴的防弹头盔，更具未来感，全称为SICH-8A或“安保配发战斗头盔8型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Task Force Helmet (Night Vision Goggles) (Tan)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical's MOTF, It is Bit More Futuristic and Its Full Name is SICH-8A or ''Security Issue Combat Helmet 8 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 特遣队头盔（夜视镜）（沙漠色）</b>\r\nBlastov机械MOTF佩戴的防弹头盔，更具未来感，全称为SICH-8A或“安保配发战斗头盔8型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Task Force Helmet (Gasmask) (Tan)</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical's MOTF, It is Bit More Futuristic and Its Full Name is SICH-8A or ''Security Issue Combat Helmet 8 Advanced'', Provided by BENDARMA Corp.=<b>FM2 - 特遣队头盔（防毒面具）（沙漠色）</b>\r\nBlastov机械MOTF佩戴的防弹头盔，更具未来感，全称为SICH-8A或“安保配发战斗头盔8型先进版”，由BENDARMA公司提供.
+
+<b>FM2 - Elite Security Helmet</b>\r\nA Bulletproof Helmet worn By Elite Blastov Mechanical Security Guards, It is Fairly Modern and Its Full Name is SICH-8C or ''Security Issue Combat Helmet 8 Custom'', Provided by BENDARMA Corp.=<b>FM2 - 精英安保头盔</b>\r\nBlastov机械精英安保警卫佩戴的防弹头盔，相当现代化，全称为SICH-8C或“安保配发战斗头盔8型定制版”，由BENDARMA公司提供.
+
+<b>FM2 - Elite Security Helmet (Visor)</b>\r\nA Bulletproof Helmet worn By Elite Blastov Mechanical Security Guards, It is Fairly Modern and Its Full Name is SICH-8C or ''Security Issue Combat Helmet 8 Custom'', Provided by BENDARMA Corp.=<b>FM2 - 精英安保头盔（面罩）</b>\r\nBlastov机械精英安保警卫佩戴的防弹头盔，相当现代化，全称为SICH-8C或“安保配发战斗头盔8型定制版”，由BENDARMA公司提供.
+
+<b>FM2 - Elite Security Helmet (Goggles)</b>\r\nA Bulletproof Helmet worn By Elite Blastov Mechanical Security Guards, It is Fairly Modern and Its Full Name is SICH-8C or ''Security Issue Combat Helmet 8 Custom'', Provided by BENDARMA Corp.=<b>FM2 - 精英安保头盔（护目镜）</b>\r\nBlastov机械精英安保警卫佩戴的防弹头盔，相当现代化，全称为SICH-8C或“安保配发战斗头盔8型定制版”，由BENDARMA公司提供.
+
+<b>FM2 - Elite Security Helmet (Night Vision Goggles)</b>\r\nA Bulletproof Helmet worn By Elite Blastov Mechanical Security Guards, It is Fairly Modern and Its Full Name is SICH-8C or ''Security Issue Combat Helmet 8 Custom'', Provided by BENDARMA Corp.=<b>FM2 - 精英安保头盔（夜视镜）</b>\r\nBlastov机械精英安保警卫佩戴的防弹头盔，相当现代化，全称为SICH-8C或“安保配发战斗头盔8型定制版”，由BENDARMA公司提供.
+
+<b>FM2 - Elite Security Helmet (Gasmask)</b>\r\nA Bulletproof Helmet worn By Elite Blastov Mechanical Security Guards, It is Fairly Modern and Its Full Name is SICH-8C or ''Security Issue Combat Helmet 8 Custom'', Provided by BENDARMA Corp.=<b>FM2 - 精英安保头盔（防毒面具）</b>\r\nBlastov机械精英安保警卫佩戴的防弹头盔，相当现代化，全称为SICH-8C或“安保配发战斗头盔8型定制版”，由BENDARMA公司提供.
+
+<b>FM2 - Super Soldier Helmet</b>\r\nA Bulletproof Helmet worn By Blastov Mechanical Security Super Soldiers, Having Armor Plates Attached and a ''Respirator'' Built In, Fully Custom-Produced by Blastov Mechanical.=<b>FM2 - 超级士兵头盔</b>\r\nBlastov机械安保超级士兵佩戴的防弹头盔，附有装甲板并内置“呼吸器”，由Blastov机械完全定制生产.
+
+//==============================================================
+// 装备 - 面罩/头饰
+//==============================================================
+<b>FM2 - Balaclava</b>\r\nA Balaclava Mask Used to Hide the Identity of the Wearer.=<b>FM2 - 巴拉克拉瓦面罩</b>\r\n一种用于隐藏佩戴者身份的巴拉克拉瓦面罩.
+
+<b>FM2 - Ski Mask</b>\r\nA Tactical Ski Mask Used to Hide the Identity of the Wearer.=<b>FM2 - 滑雪面罩</b>\r\n一种用于隐藏佩戴者身份的战术滑雪面罩.
+
+<b>FM2 - Gasmask</b>\r\nA 'Futuristic' Full-Head Gasmask, Having 3 Filters on It, It Has a Bunch of Complicated Electronics That Tell You Information about Filters and Oxygen or Whatever.=<b>FM2 - 防毒面具</b>\r\n一种“未来主义”全头防毒面具，带有3个过滤器，有一堆复杂的电子设备，告诉你关于过滤器和氧气等信息.
+
+<b>FM2 - Hazmat Headgear</b>\r\nA Gasmask for Level-A Protection Hazmat Suits, Also Has Part of the Suit which Covers the Head.=<b>FM2 - 危险品头套</b>\r\n用于A级防护危险品防护服的防毒面具，还有覆盖头部的防护服部分.
+
+<b>FM2 - Thermal Unit Gasmask</b>\r\nA Gasmask for Thermal Units, Worn to Protect the User from Inhaling Smoke or Something.=<b>FM2 - 热力部队防毒面具</b>\r\n用于热力部队的防毒面具，佩戴以保护使用者免于吸入烟雾等.
+
+<b>FM2 - Thermal Unit Headgear</b>\r\nA Gasmask for Thermal Units And a Firefighter Helmet, Worn to Protect the User from Inhaling Smoke or Something and To Protect the Head.=<b>FM2 - 热力部队头套</b>\r\n用于热力部队的防毒面具和消防员头盔，佩戴以保护使用者免于吸入烟雾等并保护头部.
+
+<b>FM2 - Cap</b>\r\nA Baseball Cap with Headphones, Unlike ZMAT Baseball Ca- I DID THIS JOKE TOO MANY TIMES, BUT ITS TRUE, THE ZMAT BASEBALL CAP IS NOT ADJUSTABLE, SINCE THE SPRITE DOES NOT APPEAR TO HAVE A STRAP PART ON THE BACK, Barely Worn Because Blastov Mechanical isnt Thunder Sciencific so They Dont Give Everything Baseball Caps Thinking they Might Protect Them.=<b>FM2 - 帽子</b>\r\n一顶带耳机的棒球帽，不像ZMAT棒球帽——这个笑话我讲太多次了，但这是真的，ZMAT棒球帽是不可调节的，因为精灵图背面似乎没有带子部分. 很少有人戴，因为Blastov机械不是雷霆科学，所以他们不会给所有东西都配上棒球帽以为能保护它们.
+
+<b>FM2 - Military Cap (Logo)</b>\r\nA Military Cap with Headphones, Featured in 99% of Kubason Mods.=<b>FM2 - 军用帽（标志）</b>\r\n一顶带耳机的军用帽，出现在99%的Kubason模组中.
+
+<b>FM2 - Military Cap</b>\r\nA Military Cap with Headphones, Featured in 99% of Kubason Mods.=<b>FM2 - 军用帽</b>\r\n一顶带耳机的军用帽，出现在99%的Kubason模组中.
+
+<b>FM2 - Head-Mounted Night Vision Goggles</b>\r\nA Pair of 'Futuristic' Head-Mounted Night Vision Goggles, For Some Reason it Has 3 'Lenses' or Whatever, I just Based it Off the SCP:CB Night Vision Goggles.=<b>FM2 - 头戴式夜视镜</b>\r\n一副“未来主义”头戴式夜视镜，出于某种原因它有3个“镜片”之类的，我只是基于SCP:CB的夜视镜制作的.
+
+<b>FM2 - Headphones</b>\r\nA Set of Headphones with a Microphone Attached to Them, Used to Communicate about How you F##ked Someones Mother.=<b>FM2 - 耳机</b>\r\n一副带麦克风的耳机，用来交流你怎么干##了某人的妈.
+
+//==============================================================
+// 装备 - 背包/背心/护甲
+//==============================================================
+<b>FM2 - Radio</b>\r\nMeant for MOTF Stealth Units, But Can be Used on Other Units / Personnel, Keep in Mind its not Meant for Body Armor, Since Most have Radios.=<b>FM2 - 电台</b>\r\n适用于MOTF潜行部队，但也可用于其他部队/人员，请注意它不是为防弹衣设计的，因为大多数都有电台.
+
+<b>FM2 - Torso Pouches</b>\r\nMeant for MOTF Stealth Units, But Can be Used on Other Units / Personnel, Especially Ones with Torso Harness / Strap or Whatever.=<b>FM2 - 躯干包</b>\r\n适用于MOTF潜行部队，但也可用于其他部队/人员，特别是那些有躯干背带/绑带等的.
+
+<b>FM2 - Extra Belt Front Pouch</b>\r\nExtra Belt Pouch, Meant for MOTF Mostly.=<b>FM2 - 额外腰带前包</b>\r\n额外的腰带包，主要适用于MOTF.
+
+<b>FM2 - Extra Belt Back Pouch</b>\r\nExtra Belt Pouch, Meant for MOTF Mostly.=<b>FM2 - 额外腰带后包</b>\r\n额外的腰带包，主要适用于MOTF.
+
+<b>FM2 - Back Upper Leg Pouch</b>\r\nPouched Attached Onto the Leg.=<b>FM2 - 大腿后侧包</b>\r\n附在腿上的包.
+
+<b>FM2 - Upper Leg Pouch</b>\r\nPouched Attached Onto the Leg.=<b>FM2 - 大腿包</b>\r\n附在腿上的包.
+
+<b>FM2 - Backpack</b>\r\nA Generic Black Variant of the Guard Backpack.=<b>FM2 - 背包</b>\r\n警卫背包的通用黑色变体.
+
+<b>FM2 - Security Guard Backpack</b>\r\nA Backpack Worn By Security Guards, Its Rarely Worn by Security Guards, It Has Pouches Attached to It.=<b>FM2 - 安保警卫背包</b>\r\n安保警卫佩戴的背包，警卫很少佩戴，上面附有包袋.
+
+<b>FM2 - Security Captain Backpack</b>\r\nA Backpack Worn By Security Captains, Has a Stronger Radio and Bigger Pouches on Top.=<b>FM2 - 安保队长背包</b>\r\n安保队长佩戴的背包，有更强的电台和顶部更大的包袋.
+
+<b>FM2 - Medic Backpack</b>\r\nA Backpack Worn By Medics, Has Bigger Pouches and a Pouch On Top, Storing Medical Equipment and Supplies.=<b>FM2 - 医疗兵背包</b>\r\n医疗兵佩戴的背包，有更大的包袋和顶部的一个包，用于存放医疗设备和物资.
+
+<b>FM2 - Rugzack</b>\r\nA Generic Black Variant of the Guard Rugzack.=<b>FM2 - 小背包</b>\r\n警卫小背包的通用黑色变体.
+
+<b>FM2 - Security Guard Rugzack</b>\r\nA Rugzack Worn By Security Guards, Smaller and Lighter Than The Backpack.=<b>FM2 - 安保警卫小背包</b>\r\n安保警卫佩戴的小背包，比背包更小更轻.
+
+<b>FM2 - Task Force Rugzack</b>\r\nA Rugzack Worn By MOTF, Having a Stronger Radio.=<b>FM2 - 特遣队小背包</b>\r\nMOTF佩戴的小背包，有更强的电台.
+
+<b>FM2 - Task Force Rugzack (Tan)</b>\r\nA Rugzack Worn By MOTF, Having a Stronger Radio.=<b>FM2 - 特遣队小背包（沙漠色）</b>\r\nMOTF佩戴的小背包，有更强的电台.
+
+<b>FM2 - Engineer Propane Tank</b>\r\nA Propane Tank Worn by Blastov Mechanical Engineer, Used for Blowtorches.=<b>FM2 - 工程师丙烷罐</b>\r\nBlastov机械工程师佩戴的丙烷罐，用于喷灯.
+
+<b>FM2 - Hazmat Oxygen Tank</b>\r\nA Oxygen Tank Worn by Personnel in Level A Protection Hazmat Suit, Also Contains Part of The Suit That Covers the Tank.=<b>FM2 - 危险品氧气罐</b>\r\nA级防护危险品防护服人员佩戴的氧气罐，还包含覆盖气罐的防护服部分.
+
+<b>FM2 - Thermal Unit Tank</b>\r\nA Oxygen Tank Worn by Thermal Units, Worn to Provide Fuel for Flamethrowers or Oxygen for The Gasmask.=<b>FM2 - 热力部队气罐</b>\r\n热力部队佩戴的氧气罐，用于为火焰喷射器提供燃料或为防毒面具提供氧气.
+
+<b>FM2 - Super Soldier Power Pack</b>\r\nA Back-Mounted Generator Used for Powering Advanced Weaponry, Worn by Super Soldiers.=<b>FM2 - 超级士兵动力包</b>\r\n一种背戴式发电机，用于为先进武器供电，由超级士兵佩戴.
+
+<b>FM2 - Shoulder Pads (Unmarked, No Elbow Pads)</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 肩甲（无标识，无护肘）</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Full Arm Pads (Unmarked)</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 全臂护甲（无标识）</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Back Shoulder Pad (No Elbow Pads)</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 背部肩甲（无护肘）</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Shoulder Pad (No Elbow Pads)</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 肩甲（无护肘）</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Back Shoulder Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 背部肩甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Full Arm Pads</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 全臂护甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Shotgunner Full Arm Pads</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 霰弹枪手全臂护甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Back Forearm Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Forearm to Protect It.=<b>FM2 - 背部前臂护甲</b>\r\n一种覆盖前臂以提供保护的装甲护甲.
+
+<b>FM2 - Forearm Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Forearm to Protect It.=<b>FM2 - 前臂护甲</b>\r\n一种覆盖前臂以提供保护的装甲护甲.
+
+<b>FM2 - Heavy Shoulder Pads (Unmarked, No Elbow Pads)</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 重型肩甲（无标识，无护肘）</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Heavy Full Arm Pads (Unmarked)</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 重型全臂护甲（无标识）</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Heavy Back Shoulder Pad (No Elbow Pads)</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 重型背部肩甲（无护肘）</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Heavy Shoulder Pads (No Elbow Pads)</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 重型肩甲（无护肘）</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Heavy Back Shoulder Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 重型背部肩甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Heavy Full Arm Pads</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - 重型全臂护甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Heavy Back Forearm Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Forearm to Protect It.=<b>FM2 - 重型背部前臂护甲</b>\r\n一种覆盖前臂以提供保护的装甲护甲.
+
+<b>FM2 - Heavy Forearm Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Forearm to Protect It.=<b>FM2 - 重型前臂护甲</b>\r\n一种覆盖前臂以提供保护的装甲护甲.
+
+<b>FM2 - Super Soldier Back Shoulder Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It, Worn by Security Super Soldiers.=<b>FM2 - 超级士兵背部肩甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲，由安保超级士兵佩戴.
+
+<b>FM2 - Super Soldier Shoulder Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It, Worn by Security Super Soldiers.=<b>FM2 - 超级士兵肩甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲，由安保超级士兵佩戴.
+
+<b>FM2 - Back Thigh Pad</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It.=<b>FM2 - 大腿后侧护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲.
+
+<b>FM2 - Full Leg Pads</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It.=<b>FM2 - 全腿护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲.
+
+<b>FM2 - Shotgunner Full Leg Pads</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It.=<b>FM2 - 霰弹枪手全腿护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲.
+
+<b>FM2 - Back Leg Pad</b>\r\nA Armored Leg Pad that Goes Over the Lower Leg to Protect It.=<b>FM2 - 小腿后侧护甲</b>\r\n一种覆盖小腿以提供保护的装甲护甲.
+
+<b>FM2 - Leg Pad</b>\r\nA Armored Leg Pad that Goes Over the Lower Leg to Protect It.=<b>FM2 - 小腿护甲</b>\r\n一种覆盖小腿以提供保护的装甲护甲.
+
+<b>FM2 - Heavy Back Thigh Pad</b>\r\nA More Heavily Armored Thigh Pad that Goes Over the Thigh to Protect It.=<b>FM2 - 重型大腿后侧护甲</b>\r\n一种更重型的覆盖大腿以提供保护的装甲护甲.
+
+<b>FM2 - Heavy Thigh Pad</b>\r\nA More Heavily Armored Thigh Pad that Goes Over the Thigh to Protect It.=<b>FM2 - 重型大腿护甲</b>\r\n一种更重型的覆盖大腿以提供保护的装甲护甲.
+
+<b>FM2 - Heavy Back Leg Pad</b>\r\nA More Heavily Armored Leg Pad that Goes Over the Lower Leg to Protect It.=<b>FM2 - 重型小腿后侧护甲</b>\r\n一种更重型的覆盖小腿以提供保护的装甲护甲.
+
+<b>FM2 - Heavy Leg Pad</b>\r\nA More Heavily Armored Leg Pad that Goes Over the Lower Leg to Protect It.=<b>FM2 - 重型小腿护甲</b>\r\n一种更重型的覆盖小腿以提供保护的装甲护甲.
+
+<b>FM2 - Elite Back Thigh Pad</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It, Worn by Elite Security Guards.=<b>FM2 - 精英大腿后侧护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲，由精英安保警卫佩戴.
+
+<b>FM2 - Elite Full Leg Pads</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It, Worn by Elite Security Guards.=<b>FM2 - 精英全腿护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲，由精英安保警卫佩戴.
+
+<b>FM2 - Elite Back Leg Pad</b>\r\nA Armored Leg Pad that Goes Over the Lower Leg to Protect It, Worn by Elite Security Guards.=<b>FM2 - 精英小腿后侧护甲</b>\r\n一种覆盖小腿以提供保护的装甲护甲，由精英安保警卫佩戴.
+
+<b>FM2 - Elite Leg Pad</b>\r\nA Armored Leg Pad that Goes Over the Lower Leg to Protect It, Worn by Elite Security Guards.=<b>FM2 - 精英小腿护甲</b>\r\n一种覆盖小腿以提供保护的装甲护甲，由精英安保警卫佩戴.
+
+<b>FM2 - Super Soldier Back Thigh Pad</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It, Worn by Super Soldiers.=<b>FM2 - 超级士兵大腿后侧护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲，由超级士兵佩戴.
+
+<b>FM2 - Super Soldier Thigh Pad</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It, Worn by Super Soldiers.=<b>FM2 - 超级士兵大腿护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲，由超级士兵佩戴.
+
+<b>FM2 - Super Soldier Back Leg Pad</b>\r\nA Armored Leg Pad that Goes Over the Lower Leg to Protect It, Worn by Super Soldiers.=<b>FM2 - 超级士兵小腿后侧护甲</b>\r\n一种覆盖小腿以提供保护的装甲护甲，由超级士兵佩戴.
+
+<b>FM2 - Super Soldier Leg Pad</b>\r\nA Armored Leg Pad that Goes Over the Lower Leg to Protect It, Worn by Super Soldiers.=<b>FM2 - 超级士兵小腿护甲</b>\r\n一种覆盖小腿以提供保护的装甲护甲，由超级士兵佩戴.
+
+<b>FM2 - Engineer Vest</b>\r\nA Vest Worn by Blastov Mechanical Security Engineers, Having Pouches And the Word 'ENGINEER' On the Back.=<b>FM2 - 工程师背心</b>\r\nBlastov机械安保工程师穿着的背心，有包袋，背面有“ENGINEER”字样.
+
+<b>FM2 - Engineer Vest (Middle)</b>\r\nA Vest Worn by Blastov Mechanical Security Engineers, Having Pouches And the Word 'ENGINEER' On the Back.=<b>FM2 - 工程师背心（中部）</b>\r\nBlastov机械安保工程师穿着的背心，有包袋，背面有“ENGINEER”字样.
+
+<b>FM2 - Engineer Vest (Lower)</b>\r\nA Vest Worn by Blastov Mechanical Security Engineers, Having Pouches And the Word 'ENGINEER' On the Back.=<b>FM2 - 工程师背心（下部）</b>\r\nBlastov机械安保工程师穿着的背心，有包袋，背面有“ENGINEER”字样.
+
+<b>FM2 - Security Body Armor</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Guards, Having Pouches And a Radio, And the Word 'SECURITY' On the Back.=<b>FM2 - 安保防弹衣</b>\r\nBlastov机械安保警卫穿着的装甲背心，有包袋和电台，背面有“SECURITY”字样.
+
+<b>FM2 - Security Body Armor (Middle)</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Guards, Having Pouches And a Radio, And the Word 'SECURITY' On the Back.=<b>FM2 - 安保防弹衣（中部）</b>\r\nBlastov机械安保警卫穿着的装甲背心，有包袋和电台，背面有“SECURITY”字样.
+
+<b>FM2 - Security Body Armor (Lower)</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Guards, Having Pouches And a Radio, And the Word 'SECURITY' On the Back.=<b>FM2 - 安保防弹衣（下部）</b>\r\nBlastov机械安保警卫穿着的装甲背心，有包袋和电台，背面有“SECURITY”字样.
+
+<b>FM2 - Shotgunner Body Armor</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Shotgunner Guards, Having A Comical Amount of Shotgun Shells.=<b>FM2 - 霰弹枪手防弹衣</b>\r\nBlastov机械霰弹枪安保警卫穿着的装甲背心，有大量滑稽的霰弹枪弹壳.
+
+<b>FM2 - Shotgunner Body Armor (Middle)</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Shotgunner Guards, Having A Comical Amount of Shotgun Shells.=<b>FM2 - 霰弹枪手防弹衣（中部）</b>\r\nBlastov机械霰弹枪安保警卫穿着的装甲背心，有大量滑稽的霰弹枪弹壳.
+
+<b>FM2 - Shotgunner Body Armor (Lower)</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Shotgunner Guards, Having A Comical Amount of Shotgun Shells.=<b>FM2 - 霰弹枪手防弹衣（下部）</b>\r\nBlastov机械霰弹枪安保警卫穿着的装甲背心，有大量滑稽的霰弹枪弹壳.
+
+<b>FM2 - Heavy Security Body Armor</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Guards, A Bigger and Heavier Vest, Having a Lot more Pouches and Being More Heavily Armored, Also Has the Word SECURITY On The Back.=<b>FM2 - 重型安保防弹衣</b>\r\nBlastov机械安保警卫穿着的装甲背心，更大更重，有更多包袋，装甲更厚重，背面也有“SECURITY”字样.
+
+<b>FM2 - Heavy Security Body Armor (Middle)</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Guards, A Bigger and Heavier Vest, Having a Lot more Pouches and Being More Heavily Armored, Also Has the Word SECURITY On The Back.=<b>FM2 - 重型安保防弹衣（中部）</b>\r\nBlastov机械安保警卫穿着的装甲背心，更大更重，有更多包袋，装甲更厚重，背面也有“SECURITY”字样.
+
+<b>FM2 - Heavy Security Body Armor (Lower)</b>\r\nA Armored Vest Worn by Blastov Mechanical Security Guards, A Bigger and Heavier Vest, Having a Lot more Pouches and Being More Heavily Armored, Also Has the Word SECURITY On The Back.=<b>FM2 - 重型安保防弹衣（下部）</b>\r\nBlastov机械安保警卫穿着的装甲背心，更大更重，有更多包袋，装甲更厚重，背面也有“SECURITY”字样.
+
+<b>FM2 - Task Force Plate Carrier</b>\r\nA Plate Carrier Worn by Blastov Mechanical MOTF, Having Pouches And a Radio, Unlike Security Body Armor it Does Not Have Anything on the Back, To be Unidentifiable.=<b>FM2 - 特遣队防弹背心</b>\r\nBlastov机械MOTF穿着的防弹板载具，有包袋和电台，与安保防弹衣不同，背面没有任何标识，以保持无法识别.
+
+<b>FM2 - Task Force Plate Carrier (Middle)</b>\r\nA Plate Carrier Worn by Blastov Mechanical MOTF, Having Pouches And a Radio, Unlike Security Body Armor it Does Not Have Anything on the Back, To be Unidentifiable.=<b>FM2 - 特遣队防弹背心（中部）</b>\r\nBlastov机械MOTF穿着的防弹板载具，有包袋和电台，与安保防弹衣不同，背面没有任何标识，以保持无法识别.
+
+<b>FM2 - Task Force Plate Carrier (Lower)</b>\r\nA Plate Carrier Worn by Blastov Mechanical MOTF, Having Pouches And a Radio, Unlike Security Body Armor it Does Not Have Anything on the Back, To be Unidentifiable.=<b>FM2 - 特遣队防弹背心（下部）</b>\r\nBlastov机械MOTF穿着的防弹板载具，有包袋和电台，与安保防弹衣不同，背面没有任何标识，以保持无法识别.
+
+<b>FM2 - Elite Security Body Armor</b>\r\nA Armored Vest Worn by Elite Blastov Mechanical Security Guards, A More Advanced Set of Armor, With a Large Radio on The Back.=<b>FM2 - 精英安保防弹衣</b>\r\nBlastov机械精英安保警卫穿着的装甲背心，一套更先进的护甲，背面有大型电台.
+
+<b>FM2 - Elite Security Body Armor (Middle)</b>\r\nA Armored Vest Worn by Elite Blastov Mechanical Security Guards, A More Advanced Set of Armor, With a Large Radio on The Back.=<b>FM2 - 精英安保防弹衣（中部）</b>\r\nBlastov机械精英安保警卫穿着的装甲背心，一套更先进的护甲，背面有大型电台.
+
+<b>FM2 - Elite Security Body Armor (Lower)</b>\r\nA Armored Vest Worn by Elite Blastov Mechanical Security Guards, A More Advanced Set of Armor, With a Large Radio on The Back.=<b>FM2 - 精英安保防弹衣（下部）</b>\r\nBlastov机械精英安保警卫穿着的装甲背心，一套更先进的护甲，背面有大型电台.
+
+<b>FM2 - Super Soldier Armor (Upper)</b>\r\nA Armored Vest Worn by Blastov Mechanical Super Soldiers, Having a Massive Neck Guard and Pouches.=<b>FM2 - 超级士兵护甲（上部）</b>\r\nBlastov机械超级士兵穿着的装甲背心，有巨大的颈部护甲和包袋.
+
+<b>FM2 - Super Soldier Armor (Middle)</b>\r\nA Armored Vest Worn by Blastov Mechanical Super Soldiers, Having a Massive Neck Guard and Pouches.=<b>FM2 - 超级士兵护甲（中部）</b>\r\nBlastov机械超级士兵穿着的装甲背心，有巨大的颈部护甲和包袋.
+
+<b>FM2 - Super Soldier Armor (Lower)</b>\r\nA Armored Vest Worn by Blastov Mechanical Super Soldiers, Having a Massive Neck Guard and Pouches.=<b>FM2 - 超级士兵护甲（下部）</b>\r\nBlastov机械超级士兵穿着的装甲背心，有巨大的颈部护甲和包袋.
+
+//==============================================================
+// 武器 - Blastov Mechanical
+//==============================================================
+<b>FM2 - ''GERFIS'' ERAC-2</b>\r\nA Assault Rifle Used by Blastov Mechanical, It Has a Extended Barrel and a Front Grip, Most Use has Been Seen the MOTF, But Use is Seen by Security Guards.=<b>FM2 - “GERFIS” ERAC-2</b>\r\nBlastov机械使用的突击步枪，有加长枪管和前握把，主要被MOTF使用，但也可见于安保警卫.
+
+<b>FM2 - PLR</b>\r\nA Assault Rifle Used by Blastov Mechanical and Nemestorm, It Has a Slanted Grip and a Supressor, Used by Security Guards, and MOTF, And Nemestorm.=<b>FM2 - PLR</b>\r\nBlastov机械和Nemestorm使用的突击步枪，有倾斜握把和消音器，被安保警卫、MOTF和Nemestorm使用.
+
+<b>FM2 - ''PARKA'' ERAC-5</b>\r\nA ''Marksman'' Rifle Used by Blastov Mechanical, Despite it Being Used as a ''Marksman'' Rifle, It has no Scope.=<b>FM2 - “PARKA” ERAC-5</b>\r\nBlastov机械使用的“精确射手”步枪，尽管被用作“精确射手”步枪，但没有瞄准镜.
+
+<b>FM2 - ''NOLPEC'' NPT-15</b>\r\nA Assault Rifle Used by Nemestorm, It Has a Handguard Thing Attached, Has a Weird Looking Barrel.=<b>FM2 - “NOLPEC” NPT-15</b>\r\nNemestorm使用的突击步枪，附有护木之类的东西，枪管看起来很奇怪.
+
+<b>FM2 - ''ARKASTORM'' Rifle</b>\r\nA Assault Rifle Used by Nemestorm, Basicly, Its a AK-M With a Bunch of Parts from Other Rifles Put on It.=<b>FM2 - “ARKASTORM”步枪</b>\r\nNemestorm使用的突击步枪，基本上就是把一堆其他步枪的零件装在了AK-M上.
+
+<b>FM2 - ''TRAVA'' MA15</b>\r\nA Light Machine Gun Carried by Heavy Blastov Mechanical Security Guards, A Very Generic Looking LMG, It Has a Holographic Sight.=<b>FM2 - “TRAVA” MA15</b>\r\nBlastov机械重型安保警卫携带的轻机枪，看起来非常普通的轻机枪LMG，带有全息瞄具.
+
+<b>FM2 - STYRAP-24</b>\r\nA Light Machine Gun Carried by Nemestorm and Rarely Heavy Blastov Mechanical Security Guards, It Has a Slanted Grip, But no Holographic Sight for Some Reason.=<b>FM2 - STYRAP-24</b>\r\nNemestorm和极少数Blastov机械重型安保警卫携带的轻机枪，有倾斜握把，但由于某种原因没有全息瞄具.
+
+<b>FM2 - VKR-90</b>\r\nA Light Machine Gun Carried by Nemestorm And Heavy Blastov Mechanical Security Guards, Its Slightly Longer Than The Other Light Machine Guns.=<b>FM2 - VKR-90</b>\r\nNemestorm和Blastov机械重型安保警卫携带的轻机枪，比其他轻机枪略长.
+
+<b>FM2 - MEFASPA-50 Machine Gun</b>\r\nA Machine Gun Used by Blastov Mechanical, Mounted on Vehicles or Barricades.=<b>FM2 - MEFASPA-50机枪</b>\r\nBlastov机械使用的机枪，安装在车辆或路障上.
+
+<b>FM2 - MEGAR Machine Gun</b>\r\nA Machine Gun Carried by Used by Blastov Mechanical Heavy Security Guards, Limited Use is Seen by Super Soldiers.=<b>FM2 - MEGAR机枪</b>\r\nBlastov机械重型安保警卫携带的机枪，超级士兵也有有限使用.
+
+<b>FM2 - MISHA Minigun</b>\r\nA Minigun Carried by Used by Blastov Mechanical Super Soldiers, Very Heavy and Requires External Power Source, Like the Super Soldier Power Pack.=<b>FM2 - MISHA迷你炮</b>\r\nBlastov机械超级士兵携带的迷你炮，非常沉重，需要外部电源，如超级士兵动力包.
+
+<b>FM2 - HIERK-95</b>\r\nA Submachine Gun Used by Blastov Mechanical, Its Mostly Missidentified as a Assault Rifle, Because of the Size of The Magazine.=<b>FM2 - HIERK-95</b>\r\nBlastov机械使用的冲锋枪，由于弹匣大小，经常被误认为是突击步枪.
+
+<b>FM2 - POLT-K</b>\r\nA Submachine Gun Used by Nemestorm, It Has a Compenstator Attached on the Front, For Some Reason It Doesnt have A Optic or Holographic or Whatever Sight, Only Standard Iron Sights.=<b>FM2 - POLT-K</b>\r\nNemestorm使用的冲锋枪，前面装有补偿器，但由于某种原因没有光学瞄具或全息瞄具，只有标准机械瞄具.
+
+<b>FM2 - ''NORTHYC'' NPT-07</b>\r\nA Submachine Gun Used by Nemestorm, It Has a Handguard or Whatever Attached, And a Light Stock.=<b>FM2 - “NORTHYC” NPT-07</b>\r\nNemestorm使用的冲锋枪，附有护木之类的东西，以及轻型枪托.
+
+<b>FM2 - ''RAPTOR'' NPT-10</b>\r\nA Bullpup Submachine Gun Used by Blastov Mechanical, Its Primarly Use is CQB, But It can Be Used at Long Range.=<b>FM2 - “RAPTOR” NPT-10</b>\r\nBlastov机械使用的无托冲锋枪，主要用于近距离作战CQB，但也可用于远程.
+
+<b>FM2 - ''TRAPPER'' NPT-10C</b>\r\nA Bullpup Submachine Gun Used by Blastov Mechanical, Its a Heavily Modified RAPTOR SMG, Used by Elite Security.=<b>FM2 - “TRAPPER” NPT-10C</b>\r\nBlastov机械使用的无托冲锋枪，是经过大量改装的RAPTOR冲锋枪，由精英安保使用.
+
+<b>FM2 - HIERK-105</b>\r\nA Pistol Used by Blastov Mechanical, A Sight has Been Attached to the Slide.=<b>FM2 - HIERK-105</b>\r\nBlastov机械使用的手枪，套筒上装有瞄具.
+
+<b>FM2 - TRACK-79</b>\r\nA Pistol Used by Blastov Mechanical, Standard Carry for Every Security Guard, Having a Small Compenstator on The Front, Which is Present on Most of TRACK Firearms Pistols.=<b>FM2 - TRACK-79</b>\r\nBlastov机械使用的手枪，每名安保警卫的标准配枪，前面有小型补偿器，这是大多数TRACK枪械手枪的特点.
+
+<b>FM2 - TRACK-79 Supressed</b>\r\nA Pistol Used by Blastov Mechanical, A Variant With a Supressor Attached, Used by MOTF Stealth Units and Nemestorm.=<b>FM2 - TRACK-79 消音型</b>\r\nBlastov机械使用的手枪，安装消音器的变体，由MOTF潜行部队和Nemestorm使用.
+
+<b>FM2 - ''KIERTA'' RAKSLI-20</b>\r\nA Shotgun Used by Blastov Mechanical, It Has a 'Foldable' Stock and Uses 20 Gauge.=<b>FM2 - “KIERTA” RAKSLI-20</b>\r\nBlastov机械使用的霰弹枪，有“可折叠”枪托，使用20号口径.
+
+<b>FM2 - ''RAKIET'' RAKSLI-50</b>\r\nA Shotgun Used by Blastov Mechanical, It Is a Lighter Shotgun, Using 12 Gauge.=<b>FM2 - “RAKIET” RAKSLI-50</b>\r\nBlastov机械使用的霰弹枪，更轻型的霰弹枪，使用12号口径.
+
+<b>FM2 - PECHTAUW-46</b>\r\nA Shotgun Used by Nemestorm, A Pretty Heavy Shotgun, Having a Bigger Barrel, The Design is Unique, Having a ''Old-Looking'' Stock or Whatever its Called.=<b>FM2 - PECHTAUW-46</b>\r\nNemestorm使用的霰弹枪，相当重的霰弹枪，有更大的枪管，设计独特，有“看起来很旧”的枪托或随便怎么称呼.
+
+<b>FM2 - ''MANBOD'' UZT-50 Flamethrower</b>\r\nA Flamethrower Used by Blastov Mechanical, A Flamethrower Carried by Thermal Units, Also Refered to As 'Biological Material Thermal Disposer', Pretty Stupid I know But Thats Technically What its Meant For, Disposing of Biological Material like Infected / Mutants, Maybe even Books (LITERALLY FAHRENHEIT 451).=<b>FM2 - “MANBOD” UZT-50火焰喷射器</b>\r\nBlastov机械使用的火焰喷射器，由热力部队携带，也被称为“生物材料热力处理装置”，我知道这很蠢，但从技术上讲这就是它的用途，处理生物材料，如感染体/变异体，甚至书籍（字面意义上的华氏451度）.
+
+<b>FM2 - UAP-Powered Heavy Flamethrower</b>\r\nA Flamethrower Used by Blastov Mechanical, A Large Flamethrower Carried by Security Super Soldiers, It Uses a Unidentified Anomalous Power 03, Which is Used to Power It, Instead of A Conventional Fuel Source like a Gastank or Whatever, It uses Oxygen Filtered Thro a UAP-03 Fitted Device.=<b>FM2 - UAP动力重型火焰喷射器</b>\r\nBlastov机械使用的火焰喷射器，由安保超级士兵携带的大型火焰喷射器，使用未识别异常能源03供电，而非传统燃料来源如气罐等，它通过UAP-03装置过滤氧气.
+
+<b>FM2 - UAP-Powered Railgun MK3</b>\r\nA Advanced Railgun Used by Blastov Mechanical, Shoots Out Objects at Very High Speeds, It Uses Unidentified Anomalous Power 07, Which is Used to Power The Magnet, Also Sometimes Called a Coilgun, It Has a Short Delay Before Firing.=<b>FM2 - UAP动力轨道炮MK3</b>\r\nBlastov机械使用的先进轨道炮，以极高速发射物体，使用未识别异常能源07为磁铁供电，有时也被称为线圈炮，射击前有短暂延迟.
+
+<b>FM2 - Security Captain UAP-Powered Railgun MK3</b>\r\nA Modified MK3 Railgun, With a Shorter Charge Up and a Scope, As the Name States, Its Used by Security Captains.=<b>FM2 - 安保队长UAP动力轨道炮MK3</b>\r\n改进型MK3轨道炮，充能时间更短并带有瞄准镜，顾名思义，由安保队长使用.
+
+<b>FM2 - Ballistic Shield</b>\r\nA Ballistic Shield Carried by Security Guards, Mostly Carried During Nemestorm Raids, Containment Breaches, Etc.=<b>FM2 - 防弹盾牌</b>\r\n安保警卫携带的防弹盾牌，主要在Nemestorm突袭、收容突破等情况下携带.
+
+<b>FM2 - Heavy Ballistic Shield</b>\r\nA Heavier Ballistic Shield Carried by Security Guards, Carried by Heavy Security, It Has Armor Plates Attached Onto It.=<b>FM2 - 重型防弹盾牌</b>\r\n安保警卫携带的更重防弹盾牌，由重型安保携带，上面附有装甲板.
+
+<b>FM2 - Security Captain Ballistic Shield</b>\r\nRed Variant Carried by Security Captains.=<b>FM2 - 安保队长防弹盾牌</b>\r\n安保队长携带的红色变体.
+
+//==============================================================
+// 敌人 - Nemestorm
+//==============================================================
+<b>FM2 - Nemestorm Militant</b>\r\nA Militant of Nemestorm, Opposes Blastov Mechanical, Raids, Kidnaps and Does Other Things Against Blastov Mechanical, Comprised of AWOL Blastov Mechanical Personnel, Hired Mercenaries, Or Just Terrorists.=<b>FM2 - Nemestorm武装分子</b>\r\nNemestorm的武装分子，反对Blastov机械，进行突袭、绑架和其他对抗Blastov机械的活动，由擅离职守的Blastov机械人员、雇佣兵或纯粹的恐怖分子组成.
+
+<b>FM2 - Nemestorm Breacher</b>\r\nA Breacher Militant of Nemestorm, Wielding A Shotgun, Basicly a Heavy Unit of Nemestorm, Breaches Doors or Whatever.=<b>FM2 - Nemestorm破门手</b>\r\nNemestorm的破门武装分子，手持霰弹枪，基本上是Nemestorm的重型单位，负责破门等.
+
+<b>FM2 - Nemestorm Combat Medic</b>\r\nA Medic of Nemestorm, Generally Not as Skilled as Actual Medics, But Still Does the Job.=<b>FM2 - Nemestorm战地医疗兵</b>\r\nNemestorm的医疗兵，通常不如真正的医疗兵熟练，但仍然履行职责.
+
+<b>FM2 - Elias Brown</b>\r\nThe Leader of Nemestorm, A 49 Year Old American, Ex-Security Captain, Hes The One who Founded Nemestorm, He Doesnt Say why He Betrayed Blastov Mechanical, But Its Theorized that He was Undercover a Competitor, Which went Bankrupt or Disbanded or Whatever, Having him Either Leave with No Work, Continue Working for Blastov, Or Make his Own Group.=<b>FM2 - Elias Brown</b>\r\nNemestorm的领袖，49岁的美国人，前安保队长，是他创立了Nemestorm，他没有说为什么背叛Blastov机械，但据推测他曾是竞争者的卧底，该竞争者破产或解散了，导致他要么没有工作，要么继续为Blastov工作，要么创建自己的组织.
+
+//==============================================================
+// 装备 - Nemestorm
+//==============================================================
+<b>FM2 - Nemestorm Helmet</b>\r\nA Bulletproof Helmet worn By Nemestorm Militants, The Full Name is STAK or ''Special Tactical Assault (model) K'', Its Supposed to Be a 'Advanced' Helmet, Similar to BENDARMA Corp's Helmets, Stolen from Canteneers Plate.=<b>FM2 - Nemestorm头盔</b>\r\nNemestorm武装分子佩戴的防弹头盔，全称为STAK或“特种战术突击K型”，应该是一种“先进”头盔，类似于BENDARMA公司的头盔，从Canteneers Plate偷来的.
+
+<b>FM2 - Nemestorm Helmet (Gasmask)</b>\r\nA Bulletproof Helmet worn By Nemestorm Militants, The Full Name is STAK or ''Special Tactical Assault (model) K'', Its Supposed to Be a 'Advanced' Helmet, Similar to BENDARMA Corp's Helmets, Stolen from Canteneers Plate.=<b>FM2 - Nemestorm头盔（防毒面具）</b>\r\nNemestorm武装分子佩戴的防弹头盔，全称为STAK或“特种战术突击K型”，应该是一种“先进”头盔，类似于BENDARMA公司的头盔，从Canteneers Plate偷来的.
+
+<b>FM2 - Nemestorm Helmet (Breacher)</b>\r\nA Bulletproof Helmet worn By Nemestorm Breacher Militants, The Full Name is STAK or ''Special Tactical Assault (model) K'', Its Supposed to Be a 'Advanced' Helmet, Similar to BENDARMA Corp's Helmets, Stolen from Canteneers Plate.=<b>FM2 - Nemestorm头盔（破门手）</b>\r\nNemestorm破门武装分子佩戴的防弹头盔，全称为STAK或“特种战术突击K型”，应该是一种“先进”头盔，类似于BENDARMA公司的头盔，从Canteneers Plate偷来的.
+
+<b>FM2 - Nemestorm Gasmask</b>\r\nA Gasmask, Only Using 1 Filter, Less Advanced Than the Blastov Mechanical Gasmask.=<b>FM2 - Nemestorm防毒面具</b>\r\n一种防毒面具，只使用1个过滤器，不如Blastov机械防毒面具先进.
+
+<b>FM2 - Nemestorm Rugzack</b>\r\nA Rugzack Worn Mostly Worn by Nemestorm Medics, Used to Carry Things, It is Primarily Used by Nemestorm Combat Medics to Carry Medical Equipment / Supplies and Other Things.=<b>FM2 - Nemestorm小背包</b>\r\n主要由Nemestorm医疗兵佩戴的小背包，用于携带物品，主要由Nemestorm战地医疗兵用于携带医疗设备/物资和其他物品.
+
+<b>FM2 - Nemestorm Heavy Radio</b>\r\nA Radio Worn on the Back Worn by Nemestorm Militants, It Uses a Unidenitifed Anomalous Power (UAP) to Be Able to Communicate with People over Very Large Distances.=<b>FM2 - Nemestorm重型电台</b>\r\nNemestorm武装分子背戴的电台，使用未识别异常能源UAP，能够在极远距离与人通信.
+
+<b>FM2 - Nemestorm Back Shoulder Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - Nemestorm背部肩甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Nemestorm Shoulder Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - Nemestorm肩甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Nemestorm Breacher Shoulder Pad</b>\r\nA Armored Shoulder Pad that Goes Over the Shoulder to Protect It.=<b>FM2 - Nemestorm破门手肩甲</b>\r\n一种覆盖肩部以提供保护的装甲肩甲.
+
+<b>FM2 - Nemestorm Back Thigh Pad</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It.=<b>FM2 - Nemestorm大腿后侧护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲.
+
+<b>FM2 - Nemestorm Thigh Pad</b>\r\nA Armored Thigh Pad that Goes Over the Thigh to Protect It.=<b>FM2 - Nemestorm大腿护甲</b>\r\n一种覆盖大腿以提供保护的装甲护甲.
+
+<b>FM2 - Nemestorm Body Armor</b>\r\nA Armored Vest Worn by Nemestorm Militants, Having Pouches, Its a Stolen Canteneers Plate Security Vest, With the Word Security Crossed Out.=<b>FM2 - Nemestorm防弹衣</b>\r\nNemestorm武装分子穿着的装甲背心，有包袋，是一件偷来的Canteneers Plate安保背心，上面的“Security”字样被划掉了.
+
+<b>FM2 - Nemestorm Body Armor (Middle)</b>\r\nA Armored Vest Worn by Nemestorm Militants, Having Pouches, Its a Stolen Canteneers Plate Security Vest, With the Word Security Crossed Out.=<b>FM2 - Nemestorm防弹衣（中部）</b>\r\nNemestorm武装分子穿着的装甲背心，有包袋，是一件偷来的Canteneers Plate安保背心，上面的“Security”字样被划掉了.
+
+<b>FM2 - Nemestorm Body Armor (Lower)</b>\r\nA Armored Vest Worn by Nemestorm Militants, Having Pouches, Its a Stolen Canteneers Plate Security Vest, With the Word Security Crossed Out.=<b>FM2 - Nemestorm防弹衣（下部）</b>\r\nNemestorm武装分子穿着的装甲背心，有包袋，是一件偷来的Canteneers Plate安保背心，上面的“Security”字样被划掉了.
+
+<b>FM2 - Nemestorm Breacher Body Armor</b>\r\nA Armored Vest Worn by Nemestorm Breacher Militants, Having Pouches and Shotgun Shells, Also a Big Neck Guard.=<b>FM2 - Nemestorm破门手防弹衣</b>\r\nNemestorm破门武装分子穿着的装甲背心，有包袋和霰弹枪弹壳，还有大型颈部护甲.
+
+<b>FM2 - Nemestorm Breacher Body Armor (Middle)</b>\r\nA Armored Vest Worn by Nemestorm Breacher Militants, Having Pouches and Shotgun Shells, Also a Big Neck Guard.=<b>FM2 - Nemestorm破门手防弹衣（中部）</b>\r\nNemestorm破门武装分子穿着的装甲背心，有包袋和霰弹枪弹壳，还有大型颈部护甲.
+
+<b>FM2 - Nemestorm Breacher Body Armor (Lower)</b>\r\nA Armored Vest Worn by Nemestorm Breacher Militants, Having Pouches and Shotgun Shells, Also a Big Neck Guard.=<b>FM2 - Nemestorm破门手防弹衣（下部）</b>\r\nNemestorm破门武装分子穿着的装甲背心，有包袋和霰弹枪弹壳，还有大型颈部护甲.
+
+//==============================================================
+// 异常实体 / 异常物品
+//==============================================================
+<b>FM2 - ACO-D-051 Victim</b>\r\nA Victim of ACO-D-051, A Highly Infectious Disease. \n\nThis Victim Appears to Be in the Advanced Stages, Which Take 2-3 Days, Symptoms Include, Greenish Puss Coming out of the Skin, Vomitting, Compromised Immune System, Loss of Controll, Unbalance. \n\nACO-D-051, Itself, Appears to Be Boulder-Like Objects, Unlike Most Boulers, They are Hollow, Containing A Slime-Like Material, It Appears to be Alive, And Can Shoot out Tiny Spike-Like Projectiles, Infecting anyone Hit Wit Them. \n\nThere is no Known Cure.=<b>FM2 - ACO-D-051受害者</b>\r\nACO-D-051的受害者，一种高度传染性疾病. \n\n该受害者似乎处于晚期阶段，需要2-3天，症状包括：皮肤流出绿色脓液、呕吐、免疫系统受损、失去控制、失衡. \n\nACO-D-051本身似乎是巨石状物体，与大多数巨石不同，它们是中空的，含有类似粘液的材料，似乎是活的，可以射出微小的尖刺状射弹，感染任何被击中的人. \n\n目前没有已知的治愈方法.
+
+<b>FM2 - ACO-D-051 Victim (Employee)</b>\r\nA Blastov Mechanical Employee Whos A Victim of ACO-D-051.=<b>FM2 - ACO-D-051受害者（员工）</b>\r\n一名Blastov机械员工，是ACO-D-051的受害者.
+
+<b>FM2 - ACO-D-051 Victim (Guard / Armored)</b>\r\nA Blastov Mechanical Guard / Armored Employee Whos A Victim of ACO-D-051.=<b>FM2 - ACO-D-051受害者（警卫/装甲）</b>\r\n一名Blastov机械警卫/装甲员工，是ACO-D-051的受害者.
+
+<b>FM2 - ACO-S-008-A ''Summoning Document''</b>\r\nAnomalous Contained Object-008-A Is a Infohazard Document, It Appears to Be a Standard ACO-Info Document, But The Color of the Text and The Paper are Flipped. \nOriginally, This Was a Document About ACO-F-012, But For Unknown Reasons, It Somehow Became ACO-S-008-A, And Its Information Changed From Being Information About ACO-F-012 to 'Ristutter', Upon Reading The Document, In any Shape or Form, ACO-D-008-B Will Manifest. \nDo Not Read It, Literally SCP-513.=<b>FM2 - ACO-S-008-A“召唤文档”</b>\r\n异常收容物-008-A是一份信息危害文档，看起来是一份标准的ACO信息文档，但文本和纸张的颜色是反转的. \n最初，这是一份关于ACO-F-012的文档，但由于未知原因，它不知何故变成了ACO-S-008-A，其信息从关于ACO-F-012的信息变成了“Ristutter”，无论以任何形式阅读该文档，ACO-D-008-B都会显现. \n不要阅读它，简直就是SCP-513.
+
+<b>FM2 - ACO-D-008-B ''Ristutter''</b>\r\nAnomalous Contained Object-008-B Is a Tall Humanoid Being, Approximately 6.6 Feet Tall, It's ''Skin'' Appears to be Very Dark, Its Ribs are Visible, Protruding Out of Its Chest. \nUpon Reading The ACO-S-008-A, It will Manifest 15-20 Feet Away From The Reader, Only Being Visible to the Reader / With NVG's, It Will Begin to Follow the Reader, Randomly, It Might Slash at The Reader's Back, Or Push Them Over, Loud Noises Can Make it Go into a ''Rage'' State, Having its Goal be to Kill the Reader as Soon as Possible, Upon the Reader's Death, Their Body will Decompose At a Fast Rate, And 008-B will Vanish.=<b>FM2 - ACO-D-008-B“Ristutter”</b>\r\n异常收容物-008-B是一个高大的人形实体，约6.6英尺高，它的“皮肤”看起来非常黑暗，肋骨可见，从胸腔中突出. \n在阅读ACO-S-008-A后，它会在读者15-20英尺外显现，只有读者/使用夜视仪才能看到，它会开始跟随读者，随机地，它可能会砍击读者的背部，或推倒他们，巨大的噪音会使其进入“愤怒”状态，目标是尽快杀死读者，读者死亡后，其身体会快速腐烂，008-B会消失.
+
+<b>FM2 - ACO-F-153 ''Redret''</b>\r\nAnomalous Contained Object-153 Is a Male Humanoid Being, Approximately 6 Feet Tall, His ''Skin'' Appears to be Dark, He Appears to Wear a Scientist Uniform, But the Colorscheme is Dark, With a Red Shirt and Red Blastov Mechanical Logo, There Appears to Be a Wound on On his Torso, And He Has Blood Smeared over His Face and Hands. \n\nIts Unknown What Makes him Manifest, But Randomly, He will Manifest Near Someone, Reports Say He Manifested Infront of Them, And Gave Information About [REDACTED] [DATA EXPUNGED].=<b>FM2 - ACO-F-153“Redret”</b>\r\n异常收容物-153是一个男性人形实体，约6英尺高，他的“皮肤”看起来很黑暗，似乎穿着科学家制服，但配色方案是深色的，有红色衬衫和红色Blastov机械标志，他的躯干上似乎有一处伤口，脸上和手上沾有血迹. \n\n目前不知道什么原因导致他显现，但随机地，他会出现在某人附近，报告称他曾出现在他们面前，并提供了关于[已编辑][数据删除]的信息.
+
+<b>FM2 - ACO-F-056-A ''Elder Alloy''</b>\r\nAnomalous Contained Object-056-A Is a Plate of Metal, Samples Vary in Sizes, The Metal Appearance is Blue, With A Rust-Like Greenish Material Coating It. \n\nThe Steel its Made out of Appears to be Allmost Indestructible, But from Other Non-Plate Samples, (Armor, Rings, Etc), It Appears the Metal can Be Either Smelted or Bent. \n\nIt was First Found in a Sunken Shipwreck near Mexico, Blastov Mechanical Claims to Only Use it For Security Super Soldier Armor.=<b>FM2 - ACO-F-056-A“远古合金”</b>\r\n异常收容物-056-A是一块金属板，样本大小不一，金属外观为蓝色，表面覆有类似锈迹的绿色物质. \n\n制造它的钢材几乎坚不可摧，但从其他非板材样本（护甲、戒指等）来看，这种金属似乎可以熔炼或弯曲. \n\n它最初在墨西哥附近的沉船残骸中被发现，Blastov机械声称仅将其用于安保超级士兵护甲.
+
+<b>FM2 - ACO-F-056-B ''Elder Plated Armor''</b>\r\nAnomalous Contained Object-056-B Is a Set of Body Armor, Protecting the Upper Part of the Body and The Middle Part. \n\nIts Unknown how It was Smelted or Bent into Armor, Atleast with This amount of Detail on It, Around 90 Sets of This Armor were Located in the Shipwreck, Most Used for Security Super Soldier Armor.=<b>FM2 - ACO-F-056-B“远古板甲”</b>\r\n异常收容物-056-B是一套护甲，保护身体的上部和中部. \n\n不知道它是如何被熔炼或弯曲成护甲的，至少以这种细节程度来看，在沉船中发现了大约90套这种护甲，大部分用于安保超级士兵护甲.
+
+<b>FM2 - ACO-F-056-B ''Elder Plated Armor'' (Lower)</b>\r\nAnomalous Contained Object-056-B Is a Set of Body Armor, Protecting the Upper Part of the Body and The Middle Part. \n\nIts Unknown how It was Smelted or Bent into Armor, Atleast with This amount of Detail on It, Around 90 Sets of This Armor were Located in the Shipwreck, Most Used for Security Super Soldier Armor=<b>FM2 - ACO-F-056-B“远古板甲”（下部）</b>\r\n异常收容物-056-B是一套护甲，保护身体的上部和中部. \n\n不知道它是如何被熔炼或弯曲成护甲的，至少以这种细节程度来看，在沉船中发现了大约90套这种护甲，大部分用于安保超级士兵护甲.
+
+<b>FM2 - ACO-D-805 ''Chernobyl's Flesh''</b>\r\nAnomalous Contained Object-805 Is a Sphere Comprised of A Flesh-Like Material, It Appears to Emit High Doses of Radiation. \n\nThe Sample is Approximately 2 Feet in Width and Length, The Radiation it Emits does Not Appear to be Able to Go Thro Glass, The Origin of The Sample is |REDACTED|. \n\nThe Sample is To Be Contained in a Glass Container in A Airlocked Room, Incase a Containment Breach, Evacuate the Observation Room, If the Radiation cant be Contained, Destruction of the Sample shall be Attempted.=<b>FM2 - ACO-D-805“切尔诺贝利之肉”</b>\r\n异常收容物-805是一个由类似肉质的材料构成的球体，似乎会释放高剂量辐射. \n\n样本大约2英尺宽和长，其释放的辐射似乎无法穿透玻璃，样本来源为|已编辑|. \n\n样本应保存在气密室的玻璃容器中，如发生收容突破，疏散观察室，如果辐射无法被控制，应尝试销毁样本.
+
+<b>FM2 - ACO-S-512 ''Citadel Metal''</b>\r\nAnomalous Contained Object-512 Is a Cube Comprised of A Unknown Metal, It Appears to Emit Electricity. \n\nSamples Approximately 3-4 Feet in Width and Length Have Been Collected, Touching the Samples is Prohibited, Even If the Electrical Shock isnt Lethal, Incase any Sample is Damaged Enough, It Will Break Open, Releasing a Constant and High Powered Electrical Discharge. \n\nSamples are To Be Contained in a Room, With a Insulated Metal Box Above, Which Could be Lowered Incase The Sample gets Damaged.=<b>FM2 - ACO-S-512“堡垒金属”</b>\r\n异常收容物-512是一个由未知金属构成的立方体，似乎会释放电流. \n\n已收集到约3-4英尺宽和长的样本，禁止触摸样本，即使电击不会致命，如果任何样本损坏到一定程度，它会破裂，释放持续的高压放电. \n\n样本应保存在一个房间内，上方有一个绝缘金属箱，可在样本受损时降下.
+
+<b>FM2 - ACO-F-093-JOKE ''Brainrot''</b>\r\nAnomalous Contained Object-093 Is a Toilet, The Appearance is Pretty Standard. \n\nPersonnel Reported Seeing a Head Stick out of It and Sing a Song, Its Unknown When or Why it Happens, Any Camera, Speaker or Television Near it Will Malfunction.=<b>FM2 - ACO-F-093-JOKE“脑腐”</b>\r\n异常收容物-093是一个马桶，外观相当标准. \n\n人员报告看到一个头从里面伸出来唱歌，不知道什么时候或为什么发生，附近的任何摄像头、扬声器或电视都会出现故障.
+
+//==============================================================
+// 家具/道具
+//==============================================================
+<b>FM2 - Office Chair</b>\r\nSadly Does Not Move, But Who Cares.=<b>FM2 - 办公椅</b>\r\n遗憾的是它不会移动，但谁在乎呢.
+
+<b>FM2 - Bench</b>\r\nA Bench for People to Sit On.=<b>FM2 - 长凳</b>\r\n供人坐的长凳.
+
+<b>FM2 - Desk</b>\r\nA Desk For People to Work at Or Whatever.=<b>FM2 - 办公桌</b>\r\n供人们工作或做其他事情的办公桌.
+
+<b>FM2 - Desk (Open)</b>\r\nA Desk For People to Work at Or Whatever.=<b>FM2 - 办公桌（开放式）</b>\r\n供人们工作或做其他事情的办公桌.
+
+<b>FM2 - Table</b>\r\nLooks Plastic but Isnt.=<b>FM2 - 桌子</b>\r\n看起来像塑料但实际不是.
+
+<b>FM2 - Metal Shelf</b>\r\nA Metal Shelf to Put Things on Top Of.=<b>FM2 - 金属架子</b>\r\n用于放置物品的金属架子.
+
+<b>FM2 - Office Cabinet</b>\r\nUsed to Store Papers and Documents and Other Things.=<b>FM2 - 办公柜</b>\r\n用于存放纸张、文件和其他物品.
+
+//==============================================================
+// 物品 - 门禁卡
+//==============================================================
+<b>FM2 - Keycard V-Pass</b>\r\nA Visitor-Pass Keycard Used to Open Very-Low Security Doors, Its Rare to See These Cards, Since There Really arent Many Areas for Visitors to Go.=<b>FM2 - 门禁卡 V-Pass</b>\r\n一种访客通行门禁卡，用于开启极低安全级别的门，这种卡很少见，因为实际上没有多少区域可供访客前往.
+
+<b>FM2 - Keycard Level 1</b>\r\nA Keycard Used to Open Low-Security Doors, Literally SCP.=<b>FM2 - 门禁卡 1级</b>\r\n一种用于开启低安全级别门的门禁卡，简直就是SCP.
+
+<b>FM2 - Keycard Level 2</b>\r\nA Keycard Used to Open Low-Security Doors, Literally SCP.=<b>FM2 - 门禁卡 2级</b>\r\n一种用于开启低安全级别门的门禁卡，简直就是SCP.
+
+<b>FM2 - Keycard Level 3</b>\r\nA Keycard Used to Open Medium-Security Doors, Literally SCP.=<b>FM2 - 门禁卡 3级</b>\r\n一种用于开启中安全级别门的门禁卡，简直就是SCP.
+
+<b>FM2 - Keycard Level 4</b>\r\nA Keycard Used to Open Medium-Security Doors, Literally SCP.=<b>FM2 - 门禁卡 4级</b>\r\n一种用于开启中安全级别门的门禁卡，简直就是SCP.
+
+<b>FM2 - Keycard Level 5</b>\r\nA Keycard Used to Open High-Security Doors, Literally SCP.=<b>FM2 - 门禁卡 5级</b>\r\n一种用于开启高安全级别门的门禁卡，简直就是SCP.
+
+<b>FM2 - Keycard Level 6</b>\r\nA Keycard Used to Open Very High-Security Doors, One of the More Rare Cards, Given to Very Important Personnel.=<b>FM2 - 门禁卡 6级</b>\r\n一种用于开启极高安全级别门的门禁卡，较为罕见的卡片之一，给予非常重要的人员.
+
+<b>FM2 - Keycard Level 7</b>\r\nA Keycard Used to Open Any Doors, Given to Directors.=<b>FM2 - 门禁卡 7级</b>\r\n一种用于开启任何门的门禁卡，给予主管.
+
+//==============================================================
+// 物品 - 文档/电子设备
+//==============================================================
+<b>FM2 - Document</b>\r\nA Document Containing Information of Something.=<b>FM2 - 文档</b>\r\n一份包含某方面信息的文档.
+
+<b>FM2 - Document (Side)</b>\r\nA Document Containing Information of Something.=<b>FM2 - 文档（侧放）</b>\r\n一份包含某方面信息的文档.
+
+<b>FM2 - Computer Monitor</b>\r\nA Monitor of a Computer, Not Destructible, F##k You.=<b>FM2 - 电脑显示器</b>\r\n电脑的显示器，不可摧毁，去你##的.
+
+<b>FM2 - Computer</b>\r\nA Computer, Not Destructible, F##k You.=<b>FM2 - 电脑</b>\r\n一台电脑，不可摧毁，去你##的.
+
+<b>FM2 - Computer Keyboard</b>\r\nA Keyboard of a Computer, Kinda Destructible.=<b>FM2 - 电脑键盘</b>\r\n电脑的键盘，勉强可以摧毁.
+
+<b>FM2 - Computer Mouse</b>\r\nA Mouse of a Computer, Not Destructible, F##k You.=<b>FM2 - 电脑鼠标</b>\r\n电脑的鼠标，不可摧毁，去你##的.
+
+//==============================================================
+// 物品 - 容器/杂物
+//==============================================================
+<b>FM2 - Keycard Door</b>\r\na Door Operated with a Keycard, Made by Hard-Lock Security, Background Prop.=<b>FM2 - 门禁卡门</b>\r\n一种由门禁卡操作的门，由Hard-Lock Security制造，背景道具.
+
+<b>FM2 - Hazard Barrel</b>\r\na ''Barrel'' Used to Signify Hazards.=<b>FM2 - 危险桶</b>\r\n一种用于标示危险的“桶”.
+
+<b>FM2 - Barrel</b>\r\na Barrel Used to Store Liquids.=<b>FM2 - 桶</b>\r\n一种用于储存液体的桶.
+
+<b>FM2 - Crate (Long)</b>\r\nLooks Plastic but Isnt.=<b>FM2 - 板条箱（长）</b>\r\n看起来像塑料但实际不是.
+
+<b>FM2 - Crate (Square)</b>\r\nLooks Plastic but Isnt.=<b>FM2 - 板条箱（方）</b>\r\n看起来像塑料但实际不是.
+
+//==============================================================
+// 物品 - 工具/武器
+//==============================================================
+<b>FM2 - Baton</b>\r\nA Police Baton Carried by Guards, The Design is Very Breath Taking, Made by The George & Floyd Company, Just like Lifes, It Matters.=<b>FM2 - 警棍</b>\r\n警卫携带的警棍，设计非常惊人，由乔治与弗洛伊德公司制造，就像生命一样，它很重要.
+
+<b>FM2 - Stun Baton</b>\r\nA Stun Baton Carried by Guards, Literally Civil Protection, Either copy and paste the guard holding the baton or add armor after giving the baton for the new armor code's thing where held objects not collide to work.=<b>FM2 - 电击警棍</b>\r\n警卫携带的电击警棍，简直就是国民护卫队，要么复制粘贴拿着警棍的警卫，要么在给予警棍后添加护甲，以使新护甲代码的“手持物体不碰撞”功能生效.
+
+<b>FM2 - Hammer</b>\r\nA Basic Clawhammer, Carried by Engineers, Used to Hammer in Nails.=<b>FM2 - 锤子</b>\r\n一种基本羊角锤，由工程师携带，用于钉钉子.
+
+<b>FM2 - Sledgehammer</b>\r\nLETO I ARBALETY.=<b>FM2 - 大锤</b>\r\n莱托与弩.
+
+<b>FM2 - Blowtorch</b>\r\nA Blowtorch, Carried by Engineers, Used to ''Cut'' Things Open.=<b>FM2 - 喷灯</b>\r\n一种喷灯，由工程师携带，用于“切割”东西.
+
+<b>FM2 - Screwdriver</b>\r\nA Basic Screwdriver, Carried by Engineers, Used to Screw Screws in??.=<b>FM2 - 螺丝刀</b>\r\n一种基本螺丝刀，由工程师携带，用于拧螺丝？？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//2*番茄
+<size%3D1.5em>Tomatoiab Character</size>\nOnly Tomatoiab\n<noparse>A mod by tomatoiab for game version 1.21+</noparse>=<size%3D1.5em>Tomatoiab 角色</size>\n只有 Tomatoiab\n<noparse>由 tomatoiab 为游戏版本 1.21+ 制作的模组</noparse>
+Only Tomatoiab=只有Tomatoiab
+
+
+
+
+
+
+
+
+
+
+
+
+//3*战争2025V2模组_WARFARE 2025 V2 Mod
+WARFARE 2025 V2 Mod=战争2025 V2模组
+remaster from humans humans humans.=从人类到人类再到人类.
+<b>WAFARE A24 - US Seals</b>\r\nyea.=<b>战争A24 - 美国海豹突击队</b>\r\nyea
+
+<b>How To Reload (EMPTY)  A24</b>\r\nIf the firearm is empty the slide locks and you cannot shoot, press Y while your mouse is HOVERED over the firearm to eject the mag, and press Y again to insert a mag, and Y again to release the slide.=<b>如何装弹（空仓） A24</b>\r\n如果枪械为空仓，滑套会锁定且无法射击，将鼠标悬停在枪械上时按Y键弹出弹匣，再次按Y键插入弹匣，再按Y键释放滑套. 
+
+<b>How To Reload (PARTIAL)  A24</b>\r\nYou can reload partialy when ever with any firearm, press Y while your mouse is HOVERED over the firearm to eject the mag, and press Y again to insert a mag, after the mag is in you can shoot the gun, your mag gets refilled + 1 bullet in the chamber, but you can ALSO rack the slide by pressing Y when the mag is inserted without shooting the gun, itll rack the slide and eject the bullet in the chamber.=<b>如何装弹（部分装填） A24</b>\r\n你随时可以为任何枪械进行部分装填，将鼠标悬停在枪械上时按Y键弹出弹匣，再次按Y键插入弹匣，弹匣插入后即可射击，弹匣会被重新装填并且枪膛内会多一发子弹，但你也可以在弹匣插入后不射击，而是按Y键拉动滑套，这样会退出枪膛内的子弹. 
+
+<b>MISC .  A24</b>\r\nT to toggle the fire selector, most guns but the SR-25 and the MK48s have a auto and semi that can be togged.=<b>杂项 . A24</b>\r\n按T键切换射击模式，大多数枪械（除了SR-25和MK48）都有自动和半自动模式可以切换. 
+
+<b>Profane 5/6  A24</b>\r\nAll NPCs and equipment related to Profane 5/6 squad.=<b>亵渎 5/6  A24</b>\r\n所有与亵渎 5/6 小队相关的NPC和装备. 
+
+<b>Profane 5/6 (Rifleman) A  A24</b>\r\nRandom rifleman in the Profane squad.=<b>亵渎 5/6（步枪手）A A24</b>\r\n亵渎小队中的随机步枪手. 
+
+<b>Profane 5/6 (Rifleman) B  A24</b>\r\nRandom rifleman in the Profane squad.=<b>亵渎 5/6（步枪手）B A24</b>\r\n亵渎小队中的随机步枪手. 
+
+<b>Profane 5/6 (Radioman)  A24</b>\r\nRandom radioman in the Profane squad, comms and stuff.=<b>亵渎 5/6（通信兵） A24</b>\r\n亵渎小队中的随机通信兵，负责通信等事务. 
+
+<b>Profane 5/6 (Automatic Rifleman)  A24</b>\r\nRandom automatic rifleman in the Profane squad.=<b>亵渎 5/6（自动步枪手） A24</b>\r\n亵渎小队中的随机自动步枪手. 
+
+<b>Rifleman Vest Top - A  A24</b>\r\nlight vest.=<b>步枪手背心（上部）- A A24</b>\r\n轻型背心. 
+
+<b>Rifleman Vest Bottom - A  A24</b>\r\n'F' to use radio.=<b>步枪手背心（下部）- A A24</b>\r\n按'F'使用无线电. 
+
+<b>Rifleman Belt - A  A24</b>\r\nstuff.=<b>步枪手腰带 - A A24</b>\r\n物品. 
+
+<b>Rifleman Vest Top - B  A24</b>\r\nlight vest.=<b>步枪手背心（上部）- B A24</b>\r\n轻型背心. 
+
+<b>Rifleman Vest Bottom - B  A24</b>\r\n'F' to use radio.=<b>步枪手背心（下部）- B A24</b>\r\n按'F'使用无线电. 
+
+<b>Rifleman Belt - B  A24</b>\r\nstuff.=<b>步枪手腰带 - B A24</b>\r\n物品. 
+
+<b>Radioman Vest Top  A24</b>\r\nlight vest.=<b>通信兵背心（上部） A24</b>\r\n轻型背心. 
+
+<b>Radioman Vest Bottom  A24</b>\r\n'F' to use radio.=<b>通信兵背心（下部） A24</b>\r\n按'F'使用无线电. 
+
+<b>Radioman Belt  A24</b>\r\nstuff.=<b>通信兵腰带 A24</b>\r\n物品. 
+
+<b>Automatic Rifleman  Vest Top  A24</b>\r\nlight vest.=<b>自动步枪手背心（上部） A24</b>\r\n轻型背心. 
+
+<b>Automatic Rifleman Vest Bottom  A24</b>\r\n'F' to use radio.=<b>自动步枪手背心（下部） A24</b>\r\n按'F'使用无线电. 
+
+<b>Automatic Rifleman Belt  A24</b>\r\nstuff.=<b>自动步枪手腰带 A24</b>\r\n物品. 
+
+<b>Advanced Combat Helmets (ACH) A  A24</b>\r\n'F' for IR light. head protection L to turn on its flashlight.=<b>先进战斗头盔 (ACH) A A24</b>\r\n按'F'开启红外灯. 头部防护，按L开启手电筒. 
+
+<b>Advanced Combat Helmets (ACH) B  A24</b>\r\n'F' for IR light. head protection L to turn on its flashlight.=<b>先进战斗头盔 (ACH) B A24</b>\r\n按'F'开启红外灯. 头部防护，按L开启手电筒. 
+
+<b>Advanced Combat Helmets (ACH) C  A24</b>\r\n'F' for IR light. head protection L to turn on its flashlight.=<b>先进战斗头盔 (ACH) C A24</b>\r\n按'F'开启红外灯. 头部防护，按L开启手电筒. 
+
+<b>Advanced Combat Helmets (ACH) D  A24</b>\r\n'F' for IR light. head protection L to turn on its flashlight.=<b>先进战斗头盔 (ACH) D A24</b>\r\n按'F'开启红外灯. 头部防护，按L开启手电筒. 
+
+<b>Frogman 1 (OP2)  A24</b>\r\nAll NPCs and equipment related to Frogman squad.=<b>蛙人 1 (OP2) A24</b>\r\n所有与蛙人小队相关的NPC和装备. 
+
+<b>Frogman 1 OP2 (Rifleman) A  A24</b>\r\nRandom rifleman in the Profane squad.=<b>蛙人 1 OP2（步枪手）A A24</b>\r\n亵渎小队中的随机步枪手. 
+
+<b>Frogman 1 OP2 (Rifleman) B  A24</b>\r\nRandom rifleman in the Profane squad.=<b>蛙人 1 OP2（步枪手）B A24</b>\r\n亵渎小队中的随机步枪手. 
+
+<b>Frogman 1 OP2 (Radioman)  A24</b>\r\nRandom radioman in the Profane squad, comms and stuff.=<b>蛙人 1 OP2（通信兵） A24</b>\r\n亵渎小队中的随机通信兵，负责通信等事务. 
+
+<b>Frogman 1 OP2 (Automatic Rifleman)  A24</b>\r\nRandom automatic rifleman in the Profane squad.=<b>蛙人 1 OP2（自动步枪手） A24</b>\r\n亵渎小队中的随机自动步枪手. 
+
+<b>Rifleman Vest Top - C (Frogman)  A24</b>\r\nlight vest.=<b>步枪手背心（上部）- C（蛙人） A24</b>\r\n轻型背心. 
+
+<b>Rifleman Vest Bottom - C (Frogman)  A24</b>\r\n'F' to use radio.=<b>步枪手背心（下部）- C（蛙人） A24</b>\r\n按'F'使用无线电. 
+
+<b>Rifleman Belt - C (Frogman)  A24</b>\r\nstuff.=<b>步枪手腰带 - C（蛙人） A24</b>\r\n物品. 
+
+<b>Rifleman Vest Top - D (Frogman)  A24</b>\r\nlight vest.=<b>步枪手背心（上部）- D（蛙人） A24</b>\r\n轻型背心. 
+
+<b>Rifleman Vest Bottom - D (Frogman)  A24</b>\r\n'F' to use radio.=<b>步枪手背心（下部）- D（蛙人） A24</b>\r\n按'F'使用无线电. 
+
+<b>Rifleman Belt - D (Frogman)  A24</b>\r\nstuff.=<b>步枪手腰带 - D（蛙人） A24</b>\r\n物品. 
+
+<b>Radioman Vest Top B (Frogman)  A24</b>\r\nlight vest.=<b>通信兵背心（上部）B（蛙人） A24</b>\r\n轻型背心. 
+
+<b>Radioman Vest Bottom B (Frogman)  A24</b>\r\n'F' to use radio.=<b>通信兵背心（下部）B（蛙人） A24</b>\r\n按'F'使用无线电. 
+
+<b>Radioman Belt B (Frogman)  A24</b>\r\nstuff.=<b>通信兵腰带 B（蛙人） A24</b>\r\n物品. 
+
+<b>Automatic Rifleman  Vest Top B (Frogman)  A24</b>\r\nlight vest.=<b>自动步枪手背心（上部）B（蛙人） A24</b>\r\n轻型背心. 
+
+<b>Automatic Rifleman Vest Bottom B (Frogman)  A24</b>\r\n'F' to use radio.=<b>自动步枪手背心（下部）B（蛙人） A24</b>\r\n按'F'使用无线电. 
+
+<b>Automatic Rifleman Belt B (Frogman)  A24</b>\r\nstuff.=<b>自动步枪手腰带 B（蛙人） A24</b>\r\n物品. 
+
+<b>Advanced Combat Helmets (ACH) E (Frogman)  A24</b>\r\n'F' for IR light. head protection L to turn on its flashlight.=<b>先进战斗头盔 (ACH) E（蛙人） A24</b>\r\n按'F'开启红外灯. 头部防护，按L开启手电筒. 
+
+<b>Advanced Combat Helmets (ACH) F (Frogman)  A24</b>\r\n'F' for IR light. head protection L to turn on its flashlight.=<b>先进战斗头盔 (ACH) F（蛙人） A24</b>\r\n按'F'开启红外灯. 头部防护，按L开启手电筒. 
+
+<b>PASGT Helment A (Frogman)  A24</b>\r\n'F' for IR light. head protection L to turn on its flashlight.=<b>PASGT头盔 A（蛙人） A24</b>\r\n按'F'开启红外灯. 头部防护，按L开启手电筒. 
+
+<b>PASGT Helment B (Frogman)  A24</b>\r\n'F' for IR light. head protection L to turn on its flashlight.=<b>PASGT头盔 B（蛙人） A24</b>\r\n按'F'开启红外灯. 头部防护，按L开启手电筒. 
+
+<b>Misc . / Weapons  A24</b>\r\nguns and stuff.=<b>杂项 / 武器 A24</b>\r\n枪械和其他物品. 
+
+<b>Universal Helment Eye PPE A  A24</b>\r\n'F' for goggles.=<b>通用头盔眼部防护 A A24</b>\r\n按'F'使用护目镜. 
+
+<b>Universal Helment Eye PPE B  A24</b>\r\n'F' for goggles.=<b>通用头盔眼部防护 B A24</b>\r\n按'F'使用护目镜. 
+
+<b>Beanie  A24</b>\r\ncold protection.=<b>保暖帽 A24</b>\r\n防寒保暖. 
+
+<b>Large Scaf  A24</b>\r\nLarge scarf to block sunlight, protect from sand dust and stay cool when getting shot at.=<b>大围巾 A24</b>\r\n大围巾，用于遮挡阳光、防止沙尘，并在被射击时保持凉爽. 
+
+<b>Large Helment Hood  A24</b>\r\nLarge hood that goes over a helment to keep the neck cool.=<b>大头盔罩 A24</b>\r\n罩在头盔上的大护罩，用于保持颈部凉爽. 
+
+<b>Hood  A24</b>\r\nSmall Hood that goes over a helment to keep the neck cool.=<b>头盔罩 A24</b>\r\n罩在头盔上的小护罩，用于保持颈部凉爽. 
+
+<b>Universal NVG Mount  A24</b>\r\nnight vision mount for any helment, but not the New Iraqi Army dudes cause we gate keepin.=<b>通用夜视仪支架 A24</b>\r\n适用于任何头盔的夜视仪支架，但不适用于新伊拉克军士兵，因为我们不给他们用. 
+
+<b>Standard Eye PPE  A24</b>\r\neye ppe for protectiona and stuff.=<b>标准眼部防护 A24</b>\r\n用于防护等的眼部防护装备. 
+
+<b>Beretta 92FS  A24</b>\r\nThe Beretta 92FS is a premier 9mm, double/single-action semi-automatic pistol renowned for its exceptional reliability, accuracy, and durability, setting standards for military and police forces for over 25 years.=<b>贝雷塔 92FS A24</b>\r\n贝雷塔 92FS 是一款卓越的9毫米双动/单动半自动手枪，以其出色的可靠性、精度和耐用性著称，25年来为军队和警察部队树立了标准. 
+
+<b>Mk 18 Mod 0 CQBR  A24</b>\r\nL to use flashlight. The Close Quarter Battle Receiver (CQBR) is a replacement upper receiver for the M4A1 carbine developed by the US Navy.=<b>Mk 18 Mod 0 CQBR A24</b>\r\n按L使用手电筒. 近战型上机匣（CQBR）是美国海军为M4A1卡宾枪开发的替换上机匣. 
+
+<b>M4A1 Carbine  A24</b>\r\nL to use flashlight. The M4 carbine (officially Carbine, Caliber 5.56 mm, M4) is an assault rifle developed in the United States during the 1980s.=<b>M4A1卡宾枪 A24</b>\r\n按L使用手电筒. M4卡宾枪（正式名称为卡宾枪，口径5.56毫米，M4）是美国在20世纪80年代开发的突击步枪. 
+
+<b>COLT M4A1  A24</b>\r\nL to use flashlight. The Colt M4A1 is a fully automatic variant of the standard M4 carbine, primarily developed for U.S. Special Operations. Chambered in (5.56 times 45) mm NATO, it is celebrated globally for its reliability in close-quarters combat.=<b>柯尔特 M4A1 A24</b>\r\n按L使用手电筒. 柯尔特 M4A1 是标准 M4 卡宾枪的全自动变种，主要为美国特种作战开发. 使用北约（5.56×45）毫米弹药，以其在近战中的可靠性而享誉全球. 
+
+<b>M16A3 Auto  A24</b>\r\nL to use flashlight. not in the movies but idc its cool.=<b>M16A3 自动步枪 A24</b>\r\n按L使用手电筒. 虽然电影里没有，但我觉得它很酷. 
+
+<b>M16A3 Auto W Attachments  A24</b>\r\nL to use flashlight. not in the movies but idc its cool.=<b>M16A3 自动步枪带配件 A24</b>\r\n按L使用手电筒. 虽然电影里没有，但我觉得它很酷. 
+
+<b>Mk 46 Mod 0  A24</b>\r\nThe Mk 46 Mod 0 is a lightweight, gas-operated, belt-fed machine gun (LWMG) utilized by U.S. Special Operations Forces (SOF) since 2003, designed by Fabrique Nationale (FN) as a specialized variant of the M249 SAW. It is optimized for mobility, featuring a shorter barrel, no carrying handle, and added Picatinny rails for accessories.=<b>Mk 46 Mod 0 A24</b>\r\nMk 46 Mod 0 是一款轻型、气动、弹链供弹的机枪，自2003年起由美国特种作战部队使用，由FN公司设计，是M249 SAW的专用变体. 它针对机动性进行了优化，拥有较短的枪管、无提把，并增加了皮卡汀尼导轨用于附件. 
+
+<b>Mk 48 Mod 0  A24</b>\r\nThe Mark 48, or Mk 48, is a belt-fed general-purpose machine gun developed and manufactured by Fabrique Nationale Manufacturing Inc., a division of FN Herstal based in the United States, for the United States Special Operations Command (USSOCOM). It is chambered in 7.62×51mm NATO and is belt-fed by M13 disintegrating links or German DM1 non-disintegrating belts. USSOCOM has adopted the weapon and started its fielding process, beginning with special operations units.=<b>Mk 48 Mod 0 A24</b>\r\nMark 48 或 Mk 48 是一款弹链供弹的通用机枪，由美国FN Herstal公司的子公司Fabrique Nationale Manufacturing Inc.为美国特种作战司令部开发制造. 它使用7.62×51毫米北约弹药，通过M13可散式弹链或德国DM1不可散式弹链供弹. USSOCOM已采用该武器并开始部署，首先装备特种作战部队. 
+
+<b>Knight's Armament SR-25  A24</b>\r\n'P' to turn on or off the laser pointer. The Knight's Armament Company (KAC) SR-25 is a premium, semi-automatic designated marksman and sniper rifle chambered in 7.62×51mm NATO (.308 Winchester).=<b>KAC SR-25 A24</b>\r\n按'P'开启或关闭激光指示器. 骑士装备公司（KAC）SR-25 是一款优质半自动精确射手和狙击步枪，使用7.62×51毫米北约（.308温彻斯特）弹药. 
+
+<b>Morphine Injector Pen  A24</b>\r\n'F' to extend it. healths ig lmao.=<b>吗啡注射笔 A24</b>\r\n按'F'伸出针头. 恢复生命值，哈哈. 
+
+<b>Level 3 Retention Holster (Belt Strap)  A24</b>\r\nTHIS HOLSTER CAN ONLY HOLSTER M9 IN THE MOD. Designed to resist gun grabs during physical altercations. The standard choice for many law enforcement agencies, especially patrol and high-contact roles.=<b>三级防抢枪套（腰带式） A24</b>\r\n此枪套在模组中只能容纳M9手枪. 设计用于在肢体冲突中抵抗抢枪. 是许多执法机构的标准选择，特别是巡逻和高接触岗位. 
+
+<b>Level 3 Retention Holster (Leg Strap)  A24</b>\r\nTHIS HOLSTER CAN ONLY HOLSTER M9 IN THE MOD. Designed to resist gun grabs during physical altercations. The standard choice for many law enforcement agencies, especially patrol and high-contact roles.=<b>三级防抢枪套（腿带式） A24</b>\r\n此枪套在模组中只能容纳M9手枪. 设计用于在肢体冲突中抵抗抢枪. 是许多执法机构的标准选择，特别是巡逻和高接触岗位. 
+
+<b>M84 Stun Grenade  A24</b>\r\nA less than lethal grenade made to catch someone off guard via a loud explosion, IT DOESNT blind people it just deafens them.=<b>M84震撼弹 A24</b>\r\n一种非致命手榴弹，通过巨响使目标措手不及，它不会致盲，只会致聋. 
+
+<b>Evil M84 Stun Grenade  A24</b>\r\nIts evil.=<b>邪恶 M84震撼弹 A24</b>\r\n它是邪恶的. 
+
+<b>M67 Fragmentation Grenade  A24</b>\r\nA fragmentation grenade, or Frag Grenade for short, is a type of lethal grenade that releases high-speed fragmentations during the explosion to harm enemy infantry. =<b>M67破片手榴弹 A24</b>\r\n破片手榴弹是一种致命手榴弹，爆炸时释放高速碎片以杀伤敌方步兵. 
+
+<b>C2 Charge  A24</b>\r\nA high-intimidation tactical breaching tool used to destroy doors or walls.=<b>C2炸药 A24</b>\r\n一种高威慑力战术破门工具，用于摧毁门或墙壁. 
+
+<b>M18A1 Claymore  A24</b>\r\nThe Claymore mine is a directional anti-personnel mine developed for the United States Armed Forces. Front toward enemy.=<b>M18A1 阔剑地雷 A24</b>\r\n阔剑地雷是一种为美国武装部队开发的定向反人员地雷. 正面朝向敌人. 
+
+<b>New Iraqi Army  A24</b>\r\nAll NPCs and equipment related to New Iraqi Army squad, they on the same side with the Americans.=<b>新伊拉克军 A24</b>\r\n所有与新伊拉克军小队相关的NPC和装备，他们与美军同一阵营. 
+
+<b>New Iraqi Army Interpreter A  A24</b>\r\nMember from the New Iraqi Army, not chill with the Americans but still fought along with them as they had the same opp, and their translators.=<b>新伊拉克军翻译 A A24</b>\r\n新伊拉克军成员，虽然与美国人不和睦，但因为有共同敌人仍然与他们并肩作战，同时也是他们的翻译. 
+
+<b>New Iraqi Army Interpreter B  A24</b>\r\nMember from the New Iraqi Army, not chill with the Americans but still fought along with them as they had the same opp, and their translators.=<b>新伊拉克军翻译 B A24</b>\r\n新伊拉克军成员，虽然与美国人不和睦，但因为有共同敌人仍然与他们并肩作战，同时也是他们的翻译. 
+
+<b>Chest Rig Top - A  A24</b>\r\nvery light and old vest used by the New Iraqi Army cuz the Americans are gate keeping.=<b>胸挂（上部）- A A24</b>\r\n新伊拉克军使用的非常轻便的旧式背心，因为美国人不给他们好装备. 
+
+<b>Chest Rig Bottom - A  A24</b>\r\nvery light and old vest used by the New Iraqi Army cuz the Americans are gate keeping.=<b>胸挂（下部）- A A24</b>\r\n新伊拉克军使用的非常轻便的旧式背心，因为美国人不给他们好装备. 
+
+<b>Chest Rig belt - A  A24</b>\r\nvery light and old vest used by the New Iraqi Army cuz the Americans are gate keeping.=<b>胸挂腰带 - A A24</b>\r\n新伊拉克军使用的非常轻便的旧式背心，因为美国人不给他们好装备. 
+
+<b>Chest Rig Top - B  A24</b>\r\nvery light and old vest used by the New Iraqi Army cuz the Americans are gate keeping.=<b>胸挂（上部）- B A24</b>\r\n新伊拉克军使用的非常轻便的旧式背心，因为美国人不给他们好装备. 
+
+<b>Chest Rig Bottom - B  A24</b>\r\nvery light and old vest used by the New Iraqi Army cuz the Americans are gate keeping.=<b>胸挂（下部）- B A24</b>\r\n新伊拉克军使用的非常轻便的旧式背心，因为美国人不给他们好装备. 
+
+<b>Chest Rig belt - B  A24</b>\r\nvery light and old vest used by the New Iraqi Army cuz the Americans are gate keeping.=<b>胸挂腰带 - B A24</b>\r\n新伊拉克军使用的非常轻便的旧式背心，因为美国人不给他们好装备. 
+
+<b>PASGT Helment A  A24</b>\r\nlight helment used by the New Iraqi Army.=<b>PASGT头盔 A A24</b>\r\n新伊拉克军使用的轻型头盔. 
+
+<b>PASGT Helment B  A24</b>\r\nlight helment used by the New Iraqi Army.=<b>PASGT头盔 B A24</b>\r\n新伊拉克军使用的轻型头盔. 
+
+<b>AKM  A24</b>\r\npretty big ak used by the New Iraqi Army soldiers.=<b>AKM A24</b>\r\n新伊拉克军士兵使用的相当大的AK步枪. 
+
+<b>Iraqi Insurgency  A24</b>\r\nAll NPCs and equipment related to Iraqi insurgency fellas, so far its jus the IED but ill add more insurgences.=<b>伊拉克叛乱分子 A24</b>\r\n所有与伊拉克叛乱分子相关的NPC和装备，目前只有IED，但我会添加更多叛乱内容. 
+
+<b>TEST SOUND1  A24</b>\r\nL to use flashlight. The Close Quarter Battle Receiver (CQBR) is a replacement upper receiver for the M4A1 carbine developed by the US Navy.=<b>测试音效1 A24</b>\r\n按L使用手电筒. 近战型上机匣（CQBR）是美国海军为M4A1卡宾枪开发的替换上机匣. 
+
+<b>TEST SOUND2  A24</b>\r\nL to use flashlight. The Close Quarter Battle Receiver (CQBR) is a replacement upper receiver for the M4A1 carbine developed by the US Navy.=<b>测试音效2 A24</b>\r\n按L使用手电筒. 近战型上机匣（CQBR）是美国海军为M4A1卡宾枪开发的替换上机匣. 
+
+<b>SOUND2  A24</b>\r\nL to use flashlight. The Close Quarter Battle Receiver (CQBR) is a replacement upper receiver for the M4A1 carbine developed by the US Navy.=<b>音效2 A24</b>\r\n按L使用手电筒. 近战型上机匣（CQBR）是美国海军为M4A1卡宾枪开发的替换上机匣. 
+
+<b>IED</b>\r\nAn improvised explosive device used to blow up the Interpreters, a bradly and 2 Americans.=<b>IED</b>\r\n一种简易爆炸装置，用于炸死翻译、一辆布莱德利步兵战车和2名美国人. 
