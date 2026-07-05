@@ -9307,7 +9307,7 @@ Enter page count (1-8):=输入页数（1-8）：
 //176*菜单模组
 Multi-function Context Menu=多功能上下文菜单
 //生命
-Life Stats=生命状态
+Stats=状态
 Life Menu=<b><i>生命菜单</b></i>
 Hide Life Menu=<b><i>隐藏生命菜单</b></i>
 Set the health of the selected limbs.=设置选定肢体的生命值.
@@ -9327,8 +9327,12 @@ Make the selected persons rotten.=让所选人物腐烂.
 Life Events=生命事件
 Strange=奇异
 Trigger strange events on selected objects.=对所选对象触发奇异事件.
+Recovery=恢复
+Simple heal persons=简单治疗人物
 Immortal=不朽
-Make the selected persons immortal and immune to all damage.=使所选人物变得不朽并免疫所有伤害.
+Make the selected persons immortal and immune to all damage. (Vanila can save)=使所选人员不朽并免疫所有伤害.（完全原版可保存）
+Constantly recovering from injuries=持续从伤势中恢复
+Toggles=切换
 Kill the selected persons instantly.=立即杀死所选人物.
 Freeze Health=锁定生命值
 Unfreeze Health=取消锁定生命值
@@ -9360,10 +9364,18 @@ Toggle locking the objects' temperature.=切换锁定对象的温度.
 Lock Charge=锁定电荷
 Unlock Charge=解锁电荷
 Toggle locking the objects' charge.=切换锁定对象的电荷. 
+Make Non-Conductive=使不导电
+Make Conductive=使导电
+Toggle conductive property on selected objects.=切换所选对象的导电属性.
+Activate Keep=保持激活
+Deactivate Keep=取消激活保持
+Toggle continuous activation for selected objects.=切换所选对象的持续激活.
+Set Activation Key=设置激活键
+Bind a key to activate selected objects on key press.=绑定按键以在按下时激活所选对象.
 Better Delete=安全删除
 Safely delete the selected objects.=安全删除所选对象. 
 
-//联动再生
+//再生
 Advance Menu=<b><i>高级菜单</b></i>
 Hide Advance Menu=<b><i>隐藏高级菜单</b></i>
 Advance=高级
@@ -9376,7 +9388,7 @@ Set regeneration rate=设置再生速率
 Set the target regeneration rate for all selected=设置所有所选对象的目标再生速率
 Regen animation: Standard=再生动画：标准
 Regen animation: BoneFirst=再生动画：骨骼优先
-Regen animation: BoneFirstlnstant=再生动画：骨骼优先即时
+Regen animation: BoneFirstInstant=再生动画：骨骼优先即时
 Cycle regeneration animation mode for all selected=切换所有所选对象的再生动画模式
 Severed limbs: Crush=断肢：碾碎
 Severed limbs: PhysicalReattach=断肢：物理重接
