@@ -1,0 +1,555 @@
+//简介=======================================================
+
+In the early days of the Anti-Japanese War, the Kuomintang organized a series of large-scale battles, such as the Battle of Songhu, the Battle of Taiyuan, the Battle of Xuzhou and the Battle of Wuhan, which effectively delayed the attack speed of the Japanese army and gained time for the assembly and strategic adjustment of the national anti-Japanese forces. At the same time, the Kuomintang army pinned down the main force of the Japanese army in the frontal battlefield, cooperated with the guerrilla warfare in the enemy's rear battlefield, and made important sacrifices and efforts for the world anti-fascist war.=在抗日战争初期，国民党组织了一系列大规模战役，如淞沪会战、太原会战、徐州会战和武汉会战，有效延缓了日军进攻速度，为全国抗日力量的集结和战略调整争取了时间。同时，国民党军队在正面战场牵制了日军主力，配合敌后战场上的游击战，为世界反法西斯战争做出了重要牺牲和努力。
+
+
+<size%3D1.5em>Kuomintang Frontal Battlefield Army</size>\nIn the early days of the Anti-Japanese War, the Kuomintang organized a series of large-scale battles, such as the Battle of Songhu, the Battle of Taiyuan, the Battle of Xuzhou and the Battle of Wuhan, which effectively delayed the attack speed of the Japanese army and gained time for the assembly and strategic adjustment of the national anti-Japanese forces. At the same time, the Kuomintang army pinned down the main force of the Japanese army in the frontal battlefield, cooperated with the guerrilla warfare in the enemy's rear battlefield, and made important sacrifices and efforts for the world anti-fascist war.\n<noparse>A mod by QQ:1.Laorong Zi%2F%2F2.Lao Zhong%2F%2F3.Alan%2F%2F4.Mozhi ZL%2F%2F5.Wei Teman for game version 1.20</noparse>=<size%3D1.5em>国民党正面战场军队</size>\n在抗日战争初期，国民党组织了一系列大规模战役，如淞沪会战、太原会战、徐州会战和武汉会战，有效延缓了日军进攻速度，为全国抗日力量的集结和战略调整争取了时间。同时，国民党军队在正面战场牵制了日军主力，配合敌后战场上的游击战，为世界反法西斯战争做出了重要牺牲和努力。\n<noparse>本模组由QQ:1.Laorong Zi%2F%2F2.Lao Zhong%2F%2F3.Alan%2F%2F4.Mozhi ZL%2F%2F5.Wei Teman为游戏版本1.20制作</noparse>
+
+
+
+
+
+
+
+// 角色 (Characters)=======================================================
+Characters=角色
+
+NRA blue Straw sandals=NRA蓝色草鞋
+NRA blue=NRA蓝色
+NRA blue and Black Boots=NRA蓝色黑靴
+NRA green and Black Boots=NRA绿色黑靴
+NRA Muddy Colour and Black Boots=NRA泥色黑靴
+NRA Dark Yellow=NRA暗黄
+NRA Dark Yellow 2 Straw sandals=NRA暗黄2草鞋
+NRA Dark Yellow Leather shoes=NRA暗黄皮鞋
+NRA Dark Yellow Straw sandals=NRA暗黄草鞋
+NRA Dark Yellow Black Boots=NRA暗黄黑靴
+NRA green=NRA绿色
+NRA green Short Pants=NRA绿色短裤
+NRA Light Blue=NRA浅蓝
+NRA Light Yellow=NRA浅黄
+NRA Light Yellow shorts=NRA浅黄短裤
+NRA Light Yellow2=NRA浅黄2
+29 Military Collar=29军领章
+NRA Muddy Colour=NRA泥色
+NRA green Leather shoes=NRA绿色皮鞋
+NRA green Leather shoes and Short Pants=NRA绿色皮鞋短裤
+NRA green Straw sandals=NRA绿色草鞋
+29 Military Collar Straw sandals and Black Socks=29军领草鞋黑袜
+police Black Boots=警察黑靴
+police Cloth Shoes=警察布鞋
+police Trousers=警察长裤
+
+
+
+
+
+
+
+
+
+
+// 装备 (equip)=======================================================
+equip=装备
+
+Big Brim Hat blue=蓝色军便帽
+Big Brim Hat yellow=黄色军便帽
+German helmet=德式头盔
+German helmet (without Republic of China insignia)=德式头盔（无青天白日徽）
+German helmet (camouflage)=德式头盔（迷彩）
+German helmet No Republic of China emblem (camouflage)=德式头盔无徽（迷彩）
+Italian Tank Cap=意大利坦克帽
+Mangosteen Helmet=山竹盔（梅花盔）
+Military cap blue=蓝色军帽
+Military cap blue No Republic of China cap badge=蓝色军帽无帽徽
+Military cap blue Gold Button=蓝色军帽金扣
+Military cap green=绿色军帽
+Military cap green Gold Button=绿色军帽金扣
+Military cap green No Republic of China cap badge=绿色军帽无帽徽
+Military cap Muddy Colour=泥色军帽
+Military cap yellow=黄色军帽
+bag and jug=包和水壶
+jug and packet=水壶和包裹
+Bayonet scabbard=刺刀鞘
+Bullet box=子弹盒
+jug=水壶
+Sundry Bag=杂物包
+Sundry Bag and a cup=杂物包和杯子
+bag upper=包（上身）
+jug upper=水壶（上身）
+bag and jug upper=包和水壶（上身）
+Medical bag=医疗包
+Medical bag upper=医疗包（上身）
+Cloak yellow=黄色斗篷
+M1923 ammunition belt=M1923弹药腰带
+glove white=白色手套（前臂前）
+glove white2=白色手套（前臂）
+CHN vest RLF blue upper=中国背心 RLF 蓝（上身）
+CHN vest RLF blue middle=中国背心 RLF 蓝（中身）
+CHN vest RLF green upper=中国背心 RLF 绿（上身）
+CHN vest RLF green middle=中国背心 RLF 绿（中身）
+CHN vest RLF yellow upper=中国背心 RLF 黄（上身）
+CHN vest RLF yellow middle=中国背心 RLF 黄（中身）
+Grenade belt 2 upper blue=手榴弹腰带2蓝（上身）
+Grenade belt 2 middle blue=手榴弹腰带2蓝（中身）
+Grenade belt 2 upper green=手榴弹腰带2绿（上身）
+Grenade belt 2 middle green=手榴弹腰带2绿（中身）
+Grenade belt 2 upper yellow=手榴弹腰带2黄（上身）
+Grenade belt 2 middle yellow=手榴弹腰带2黄（中身）
+ZB26 vest upper yellow=ZB26背心黄（上身）
+ZB26 vest middle yellow=ZB26背心黄（中身）
+CHN vest upper blue=中国背心蓝（上身）
+CHN vest middle blue=中国背心蓝（中身）
+CHN vest upper yellow=中国背心黄（上身）
+CHN vest middle yellow=中国背心黄（中身）
+CHN vest upper green=中国背心绿（上身）
+CHN vest middle green=中国背心绿（中身）
+Aviator glasses=飞行员眼镜
+87th German Armoured Division=德国装甲第87师臂章
+88th German Armoured Division=德国装甲第88师臂章
+Samurai=武士臂章
+190D=190师臂章
+190D 2=190师 2臂章
+Armband of the Eighth Route Army=八路军臂章
+German Armament Division 36=36师臂章
+Garrison Armband=警备臂章
+Military Medical Sleeve=军医袖套
+Teaching Corps armband=教导总队臂章
+New Fourth Army armband=新四军臂章
+N4A=新四军臂章2
+Chinese Expeditionary Force=中国远征军臂章
+ZB26 vest upper blue=ZB26弹挂蓝（上身）
+ZB26 vest middle blue=ZB26弹挂蓝（中身）
+Cloak blue=蓝色斗篷
+Webbing Top=武装带（上身）
+Webbing Bottom=武装带（中身）
+Field Backpack=野战背包
+Field Backpack 2=野战背包2
+Gas Mask Tank blue=防毒面具包蓝
+Gas Mask Tank green=防毒面具包绿
+Gas Mask Tank grey=防毒面具包灰
+Gas Mask=防毒面具
+Military cap winter=冬季军帽
+Military cap winter(No Republic of China cap badge)=冬季军帽（无帽徽）
+Military cap winter Gold Buckle=冬季军帽金扣
+Military cap winter Gold Buckle(No Republic of China cap badge)=冬季军帽金扣（无帽徽）
+Military cap winter Unfold=冬季军帽展开
+Military cap winter Unfold(No Republic of China cap badge)=冬季军帽展开（无帽徽）
+Military cap winter Unfold Gold Buckle=冬季军帽展开金扣
+Military cap winter Unfold Gold Buckle(No Republic of China cap badge)=冬季军帽展开金扣（无帽徽）
+police hat=警帽
+Camouflage (hat)=迷彩帽
+Mauser holster=毛瑟枪套
+C96 pylon upper=C96挂架（上身）
+C96 pylon middle=C96挂架（中身）
+C96 pylon middle 2=C96挂架中2
+Mauser holster have c96=带C96的毛瑟枪套
+British helmet=英式头盔
+British helmet 2=英式头盔2
+British helmet (without national emblem)=英式头盔（无国徽）
+British helmet (camouflage)=英式头盔（迷彩）
+British helmet 2 (camouflage)=英式头盔2（迷彩）
+British helmet No Republic of China emblem (camouflage)=英式头盔无青天白日徽（迷彩）
+British helmet No Republic of China emblem Fishing Net=英式头盔无徽渔网罩
+British helmet Fishing Net=英式头盔渔网罩
+British helmet 2 Fishing Net=英式头盔2渔网罩
+British helmet 3=英式头盔3
+American helmet=美式头盔
+American helmet 2=美式头盔2
+American helmet(camouflage)=美式头盔（迷彩）
+American helmet No Republic of China emblem(camouflage)=美式头盔无徽（迷彩）
+American helmet Fishing Net=美式头盔渔网罩
+American helmet 2 Fishing Net=美式头盔2渔网罩
+Cool Helmet=酷头盔
+Cool Helmet 2=酷头盔2
+200DN5A = 200DN5A 臂章
+200DN5A Give me back my country = 200师新编第五军 还我河山臂章
+200 Division = 200师臂章
+Honorary First Division = 荣誉第一师臂章
+New 22nd Division = 新编第22师臂章
+Military Police Armband = 宪兵袖套
+sig1920 vest upper=SIG1920背心（上身）
+sig1920 vest middle=SIG1920背心（中身）
+sig1920 vest2 middle=SIG1920背心2（中身）
+sig1920 vest3 middle=SIG1920背心3（中身）
+Glasses=眼镜
+P37 integrated carrier upperbody=P37整合携行具上身
+P37 integrated carrier middlebody=P37整合携行具中身
+P37 integrated carrier Waistband=P37整合携行具腰带
+P37 integrated carrier Storage Bag=P37整合携行具储物袋
+P37 integrated carrier Storage Bag 2=P37整合携行具储物袋2
+P37 integrated carrier Sundry bag=P37整合携行具杂物包
+P37 integrated carrier UK Kettle=P37整合携行具英军水壶
+M1936 outer belt upper=M1936外腰带（上身）
+M1936 outer belt middle=M1936外腰带（中身）
+Miscellaneous grain bag green=杂粮包绿
+Miscellaneous grain bag blue=杂粮包蓝
+Medium formal telescope=中正式望远镜
+Army coat blue upperbody=蓝色军大衣上身
+Army coat blue upperbody 2=蓝色军大衣上身2
+Army coat blue middlebody=蓝色军大衣中身
+Army coat blue lowerbody=蓝色军大衣下身
+Army coat blue upperarm=蓝色军大衣上臂（前）
+Army coat blue upperarm 2=蓝色军大衣上臂
+Army coat blue lowerarm=蓝色军大衣下臂（前）
+Army coat blue lowerarm 2=蓝色军大衣下臂
+Army coat yellow upperbody=黄色军大衣上身
+Army coat yellow upperbody 2=黄色军大衣上身2
+Army coat yellow middlebody=黄色军大衣中身
+Army coat yellow lowerbody=黄色军大衣下身
+Army coat yellow upperarm=黄色军大衣上臂（前）
+Army coat yellow upperarm 2=黄色军大衣上臂
+Army coat yellow lowerarm=黄色军大衣下臂（前）
+Army coat yellow lowerarm 2=黄色军大衣下臂
+Army coat green upperbody=绿色军大衣上身
+Army coat green upperbody 2=绿色军大衣上身2
+Army coat green middlebody=绿色军大衣中身
+Army coat green lowerbody=绿色军大衣下身
+Army coat green upperarm=绿色军大衣上臂（前）
+Army coat green upperarm 2=绿色军大衣上臂
+Army coat green lowerarm=绿色军大衣下臂（前）
+Army coat green lowerarm 2=绿色军大衣下臂
+Army coat Muddy Colour upperbody=泥色军大衣上身
+Army coat Muddy Colour upperbody 2=泥色军大衣上身2
+Army coat Muddy Colour middlebody=泥色军大衣中身
+Army coat Muddy Colour lowerbody=泥色军大衣下身
+Army coat Muddy Colour upperarm=泥色军大衣上臂（前）
+Army coat Muddy Colour upperarm 2=泥色军大衣上臂
+Army coat Muddy Colour lowerarm=泥色军大衣下臂（前）
+Army coat Muddy Colour lowerarm 2=泥色军大衣下臂
+Army coat black upperbody=黑色军大衣上身
+Army coat black upperbody 2=黑色军大衣上身2
+Army coat black middlebody=黑色军大衣中身
+Army coat black lowerbody=黑色军大衣下身
+Army coat black upperarm=黑色军大衣上臂（前）
+Army coat black upperarm 2=黑色军大衣上臂
+Army coat black lowerarm=黑色军大衣下臂（前）
+Army coat black lowerarm 2=黑色军大衣下臂
+Special Officer=特等警员
+Commissioned Officer 1---4=委任警官1-4级
+Commissioned Officer 5---8=委任警官5-8级
+Commissioned Officer 9---12=委任警官9-12级
+Commissioned Officer 13---16=委任警官13-16级
+Jian Ren Guan 1-2=荐任官1-2级
+Jian Ren Guan 3-4=荐任官3-4级
+Jian Ren Guan 5-6=荐任官5-6级
+Jian Ren Guan 7-8=荐任官7-8级
+Recommend an official 1--3=委任官1-3级
+Recommend an official 4--6=委任官4-6级
+Recommend an official 7--9=委任官7-9级
+Recommend an official 10--12=委任官10-12级
+Police chief First Class=警监一等
+Police chief Second Class=警监二等
+Police chief Third Class=警监三等
+Sergeant First Class=警长一等
+Sergeant Second Class=警长二等
+Sergeant Third Class=警长三等
+
+
+
+
+
+
+
+
+// 武器 (weapon)=======================================================
+weapon=武器
+
+Astra 900 stock=阿斯特拉900带枪托
+Astra 900=阿斯特拉900
+Astra 901=阿斯特拉901
+Astra 901 stock=阿斯特拉901带枪托
+Astra 902 stock=阿斯特拉902带枪托
+Astra 902=阿斯特拉902
+Mauser C96 officer=毛瑟C96军官型
+Mauser C96 Stock=毛瑟C96带枪托
+Mauser C96=毛瑟C96
+Mauser Fixed 20-round magazine stock=毛瑟固定20发弹匣带枪托
+Mauser Fixed 20-round magazine=毛瑟固定20发弹匣
+Mauser M712 stock=毛瑟M712带枪托
+Mauser M712=毛瑟M712
+Mauser M1899 Stock=毛瑟M1899带枪托
+Mauser M1899=毛瑟M1899
+Mauser M1921 Bolo=毛瑟M1921博洛
+Mauser M1917(Red 9)=毛瑟M1917（红9）
+Shan Xi Type 17=山西十七式
+Mauser Carbine=毛瑟卡宾枪
+German hand grenade with wooden handle=巩造木柄手榴弹
+ZB26=ZB26轻机枪
+Shan Xi Thompson M1921=山西汤普森M1921
+<b>Shan Xi Thompson M1921</b>\r\nbeta.=<b>山西汤普森M1921</b>\r\nbeta
+Thompson M1921=汤普森M1921
+<b>Thompson M1921</b>\r\nbeta.=<b>汤普森M1921</b>\r\nbeta
+Zhong Zheng Si=中正刺
+ZB26 2=ZB26 2
+7.92mm Chiang Kai-shek Rifle=7.92mm中正式步枪
+HanYang Type 88=汉阳八八式步枪
+HanYang Type 88 (EW)=汉阳八八式步枪（老求）
+Gewehr 88=1888式步枪
+Dadao Sword=大刀
+Charge bugle=冲锋号
+
+
+
+
+
+
+
+
+// 胸章/臂章 (Badge)=======================================================
+Badge=胸章
+
+Field Officer=校官
+General Officer=将官
+Lieutenant=尉官
+General Officer Artillery=将官炮兵
+General Officer Cavalry=将官骑兵
+General Officer Engineer=将官工兵
+General Officer Heavy Troops=将官重兵
+General Officer measure=将官测量
+General Officer Military Medical Officer=将官军医
+General Officer Military Music=将官军乐
+General Officer Quartermaster=将官军需
+General Officer Signal Corps=将官通信兵
+General Officer Foot soldier=将官步兵
+General Officer Military Police=将官宪兵
+Field Officer Artillery=校官炮兵
+Field Officer Cavalry=校官骑兵
+Field Officer Engineer=校官工兵
+Field Officer Heavy Troops=校官重兵
+Field Officer measure=校官测量
+Field Officer Military Medical Officer=校官军医
+Field Officer Military Music=校官军乐
+Field Officer Quartermaster=校官军需
+Field Officer Signal Corps=校官通信兵
+Field Officer Foot soldier=校官步兵
+Field Officer Military Police=校官宪兵
+Lieutenant Artillery=尉官炮兵
+Lieutenant Cavalry=尉官骑兵
+Lieutenant Engineer=尉官工兵
+Lieutenant Heavy Troops=尉官重兵
+Lieutenant measure=尉官测量
+Lieutenant Military Medical Officer=尉官军医
+Lieutenant Military Music=尉官军乐
+Lieutenant Quartermaster=尉官军需
+Lieutenant Signal Corps=尉官通信兵
+Lieutenant Foot soldier=尉官步兵
+Lieutenant Military Police=尉官宪兵
+Soldiers Parallel bars Artillery=双杠兵炮兵
+Soldiers Parallel bars Cavalry=双杠兵骑兵
+Soldiers Parallel bars Engineer=双杠兵工兵
+Soldiers Parallel bars Heavy Troops=双杠兵重兵
+Soldiers Parallel bars measure=双杠兵测量
+Soldiers Parallel bars Military Medical Officer=双杠兵军医
+Soldiers Parallel bars Military Music=双杠兵军乐
+Soldiers Parallel bars Quartermaster=双杠兵军需
+Soldiers Parallel bars Signal Corps=双杠兵通信兵
+Soldiers Parallel bars Foot soldier=双杠兵步兵
+Soldiers Parallel bars Military Police=双杠兵宪兵
+Soldiers Horizontal Bar Artillery=单杠兵炮兵
+Soldiers Horizontal Bar Cavalry=单杠兵骑兵
+Soldiers Horizontal Bar Engineer=单杠兵工兵
+Soldiers Horizontal Bar Heavy Troops=单杠兵重兵
+Soldiers Horizontal Bar measure=单杠兵测量
+Soldiers Horizontal Bar Military Medical Officer=单杠兵军医
+Soldiers Horizontal Bar Military Music=单杠兵军乐
+Soldiers Horizontal Bar Quartermaster=单杠兵军需
+Soldiers Horizontal Bar Signal Corps=单杠兵通信兵
+Soldiers Horizontal Bar Foot soldier=单杠兵步兵
+Soldiers Horizontal Bar Military Police=单杠兵宪兵
+Badge of Northwest Army=西北军胸章
+
+
+
+
+
+
+
+
+// 领章 (Collar Badge)=======================================================
+Collar Badge=领章
+
+2nd Lieutenant=少尉
+Captain=上尉
+Colonel=上校
+Corporal=下士
+General collar badge=将领领章
+Lieutenant Colonel=中校
+Lieutenant General=中将
+Lieutenant collar badge=中尉领章
+Major General=少将
+Major=少校
+Private 1st Class=一等兵
+Private 2nd Class=二等兵
+Sergeant collar badge=中士领章
+SGT Major=上士
+Superior Private=上等兵
+Warrant Officer=准尉
+Red Collar Badge of the Communist Party of China=中国共产党红色领章
+Corporal Military Police=宪兵下士
+Private 1st Class Military Police=宪兵一等兵
+Private 2nd Class Military Police=宪兵二等兵
+Sergeant collar badge Military Police=宪兵中士
+SGT Major Military Police=宪兵上士
+Superior Private Military Police=宪兵上等兵
+Military Police 2nd Lieutenant=宪兵少尉
+Military Police Captain=宪兵上尉
+Military Police Colonel=宪兵上校
+Military Police Lieutenant collar badge=宪兵中尉
+Military Police Lieutenant Colonel=宪兵中校
+Military Police Major=宪兵少校
+Military Police Warrant Officer=宪兵准尉
+Corporal Cavalry=骑兵下士
+Private 1st Class Cavalry=骑兵一等兵
+Private 2nd Class Cavalry=骑兵二等兵
+Sergeant collar badge Cavalry=骑兵中士
+SGT Major Cavalry=骑兵上士
+Superior Private Cavalry=骑兵上等兵
+Cavalry 2nd Lieutenant=骑兵少尉
+Cavalry Captain=骑兵上尉
+Cavalry Colonel=骑兵上校
+Cavalry Lieutenant collar badge=骑兵中尉
+Cavalry Lieutenant Colonel=骑兵中校
+Cavalry Major=骑兵少校
+Cavalry Warrant Officer=骑兵准尉
+2nd Lieutenant Artillery=炮兵少尉
+Captain Artillery=炮兵上尉
+Colonel Artillery=炮兵上校
+Lieutenant collar badge Artillery=炮兵中尉
+Lieutenant Colonel Artillery=炮兵中校
+Major Artillery=炮兵少校
+Private 1st Class Artillery=炮兵一等兵
+Private 2nd Class Artillery=炮兵二等兵
+Superior Private Artillery=炮兵上等兵
+Warrant Officer Artillery=炮兵准尉
+Artillery Corporal=炮兵下士
+Artillery Sergeant collar badge=炮兵中士
+Artillery SGT Major=炮兵上士
+Engineer 2nd Lieutenant=工兵少尉
+Engineer Captain=工兵上尉
+Engineer Colonel=工兵上校
+Engineer Corporal=工兵下士
+Engineer Lieutenant collar badge=工兵中尉
+Engineer Lieutenant Colonel=工兵中校
+Engineer Major=工兵少校
+Engineer Private 1st Class=工兵一等兵
+Engineer Private 2nd Class=工兵二等兵
+Engineer Sergeant collar badge=工兵中士
+Engineer SGT Major=工兵上士
+Engineer Superior Private=工兵上等兵
+Engineer Warrant Officer=工兵准尉
+Signal Corps 2nd Lieutenant=通信兵少尉
+Signal Corps Captain=通信兵上尉
+Signal Corps Colonel=通信兵上校
+Signal Corps Corporal=通信兵下士
+Signal Corps Lieutenant collar badge=通信兵中尉
+Signal Corps Lieutenant Colonel=通信兵中校
+Signal Corps Major=通信兵少校
+Signal Corps Private 1st Class=通信兵一等兵
+Signal Corps Private 2nd Class=通信兵二等兵
+Signal Corps Sergeant collar badge=通信兵中士
+Signal Corps SGT Major=通信兵上士
+Signal Corps Superior Private=通信兵上等兵
+Signal Corps Warrant Officer=通信兵准尉
+Heavy Troops 2nd Lieutenant=重兵少尉
+Heavy Troops Captain=重兵上尉
+Heavy Troops Colonel=重兵上校
+Heavy Troops Corporal=重兵下士
+Heavy Troops Lieutenant collar badge=重兵中尉
+Heavy Troops Lieutenant Colonel=重兵中校
+Heavy Troops Major=重兵少校
+Heavy Troops Private 1st Class=重兵一等兵
+Heavy Troops Private 2nd Class=重兵二等兵
+Heavy Troops Sergeant collar badge=重兵中士
+Heavy Troops SGT Major=重兵上士
+Heavy Troops Superior Private=重兵上等兵
+Heavy Troops Warrant Officer=重兵准尉
+Military Medical Officer 2nd Lieutenant=军医少尉
+Military Medical Officer Captain=军医上尉
+Military Medical Officer Colonel=军医上校
+Military Medical Officer Corporal=军医下士
+Military Medical Officer Lieutenant collar badge=军医中尉
+Military Medical Officer Lieutenant Colonel=军医中校
+Military Medical Officer Major=军医少校
+Military Medical Officer Private 1st Class=军医一等兵
+Military Medical Officer Private 2nd Class=军医二等兵
+Military Medical Officer Sergeant collar badge=军医中士
+Military Medical Officer SGT Major=军医上士
+Military Medical Officer Superior Private=军医上等兵
+Military Medical Officer Warrant Officer=军医准尉
+measure 2nd Lieutenant=测量少尉
+measure Captain=测量上尉
+measure Colonel=测量上校
+measure Corporal=测量下士
+measure Lieutenant collar badge=测量中尉
+measure Lieutenant Colonel=测量中校
+measure Major=测量少校
+measure Private 1st Class=测量一等兵
+measure Private 2nd Class=测量二等兵
+measure Sergeant collar badge=测量中士
+measure SGT Major=测量上士
+measure Superior Private=测量上等兵
+measure Warrant Officer=测量准尉
+Military Music 2nd Lieutenant=军乐少尉
+Military Music Captain=军乐上尉
+Military Music Colonel=军乐上校
+Military Music Corporal=军乐下士
+Military Music Lieutenant collar badge=军乐中尉
+Military Music Lieutenant Colonel=军乐中校
+Military Music Major=军乐少校
+Military Music Private 1st Class=军乐一等兵
+Military Music Private 2nd Class=军乐二等兵
+Military Music Sergeant collar badge=军乐中士
+Military Music SGT Major=军乐上士
+Military Music Superior Private=军乐上等兵
+Military Music Warrant Officer=军乐准尉
+Quartermaster 2nd Lieutenant=军需少尉
+Quartermaster Captain=军需上尉
+Quartermaster Colonel=军需上校
+Quartermaster Corporal=军需下士
+Quartermaster Lieutenant collar badge=军需中尉
+Quartermaster Lieutenant Colonel=军需中校
+Quartermaster Major=军需少校
+Quartermaster Private 1st Class=军需一等兵
+Quartermaster Private 2nd Class=军需二等兵
+Quartermaster Sergeant collar badge=军需中士
+Quartermaster SGT Major=军需上士
+Quartermaster Superior Private=军需上等兵
+Quartermaster Warrant Officer=军需准尉
+29 Army Collar Badge=29军领章
+29 Army Collar Badge 2=29军领章2
+Cadet collar badge=学员领章
+Military Academy Collar Badge=军校领章
+Commissioned Officer Collar Badge 1-4=警官领章1-4级
+Commissioned Officer Collar Badge 5-9=警官领章5-9级
+Commissioned Officer Collar Badge 10-16=警官领章10-16级
+Deputy Chief Collar Badge=副警监领章
+Jian Ren Guan Collar Badge 1,2=荐任官领章1,2级
+Jian Ren Guan Collar Badge 3,4,5=荐任官领章3,4,5级
+Jian Ren Guan Collar Badge 6,7,8=荐任官领章6,7,8级
+minister Collar Badge=警政领章
+Recommend an official Collar Badge 1--3=委任官领章1-3级
+Recommend an official Collar Badge 4--7=委任官领章4-7级
+Recommend an official Collar Badge 8--12=委任官领章8-12级
+
+
+
+
+
+
+
+
+// 上下文菜单=======================================================
+
+Toggle Reload Mode=切换装填模式
+Switch between automatic and manual reloading=在自动和手动装填之间切换
+Switch between automatic and manual reloading.=在自动和手动装填之间切换.
+
+
+
+// 右下角通知=======================================================
+
+Press X to reload!=按 X 装填！
+
+Reload mode set to: Automatic=装填模式设置为：自动
+Reload mode set to: Manual=装填模式设置为：手动

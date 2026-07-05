@@ -1,0 +1,599 @@
+//*TF_RC汉化
+Batrix Chainsaw man mod Beta 5.5=Batrix电锯人模组Beta5.5
+Batrix Chainsaw man mod Beta 5.6=Batrix电锯人模组Beta5.6
+
+
+//*物品栏
+<b>Batrix Chainsaw man</b>\r\nContains all humans and items related to Batrix Chainsaw man mod.=<b>Batrix电锯人[TF_RC汉化]</b>\r\n包含所有与 Batrix 电锯人模组相关的人类和物品.
+
+Power Giver Menu <color%3D#f7fffe>[CSM]</color></b>.=能力赋予菜单 <color%3D#f7fffe>[CSM]</color></b>.
+
+<b>Toggle Infinity Energy for Everyone <color%3D#f7fffe>[CSM]</color></b>.=<b>为每个人切换无限能量 <color%3D#f7fffe>[CSM]</color></b>.
+
+<b>Set Person Energy amount <color%3D#f7fffe>[CSM]</color></b>r\n<size%3D110%>Spawn this to enter Energy System Edit mode where you can change Max Energy amount and Energy Regen Rate of the Humans.=<b>设置人物能量值 <color%3D#f7fffe>[CSM]</color></b>\r\n<size%3D110%>生成此物以进入能量系统编辑模式，在此模式下你可以更改人类的最大能量值和能量恢复速率.
+Enter max energy amount\r\n(Max : 999999)=输入最大能量值\n\n(最大值：999999)
+
+<b>Power Menu INFO <color%3D#f7fffe>[CSM]</color></b>\r\n<size%3D200%>Info : All powers descriptions are inside the Power menu. You can access the power menu by using the context menu on any human limb.=<b>能力菜单信息 <color%3D#f7fffe>[CSM]</color></b>\r\n<size%3D200%>信息：所有能力的描述都在能力菜单内. 你可以通过在任何人类肢体上使用右键菜单来访问能力菜单.
+
+<b>Nail Sword <color%3D#f7fffe>[CSM]</color></b>\r\nWeapon for using Curse Devil contract power. Useless without one.\nCurse Devil contract can be upgraded in the user context menu to allow usage of any weapon.=<b>钉剑 <color%3D#f7fffe>[CSM]</color></b>\r\n用于使用诅咒恶魔契约力量的武器. 没有契约则毫无用处. \n诅咒恶魔契约可在使用者右键菜单中升级，以允许使用任意武器. 
+
+
+
+//*人物
+<b>Denji <color%3D#f7fffe>[CSM]</color></b>\r\nA devil hunter with a chainsaw heart, chasing his dream of a <s>touching boobs</s> better life, no matter the cost.\n\n[Open Power Menu via context window to check ability descriptions]=<b>电次 <color%3D#f7fffe>[CSM]</color></b>\r\n一位拥有电锯心脏的恶魔猎人，不惜一切代价追寻他<s>touching boobs</s>更好生活的梦想. \n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Bucky <color%3D#f7fffe>[CSM]</color></b>\r\nBOK! BOK! BOK!\n\n[Open Power Menu via context window to check ability descriptions]=<b>咕咕哔 <color%3D#f7fffe>[CSM]</color></b>\r\n咕！咕！咕！\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Sawatari <color%3D#f7fffe>[CSM]</color></b>\r\n"We're prepared to engage the enemy right here." "\nNow keep quiet."\n\n[Open Power Menu via context window to check ability descriptions]=<b>泽渡茜 <color%3D#f7fffe>[CSM]</color></b>\r\n“我们准备就在这里迎战敌人. ”\n“现在给我安静点. ”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Aki <color%3D#f7fffe>[CSM]</color></b>\r\nHunting devils is hard, but living with chaos incarnate is the real nightmare.\n\n[Open Power Menu via context window to check ability descriptions]=<b>早川秋 <color%3D#f7fffe>[CSM]</color></b>\r\n猎杀恶魔很难，但与混沌化身的活宝住在一起才是真正的噩梦. \n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Ghost Devil <color%3D#f7fffe>[CSM]</color></b>\r\nNot worth it.=<b>幽灵恶魔 <color%3D#f7fffe>[CSM]</color></b>\r\n不值得.
+
+<b>Makima <color%3D#f7fffe>[CSM]</color></b>\r\n"If you can kill the Gun Devil, I'll grant you any wish."\n\n[Open Power Menu via context window to check ability descriptions]=<b>玛奇玛 <color%3D#f7fffe>[CSM]</color></b>\r\n“只要电次能杀了枪之恶魔，我就会实现你任何一个愿望，任何愿望都可以. ”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Nayuta <color%3D#f7fffe>[CSM]</color></b>\r\n"I've got this... sorta-friend, sorta-little-sister livin' with me. She's smart enough to go to college. I'm saving up for her tuition. See, my life was always crappy before. I want her to have a normal life."\n\n[Open Power Menu via context window to check ability descriptions]=<b>那由多 <color%3D#f7fffe>[CSM]</color></b>\r\n“我有个……算是朋友、又算是妹妹的家伙住在一起. 她聪明到能上大学. 我正在攒钱给她交学费. 你看，我以前的生活一直很糟. 我想让她过正常的生活. ”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Full Pochita Form <color%3D#f7fffe>[CSM]</color></b>\r\nVANCE!! VANCE! VANCE!\n\n[Open Power Menu via context window to check ability descriptions]=<b>波奇塔完全体 <color%3D#f7fffe>[CSM]</color></b>\r\n嗡！！嗡！嗡！\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Denjiman <color%3D#f7fffe>[CSM]</color></b>\r\n\n[Open Power Menu via context window to check ability descriptions]=<b>电次人 <color%3D#f7fffe>[CSM]</color></b>\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+Power <color%3D#f7fffe>[CSM]</color></b>\r\nWho did Power’s body originally belong to?\nWhy was she naked? Dead. And in the middle of nowhere?\n\n[Open Power Menu via context window to check ability descriptions]=<b>帕瓦 <color%3D#f7fffe>[CSM]</color></b>\r\n帕瓦的身体原本属于谁？\n为什么她是光着的？为什么是死的. 而且在一个荒郊野外的无名之地？\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+Kobeni <color%3D#f7fffe>[CSM]</color></b>\r\nBad Luck Devil contract?\n\n[Open Power Menu via context window to check ability descriptions]=<b>东山小红 <color%3D#f7fffe>[CSM]</color></b>\r\n厄运恶魔契约？\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Kishibe <color%3D#f7fffe>[CSM]</color></b>\r\n"I'll turn you into the baddest of the badasses."\n\n[Open Power Menu via context window to check ability descriptions]=<b>岸边 <color%3D#f7fffe>[CSM]</color></b>\r\n“我会把你们变成最强中的最强. ”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Darkness Devil <color%3D#f7fffe>[CSM]</color></b>\r\n...\n\n[Open Power Menu via context window to check ability descriptions]=<b>暗之恶魔 <color%3D#f7fffe>[CSM]</color></b>\r\n……\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Beam Devil Form <color%3D#f7fffe>[CSM]</color></b>\r\nBean.=<b>毕姆恶魔形态 <color%3D#f7fffe>[CSM]</color></b>\r\n毕姆.
+
+Denji (Pre-Hybrid) <color%3D#f7fffe>[CSM]</color></b>\r\n[Open Power Menu via context window to check ability... wait, he doesnt have any]=<b>电次 (武器人前) <color%3D#f7fffe>[CSM]</color></b>\r\n[通过右键菜单打开能力菜单查看能力... 等等，他什么能力都没有]
+
+Ear Devil <color%3D#f7fffe>[CSM]</color></b>\r\nThis guy here only because @JayXen suggested it. \n\n[Open Power Menu via context window to check ability descriptions]=<b>耳朵恶魔 <color%3D#f7fffe>[CSM]</color></b>\r\n这家伙出现在这里只因 @JayXen 的建议. \n\n[通过右键菜单打开能力菜单查看能力描述]
+
+Crocodile Fiend <color%3D#f7fffe>[CSM]</color></b>\r\n"I dodged it!"\n\n[Open Power Menu via context window to check ability descriptions]=<b>鳄鱼魔人 <color%3D#f7fffe>[CSM]</color></b>\r\n“我躲开了！”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Himeno <color%3D#f7fffe>[CSM]</color></b>\r\nYay Ghost Devil is in the game!\n\n[Open Power Menu via context window to check ability descriptions]=<b>姬野 <color%3D#f7fffe>[CSM]</color></b>\r\n耶！幽灵恶魔在游戏里了！\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Pillbug Fiend <color%3D#f7fffe>[CSM]</color></b>\r\n"You guys! Get behind me!"\n\n[Open Power Menu via context window to check ability descriptions]=<b>鼠妇魔人 <color%3D#f7fffe>[CSM]</color></b>\r\n“你们！躲到我身后去！”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Violence Fiend <color%3D#f7fffe>[CSM]</color></b>\r\n"But yeah, not a fan of violence. I'm all about love and peace!"\n\n[Open Power Menu via context window to check ability descriptions]=<b>暴力魔人 <color%3D#f7fffe>[CSM]</color></b>\r\n“不过嘛，我不太喜欢暴力. 我可是爱与和平的使者！”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Yoshida <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[Open Power Menu via context window to check ability descriptions]=<b>吉田宽文 <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Hell Devil <color%3D#f7fffe>[CSM]</color></b>\r\n"We're counting on you... Hell Devil..."\n\n[Open Power Menu via context window to check ability descriptions]=<b>地狱恶魔 <color%3D#f7fffe>[CSM]</color></b>\r\n“我们可就指望你了……地狱恶魔……”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Katana Man <color%3D#f7fffe>[CSM]</color></b>\r\nTo be honest, I have no idea what to put in the description of this guy. We doesnt even know his name\n\n[Open Power Menu via context window to check ability descriptions]=<b>武士刀 <color%3D#f7fffe>[CSM]</color></b>\r\n说实话，我真不知道该给这家伙写什么描述. 我们连他叫什么都不知道\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Barem Bridge <color%3D#f7fffe>[CSM]</color></b>\r\n"please, PLEASE, make the flamethrower soon. I need to torture him!"\n - Kitchen Tilin\n\n[Open Power Menu via context window to check ability descriptions]=<b>巴尔埃姆·布里奇 <color%3D#f7fffe>[CSM]</color></b>\r\n“求求了，求你快把喷火武器人做出来. 我TM得好好折磨他！”\n—— @Kitchen Tilin\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Spear Hybrid <color%3D#f7fffe>[CSM]</color></b>\r\n"Our orders are to make the humans scream as loudly as possible as we kill them. We'll target women and children. Higher voices, better screams."\n\n[Open Power Menu via context window to check ability descriptions]=<b>长枪武器人 <color%3D#f7fffe>[CSM]</color></b>\r\n“听好了，孩子们. 我们的命令就是在杀死人类时，让他们尽可能地大声尖叫. 我们要专挑女人和孩子下手. 音调越高，惨叫声越好听. ”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Gun Devil <color%3D#f7fffe>[CSM]</color></b>\r\n1.2 million lives in only five minutes... \n\n[Open Power Menu via context window to check ability descriptions]\n\n(Amount : 20%)=<b>枪之恶魔 <color%3D#f7fffe>[CSM]</color></b>\r\n短短五分钟内，一百二十万条人命……\n\n[通过右键菜单打开能力菜单查看能力描述]\n\n（肉片比例：20%）
+
+<b>Pochita <color%3D#f7fffe>[CSM]</color></b>\r\nThe cutest little chainsaw devil you'll ever hug... until the blades come out.=<b>波奇塔 <color%3D#f7fffe>[CSM]</color></b>\r\n你会抱到的最可爱的小电锯恶魔……直到电锯刃弹出的那一刻.
+
+<b>Li'l D <color%3D#f7fffe>[CSM]</color></b>\r\n"Any human should be capable of abandoning their morality when they're starving. I'll create the right stage for you."\n\n[Open Power Menu via context window to check ability descriptions]=<b>小D <color%3D#f7fffe>[CSM]</color></b>\r\n“当人类饥饿时，任何人类都应该能够抛弃自己的道德. 我会为你创造合适的舞台. ”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Reze <color%3D#f7fffe>[CSM]</color></b>\r\n"I'll teach you! The things you don't know or can't do. I'll teach you everything."\n\n[Open Power Menu via context window to check ability descriptions]=<b>蕾塞 <color%3D#f7fffe>[CSM]</color></b>\r\n“我来教你！那些你不知道的，或做不到的事. 我会把一切都教给你. ”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Fumiko <color%3D#f7fffe>[CSM]</color></b>\r\n"I promised myself... that in my dying moment, I'd side with the likelier winner."\n\n[Open Power Menu via context window to check ability descriptions]=<b>三船文子 <color%3D#f7fffe>[CSM]</color></b>\r\n“我曾对自己发誓……在我临死之际，我会选择站在更可能胜利的那一边. ”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Asa <color%3D#f7fffe>[CSM]</color></b>\r\n\n[Open Power Menu via context window to check ability descriptions]=<b>三鹰朝 <color%3D#f7fffe>[CSM]</color></b>\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Asa Stage 1 <color%3D#f7fffe>[CSM]</color></b>\r\nAsa pre-evolved to Stage 1.\n\n[Open Power Menu via context window to check ability descriptions]=<b>三鹰朝 阶段1 <color%3D#f7fffe>[CSM]</color></b>\r\n三鹰朝预进化为阶段1. \n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Asa Stage 2 <color%3D#f7fffe>[CSM]</color></b>\r\nAsa pre-evolved to Stage 2.\n\n[Open Power Menu via context window to check ability descriptions]=<b>三鹰朝 阶段2 <color%3D#f7fffe>[CSM]</color></b>\r\n三鹰朝预进化为阶段2. \n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Whip Hybrid <color%3D#f7fffe>[CSM]</color> <color%3D#f7fffe>[CSM]</color></b>\r\nOMG Whip Hybrid hiii!\n\n[Open Power Menu via context window to check ability descriptions]=<b>鞭之武器人 <color%3D#f7fffe>[CSM]</color> <color%3D#f7fffe>[CSM]</color></b>\r\n哦买噶 鞭之武器人 嗨嗨！\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Miri Sugo <color%3D#f7fffe>[CSM]</color> <color%3D#f7fffe>[CSM]</color></b>\r\nKatana man from Temu :(\n\n[Open Power Menu via context window to check ability descriptions]=<b>须乡实里 <color%3D#f7fffe>[CSM]</color> <color%3D#f7fffe>[CSM]</color></b>\r\n拼多多版的武士刀 :(\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Pingtsi <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[Open Power Menu via context window to check ability descriptions]=<b>屏翠 <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Long <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[Open Power Menu via context window to check ability descriptions]=<b>龙 <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Cosmo <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[Open Power Menu via context window to check ability descriptions]=<b>宇宙魔人 <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Tsugihagi <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[Open Power Menu via context window to check ability descriptions]=<b>缝合 <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Quanxi <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[Open Power Menu via context window to check ability descriptions]=<b>光熙 <color%3D#f7fffe>[CSM]</color></b>\r\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Beam <color%3D#f7fffe>[CSM]</color></b>\r\n"HAHA! WATER! WATER! WATER!"\n\n[Open Power Menu via context window to check ability descriptions]=<b>毕姆 <color%3D#f7fffe>[CSM]</color></b>\r\n“哈哈！水！水！水！”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Falling Devil <color%3D#f7fffe>[CSM]</color></b>\r\n"Googoo Gaga"\n\n[Open Power Menu via context window to check ability descriptions]=<b>下落恶魔 <color%3D#f7fffe>[CSM]</color></b>\r\n“咕咕嘎嘎”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Katana <color%3D#f7fffe>[CSM]</color></b>.\r\n=<b>武士刀 <color%3D#f7fffe>[CSM]</color></b>.\r\n
+
+<b>Kato <color%3D#f7fffe>[CSM]</color></b>\r\nThe thing is, I have no idea what to put in his description, this guy dies almost instantly after appearing\n\n[Open Power Menu via context window to check ability descriptions]=<b>加藤 <color%3D#f7fffe>[CSM]</color></b>\r\n问题是，我真不知道该怎么写他的描述，这家伙出场后几乎瞬间就死了\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Tanabe <color%3D#f7fffe>[CSM]</color></b>\r\nYeah, it's kind of lazy, but I dont have idea what to put here either\n\n[Open Power Menu via context window to check ability descriptions]=<b>田边 <color%3D#f7fffe>[CSM]</color></b>\r\n是啊，这样写是有点偷懒，但我也不知道该写什么好了\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Typhoon Devil <color%3D#f7fffe>[CSM]</color></b>\r\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA... AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!\n\n[Open Power Menu via context window to check ability descriptions]=<b>台风恶魔 <color%3D#f7fffe>[CSM]</color></b>\r\n啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊……啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Arai <color%3D#f7fffe>[CSM]</color></b>\r\n"But I don't have talent as a Devil Hunter like you do... I'm envious..."\n\n[Open Power Menu via context window to check ability descriptions]=<b>荒井博一 <color%3D#f7fffe>[CSM]</color></b>\r\n“可我没有你那样的恶魔猎人天赋……我好羡慕……”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Angel Devil <color%3D#f7fffe>[CSM]</color> <color%3D#f7fffe>[CSM]</color></b>\r\n" "\n\n[Open Power Menu via context window to check ability descriptions]=<b>天使恶魔 <color%3D#f7fffe>[CSM]</color> <color%3D#f7fffe>[CSM]</color></b>\r\n“	”\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Zombie Contracted Human <color%3D#f7fffe>[CSM]</color></b>\r\nRRAGGHHHHH!!!!\n\n[Open Power Menu via context window to check ability descriptions]=<b>僵尸契约者 <color%3D#f7fffe>[CSM]</color></b>\r\n呃啊啊啊啊啊！！！！\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+<b>Death Devil Doll <color%3D#f7fffe>[CSM]</color> <color%3D#f7fffe>[CSM]</color></b>\r\nA mysterious doll containing a random unconsumed devil. Can be consumed by a compatible character. There can be devils that arent present in the mod in a form of a character. Not all devils can be found via this doll.=<b>死亡恶魔玩偶 <color%3D#f7fffe>[CSM]</color> <color%3D#f7fffe>[CSM]</color></b>\r\n一个神秘的玩偶，内含一个随机未被消耗的恶魔. 可由有兼容性的角色消耗. 可能存在尚未以角色形式实装到模组中的恶魔. 并非所有恶魔都能通过此玩偶找到. 
+
+<b>Gun Devil flesh <color%3D#f7fffe>[CSM]</color></b>\r\nMerges with the user's body upon contact with the head, amplifying energy capacity and regeneration(Fiends, Demons, or Hybrids)/nTurns regular humans into Gun Fiend.=<b>枪之恶魔肉片 <color%3D#f7fffe>[CSM]</color></b>\n与使用者头部接触后会与身体融合，提升能量容量与再生能力（魔人、恶魔或武器人）\n将普通人类转化为枪之魔人.
+
+<b>Obejiany <color%3D#f7fffe>[CSM]</color></b>\r\nhttps:%2F%2Fyoutu.be/V99CluoQNLg.=<b>Obejiany <color%3D#f7fffe>[CSM]</color></b>\r\nhttps:%2F%2Fyoutu.be/V99CluoQNLg.
+
+<b>Makima Plush <color%3D#f7fffe>[CSM]</color></b>\r\n\n[Open Power Menu via context window to check ability descriptions]=<b>玛奇玛玩偶 <color%3D#f7fffe>[CSM]</color></b>\n\n\n[通过右键菜单打开能力菜单查看能力描述]
+
+
+
+
+
+//*能力菜单
+Power Giver=能力给予
+Common Passive Abilities=通用被动技能
+
+
+//*头
+Weaponize\nOn Activation: Click to convert an object or defeated creature into a weapon. Weapon type and properties depend on the source material. Living targets must be defeated before conversion.=<b>武器化</b>\n激活方式：点击将一个物体或击败的生物转化为武器. 武器类型和属性取决于源材料. 活体目标必须先击败再转化
+
+Calamity\nOn Activation : Use selected dakness ability. You can change ability in the context menu.=<b>灾厄</b>\n激活方式：使用选定的黑暗能力. 你可以在右键菜单中更改能力
+
+Darkness Devil\nPassive : Prevents limb disintegration and enhances durability.\nIf energy is depleted, the user explodes violently. Power of the user is increased in the darkness=<b>暗之恶魔</b>\n被动：防止肢体崩解并增强耐久度. \n若能量耗尽，使用者会剧烈爆炸. 使用者在黑暗中力量会增强
+
+Precognition\nOn Activation : User will be able to see a few seconds into the future=<b>预知</b>\n激活方式：使用者将能够看到未来几秒钟的画面
+
+Gun Fiend\nPassive : Transforms the user into a Gun Devil Fiend.\nOn Activation : Fires a projectile from the user's head=<b>枪之恶魔</b>\n被动：将使用者转化为枪之恶魔. \n激活方式：从使用者的头部发射一颗投射物
+
+Blink\nOn ALT-Activation : Trace a line out from user for up to five seconds, or until you left click. User streak along it to the end point. Damage scales with max energy.=闪现\n按Alt激活：从使用者处画出一条线，持续最多五秒，或直到你左键点击. 使用者会沿着这条线冲刺到终点. 伤害随最大能量提升. 
+
+Hallowen\nOn Activation : Click a creature to apply a [Halloween] to them. The [Halloween] can be lifted from the context menu, when it breaks the victim is left brain damaged.=万圣节\n激活方式：点击一个生物为其施加[万圣节]状态. [万圣节]可通过右键菜单移除，当它破裂时，受害者会留下脑损伤. 
+
+Appraise\nOn Activation : Click a creature to list the names of every power it carries.=鉴定\n激活方式：点击一个生物以列出它携带的所有能力的名称. 
+
+Flame Breath\nOn Activation : Spits a burst of fire in the facing direction.=火焰吐息\n激活方式：向面对方向喷出一股火焰. 
+
+Resurrection\nPassive : Resurrected after death , transfering wounds to a random regular human on the map. Can't be resurrected from humans with increased strength, [Energy] or [Levels], unless user is controlling them.=<b>复活</b>\n被动：死亡后复活，将伤势转移给地图上的随机普通人类. 无法从力量增强、拥有[能量]或[等级]的人类身上复活，除非使用者正在控制他们
+
+Increased Reaction | Regular\nOn Activation : User uses their enhanced reaction time to move faster=<b>增强反应 | 普通</b>\n激活方式：使用者利用增强的反应时间来移动更快
+
+Zombie Devil Contract\nOn Activation: Bite the creature in front turning them into zombies=<b>僵尸恶魔契约</b>\n激活方式：咬住前方的生物，将其变为僵尸
+
+Hell Devil Contract Granter\nOn Alt ('H' Key by default) Activation: Click to bestow the [Hell Devil Contract] upon a chosen character, granting them the power to travel to The Hell=<b>地狱恶魔契约授予者</b>\n按Alt（默认为H键）激活：点击将[地狱恶魔契约]授予选定角色，赋予其前往地狱的力量
+
+Hell Contract Power\nOn Activation : Use Hell Devil power to open a dimensional rift between the current realm and The Hell, transporting yourself and all entities around. This contract power is consumed upon use. Can be used from either dimension to travel back and forth.=<b>地狱契约力量</b>\n激活方式：使用地狱恶魔之力打开当前领域与地狱之间的维度裂隙，将你自身及周围所有实体传送过去. 此契约力量使用后会被消耗. 可从任一维度使用以往返穿梭
+
+The Hell\nOn Activation : Switch between the mortal realm and Hell, transporting all entities nearbly. Can be used from either dimension to travel back and forth. [UNSTABLE NATURE OF HELL DEVIL WILL ERASE ALL ITEMS IN THE CURRENT REALM UPON USE]=<b>地狱</b>\n激活方式：在凡间与地狱之间切换，传送附近所有实体. 可从任一维度使用以往返穿梭. 【地狱恶魔的不稳定本质将在使用时抹除当前领域内的所有物品】
+
+Hell Devil\nPassive : Prevents limb disintegration and enhances durability.\nIf energy is depleted, the user explodes violently\nBlood regenration is boosted in The Hell=<b>地狱恶魔</b>\n被动：防止肢体崩解并增强耐久度. \n若能量耗尽，使用者会剧烈爆炸\n在地狱中，血液再生速度提升
+
+Katana Head\nOn First Activation : User enters a dash stance, preparing for an attack.\nOn Second Activation : Executes a high-speed dash, slicing through everything in its path. Damage scales with max energy of the user=<b>刀首</b>\n首次激活：使用者进入冲刺架势，准备攻击. \n二次激活：执行高速冲刺，切开路径上的一切. 伤害随使用者的最大能量值提升
+
+Increased Reaction | Fast\nOn Activation : User uses their enhanced reaction time to move faster=<b>增强反应 | 快速</b>\n激活方式：使用者利用增强的反应时间来移动更快
+
+[COPY] Reaction\nOn Activation : User uses their enhanced reaction time to move faster. User speed will always match the fastest creature on the map=<b>[复制] 反应</b>\n激活方式：使用者利用增强的反应时间来移动更快. 使用者的速度将始终与地图上最快的生物保持一致
+
+STD Devil\nOn Activation: Click a nearby creature to transform them into your perfect double. Victims adopt your appearance and gain the ability to spread the transformation.=<b>性病恶魔</b>\n激活方式：点击附近的生物，将其转变为你的完美复制体. 受害者将采用你的外貌，并获得传播此转变的能力
+
+Deathless\nUnique Passive: The character cannot die, unless consumed or erased completely=<b>不死</b>\n独特被动：角色无法死亡，除非被完全吞噬或抹除
+
+Slight Attack\nOn Activation: Halt the circulation of all living beings on the map. Victims lose health and energy instantly, with resistant creatures suffering reduced effects.=<b>轻微攻击</b>\n激活方式：停止地图上所有生物的生命. 受害者立即损失生命值和能量，抗性生物所受效果减弱
+
+Hungry one\nOn ALT-Activation: Click a dead body to turn them into a doll. Use the doll to resurrect the bound individual.=<b>饥饿者</b>\n按Alt激活：点击一具尸体将其变成玩偶. 使用该玩偶可复活被束缚的个体
+
+Pulse\nOn Activation : Release high pitch noise wave=<b>脉冲</b>\n激活方式：释放高频噪音波
+
+Ink Grasp\nOn Alt ('H' Key by default) Activation: Click a position to create a large tentacle there. Fades away after 5 seconds.=墨水掌握\n按Alt（默认为H键）激活：点击一个位置，在那里创造一条巨大的触手. 5秒后消失.
+
+Ink Step\nOn Activation : Click an open spot to slip across the map to it.=墨水步\n激活方式：点击一个空地，滑行穿越地图到达该位置.
+
+Fiend\nMakes user a Fiend=<b>魔人</b>\n将使用者变为魔人
+
+Walking corpse\nUser regeneration is improved=行走的尸体\n使用者的再生能力得到提升
+
+Devil\nRegular set of passive Devil abilities=<b>恶魔</b>\n常规的一套被动恶魔能力
+
+Blood Awakening\nPassive : Heals all bleeding wounds. At 850+ energy, awakens into an enhanced form with doubled durability and strength=<b>血之觉醒</b>\n被动：治愈所有流血伤口. 当能量达到850以上时，觉醒为强化形态，耐久度和力量翻倍
+
+Blood Weapon\nOn Activation : Creates selected blood weapon. Selected weapon can be changed in the context menu=<b>血之武器</b>\n激活方式：生成选定的血之武器. 可通过右键菜单更改选定的武器
+
+Snake Devil Summon\nOn Activation : Summon or unsummon the Snake Devil\nRequires a piece of the user’s hand flesh as payment.\nCooldown: 5 seconds=<b>蛇之恶魔召唤</b>\n激活方式：召唤或解除召唤蛇之恶魔\n需以使用者的一块手部血肉作为代价\n冷却时间：5秒
+
+Chainsaw Head\nOn Continuous activation : Starts Chainsaw.\nOn pressing 'H' (ALT ACTIVATION BY DEFAULT) key Chainsaw will be toggled constantly=<b>电锯头</b>\n持续激活：启动电锯. \n按H键（默认为Alt激活）可切换电锯持续状态
+
+Chainsaw Head\nOn Continuous activation : Starts Chainsaw.\nOn pressing Alt ('H' by default) key Chainsaw will be toggled constantly=<b>电锯头</b>\n持续激活：启动电锯. \n按Alt键（默认为H）可切换电锯持续状态
+
+Flame Head\nPassive : User gain resistance to fire damage type, burn wounds regenerates faster=<b>火首</b>\n被动：使用者获得对火焰伤害类型的抗性，烧伤恢复更快
+
+Spear Head=长枪头
+
+Head Cannon\nOn Activation : Fires a high-speed projectile from the user's head.\nThe bullet causes a powerful knockback wave upon impact=<b>头炮</b>\n激活方式：从使用者头部发射高速投射物. \n子弹命中时会产生强大的击退冲击波
+
+Bomb Head=炸弹头
+
+Boom\nOn Activation : If this limb is severed - explode it. (Disable limb regeneration in common passive menu to use this). Damage scales with max energy of the user=<b>爆</b>\n激活方式：如果此肢体被切断——引爆它. （需在通用被动菜单中禁用肢体再生才可使用此能力）. 伤害随使用者的最大能量值提升
+
+Rocket Launcher\nOn Alt ('H' Key by default) Activation: Switch between different attack modes. On Activation: Activate selected mode=<b>火箭发射器</b>\n按Alt键（默认为H）激活：在不同攻击模式间切换. \n激活方式：激活所选模式
+
+The War\nUnique Passive : Uohhh, Fujimoto-sama proved that Mitaka canonically has a big ass with or without Yoru=<b>战争</b>\n独特被动：唔喔喔，藤本老师证明了不管有没有夜，朝的大辟谷都是官方设定
+
+New META\nUnique Passive: Regenerate from death every 5 seconds. Limbs, wounds, and status effects are gradually restored. The contract ends if revival takes longer than 60 seconds or the body is fully destroyed.=<b>新主导</b>\n独特被动：每5秒从死亡中再生一次. 肢体、伤口及状态效果会逐渐恢复. 若复活时间超过60秒或身体被完全摧毁，契约即告终结. 
+
+Darkness Devil\nPassive : Prevents limb disintegration and enhances durability.\nIf energy is depleted, the user explodes violently=<b>暗之恶魔</b>\n被动：防止肢体崩解并增强耐久度. \n若能量耗尽，使用者会剧烈爆炸
+
+Whip Head=鞭首
+
+Whip Lash\nOn Activation: Swing the whip forward, damaging anyone near it=<b>鞭击</b>\n激活方式：向前挥动鞭子，伤害附近的任何目标
+
+Longsword Head\nPassive : Transforms the user's head into a longsword blade.=<b>长剑首</b>\n被动：将使用者的头部转化为长剑刀锋. 
+
+Angel Halo\nOn Activation : The halo creates a selected angel weapon. Selected weapon can be changed in the context menu=<b>天使光环</b>\n激活方式：光环会生成选定的天使武器. 可通过右键菜单更改选定的武器
+
+Angel's Touch\nUnique Passive : Touching other creatures with your arms or head takes their remaining life years. The longer the contact, the more years are drained.=<b>天使之触</b>\n独特被动：用手臂或头部触碰其他生物，会夺走其剩余寿命. 接触时间越长，被抽走的寿命越多. 
+
+Crossbow Head\nPassive : Grants the user crossbow hands=<b>十字弩头</b>\n被动：赋予使用者十字弩手. 
+
+Crossbow Volley\nOn ALT-Activation : Throws off shuddering afterimages and sends fast waves of bolts bursting outward from the head, peppering every other human in range with shots.=<b>十字弩齐射</b>\n按Alt激活：甩出颤抖的残影，从头部向外发射快速波动的弩箭，扫射范围内所有其他人.
+
+Falling\nOn Alt ('H' Key by default) Activation: Switch between modes with the Alt key. On Activation : trigger the selected mode.=<b>坠落</b>\n按Alt（默认为H键）激活：使用Alt键在模式间切换. \n激活方式：触发所选模式. 
+
+Falling Devil\nPassive : Prevents limb disintegration and enhances durability.\nIf energy is depleted, the user explodes violently=<b>坠落恶魔</b>\n被动：防止肢体崩解并增强耐久度. \n若能量耗尽，使用者会剧烈爆炸. 
+
+
+
+
+
+//*上臂
+Explosion Creation\nOn Activation : Toggle [LARGE] Explosion punch on Hit. Such hits consumes some own blood after detonation. Damage scales with max energy of the user=<b>爆炸创造</b>\n激活方式：切换命中时触发[大型]爆炸拳. 此类命中在爆炸后会消耗自身部分血液. 伤害随使用者的最大能量值提升
+
+Torpedo Transformation\nOn Alt ('H' Key by default) Activation: Spend some blood to transform user limbs into torpedoes, which makes thier punches more devastating. Most powerful attack that Bomb Hybrid can perform. Damage scales with max energy of the user=<b>鱼雷变身</b>\n按Alt（默认为H键）激活：消耗部分血液将使用者肢体转化为鱼雷，使其拳击更具毁灭性. 这是炸弹武器人能使出的最强攻击. 伤害随使用者的最大能量值提升
+
+NUCLEAR PUNCH!\nOn ALT-Activation: Toggle NUCLEAR punch mode. Active punches create large-scale explosions at the impact point.=<b>核弹拳！</b>\n按Alt激活：切换核弹拳模式. 激活后，拳击会在撞击点引发大规模爆炸. 
+
+
+
+
+
+//*下臂
+Weapon Grasp\nOn ALT-Activation: Convert nearby objects or defeated creatures within range into weapons. Created weapons are automatically equipped if hands are free.=<b>武器抓取</b>\n按Alt激活：将范围内附近的物体或击败的生物转化为武器. 如果手部空闲，生成的武器会自动装备
+
+Curse Devil Contract\nPassive : This character can use Nail Sword to summon The Curse Devil by stabbing victim 4 times. Summoning The Curse Devil cost the user some of their lifespan.\nCan be upgraded in context menu to work with any weapon at the cost of lifespan of its user=<b>诅咒恶魔契约</b>\n被动：此角色可使用钉剑刺击受害者4次来召唤诅咒恶魔. 召唤诅咒恶魔会消耗使用者部分寿命. \n可在右键菜单中升级，使其能以使用者寿命为代价适配任何武器
+
+Kon\nOn Alt ('H' Key by default) Activation: Summon The Fox Devils Head to destroy everything in front of it. User must pay for that contract with a piece of their flesh taken from random limb.=<b>叩</b>\n按Alt（默认为H键）激活：召唤狐狸恶魔的头部，摧毁其前方的一切. 使用者必须用从随机肢体上取下的一块血肉作为契约代价
+
+SHE CAN SHOOT LASERS??\nOn ALT-Activation : ye, she can apparently=<b>她能射出激光？？</b>\n按Alt激活：是的，看来她显然可以
+
+Memory Erasure\nOn Alt ('H' Key by default) Activation: Confuse and erase memories of human user pointing at. Have small chance to erase random ability of the victim.=<b>记忆消除</b>\n按Alt（默认为H键）激活：混淆并消除使用者所指向的人类的记忆. 有较小几率抹除受害者的随机能力
+
+Control\nOn Activation : Releases the chain in an attempt to control the victim. The chance of control is reduced if the opponent has increased strength. Controlled creatures are used for resurrection regardless of their strength=<b>支配</b>\n激活方式：释放锁链以尝试支配受害者. 若对手拥有增强的力量，支配几率会降低. 被支配的生物可用于复活，无论其强度如何
+
+Bang\nOn Alt ('H' Key by default) Activation: Inflict damage by projecting an invisible force to targets the user points at. The force of the power can be adjusted in the context menu.=<b>砰</b>\n按Alt（默认为H键）激活：向使用者指向的目标投射一股无形的力量造成伤害. 该能力的强度可通过右键菜单调整. 
+
+Melee Fighter\nPassive : The user possesses skill in wielding sharp melee weapon.=<b>近战战士</b>\n被动：使用者拥有挥舞锋利近战武器的技巧
+
+Ghost Devil Contract\nOn Continuous activation : Project a spectral hand to grasp and manipulate distant objects within 5 units. Target objects are bound by ghostly force and respond to hand movements. Can be toggled via context menu to grasp own limbs=<b>幽灵恶魔契约</b>\n持续激活：投射一只幽灵之手，抓取并操控5单位范围内的远处物体. 目标物体会被幽灵之力束缚并跟随手部动作. 可通过右键菜单切换为抓取自身肢体
+
+Paw!\nOn Alt ('H' Key by default) Activation: Summon The Fox Devils Paw to damage everything in front of it. User must pay for that contract with a piece of their flesh taken from the arm.=<b>爪！</b>\n按Alt（默认为H键）激活：召唤狐狸恶魔的爪子，伤害其前方的一切. 使用者必须用从手臂上取下的一块血肉作为契约代价
+
+Mold Devil Contract\nOn Alt ('H' Key by default) Activation: Damage your arm to spread mold on creature arm pointing at. Mold will spread inside body till it dead. Regenerators are bit more resilient to this debuff.=<b>霉菌恶魔契约</b>\n按Alt（默认为H键）激活：损伤你的手臂，向指向的生物手臂传播霉菌. 霉菌会在体内扩散直至其死亡. 再生者对这一减益效果具有稍强的抵抗力
+
+Ink Lash\nOn Alt ('H' Key by default) Activation: Toggle a tentacle that snakes out from the arm in its facing direction.=墨鞭\n按Alt（默认为H键）激活：切换一条从手臂向面对方向伸出的触手.
+
+Punch [CSM style]\nRegular punch, damage scales with strength of its user=打击[CSM风格]\n普通拳击，伤害随使用者力量而增强
+
+Blood Transfer\nOn Alt ('H' Key by default) Activation: Toggle heal mode. Touching other limbs in this mode will stop them from bleeding"=<b>血液转移</b>\n按Alt（默认为H键）激活：切换治疗模式. 在此模式下触碰其他肢体，将使其停止流血
+
+Explosive Spark\nOn Alt ('H' Key by default) Activation: Release a spark which explodes upon impact. Damage scales with max energy of the user=<b>爆炸火花</b>\n按Alt（默认为H键）激活：释放一个火花，撞击时爆炸. 伤害随使用者的最大能量值提升
+
+Chainsaw arm\nOn Continuous activation : Starts Chainsaw.\nOn pressing 'H' key Chainsaw will be toggled constantly=<b>电锯臂</b>\n持续激活：启动电锯. \n按H键可切换电锯持续状态
+
+Chainsaw arm\nOn Continuous activation : Starts Chainsaw.\nOn pressing Alt ('H' by default) key Chainsaw will be toggled constantly=<b>电锯臂</b>\n持续激活：启动电锯. \n按Alt键（默认为H）可切换电锯持续状态
+
+Katana Arm\nPassive : Extends a deadly katana blade from the user's arm.\nAutomatically slices through anything in its path=<b>刀臂</b>\n被动：从使用者手臂延伸出致命的武士刀刀锋. \n自动切开路径上的一切
+
+Flamethrower Arm\nOn Activation : Fire the arm flamethrower. Damage scales with max energy of the user=<b>喷火臂</b>\n激活方式：发射手臂喷火器. 伤害随使用者的最大能量值提升
+
+Spear Creation\nOn Alt ('H' Key by default) Activation: Create Spear. On Spear Activation : Accelerates the spear more and more with each passing second until it hits something. Damage scales with max energy of the user=<b>长枪创造</b>\n按Alt键（默认为H）激活：创造长枪. \n长枪激活时：长枪每过一秒都会不断加速，直到击中某物. 伤害随使用者的最大能量值提升
+
+Gun Devil’s Arsenal\nOn continuous activation : Unleash rapid-fire bullet storm. To increase firepower use multiple guns or activate middle one=<b>枪之恶魔军火库</b>\n持续激活：释放高速连射的子弹风暴. 要提升火力，可使用多把枪或激活中间的那一把
+
+Augmented Strength\nOn Hit : Create [Weak] Explosion. Damage scales with max energy of the user=<b>增强力量</b>\n命中时：产生[弱]爆炸. 伤害随使用者的最大能量值提升
+
+Tank Gauntlet\nOn ALT-Activation: Transform lower arm into a Tank Gauntlet full form. Hold use to fire swords projectiles. Use again to transform back=<b>坦克拳套</b>\n按Alt激活：将前臂完全变为坦克拳套形态. 按住使用键可发射剑型投射物. 再次使用即可变回
+
+Arm Whip Lash\nOn Activation: Swing the arm whips forward, damaging anyone near them.=<b>臂鞭击</b>\n激活方式：向前挥动臂鞭，伤害附近的任何目标
+
+Longsword Arm\nPassive : Extends a deadly longsword blade from the user's arm.\nAutomatically slices through anything in its path.\nParries incoming bullets.=<b>长剑臂</b>\n被动：从使用者手臂延伸出致命的长剑刀锋. \n自动切开路径上的一切. \n格挡来袭的子弹. 
+
+Crossbow Arm\nOn Activation : Shoot a bolt from the arm.=<b>十字弩臂</b>\n激活方式：从手臂发射弩箭.
+
+
+
+
+
+
+
+//*上半身
+Beam\nOn Activation : The user dissolves into beam smoke and goes hidden, the smoke clings to the edges of nearby objects under the cursor and takes their look. Click to reform above the cursor and teleport there. Context menu also allows transforming into the FULL Beam Devil (shark) form.=<b>毕姆</b>\n激活方式：使用者化为光束烟雾并进入隐藏状态，烟雾会附着在光标附近物体边缘并模仿它们的外形. 点击后可在光标上方重组并传送至该处. 右键菜单也可用于转变为完整的毕姆恶魔（鲨鱼）形态.
+
+Yoru\nOn Activation : Toggle transformation between human and War Devil forms. Can evolve by consuming specific powerful entities, unlocking new weapon abilities at each stage. Use context menu to force evolve.=<b>夜</b>\n激活方式：在人类形态与战争恶魔形态之间切换. 可通过吞噬特定的强大实体进化，每阶段解锁新的武器能力. 使用右键菜单可强制进化
+
+Increased Reaction | Lightning Speed\nOn Activation : User uses their enhanced reaction time to move faster=<b>增强反应 | 闪电速度</b>\n激活方式：按H使用者利用增强的反应时间来移动更快
+
+Speed Dash\nOn ALT-Activation: Teleport forward instantly, cutting through all enemies in your path. Strikes have a high chance to slice targets apart, dealing increased damage to heads. Damage scale with maximum energy.=<b>极速冲刺</b>\n按Alt激活：立即向前传送，斩切路径上的所有敌人. 攻击有高几率将目标切割开来，对头部造成额外伤害. 伤害随最大能量值提升
+
+Chainsaw man\nOn Activation : Creates chainsaw cord. Upon pulling the cord user will be revived and transformed into a Chainsaw Hybrid. Using context menu or Alt ('H' Key by default) you can disable Hybrid form. Context menu also allows turning into FULL Chainsaw devil form=电锯人\n激活时：生成电锯线. 拉动电锯线后，用户将被复活并转变为电锯武器人形态. 使用上下文菜单或Alt键（默认为'H'键）可以关闭武器人形态. 上下文菜单还允许切换为完全电锯恶魔形态
+
+Inversion\nOn Activation : Instantly turns the entire world upside-down=<b>颠倒</b>\n激活方式：瞬间将整个世界颠倒过来
+
+Flame Hybrid Transformation\nOn Activation : Activate Flame transformation that revives the user and transforms them into a Flame Hybrid.\nCan toggle hybrid form via context menu or using power again.=<b>火焰武器人变身</b>\n激活方式：激活火焰变身，复活使用者并将其转化为火焰武器人. \n可通过右键菜单或再次使用能力来切换武器人形态
+
+Katana Hybrid Transformation\nOn Activation : Activate Katana Man Hybrid transformation that revives the user and transforms them into a Katana Hybrid.\nCan toggle hybrid form via context menu or using power again.=<b>刀之武器人变身</b>\n激活方式：激活刀男武器人变身，复活使用者并将其转化为刀之武器人. \n可通过右键菜单或再次使用能力来切换武器人形态
+
+Crossbow Hybrid Transformation\nOn Activation : Revives the user and transforms them into a Crossbow Hybrid.\nCan toggle hybrid form via context menu or using power again.=<b>十字弩武器人变身</b>\n激活方式：复活使用者并将其转化为十字弩武器人.\n可通过右键菜单或再次使用能力来切换武器人形态.
+
+Crush\nOn Activation : Sacrifice one of the connected humans to crush a target with an invisible force over a long distance=<b>碾碎</b>\n激活方式：牺牲一名连接中的人类，以无形的力量远距离碾碎目标
+
+Transform\nOn Activation : Unleash True power of Violence Fiend=<b>变身</b>\n激活方式：释放暴力魔人的真正力量
+
+Bomb Hybrid Transformation\nOn Activation : Activate Bomb transformation that revives the user and transforms them into a Bomb Hybrid.\nCan toggle hybrid form via context menu or using power again.=<b>炸弹武器人变身</b>\n激活方式：激活炸弹变身，复活使用者并将其转化为炸弹武器人. \n可通过右键菜单或再次使用能力来切换武器人形态
+
+Spear Hybrid Transformation\nOn Activation : Activate Spear transformation that revives the user and transforms them into a Spear Hybrid.\nCan toggle hybrid form via context menu or using power again.=<b>长枪武器人变身</b>\n激活方式：激活长枪变身，复活使用者并将其转化为长枪武器人. \n可通过右键菜单或再次使用能力来切换武器人形态
+
+Regrowth Pull\nOn Activation : Creates chainsaw cord. Upon pulling the cord user will be revived.=<b>再生拉绳</b>\n激活方式：生成电锯拉绳. 拉动拉绳后使用者将会复活
+
+Heart Throw\nOn context menu activation : Rip your heart out of body, throwing it away=<b>抛心</b>\n通过右键菜单激活：将心脏从体内撕出并扔掉
+
+Gun Devil [20%]\nPassive : Grants the ability to hover and fly.\nPrevents limb disintegration and enhances durability.\nIf energy is depleted, the user explodes violently=<b>枪之恶魔 [20%]</b>\n被动：获得悬停与飞行的能力. \n防止肢体崩解并增强耐久度. \n若能量耗尽，使用者会剧烈爆炸
+
+Targeting System\nOn Activation : Fires a shot at a nearby enemies.\nToggle between 'Head-Shot' and 'Heart-Shot' modes via context menu=<b>瞄准系统</b>\n激活方式：向附近的敌人开火. \n通过右键菜单在“爆头”与“穿心”模式间切换
+
+Barrage\nUnleash disaster on all creatures on the map=<b>弹幕轰炸</b>\n对地图上所有生物降下灾厄
+
+Stabilizer\nPassive : Ensures precise aim and control over firearm-based attacks=<b>稳定器</b>\n被动：确保基于枪械的攻击具备精确瞄准与控制
+
+Whip Hybrid Transformation\nOn Activation : Activate Whip transformation that revives the user and transforms them into a Flame Hybrid.\nCan toggle hybrid form via context menu or using power again.=<b>鞭之武器人变身</b>\n激活方式：激活鞭之变身，复活使用者并将其转化为火焰武器人. \n可通过右键菜单或再次使用能力来切换武器人形态. 
+
+Longsword Hybrid Transformation\nOn Activation : Activate Longsword Hybrid transformation that revives the user and transforms them into a Longsword Hybrid.\nCan toggle hybrid form via context menu or using power again.=<b>长剑武器人变身</b>\n激活方式：激活长剑武器人变身，复活使用者并将其转化为长剑武器人. \n可通过右键菜单或再次使用能力来切换武器人形态. 
+
+
+
+//*中半身
+Devil Erasure\nOn Activation : Consume nearby Devil flesh pieces, erasing Devils from existing. Is able to resist Curse Devil, Check context menu when user is grabbed by it. In context menu you are able to turn back into original user or puke last consumed devil=<b>恶魔抹除</b>\n激活方式：消耗附近的恶魔血肉碎片，将恶魔从存在中抹除. 能够抵抗诅咒恶魔，当使用者被其抓取时请查看右键菜单. 在右键菜单中你可以变回原使用者或吐出最后吞食的恶魔
+
+Levitation\nOn Activation : Toggles flight. The user shrugs off gravity and hovers in place until switched off.=悬浮\n激活方式：切换飞行. 使用者摆脱重力，悬停原地，直到关闭.
+
+Typhoon Devil\nPassive : Prevents limb disintegration and enhances durability.\nIf energy is depleted, the user explodes violently=<b>台风恶魔</b>\n被动：防止肢体崩解并增强耐久度. \n若能量耗尽，使用者会剧烈爆炸
+
+Chain Creation\nOn Alt ('H' Key by default) Activation: Switch between Grab, Grab & Pull, and Wrap modes. On Activation: Activate selected mode=<b>创造锁链</b>\n按Alt（默认为H键）激活：在抓住、抓住 & 拉拽、缠绕模式之间切换. \n激活方式：激活所选模式
+
+Chainsaw leg\nOn Continuous activation : Unleashes Chainsaw from leg=<b>电锯腿</b>\n持续激活：从腿部释放电锯
+
+
+
+//*脚
+Explosive Propulsion\nOn Activation : Release a massive explosion to send themself flying into the air.=<b>爆炸推进</b>\n激活方式：释放巨大爆炸，将自己炸飞上天
+
+
+//*被动能力
+Enhanced Durability\nPassive : The creature durability is increased=<b>增强耐久度</b>\n被动：该生物的耐久度得到提升
+
+Regrowth\nThis creature can regrow limbs. (Cost 25 Energy per regrow=<b>再生</b>\n该生物可以重新长出肢体(每次再生消耗25能量)
+
+Regenerator\nThis creature has regeneration ability :\nCost 0 Energy per damaged limb\nRegen Time 0.14 (Affected by Energy Ratio)\nUnable to regenerate after death=<b>再生者</b>\n该生物拥有再生能力：\n每损失肢体消耗0能量\n再生时间0.14（受能量比例影响）\n死亡后无法再生
+
+Regenerator\nThis creature has regeneration ability :\nCost 0 Energy per damaged limb\nRegen Time 0.04 (Affected by Energy Ratio)\nUnable to regenerate after death=<b>再生者</b>\n该生物拥有再生能力：\n每损失肢体消耗0能量\n再生时间0.04（受能量比例影响）\n死亡后无法再生
+
+Regenerator\nThis creature has regeneration ability :\nCost 0 Energy per damaged limb\nRegen Time 0.02 (Affected by Energy Ratio)\nCan regenerate after death\n(Revival consume progressively more energy if it happens frequently)=<b>再生者</b>\n该生物拥有再生能力：\n每损失肢体消耗0能量\n再生时间0.02（受能量比例影响）\n死亡后可以再生\n（若复活频繁发生，消耗的能量会逐步增加）
+
+r:"Regenerator\nThis creature has regeneration ability :\nCost 0 Energy per damaged limb\nRegen Time ([\d\.]+) \(Affected by Energy Ratio\)\nCan regenerate after death\n\(Revival consume progressively more energy if it happens frequently\)"=再生者\n该生物拥有再生能力：\n每损失肢体消耗0能量\n再生时间 $1（受能量比例影响）\n死亡后可以再生\n（若复活频繁发生，消耗的能量会逐步增加）
+
+//*灾厄能力
+Frog\nSummons a frog that severs all arms within a massive radius. Requires darkness to manifest=<b>蛙</b>\n召唤一只青蛙，斩断巨大半径内所有手臂. 需要在黑暗中显现
+
+Darkness Domain\nPlunges the entire map into darkness=<b>暗之域</b>\n使整个地图陷入黑暗
+
+Sword\nManifests a cursed blade that marks enemies for execution upon damaging them. Use the sword to trigger Darkness Slice on all marked targets=<b>剑</b>\n显现一把诅咒之刃，伤害敌人时会标记他们以备处决. 使用此剑可对所有被标记的目标触发暗之斩击
+
+Man Stun\nTarget selection: Binds chosen victim. Requires darkness=<b>人眩</b>\n目标选择：束缚选定的受害者. 需要在黑暗中
+
+Cursed Word\nTarget selection: Speaks a word of [*] that devastates all limbs of the chosen victim with force.=<b>诅咒之语</b>\n目标选择：说出一个[*]之词，以力量重创选定受害者的所有肢体
+
+Pray\nTarget selection: Speaks prayer of rending flesh. Requires darkness.=<b>祈祷</b>\n目标选择：诵念撕裂血肉的祈祷文. 需要在黑暗中
+
+Darkness Dash\nInstant high-speed dash that slices through everything in its path. Deals regular damage=<b>暗之冲刺</b>\n瞬间高速冲刺，切开路径上的一切. 造成普通伤害
+
+Darkness Dash [BODY SLICE MODE]\nInstant high-speed dash that slices through everything in its path. Deals pure slash damage=<b>暗之冲刺 [躯体斩切模式]</b>\n瞬间高速冲刺，切开路径上的一切. 造成纯粹斩击伤害
+
+//*天使武器
+1000 Years Spear\nUse to activate the spear ability=<b>1000年长枪</b>\n使用以激活长枪能力
+
+100 Years Sword=<b>100年剑</b>
+
+15 Years Spear=<b>15年长枪</b>
+
+10 Years Sword=<b>10年剑</b>
+
+5 Years Dagger=<b>5年匕首</b>
+
+
+
+//*通用右键菜单
+Toggle Infinity Energy=切换无限能量
+Toggle Infinity Energy.=切换无限能量.
+
+Open Power Menu=打开能力菜单
+Open Power Menu.=打开能力菜单.
+
+Toggle energy display=切换能量显示
+Toggle energy display.=切换能量显示.
+
+Tranform to Full Chainsaw Form=转换为完整的电锯人形态
+Tranform to Full Chainsaw Form.=转换为完整的电锯人形态.
+
+Transform to Denjiman Form=转换为电次人形态
+Transform to Denjiman Form.=转换为电次人形态.
+
+Disable Hybrid form.=关闭武器人形态.
+Disable Hybrid form=关闭武器人形态
+
+Rip own Heart out!=撕裂自己的心!
+
+Restore original form=恢复原始形态
+Restore original form.=恢复原始形态.
+
+Toggle remaining years display=切换剩余寿命显示
+Toggle remaining years display.=切换剩余寿命显示.
+
+Toggle infinity years of life=切换无限寿命
+Toggle infinity years of life.=切换无限寿命.
+
+Edit years of life=编辑寿命数值
+Edit years of life.=编辑寿命数值.
+
+Upgrade Curse Devil Contract=升级诅咒恶魔契约
+Upgrade Curse Devil Contract.=升级诅咒恶魔契约.
+
+Toggle Chain Detailed view mode=切换锁链详细视图模式
+Toggle Chain Detailed view mode.=切换锁链详细视图模式.
+
+Change Force Shot Power=改变力道射击威力
+Change Force Shot Power.=改变力道射击威力.
+
+Toggle Bang text=切换"砰"文本
+Toggle Bang text.=切换"砰"文本.
+
+Change selected Darkness Power=更改所选的黑暗力量
+Change selected Darkness Power.=更改所选的黑暗力量.
+
+Disable Darkness Power Cooldowns=禁用黑暗力量冷却时间
+Disable Darkness Power Cooldowns.=禁用黑暗力量冷却时间.
+
+Switch to Heart-Shot Mode=切换至穿心模式
+Toggle Healing Modes.=切换治疗模式.
+
+Toggle Infection tooltips=切换感染提示
+Toggle Infection tooltips.=切换感染提示.
+
+Toggle Hair deletion=切换头发删除
+Toggle Hair deletion.=切换头发删除.
+
+FORCE GAIN MORE POWER=获得更多力量
+GAIN MORE POWER.=获得更多力量.
+
+Change Angel weapon=更换天使武器
+
+Sacrifice body to summon Ghost Devil=献祭身体召唤幽灵恶魔
+Sacrifice body to summon Ghost Devil.=献祭身体召唤幽灵恶魔.
+
+Transform to Full Beam Devil Form=转变为毕姆恶魔完全体形态
+Transform to Full Beam Devil Form.=转变为毕姆恶魔完全体形态.
+Revert to Beam human form=恢复为毕姆人类形态
+Revert to Beam human form.=恢复为毕姆人类形态.
+
+//*对话
+Come out=出来
+Leave=回去
+
+Three=三
+Two=二
+One=一
+Zero=零
+ years left...=年寿命余量...
+0 years left..=还剩0年..
+NO YEARS OF LIFE LEFT...=没有剩余的寿命...
+YEARS : =寿命 : 
+
+Resisted!=反抗!
+控制led!=支配!
+Bang=砰
+/*Click=点击
+点击 on=点击在你
+点击在你 human=点击在你控制
+点击在你控制 under=点击在你控制下
+点击在你控制下 your=点击在你控制下的
+点击在你控制下的  control.=点击在你控制下的人类.
+*/
+Click on human under your control.=点击在你控制下的人类 
+Its the same person!=是同一个人!
+The ability is on cooldown for this person=此人的技能正在冷却中
+You arent controlling this human=你控制不了这个人
+选择ed. Now pick your victim=已选定. 现在选择你的受害者
+取消ed=已取消
+Makima should be higher than the target.=玛奇玛应该比目标更高.
+Resurrection is taking too long!=复活太慢了！
+Makima resurrection contract has expired!=玛奇玛复活契约已过期！
+
+Random power was erased!=随机一个能力被清除！
+
+Grab=抓住
+抓住 & Pull=抓取 & 拉拽
+Pull=拉拽
+Wrap=缠绕
+Unable to grab this creature=无法抓住这个生物
+
+Move your arm!=动动你的手臂！
+Spin away!=快跑！
+Leap!=猛冲！
+Duck down!=蹲下！
+Slide left!=向左滑！
+Slide right!=向右滑！
+Dodge!=闪开！
+Sidestep!=闪避！
+Evade!=避开！
+Vault!=腾跃！
+Watch out!=小心！
+Advance!=前进！
+Roll!=翻滚！
+Lunge forward!=向前冲刺！
+Jump!=跳!
+Rush in!=冲进去！
+P断vot!=转体！
+Push back!=推开!
+推动 back!=推开!
+
+Prec断se rocket launcher=精确火箭发射器
+火焰work bomb=烟花爆炸
+Drop Sparks=火花四溅
+Rocket launcher=火箭发射器
+
+[FAILED] : You still need to 'win' to turn this into the weapon=[失败]：你仍然需要“获胜”才能将其变为武器
+COME TO ME...=到我这来...
+I REMEMBER NOW...=我现在想起来了...
+
+Targeted Falling=指定坠落
+Lift Area=抬升区域
+Slam Area=猛砸区域
+Push Area=区域
+推动 Area=推动区域
+P断ck up items=拾取物品
+Pick up items=拾取物品
+否 loose items nearby=附近没有散落的物品
+No loose items nearby=附近没有散落的物品
+Gun manipulation=枪械操控
+否 gun nearby=附近没有枪械
+No gun nearby=附近没有枪械
+You need to select object to shot at=你需要选择一个物体来射击.
+Ba  断er=屏障
+Barrier=屏障
+Falling Area=坠落区域
+否 debris nearby=附近没有碎片
+No debris nearby=附近没有碎片
+
+//*右下角弹窗
+Infinity Energy for all humans was enabled=启用所有人类无限能量
+Infinity Energy for all humans was disabled=关闭所有人类无限能量
+
+//*地图
+THE HELL <color%3D#f7fffe>[CSM]</color>=地狱<color%3D#f7fffe>[CSM]</color>
+Enter THE HELL <color%3D#f7fffe>[CSM]</color>=进入地狱<color%3D#f7fffe>[CSM]</color>
+
+//*提示框
+BATRIX CSM MOD\nHey, there was an error on start caused by new PPG patch. Restart your game, this should fix it.=Batrix电锯人模组\r\n嘿，启动时由于新的PPG补丁出现了错误. 请重启游戏，这应该能解决问题
+
+[Batrix Energy System]\nBatrix Chainsaw man mod Beta 5.5\nUnable to initialize this mod.\nTry restarting the game.=[Batrix能量系统]\nBatrix电锯人模组Beta 5.5\n无法初始化此模组.\n请尝试重新启动游戏.
+
+Batrix CSM - Early Access Content\n\nYour Tier: Free\nRequired Tier: Overlord\nTier Hierarchy: Free < Champion < Overlord\n\nSubscribe to Boosty or Patreon to unlock this content.\nAlready subscribed? Enter your activation key below.=Batrix电锯人 - 抢先体验内容\n\n你的层级：免费\n所需层级：霸主\n层级层级：免费 < 冠军 < 霸主\n\n订阅 Boosty 或 Patreon 以解锁此内容.\n已订阅？请在下方输入你的激活密钥.
+Enter Key=输入秘钥
+Batrix Chainsaw Man Mod\nEnter your key\nFind it in Batrix Group Discord by typing /key command=Batrix 电锯人模组\n输入你的密钥\n在 Batrix Group Discord 中输入 /key 命令查找

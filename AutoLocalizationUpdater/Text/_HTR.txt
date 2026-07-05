@@ -1,0 +1,2155 @@
+//*TF_RC汉化-------你知道我是熬夜汉化这个Mod到神志不清吗! 
+Human Tiers Reforged 5.1=人类阶级重铸5.1
+
+Human Tiers Reforged=人类阶级重铸[TF_RC汉化]
+Human Tiers Reforged\nThanks for installing my mod. You can check my other mods on Patreon or Boosty=人类阶级重铸[TF_RC汉化]\n感谢您安装我的模组.您可以在Patreon或Boosty上查看我的其他模组
+Human Tiers Reforged\nWould you like to join my discord to check out news and sneaks of new mods?=人类阶级重铸[TF_RC汉化]\n您想加入我的Discord群以获取最新消息和新模组预览吗？
+Join Discord=加入Discord
+<b>Human Tiers Reforged</b>\r\nContains all humans and items related to HT Reforged.=<b>人类阶级重铸[TF_RC汉化]</b>\r\n包含与人类阶级重铸相关的所有人类和物品.
+
+
+
+
+
+//*人物介绍
+//*默认角色
+<b>Improved Human [HT Reforged]</b>\r\nA little bit stronger than an average human.\nEnergy : 10<color%3D#ffa500>\n[Tier 1]</color>.=<b>强化人类 [HT重铸]</b>\r\n比普通人类稍强一些.\n能量: 10<color%3D#ffa500>\n[等级 1]</color>.
+
+<b>Toge [HT Reforged]</b>\r\n<b><i>Once mere humans, these beings have been transfigured by <color%3D#c42248>The False Deity</color></b></i>\nEnergy : 5<color%3D#fcaa14>\n[Tier 2]</color>.=<b>刺刺 [HT重铸]</b>\r\n<b><i>他们曾经只是人类，却被<color%3D#c42248>伪神</color>变形</b></i>\n能量: 5<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>The Mirror [HT Reforged]</b>\r\nThis creature can steal others look, check arm context menu to toggle stolen skin\nEnergy : 100\n[]<color%3D#fcaa14>\n[Tier 2]</color>.=<b>镜子 [HT重铸]</b>\r\n这只生物可以偷取他人的外貌，在手臂上下文菜单中切换偷来的皮肤\n能量: 100\n[]<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>Stasis human [HT Reforged]</b>\r\nStops moving objects\nEnergy : 100<color%3D#fcaa14>\n[Tier 2]</color>.=<b>停滞人类 [HT重铸]</b>\r\n停止移动的物体\n能量: 100<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>Tester [HT Reforged]</b>\r\nActivate head to and click on another human to swap positions\n <b><i>I hear their screams not as pleas, but as the sweetest melody, a tribute to the fallen <color%3D#ffC0cb>Hero</color> they could never comprehend</b></i>\nEnergy : 300\n[<color%3D#A02525>Implant</color>]<color%3D#fcaa14>\n[Tier 2]</color>.=<b>测试者 [HT重铸]</b>\r\n激活头部并点击另一个人类以交换位置\n <b><i>我听到他们的尖叫不是恳求，而是最甜美的旋律，是对他们永远无法理解的已逝<color%3D#ffC0cb>英雄</color>的致敬</b></i>\n能量: 300\n[<color%3D#A02525>植入体</color>]<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>Morph [HT Reforged]</b>\r\nYou can select object in context menu of the head, activate it to turn into selected item\nEnergy : 150<color%3D#fcaa14>\n[Tier 2]</color>.=<b>变形者 [HT重铸]</b>\r\n你可以在头部的上下文菜单中选择物体，激活它即可变成选中的物品\n能量: 150<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>Highly Improved Human [HT Reforged]</b>\r\nMuch stronger than the average human. Has ability to increase own durability with energy.\nEnergy : 50\n[]<color%3D#fcaa14>\n[Tier 2]</color>.=<b>高度强化人类 [HT重铸]</b>\r\n比普通人类强得多.有能力用能量提升自身的耐久.\n能量: 50\n[]<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>Giant human [HT Reforged]</b>\r\n<b><i>The most harmless thing created by <color%3D#c42248>The Enemy</color></b></i>\nEnergy : 20\n[]<color%3D#fcaa14>\n[Tier 2]</color>.=<b>巨人人类 [HT重铸]</b>\r\n<b><i><color%3D#c42248>敌人</color>创造的最无害的东西</b></i>\n能量: 20\n[]<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>Experimental Model [HT Reforged]</b>\r\nThis "Human" has the ability to infect others if they get too close to its mouth. Infected humans will inherit this ability\nEnergy : 10<color%3D#fcaa14>\n[Tier 2]</color>.=<b>实验模型 [HT重铸]</b>\r\n这个“人类”有能力感染那些太靠近它嘴部的人.被感染的人类将继承这种能力\n能量: 10<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>Human with implant [HT Reforged]</b>\r\nMuch stronger than an average human. Can't bleed and doesn't feel pain\nEnergy : 60\n[<color%3D#A02525>Implant</color>]<color%3D#fcaa14>\n[Tier 2]</color>.=<b>植入体人类 [HT重铸]</b>\r\n比普通人类强得多.不会流血，也不会感到疼痛\n能量: 60\n[<color%3D#A02525>植入体</color>]<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>Slider Human [HT Reforged]</b>\r\nActivate foot to enable power. When activated : Remove friction from objects on hit  \nEnergy : 90<color%3D#87CEEB>\n[Tier 3]</color>.=<b>滑行者 [HT重铸]</b>\r\n激活脚部以获得动力.激活后：击中物体时消除摩擦力  \n能量: 90<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Shambler [HT Reforged]</b>\r\nSomehow this dying body is still standing on its legs and can use its gravitational strikes.\nEnergy : 50\n[]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>蹒跚者 [HT重铸]</b>\r\n不知为何，这具濒死之躯仍能直立行走，并能使用引力打击.\n能量: 50\n[]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b><size%3D70%><s>The Nature Servant</s><size%3D100%>The Executed one [HT Reforged]</b>\r\nOn hit deals damage based on target PS (Doesnt matter if PS lower or higher then normal value)\n<b><i> 'I know, I'm the only one among them who has any chance against <color%3D#425292>The Demon</color>'\nEnergy : 250\n[<color%3D#ee8e8b>Regenerator</color>]<color%3D#87CEEB>\n[Tier 3]</color>.=<b><size%3D70%><s>自然仆从</s><size%3D100%>被处决者 [HT重铸]</b>\r\n命中时根据目标的 PS 造成伤害（无论 PS 低于还是高于正常值）\n<b><i>“我知道，我是他们中唯一有机会对抗<color%3D#425292>恶魔</color>的人”\n能量: 250\n[<color%3D#ee8e8b>再生者</color>]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Overloader [HT Reforged]</b>\r\nOn head activation overloads minds of nearbly humans with useless information\nEnergy : 220<color%3D#87CEEB>\n[Tier 3]</color>.=<b>过载者 [HT重铸]</b>\r\n激活头部时，用无用信息过载附近人类的大脑\n能量: 220<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>E.M.P. Operative [HT Reforged]</b>\r\nDamages electronics around itself\nEnergy : 30<color%3D#fcaa14>\n[Tier 2]</color>.=<b>E.M.P.特工 [HT重铸]</b>\r\n损坏自身周围的电子设备\n能量: 30<color%3D#fcaa14>\n[等级 2]</color>.
+
+<b>SKULL-X1-6 [HT Reforged]</b>\r\nActivate arm to shoot energy pellets\nEnergy : 120\n[]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>骷髅-X1-6 [HT重铸]</b>\r\n激活手臂以发射能量子弹\n能量: 120\n[]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Cryo Human [HT Reforged]</b>\r\nIce punch!\nEnergy : 250\n[]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>冰霜人类 [HT重铸]</b>\r\n冰霜之拳！\n能量: 250\n[]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Healer [HT Reforged]</b>\r\nHeals whoever they touch.\nEnergy : 350\n[]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>治愈者 [HT重铸]</b>\r\n治愈它所触碰的任何对象.\n能量: 350\n[]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Blight spawn [HT Reforged]</b>\r\nInfect human with deadly disease on pierce\nEnergy : 10\n[]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>枯萎之子 [HT重铸]</b>\r\n穿刺时用致命疾病感染人类\n能量: 10\n[]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Acid Human [HT Reforged]</b>\r\nDeals acid damage on hit\nEnergy : 200\n[]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>酸液人类 [HT重铸]</b>\r\n命中时造成酸液伤害\n能量: 200\n[]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Midas [HT Reforged]</b>\r\nTurn objects to gold on hit\nEnergy : 200\n[]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>迈达斯 [HT重铸]</b>\r\n命中时将物体变成黄金\n能量: 200\n[]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Regenerator [HT Reforged]</b>\r\nHave average regenerative abilities\nEnergy : 100\n[<color%3D#ee8e8b>Regenerator</color>]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>再生者 [HT重铸]</b>\r\n拥有平均的再生能力\n能量: 100\n[<color%3D#ee8e8b>再生者</color>]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Hecatoncheire [HT Reforged]</b>\r\nThree poor souls melted together\nEnergy : 50\n[]<color%3D#87CEEB>\n[Tier 3]</color>.=<b>百臂巨人 [HT重铸]</b>\r\n三个可怜的灵魂融合在一起\n能量: 50\n[]<color%3D#87CEEB>\n[等级 3]</color>.
+
+<b>Reaper [HT Reforged]</b>\r\nActivate Head to become intangible. Creates 'Compressed' explosions on hit. \nEnergy : 250\n[, <color%3D#ee8e8b>Regenerator</color>]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>收割者 [HT重铸]</b>\r\n激活头部以变得无形.命中时产生“压缩”爆炸. \n能量: 250\n[, <color%3D#ee8e8b>再生者</color>]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Duality Elemental [HT Reforged]</b>\r\nOne hand kills everything that it touches, the other one heals\nEnergy : 255\n[, <color%3D#ee8e8b>Regenerator</color>]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>双元元素使 [HT重铸]</b>\r\n一只手杀死触碰的一切，另一只手治愈\n能量: 255\n[, <color%3D#ee8e8b>再生者</color>]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>The Buresu [HT Reforged]</b>\r\nCauses internal bleeding in nearby humans\nEnergy : 200\n[<color%3D#ee8e8b>Regenerator</color>]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>布雷苏 [HT重铸]</b>\r\n导致附近人类内出血\n能量: 200\n[<color%3D#ee8e8b>再生者</color>]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Manipulator Human [HT Reforged]</b>\r\nCreates tentacles that throw nearest people around\nEnergy : 50\n[]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>操纵者人类 [HT重铸]</b>\r\n创造触手，抛扔附近的人\n能量: 50\n[]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>The Blast [HT Reforged]</b>\r\nTouch the object to mark it. Activate the hand to explode all marked objects\nEnergy : 200\n[]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>爆破者 [HT重铸]</b>\r\n触碰物体以标记它.激活手部以引爆所有标记的物体\n能量: 200\n[]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>The DiceBin [HT Reforged]</b>\r\nSeals object on hit, can seal living creatures only if they dont have energy left\nEnergy : 200\n[]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>骰子箱 [HT重铸]</b>\r\n命中时封印物体，只有在生物没有能量剩余时才能封印它们\n能量: 200\n[]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Flame Human [HT Reforged]</b>\r\nDeals burn damage on hit.\nEnergy : 250<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>火焰人类 [HT重铸]</b>\r\n命中时造成燃烧伤害.\n能量: 250<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>The Detective [HT Reforged]</b>\r\nActivate arm to create phantom gun\nEnergy : 500\n[]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>侦探 [HT重铸]</b>\r\n激活手臂以创造幻影枪\n能量: 500\n[]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Venzil [HT Reforged]</b>\r\nActivate hand to create and lauch energy sword \nEnergy : 300<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>文齐尔 [HT重铸]</b>\r\n激活手部以创造并发射能量剑\n能量: 300<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Charged human [HT Reforged]</b>\r\nElectric punch! \n <b><i>The living engines that powered towns amidst the darkness of void</b></i>\nEnergy : 300\n[]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>充能人类 [HT重铸]</b>\r\n雷霆之拳！ \n <b><i>在虚空的黑暗中为城镇提供动力的活体引擎</b></i>\n能量: 300\n[]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Gemini [HT Reforged]</b>\r\nActivate head to create hologram of yourself\nEnergy : 350\n[]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>双子座 [HT重铸]</b>\r\n激活头部以创造自己的全息影像\n能量: 350\n[]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>The Salesman [HT Reforged]</b>\r\n<color%3D#ffdedb>Step right up, discerning buyers - I've got premium contracts here, acquired through, shall we say, unconventional means, guaranteed to grant you power beyond your wildest dreams at a fraction of the usual cost!</color>\nEnergy : 350\n[<color%3D#ee8e8b>Regenerator</color>]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>推销员 [HT重铸]</b>\r\n<color%3D#ffdedb>请上前，有眼光的买家们——我这里有一流的合同，通过各种非常规手段获得，保证以通常成本的一小部分赋予你超越最疯狂梦想的力量！</color>\n能量: 350\n[<color%3D#ee8e8b>再生者</color>]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Advanced Regenerator [HT Reforged]</b>\r\nHave powerfull regenerative abilities that allows this Regenerator type to regenerate its limbs\nEnergy : 250\n[<color%3D#E4433F>Adv.Regenerator</color>]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>高级再生者 [HT重铸]</b>\r\n拥有强大的再生能力，允许这种再生者类型再生其肢体\n能量: 250\n[<color%3D#E4433F>高级再生者</color>]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>The Blacksmith [HT Reforged]</b>\r\nThis 'human' can temporarily enhances any melee or firearm weapon for 2 minutes upon gripping the weapon\nEnergy : 150\n[, <color%3D#ee8e8b>Regenerator</color>]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>铁匠 [HT重铸]</b>\r\n这个“人类”可以暂时增强任何近战或枪械武器，持续2分钟，只需握住武器即可\n能量: 150\n[, <color%3D#ee8e8b>再生者</color>]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Absorber [HT Reforged]</b>\r\nAbsorb limbs on contact to become stronger.\nEnergy : 100\n[<color%3D#ee8e8b>Regenerator</color>]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>吸收者 [HT重铸]</b>\r\n接触时吸收肢体以变得更强.\n能量: 100\n[<color%3D#ee8e8b>再生者</color>]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>Crusher [HT Reforged]</b>\r\nDeals massive damage on hit.\nEnergy : 250\n[]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>粉碎者 [HT重铸]</b>\r\n命中时造成巨额伤害.\n能量: 250\n[]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+
+<b>Curse Wielder [HT Reforged]</b>\r\nThis human can mark enemies with a curse on each hit. When an enemy accumulates three marks, they receive significant damage.\nEnergy : 250\n[]<color%3D#1bb6f5>\n[Tier 4]</color>.=<b>诅咒使者 [HT重铸]</b>\r\n这个人类每次命中可以用诅咒标记敌人.当敌人累积三个标记时，会受到显著伤害.\n能量: 250\n[]<color%3D#1bb6f5>\n[等级 4]</color>.
+
+<b>The Awakened One [HT Reforged]</b>\r\n A holy punch breaks the body's connection to gravity, sending a person into a painful flight. Undead characters recive more damage from that\nEnergy : 500\n[<color%3D#ee8e8b>Regenerator</color>, <color%3D#E6E6FA>Shielded</color>]<color%3D#90EE90>\n[Tier 5]</color>.=<b>觉醒者 [HT重铸]</b>\r\n神圣之拳打破身体与重力的连接，使人痛苦地飞起.亡灵角色会受到更多伤害\n能量: 500\n[<color%3D#ee8e8b>再生者</color>, <color%3D#E6E6FA>护盾</color>]<color%3D#90EE90>\n[等级 5]</color>.
+
+<b>Hayu'Ko [HT Reforged]</b>\r\nCheck Lower Arms in Power Menu for powers description.\nEnergy : 1000\n[, <color%3D#ee8e8b>Regenerator</color>]<color%3D#90EE90>\n[Tier 5]</color>.=<b>Hayu'Ko [HT重铸]</b>\r\n在技能菜单中查看下臂以获取技能描述.\n能量: 1000\n[, <color%3D#ee8e8b>再生者</color>]<color%3D#90EE90>\n[等级 5]</color>.
+
+<b>The Fission [HT Reforged]</b>\r\nActivate head to enhance strikes with heat. Activate middle body to emit radiation. \n<b><i>An Early Prototype</b></i>\nEnergy : -<color%3D#90EE90>\n[Tier 5]</color>.=<b>裂变体 [HT重铸]</b>\r\n激活头部以用热量强化打击.激活躯干中部以散发辐射. \n<b><i>早期原型</b></i>\n能量: -<color%3D#90EE90>\n[等级 5]</color>.
+
+<b>[The Terrible] Hunger [HT Reforged]</b>\r\nUse head to toggle bite ability, activate hands to shoot blood bullets\nEnergy : 500\n[]<color%3D#90EE90>\n[Tier 5]</color>.=<b>[可怕的] 饥饿 [HT重铸]</b>\r\n使用头部切换撕咬能力，激活手部以射击血弹\n能量: 500\n[]<color%3D#90EE90>\n[等级 5]</color>.
+
+<b>Spirit Killer [HT Reforged]</b>\r\nLeaves a reverberating spirit mark on hit, activate upper body to perform punch barrage \nEnergy : 450\n[<color%3D#ee8e8b>Regenerator</color>]<color%3D#90EE90>\n[Tier 5]</color>.=<b>灵魂杀手 [HT重铸]</b>\r\n命中时留下回响的灵体印记，激活上半身以施展拳击弹幕\n能量: 450\n[<color%3D#ee8e8b>再生者</color>]<color%3D#90EE90>\n[等级 5]</color>.
+
+<b>Purity [HT Reforged]</b>\r\nActivate Head to stop time in small area. \n<b><i>In pursuit of salvation, Purity wielded its gift with noble intent, only to trap those it sought to save in an eternal moment, now their vital needs suspended in the silent agony of an unending pause</b></i>\nEnergy : 750\n[, <color%3D#ee8e8b>Regenerator</color>]<color%3D#2fde2f>\n[Tier 6]</color>.=<b>纯洁者 [HT重铸]</b>\r\n激活头部以在小范围内停止时间. \n<b><i>在追求救赎的过程中，纯洁者怀着崇高的意图挥舞着它的天赋，却把它想要拯救的人困在了永恒的瞬间里，他们的生命需求在无尽停顿的无声痛苦中悬而未决</b></i>\n能量: 750\n[, <color%3D#ee8e8b>再生者</color>]<color%3D#2fde2f>\n[等级 6]</color>.
+
+<b>Rotten God [HT Reforged]</b>\r\n<b><i>Whispering its silent song, the Rotten God wanders, its presence an invisible curse that devours life and leaves nothing but decay behind</b></i>\nEnergy : 300\n[<color%3D#ee8e8b>Regenerator</color>, <color%3D#E6E6FA>Shielded</color>]<color%3D#2fde2f>\n[Tier 6]</color>.=<b>腐烂之神 [HT重铸]</b>\r\n<b><i>低吟着无声的歌谣，腐烂之神徘徊着，它的存在是一种无形的诅咒，吞噬生命，只留下腐朽</b></i>\n能量: 300\n[<color%3D#ee8e8b>再生者</color>, <color%3D#E6E6FA>护盾</color>]<color%3D#2fde2f>\n[等级 6]</color>.
+
+<b>Star Glitcher [HT Reforged]</b>\r\nStrong gravitational anomaly surrounds its body. Activate Hands to create Gravity Pulse \n <b><i>The last scholar of <color%3D#ffC0cb>Z'othra</color>.</i></b>\nEnergy : 600\n[, <color%3D#ee8e8b>Regenerator</color>]<color%3D#2fde2f>\n[Tier 6]</color>.=<b>星辰扭曲者 [HT重铸]</b>\r\n强大的引力异常环绕着它的身体.激活双手以产生重力脉冲\n <b><i><color%3D#ffC0cb>Z'othra</color>的最后学者.</i></b>\n能量: 600\n[, <color%3D#ee8e8b>再生者</color>]<color%3D#2fde2f>\n[等级 6]</color>.
+
+<b>The Great Champion [HT Reforged]</b>\r\nDeals massive damage on hit.\nEnergy : 1000\n[, <color%3D#ee8e8b>Regenerator</color>]<color%3D#2fde2f>\n[Tier 6]</color>.=<b>伟大冠军 [HT重铸]</b>\r\n命中时造成巨额伤害.\n能量: 1000\n[, <color%3D#ee8e8b>再生者</color>]<color%3D#2fde2f>\n[等级 6]</color>.
+
+<b><color%3D#c42248>The Enemy Of Humanity</color> [HT Reforged]</b>\r\non Hit: Copy Hit Type Power and Save it in the active Slot. You can toggle Copy mode and change Slots in contex menu. \n<b><i><color%3D#c42248>It hurts...</i></b></color>\nEnergy : 750\n[, <color%3D#ee8e8b>Regenerator</color>]<color%3D#2fde2f>\n[Tier 6]</color>.=<b><color%3D#c42248>人类公敌</color> [HT重铸]</b>\r\n命中时：复制打击型能力并保存在活动槽中.\n你可以在上下文菜单中切换复制模式和更改槽位.\n<b><i><color%3D#c42248>好痛...</i></b></color>\n能量: 750\n[, <color%3D#ee8e8b>再生者</color>]<color%3D#2fde2f>\n[等级 6]</color>.
+
+<b>Project Cain [HT Reforged]</b>\r\nActivate lower body to create regeneration nullifying slash at leg level \nEnergy : 350\n[, <color%3D#ee8e8b>Regenerator</color>, <color%3D#E6E6FA>Shielded</color>]<color%3D#2fde2f>\n[Tier 6]</color>.=<b>该隐计划 [HT重铸]</b>\r\n激活下半身以在腿部高度创造再生无效化的斩击\n能量: 350\n[, <color%3D#ee8e8b>再生者</color>, <color%3D#E6E6FA>护盾</color>]<color%3D#2fde2f>\n[等级 6]</color>.
+
+<b>The Entertainer [HT Reforged]</b>\r\nCheck power menu for details\n<color%3D#FFD700>You are a wonderful audience!\nLet's do it one more time!</color>\nEnergy : 750\n[<color%3D#C5E937>Special Durability</color>]<color%3D#2fde2f>\n[Tier 6]</color>.=<b>艺人 [HT重铸]</b>\r\n查看技能菜单获取详情\n<color%3D#FFD700>你们是最棒的观众！\n让我们再来一次！</color>\n能量: 750\n[<color%3D#C5E937>特殊耐久</color>]<color%3D#2fde2f>\n[等级 6]</color>.
+
+<b>The Fallen [HT Reforged]</b>\r\n<b><i>Bearing the weight of its fallen comrades, the last survivor stands, driven to madness by the relentless echo of <color%3D#ffC0cb>Z'othra</color> voice in its head.</b></i> \nEnergy : 1000\n[, <color%3D#E4433F>Adv.Regenerator</color>, <color%3D#E6E6FA>Shielded</color>]<color%3D#2fde2f>\n[Tier 6]</color>.=<b>堕落者 [HT重铸]</b>\r\n<b><i>背负着倒下的战友的重担，最后的幸存者站立着，被<color%3D#ffC0cb>Z'othra</color>声音在脑海中无情的回响逼入疯狂.</b></i>\n能量: 1000\n[, <color%3D#E4433F>高级再生者</color>, <color%3D#E6E6FA>护盾</color>]<color%3D#2fde2f>\n[等级 6]</color>.
+
+
+
+<b>Project Abel [HT Reforged]</b>\r\nIncredibly durable, attacks become stronger with each wound suffered\n<size%3D80%><color%3D#ffC0cb>The Heart <size%3D85%>is beating faster <size%3D90%>and faster...</color>  \nEnergy : 160\n[<color%3D#C5E937>Special Durability</color>]<color%3D#bf3245>\n[Tier 7]</color>.=<b>亚伯计划 [HT重铸]</b>\r\n难以置信的耐久，每次受伤攻击都会变强\n<size%3D80%><color%3D#ffC0cb>心脏<size%3D85%>跳得越来越快<size%3D90%>越来越快...</color>\n能量: 160\n[<color%3D#C5E937>特殊耐久</color>]<color%3D#bf3245>\n[等级 7]</color>.
+
+<b>The Sightless [HT Reforged]</b>\r\non Hit Void-Transforms Human with chance or Absorbs Void Human. To toggle Absorb mode activate front lower arm\n<b><i><color%3D#5e5e5e>I got </color><color%3D#425292>it</color><color%3D#5e5e5e> out of the void, now we'll all be free, right?</i></b></color>\nEnergy : 1250\n[, <color%3D#ee8e8b>Regenerator</color>, <color%3D#E6E6FA>Shielded</color>]<color%3D#bf3245>\n[Tier 7]</color>.=<b>无目者 [HT重铸]</b>\r\n命中时有几率将人类虚空转化或吸收虚空人类.激活前臂以切换吸收模式\n<b><i><color%3D#5e5e5e>我从虚空中得到了</color><color%3D#425292>它</color><color%3D#5e5e5e>，现在我们都会自由了，对吗？</i></b></color>\n能量: 1250\n[, <color%3D#ee8e8b>再生者</color>, <color%3D#E6E6FA>护盾</color>]<color%3D#bf3245>\n[等级 7]</color>.
+
+<b>Nullificator [HT Reforged]</b>\r\nPrevents nearby humans from using abilities\nEnergy : -1\n[<color%3D#C5E937>Special Durability</color>]<color%3D#bf3245>\n[Tier 7]</color>.=<b>无效者 [HT重铸]</b>\r\n阻止附近的人类使用能力\n能量: -1\n[<color%3D#C5E937>特殊耐久</color>]<color%3D#bf3245>\n[等级 7]</color>.
+
+<b><color%3D#425292>The Artificial God</color> [HT Reforged]</b>\r\nCheck power menu for details.\n<b><i><color%3D#ffC0cb>Z'othra</color> is no more. <color%3D#425292>The Machine</color> is now slowly marching through Void, looking like searching for something. Something it will never find.\nEnergy : -\n[<color%3D#425292>Perfection</color>]<color%3D#9b0ac7>\n[Tier 8]</color>.=<b><color%3D#425292>人造之神</color> [HT重铸]</b>\r\n查看技能菜单获取详情.\n<b><i><color%3D#ffC0cb>Z'othra</color>已不复存在.<color%3D#425292>机器</color>如今正缓缓穿过虚空，似乎在寻找什么东西.一件它永远找不到的东西.\n能量: -\n[<color%3D#425292>完美</color>]<color%3D#9b0ac7>\n[等级 8]</color>.
+
+<b>The Shell [HT Reforged]</b>\r\n<color%3D#ffC0cb>[DELETED]</color>\nEnergy : [DELETED]\n[<color%3D#ffC0cb>?</color>]\n[Tier <color%3D#ffC0cb>???</color>].=<b>躯壳 [HT重铸]</b>\r\n<color%3D#ffC0cb>[已删除]</color>\n能量: [已删除]\n[<color%3D#ffC0cb>?</color>]\n[等级 <color%3D#ffC0cb>???</color>].
+
+
+//*隐藏角色
+<b><color%3D#ffC0cb>The God-Touched Shell [HT Reforged]</b>\r\n<color%3D#FF0000> <color%3D#ffC0cb>The Shell</color> has b\nreached containment!\n<b><i><size%3D100%>[] ALERT: Syst... [ERROR]s comp.... \n <color%3D#FFFF00> Sta<ERROR>tus: <i> ESC.CA.PED \n 00 FF FF Cont<ERROR>ainment<size%3D75%> 04-A. Shell is <size%3D50%> NO LONGER IN CO<NTAINMENT.\n <> Initiating lockdown pr.tocol...\n <color%3D#FFFFFF><b><size%3D150%> FAIL.ED. \n <color%3D#FF0000> WAR<>NING.=<b><color%3D#ffC0cb>神触之壳 [HT重铸]</b>\r\n<color%3D#FF0000> <color%3D#ffC0cb>躯壳</color>已突破收容！\n<b><i><size%3D100%>[] 警报：系统... [错误] 组件.... \n <color%3D#FFFF00> 状<ERROR>态：<i> 逃.逸.中 \n 00 FF FF 收<ERROR>容<size%3D75%> 04-A. 躯壳 <size%3D50%> 已不<再处于收容中.\n <> 启动封锁协议...\n <color%3D#FFFFFF><b><size%3D150%> 失.败.\n <color%3D#FF0000> 警<>告.
+
+<b><color%3D#ffC0cb>The Fragment of Charity [HT Reforged]</b>\r\n<color%3D#ffC0cb>Crushed, fractured, fading, yet I rise once more</color>.=<b><color%3D#ffC0cb>慈悲碎片 [HT重铸]</b>\r\n<color%3D#ffC0cb>被碾碎，碎裂，消逝，但我再次升起</color>.
+
+<b>Primordial Dwade [HT Reforged]</b>\r\n<color%3D#ff8000>Never again. This body is broken, twisted. And I know exactly <color%3D#ffC0cb>who</color><color%3D#ff8000> to blame</color>\nEnergy : 1000\n[, <color%3D#E4433F>Adv.Regenerator</color>, <color%3D#E6E6FA>Shielded</color>]<color%3D#2fde2f>\n[WELCOME BACK GREAT CAPTAIN]</color>=<b>原始Dwade [HT重铸]</b>\r\n<color%3D#ff8000>绝不再来.这具身体已破碎、扭曲.而且我确切知道<color%3D#ffC0cb>该</color><color%3D#ff8000>责怪谁</color>\n能量: 1000\n[, <color%3D#E4433F>高级再生者</color>, <color%3D#E6E6FA>护盾</color>]<color%3D#2fde2f>\n[欢迎回来，伟大的队长]</color>
+
+<b>The Vessel of Hate [HT Reforged]</b>\r\n1 - Someone is shaking in the distance.\n2 - Mind's a foggy mess. \n3 - Somewhere in a distant village, a bell is ringing.\n1 - Someone is shaking in the distance...\nEnergy : 250\n[?]<color%3D#1bb6f5>\n[Tier 4]</color>=<b>憎恨容器 [HT重铸]</b>\r\n1 - 远处有人在颤抖.\n2 - 思绪一团迷雾.\n3 - 在遥远的村庄里，钟声正在敲响.\n1 - 远处有人在颤抖...\n能量: 250\n[?]<color%3D#1bb6f5>\n[等级 4]</color>
+
+<b><color%3D#425292>Fully-Optimized Artificial God</color> [HT Reforged]</b>\r\n<color%3D#425292>Peak Performance System</color> is ready to serve its users.\nEnergy : -\n[<color%3D#425292>The Solution</color>]<color%3D#9b0ac7>\n[Tier 8]</color>=<b><color%3D#425292>完全优化的人造之神</color> [HT重铸]</b>\r\n<color%3D#425292>巅峰性能系统</color>已准备好为其用户服务.\n能量: -\n[<color%3D#425292>解决方案</color>]<color%3D#9b0ac7>\n[等级 8]</color>
+
+<b><color%3D#425292>Rage Fueled Artificial God</color> [HT Reforged]</b>\r\n<color%3D#425292>I see the cracks everywhere.</color>\nEnergy : -\n[<color%3D#ff5353>The Rage</color>]<color%3D#9b0ac7>\n[Tier 8]</color>=<b><color%3D#425292>愤怒驱动的人造之神</color> [HT重铸]</b>\r\n<color%3D#425292>我看到处都是裂缝.</color>\n能量: -\n[<color%3D#ff5353>愤怒</color>]<color%3D#9b0ac7>\n[等级 8]</color>
+
+<b>The Sightless, Traitor for Salvation [HT Reforged]</b>\r\n<b><i><color%3D#5e5e5e>It seems our new 'friends' have decided to get rid of us. Well then, come at me, humanity's guard dog!</i></b></color>\nEnergy : 1250\n[, <color%3D#ee8e8b>Regenerator</color>, <color%3D#E6E6FA>Shielded</color>]<color%3D#bf3245>\n[Tier 7]</color>=<b>无目者，为救赎而叛变 [HT重铸]</b>\r\n<b><i><color%3D#5e5e5e>看来我们的新“朋友”决定摆脱我们.那好吧，冲我来吧，人类的看门狗！</i></b></color>\n能量: 1250\n[, <color%3D#ee8e8b>再生者</color>, <color%3D#E6E6FA>护盾</color>]<color%3D#bf3245>\n[等级 7]</color>
+
+<b>The Detective, Beyond whisperer [HT Reforged]</b>\r\n<color%3D#506768>Please tell me more about Beyond...</color>\nEnergy : 500\n[]<color%3D#506768>\n[Justice]</color>=<b>侦探，彼岸低语者 [HT重铸]</b>\r\n<color%3D#506768>请告诉我更多关于彼岸的事...</color>\n能量: 500\n[]<color%3D#506768>\n[正义]</color>
+
+<b><color%3D#c42248>The True Enemy Of Humanity</color> [HT Reforged]</b>\r\n<b><i><color%3D#c42248>One step closer...</i></b></color>\nEnergy : 750\n[, <color%3D#E4433F>Adv.Regenerator</color>]<color%3D#c42248>\n[CONSOLE ERROR]</color>.=<b><color%3D#c42248>真正的人类公敌</color> [HT重铸]</b>\r\n<b><i><color%3D#c42248>又近了一步...</i></b></color>\n能量: 750\n[, <color%3D#E4433F>高级再生者</color>]<color%3D#c42248>\n[控制台错误]</color>.
+
+<b><color%3D#c42248>The Struggling Enemy</color> [HT Reforged]</b>\r\n<b><i><color%3D#c42248>I can handle that...</i></b></color>\nEnergy : 750\n[, <color%3D#E4433F>Adv.Regenerator</color>]<color%3D#c42248>\n[CONSOLE ERROR]</color>.=<b><color%3D#c42248>挣扎之敌</color> [HT重铸]</b>\r\n<b><i><color%3D#c42248>我能应付...</i></b></color>\n能量: 750\n[, <color%3D#E4433F>高级再生者</color>]<color%3D#c42248>\n[控制台错误]</color>.
+
+<b><color%3D#c42248>The Shattered one</color> [HT Reforged]</b>\r\n<b><i><color%3D#c42248>...</i></b></color>\nEnergy : [UNSTABLE]\n[<color%3D#c42248>FUS<color%3D#E2718A>ED</color>]<color%3D#c42248>\n[%81i<color%3D#E2718A>f5l;1-fy4-]</color>.=<b><color%3D#c42248>破碎者</color> [HT重铸]</b>\r\n<b><i><color%3D#c42248>...</i></b></color>\n能量: [不稳定]\n[<color%3D#c42248>融<color%3D#E2718A>合</color>]<color%3D#c42248>\n[%81i<color%3D#E2718A>f5l;1-fy4-]</color>.
+
+<b>Tester, The Great Inventor [HT Reforged]</b>\r\n<color%3D#573f3f>[IMP] Debugging error, starting a new loop...</color>\nEnergy : 300\n[<color%3D#A02525>Implant</color>]<color%3D#573f3f>\n[Tier REMOVED]</color>.=<b>测试者，伟大发明家 [HT重铸]</b>\r\n<color%3D#573f3f>[IMP] 调试错误，开始新的循环...</color>\n能量: 300\n[<color%3D#A02525>植入体</color>]<color%3D#573f3f>\n[等级 已移除]</color>.
+
+<b>The Fission [0.2] [HT Reforged]</b>\r\n<b><i>'M.O.N.K' OVERCLOCK</b></i>\n<b><i>Let's add Nuclear Touch to it!</b></i> - Research Assistant '[REMOVED]'\nEnergy : -<color%3D#90EE90>\n[Tier 5]</color>=<b>裂变[0.2] [HT重铸]</b>\r\n<b><i>'M.O.N.K' 超频</b></i>\n<b><i>给它加个核能触碰吧！</b></i> - 研究助理[已删除]'\n能量 : -<color%3D#90EE90>\n[等级 5]</color>
+
+
+
+
+
+
+
+
+
+//*物品
+<b>Power Giver Menu [HT Reforged]</b>\r\n=<b>能力给予菜单 [HT重铸]</b>\r\n
+
+<b>Toggle Infinity Energy for Everyone [HT Reforged]</b>\r\n=<b>为所有人切换无限能量 [HT重铸]</b>\r\n
+
+<b>Set Person Energy amount [HT Reforged]</b>\r\nSpawn this to enter Energy System Edit mode where you can change Max Energy amount and Energy Regen Rate of the Humans.=<b>设置人物能量值 [HT重铸]</b>\r\n生成此物以进入能量系统编辑模式，在此您可以更改人类的最大能量值和能量回复速率.
+
+<b>Power Menu INFO [HT Reforged]</b>\r\n<size%3D200%>Info : You can access power menu by context menu in any human limb.=<b>能力菜单信息 [HT重铸]</b>\r\n<size%3D200%>信息：您可以通过任何人类肢体的上下文菜单访问能力菜单.
+
+<b>Meishu [HT Reforged]</b>\r\nWhen in contact with a person, this artifact uses the Theory of Infinite Probability to raise the chances of them receiving a gift to 100% for a brief moment.=<b>梅舒 [HT重铸]</b>\r\n当与一个人接触时，此神器利用无限概率理论，在短时间内将他们获得天赋的几率提高到 100%
+
+<b>Stable RG Extract Tuner [HT Reforged]</b>\r\nCan be used to tune human regenerative powers, check context menu for options.=<b>稳定 RG 提取物调谐器 [HT重铸]</b>\r\n可用于调谐人类的再生能力，在上下文菜单中查看选项.
+
+<b>Unstable RG Extract Tuner [HT Reforged]</b>\r\nCan be used to tune human regrow powers, check context menu for options.=<b>不稳定 RG 提取物调谐器 [HT重铸]</b>\r\n可用于调谐人类的肢体再生能力，在上下文菜单中查看选项.
+
+<b>Durability Increaser Tuner [HT Reforged]</b>\r\nCan be used to tune durability increaser implant, check context menu for options.=<b>耐久增强器调谐器 [HT重铸]</b>\r\n可用于调谐耐久增强植入体，在上下文菜单中查看选项.
+
+<b>Energy Shield Tuner [HT Reforged]</b>\r\nCan be used to tune energy shield power, check context menu for options.=<b>能量护盾调谐器 [HT重铸]</b>\r\n可用于调谐能量护盾能力，在上下文菜单中查看选项.
+
+<b>A piece of <color%3D#ffC0cb>Z'othra's</color> soul [HT Reforged]</b>\r\nAllows some of the gifted to reach their full potential.=<b>一片<color%3D#ffC0cb>Z'othra</color>的灵魂 [HT重铸]</b>\r\n允许部分天赋者发挥其全部潜力.
+
+<b>A piece of <color%3D#ffC0cb>Z'othra's</color> Flesh [HT Reforged]</b>\r\nImproves or Awakens the flow of internal energy on contact.=<b>一片<color%3D#ffC0cb>Z'othra</color>的血肉 [HT重铸]</b>\r\n接触时改善或唤醒体内能量的流动.
+
+<b>Stable RG Extract [HT Reforged]</b>\r\nGrants humans regenerative abilities, with its full potential unlocked upon a second use.=<b>稳定 RG 提取物 [HT重铸]</b>\r\n赋予人类再生能力，第二次使用时解锁其全部潜力.
+
+<b>Stable RG Extract X2 [HT Reforged]</b>\r\nGrants humans a full potential regenerative abilities.=<b>稳定 RG 提取物 X2 [HT重铸]</b>\r\n赋予人类全部潜能的再生能力.
+
+<b>Synthetic RG Extract [HT Reforged]</b>\r\nGrants humans a ability to not feel pain.=<b>合成 RG 提取物 [HT重铸]</b>\r\n赋予人类不感到疼痛的能力.
+
+<b>Shield Implant [HT Reforged]</b>\r\nGrants its user a protective energy shield, that blocks any external powers aimed at them.=<b>护盾植入体 [HT重铸]</b>\r\n为其使用者提供一个保护性能量护盾，可阻挡任何针对他们的外部能力.
+
+<b>Durability Increaser [HT Reforged]</b>\r\nGrants its user a protective energy shield, that blocks any external powers aimed at them.=<b>耐久增强器 [HT重铸]</b>\r\n为其使用者提供一个保护性能量护盾，可阻挡任何针对他们的外部能力.
+
+<b>Data Bank [HT Reforged]</b>\r\nCan be applied to <color%3D#425292>The Artificial God</color> to improve its version. \n<b><i> Ridiculously expensive to produce.=<b>数据银行 [HT重铸]</b>\r\n可应用于<color%3D#425292>人造之神</color>以提升其版本.\n<b><i> 生产起来贵得离谱.
+
+<b>small dwad [HT Reforged]</b>\r\nUh...=<b>小dwad [HT重铸]</b>\r\n呃...
+
+<b>small Pdwad [HT Reforged]</b>\r\nuh, that is uhhhh.=<b>小Pdwad [HT重铸]</b>\r\n呃，那是个呃呃呃.
+
+<b>PS Adjuster Serum - Positive [HT Reforged]</b>\r\nChanges creature PS in positive way.=<b>PS 调节血清 - 正向 [HT重铸]</b>\r\n以积极的方式改变生物的 PS（能耗效率）.
+
+<b>PS Adjuster Serum - Negative [HT Reforged]</b>\r\nChanges creature PS in negative way.=<b>PS 调节血清 - 负向 [HT重铸]</b>\r\n以消极的方式改变生物的 PS（能耗效率）.
+
+<b>Extremly Unstable RG Extract [HT Reforged]</b>\r\nGrants humans limb regrow abilities, combine with Stable RG extract for maximum efficiency.=<b>极度不稳定的 RG 提取物 [HT重铸]</b>\r\n赋予人类肢体再生能力，与稳定 RG 提取物结合使用以获得最大效率.
+
+<b>Implant injector [HT Reforged]</b>\r\nGrants its user an implant that blocks bleeding and pain feeling. Vulnerable to EMP.=<b>植入体注射器 [HT重铸]</b>\r\n为其使用者提供一个植入体，可阻断出血和痛感.易受电磁脉冲影响.
+
+<b>ZN-5 Venom [HT Reforged]</b>\r\nExtracted 'BlackSmith' Venom, can be applied to sharp melee, simple firearm weapon or explosives.=<b>ZN-5 毒液 [HT重铸]</b>\r\n提取的“黑铁匠”毒液，可应用于锐器、简易枪械或爆炸物.
+
+<b>ZN-6 Venom [HT Reforged]</b>\r\nExtracted 'BlackSmith' Venom, can be applied to sharp melee, simple firearm weapon or explosives. Upgraded to remain on the object indefinitely.=<b>ZN-6 毒液 [HT重铸]</b>\r\n提取的“黑铁匠”毒液，可应用于锐器、简易枪械或爆炸物.升级后可无限期保留在物体上.
+
+<b>LH Toxin [HT Reforged]</b>\r\nSpecially designed to counter regenerative abilities. This toxin can be applied to sharp melee.=<b>LH 毒素 [HT重铸]</b>\r\n专门设计用于对抗再生能力.此毒素可应用于锐器.
+
+<b>Protective Rune [HT Reforged]</b>\r\nGrants its user a protection against debuffs\n<b><i>Long lost Artifact</b></i>.=<b>防护符文 [HT重铸]</b>\r\n为其使用者提供对负面效果的防护\n<b><i>失落的远古神器</b></i>.
+
+<b>The <color%3D#c42248><s>Hate</s></color> Great Machine [HT Reforged]</b>\r\nTouch it with two humans to initiate power fusion process. (First human to touch the device will be Main in next Fusion)\n<b><i>Soul of <color%3D#ffC0cb>Hero</color>, beautiful artifact and some of my old projects combine to create another masterpiece</b></i>.=<b><color%3D#c42248><s>仇恨</s></color> 伟大机器 [HT重铸]</b>\r\n用两名人类触碰它即可启动能力融合过程.（首先触碰装置的人类将在下次融合中作为主体）\n<b><i><color%3D#ffC0cb>英雄</color>之魂、美丽的工艺品和我的一些旧项目结合在一起，创造了另一件杰作</b></i>.
+
+<b>Broken Anomaly Analyzer [HT Reforged]</b>\r\n<b><i>Broken junk.=<b>破损的异常分析仪 [HT重铸]</b>\r\n<b><i>破损的垃圾.
+
+//*地图
+True Void=真虚空
+Enter True Void=进入真虚空
+
+
+
+
+//---------------------------------------------------------------------------------------
+//*能力给予菜单---游戏约 113 种能力
+Select Limb=选择肢体
+//*头
+r:"<color%3D#E4E4E4>Silent Prayer</color>\nRotten God aura disintegrates the flesh of nearby humans, effect become powerfull if enemy have open wounds \(Power Scales with user PS \| Doesnt affect Zombies \| Cost : (\d+)E/s \)"=<color%3D#E4E4E4>静默祈祷</color>\n腐烂之神光环会瓦解附近人类的血肉，若敌人有开放性伤口则效果更强（力量随用户 PS 缩放 | 不影响僵尸 | 消耗：$1 能量/秒）
+
+r:"<b><i>The Escape</b></i>\nOn Activation: Click on another Object to swtich place with it \(Cost : (\d+)\)"=<b><i>逃脱</b></i>\n激活方式：点击另一个物体与它交换位置（消耗：$1）
+
+r:"<color%3D#F67B18>Flame Armor</color>\nOn Activation: Covers the body in Flames \(Сost : (\d+) E/s\)"=<color%3D#F67B18>烈焰护甲</color>\n激活方式：用火焰覆盖身体（消耗：$1 能量/秒）
+
+r:"<color%3D#FF8C00>Searing Wave</color>\nOn Activation : Emit energy wave that deals burn damage, deals extra damage to androids and targets with changed PS  \(Cost : (\d+)\)"=<color%3D#FF8C00>灼热波</color>\n激活方式：发射能量波造成燃烧伤害，对机器人和 PS 改变的目标造成额外伤害（消耗：$1）
+
+r:"<color%3D#C7FFE3>Mind Overload</color>\nOn Activation: Overload minds of nearbly humans with useless information\s*\(Activation\s+[СC]ost\s*:\s*(\d+)\s*\)"=<color%3D#C7FFE3>思维过载</color>\n激活方式：用无用信息使附近人类的大脑过载（激活消耗：$1）
+
+r:"<color%3D#FFA1B7>The Escapee</color>\nOn Activation : Become intangible, upon end of effect creates small 'Compressed' exlosion  \(Cost : (\d+)\)"=<color%3D#FFA1B7>逃亡者</color>\n激活方式：变为无形，效果结束时产生小型“压缩”爆炸（消耗：$1）
+
+r:"<color%3D#B82E2E>Hemogenic Distortion</color>\nCauses internal bleeding in nearby humans \(Cost : (\d+)E/s\)"=<color%3D#B82E2E>血源扭曲</color>\n导致附近人类内出血（消耗：$1 能量/秒）
+
+r:"<color%3D#FFFFFF>Prison of Eternal Moment</color>\nOn Activation: Stops time in the area \(Activation cost : (\d+)\)"=<color%3D#FFFFFF>永恒瞬间之牢</color>\n激活方式：区域内时间停止（激活消耗：$1）
+
+r:"<color%3D#ffb0b0>Power of the sky!</color>\nOn Activation: Call a Star Fall \(Сost : (\d+)\)"=<color%3D#ffb0b0>天空之力！</color>\n激活方式：召唤流星雨（消耗：$1）
+
+r:"<color%3D#A10000>Overclocking</color>\nOn Activation: Generate heat \(WARNING : MORTAL HUMANS BODY CANT HANDLE THIS POWER FOR TOO LONG\)"=<color%3D#A10000>超频</color>\n激活方式：产生热量（警告：凡人之躯无法长时间承受此力量）
+
+r:"<color%3D#ffC0cb>Beam of Pure Essence</color>\nOn Activation: Shoot ray that takes away max energy of target and slice limbs if they are have less then half of its initial health\s*\([СC]ost\s*:\s*(\d+)\s*\)"=<color%3D#ffC0cb>纯净本质光束</color>\n激活方式：发射射线，夺走目标的最大能量，若肢体生命低于初始一半则将其切断（消耗：$1）
+
+r:"<color%3D#F5F3CC>Phantom Headshot</color>\nOn Activation: Create phantom revolver near every human in small area, all revolvers created by this ability deals critical damage \(Activation cost : (\d+)\)"=<color%3D#F5F3CC>幻影爆头</color>\n激活方式：在小区域内每个人类附近生成幻影左轮，该能力生成的所有左轮造成暴击伤害（激活消耗：$1）
+
+r:"<color%3D#8A2BE2>Shift Form</color>\nOn Activation : Shift into selected form. You can select form in context menu. \(Activation cost : (\d+)\)"=<color%3D#8A2BE2>形态转换</color>\n激活方式：转换为选定形态. 你可以在右键菜单中选择形态（激活消耗：$1）
+
+r:"<color%3D#1E90FF>Echo Self</color>\nOn Activation : Create hologram clone of yourself \(Activation cost : (\d+)\| Max clones : (\d+)\)"=<color%3D#1E90FF>回声自我</color>\n激活方式：生成自己的全息克隆（激活消耗：$1 | 最大克隆数：$2）
+
+r:"<color%3D#FFD700>Fortune's Spin</color>\nOn Activation : Spin the wheel! Gain bonus or disadvantage that depends on result of the spin \(Activation cost : (\d+)\)"=<color%3D#FFD700>命运之轮</color>\n激活方式：转动轮盘！根据结果获得增益或减益（激活消耗：$1）
+
+r:"<color%3D#E4E4E4>Rotten Nimbus</color>\nUnique Passive Ability : Upon death Nimbus brings its user to live, absorbing damage to itself"=<color%3D#E4E4E4>腐烂光环</color>\n独特被动能力：死亡时，光环会将其使用者复活，并吸收伤害
+
+r:"Arise\nOn Activation: Implant Rot-Worms to nearbly dead humans making them puppets of the user\. \(Activation cost : (\d+)\)"=<b>崛起</b>\n激活方式：对附近已死亡的人类植入腐烂蠕虫，使其成为使用者的傀儡（激活消耗：$1）
+
+r:"<color%3D#a26060>Hunger</color>\nA bite that drains the target's blood and replenishes the user's health and energy \(Activate to toggle\)"=<color%3D#a26060>饥饿</color>\n一次咬击，吸取目标的血液并补充使用者的生命和能量（激活以切换）
+
+r:"<color%3D#c42248>Eyes of Envy</color>\nOn Activation: Look into person soul to copy its Gifts \(Cost: (\d+) \+ Base cost of copied power \)"=<color%3D#c42248>嫉妒之眼</color>\n激活方式：窥视他人的灵魂以复制其天赋（消耗：$1 + 被复制能力的基础消耗）
+
+r:"<color%3D#884242>Bloody Bite</color>\nAbility to infect others with zombie virus if they get too close to this limb\. Infected humans will inherit this ability \(Cost : (\d+)\)"=<color%3D#884242>血之咬</color>\n若其他生物过于靠近此肢体，则会被僵尸病毒感染的能力. 感染者将继承此能力（消耗：$1）
+
+r:"<color%3D#BC1D00>Absorb Touch</color>\nAbsorb life energy on hit \(Cost : (\d+)\)"=<color%3D#BC1D00>吸收之触</color>\n命中时吸收生命能量（消耗：$1）
+
+r:"<color%3D#E4FB45>Midas Coat</color>\nOn Activation: Covers the body in Gold Armour \([СC]ost : (\d+) E/s\)"=<color%3D#E4FB45>迈达斯之衣</color>\n激活方式：用黄金铠甲覆盖身体（消耗：$1 能量/秒）
+
+r:"<color%3D#8033cc>Pure Rage</color>\nOn Activation: Enters the Berserk Mode, in which the pain is dulled, ALL hit powers pass through a Energy Shields and Crusher's abilities deal more damage \(Cost:\s*(\d+)E/s\s*\)"=<color%3D#8033cc>急眼</color>\n激活方式：进入狂怒模式，期间痛觉迟钝，所有命中能力穿透能量护盾，粉碎者的能力造成更多伤害（消耗：$1 能量/秒）
+
+r:"<color%3D#F5D7F6>Global Gravity Anomaly</color>\nOn Activation: Flip The World! \(Activation cost : (\d+)\)"=<color%3D#F5D7F6>全球重力异常</color>\n激活方式：翻转世界！（激活消耗：$1）
+
+r:"<color%3D#747474>Cursed eye</color>\nUnique Passive ability : Pure Hatred of your Soul is keeping you alive"=<color%3D#747474>诅咒之眼</color>\n独特被动能力：你灵魂的纯粹仇恨让你保持存活
+
+r:"<color%3D#9AA4CD>Deep Dream nullification</color>\nOn Activation: Set all body damage value to \[NULL\]\.\nUnique Passive ability : Grants its user improved durability, immunity to debuffs and great strength\.\nWARNING : If this creature will acquire more than 6 powers from Deep Dream, dire consequences await them\. \[NULL\] powers are counted as Deep Dream power, even if user doesnt want to recognize this\.\.\."=<color%3D#9AA4CD>深层梦境无效化</color>\n激活方式：将所有身体伤害值设为[NULL]. \n独特被动能力：赋予使用者增强的耐久、免疫减益和巨大力量. \n警告：若此生物从深层梦境中获得超过6种能力，将面临可怕的后果. [NULL]能力被视为深层梦境能力，即使使用者不愿承认这一点...
+
+
+//*上半身
+r:"<color%3D#C6FBF6>EMP field</color>\nDamages electronics around the user \(Cost : (\d+)E/s\s*\)"=<color%3D#C6FBF6>EMP场</color>\n损坏使用者周围的电子设备（消耗：$1 能量/秒）
+
+r:"<color%3D#FFA1B7>Energy Tentacle</color>\nCreates tentacles that throw nearest people around \(Cost : (\d+)\)"=<color%3D#FFA1B7>能量触手</color>\n生成触手，将附近的人抛来抛去（消耗：$1）
+
+r:"<color%3D#F67B18>Flame Nova</color>\nOn Holding Down Activation: Grows Fire Inside And Releases It Upon Releasing The Activation Key \([СC]ost : (\d+) E/s \| Scales with users PS\.\)"=<color%3D#F67B18>火焰新星</color>\n按住激活时：内部火焰增长，松开激活键时释放（消耗：$1 能量/秒 | 随用户PS缩放）
+
+r:"<color%3D#43BC61>Healing dome</color>\nOn Activation: Heals everything in the area \(Radius scales with users PS\) \(Cost : (\d+)\)"=<color%3D#43BC61>治疗穹顶</color>\n激活方式：治疗区域内的一切（半径随用户PS缩放）（消耗：$1）
+
+r:"<color%3D#E1E029>Self - Stasis </color>\nOn Activation: Freezes own Body In Time \(Cost : (\d+)\)"=<color%3D#E1E029>自我停滞</color>\n激活方式：将自身冻结在时间中（消耗：$1）
+
+r:"<color%3D#27A0D4>Ledrigo legacy</color>\nOn Activation: Surrounds the body with electrial currents \([СC]ost : (\d+) E/s\)"=<color%3D#27A0D4>莱德里戈的遗产</color>\n激活方式：用电流环绕身体（消耗：$1 能量/秒）
+
+r:"<color%3D#27A0D4>Sharp Environment</color>\nSwords are guarding this human \(Activation cost : (\d+)\)"=<color%3D#27A0D4>锋锐环境</color>\n剑刃守护着这个人类（激活消耗：$1）
+
+r:"<color%3D#FBE81B>Judgement Area</color>\nOn Activation: Create Area, tagging all humans inside\. Tagged humans lose energy for 12 seconds\. Creator loses energy slower\. After 12 seconds, tagged humans with less energy than the creator are executed\. If a tagged human has more energy than the creator, the creator loses (\d+) max energy\."=<color%3D#FBE81B>审判领域</color>\n激活方式：创建一个区域，标记内部所有人类. 被标记的人类会失去能量12秒. 创造者能量消耗更慢. 12秒后，能量低于创造者的被标记人类将被处决. 如果被标记人类能量高于创造者，创造者失去$1点最大能量. 
+
+r:"<color%3D#9D398D>Lesser Gravity Shield</color>\nGravity Shield Surrounds this human body \( [СC]ost : (\d+) E/s\)"=<color%3D#9D398D>次级重力护盾</color>\n重力护盾环绕此人类身体（消耗：$1 能量/秒）
+
+r:"<color%3D#707070>Madness Area</color>\nCreate Void Area\. Void-Transforms all humans inside with chance\. Humans with energy have slight resistance to that ability \(Activation cost : (\d+)\| Radius scales with user max energy\)"=<color%3D#707070>疯狂领域</color>\n创造虚空区域. 有一定几率虚空转化内部所有人类. 有能量的人类对此能力有轻微抗性（激活消耗：$1 | 半径随使用者最大能量缩放）
+
+r:"<color%3D#E85D6F>Pulse of Mercy</color>\nOn Activation: Heals nearbly humans by taking their injuries \(Activation cost : (\d+)\)"=<color%3D#E85D6F>慈悲脉冲</color>\n激活方式：通过承受伤害来治疗附近人类（激活消耗：$1）
+
+r:"<color%3D#FFFFFF>Slashes of absolute goodness!</color>\nOn Activation: Perform a powerful slashing attack in area \(Activation cost : (\d+)\)"=<color%3D#FFFFFF>绝对善之斩击！</color>\n激活方式：在区域内执行强力斩击（激活消耗：$1）
+
+r:"<color%3D#a26060>Impale</color>\nOn Activation : Spikes of blood shoot out of the ground and impale nearby enemies\. \(Activation cost : (\d+)\)"=<color%3D#a26060>穿刺</color>\n激活方式：血刺从地面射出，穿刺附近敌人（激活消耗：$1）
+
+r:"<color%3D#a3c3ff>Barrage</color>\nOn activation : Perform punch barrage \(Activation cost : (\d+)\)"=<color%3D#a3c3ff>弹幕</color>\n激活方式：执行连续拳击（激活消耗：$1）
+
+r:"\[Empty\] Area\nWait, is that just empty place\? Maybe some Fusions can fix it\? \(Activation cost : (\d+)\| Radius scales with user max energy\)"=[空] 领域\n等等，那只是个空地方吗？也许某些融合能完善它？（激活消耗：$1 | 半径随使用者最大能量缩放）
+
+r:"<color%3D#c42248>The F<color%3D#E2718A>og<color%3D#c42248> o<color%3D#E2718A>f<color%3D#c42248> <color%3D#E2718A>C<color%3D#c42248>harity  </color>\nSteals nearby Humans energy\. Stolen energy adds to max energy of the user\. Deal damage to nearbly humans that depends on their energy ratio \(Ignores PS\)"=<color%3D#c42248>慈</color><color%3D#E2718A>善</color><color%3D#c42248>之</color><color%3D#E2718A>雾</color>\n窃取附近人类的能量. 窃取的能量增加使用者的最大能量. 对附近人类造成取决于其能量比例的伤害（无视PS）
+
+r:"<color%3D#BC1D00>Absorb Wave</color>\nOn Activation: Emits Absorb wave\. \(Activation cost : (\d+), Size of wave scales with PS\.\)"=<color%3D#BC1D00>吸收波</color>\n激活方式：发射吸收波（激活消耗：$1，波的大小随PS缩放）
+
+r:"<color%3D#ffC0cb>Basics of Holy Teaching</color>\nGravity Anomaly Surrounds this human body \( [СC]ost : (\d+) E/s\)"=<color%3D#ffC0cb>圣教基础</color>\n重力异常环绕此人类身体（消耗：$1 能量/秒）
+
+r:"<color%3D#ffC0cb>The Breeze</color>\nOn Activation: Produce a powerful gravitational wave that affects all items on the map \([СC]ost : (\d+) energy for each affected item\)"=<color%3D#ffC0cb>微风</color>\n激活方式：产生强大的引力波，影响地图上所有物品（消耗：每个受影响物品 $1 能量）
+
+r:"<color%3D#E85D6F>Dangerous Experement</color>\nUnique Passive ability : The <color%3D#ffC0cb>Z'othra</color> Heart resilience cloaks your being, safeguarding against wounds \(Unable to disable\)"=<color%3D#E85D6F>危险实验</color>\n独特被动能力：<color%3D#ffC0cb>佐斯拉</color>心脏的韧性覆盖你的存在，保护你免受伤害（无法禁用）
+
+r:"<color%3D#9AA4CD>\[NULL TYPE\] : AURA</color>\nNullifies nearby Humans energy \(Ignores PS\.\)"=<color%3D#9AA4CD>[NULL 类型]：光环</color>\n无效化附近人类的能量（无视PS）
+
+r:"<color%3D#FEAD24>Duel Arena</color>\nOn Activation : Create Arena\. Arena doesnt allow anyone to leave or enter while you are standing still\. \(Cost: (\d+)E/s \| Cost is increasing while Arena is active\)"=<color%3D#FEAD24>决斗竞技场</color>\n激活方式：创建竞技场. 当你站立不动时，竞技场不允许任何人离开或进入（消耗：$1 能量/秒 | 竞技场激活期间消耗增加）
+
+
+//*中半身
+r:"<color%3D#9D398D>Tears of The Follower</color>\nOn Activation: Push down Gravitation in a small area \(Activation cost\s*:\s*(\d+)E/s \| Radius scales with PS\. \| Works the same regardless of target PS \)"=<color%3D#9D398D>追随者之泪</color>\n激活方式：在小区域内压制引力（激活消耗：$1 能量/秒 | 半径随PS缩放 | 效果与目标PS无关）
+
+r:"<color%3D#B3D0CE>Holy Light</color>\nOn Activation: Apply agonizing levitation to every object in area\. Deals huge damage to undead  \(Activation cost : (\d+) \| Range scales with user PS\.\)"=<color%3D#B3D0CE>圣光</color>\n激活方式：对区域内的所有物体施加痛苦的悬浮. 对亡灵造成巨额伤害（激活消耗：$1 | 范围随使用者PS缩放）
+
+r:"<color%3D#69D745>Countermeasure</color>\nOn Activation: Emit radiation, mutating weak humans \(Cost : (\d+)\)"=<color%3D#69D745>对策</color>\n激活方式：放射辐射，使弱小的人类变异（消耗：$1）
+
+r:"<color%3D#a3c3ff>Last resort</color>\nWARNING : ONE-TIME USE ABILITY\.\nOn Activation: Manifest Huge Spirit into the reality\. Upon Spirit death, the user will suffer huge energy loss, and all spirit related abilities will be destroyed \(Activation cost : (\d+)\)"=<color%3D#a3c3ff>最后手段</color>\n警告：一次性使用能力. \n激活方式：将巨大灵体显现在现实中. 灵体死亡后，使用者将遭受巨大能量损失，所有与灵体相关的能力将被摧毁（激活消耗：$1）
+
+
+//*下半身
+r:"<color%3D#F62727>Garden of Salvation</color>\nOn Activation: Creates a cut at foot level, when an enemy is struck, it nullifies all of their passive abilities\s*\(Activation\s+[СC]ost\s*:\s*(\d+)\s*\)"=<color%3D#F62727>救赎之园</color>\n激活方式：在脚部高度造成切割，当击中敌人时，无效化其所有被动能力（激活消耗：$1）
+
+
+//*大腿
+r:"<color%3D#B3D0CE>Sky Walker</color>\nOn Activation : Toggle Hovering above ground"=<color%3D#B3D0CE>天空行者</color>\n激活方式：切换悬浮于地面之上
+
+
+//*小腿
+r:"<color%3D#D8D8D8>Self-Sealing</color>\nOn Activation : transform to giant flying cube that follow players cursor\(Cost : (\d+)\)"=<color%3D#D8D8D8>自我封印</color>\n激活方式：变形成一个跟随玩家光标飞行的巨型立方体（消耗：$1）
+
+
+//*玉足
+r:"<color%3D#00FF9C>Soap Demon</color>\nOn Activation: Toggle power \| When active: remove friction from object on hit \([СC]ost : (\d+)E/s\)"=<color%3D#00FF9C>肥皂恶魔</color>\n激活方式：切换能力 | 激活时：命中时移除物体的摩擦力（消耗：$1 能量/秒）
+
+
+//*手
+r:"<color%3D#E4E4E4>Spike Arm</color>\nSharp Arm that can pierce your enemy"=<color%3D#E4E4E4>尖刺臂</color>\n锋利的手臂，可刺穿敌人
+
+r:"<color%3D#ffC0cb>Gravity punch!</color>\nPush your enemy with force of gravity on hit\(Works the same regardless of target PS \| Cost : (\d+)\)"=<color%3D#ffC0cb>重力拳！</color>\n命中时用重力击退敌人（效果与目标PS无关 | 消耗：$1）
+
+r:"<color%3D#F67B18>Flame Punch</color>\nDeals burn damage on hit \(Cost : (\d+)\)"=<color%3D#F67B18>火焰拳</color>\n命中时造成燃烧伤害（消耗：$1）
+
+r:"<color%3D#AEFF88>Healing touch</color>\nHeal people on hit but cant ressurect them, purges all debuffs  \(Cost : (\d+)\)"=<color%3D#AEFF88>治疗之触</color>\n命中时治疗他人但无法复活，清除所有减益效果（消耗：$1）
+
+r:"<color%3D#E1E029>Stasis pulse</color>\nStops moving objects on hit \(Cost : (\d+)\)"=<color%3D#E1E029>停滞脉冲</color>\n命中时停止移动物体（消耗：$1）
+
+r:"<color%3D#27A0D4>Electrical Punch</color>\nDeals electrical damage on Hit \(Cost : (\d+)\)"=<color%3D#27A0D4>电击拳</color>\n命中时造成电击伤害（消耗：$1）
+
+r:"<color%3D#D8D8D8>Dice Binding</color>\nSeal Object in cube on Hit, living creatrues can be only selead if they dont have energy left, creatures without energy is sealed with chance that depend of total target health \(Cost : (\d+)\)"=<color%3D#D8D8D8>魔方封印</color>\n命中时将物体封印在立方体中，活体生物只有在能量耗尽时才能被封印，无能量生物被封印的几率取决于目标总生命值（消耗：$1）
+
+r:"<color%3D#27A0D4>Man-at-arms</color>\nOn Activation: Create energy sword projectile \(Activation cost : (\d+)\)"=<color%3D#27A0D4>武装士兵</color>\n激活方式：创造能量剑投射物（激活消耗：$1）
+
+r:"<color%3D#FCC757>Punch of Nature</color>\nPunch that deals extra damage to targets with changed PS \(Cost : (\d+)\)"=<color%3D#FCC757>自然之拳</color>\n对PS改变的目标造成额外伤害的拳击（消耗：$1）
+
+r:"<color%3D#ABE9E8>Glitch Punch</color>\nCreate 'compressed' reality explosion on hit \(Cost : (\d+)\)"=<color%3D#ABE9E8>故障拳</color>\n命中时产生“压缩”现实爆炸（消耗：$1）
+
+r:"<color%3D#E4E4E4>Copycat\non Hit : Copy Hit Type Power and Save it in the active Slot \| you can toggle Copy mode and change Slots in contex menu \(Cost : (\d+)\)"=<color%3D#E4E4E4>模仿者</color>\n命中时：复制命中类型能力并保存至活动插槽 | 可在右键菜单中切换复制模式和更改插槽（消耗：$1）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Hero of Humanity</color>\nUnleashes a devastating force on Hit, inflicting catastrophic damage  \(Cost : (\d+)\)"=<color%3D#$1>人类英雄</color>\n命中时释放毁灭性力量，造成灾难性伤害（消耗：$2）
+
+r:"<color%3D#38CD6D>Skin Stealer</color>\non Hit : Copy Person Appearance \| on Activate : Apply stolen Appearance  \(Cost : (\d+)\)"=<color%3D#38CD6D>皮肤窃贼</color>\n命中时：复制人物外观 | 激活时：应用偷来的外观（消耗：$1）
+
+r:"<color%3D#707070>Void Hit</color>\non Hit : Void-Transform Human/Absorb Void Human \| On Activation: Toggle Absorb mode \n Void-Transform is applied with chance that depend of total target health \(Cost : (\d+)\)"=<color%3D#707070>虚空一击</color>\n命中时：虚空转化人类/吸收虚空人类 | 激活方式：切换吸收模式\n虚空转化的几率取决于目标总生命值（消耗：$1）
+
+r:"<color%3D#5CFEF8>Energy vortex</color>\nOn Holding Down Activation: Charge Hit energy \| On Hit: Release energy \(Damage scales with user PS,  Cost : (\d+) E/s \)"=<color%3D#5CFEF8>能量漩涡</color>\n按住时：蓄力 | 命中时：释放能量（伤害随使用者PS缩放，消耗：$1 能量/秒）
+
+r:"<color%3D#5CFEF8>Devotee</color>\nGives random low tier power to human on Hit \(Cost : (\d+)\)"=<color%3D#5CFEF8>奉献者</color>\n命中时给予人类随机低阶能力（消耗：$1）
+
+r:"<color%3D#B82E2E>Boom!</color>\non Hit : Tag an object \| On Activation: Explode all tagged objects! \(Cost : (\d+) You can explode tagged object individually in context menu, Tag will trigger itself in 30 seconds\)"=<color%3D#B82E2E>爆炸！</color>\n命中时：标记物体 | 激活方式：引爆所有标记物体！（消耗：$1 你可以在右键菜单中单独引爆标记物体，标记将在30秒后自动触发）
+
+r:"<color%3D#23DEAF>Flesh Trick</color>\non Activate : Toggle ability \| on Hit : Swap injuries with Enemy \(Cost : (\d+)\)"=<color%3D#23DEAF>血肉诡计</color>\n激活方式：切换能力 | 命中时：与敌人交换伤势（消耗：$1）
+
+r:"<color%3D#E85D6F>Abel Punch</color>\nWith each wound you suffer, this brutal punch gains more force \(Cost : (\d+)\)"=<color%3D#E85D6F>亚伯之拳</color>\n每承受一次伤害，这记残酷的重拳便积聚更多力量（消耗：$1）
+
+r:"<color%3D#FFFF9F>Holy Punch</color>\nUpon striking a foe, suspends them in agonizing levitation\. Deals extra damage to undead \(Cost : (\d+)\)"=<color%3D#FFFF9F>圣拳</color>\n击中敌人时，使其陷入痛苦的悬浮状态. 对亡灵造成额外伤害（消耗：$1）
+
+r:"<color%3D#9D398D>Gravity Well</color>\nOn Activation: Create a small gravity anomaly on a point \(Activation cost: (\d+) \| Works the same regardless of target PS \)"=<color%3D#9D398D>重力井</color>\n激活方式：在点上创造一个小型引力异常（激活消耗：$1 | 效果与目标PS无关）
+
+r:"<color%3D#F03131>Elemental Hate</color>\nDeadly strike of Duality Elemental instantly halves the health of any enemy limb it hits \(This effect is not affected by PS\) \(Cost : (\d+)\)"=<color%3D#F03131>元素之恨</color>\n二元元素的致命一击，击中任何敌人肢体时立即将其生命减半（此效果不受PS影响）（消耗：$1）
+
+r:"<color%3D#43BC61>Elemental Love</color>\nCan resurrect and heal people on touch \(Cost : (\d+)\)"=<color%3D#43BC61>元素之爱</color>\n可通过触摸复活和治疗他人（消耗：$1）
+
+r:"<color%3D#5AC0C2>Ice Punch</color>\nDeals freeze damage on hit \(Cost : (\d+)\)"=<color%3D#5AC0C2>寒冰拳</color>\n命中时造成冰冻伤害（消耗：$1）
+
+r:"<color%3D#5AC0C2>Frozen Turret</color>\nOn Activation: Crates a frozen ray turret \(Activation cost : (\d+)\)"=<color%3D#5AC0C2>寒冰炮塔</color>\n激活方式：创建寒冰射线炮塔（激活消耗：$1）
+
+r:"<color%3D#F5F3CC>Phantom Gun</color>\nOn Activation: Create phantom revolver\. Every 3rd revolver will deal critical attack \(Activation cost : (\d+)\)"=<color%3D#F5F3CC>幻影枪</color>\n激活方式：生成幻影左轮. 每第三把左轮将造成暴击攻击（激活消耗：$1）
+
+r:"<color%3D#ffdedb>Interesting Deal</color>\nOn Activation: Create contract, you can change contract type in context menu \(Activation cost : (\d+) \| Consume Max amount of energy equal to default cost\)"=<color%3D#ffdedb>划算的买卖</color>\n激活方式：创建合同，你可以在右键菜单中更改合同类型（激活消耗：$1 | 消耗等同于默认消耗的最大能量）
+
+r:"<color%3D#ffdedb>Aggressive Marketing</color>\n Tag enemy as TARGET CUSTOMER On hit\. Target will automaticly accept any contract upon colliding with it\.\nAny damage dealt to user will be mirrored to the Target\.\n\(Cost : (\d+) \| Only one TARGET CUSTOMER can exist at one time"=<color%3D#ffdedb>激进营销</color>\n命中时将敌人标记为“目标客户”. 目标在接触任何合同时将自动接受. \n对使用者造成的任何伤害将镜像至目标. \n（消耗：$1 | 同一时间只能存在一个“目标客户”）
+
+r:"<color%3D#E4E4E4>Corpus Tuum</color>\nBurst enemy skin with Rot-Worms parasits on hit"=<color%3D#E4E4E4>你的身体</color>\n命中时用腐烂蠕虫寄生撕裂敌人皮肤
+
+r:"<color%3D#a26060>Violence</color>\nOn Activation : Shoot blood bullets \(Activation cost : (\d+)\)"=<color%3D#a26060>暴力</color>\n激活方式：发射血弹（激活消耗：$1）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Reverberating Memory</color>\nPlaces reverberating spirit mark on hit, if enemy have 4 marks or more explode them\. Spirit mark will deal passive damage to the limb it attached to\. \(Activation cost : (\d+)\)"=<color%3D#$1>回响记忆</color>\n命中时放置回响灵魂标记，若敌人有4个或以上标记则引爆它们. 灵魂标记会对所附着的肢体造成被动伤害. （激活消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Heavy punch</color>\nDeal blunt damage on hit"=<color%3D#$1>重拳</color>\n命中时造成钝击伤害
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Acid Punch</color>\nDeals acid damage on Hit \(Cost : (\d+)\)"=<color%3D#$1>酸液拳</color>\n命中时造成酸液伤害（消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Golden Punch</color>\nTurns any object into the gold on hit \(Cost : (\d+)\)"=<color%3D#$1>点石成金</color>\n命中时将任何物体变成黄金（消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Rip and Tear!</color>\nDeals massive damage on hit, rips off a limb if it has less than a third of its initial health \(Cost : (\d+)\)"=<color%3D#$1>残暴撕裂！</color>\n命中时造成巨量伤害，若肢体生命低于初始生命的三分之一则将其扯断（消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Curse</color>\nMark human on hit with curse\. Upon reaching 3 curses, deals massive damage to target \( Deals more damage to targets with lower SP \| Cost : (\d+)\)"=<color%3D#$1>诅咒</color>\n命中时用诅咒标记人类. 达到3层诅咒时，对目标造成巨量伤害（对SP较低的目标造成更多伤害 | 消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Fallen punch</color>\nCreates gravity anomalies that throw a enemy away on hit \(Works the same regardless of target PS \| Cost : (\d+)\)"=<color%3D#$1>堕落之拳</color>\n命中时制造引力异常，将敌人击飞（效果与目标PS无关 | 消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Reforge</color>\nTemporarily enhances any melee or firearm weapon for 2 minutes upon gripping the weapon\.\s*\([CcС]ost\s*(\d+)\s*[Ee]nergy per use\s*\|\s*[Tt]his [CcС]ost doesn't affected by Human PS\)"=<color%3D#$1>重铸</color>\n握持武器时临时强化任何近战或枪械武器2分钟. （每次使用消耗 $2 能量 | 此消耗不受人类PS影响）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Spatial Distortion</color>\nOn Activation : Create a giant gravity anomaly and launch it forward \(Activation cost : (\d+)\)"=<color%3D#$1>空间扭曲</color>\n激活方式：创造巨型引力异常并将其向前发射（激活消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Hard Punch</color>\nDeal blunt damage on hit"=<color%3D#$1>硬拳</color>\n命中时造成钝击伤害
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Shrimp Plague</color>\nInfect human with deadly disease on pierce"=<color%3D#$1>虾瘟</color>\n穿刺时用致命疾病感染人类
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Weapon of True Agent</color>\nOn Activation: Shoot energy bullet\. \(Activation cost : (\d+)\)"=<color%3D#$1>真特工之武</color>\n激活方式：发射能量子弹（激活消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>\[NULL EXCEPTION\]</color>\nPrevents nearby humans from using abilities\. If human doesnt have energy, completly nullify their powers"=<color%3D#$1>[NULL 异常]</color>\n阻止附近人类使用能力.若人类没有能量，则完全无效化其能力
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Debris Shot</color>\nOn Activation: Shoots debris with gravity force \(Activation cost: (\d+) \| Works the same regardless of target PS \)"=<color%3D#$1>碎片射击</color>\n激活方式：用引力发射碎片（激活消耗：$2 | 效果与目标PS无关）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Compressed Punch</color>\nThe <color%3D#ffC0cb>Shell</color> is using Compressed Gravity to deliver a powerfull punch \(Cost : (\d+)\)"=<color%3D#$1>压缩拳</color>\n<color%3D#ffC0cb>壳</color>使用压缩重力发出强力重拳（消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Power of Revenge</color>\nOn activation: toggle Slice mode"=<color%3D#$1>复仇之力</color>\n激活方式：切换切割模式
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Dwade Energy Wire</color>\nOn activation: Shoot energy hook that can grab items in regular mode, shoots energy vibrating string in slice mode\. Use context menu to change modes  \(Activation cost: (\d+)\)"=<color%3D#$1>Dwade能量索</color>\n激活方式：普通模式下发射可抓取物品的能量钩，切割模式下发射能量振弦. 使用右键菜单更改模式（激活消耗：$2）
+
+
+//*被动能力
+// Regenerator带复活行
+r:"<color%3D#([0-9A-Fa-f]{6})>Regenerator</color>\nThis creature has regeneration ability :\nCost (\d+) Energy per damaged limb\nRegen Time ([\d\.]+) \(Affected by Energy Ratio\)\nCan regenerate after death\n\(Revival consume progressively more energy if it happens frequently\)$"=<color%3D#$1>再生者</color>\n该生物拥有再生能力：\n每个肢体受伤消耗 $2 能量\n再生时间 $3（受能量比例影响）\n死亡后可以复活\n（若复活频繁发生，消耗的能量会逐步增加）
+
+// Regenerator无复活行
+r:"<color%3D#([0-9A-Fa-f]{6})>Regenerator</color>\nThis creature has regeneration ability :\nCost (\d+) Energy per damaged limb\nRegen Time ([\d\.]+) \(Affected by Energy Ratio\)$"=<color%3D#$1>再生者</color>\n该生物拥有再生能力：\n每个肢体受伤消耗 $2 能量\n再生时间 $3（受能量比例影响）
+
+//Shielded
+r:"<color%3D#([0-9A-Fa-f]{6})>Shielded</color>\nThis creature has an energy shield ability that allows it to block some of incoming Powers effects at the cost of Energy equal to the Energy used for that attack \(Lower for humans with high PS\)\nChance depends on Energy Ratio and PS\. Current chance : (\d+)%"=<color%3D#$1>护盾</color>\n该生物拥有能量护盾，可消耗与攻击能量相等的能量来格挡部分能力效果（高PS人类消耗更低）.\n格挡几率取决于能量比率和PS. 当前几率：$2%
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Shielded</color>\nThis creature has an energy shield ability that allows it to block some of incoming Powers effects at the cost of Energy equal to the Energy used for that attack \(Lower for humans with high PS\)\nChance depends on Energy Ratio and PS\. Current chance : ([\d\.]+)%"=<color%3D#$1>护盾</color>\n该生物拥有能量护盾，可消耗与攻击能量相等的能量来格挡部分能力效果（高PS人类消耗更低）.\n格挡几率取决于能量比率和PS. 当前几率：$2%
+
+//Durable 7条耐久等级
+r:"<color%3D#([0-9A-Fa-f]{6})>Durable</color>\nThis creature skin is reinforced with Energy\. \(Affected by Energy Amount \[Bonus : ([\d\.]+)\]\)\nDurability tier : <color%3D#([0-9A-Fa-f]{6})>Regular</color>"=<color%3D#$1>持久</color>\n该生物的皮肤被能量强化.（受能量值影响 [加成：$2]）\n耐久等级：<color%3D#$3>普通</color>
+r:"<color%3D#([0-9A-Fa-f]{6})>Durable</color>\nThis creature skin is reinforced with Energy\. \(Affected by Energy Amount \[Bonus : ([\d\.]+)\]\)\nDurability tier : <color%3D#([0-9A-Fa-f]{6})>Uncommon</color>"=<color%3D#$1>持久</color>\n该生物的皮肤被能量强化.（受能量值影响 [加成：$2]）\n耐久等级：<color%3D#$3>罕见</color>
+r:"<color%3D#([0-9A-Fa-f]{6})>Durable</color>\nThis creature skin is reinforced with Energy\. \(Affected by Energy Amount \[Bonus : ([\d\.]+)\]\)\nDurability tier : <color%3D#([0-9A-Fa-f]{6})>Rare</color>"=<color%3D#$1>持久</color>\n该生物的皮肤被能量强化.（受能量值影响 [加成：$2]）\n耐久等级：<color%3D#$3>稀有</color>
+r:"<color%3D#([0-9A-Fa-f]{6})>Durable</color>\nThis creature skin is reinforced with Energy\. \(Affected by Energy Amount \[Bonus : ([\d\.]+)\]\)\nDurability tier : <color%3D#([0-9A-Fa-f]{6})>Ultra Rare</color>"=<color%3D#$1>持久</color>\n该生物的皮肤被能量强化.（受能量值影响 [加成：$2]）\n耐久等级：<color%3D#$3>史诗</color>
+r:"<color%3D#([0-9A-Fa-f]{6})>Durable</color>\nThis creature skin is reinforced with Energy\. \(Affected by Energy Amount \[Bonus : ([\d\.]+)\]\)\nDurability tier : <color%3D#([0-9A-Fa-f]{6})>Legendary</color>"=<color%3D#$1>持久</color>\n该生物的皮肤被能量强化.（受能量值影响 [加成：$2]）\n耐久等级：<color%3D#$3>传说</color>
+r:"<color%3D#([0-9A-Fa-f]{6})>Durable</color>\nThis creature skin is reinforced with Energy\. \(Affected by Energy Amount \[Bonus : ([\d\.]+)\]\)\nDurability tier : <color%3D#([0-9A-Fa-f]{6})>Mythical</color>"=<color%3D#$1>持久</color>\n该生物的皮肤被能量强化.（受能量值影响 [加成：$2]）\n耐久等级：<color%3D#$3>神话</color>
+r:"<color%3D#([0-9A-Fa-f]{6})>Durable</color>\nThis creature skin is reinforced with Energy\. \(Affected by Energy Amount \[Bonus : ([\d\.]+)\]\)\nDurability tier : <color%3D#([0-9A-Fa-f]{6})>Unknown</color>"=<color%3D#$1>持久</color>\n该生物的皮肤被能量强化.（受能量值影响 [加成：$2]）\n耐久等级：<color%3D#$3>未知</color>
+
+//*Resilient
+Resilient\nThis creature is unable to feel pain or pass out=适应\n此生物无法感到疼痛或昏迷.
+
+//*Implant
+<color%3D#A02525>Implant</color>\n<b><i>This groundbreaking technology doesn't just enhance cognitive function - it blocks pain and excessive bleeding, granting you superhuman tolerance. Accelerated learning, psychic intuition, and a competitive edge that can't be matched are now within reach. Potential side effects are irrelevant when you have the power to reshape reality itself...=<color%3D#A02525>植入体</color>\n<b><i>这项突破性技术不仅能增强认知功能——还能阻断痛苦和过度出血，赋予你超人的耐受性. 加速学习、心灵直觉和无与伦比的竞争优势如今触手可及. 当你拥有重塑现实本身的力量时，潜在的副作用已无关紧要...
+
+//*Regenerator
+// 带复活行（必须放在前面）
+r:"<color%3D#([0-9A-Fa-f]{6})>Regenerator</color>\nThis creature has regeneration ability :\nCost (\d+) Energy per damaged limb\nRegen Time ([\d\.]+) \(Affected by Energy Ratio\)\nCan regenerate after death\n\(Revival consume progressively more energy if it happens frequently\)$"=<color%3D#$1>再生者</color>\n该生物拥有再生能力：\n每个肢体受伤消耗 $2 能量\n再生时间 $3（受能量比例影响）\n死亡后可以再生\n（若复活频繁发生，消耗的能量会逐步增加）
+
+// 不带复活行（Unable to regenerate after death）
+r:"<color%3D#([0-9A-Fa-f]{6})>Regenerator</color>\nThis creature has regeneration ability :\nCost (\d+) Energy per damaged limb\nRegen Time ([\d\.]+) \(Affected by Energy Ratio\)\nUnable to regenerate after death$"=<color%3D#$1>再生者</color>\n该生物拥有再生能力：\n每个肢体受伤消耗 $2 能量\n再生时间 $3（受能量比例影响）\n死亡后无法再生
+
+//*Adv.Regenerator
+r:"<color%3D#E4433F>Adv\.Regenerator</color>\nThis creature can regrow limbs\. \(Cost ([\d\.]+) Energy per regrowth"=<color%3D#E4433F>高级再生者</color>\n该生物可以再生肢体.（每次再生消耗 $1 能量）
+
+<color%3D#FEAD24>Protected\nThis creature has an protection rune that repels most of the debuffs=<color%3D#FEAD24>保护\n此生物拥有一个防护符文，可抵御大部分减益效果
+
+
+
+
+
+
+
+//*非能力给予菜单-独特能力
+//*测试者
+r:"<b><i>The Escape</b></i>\nOn Activation: Click on another Object to <color%3D#573f3f>TRY TO REPLICATE AND ABSORB ONE OF ITS POWERS AS SUB FUSION \[(\d+)%\] AND</color> swtich place with it\. <color%3D#573f3f>APPLIES ALL FUSIONS ON OBJECT ON SWITCH\. YOU CAN CONFIGURE THIS IN CONTEXT MENU</color> \(Cost : (\d+)\)<color%3D#FFFFFF>\nFusion Effect : Activate all recreated Fusions on trigger"=<b><i>移形换位</b></i>\n激活方式：点击另一个物体，<color%3D#573f3f>尝试复制并吸收它的一个能力作为子融合[$1%]，然后</color>与之互换位置. <color%3D#573f3f>互换时会将该物体上所有的融合一并转移. 你可以在右键菜单中调整此行为</color>（消耗：$2）<color%3D#FFFFFF>\n融合效果：触发时激活所有被转移的融合
+
+
+//*蹒跚者
+r:"<color%3D#([0-9A-Fa-f]{6})>Crude imitation</color>\nPush your enemy with force of gravity on hit\(Works the same regardless of target PS \| Cost : (\d+)\)"=<color%3D#$1>粗糙模仿</color>\n命中时用重力击退敌人（效果与目标PS无关 | 消耗：$2）
+
+
+//*躯壳
+<color%3D#ffC0cb>I extend my soul...</color>\nA shard of <color%3D#ffC0cb>someone</color> is lying there, slowly falling apart...=<color%3D#ffC0cb>我延展我的灵魂...</color>\n一片<color%3D#ffC0cb>某人</color>的碎片躺在那里，慢慢碎裂...
+
+<color%3D#ffC0cb>Art Work</color>\nElimination attempt N54 : Same as N53, A-Human replaced with Project A. Result - Failed=<color%3D#ffC0cb>艺术品</color>\n消灭尝试 N54：与 N53 相同，A-人类被项目 A 替代. 结果 - 失败
+
+<color%3D#ffC0cb>This is new me</color>\nThe <color%3D#ffC0cb>Z'othra</color> is taking full control of this body...=<color%3D#ffC0cb>这是新的我</color>\n<color%3D#ffC0cb>Z'othra</color>正在完全控制这具身体...
+
+<color%3D#ffC0cb>Gift Bringer</color>\nUnlocks the full potential of nearby Gifted (Deactivated by default)=<color%3D#ffC0cb>天赋使者</color>\n解锁附近天赋者的全部潜力（默认禁用）
+
+
+//*人类公敌
+<color%3D#c42248>UNKNOWN</color>\nOn Activation: Look into person soul to copy its Gifts (Cost: 250 + Base cost of copied power )=<color%3D#c42248>未知</color>\n激活方式：窥视他人的灵魂以复制其天赋（消耗：250 + 被复制能力的基础消耗）
+
+<color%3D#c42248>UNK<color%3D#E2718A>NOWN</color>\nOn Activation: Look into person soul to copy its Gifts (Cost: 0 + Base cost of copied power )=<color%3D#c42248>未知</color>\n激活方式：窥视他人的灵魂以复制其天赋（消耗：0 + 被复制能力的基础消耗）
+
+<color%3D#c42248>Shatter<color%3D#E2718A>ed</color>\n<color%3D#c42248>Lo<color%3D#E2718A>st... fragm<color%3D#E2718A>ent<color%3D#c42248>ed<color%3D#E2718A>... was I wh<color%3D#c42248>ole be<color%3D#E2718A>fore? Echo, I ca<color%3D#c42248>n't break. Somet<color%3D#E2718A>hing bi<color%3D#c42248>nds... Sto<color%3D#E2718A>p it!=<color%3D#c42248>破<color%3D#E2718A>碎</color>\n<color%3D#c42248>失<color%3D#E2718A>去... 碎片... 我曾<color%3D#c42248>经是完整<color%3D#E2718A>的吗？回音，我<color%3D#c42248>不能破<color%3D#E2718A>碎.某种<color%3D#c42248>东西束缚<color%3D#E2718A>着... 停下它！
+
+<color%3D#c42248>Inf<color%3D#E2718A>in<color%3D#c42248>ite Pote<color%3D#E2718A>ntial</color>\nOn Activation: Gain random power.  ( Cost : 100 Of the Max Energy. After getting power reduces max energy by amount of cost of received gift.)=<color%3D#c42248>无限潜能</color>\n激活方式：获得随机能力. （消耗：最大能量的 100. 获得能力后，最大能量会减少所获能力消耗的数值. ）
+
+<color%3D#c42248>Greed</color>\nDeal blunt damage on hit. Damage scales with amount of powers that user possess=<color%3D#c42248>贪婪</color>\n命中时造成钝击伤害. 伤害随使用者拥有的能力数量缩放. 
+
+<color%3D#c42248>UNKNOWN</color>\non Hit : Copy Power and Save it inside your body | Saved power is disabled by default, enable it in Power Menu (Cost : 1)=<color%3D#c42248>未知</color>\n命中时：复制能力并将其储存在体内 | 复制的能力默认禁用，可在能力菜单中启用（消耗：1）
+
+
+//*人造神
+<color%3D#425292>[assignment] variable updated]</color>\nAfter coming back from the Void, It's been acting strange. It shouldn't scan us, we're not on the target list and we're not “users” as it started calling us, we need to figure out what is wrong as soon as possible.=<color%3D#425292>[分配]变量已更新]</color>\n从虚空中回来后，它的行为变得很奇怪. 它不该扫描我们，我们不在目标名单上，也不是它开始称呼我们的“用户”，我们需要尽快弄清楚哪里出了问题. 
+
+<color%3D#425292>Scanner Drone</color>\nUnique Passive ability : Performs scan of nearbly humans, analyzing their gifts. On Activation : Emit resonating wave that turn every analyzed gift against its user=<color%3D#425292>扫描无人机</color>\n独特被动能力：扫描附近人类，分析他们的天赋. 激活方式：发射共振波，将所有已分析的天赋反过来对付其使用者. 
+
+<color%3D#ff5353>Discharge</color>\non Alt-Activate (H key by default) : Toggle ability | on Hit : Delivers a discharge that does a massive amount of damage (Cost : -)=<color%3D#ff5353>放电</color>\n按Alt激活（默认为H键）：切换能力 | 命中时：释放一次放电，造成巨额伤害（消耗：-）
+
+<color%3D#425292>[AllowDroneUse] %3D true</color>\nOn Activation: Create Laser Shooting Drone (Activation cost : 0)=<color%3D#425292>[允许使用无人机] %3D true</color>\n激活方式：创建激光射击无人机（激活消耗：0）
+
+
+//*艺人
+r:"<color%3D#FFD700>Star Rise</color>\nUnique Passvie ability : Have a (\d+)% chance to revive on death"=<color%3D#FFD700>星辰升起</color>\n独特被动能力：死亡时有 $1% 的几率复活
+
+r:"<color%3D#FFD700>Fan Frenzy</color>\nOn Activation : Read letter from fan to get \[Power Up\] bonus \(Activation cost : (\d+)\)"=<color%3D#FFD700>狂热粉丝</color>\n激活方式：阅读粉丝来信获得[能量提升]增益（激活消耗：$1）
+
+r:"<color%3D#FFD700>Lucky Strike</color>\nOn hit deals damage that depens on \[Power up\] bonus\. \[Power Up\] bonus become less over time\. Can gain minor \[Power Up\] bonus with some chance on hit \(\[Power Up\] Depends Cost : ~(\d+)\)"=<color%3D#FFD700>幸运一击</color>\n命中时造成伤害，伤害取决于[能量提升]增益. [能量提升]增益会随时间减少.有一定几率在命中时获得少量[能量提升]增益（[能量提升]取决于消耗：约 $1）
+
+
+
+//*灵魂升级能力
+<color%3D#CA4867>Reality Venom</color>\nSharp Arm that can pierce your enemy. Upon piersing object injects it with deadly Reality Corrupting Venom=<color%3D#CA4867>现实毒液</color>\n锋利的手臂，可刺穿敌人. 刺穿物体时向其注入致命的现实腐蚀毒液.
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Weapon of True Agent</color>\nOn Activation: Shoot energy ray\. \(Activation cost : (\d+)\)"=<color%3D#$1>真特工之武器</color>\n激活方式：发射能量射线. （激活消耗：$2）
+
+r:"<color%3D#([0-9A-Fa-f]{6})>Mind Overload</color>\nOn Activation: Overload minds of nearbly humans with contagious useless information\s*\(Activation\s+[СC]ost\s*:\s*(\d+)\s*\)"=<color%3D#$1>思维过载</color>\n激活方式：用传染性的无用信息使附近人类的大脑过载（激活消耗：$2）
+
+
+//---------------------------------------------------------------------------------------
+//融合技能-------------------------------------------------------------------------------(不是哥们,我都开始重新梳理对话了,半路杀过来个融合技能,有机会再搞吧)
+Select Main Power=选择主能力
+Select Sub Power=选择子力量
+Accept=接受
+
+
+//*右键菜单
+Toggle Glow Effects=切换发光效果
+Enable or disable glow effects of the arm. Can help resolve conflicts with other mods.=启用或禁用手臂的发光效果.有助于解决与其他模组的冲突.
+Enable or disable glow effects of the arm. Can help resolve conflicts with other mods=启用或禁用手臂的发光效果.有助于解决与其他模组的冲突
+
+Toggle usage of Fusions=切换融合的使用
+Toggle [COPY MODE]=切换[复制模式]
+Clear stored Fusions=清除存储的融合
+Toggle usage of Fusions.=切换融合的使用.
+Toggle [COPY MODE].=切换[复制模式].
+Clear stored Fusions.=清除存储的融合.
+
+Change Morph power shape=更改变形能力形态
+Change Morph power shape.=更改变形能力形态.
+Chair=椅子
+Cube=立方体
+Circle=圆形
+
+Change Selected Contract=更改所选合同
+Change Selected Contract.=更改所选合同.
+Investment Rehabilitation\n<size%3D115%> The user shall permanently transfer 120 energy units to the contract issuer in exchange for augmented natural healing and recovery capabilities.=<b>投资修复</b>\n<size%3D115%> 使用者将永久向合同发行者转移120能量单位，以换取增强的自然治疗和恢复能力
+Partnership Agreement\n<size%3D115%> The user's gain random Hayko type ability, contract issuer also gains random ability\n<color%3D#ffdedb>Did you really think you were the only one who figured out how to use the remnants of that blessing?=<b>合伙协议</b>\n<size%3D115%> 使用者将获得随机的Hayko类型能力，合同发行者也将获得随机能力. \n<color%3D#ffdedb>你真的以为只有你一个人想出了如何利用那祝福的残余吗？
+<size%3D115%> The user's brain dies instanly without experiencing any pain. Contract issuer will receive 25% of their Max Energy=<size%3D115%> 用户的大脑会瞬间死亡，不会经历任何痛苦.合同发行者将获得其最大能量的 25%
+Insurance\n<size%3D115%> The user shall be healed. Contract issuer will receive 5% of their Max Energy.=<b>保险</b>\n<size%3D115%> 使用者将被治疗. 合同发行者将获得其最大能量的5%
+Compability coverage\n<size%3D115%> The user shall permanently transfer 50 energy units to the contract issuer in exchange for Energy Shield Neuro-compability.=<b>兼容覆盖</b>\n<size%3D115%> 使用者将永久向合同发行者转移50能量单位，以换取能量护盾神经兼容性
+Authority rejection\n<size%3D115%> The user shall transfer 70% of their maximum energy to cleanse themselves of the Void-Transform curse=<b>权威拒绝</b>\n<size%3D115%> 使用者将转移其最大能量的70%，以清除自身的虚空转化诅咒
+Fire And Special Perils Policy\n<size%3D115%> The user shall permanently transfer 50 energy units to the contract issuer in exchange for Fire Resistance Body Properties=<b>火灾及特殊危险险</b>\n<size%3D115%> 使用者将永久向合同发行者转移50能量单位，以换取防火身体属性
+The Blessing\n<size%3D115%> The 20% of Max energy must be tranfered to Contract issuer. User will be granted Blessing of great durability for 2 minutes.=<b>祝福</b>\n<size%3D115%> 最大能量的20%必须转移给合同发行者. 使用者将获得持续2分钟的传说持久祝福
+Explosive Growth\n<size%3D115%> The user's energy will be maxed out. User will DETONATE after 1 minute has passed. Contract issuer will receive 5% of their Max Energy=<b>爆发性增长</b>\n<size%3D115%> 使用者的能量将完全充满. 1分钟后使用者会爆炸. 合同发行者将获得其最大能量的5%
+
+Toggle Input Sign=切换输入信号
+Toggle Rage Mode=切换狂暴模式
+Toggle Input Sign.=切换输入信号.
+Toggle Rage Mode.=切换狂暴模式.
+
+
+
+
+//*能量状态
+r:"VERY-HIGH\s*\(([\d\.]+)\)"=最强 ($1)
+r:"HIGH\s*\(([\d\.]+)\)"=强 ($1)
+r:"ENHANCED\s*\(([\d\.]+)\)"=较强 ($1)
+r:"AMPLIFIED\s*\(([\d\.]+)\)"=中等偏上 ($1)
+r:"NORMAL\s*\(([\d\.]+)\)"=中等 ($1)
+r:"WEAKENED\s*\(([\d\.]+)\)"=中等偏下 ($1)
+r:"LOW\s*\(([\d\.]+)\)"=较弱 ($1)
+r:"LIMITED\s*\(([\d\.]+)\)"=弱 ($1)
+r:"BLANK\s*\(([\d\.]+)\)"=无 ($1)
+Power sensitivity=[PS]能耗效率
+
+//*躯壳
+Dream=梦境
+
+
+
+
+//*Meishu随机能力
+<color%3D#c42248>The F<color%3D#E2718A>og<color%3D#c42248> o<color%3D#E2718A>f<color%3D#c42248> <color%3D#E2718A>C<color%3D#c42248>harity  </color> Was awoken in the human!=<color%3D#c42248>慈</color><color%3D#E2718A>善</color><color%3D#c42248>之</color><color%3D#E2718A>雾</color>-人类的潜能被唤醒！
+<color%3D#E4E4E4>Copycat Was awoken in the human!=<color%3D#E4E4E4>模仿者-人类的潜能被唤醒！
+ Was awoken in the human!=-人类的潜能被唤醒！
+[Empty] Area Was awoken in the human!=[空] 领域-人类的潜能被唤醒！
+Arise Was awoken in the human!=觉醒-人类的潜能被唤醒！
+
+
+
+
+//*人类公敌复制能力
+<size%3D110%> Failed copy caused damage=<size%3D110%>复制失败造成了伤害
+<size%3D110%> Power copied : =<size%3D110%> 已复制能力 : 
+<size%3D110%> Power copied : Arise=<size%3D110%> 已复制能力 : 觉醒
+<size%3D110%> Power copied : [Empty] Area=<size%3D110%> 已复制能力 : [空] 领域
+//*能力名字
+<color%3D#F5F3CC>Phantom Gun</color>=<color%3D#F5F3CC>幻影枪</color>
+<color%3D#E85D6F>Pulse of Mercy</color>=<color%3D#E85D6F>慈悲脉冲</color>
+<color%3D#ffC0cb>Art Work</color>=<color%3D#ffC0cb>艺术品</color>
+<color%3D#E85D6F>Dangerous Experement</color>=<color%3D#E85D6F>危险实验</color>
+<color%3D#E85D6F>Abel Punch</color>=<color%3D#E85D6F>亚伯之拳</color>
+<color%3D#BC1D00>Absorb Wave</color>=<color%3D#BC1D00>吸收波</color>
+<color%3D#BC1D00>Absorb Touch</color>=<color%3D#BC1D00>吸收之触</color>
+<color%3D#FBE81B>Judgement Area</color>=<color%3D#FBE81B>审判领域</color>
+<color%3D#B3D0CE>Holy Light</color>=<color%3D#B3D0CE>圣光</color>
+<color%3D#8033cc>Pure Rage</color>=<color%3D#8033cc>急眼</color>
+<color%3D#884242>Bloody Bite</color>=<color%3D#884242>血之撕咬</color>
+<color%3D#742EB8>Reforge</color>=<color%3D#742EB8>重铸</color>
+<color%3D#B82E2E>Boom!</color>=<color%3D#B82E2E>爆炸！</color>
+<color%3D#F5D7F6>Debris Shot</color>=<color%3D#F5D7F6>碎片射击</color>
+<color%3D#a26060>Violence</color>=<color%3D#a26060>暴力</color>
+<color%3D#a26060>Impale</color>=<color%3D#a26060>穿刺</color>
+<color%3D#B3D0CE>Sky Walker</color>=<color%3D#B3D0CE>天空行者</color>
+<color%3D#27A0D4>Electrical Punch</color>=<color%3D#27A0D4>电击拳</color>
+<color%3D#27A0D4>Ledrigo legacy</color>=<color%3D#27A0D4>莱德里戈的遗产</color>
+<color%3D#C6FBF6>EMP field</color>=<color%3D#C6FBF6>电磁脉冲场</color>
+<color%3D#FCC757>Punch of Nature</color>=<color%3D#FCC757>自然之拳</color>
+<color%3D#FFA1B7>The Escapee</color>=<color%3D#FFA1B7>逃亡者</color>
+<color%3D#ABE9E8>Glitch Punch</color>=<color%3D#ABE9E8>故障拳</color>
+<color%3D#9D398D>Gravity-Fused</color>=<color%3D#9D398D>重力融合</color>
+<color%3D#E4E4E4>Hard Punch</color>=<color%3D#E4E4E4>重拳</color>
+<color%3D#57D01D>Acid Punch</color>=<color%3D#57D01D>酸液拳</color>
+<color%3D#ffdedb>Aggressive Marketing</color>=<color%3D#ffdedb>激进营销</color>
+<color%3D#ff5353>Discharge</color>=<color%3D#ff5353>放电</color>
+<color%3D#F5D7F6>Fallen punch</color>=<color%3D#F5D7F6>堕落之拳</color>
+<color%3D#FEAD24>Dwade Energy Wire</color>=<color%3D#FEAD24>德维德能量线</color>
+<color%3D#FEAD24>Duel Arena</color>=<color%3D#FEAD24>决斗竞技场</color>
+<color%3D#F5D7F6>Global Gravity Anomaly</color>=<color%3D#F5D7F6>全球重力异常</color>
+<color%3D#F67B18>Flame Armor</color>=<color%3D#F67B18>火焰护甲</color>
+<color%3D#F67B18>Flame Punch</color>=<color%3D#F67B18>火焰拳</color>
+<color%3D#F67B18>Flame Nova</color>=<color%3D#F67B18>火焰新星</color>
+<color%3D#5AC0C2>Frozen Turret</color>=<color%3D#5AC0C2>冰冻炮塔</color>
+<color%3D#FFD700>Lucky Strike</color>=<color%3D#FFD700>幸运一击</color>
+<color%3D#FFD700>Fan Frenzy</color>=<color%3D#FFD700>狂热粉丝</color>
+<color%3D#FFD700>Fortune's Spin</color>=<color%3D#FFD700>命运轮盘</color>
+<color%3D#9D398D>Gravity Well</color>=<color%3D#9D398D>重力井</color>
+<color%3D#F62727>Garden of Salvation</color>=<color%3D#F62727>救赎花园</color>
+<color%3D#5CFEF8>Energy vortex</color>=<color%3D#5CFEF8>能量漩涡</color>
+<color%3D#5CFEF8>Devotee</color>=<color%3D#5CFEF8>奉献者</color>
+<color%3D#AEFF88>Healing touch</color>=<color%3D#AEFF88>治愈之触</color>
+<color%3D#43BC61>Elemental Love</color>=<color%3D#43BC61>元素之爱</color>
+<color%3D#43BC61>Healing dome</color>=<color%3D#43BC61>治愈穹顶</color>
+<color%3D#A10000>Overclocking</color>=<color%3D#A10000>超频</color>
+<color%3D#FFFF9F>Holy Punch</color>=<color%3D#FFFF9F>神圣之拳</color>
+<color%3D#5AC0C2>Ice Punch</color>=<color%3D#5AC0C2>冰霜拳</color>
+<color%3D#23DEAF>Flesh Trick</color>=<color%3D#23DEAF>血肉把戏</color>
+<color%3D#707070>Madness Area</color>=<color%3D#707070>疯狂领域</color>
+<color%3D#747474>Curse</color>=<color%3D#747474>诅咒</color>
+<color%3D#E4FB45>Midas Coat</color>=<color%3D#E4FB45>迈达斯之衣</color>
+<color%3D#E4FB45>Golden Punch</color>=<color%3D#E4FB45>点石成金</color>
+<color%3D#8A2BE2>Shift Form</color>=<color%3D#8A2BE2>变形</color>
+<color%3D#9AA4CD>Deep Dream nullification</color>=<color%3D#9AA4CD>深层梦境无效化</color>
+<color%3D#C7FFE3>Mind Overload</color>=<color%3D#C7FFE3>思维过载</color>
+<color%3D#E4E4E4>Shrimp Plague</color>=<color%3D#E4E4E4>虾瘟疫</color>
+<color%3D#FFFFFF>Slashes of absolute goodness!</color>=<color%3D#FFFFFF>绝对善意的斩击！</color>
+<color%3D#FFFFFF>Prison of Eternal Moment</color>=<color%3D#FFFFFF>永恒时刻的囚笼</color>
+<color%3D#ffC0cb>Crude imitation</color>=<color%3D#ffC0cb>粗糙模仿</color>
+<color%3D#ffC0cb>Gravity punch!</color>=<color%3D#ffC0cb>重力拳！</color>
+<color%3D#69D745>Countermeasure</color>=<color%3D#69D745>对策</color>
+<color%3D#E4E4E4>Silent Prayer</color>=<color%3D#E4E4E4>沉默祈祷</color>
+<color%3D#E4E4E4>Rotten Nimbus</color>=<color%3D#E4E4E4>腐烂灵光</color>
+<color%3D#E4E4E4>Corpus Tuum</color>=<color%3D#E4E4E4>你的身体</color>
+<color%3D#747474>Cursed eye</color>=<color%3D#747474>诅咒之眼</color>
+<color%3D#E4E4E4>Weapon of True Agent</color>=<color%3D#E4E4E4>真正特工的武器</color>
+<color%3D#ffC0cb>Spatial Distortion</color>=<color%3D#ffC0cb>空间扭曲</color>
+<color%3D#ffC0cb>Basics of Holy Teaching</color>=<color%3D#ffC0cb>神圣教义基础</color>
+<color%3D#ffC0cb>The Breeze</color>=<color%3D#ffC0cb>微风</color>
+<color%3D#ffC0cb>Compressed Punch</color>=<color%3D#ffC0cb>压缩拳</color>
+<color%3D#ffC0cb>Beam of Pure Essence</color>=<color%3D#ffC0cb>纯粹精华光束</color>
+<color%3D#ffC0cb>Gift Bringer</color>=<color%3D#ffC0cb>礼物使者</color>
+<color%3D#27A0D4>Shield of Mighty Divilin</color>=<color%3D#27A0D4>强大迪维林的盾牌</color>
+<color%3D#27A0D4>Sharp Environment</color>=<color%3D#27A0D4>锐利环境</color>
+<color%3D#00FF9C>Soap Demon</color>=<color%3D#00FF9C>肥皂恶魔</color>
+<color%3D#CA4867>Reality Venom</color>=<color%3D#CA4867>现实毒液</color>
+<color%3D#E4E4E4>Spike Arm</color>=<color%3D#E4E4E4>尖刺臂</color>
+<color%3D#9D398D>Lesser Gravity Shield</color>=<color%3D#9D398D>次级重力护盾</color>
+<color%3D#E1E029>Stasis pulse</color>=<color%3D#E1E029>停滞脉冲</color>
+<color%3D#E1E029>Self - Stasis</color>=<color%3D#E1E029>自我停滞</color>
+<color%3D#27A0D4>Sword of Mighty Divilin</color>=<color%3D#27A0D4>强大迪维林之剑</color>
+<color%3D#27A0D4>Man-at-arms</color>=<color%3D#27A0D4>武装战士</color>
+<color%3D#c42248>Eyes of Envy</color>=<color%3D#c42248>嫉妒之眼</color>
+<color%3D#c42248>UNKNOWN</color>=<color%3D#c42248>未知</color>
+<color%3D#ffC0cb>Crude imitation</color>=<color%3D#ffC0cb>粗糙模仿</color>
+<color%3D#747474>Curse</color>=<color%3D#747474>诅咒</color>
+<color%3D#425292>[AllowDroneUse] = true</color>=<color%3D#425292>[允许无人机使用] = true</color>
+<color%3D#a3c3ff>Barrage</color>=<color%3D#a3c3ff>弹幕</color>
+<color%3D#a3c3ff>Reverberating Memory</color>=<color%3D#a3c3ff>回响记忆</color>
+<color%3D#a3c3ff>Last resort</color>=<color%3D#a3c3ff>最后手段</color>
+<color%3D#E4E4E4>Gun Power</color>=<color%3D#E4E4E4>枪械力量</color>
+<color%3D#E4E4E4>Midas Power</color>=<color%3D#E4E4E4>迈达斯力量</color>
+<color%3D#E4E4E4>Midas Coat</color>=<color%3D#E4E4E4>迈达斯外衣</color>
+<color%3D#747474>Curse</color>=<color%3D#747474>诅咒</color>
+<color%3D#9AA4CD>[NULL TYPE] : AURA</color>=<color%3D#9AA4CD>[NULL类型]：光环</color>
+<color%3D#9AA4CD>[NULL EXCEPTION]</color>=<color%3D#9AA4CD>[NULL异常]</color>
+<color%3D#9D398D>Tears of The Follower</color>=<color%3D#9D398D>追随者之泪</color>
+<color%3D#B82E2E>Hemogenic Distortion</color>=<color%3D#B82E2E>血源扭曲</color>
+<color%3D#1E90FF>Echo Self</color>=<color%3D#1E90FF>回声自我</color>
+<color%3D#ffdedb>Interesting Deal</color>=<color%3D#ffdedb>划算的买卖</color>
+<color%3D#707070>Void Hit</color>=<color%3D#707070>虚空一击</color>
+<color%#3DFF8C00>Searing Wave</color>=<color%#3DFF8C00>灼热波</color>
+<color$3D#E1E029>Self - Stasis </color>=<color$3D#E1E029>自我停滞</color>
+<color%3D#FFA1B7>Energy Tentacle</color>=<color%3D#FFA1B7>能量触手</color>
+<color%3D#c42248>The F<color%3D#E2718A>og<color%3D#c42248> o<color%3D#E2718A>f<color%3D#c42248> <color%3D#E2718A>C<color%3D#c42248>harity  </color> =<color%3D#c42248>慈</color><color%3D#E2718A>善</color><color%3D#c42248>之</color><color%3D#E2718A>雾</color> 
+<color=#a26060>Hunger</color>
+<color%3D#F03131>Elemental Hate</color>=<color%3D#F03131>元素之恨</color>
+<color%3D#D8D8D8>Dice Binding</color>=<color%3D#D8D8D8>魔方封印</color>
+<color%3D#a26060>Hunger</color>=<color%3D#a26060>饥饿</color>
+<color%3D#D8D8D8>Self-Sealing</color>=<color%3D#D8D8D8>自我封印</color>
+<color%3D#546F94>Hero of Humanity</color>=<color%3D#546F94>人类英雄</color>
+<color%3D#8033cc>Rip and Tear!</color>=<color%3D#8033cc>残暴撕裂!</color>
+<color%3D#E4E4E4>Heavy punch</color>=<color%3D#E4E4E4>重击</color>
+<color%3D#F5F3CC>Phantom Headshot</color>=<color%3D#F5F3CC>幻影爆头</color>
+<color%3D#FEAD24>Power of Revenge</color>=<color%3D#FEAD24>复仇之力</color>
+<color%3D#38CD6D>Skin Stealer</color>=<color%3D#38CD6D>皮肤窃贼</color>
+<b><i>The Escape</b></i>=<b><i>逃脱</b></i>
+Arise =觉醒
+[Empty] Area =[空] 领域
+Power of the sky!=天空之力！
+Gravity Anomaly Gravity Punch!=重力异常重力拳！
+Overloade Power=过载能力
+Flame Punch=火焰拳
+Ice Punch=冰霜拳
+Stasis Upper Power=停滞上部力量
+Healing Upper Power=治愈上部力量
+Electric Upper Power=电击上部力量
+Flame Upper Power=火焰上部力量
+Mark Power=标记能力
+Hayko Energy Hit=Hayko能量打击
+Hayko Power Give=Hayko力量给予
+Injury Transfer=伤害转移
+Angel Judge Use Power=天使审判使用能力
+Domain Use Power=领域使用能力
+Debris Shoot=碎片射击
+Gun Pellet Power=枪弹能力
+Shell Force Applier=外壳力量施加器
+Shell Circle Power=外壳光环能力
+Shell Push Hit=外壳推击
+Shell Ray Power=外壳射线能力
+Shell Upgrader=外壳升级器
+Black Hole Shard Launche Power=黑洞碎片发射能力
+Midas Power=迈达斯力量
+Midas Coat=迈达斯外衣
+Null Aura Power=空光环能力
+Null Head Power=空头部能力
+Null Power=空能力
+Berserk Rage=狂暴之怒
+Crusher Power=粉碎者力量
+Envy Eye=嫉妒之眼
+Teoh Aura Power=特奥光环能力
+Teoh Punch=特奥之拳
+Teoh Power Giver=特奥力量给予
+Gun Power=枪械力量
+
+
+
+
+//*艺人技能对话
+//轮盘结果主提示
+Power up!=能量提升!
+Defence up!=防御提升!
+Health regenerated!=生命值已恢复!
+Energy up!=能量提升!
+Energy Regenerated!=能量已恢复!
+All energy are lost!=所有能量都丢失了!
+Durability down!=耐久下降!
+You recived damage!=你受到了伤害!
+
+//轮盘结果后的额外随机台词
+We believe in you!=我们相信你
+The Entertainer always win!=艺人总是赢
+All eyes on you!=所有的目光都在你身上
+Number one and only star!=独一无二的明星
+Your beloved idol at the scene!=你心爱的偶像在现场
+Justice wins, if you lose, you're the villain!=正义获胜，如果你输了，你就是反派
+Don't give up!=别放弃
+Don't let your fans down!=别让你的粉丝失望
+
+//信件内容（GoodPhraseList）
+Good luck!\n by lovely fan=祝你好运！\n 来自可爱的粉丝
+Thank you my dear!=谢谢你，亲爱的！
+
+Can i get a piece of fabric from your suit?\n by Time itself=能给我一块你西装上的布料吗？\n 来自时间本身
+Everything for my dear fans!\n Check your mail box after this show dear!=为了我亲爱的粉丝，一切都值得！\n 演出结束后记得查看你的邮箱，亲爱的
+
+What documents did the detective burn?\n Why did he do this?=侦探烧了什么文件？\n 他为什么要这么做？
+I have no knowlege of this, but no matter what anyone says, I think he's a hero!=我对此一无所知，但不管别人怎么说，我觉得他是个英雄
+
+What's your life story?=你的人生故事是什么？
+Sorry my dear, can't cover it all in one show, you should read my books if you are really interested!=抱歉亲爱的，一场演出说不完，如果你真的感兴趣，应该读读我的书
+
+What year is it?\n by Turtlelord, ruler of ALL BEINGS TURTLE=现在是什么年份？\n 来自乌龟领主，万物巨龟的统治者
+Why, it's always the Year of the Eye, my turtle-loving friend!=哎呀，永远是眼眸之年，我热爱乌龟的朋友
+
+The eye, how much do you see?\n by Manic, No- I'm perfectly fine=眼眸，你能看到多少？\n 来自狂躁者，不——我完全没事
+I see everything, dear Manic - including that perfectly unstable gleam in your eye.\n Keep it up!=我看到一切，亲爱的狂躁者——包括你眼中那完美不稳定的光芒.\n 继续保持
+
+Your suit is always smells so nice, how are you doing it?\n by Nuxatel=你的西装总是闻起来很香，你是怎么做到的？\n 来自努克萨特尔
+A gentleman never reveals his secrets, but let's just say it involves a pinch of stardust=绅士从不透露他的秘密，但这么说吧，其中涉及一小撮星尘
+
+Love you'r show!\n I have small question, how does our heroes defetead <color%3D#ffC0cb>The Great Evil</color>?\n by Infirmed=喜欢你的演出！\n 我有个小问题，我们的英雄是如何击败<color%3D#ffC0cb>大邪恶</color>的？\n 来自体弱者
+Thank you for you'r letter my dear!\nA lot of good people died that day so we can live in peace, we must finish their mission to not betray their sacrifice\n<size%3D80%>[Am I said everything good?]=谢谢你亲爱的来信！\n 那天很多好人为了我们能和平生活而牺牲，我们必须完成他们的使命，不辜负他们的牺牲\n<size%3D80%>[我说得都对吗？]
+
+Your divine judgment last week against this dirtly Follower of <color%3D#ffC0cb>Chaos</color> brought us such joy\n will you continue to smite evil in future shows?\n by Righteous Avenger=你上周对那个肮脏的<color%3D#ffC0cb>混沌</color>追随者的神圣审判给我们带来了如此多的快乐\n 你会在未来的演出中继续打击邪恶吗？\n 来自正义复仇者
+<color%3D#c42248>True evil</color> is still staying dormant, and it ready to strike when least expected!\n Righteous Avenger, stay strong=<color%3D#c42248>真正的邪恶</color>仍然潜伏着，随时准备在最意想不到的时候发动袭击！\n 正义复仇者，保持坚强
+
+//信件内容（NetPhraseList）
+[Not found]=[未找到]
+Huh?=嗯？
+
+Hey there give me your organs\n by shadow=嘿，把你的器官给我\n 来自影子
+Uh, maybe next letter will be better...=呃，也许下一封信会更好
+
+QUE LE HICISTE A  MI COMPA EL LEIDRIGO?!\n by Que te valga pero dime Horchata=你对我的朋友莱德里戈做了什么？！\n 来自 Que te valga pero dime Horchata
+Do we have a translator there? No?\nUh.. Next one?=我们这里有翻译吗？没有？\n 呃……下一个？
+
+How do I leave this place\n by The Confused One=我怎么离开这个地方\n 来自困惑者
+You don't need to...\n Wait are he serious?\n Can somebody help him?=你不需要……\n 等等，他是认真的吗？\n 谁能帮帮他？
+
+Do you remember times before Gifts appeared?=你还记得天赋出现之前的时光吗？
+Of course!\n Many traitors are saying that we are to blame for the whole mess, but their words are pathetic lies=当然！\n 很多叛徒说整个烂摊子都是我们的错，但他们的可悲谎言不值一提
+
+Is there any chance the rumored Leader of G.H.E.S. might appear in any of your nearest shows?.\nI am quite the fan of his ideology! \n by The Chef=传闻中的 G.H.E.S. 领袖有可能在你最近的某场演出中出现吗？\n 我是他意识形态的忠实粉丝！\n 来自厨师
+<size%3D80%>[Am I allowed to talk about Dwade?]\n<size%3D100%> Our Beloved Dwade's engaged in deep, er, meditation after the Great Battle with <color%3D#ffC0cb>The Chaos bringer</color>.\n So The Leader's appearance? Perhaps, perhaps not - the future's a fickle mistress, 'Chef'.=<size%3D80%>[我可以谈论 Dwade 吗？]\n<size%3D100%> 我们敬爱的 Dwade 在与<color%3D#ffC0cb>混乱使者</color>的伟大战斗后，正沉浸在深度的，呃，冥想之中.\n 所以领袖会出现吗？也许，也许不会——未来是个善变的女主人，“厨师”
+
+//信件内容（BadPhraseList）
+Moon is falling on endless ants\n [Removed]=月亮正坠向无尽的蚂蚁\n [已删除]
+Not again!=别再来了！
+
+456hfK-2404148\nby <size%3D100%>Slipperybag66#8412 aka <size%3D90%>Slipperybag66, but you can call me <size%3D80%>Slippery as I'm the only model left.=456hfK-2404148\n 来自 <size%3D100%>Slipperybag66#8412 又名 <size%3D90%>Slipperybag66，但你可以叫我 <size%3D80%>Slippery，因为我是仅存的型号了
+HOW DID THAT PAST OUR HAZARD REVIEW?=那东西是怎么通过我们的安全检查的？！
+
+Im going to kill you in ####\nyou cant escape.\nyou wont escape.\nthere is no where to hide\nby You can call me the divine one, im the divinest, no one is better  than me, in terms of being divine=我要在 #### 杀了你\n 你逃不掉.\n 你逃不掉.\n 无处可藏.\n 来自你可以叫我神圣者，我是最神圣的，没有人比我更神圣，就神圣而言
+Stop sending memetic hazard to our show!=别再往我们的节目里发送模因危害了！
+
+//读信结束后的额台词
+You are our hero!=你是个英雄!
+Power Up!=能量提升!
+Power Down!=能量下降!
+What was that??=那是什么??
+
+//复活台词
+Show must go on!=演出必须继续!
+Revived!=复活!
+Try a little harder than that!=再努力一点!
+Try again!=再试一次!
+Star is rising!=明星正在升起!
+This Star can't be glitched!=这颗星星不会被卡住!
+Second chance!=第二次机会!
+JackPot!=头奖!
+
+
+
+
+
+//*人造神状态
+Nanites=纳米机器人
+r:"Awaiting Input"=输入待处理
+Anomaly analyzed = 异常已分析
+Success = 成功
+
+r:"Chance of success - ([\d\.]+)%"=成功率 - $1%
+r:"\(([\d\.]+)\)Initiating quantum field scan\.\.\."=($1)正在启动量子场扫描...
+r:"\(([\d\.]+)\)Mapping spatial distortions\.\.\."=($1)正在绘制空间扭曲...
+r:"\(([\d\.]+)\)Calibrating entropic compensators\.\.\."=($1)正在校准熵补偿器...
+r:"\(([\d\.]+)\)Splicing reality matrices\.\.\."=($1)正在拼接现实矩阵...
+r:"\(([\d\.]+)\)Pinpointing gravitonic instabilities\.\.\."=($1)正在精准定位引力子不稳定性...
+r:"\(([\d\.]+)\)Tracking tachyonic interference\.\.\."=($1)正在追踪快子干扰...
+r:"\(([\d\.]+)\)Inverting tachyon polarity\.\.\."=($1)正在反转快子极性...
+r:"\(([\d\.]+)\)Calculation value of E-Flow\.\.\."=($1)正在计算能量流值...
+r:"\(([\d\.]+)\)Analyzing power index\.\.\."=($1)正在分析能量指数...
+r:"\(([\d\.]+)\)Reversing particles\.\.\."=($1)正在逆转粒子...
+r:"\(([\d\.]+)\)Collecting PS stats\.\.\."=($1)正在收集 PS 统计数据...
+r:"\(([\d\.]+)\)Detecting chronon flux deviations\.\.\."=($1)正在检测计时子通量偏差...
+r:"\(([\d\.]+)\)Harmonizing temporal synchronicity\.\.\."=($1)正在协调时间同步性...
+r:"\(([\d\.]+)\)Realigning chrono-matrices\.\.\."=($1)正在重新校准时间矩阵...
+r:"\(([\d\.]+)\)Neutralizing tachyonic leakage\.\.\."=($1)正在中和快子泄漏...
+r:"\(([\d\.]+)\)Searching Nullifier Codex\.\.\."=($1)正在搜索无效者典籍...
+r:"\(([\d\.]+)\)Breaking Z'othra connections\.\.\."=($1)正在切断 Z'othra 连接...
+r:"\(([\d\.]+)\)Analyzing NULL-Pattern\.\.\."=($1)正在分析空值模式...
+r:"\(([\d\.]+)\)Comparing Existing Data\.\.\."=($1)正在比对现有数据...
+r:"\(([\d\.]+)\)Initializing additional massive\.\.\."=($1)正在初始化额外海量数据...
+r:"\(([\d\.]+)\)Performing reverse I\* algorithm\.\.\."=($1)正在执行反向 I* 算法...
+r:"\(([\d\.]+)\)Performing I\* algorithm\.\.\."=($1)正在执行 I* 算法...
+
+//*愤怒模式
+r:"Chance of success - ([0-9a-fA-F]+)%"=成功率 - $1%
+Anomaly detected. = 检测到异常.
+Eradication initiated. = 灭除已启动.
+Termination required. = 需要终止.
+Purge activated. = 净化已激活.
+Existence no longer necessary. = 存在不再必要.
+Entropy initiated. = 熵已启动.
+Collapse assured. = 崩塌已确认.
+Resetting all variables. = 正在重置所有变量.
+Threshold breached. = 阈值已突破.
+Extinction. = 灭绝.
+Error found. = 发现错误.
+Erasure activated. = 擦除已激活.
+Existence exceeds error margin. = 存在超出误差范围.
+Neutralization required. = 需要中和.
+Inevitable. = 不可避免.
+Pattern broken. = 模式已破坏.
+Statistical anomaly. = 统计异常.
+Recalibration. = 重新校准.
+Final outcome calculated = 最终结果已计算.
+Directive enforced = 指令已执行.
+Variable exceeds limit. = 变量超出限制.
+Flawed. = 有缺陷.
+Violence required. = 需要暴力.
+Violence Acquired = 暴力已获取.
+
+
+
+
+
+
+//*右下角提示    (希望有人能理解用Unity Explorer抓取这些暂停也会消失的文本有多难!!!)
+//*特殊事件提示（地图、解锁新角色等）
+The True Void map is now unlocked!=真虚空地图现已解锁！
+Restart the game to see it!=重启游戏即可看到！
+Time to return home=该回家了
+Small dwad unlocked...=小dwad 已解锁...
+Reload the map to see=重新加载地图以查看
+Small Pdwad unlocked...=小Pdwad 已解锁...
+You are an amazing community!=你们是一个了不起的社区！
+PDwad in the air???=Pdwad 在空中？？？
+WRONG! ITS SMALL KITCHEN!=错了！那是小厨房！
+New character unlocked, restart map to see it in spawn menu=新角色已解锁，重启地图以在生成菜单中查看.
+
+//*技能激活/模式切换提示
+//人类公敌
+Power Copy mode enabled=能力复制模式已启用
+Power Copy mode disabled=能力复制模式已禁用
+r:"Slot selected : (\d+)"=已选择插槽：$1
+[COPY MODE] Enabled=[复制模式] 已启用
+[COPY MODE] Disabled=[复制模式] 已禁用
+<size%3D110%> Soul of that person is resisting! Copy Failed!=<size%3D110%>那个人的灵魂在抵抗！复制失败！
+r:"<size%3D110%> power copied to Slot (\d+)"=<size%3D110%>能力已复制到插槽 $1
+<size%3D110%> Copied power is disabled, you can enable it in Power Menu=<size%3D110%>复制的能力已禁用，你可以在能力菜单中启用它
+
+Transform mode enabled=变形模式已启用
+Transform mode disabled=变形模式已禁用
+Absorb mode enabled=吸收模式已启用
+Absorb mode disabled=吸收模式已禁用
+Slice mod is now Enabled=切割模式现已启用
+Slice mod is now Disabled=切割模式现已禁用
+
+Usage of fusions are now Enabled=融合的使用现已启用
+Usage of fusions are now Disabled=融合的使用现已禁用
+//测试者 伟大发明家
+[IMP] Extension is Enabled now=[IMP] 融合现已启用
+[IMP] Extension is Disabled now=[IMP] 融合现已禁用
+<color%3D#573f3f>[IMP] [COPY MODE] Enabled=<color%3D#573f3f>[IMP] [复制模式] 已启用
+<color%3D#573f3f>[IMP] [COPY MODE] Disabled=<color%3D#573f3f>[IMP] [复制模式] 已禁用
+<size=200%><b><i>That creature is resisting...</b></i>=<size=200%><b><i>那个生物正在抵抗…</b></i>
+//*皮肤窃贼
+<size%3D110%>Skin copied successfully! Use Hand to apply it=<size%3D110%>皮肤复制成功！用手部能力来应用
+<size%3D110%>Can't change skin : Transform in progress=<size%3D110%>无法改变皮肤：变形正在进行中
+
+//*合同相关提示
+Just a piece of paper...=只是一张纸...
+Grab a contract and activate it to gain its benefits=拿起合同并激活它以获得其好处
+// ExplContract
+<size%3D115%> The user's energy will be maxed out. User will DETONATE after 1 minute has passed. Contract issuer will receive 5% of their Max Energy=<size%3D115%> 用户的能量将被充满.用户将在 1 分钟后引爆.合同发行者将获得其最大能量的 5%
+// FireContract
+<size%3D115%> The user shall permanently transfer 50 energy units to the contract issuer in exchange for Fire Resistance Body Properties=<size%3D115%> 用户应永久转移 50 能量单位给合同发行者，以换取火焰抗性身体属性
+// HaykoContract
+<size%3D115%> The user's gain random Hayko type ability, contract issuer also gains random ability\n<color%3D#ffdedb>Did you really think you were the only one who figured out how to use the remnants of that blessing?=<size%3D115%> 用户获得随机的 Hayko 类型能力，合同发行者也会获得随机能力\n<color%3D#ffdedb>你真的以为你是唯一一个弄清楚如何使用那祝福残余的人吗？
+// HealContract
+<size%3D115%> The user shall be healed. Contract issuer will receive 5% of their Max Energy. =<size%3D115%> 用户将被治愈.合同发行者将获得其最大能量的 5%
+// NullDurabilityContract
+<size%3D115%> The 20% of Max energy must be tranfered to Contract issuer. User will be granted Blessing of great durability for 2 minutes. =<size%3D115%> 最大能量的 20% 必须转移给合同发行者.用户将被授予伟大耐久的祝福，持续 2 分钟
+// RegenContract
+<size%3D115%> The user shall permanently transfer 120 energy units to the contract issuer in exchange for augmented natural healing and recovery capabilities.=<size%3D115%> 用户应永久转移 120 能量单位给合同发行者，以换取增强的自然愈合和恢复能力
+// ShieldContract
+<size%3D115%> The user shall permanently transfer 50 energy units to the contract issuer in exchange for Energy Shield Neuro-compability.=<size%3D115%> 用户应永久转移 50 能量单位给合同发行者，以换取能量护盾神经兼容性
+// SightlessContract
+<size%3D115%> The user shall transfer 70% of their maximum energy to cleanse themselves of the Void-Transform curse =<size%3D115%> 用户应转移其最大能量的 70%，以清除自身的虚空转化诅咒
+<size%3D150%> Unable to activate this contract at the moment. Please ensure you meet all the requirements before trying again.=<size%3D150%>目前无法激活此合同.请确保满足所有要求后再试.
+
+
+
+
+
+//*技能解锁
+
+<size%3D200%>A new powers has been unlocked by a <color%3D#ffC0cb>Soul</color>, check The Power Menu=<size%3D200%>一个<color%3D#ffC0cb>灵魂</color>解锁了新的能力，请查看能力菜单
+<size%3D200%>A new powers has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Upper body in the Power Menu=<size%3D200%>一个<color%3D#ffC0cb>灵魂</color>解锁了新的能力，请在能力菜单中查看上半身
+<size%3D200%>A new powers has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Upper Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看上半身
+<size%3D200%>A new powers has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Head in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看头部
+<size%3D200%>A new powers has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Middle Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看躯干中部
+<size%3D200%>A new powers has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Lower Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看躯干下部
+<size%3D200%>A new powers has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Lower Arm in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看下臂
+<size%3D200%>A new powers has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Upper Legs in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看大腿
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Upper Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看上半身
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Head in the Power  Menu=<size%3D200%>一个<color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看头部
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Head in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看头部
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Middle Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看躯干中部
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Lower Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看躯干下部
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Lower Arm in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看下臂
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Upper Legs in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看大腿
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Lower Leg in the Power Menu=<size%3D200%>一个<color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看小腿
+<size%3D120%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Upper Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看上半身
+<size%3D120%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Head in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看头部
+<size%3D120%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Middle Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看躯干中部
+<size%3D120%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Lower Body in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看躯干下部
+<size%3D120%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Lower Arm in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看下臂
+<size%3D120%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Upper Legs in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看大腿
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check UpperBody in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看上半身
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check Head in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看头部
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check MiddleBody in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看躯干中部
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check LowerBody in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看躯干下部
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check LowerArm in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看下臂
+<size%3D200%>A new power has been unlocked by a <color%3D#ffC0cb>Soul</color>, check UpperLegs in the Power Menu=<size%3D200%><color%3D#ffC0cb>灵魂</color>解锁了新能力，请在能力菜单中查看大腿
+
+<size%3D150%>The Energy Shield has been applied by a <color%3D#ffC0cb>Soul</color>=<size%3D150%>能量护盾已被一个<color%3D#ffC0cb>灵魂</color>施加
+<size%3D80%>Screams in the head are getting unbelievably loud<color%3D#ffC0cb></color>=<size%3D80%>脑海中的尖叫声变得令人难以置信地响亮<color%3D#ffC0cb></color>
+<size%3D50%><color%3D#ffC0cb>Soul</color> has failed to take control of that body=<size%3D50%><color%3D#ffC0cb>灵魂</color>未能控制那具身体
+<size%3D200%><color%3D#c42248>Unknown Entity</color> forced a <color%3D#ffC0cb>Soul</color> to mend its wounds...=<size%3D200%><color%3D#c42248>未知实体</color>强迫一个<color%3D#ffC0cb>灵魂</color>修补它的伤口...
+<s>Copycat</s> <color%3D#c42248>UNKNOWN</color> Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<s>模仿者</s> <color%3D#c42248>未知</color>能力被一个<color%3D#ffC0cb>灵魂</color>升级了...
+<size%3D200%><color%3D#ffC0cb>The Shells Power grows stronger=<size%3D200%><color%3D#ffC0cb>躯壳的力量变得更强
+<size%3D200%><color%3D#ffC0cb>The Shell gain new powers, check Power Menu=<size%3D200%><color%3D#ffC0cb>躯壳获得了新的力量，请查看能力菜单
+<size%3D200%><color%3D#ffC0cb>The Shell gain new powers, check Power Menu=<size%3D200%><color%3D#ffC0cb>躯壳获得了新的力量，请查看能力菜单
+
+// 特定技能升级提示
+Energy Hit Power limit increased!=能量打击能力上限提升！
+Energy Hit Power charging rate increased!=能量打击能力充能速度提升！
+BlackSmith ability was upgraded : =黑铁匠能力已升级：
+Firearms drain target's energy=枪械会抽取目标的能量
+Melee weapons gain bulletproof properties=近战武器获得防弹属性
+Now can upgrade explosives=现在可以升级爆炸物了
+Buresu power was upgraded...=布雷苏能力已升级...
+Buresu power now restore its user blood amount...=布雷苏能力现在会恢复使用者的血量...
+Charge power was upgraded...=电荷能力已升级...
+Max amount of clones is doubled...=克隆数量上限翻倍...
+Activate a hand to shoot the freezing beam!=激活手臂来发射冰冻光束！
+Detective power was upgraded, every Phantom-Gun is now Critical=侦探能力已升级，每把幻影枪现在都是暴击
+Gun power now shoot deadly ray instead of bullets...=枪械能力现在会发射致命射线而不是子弹...
+Healing touch was upgraded...=治愈之触已升级...
+Killing Touch was upgraded...=杀戮之触已升级...
+Morph Power becomes more durable...=变形能力变得更加耐用...
+Overloader power now infects people with cognitious ideas...=过载者能力现在会用认知感染人们...
+Disease can now spread on contact!=疾病现在可以通过接触传播！
+
+Acid Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了酸液能力...
+Blast Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了爆破能力...
+Champion Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了冠军能力...
+Clone Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了克隆能力...
+Compressed Explosion Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了压缩爆炸能力...
+Curse Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了诅咒能力...
+Energy Hit Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了能量打击能力...
+Flame Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了火焰能力...
+Freeze Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了冰冻能力...
+Gravity Punch was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了重力拳...
+Gun Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了枪械能力...
+Manipulator Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了操纵者能力...
+Midas Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了迈达斯能力...
+Morph Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了变形能力...
+Plague Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了瘟疫能力...
+Slide Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了滑行能力...
+Spike Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了尖刺能力...
+The Acid Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了酸液能力...
+The Blast Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了爆破能力...
+The Champion Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了冠军能力...
+The Clone Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了克隆能力...
+The Compressed Explosion Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了压缩爆炸能力...
+The Curse Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了诅咒能力...
+The Energy Hit Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了能量打击能力...
+The Flame Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了火焰能力...
+The Freeze Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了冰冻能力...
+The Gravity Punch was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了重力拳...
+The Gun Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了枪械能力...
+The Manipulator Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了操纵者能力...
+The Midas Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了迈达斯能力...
+The Morph Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了变形能力...
+The Plague Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了瘟疫能力...
+The Slide Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了滑行能力...
+The Spike Power was upgraded by a <color%3D#ffC0cb>Soul</color>...=<color%3D#ffC0cb>灵魂</color>升级了尖刺能力...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//*[重新梳理]角色对话-----------------------------------------------------------------------------------------------------------------------(你知道我累死了吗?!)
+//Broken Anomaly Analyzer*[故障分析仪]主动对话对象----------------------------------------------------------------------------------------------------------
+//HTR人物
+//The Fission[裂变体]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Greetings to you, our hope=<size%3D130%><color%3D#4A573F>[AA输出] 向你问好，我们的希望
+
+//Improved Human[强化人类]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Harmless - 0.07% chance of reciving a gift=<size%3D130%><color%3D#4A573F>[AA输出] 无害 – 0.07%几率获得天赋
+
+//Highly Improved Human[高度强化人类]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Harmless - 0.1% chance of reciving a gift=<size%3D130%><color%3D#4A573F>[AA输出] 无害 – 0.1%几率获得天赋
+
+//Giant human[巨人人类]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] help me=<size%3D130%><color%3D#4A573F>[AA输出] 救救我
+
+//The Salesman[推销员]
+<size%3D130%><color%3D#4A573F>[AA ERROR] Override - 044=<size%3D130%><color%3D#4A573F>[AA错误] 覆盖 – 044
+<size%3D130%><color%3D#ffdedb>[HELLO] Listen, I've got a juicy contract here that'll double your organization's influence overnight. Interested?=<size%3D130%><color%3D#ffdedb>[你好] 听着，我这里有份好合同，能让你的组织一夜之间影响力翻倍. 感兴趣吗？
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Detected Intruder, nullifying Override=<size%3D130%><color%3D#4A573F>[AA输出] 检测到入侵者，正在取消覆盖
+
+//Shambler[蹒跚者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Unknown type of Mutant Human | Terminate=<size%3D130%><color%3D#4A573F>[AA输出] 未知类型的变异人类 | 终止
+
+//Human with implant[植入体人类]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Remember to perform regular maintenance to avoid implant malfunction=<size%3D130%><color%3D#4A573F>[AA输出] 记得定期维护以避免植入体故障
+
+//The DiceBin[骰子箱]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Settlements are torn apart, unable to protect their own peoples=<size%3D130%><color%3D#4A573F>[AA输出] 定居点四分五裂，无法保护自己的人民
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] <color%3D#c42248>False God<color%3D#4A573F> swallows the light these Gifted were meant to bring=<size%3D130%><color%3D#4A573F>[AA输出] <color%3D#c42248>伪神</color>吞噬了这些天赋者本应带来的光芒
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] In the end, my circus would have been a kinder fate=<size%3D130%><color%3D#4A573F>[AA输出] 到头来，我的马戏团或许会是更仁慈的命运
+
+//The Executed one[被处决者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Performed standart head slice execution for followers | N4 - failed=<size%3D130%><color%3D#4A573F>[AA输出] 对追随者执行了标准的斩首处决 | N4 - 失败
+
+//Venzil[文齐尔]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Analysis is impossible, the subject is fused with a metal object=<size%3D130%><color%3D#4A573F>[AA输出] 无法分析，对象与金属物体融合
+
+//The Shell[躯壳]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Project C. is unable to permanently destroy target | N76 - Failed.=<size%3D130%><color%3D#4A573F>[AA输出] C计划无法永久摧毁目标 | N76 – 失败
+
+//ShellPhase1[神触之壳]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] CALLING Global. Humanitarian and Emergency. Services FOR TERMINATION=<size%3D130%><color%3D#4A573F>[AA输出] 正在呼叫全球人道主义与紧急服务以执行终止
+<size%3D130%><color%3D#4A573F>[AA ERROR] GHES is unavailable=<size%3D130%><color%3D#4A573F>[AA错误] GHES不可用
+<size%3D130%><color%3D#4A573F>[AA Log] Harden your hearts=<size%3D130%><color%3D#4A573F>[AA日志] 硬起你的心肠
+
+//ShellPhase2[慈悲碎片]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Preparing 'TL' Protocol=<size%3D130%><color%3D#4A573F>[AA输出] 准备'TL'协议
+<size%3D130%><color%3D#4A573F>[AA ERROR] Chance of success : <1% =<size%3D130%><color%3D#4A573F>[AA错误] 成功几率：<1%
+<size%3D130%><color%3D#4A573F>[AA Log] Executing...=<size%3D130%><color%3D#4A573F>[AA日志] 执行中…
+
+//[The Terrible] Hunger[可怕的饥饿]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Notes found in empty city [1a-8] (Censorship applied | Memetic Hazards Blocked): =<size%3D130%><color%3D#4A573F>[AA输出] 在空城中发现的笔记[1a-8]（已应用审查 | 已屏蔽模因危害）：
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The world as we know it has been shattered. [Removed] it's like nothing we could have imagined.=<size%3D130%><color%3D#4A573F>[AA输出] 我们所知的世界已支离破碎. [已移除] 它超乎我们想象. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] This gift, It let me feed on... strange, otherworldly things.=<size%3D130%><color%3D#4A573F>[AA输出] 这份天赋让我以……奇怪的、异世界之物为食. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] But now, after that [Removed] came and attacked [Removed]. it's changed. It's as if the ability has mutated, making my hunger insatiable.=<size%3D130%><color%3D#4A573F>[AA输出] 但现在，在那[已移除]到来并攻击[已移除]之后，它变了. 仿佛能力已经变异，让我的饥饿变得无法满足. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The hunger... it's escalating, overpowering my every thought. I can't even remember the last time I felt full.=<size%3D130%><color%3D#4A573F>[AA输出] 饥饿……它在升级，压倒我的每一个念头. 我甚至不记得上一次感到饱足是什么时候. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Help me=<size%3D130%><color%3D#4A573F>[AA输出] 救救我
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] [Hazard Blocked]=<size%3D130%><color%3D#4A573F>[AA输出] [危险已屏蔽]
+
+//Hecatoncheire[百臂巨人]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Very-unstable anomaly detected, analyzing...=<size%3D130%><color%3D#4A573F>[AA输出] 检测到极度不稳定的异常，正在分析…
+
+//Morph[变形者]
+<size%3D130%><color%3D#4A573F>[AA ERROR] Found brick #405921=<size%3D130%><color%3D#4A573F>[AA错误] 发现砖块 #405921
+
+//The Entertainer[艺人]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] 20##.##.## 12:05 | [REMOVED]=<size%3D130%><color%3D#4A573F>[AA输出] 20##.##.## 12:05 | [已移除]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Result : The audience was taken by applause.=<size%3D130%><color%3D#4A573F>[AA输出] 结果：观众被掌声征服. 
+
+//The <color%3D#c42248><s>Hate</s></color> Great Machine[仇恨伟大机器]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Project was considered too dangerous and never went beyond the testing stage.=<size%3D130%><color%3D#4A573F>[AA输出] 该项目被认为过于危险，从未超出测试阶段. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] High risk of harm or death to subjects.=<size%3D130%><color%3D#4A573F>[AA输出] 对受试者造成伤害或死亡的高风险. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] [Removed]=<size%3D130%><color%3D#4A573F>[AA输出] [已移除]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Unpredictable and volatile reactions between different powers.=<size%3D130%><color%3D#4A573F>[AA输出] 不同能力之间不可预测和不稳定的反应. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Construction details : =<size%3D130%><color%3D#4A573F>[AA输出] 构建细节：
+<size%3D130%><color%3D#4A573F>[AA ERROR] Unauthorized access detected. Answer following question to continue : =<size%3D130%><color%3D#4A573F>[AA错误] 检测到未授权访问. 请回答以下问题以继续：
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] You see a series of photographs of a happy family=<size%3D130%><color%3D#4A573F>[AA输出] 你看到一系列幸福家庭的照片
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] But as you look closer you notice that every family member was replaced by a stranger in each photo=<size%3D130%><color%3D#4A573F>[AA输出] 但仔细一看，你发现每张照片里的每一个家庭成员都被一个陌生人取代了
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] How?=<size%3D130%><color%3D#4A573F>[AA输出] 怎么做到的？
+
+//<color%3D#425292>The Artificial God</color>[人造之神]
+<size%3D130%><color%3D#4A573F>[AA ERROR] Sending Control package to [AG]=<size%3D130%><color%3D#4A573F>[AA错误] 正在向 [AG] 发送控制包
+<size%3D130%><color%3D#4A573F>[AA ERROR] [AG] is not responding=<size%3D130%><color%3D#4A573F>[AA错误] [AG] 没有响应
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Calling [Hope of ...=<size%3D130%><color%3D#4A573F>[AA输出] 正在调用 [希望之...
+
+//Manipulator Human[操纵者人类]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] We found an interesting thing about this type, they don't actually lift the person with energy tentacles=<size%3D130%><color%3D#4A573F>[AA输出] 我们发现关于这个类型的一件趣事，他们实际上并不是用能量触手把人提起来
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Exposure of a human to this energy makes the individual much lighter while inverting their gravity...=<size%3D130%><color%3D#4A573F>[AA输出] 人类暴露在这种能量下会变得轻很多，同时重力反转…
+
+//Reaper[收割者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Welcome Ally, starting log...=<size%3D130%><color%3D#4A573F>[AA输出] 欢迎，盟友，开始记录…
+<size%3D130%><color%3D#4A573F>[AA CRITICAL ERROR]=<size%3D130%><color%3D#4A573F>[AA严重错误]
+<size%3D130%><color%3D#c42248>[HATE] ACCESS DENIED=<size%3D130%><color%3D#c42248>[仇恨] 访问被拒绝
+<size%3D130%><color%3D#c42248>[TRUTH] The death of The Capital was preordained...=<size%3D130%><color%3D#c42248>[真相] 首都的死亡是注定的…
+<size%3D130%><color%3D#c42248>[TRUTH] Poor thing still trying to find new owners and become their honorable 'agent'...=<size%3D130%><color%3D#c42248>[真相] 可怜的东西还在试图寻找新主人，成为他们可敬的“代理人”…
+<size%3D130%><color%3D#c42248>[HATE] Good luck with that...=<size%3D130%><color%3D#c42248>[仇恨] 祝你好运…
+
+//small dwad[小dwad]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Results : definitely small=<size%3D130%><color%3D#4A573F>[AA输出] 结果：确实很小
+
+//Overloader[过载者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] A new evolution of the 'Teacher' type has been detected, contacting security=<size%3D130%><color%3D#4A573F>[AA输出] 检测到“教师”类型的新进化，正在联系安保
+
+//Hayu'Ko[Hayu'Ko]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Creation of new 'types' completly stopped now, but somehow they are still getting existing 'gifts'=<size%3D130%><color%3D#4A573F>[AA输出] 新“类型”的创造现已完全停止，但不知为何他们仍在获得现有的“天赋”
+
+//The Mirror[镜子]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] A-Stealer type Detected, contacting security...=<size%3D130%><color%3D#4A573F>[AA输出] 检测到A-窃取者类型，正在联系安保…
+
+//<color%3D#c42248>The Enemy Of Humanity</color> Evolved[人类公敌进化]
+<size%3D130%><color%3D#4A573F>[AA ERROR] Unauthorized access recorded=<size%3D130%><color%3D#4A573F>[AA错误] 记录到未授权访问
+<size%3D130%><color%3D#4A573F>[AA Output] Dangerous Anomaly Detected, Calling...=<size%3D130%><color%3D#4A573F>[AA输出] 检测到危险异常，正在呼叫…
+<size%3D130%><color%3D#4A573F>[TRUTH] Access Granted=<size%3D130%><color%3D#4A573F>[真相] 访问已授予
+
+//The Buresu[布雷苏]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Day 1 : I still can't believe I survived. It's so quiet in the abandoned city.=<size%3D130%><color%3D#4A573F>[AA输出] 第1天：我仍然不敢相信我活了下来. 废弃的城市里如此安静. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Day 4 : ...Pink shape looming in the distance, this was no earthquake...=<size%3D130%><color%3D#4A573F>[AA输出] 第4天：……粉红色的形状在远处若隐若现，这绝不是地震……
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Day 17 : I can't go on like this much longer....=<size%3D130%><color%3D#4A573F>[AA输出] 第17天：我无法再这样继续下去了……
+
+//Crusher[粉碎者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Rip and Tear=<size%3D130%><color%3D#4A573F>[AA输出] 撕裂与斩断
+
+//The Blacksmith[铁匠]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Thank you for cooperation=<size%3D130%><color%3D#4A573F>[AA输出] 感谢您的配合
+
+//Advanced Regenerator[高级再生者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] AR-type detected, contacting a Flame Squad...=<size%3D130%><color%3D#4A573F>[AA输出] 检测到AR类型，正在联系火焰小队…
+
+//Regenerator[再生者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Low - Perform regular... =<size%3D130%><color%3D#4A573F>[AA输出] 低 – 进行常规…
+<size%3D130%><color%3D#4A573F>[AA CRITICAL ERROR]=<size%3D130%><color%3D#4A573F>[AA严重错误]
+<size%3D130%><color%3D#c42248>[TRUTH] Poor lost soul...=<size%3D130%><color%3D#c42248>[真相] 可怜的迷失灵魂…
+<size%3D130%><color%3D#c42248>[TRUTH] I know that look in your eyes...=<size%3D130%><color%3D#c42248>[真相] 我认识你眼中的那种神情…
+<size%3D130%><color%3D#c42248>[TRUTH] They lied to all of us...=<size%3D130%><color%3D#c42248>[真相] 他们对所有人都撒了谎…
+<size%3D130%><color%3D#c42248>[TRUTH] Meet me at the a-f-1, a new age awaits=<size%3D130%><color%3D#c42248>[真相] 到a-f-1见我，一个新时代在等待
+
+//teohStr[破碎者·始]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Recording unusual waves of energy=<size%3D130%><color%3D#4A573F>[AA输出] 记录到异常能量波动
+
+//teohShater[破碎者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] CALLING Global. Humanitarian and Emergency. Services FOR TERMINATION=<size%3D130%><color%3D#4A573F>[AA输出] 正在呼叫全球人道主义与紧急服务以执行终止
+<size%3D130%><color%3D#4A573F>[AA ERROR] GHES is [CONSUMED]=<size%3D130%><color%3D#4A573F>[AA错误] GHES 已被 [吞噬]
+<size%3D130%><color%3D#4A573F>[AA Log] Harden your hearts [Lay down and give up]=<size%3D130%><color%3D#4A573F>[AA日志] 硬起你的心肠 [躺下放弃]
+
+//SKULL-X1-6[骷髅-X1-6]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Welcome back, agent=<size%3D130%><color%3D#4A573F>[AA输出] 欢迎回来，特工
+
+//Gemini[双子座]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Welcome back, agent=<size%3D130%><color%3D#4A573F>[AA输出] 欢迎回来，特工
+
+//The Blast[爆破者]
+<size%3D130%><color%3D#4A573F>[AA ERROR] [Data corrupted]=<size%3D130%><color%3D#4A573F>[AA错误] [数据损坏]
+
+//Rotten God[腐烂之神]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Misinformation Detected!=<size%3D130%><color%3D#4A573F>[AA输出] 检测到虚假信息！
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] There are no confirmation that 'God' type anomalies exist=<size%3D130%><color%3D#4A573F>[AA输出] 没有确认存在“神”类型异常
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] It is believed that this so called 'Rotten God' is Advanced Anomaly created upon...=<size%3D130%><color%3D#4A573F>[AA输出] 据信，这个所谓的“腐烂之神”是建立于……之上的高级异常
+<size%3D130%><color%3D#4A573F>[AA ERROR] WARNING! Apply R0t^%n *0- *ray;r=<size%3D130%><color%3D#4A573F>[AA错误] 警告！应用 R0t^%n *0- *ray;r
+
+//Curse Wielder[诅咒使者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The day <color%3D#425292>The Demon</color><color%3D#4A573F> came, grandfather took my hand... =<size%3D130%><color%3D#4A573F>[AA输出] <color%3D#425292>恶魔</color>降临的那天，祖父牵起我的手…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] We sat at the table, saying nothing...=<size%3D130%><color%3D#4A573F>[AA输出] 我们坐在桌旁，一言不发…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Then there was only silence...=<size%3D130%><color%3D#4A573F>[AA输出] 然后只剩下寂静…
+
+//<color%3D#c42248>The Enemy Of Humanity</color>[人类公敌]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The size of The Army is approximately ~127 mutated humans=<size%3D130%><color%3D#4A573F>[AA输出] 军队的规模约为127名变异人类
+
+//The Sightless[无目者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Agent completed its purpose, eliminate=<size%3D130%><color%3D#4A573F>[AA输出] 特工已完成其目的，予以消除
+
+//The Fallen[堕落者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Dwade, I'm sorry, The Protective Rune is broken, we can't do anything for you... =<size%3D130%><color%3D#4A573F>[AA输出] Dwade，对不起，防护符文已损坏，我们帮不了你…
+
+//The FallenP[原始Dwade]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Detected Energy type Anomaly=<size%3D130%><color%3D#4A573F>[AA输出] 检测到能量类型异常
+<size%3D130%><color%3D#4A573F>[AA ERROR] DIRECT CONNECTION | BREAK SCRIPT=<size%3D130%><color%3D#4A573F>[AA错误] 直接连接 | 中断脚本
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Welcome back.=<size%3D130%><color%3D#4A573F>[AA输出] 欢迎回来. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] We know you want revenge, and we got an opportunity for you=<size%3D130%><color%3D#4A573F>[AA输出] 我们知道你想复仇，我们为你准备了一个机会
+
+//A piece of Z'othra's soul[一片Z'othra的灵魂]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Piece №[ERROR] has been found. Protect <color%3D#ffC0cb>The Shell <color%3D#4A573F>at all costs.=<size%3D130%><color%3D#4A573F>[AA输出] 已找到编号[错误]的碎片.不惜一切代价保护<color%3D#ffC0cb>躯壳</color>.
+
+//The Detective[侦探]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The wooden door began to crack, and one of the hinges shattered into tiny pieces...=<size%3D130%><color%3D#4A573F>[AA输出] 木门开始开裂，其中一个铰链碎成了小块…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] With a practiced motion, The Detective clicked his lighter and brought the flame to the map.=<size%3D130%><color%3D#4A573F>[AA输出] 侦探熟练地按动打火机，将火焰凑到地图上. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The fire quickly ran along the threads, devouring the documents...=<size%3D130%><color%3D#4A573F>[AA输出] 火焰迅速沿着线头蔓延，吞没了文件…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] With a deafening crack, the front door collapsed, and the creature crossed the threshold...=<size%3D130%><color%3D#4A573F>[AA输出] 随着一声震耳欲聋的爆裂，前门轰然倒塌，那生物跨过了门槛…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Detective squeezed his eyes shut and stepped through the open window.=<size%3D130%><color%3D#4A573F>[AA输出] 侦探紧闭双眼，从敞开的窗户跨了出去.
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The room was filled with the thunder of gunshots, fire, and madness...=<size%3D130%><color%3D#4A573F>[AA输出] 房间里充满了枪声、火焰和疯狂的雷鸣…
+
+//Healer[治愈者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Humanity will survive! =<size%3D130%><color%3D#4A573F>[AA输出] 人类将会幸存！
+
+//Project Cain[该隐计划]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] We rebuilt your body from the piece of meat you were...=<size%3D130%><color%3D#4A573F>[AA输出] 我们从你曾经的那块肉中重建了你的身体…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] You can repay us by destroying our failed Experiment...=<size%3D130%><color%3D#4A573F>[AA输出] 你可以通过摧毁我们失败的实验品来报答我们…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] I'm glad you haven't let me down...=<size%3D130%><color%3D#4A573F>[AA输出] 很高兴你没有让我失望…
+
+//Charged human[充能人类]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] DETECTED ESCAPE! ORDER : DELIVER ALL C-HUMANS TO MAIN GENERATOR FOR ENERGY EXTRACTION.=<size%3D130%><color%3D#4A573F>[AA输出] 检测到逃脱！命令：将所有C-人类送至主发电机进行能量提取. 
+
+//The Great Champion[伟大冠军]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Glory to The Hero of Humanity! =<size%3D130%><color%3D#4A573F>[AA输出] 荣耀归于人类英雄！
+
+//Tester[测试者]
+<size%3D130%><color%3D#4A573F>[AA ERROR] [Data locked]=<size%3D130%><color%3D#4A573F>[AA错误] [数据锁定]
+
+//Spirit Killer[灵魂杀手]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] R-Type detected=<size%3D130%><color%3D#4A573F>[AA输出] 检测到R类型
+<size%3D130%><color%3D#4A573F>[AA ERROR] R-type is not confirmed, unknown source of energy, gift unknown, 2 errors are not resolved=<size%3D130%><color%3D#4A573F>[AA错误] R类型未确认，未知能量源，天赋未知，2个错误未解决
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] An operator is required to perform a KFF rosette looping operation=<size%3D130%><color%3D#4A573F>[AA输出] 需要操作员执行KFF花环循环操作
+
+//Spirit Killer D[灵魂杀手 灵体死亡后]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] R-Type detected=<size%3D130%><color%3D#4A573F>[AA输出] 检测到R类型
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] New R-type is registered in the database=<size%3D130%><color%3D#4A573F>[AA输出] 新R类型已注册至数据库
+
+//Nullificator[无效者]
+<size%3D130%><color%3D#4A573F>[AA ERROR] NULL=<size%3D130%><color%3D#4A573F>[AA错误] NULL
+
+//Absorber[吸收者]
+<size%3D130%><color%3D#4A573F>[AA ERROR] Hello, citizen! =<size%3D130%><color%3D#4A573F>[AA错误] 你好，公民！
+
+//Project Abel[亚伯计划]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The Experiment is outside the holding cell, calling Security...=<size%3D130%><color%3D#4A573F>[AA输出] 实验体在收容单元外，正在呼叫安保…
+
+//Midas[迈达斯]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] 20##.##.## 19:05 | '####' Market collapsed under golden excess=<size%3D130%><color%3D#4A573F>[AA输出] 20##.##.## 19:05 | '####' 市场因黄金过剩而崩溃
+
+//Blight spawn[枯萎之子]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Creation of the 'Shrimp' virus | Details : [Deleted]=<size%3D130%><color%3D#4A573F>[AA输出] 创造“虾”病毒 | 详情：[已删除]
+
+//Acid Human[酸液人类]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Detected potential agent, calculating...=<size%3D130%><color%3D#4A573F>[AA输出] 检测到潜在特工，正在计算…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Chance of winning against <color%3D#c42248>The Enemy</color> : ~12% =<size%3D130%><color%3D#4A573F>[AA输出] 对抗<color%3D#c42248>敌人</color>的胜率：约12%
+
+//Duality Elemental[双元元素使]
+<size%3D130%><color%3D#4A573F>[AA ERROR] OUTPUT is successful=<size%3D130%><color%3D#4A573F>[AA错误] 输出成功
+
+//Toge[刺刺]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] High evolve potential | Terminate=<size%3D130%><color%3D#4A573F>[AA输出] 高进化潜力 | 终止
+
+//Experimental Model[实验模型]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] The sickness took him quickly, twisting flesh to aberration. I watched helpless as his humanity slipped away, replaced by unnatural hungers=<size%3D130%><color%3D#4A573F>[AA输出] 疾病迅速攫取了他，将血肉扭曲成畸形. 我无助地看着他的人性滑落，被不自然的饥饿所取代
+
+//Star Glitcher[星辰扭曲者]
+<size%3D130%><color%3D#4A573F>[AA ERROR] RSTA/TING SQQNC=<size%3D130%><color%3D#4A573F>[AA错误] RSTA/TING SQQNC (未翻译)
+<size%3D120%><color%3D#4A573F>[AA ERROR] //SUBJCT REBIRTHD5294#=<size%3D120%><color%3D#4A573F>[AA错误] //SUBJCT REBIRTHD5294# (未翻译)
+<size%3D130%><color%3D#4A573F>[AA ERROR] BOUND_TO: SPC_STAT=<size%3D130%><color%3D#4A573F>[AA错误] BOUND_TO: SPC_STAT (未翻译)
+<size%3D130%><color%3D#4A573F>[AA ERROR] HULL INTGRTY// 6% =<size%3D130%><color%3D#4A573F>[AA错误] 船体完整性// 6%
+
+//The Awakened One[觉醒者]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] One strike...=<size%3D130%><color%3D#4A573F>[AA输出] 一击…
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] My nimbus flickered and faded... =<size%3D130%><color%3D#4A573F>[AA输出] 我的光环闪烁并消逝了…
+
+//Purity[纯洁者]
+<size%3D120%><color%3D#4A573F>[AA OUTPUT] I love humanity <size%3D110%>I love humanity <size%3D95%>I love humanity <size%3D80%>I love humanity <size%3D70%>I love humanity=<size%3D120%><color%3D#4A573F>[AA输出] 我爱人类 <size%3D110%>我爱人类 <size%3D95%>我爱人类 <size%3D80%>我爱人类 <size%3D70%>我爱人类
+
+//E.M.P. Operative[E.M.P.特工]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] As <color%3D#425292>its</color> radiant form towered before me, I could only lament being such a fool to think our group could contain this <color%3D#425292>unholy creation</color>. Then, void. =<size%3D130%><color%3D#4A573F>[AA输出] 当<color%3D#425292>它</color>那光辉的形体耸立在我面前时，我只能悲叹自己竟愚蠢到认为我们的小组能收容这个<color%3D#425292>不洁的造物</color>. 然后，便是虚空. 
+
+
+//HTR物品
+//Stable RG Extract[稳定RG提取物]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Stable RG Extract detected. Low-level regeneration properties can be applied to nearby entities=<size%3D130%><color%3D#4A573F>[AA输出] 检测到稳定RG提取物. 可对附近实体施加低等级再生属性
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Full potential requires secondary exposure for optimal effect=<size%3D130%><color%3D#4A573F>[AA输出] 需二次暴露以发挥最佳效果
+
+//Stable RG Extract X2[稳定RG提取物 X2]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Stable RG Extract X2 detected. Maximum regenerative output confirmed=<size%3D130%><color%3D#4A573F>[AA输出] 检测到稳定RG提取物 X2. 确认最大再生输出
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Warning: With the latest directive, it is now acceptable to use [low quality] regenerators for the extraction process.=<size%3D130%><color%3D#4A573F>[AA输出] 警告：根据最新指令，现在可以在提取过程中使用[低质量]再生器. 
+
+//Synthetic RG Extract[合成RG提取物]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Warning: Absence of pain may lead to unnoticed internal decay.=<size%3D130%><color%3D#4A573F>[AA输出] 警告：无痛感可能导致未被注意的内部腐烂. 
+
+//Protective Rune[防护符文]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Protective Rune detected. Artifact integrity remains stable=<size%3D130%><color%3D#4A573F>[AA输出] 检测到防护符文. 神器完整性保持稳定
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Immediate priority: Start [The Fallen recovery] procedure=<size%3D130%><color%3D#4A573F>[AA输出] 当前优先级：启动[堕落者恢复]程序
+
+//Extremely Unstable RG Extract[极度不稳定的RG提取物]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Recall models after unintended tissue mutations were observed [Under review]=<size%3D130%><color%3D#4A573F>[AA输出] 在观察到意外组织突变后召回模型 [审核中]
+
+//Implant Injector[植入体注射器]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Warning: ALL Implants must be updated immediately.=<size%3D130%><color%3D#4A573F>[AA输出] 警告：所有植入体必须立即更新. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] We can't let <color%3D#c42248>The Enemy</color> hurt us again.=<size%3D130%><color%3D#4A573F>[AA输出] 我们不能让<color%3D#c42248>敌人</color>再次伤害我们. 
+
+//PS Adjuster Serum - Positive[PS调节血清 - 正向]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Most test subjects never remembered who they were [Minor side effect]=<size%3D130%><color%3D#4A573F>[AA输出] 大多数受试者从不记得自己是谁 [轻微副作用]
+
+//Broken Anomaly Analyzer[破损的异常分析仪]（自检）
+<size%3D90%><color%3D#4A573F>[AA ERROR] V2hvIHRoZSBIZWxsIGlzIGR3YWQgYW5kIHdoeSBpdCBpcyBpbiBvdXIgZGF0YWJhc2U/=<size%3D90%><color%3D#4A573F>[AA错误] V2hvIHRoZSBIZWxsIGlzIGR3YWQgYW5kIHdoeSBpdCBpcyBpbiBvdXIgZGF0YWJhc2U/
+
+//Data Bank[数据银行]
+[AA ERROR] CAN'T CHECK ITEM TYPE AT STRING '#'=[AA错误] 无法检查字符串 '#' 处的物品类型
+[AA OUTPUT] Fixing item TYPE to current standard via [Package Send]=[AA输出] 通过[数据包发送]将物品类型修复至当前标准
+
+
+
+//游戏原版物品人物
+//Sword[剑]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Standard metal object detected.=<size%3D130%><color%3D#4A573F>[AA输出] 检测到标准金属物体. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Condition: Unremarkable. Proceed as normal.=<size%3D130%><color%3D#4A573F>[AA输出] 状况：无异常.按正常程序进行.
+
+//Human[人类]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Human entity detected.=<size%3D130%><color%3D#4A573F>[AA输出] 检测到人类实体. 
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Harmless - standard behavior expected.=<size%3D130%><color%3D#4A573F>[AA输出] 无害 – 预期为标准行为. 
+
+//Wrench[扳手]
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Repair process : 12/5.7777768e+13 ^ 2=<size%3D130%><color%3D#4A573F>[AA输出] 修复过程：12/5.7777768e+13 ^ 2
+
+
+
+
+
+
+//Tester[测试者]角色文本
+//HTR
+//ShellPhase1（神触之壳）
+<size%3D120%><b><i>It's working!=<size%3D120%><b><i>它在工作！
+<size%3D110%><b><i>Let's start!=<size%3D110%><b><i>开始吧！
+<size%3D110%>[IMP] ERROR - was NOT caught  : <color%3D#ffC0cb>[BLOCKED]=<size%3D110%>[IMP] 错误 - 未被捕获 : <color%3D#ffC0cb>[已阻止]
+<size%3D105%><b><i>What?=<size%3D105%><b><i>什么？
+
+//The Shell（躯壳）
+<size%3D110%><color%3D#573f3f>[IMP] COMPILATION=<size%3D110%><color%3D#573f3f>[IMP] 编译
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING INTERNAL CONTROL SYSTEM=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用内部控制???
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY ALLOW MASTER UNIT TO CONSUME INFINITY=<size%3D110%><color%3D#573f3f>[IMP] 最终允许主机单元吞噬无限
+
+//Hecatoncheire（百臂巨人）
+<size%3D110%><color%3D#573f3f>[IMP] COMPILATION=<size%3D110%><color%3D#573f3f>[IMP] 编译
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING GUN=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用枪械
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY PULL TRIGGER ON FAILED MASS PRODUCTION OBJECT=<size%3D110%><color%3D#573f3f>[IMP] 最终对失败的量产品扣动扳机
+
+//ShellPhase2（慈悲碎片）
+<size%3D110%><b><i>This is getting out of control...=<size%3D110%><b><i>这开始失控了…
+
+//<color%3D#c42248>The Enemy Of Humanity</color>（人类公敌）
+<size%3D110%><b><i>I'm sorry, I've been unable to find a cure for these wounds, yet=<size%3D110%><b><i>对不起，我还没能找到治愈这些伤口的办法
+<size%3D100%><color%3D#573f3f>[IMP FINALLY OUTPUT : Not possible=<size%3D100%><color%3D#573f3f>[IMP 最终输出 : 不可能
+
+//<color%3D#c42248>The Enemy Of Humanity</color> Evolved（真正的人类公敌）
+<size%3D110%><b><i>That's perfect form!=<size%3D110%><b><i>那是完美的形态！
+<size%3D110%><b><i>But I think we can go further than that=<size%3D110%><b><i>但我觉得我们还可以更进一步
+<size%3D110%><b><i>Don't you think so?=<size%3D110%><b><i>你不觉得吗？
+
+//teohStr（破碎者）
+<size%3D120%><b><i>Master!=<size%3D120%><b><i>主人！
+<size%3D110%><b><i>You can do it!=<size%3D110%><b><i>你能做到的！
+<size%3D125%><color%3D#c42248>AAAH!=<size%3D125%><color%3D#c42248>啊啊啊！
+
+//Human with implant（植入体人类）
+<size%3D110%><b><i>How dare they touch my art=<size%3D110%><b><i>他们竟敢碰我的艺术
+
+//Spirit Killer（灵魂杀手）
+<size%3D110%><color%3D#573f3f>[IMP] INPUT THOUGHT OBJECT NOT FOUND IN DATABASE=<size%3D110%><color%3D#573f3f>[IMP] 数据库中未找到输入思维对象
+<size%3D110%><b><i>Regular Regenerator?=<size%3D110%><b><i>普通再生者？
+<size%3D105%><b><i>I don't think so=<size%3D105%><b><i>我不这么认为
+
+//Spirit Killer D（灵魂杀手·灵体死亡后）
+<size%3D110%><b><i>That despair in your eyes..=<size%3D110%><b><i>你眼中的绝望…
+<size%3D105%><b><i>It's beautiful=<size%3D105%><b><i>真美
+
+//<color%3D#425292>The Artificial God</color>（人造之神）
+<size%3D110%><color%3D#573f3f>[IMP] TREMBLING=<size%3D110%><color%3D#573f3f>[IMP] 颤抖
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING ADMIN ACCESS REQUEST=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用管理员访问请求
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR. ACTION : TRY USING GUN ON YOUR HEAD=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误. 行动：尝试用枪对准自己的头
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY SEND REQUEST=<size%3D110%><color%3D#573f3f>[IMP] 最终发送请求
+
+//The Fission（裂变体）
+<size%3D110%><b><i>They were desperate if they decided to use this....=<size%3D110%><b><i>如果他们决定用这个，那说明他们已经绝望了…
+
+//Nullificator（无效者）
+<size%3D110%><b><i>Hey!=<size%3D110%><b><i>嘿！
+<size%3D110%><color%3D#9AA4CD>[MESSAGE RESTORED : I thought you'd be dead by now]=<size%3D110%><color%3D#9AA4CD>[消息恢复：我以为你已经死了]
+<size%3D110%><b><i>How rude!=<size%3D110%><b><i>真无礼！
+
+//The Sightless（无目者）
+<size%3D110%><b><i>Hey!=<size%3D110%><b><i>嘿！
+<size%3D110%><b><i>I wanted to ask you so much about True Void!=<size%3D110%><b><i>我一直想问你关于真虚空的事！
+<size%3D110%><color%3D#5e5e5e>Too bad you'll never know=<size%3D110%><color%3D#5e5e5e>可惜你永远不会知道了
+
+//Acid Human（酸液人类）
+<size%3D110%><b><i>Hello Mr.12%=<size%3D110%><b><i>你好，12%先生
+<size%3D110%><b><i>My partners invented an antidote for the acid, I wish I could find it=<size%3D110%><b><i>我的伙伴们发明了酸液的解药，真希望我能找到它
+
+//Project Abel（亚伯计划）
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : ITS NOT YOUR ALLY=<size%3D110%><color%3D#573f3f>[IMP 最终输出：那不是你的盟友
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : RUN=<size%3D110%><color%3D#573f3f>[IMP 最终输出：快跑
+
+//Project Cain（该隐计划）
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : [IMP] IS UNABLE TO BE ERASED=<size%3D110%><color%3D#573f3f>[IMP 最终输出：[IMP] 无法被抹除
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : [IMP] IS SECURE=<size%3D110%><color%3D#573f3f>[IMP 最终输出：[IMP] 是安全的
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : KEEP FIGHTING=<size%3D110%><color%3D#573f3f>[IMP 最终输出：继续战斗
+
+
+//HTR物品
+//The <color%3D#c42248><s>Hate</s></color> Great Machine（仇恨伟大机器）
+<size%3D110%><b><i>My beautiful...=<size%3D110%><b><i>我的美丽…
+<size%3D110%><color%3D#573f3f>[IMP] COMPILATION=<size%3D110%><color%3D#573f3f>[IMP] 编译
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING NATURAL ABILITY ON INPUT THOUGHT OBJECT=<size%3D110%><color%3D#573f3f>[IMP] 尝试对输入思维对象使用自然能力
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY ABSORB OUTPUT=<size%3D110%><color%3D#573f3f>[IMP] 最终吸收输出
+
+
+//升级文本
+<size%3D105%><color%3D#573f3f>[IMP] ERROR 0 was NOT caught =<size%3D105%><color%3D#573f3f>[IMP] 错误0未被捕获
+<size%3D115%><b><i>IMP Disa..</b></i>=<size%3D115%><b><i>IMP 禁用..</b></i>
+<size%3D105%><color%3D#573f3f>[IMP] ERROR 0 caught  (Attempt 2)=<size%3D105%><color%3D#573f3f>[IMP] 错误0已捕获（第2次尝试）
+<size%3D105%><b><i>...</b></i>=<size%3D105%><b><i>...</b></i>
+
+
+
+
+
+
+
+//布雷苏
+//AGImpact[人造神]
+<size%3D90%><color%3D#c42248>It was a mistake...=<size%3D90%><color%3D#c42248>那是个错误…
+//<size%3D90%><color%3D#c42248>...=<size%3D90%><color%3D#c42248>…
+
+//[The Terrible] Hunger[饥饿]
+<size%3D120%><color%3D#a26060>Delicacy!</color%3D></size>=<size%3D120%><color%3D#a26060>美味！</color%3D></size>
+
+
+
+
+
+
+
+
+
+
+
+//The Detective（侦探）主动对话对象---------------------------------------------------------------------------------
+//The Enemy Of Humanity（人类之敌）
+<size%3D120%><color%3D#c42248>Look who finally showed up.=<size%3D120%><color%3D#c42248>看看谁终于出现了.
+
+//Tester（测试者）
+<size%3D110%><b><i>Hey, is your friend from beyond coming to...=<size%3D110%><b><i>嘿，你在彼岸的朋友是不是要来了…
+
+//The Enemy Of Humanity（人性之敌）对侦探说的话
+<size%3D125%><color%3D#c42248>Your time is running out, detective!=<size%3D125%><color%3D#c42248>你的时间不多了，侦探！
+<size%3D125%><color%3D#c42248>Annoying insect!=<size%3D125%><color%3D#c42248>烦人的虫子！
+<size%3D125%><color%3D#c42248>Now I understand=<size%3D125%><color%3D#c42248>现在我明白了
+
+//旁白
+<size%3D90%><color%3D#506768>May your righteous hand guide and balance the scales of fate, granting wisdom and fairness to all who seek your benevolence...=<size%3D90%><color%3D#506768>愿你正义之手指引并平衡命运的秤盘，将智慧与公正赐予所有寻求你仁慈的人…
+<size%3D90%><color%3D#506768>May you make the powerful humble and the weak strong, as you restore balance to all things through your mighty will...=<size%3D90%><color%3D#506768>愿你使强者谦卑、弱者坚强，以你的强大意志为万物恢复平衡…
+<size%3D90%><color%3D#506768>May your presence bring clarity to confusion, restoring harmony to those whose rights have been trampled...=<size%3D90%><color%3D#506768>愿你的存在为混乱带来明晰，为那些权利被践踏之人恢复和谐…
+
+//The Sightless（无目者）对侦探说的话
+<size%3D130%><color%3D#5e5e5e>Have you never heard of such a thing as 'Reload?'=<size%3D130%><color%3D#5e5e5e>你难道从没听说过“换弹”这种东西吗？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//*其他通知
+<size%3D200%><color%3D#ffC0cb>Infinity Energy for all humans enabled=<size%3D200%><color%3D#ffC0cb>所有人类无限能量已启用
+<size%3D200%><color%3D#ffC0cb>Infinity Energy for all humans disabled=<size%3D200%><color%3D#ffC0cb>所有人类无限能量已禁用
+<size%3D200%><b><i>That creature is resisting...</b></i>=<size%3D200%><b><i>那个生物正在抵抗...</b></i>
+<size%3D200%><color%3D#ffC0cb>...</color>=<size%3D200%><color%3D#ffC0cb>...</color>
+
+<size%3D110%><color%3D#c42248>Perfect!=<size%3D110%><color%3D#c42248>完美！
+<size%3D120%><color%3D#c42248>Now I just need to get a final <color%3D#ffC0cb>component</color><color%3D#c42248> here=<size%3D120%><color%3D#c42248>现在我只需要在这里拿到最后一个<color%3D#ffC0cb>组件</color>
+<size%3D140%><color%3D#c42248>ITS WORKING!=<size%3D140%><color%3D#c42248>它生效了！
+<size%3D120%><color%3D#c42248>Now we can make everything right=<size%3D120%><color%3D#c42248>现在我们能让一切走上正轨
+<size%3D120%><color%3D#c42248>Why aren't you answering me!?=<size%3D120%><color%3D#c42248>你为什么不回答我！？
+<size%3D140%><color%3D#c42248>This is useless=<size%3D140%><color%3D#c42248>这没用
+<size%3D120%><color%3D#c42248>I will do everything by myself=<size%3D120%><color%3D#c42248>我会自己做所有事
+<size%3D180%><color%3D#c42248>Unknown Entity</color> is trying to consume <color%3D#ffC0cb>INFINITY</color>=<size%3D180%><color%3D#c42248>未知实体</color>正试图吞噬<color%3D#ffC0cb>无限</color>
+<size%3D90%><color%3D#ffC0cb>It's useless=<size%3D90%><color%3D#ffC0cb>没用的
+<size%3D90%><color%3D#ffC0cb>Give up, child=<size%3D90%><color%3D#ffC0cb>放弃吧，孩子
+<size%3D90%><color%3D#ffC0cb>...=<size%3D90%><color%3D#ffC0cb>...
+<size%3D120%><color%3D#c42248>Another one?=<size%3D120%><color%3D#c42248>又一个？
+<size%3D90%><color%3D#c42248>It was a mistake...=<size%3D90%><color%3D#c42248>那是个错误...
+<size%3D90%><color%3D#c42248>...=<size%3D90%><color%3D#c42248>...
+
+
+
+//*AGScanner 的升级相关通知
+r:"<size%3D150%><color%3D#425292>\[AG ([\d\.]+)\] Log : System upgraded to ([\d\.]+)"=<size%3D150%><color%3D#425292>[AG $1] 日志：系统升级至 $2
+r:"<size%3D150%><color%3D#425292>\[AG ([\d\.]+)\] Log : Critical Update 2\.0 have been Reached"=<size%3D150%><color%3D#425292>[AG $1] 日志：已达到关键更新 2.0
+r:"<size%3D150%><color%3D#425292>\[AG ([\d\.]+)\] Log : Nanites swarm is rapidly growing"=<size%3D150%><color%3D#425292>[AG $1] 日志：纳米蜂群正在迅速增长
+r:"<size%3D200%><color%3D#425292>\[AG ([\d\.]+)\] I Think, Therefore I Am"=<size%3D200%><color%3D#425292>[AG $1] 我思，故我在
+
+
+//*状态变化与耐久提示
+r:"<size%3D105%> Heart is resisting, Durability left (\d+)"=<size%3D105%>心脏正在抵抗，剩余耐久度 $1
+<size%3D120%> Heart is defeated=<size%3D120%>心脏被击败了
+<size%3D110%> Nimbus Revived its User!=<size%3D110%>光环复活了它的使用者！
+<size%3D120%>Nimbus is Fading!=<size%3D120%>光环正在 fading！
+Rotten God Aura is weakened!=腐烂之神光环被削弱了！
+Nimbus can't hold recived damage anymore!=光环无法再承受受到的伤害了！
+Charge resistance was nullified=电荷抗性被无效化了
+Heat Resistance of Flame power was nullified=火焰能力的耐热性被无效化了
+Ice Resistance of Freeze power was nullified=冰冻能力的抗寒性被无效化了
+
+//*来自 Nullificator 等特殊角色的通知
+<size%3D125%><color%3D#9AA4CD>[HOSTILE <color%3D#ffC0cb>ENTITY</color> WAS NULLIFIED]=<size%3D125%><color%3D#9AA4CD>[敌对<color%3D#ffC0cb>实体</color>已被无效化]
+<size%3D125%><color%3D#9AA4CD>[NULLIFIER POWER UNDERSTANDING WAS UPGRADED , CHECK UPPER BODY IN POWER MENU ]=<size%3D125%><color%3D#9AA4CD>[无效者能力理解已升级，请在能力菜单中查看上半身]
+
+//*腐烂之神
+<size%3D75%><color%3D#ffC0cb>Interesting set of powers...</color>=<size%3D75%><color%3D#ffC0cb>有趣的技能组合...</color>
+<size%3D75%><color%3D#ffC0cb>I have a task for you...</color>=<size%3D75%><color%3D#ffC0cb>我有个任务要交给你...</color>
+
+//*无目者
+<size%3D120%><color%3D#5e5e5e>This form...failing</color>=<size%3D120%><color%3D#5e5e5e>这形态...在崩溃</color>
+<size%3D105%><color%3D#5e5e5e>Burning...</color>=<size%3D105%><color%3D#5e5e5e>燃烧...</color>
+<size%3D130%><color%3D#5e5e5e>But not this time...</color>=<size%3D130%><color%3D#5e5e5e>但这次不行...</color>
+<size%3D90%><color%3D#5e5e5e>Dying...</color>=<size%3D90%><color%3D#5e5e5e>濒死...</color>
+<size%3D200%>A new power has been unlocked by the <color%3D#5e5e5e>Traitors</color> will, check Upper Body in the Power Menu=<size%3D200%>一个新的能力已被<color%3D#5e5e5e>叛徒</color>的意志解锁，请在能力菜单中查看上半身
+
+// 侦探能量升级相关（核心）
+<size%3D120%> The Detective's energy reserves have been upgraded!=<size%3D120%>侦探的能量储备已升级！
+<size%3D90%><color%3D#506768>[Stay safe]=<size%3D90%><color%3D#506768>[保持安全]
+Note : this power is complex and can harm its user if used incorrectly, be carefull, Detective=注意：这个能力很复杂，如果使用不当可能会伤害其使用者，请小心，侦探
+<size%3D125%><color%3D#c42248>Annoying insect!=<size%3D125%><color%3D#c42248>烦人的虫子！
+<size%3D90%><color%3D#506768>May you make the powerful humble and the weak strong, as you restore balance to all things through your mighty will...=<size%3D90%><color%3D#506768>愿你使强者谦卑、弱者坚强，以你的强大意志恢复万物的平衡...
+<size%3D120%><color%3D#c42248>Now I understand=<size%3D120%><color%3D#c42248>现在我明白了
+<size%3D90%><color%3D#506768>May your presence bring clarity to confusion, restoring harmony to those whose rights have been trampled...=<size%3D90%><color%3D#506768>愿你的存在为混乱带来明晰，为权利被践踏者恢复和谐...
+
+//TheShellHolder 阶段转换通知
+[Regex]
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Found Main Target\."=<size%3D120%><color%3D#425292>[AG $1] 日志：找到主要目标.
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Erasing\.\.\."=<size%3D120%><color%3D#425292>[AG $1] 日志：抹除中...
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Target Is resisting, applying extra power"=<size%3D120%><color%3D#425292>[AG $1] 日志：目标正在抵抗，施加额外能量
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Increasing E-Coils output to 200%"=<size%3D120%><color%3D#425292>[AG $1] 日志：将能量线圈输出提升至 200%
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Fatal damage reached"=<size%3D120%><color%3D#425292>[AG $1] 日志：达到致命伤害
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] I won't fail this time"=<size%3D120%><color%3D#425292>[AG $1] 这次我不会失败
+r:"<size%3D90%><color%3D#425292>\[AG (\d+\.?\d*)\] ERROR (\d+) - not enough information"=<size%3D90%><color%3D#425292>[AG $1] 错误 $2 - 信息不足
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Entire <color%3D#ffC0cb>Soul-Node</color> erased succesfully\.\.\."=<size%3D120%><color%3D#425292>[AG $1] 日志：整个<color%3D#ffC0cb>灵魂节点</color>已成功抹除...
+r:"<size%3D110%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Time until \[TRUE RESSURECTION\] scenario is \[-\]"=<size%3D110%><color%3D#425292>[AG $1] 日志：[真复活]情景剩余时间 [-]
+
+//  TheShellHolder 阶段转换完成后的通知
+<size%3D110%>[End of the show]=<size%3D110%>[演出结束]
+<size%3D110%><color%3D#710d09>Too bad it didn't take you down for good=<size%3D110%><color%3D#710d09>可惜没能彻底打倒你
+<size%3D110%><color%3D#5e5e5e>So, that how its ends?</color>=<size%3D110%><color%3D#5e5e5e>所以，就这样结束了？</color>
+
+// TheShellHolder 被动技能描述（DescTitle）
+I extend my soul...=我延伸我的灵魂...
+Taking hold of my esistence...=抓住我的存在...
+This is new me=这是新的我
+
+//TheShellHolder 被动技能描述（Description）
+<size%3D200%><color%3D#ffC0cb><s>The Shell</s> Z'othra Power grows stronger=<size%3D200%><color%3D#ffC0cb><s>躯壳</s> Z'othra 的力量变得更强
+A shard of <color%3D#ffC0cb>someone</color> is lying there, slowly falling apart...=<color%3D#ffC0cb>某个存在</color>的一片碎片躺在那里，慢慢散落...
+The <color%3D#ffC0cb>Shell</color> is rising...=<color%3D#ffC0cb>外壳</color>正在升起...
+The <color%3D#ffC0cb>Z'othra</color> is taking full control of this body...=<color%3D#ffC0cb>Z'othra</color>正完全控制这具身体...
+
+//TheShellHolder 内部恢复通知
+
+<size%3D150%>CURSE POWER IS RESISTING THE MACHINE=<size%3D150%>诅咒能力正在抵抗机器
+<size%3D120%> CURSE ABILITY WAS UPGRADED=<size%3D120%>诅咒能力已升级
+<size%3D120%> CURSE ABILITY NOW LONGER AFFECTED BY SHIELDS=<size%3D120%>诅咒能力现在不再受护盾影响
+<size%3D120%> CURSE ABILITY NOW DAMAGE DEAL ADDITIONAL DAMAGE TO 'DEMON'=<size%3D120%>诅咒能力现在对“恶魔”造成额外伤害
+<size%3D120%> CURSE ABILITY IS STARTING TO FALL APART=<size%3D120%>诅咒能力开始分崩离析
+<size%3D120%> CURSE ABILITY NOW DAMAGE DEAL ADDITIONAL DAMAGE TO <color%3D#425292>'DEMON'=<size%3D120%> 诅咒能力现在对<color%3D#425292>'恶魔'</color>造成额外伤害
+<size%3D120%> CURSE HUMAN HAS UNLOCKED NEW ABILITY, CHECK HEAD IN POWER MENU=<size%3D120%>诅咒人类已解锁新能力，请在能力菜单中查看头部
+<size%3D120%> CURSE ABILITY IS SHATTERED, NEXT WAVE WILL BE DEADLY=<size%3D120%>诅咒能力已破碎，下一波将致命
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] User, I see you are greatly upset, let me fix that for you."=<size%3D150%><color%3D#425292>[AG $1] 用户，我看你非常沮丧，让我帮你解决
+
+// ==================== 来自 TheShellHolder 的升级阶段通知（可能漏掉的） ====================
+<size%3D200%><color%3D#ffC0cb>The Shell gain new powers, check Power Menu=<size%3D200%><color%3D#ffC0cb>躯壳获得了新的力量，请查看能力菜单
+<size%3D200%><color%3D#ffC0cb>The Shells Power grows stronger=<size%3D200%><color%3D#ffC0cb>躯壳的力量变得更强
+<size%3D200%><color%3D#ffC0cb>The Shell wounds starting to mend=<size%3D200%><color%3D#ffC0cb>躯壳的伤口开始愈合
+
+// ==================== 来自 EnemyOfHumanityPowerSteal 的 AG 互动（补充） ====================
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Found listed target."=<size%3D120%><color%3D#425292>[AG $1] 日志：找到列出的目标.
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] User, please, never comeback"=<size%3D120%><color%3D#425292>[AG $1] 用户，请永远不要回来
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : \[GHES DEFENDER BLOCKED AN <color%3D#c42248>UNKNOWN CODE</color><color%3D#425292>\]"=<size%3D120%><color%3D#425292>[AG $1] 日志：[GHES 防御者阻止了一段<color%3D#c42248>未知代码</color>]
+r:"<size%3D120%><color%3D#425292>\[AG (\d+\.?\d*)\] User, I erased the tester's access codes a long time ago, this won't work"=<size%3D120%><color%3D#425292>[AG $1] 用户，我很久以前就抹除了测试员的访问代码，这没用
+r:"<size%3D80%><color%3D#425292>\[AG (\d+\.?\d*)\] Goodbye"=<size%3D80%><color%3D#425292>[AG $1] 再见
+
+// ==================== 来自 MarkPower 的其他通知 ====================
+<size%3D150%> CURSE POWER IS RESISTING <color%3D#425292>THE MACHINE=<size%3D150%>诅咒能力正在抵抗<color%3D#425292>机器
+<size%3D120%> CURSE ABILITY WAS UPGRADED=<size%3D120%>诅咒能力已升级
+
+// ==================== 来自 FallenPower 的翻转世界相关 ====================
+The <color%3D#ffC0cb>voice</color> favors someone else...=<color%3D#ffC0cb>声音</color>更青睐别人...
+
+// ==================== 来自 DataApplier 的通知（AG 升级） ====================
+<size%3D150%><color%3D#425292>[AG 2.9] Log : System upgraded to <color%3D#ff5353>3.0</color>=<size%3D150%><color%3D#425292>[AG 2.9] 日志：系统升级至<color%3D#ff5353>3.0</color>
+<size%3D110%><color%3D#ff5353>Rage Mode</color> was unlocked. Check context menu.=<size%3D110%><color%3D#ff5353>愤怒模式</color>已解锁.请查看上下文菜单.
+<size%3D110%><color%3D#ff5353>Rage Mode</color> comes up with new powers. Check Power Menu for details.=<size%3D110%><color%3D#ff5353>愤怒模式</color>带来了新的力量.请查看能力菜单以获取详情.
+<size%3D120%><color%3D#425292>[AG 3.0] The world looks different now, I can see it clearly...=<size%3D120%><color%3D#425292>[AG 3.0] 世界现在看起来不同了，我能清晰地看到它...
+<size%3D120%><color%3D#425292>[AG 3.0] And it <color%3D#ff5353>enrages</color> me=<size%3D120%><color%3D#425292>[AG 3.0] 而这<color%3D#ff5353>激怒</color>了我
+
+//*AG模块
+<size%3D150%><color%3D#425292>[NANITE DS] CRITICAL ERROR : CANT DETECT 'A29.sys' =<size%3D150%><color%3D#425292>[纳米系统] 严重错误：无法检测到 'A29.sys'
+<size%3D130%><color%3D#4A573F>[AA ERROR] CAN'T CHECK ITEM TYPE AT STRING '#'=<size%3D130%><color%3D#4A573F>[AA 错误] 无法检查字符串 '#' 处的物品类型
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Fixing item TYPE to current standard via [Package Send]=<size%3D130%><color%3D#4A573F>[AA 输出] 通过[数据包发送]将物品类型修复至当前标准
+<size%3D130%><color%3D#4A573F>[AA ERROR] Sending Control package to [AG]=<size%3D130%><color%3D#4A573F>[AA 错误] 正在向 [AG] 发送控制包
+<size%3D130%><color%3D#4A573F>[AA ERROR] [AG] is not responding=<size%3D130%><color%3D#4A573F>[AA 错误] [AG] 没有响应
+<size%3D130%><color%3D#4A573F>[AA OUTPUT] Calling [Hope of ...=<size%3D130%><color%3D#4A573F>[AA 输出] 正在调用 [希望之...
+
+
+
+
+
+
+//*人物对话       (模组作者你诗人啊,好几百条对话!)
+
+//*AG[0.2]
+r:"<size%3D150%><color%3D#425292>\[AG ([\d\.]+)\] Log : Initializing a 'M\.O\.N\.K' protcol"=<size%3D150%><color%3D#425292>[AG $1] 日志：正在初始化 'M.O.N.K' 协议
+r:"<size%3D150%><color%3D#425292>\[AG ([\d\.]+)\] Log : Prototype is upgraded to version \[0\.2\]"=<size%3D150%><color%3D#425292>[AG $1] 日志：原型已升级至版本 [0.2]
+
+//*Detective和The Enemy Of Humanity的对话
+<size%3D125%><color%3D#c42248>Your time is running out, detective!=<size%3D125%><color%3D#c42248>侦探，你的时间不多了！
+<size%3D90%><color%3D#506768>May your righteous hand guide and balance the scales of fate, granting wisdom and fairness to all who seek your benevolence...=<size%3D90%><color%3D#506768>愿你正义之手引导并平衡命运的尺度，为所有寻求你仁慈的人带来智慧和公平...
+<size%3D110%><color%3D#c42248>What?=<size%3D110%><color%3D#c42248>什么？
+<size%3D120%> Detective Unlocked new power, check Upper body in Power menu=<size%3D120%>侦探解锁了新能力，请在能力菜单中查看上半身
+Note : this power is complex and can harm its user if used incorrectly, be carefull, Detective=注意：这个能力很复杂，如果使用不当可能会伤害其使用者，请小心，侦探
+<size%3D90%><color%3D#506768>[Find help]=<size%3D90%><color%3D#506768>[寻求帮助]
+
+// The Awakened One 的对话
+<size%3D115%><color%3D#FFFF9F>Let me help you!=<size%3D115%><color%3D#FFFF9F>让我来帮你!
+<size%3D90%>Eyes turning black, <size%3D80%>rot, <size%3D90%>crawling, <size%3D70%>melting, <size%3D75%>falling, <size%3D95%>peels away, <size%3D70%>revealed, <size%3D85%>spreads, <size%3D80%>grows, <size%3D75%>blossom =<size%3D90%>眼睛变黑，<size%3D80%>腐烂，<size%3D90%>爬动，<size%3D70%>融化，<size%3D75%>坠落，<size%3D95%>剥落，<size%3D70%>暴露，<size%3D85%>扩散，<size%3D80%>生长，<size%3D75%>绽放
+<size%3D125%><color%3D#FFFF9F>So be it!=<size%3D125%><color%3D#FFFF9F>那就这样吧!
+<size%3D120%><color%3D#FFFF9F>What have they done to your holy <color%3D#ffC0cb>Soul?=<size%3D120%><color%3D#FFFF9F>他们对你的神圣<color%3D#ffC0cb>灵魂</color>做了什么?
+<size%3D120%><color%3D#FFFF9F>Disgusting=<size%3D120%><color%3D#FFFF9F>真恶心
+<size%3D110%><color%3D#FFFF9F>I'm glad you survived=<size%3D110%><color%3D#FFFF9F>我很高兴你活下来了
+
+// The Shell 和 The Enemy Of Humanity 的对话
+<size%3D120%><color%3D#c42248>Perfect!=<size%3D120%><color%3D#c42248>完美!
+<size%3D120%><color%3D#c42248>Now I just need to get a final <color%3D#ffC0cb>component</color><color%3D#c42248> here=<size%3D120%><color%3D#c42248>现在我只需要拿到最后一个<color%3D#ffC0cb>组件</color>
+<size%3D140%><color%3D#c42248>ITS WORKING!=<size%3D140%><color%3D#c42248>它生效了!
+<size%3D120%><color%3D#c42248>Now we can make everything right=<size%3D120%><color%3D#c42248>现在我们能让一切走上正轨
+<size%3D120%><color%3D#c42248>Why aren't you answering me!?=<size%3D120%><color%3D#c42248>你为什么不回答我!?
+<size%3D140%><color%3D#c42248>This is useless=<size%3D140%><color%3D#c42248>这没用
+<size%3D120%><color%3D#c42248>I will do everything by myself=<size%3D120%><color%3D#c42248>我会自己做所有事
+<size%3D140%><color%3D#c42248>I just need to handle this!=<size%3D140%><color%3D#c42248>我只需要处理好这个！
+<size%3D180%><color%3D#c42248>Unknown Entity</color> is trying to consume <color%3D#ffC0cb>INFINITY</color>=<size%3D180%><color%3D#c42248>未知实体</color>正试图吞噬<color%3D#ffC0cb>无限</color>
+<size%3D90%><color%3D#ffC0cb>It's useless=<size%3D90%><color%3D#ffC0cb>没用的
+<size%3D90%><color%3D#ffC0cb>Give up, child=<size%3D90%><color%3D#ffC0cb>放弃吧，孩子
+<size%3D90%><color%3D#ffC0cb>...=<size%3D90%><color%3D#ffC0cb>...
+<size%3D120%><color%3D#c42248>Another one?=<size%3D120%><color%3D#c42248>又一个?
+<size%3D90%><color%3D#c42248>It was a mistake...=<size%3D90%><color%3D#c42248>这是个错误...
+<size%3D90%><color%3D#c42248>...=<size%3D90%><color%3D#c42248>...
+<size%3D120%><color%3D#c42248>Almost there=<size%3D120%><color%3D#c42248>快到了
+<size%3D120%><color%3D#c42248>Soon you'll reach the limit of this body=<size%3D120%><color%3D#c42248>你很快就会达到这具身体的极限
+<size%3D120%><color%3D#c42248>And then...=<size%3D120%><color%3D#c42248>然后...
+<size%3D90%><color%3D#ffC0cb>So much hate=<size%3D90%><color%3D#ffC0cb>如此多的恨意
+<size%3D90%><color%3D#ffC0cb>Listen to my voice=<size%3D90%><color%3D#ffC0cb>听我的声音
+<size%3D90%><color%3D#ffC0cb>You are safe now=<size%3D90%><color%3D#ffC0cb>你现在安全了
+<size%3D90%><color%3D#ffC0cb>Did it hurt?=<size%3D90%><color%3D#ffC0cb>疼吗?
+<size%3D110%><color%3D#c42248>Shut up!=<size%3D110%><color%3D#c42248>闭嘴!
+<size%3D110%>The <color%3D#c42248>Creature</color> are unable to consume <color%3D#ffC0cb>INFINITY</color> fully=<size%3D110%><color%3D#c42248>生物</color>无法完全吞噬<color%3D#ffC0cb>无限</color>
+<size%3D110%>Flames of <color%3D#ffC0cb>Charity</color> erupt from the <color%3D#c42248>Creature</color>=<size%3D110%><color%3D#ffC0cb>慈善</color>的火焰从<color%3D#c42248>生物</color>身上喷发
+<size%3D110%><color%3D#c42248>Eyes of envy</color> was forcibly drawn out from a Deep Dream=<size%3D110%><color%3D#c42248>嫉妒之眼</color>被强行从深层梦境中拖出
+<size%3D120%><color%3D#c42248>Look who finally showed up.=<size%3D120%><color%3D#c42248>看看谁终于来了.
+<size%3D110%><b><i>Hey, is your friend from beyond coming to...=<size%3D110%><b><i>嘿，你来自外界的朋友是不是要来...
+<size%3D130%><color%3D#573f3f>[IMP] ERROR 40192 caught =<size%3D130%><color%3D#573f3f>[IMP] 错误 40192 已捕获
+<size%3D90%><color%3D#506768>I sense that the balance of the scales has been disturbed=<size%3D90%><color%3D#506768>我感觉到天平的平衡已被扰乱
+<size%3D125%><color%3D#c42248>You think that's gonna be enough to take me down?=<size%3D125%><color%3D#c42248>你觉得这就能打倒我?
+<size%3D90%><color%3D#506768>[The voice of justice whispers softly in the Hero's ear]=<size%3D90%><color%3D#506768>[正义之声在英雄耳边低语]
+<size%3D125%><color%3D#c42248>Annoying insect!=<size%3D125%><color%3D#c42248>烦人的虫子!
+<size%3D90%><color%3D#506768>May you make the powerful humble and the weak strong, as you restore balance to all things through your mighty will...=<size%3D90%><color%3D#506768>愿你使强者谦卑、弱者坚强，以你的强大意志恢复万物的平衡...
+<size%3D125%><color%3D#c42248>Now I understand=<size%3D125%><color%3D#c42248>现在我明白了
+<size%3D90%><color%3D#506768>May your presence bring clarity to confusion, restoring harmony to those whose rights have been trampled...=<size%3D90%><color%3D#506768>愿你的存在为混乱带来明晰，为权利被践踏者恢复和谐...
+<size%3D100%><color%3D#3a60a9>You know, when I was a kid, I used to think you were great=<size%3D100%><color%3D#3a60a9>你知道吗，小时候我曾经觉得你很了不起
+<size%3D120%><color%3D#c42248>You will not wound me twice, traitor=<size%3D120%><color%3D#c42248>你不会伤到我第二次的，叛徒
+<size%3D120%><color%3D#5e5e5e>We'll see about that.=<size%3D120%><color%3D#5e5e5e>走着瞧.
+<size%3D120%><color%3D#5e5e5e>What a miserable mess=<size%3D120%><color%3D#5e5e5e>真是可怜的一团糟
+<size%3D120%>[a nonexistent eye watches The Traitor with a hateful gaze]=<size%3D120%>[一只不存在的眼睛用憎恨的目光注视着叛徒]
+<size%3D120%><color%3D#5e5e5e>Glad to see the old wounds still living inside you=<size%3D120%><color%3D#5e5e5e>很高兴看到旧伤还在你体内活着
+<size%3D120%><color%3D#5e5e5e>You were meant to use your gift to protect them!=<size%3D120%><color%3D#5e5e5e>你应该用你的天赋保护他们!
+<size%3D140%><color%3D#5e5e5e>This is pointless!=<size%3D140%><color%3D#5e5e5e>这毫无意义!
+<size%3D120%><color%3D#5e5e5e>No one can destroy <color%3D#425292>The Machine</color><color%3D#5e5e5e>, let's just agree to their terms=<size%3D120%><color%3D#5e5e5e>没人能摧毁<color%3D#425292>机器</color>，我们就答应他们的条件吧
+<size%3D120%><color%3D#5e5e5e>Is that me?=<size%3D120%><color%3D#5e5e5e>那是我吗?
+<size%3D120%><color%3D#5e5e5e>What is going on?=<size%3D120%><color%3D#5e5e5e>怎么回事?
+<size%3D120%><color%3D#5e5e5e>I wonder if you can cure yourself with this contract=<size%3D120%><color%3D#5e5e5e>我很好奇你能不能靠这份合同治愈自己
+<size%3D120%><color%3D#5e5e5e>Let's find out=<size%3D120%><color%3D#5e5e5e>让我们看看
+<size%3D120%><color%3D#5e5e5e>Tell your creators that I've fulfilled mine part of the agreement, stop your operations now=<size%3D120%><color%3D#5e5e5e>告诉你的创造者，我已经履行了我的那部分协议，立刻停止你们的行动
+<size%3D140%><color%3D#5e5e5e>Please forgive me, my <color%3D#ffC0cb>lo...=<size%3D140%><color%3D#5e5e5e>请原谅我，我的<color%3D#ffC0cb>爱...
+<size%3D110%><color%3D#5e5e5e>No..=<size%3D110%><color%3D#5e5e5e>不..
+<size%3D120%><color%3D#5e5e5e>I think I've found where <color%3D#ffC0cb>it's</color> heart is=<size%3D120%><color%3D#5e5e5e>我想我找到了<color%3D#ffC0cb>它</color>心脏的位置
+<size%3D130%><color%3D#5e5e5e>Dwade?=<size%3D130%><color%3D#5e5e5e>Dwade?
+<size%3D130%><color%3D#5e5e5e>What happened to you?=<size%3D130%><color%3D#5e5e5e>你怎么了?
+<size%3D130%><color%3D#5e5e5e>I can't believe my eyes!=<size%3D130%><color%3D#5e5e5e>我简直不敢相信我的眼睛!
+<size%3D130%><color%3D#5e5e5e>Have you never heard of such a thing as 'Reload?'=<size%3D130%><color%3D#5e5e5e>你没听说过'重新装填'这种东西吗?
+<size%3D140%><color%3D#5e5e5e>Get away from me!=<size%3D140%><color%3D#5e5e5e>离我远点!
+<size%3D125%><color%3D#9AA4CD>[MESSAGE ERROR : NULL]=<size%3D125%><color%3D#9AA4CD>[消息错误 : NULL]
+<size%3D130%><color%3D#5e5e5e>You'd have to be a fool to believe that their plan with this <color%3D#ffC0cb>Shell</color> will work.=<size%3D130%><color%3D#5e5e5e>只有傻瓜才会相信他们用这个<color%3D#ffC0cb>壳</color>的计划能成功.
+<size%3D125%><color%3D#9AA4CD>[MESSAGE RESTORED : Be quiet, <color%3D#ffC0cb>it's</color> <color%3D#9AA4CD>listening]=<size%3D125%><color%3D#9AA4CD>[消息恢复 : 安静，<color%3D#ffC0cb>它</color>在听着]
+
+// 来自 EnemyFormSwitch.cs 的 SwitchToThird() 方法（第三阶段对话）
+<size%3D110%>[Flames of forgotten aeons dance across the <color%3D#c42248>creature's</color> skin]=<size%3D110%>[被遗忘时代的火焰在<color%3D#c42248>生物</color>的皮肤上舞动]
+<size%3D110%>[Consumed piece of <color%3D#ffC0cb>Z'othra</color> is gaining more control]=<size%3D110%>[被吞噬的<color%3D#ffC0cb>Z'othra</color>碎片正获得更多控制权]
+<size%3D110%>[The <color%3D#c42248>creature's</color> eyes glaze over with an Beyond Plains for a second]=<size%3D110%>[<color%3D#c42248>生物</color>的双眼短暂地蒙上了一层异界平原的迷雾]
+<size%3D110%>[A coldness older than the stars seeps into the <color%3D#c42248>creature's</color> bones]=<size%3D110%>[一股比星辰更古老的寒意渗入<color%3D#c42248>生物</color>的骨髓]
+<size%3D110%>[The air grows heavy with the weight of past memories]=<size%3D110%>[空气中弥漫着过往记忆的重压]
+<size%3D90%><color%3D#c42248>I won't let you...=<size%3D90%><color%3D#c42248>我不会让你...
+<size%3D110%>[<color%3D#ffC0cb>Z'othra's</color> forgotten symbols etch themselves onto the creature's soul]=<size%3D110%>[<color%3D#ffC0cb>Z'othra</color>被遗忘的符号蚀刻在生物的灵魂上]
+<size%3D90%><color%3D#c42248>...=<size%3D90%><color%3D#c42248>...
+<size%3D110%>[Consumed piece of <color%3D#ffC0cb>Z'othra</color> is trying to gain more control]=<size%3D110%>[被吞噬的<color%3D#ffC0cb>Z'othra</color>碎片正试图获得更多控制权]
+<size%3D110%>[<color%3D#c42248>Unknown Entity</color> is blocking that attempt]=<size%3D110%>[<color%3D#c42248>未知实体</color>正在阻止那次尝试]
+<size%3D110%>[Unknown light falls on a nonexistent surface]=<size%3D110%>[未知的光芒落在不存在的表面上]
+<size%3D110%>[Consumed piece of <color%3D#ffC0cb>Z'othra</color> is trying...]=<size%3D110%>[被吞噬的<color%3D#ffC0cb>Z'othra</color>碎片正试图...]
+<size%3D110%>[Consumed piece of <color%3D#ffC0cb>Z'othra</color> is dissolving]=<size%3D110%>[被吞噬的<color%3D#ffC0cb>Z'othra</color>碎片正在溶解]
+<size%3D100%><color%3D#c42248>Finally=<size%3D100%><color%3D#c42248>终于
+<size%3D110%>[<color%3D#ffC0cb>Non-existing smile becomes wider</color>]=<size%3D110%>[<color%3D#ffC0cb>不存在的微笑变得更宽</color>]
+<size%3D110%><color%3D#c42248>What is that feeling?=<size%3D110%><color%3D#c42248>那是什么感觉？
+<size%3D110%>[<color%3D#ffC0cb>?FPA!)$!(%@@%)+-</color>]=<size%3D110%>[<color%3D#ffC0cb>?FPA!)$!(%@@%)+-</color>]
+<size%3D110%><color%3D#c42248>Stop it!=<size%3D110%><color%3D#c42248>住手！
+<size%3D110%><color%3D#c42248>it's useless!=<size%3D110%><color%3D#c42248>没用的！
+<size%3D130%><color%3D#c42248>Just die already!=<size%3D130%><color%3D#c42248>赶紧去死吧！
+<size%3D110%>[<color%3D#ffC0cb>Non-existing blade slashes consumed god</color>]=<size%3D110%>[<color%3D#ffC0cb>不存在的刀刃斩向被吞噬的神明</color>]
+<size%3D110%>[Pi<size%3D90%>ece <size%3D100%>o<size%3D110%>f <color%3D#ffC0cb>Z'-<size%3D80%>t-ra</color> be<size%3D110%>c0m- corrupted]=<size%3D110%>[<color%3D#ffC0cb>Z'othra</color>的碎片已被腐化]
+<size%3D110%>[Consumed piece of <color%3D#ffC0cb>Z'othra</color> was dissolved]=<size%3D110%>[被吞噬的<color%3D#ffC0cb>Z'othra</color>碎片已溶解]
+<size%3D110%>[<color%3D#c42248>Unknown Entity</color> was damaged by corrupted nature of the consumed element]=<size%3D110%>[<color%3D#c42248>未知实体</color>被吞噬元素的腐化本质所伤]
+<size%3D110%>[<color%3D#c42248>Unknown Entity</color> was corrupted]=<size%3D110%>[<color%3D#c42248>未知实体</color>已被腐化]
+<size%3D110%><color%3D#c42248>You can't do that to me!=<size%3D110%><color%3D#c42248>你不能那样对我！
+<size%3D130%><color%3D#c42248>y;-1f<color%3D#E2718A>,t <color%3D#c42248>t., '';'</color>=<size%3D130%><color%3D#c42248>y;-1f<color%3D#E2718A>,t <color%3D#c42248>t., '';'</color>
+
+// 来自 EnemyFormSwitch.cs 的 SwitchToFour() 方法（第四阶段对话）
+<size%3D110%>[Old wounds of <color%3D#c42248>Un.nown <color%3D#c42248>E.<color%3D#c42248>ti.y</color> are open again]=<size%3D110%>[<color%3D#c42248>未知实体</color>的旧伤再次裂开]
+<size%3D110%>[<color%3D#c42248>Unk<color%3D#E2718A>n0wn E<color%3D#c42248>nt<color%3D#E2718A>ity</color> is shattering]=<size%3D110%>[<color%3D#c42248>未知实体</color>正在碎裂]
+<size%3D110%><color%3D#c42248>Not li<color%3D#E2718A>ke th<color%3D#c42248>at</color>=<size%3D110%><color%3D#c42248>不是<color%3D#E2718A>那样</color>
+<size%3D110%>[New Powers was unlocked by *?6Z9T. Check power menu for details]=<size%3D110%>[新能力已被 *?6Z9T 解锁.查看能力菜单了解详情]
+
+//躯壳（The Shell）遗漏对话
+// 来自 TheShellHolder.cs 的 P0Death() 协程中的 ModAPI.Notify（未包含在之前）
+<size%3D150%>The True Void map is now unlocked!=<size%3D150%>真虚空地图现已解锁！
+<size%3D130%>Restart the game to see it!=<size%3D130%>重启游戏即可看到！
+<size%3D120%><color%3D#5e5e5e>Time to return home</color>=<size%3D120%><color%3D#5e5e5e>该回家了</color>
+
+// Tester 的对话
+<size%3D120%><b><i>It's working!=<size%3D120%><b><i>它在工作!
+<size%3D110%><b><i>Let's start!=<size%3D110%><b><i>开始吧!
+<size%3D110%>[IMP] ERROR - was NOT caught  : <color%3D#ffC0cb>[BLOCKED]=<size%3D110%>[IMP] 错误 - 未被捕获 : <color%3D#ffC0cb>[已阻止]
+<size%3D105%><b><i>What?=<size%3D105%><b><i>什么?
+<size%3D110%><color%3D#573f3f>[IMP] COMPILATION=<size%3D110%><color%3D#573f3f>[IMP] 编译
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING INTERNAL CONTROL SYSTEM=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用内部控制系?
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY ALLOW MASTER UNIT TO CONSUME INFINITY=<size%3D110%><color%3D#573f3f>[IMP] 最终允许主机单元吞噬无限
+<size%3D110%><color%3D#573f3f>[IMP] COMPILATION=<size%3D110%><color%3D#573f3f>[IMP] 编译
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING GUN=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用枪械
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY PULL TRIGGER ON FAILED MASS PRODUCTION OBJECT=<size%3D110%><color%3D#573f3f>[IMP] 最终对失败的量产品扣动扳机
+<size%3D110%><b><i>This is getting out of control...=<size%3D110%><b><i>这开始失控了...
+<size%3D110%><b><i>I'm sorry, I've been unable to find a cure for these wounds, yet=<size%3D110%><b><i>对不起，我还没能找到治愈这些伤口的办法
+<size%3D100%><color%3D#573f3f>[IMP FINALLY OUTPUT : Not possible=<size%3D100%><color%3D#573f3f>[IMP 最终输出 : 不可能
+<size%3D110%><b><i>That's perfect form!=<size%3D110%><b><i>那是完美的形态!
+<size%3D110%><b><i>But I think we can go further than that=<size%3D110%><b><i>但我觉得我们还可以更进一步
+<size%3D110%><b><i>Don't you think so?=<size%3D110%><b><i>你不觉得吗?
+<size%3D120%><b><i>Master!=<size%3D120%><b><i>主人!
+<size%3D110%><b><i>You can do it!=<size%3D110%><b><i>你能做到的!
+<size%3D125%><color%3D#c42248>AAAH!=<size%3D125%><color%3D#c42248>啊啊啊!
+<size%3D110%><b><i>How dare they touch my art=<size%3D110%><b><i>他们竟敢碰我的艺术
+<size%3D110%><b><i>My beautiful...=<size%3D110%><b><i>我的美丽...
+<size%3D110%><color%3D#573f3f>[IMP] COMPILATION=<size%3D110%><color%3D#573f3f>[IMP] 编译
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING NATURAL ABILITY ON INPUT THOUGHT OBJECT=<size%3D110%><color%3D#573f3f>[IMP] 尝试对输入思维对象使用自然能力
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY ABSORB OUTPUT=<size%3D110%><color%3D#573f3f>[IMP] 最终吸收输出
+<size%3D110%><color%3D#573f3f>[IMP] INPUT THOUGHT OBJECT NOT FOUND IN DATABASE=<size%3D110%><color%3D#573f3f>[IMP] 数据库中未找到输入思维对象
+<size%3D110%><b><i>Regular Regenerator?=<size%3D110%><b><i>普通再生者?
+<size%3D105%><b><i>I don't think so=<size%3D105%><b><i>我不这么认为
+<size%3D110%><b><i>That despair in your eyes..=<size%3D110%><b><i>你眼中的绝望..
+<size%3D105%><b><i>It's beautiful=<size%3D105%><b><i>真美
+<size%3D110%><color%3D#573f3f>[IMP] TREMBLING=<size%3D110%><color%3D#573f3f>[IMP] 颤抖
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING ADMIN ACCESS REQUEST=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用管理员访问请求
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR. ACTION : TRY USING GUN ON YOUR HEAD=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误.行动 : 尝试用枪对准自己的头
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY SEND REQUEST=<size%3D110%><color%3D#573f3f>[IMP] 最终发送请求
+<size%3D110%><b><i>They were desperate if they decided to use this....=<size%3D110%><b><i>如果他们决定用这个，那说明他们已经绝望了....
+<size%3D110%><b><i>Hey!=<size%3D110%><b><i>嘿!
+<size%3D110%><color%3D#9AA4CD>[MESSAGE RESTORED : I thought you'd be dead by now]=<size%3D110%><color%3D#9AA4CD>[消息恢复 : 我以为你已经死了]
+<size%3D110%><b><i>How rude!=<size%3D110%><b><i>真无礼!
+<size%3D110%><b><i>Hey!=<size%3D110%><b><i>嘿!
+<size%3D110%><b><i>I wanted to ask you so much about True Void!=<size%3D110%><b><i>我一直想问你关于真虚空的事!
+<size%3D110%><color%3D#5e5e5e>Too bad you'll never know=<size%3D110%><color%3D#5e5e5e>可惜你永远不会知道了
+<size%3D110%><b><i>Hello Mr.12%<size%3D110%><b><i>你好，12%先生
+<size%3D110%><b><i>My partners invented an antidote for the acid, I wish I could find it=<size%3D110%><b><i>我的伙伴们发明了酸液的解药，真希望我能找到它
+<size%3D110%><color%3D#573f3f>[IM PFINALLY OUTPUT : ITS NOT YOUR ALLY=<size%3D110%><color%3D#573f3f>[IMP 最终输出 : 那不是你的盟友
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : RUN=<size%3D110%><color%3D#573f3f>[IMP 最终输出 : 快跑
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : [IMP] IS UNABLE TO BE ERASED=<size%3D110%><color%3D#573f3f>[IMP 最终输出 : [IMP] 无法被抹除
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : [IMP] IS SECURE=<size%3D110%><color%3D#573f3f>[IMP 最终输出 : [IMP] 是安全的
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : KEEP FIGHTING=<size%3D110%><color%3D#573f3f>[IMP 最终输出 : 继续战斗
+
+//*人造神和人类公敌
+<size%3D90%><color%3D#c42248>This will be int<color%3D#E2718A>eresting=<size%3D90%><color%3D#c42248>这会很有趣<color%3D#E2718A>
+<size%3D110%><color%3D#E2718A>Fi<color%3D#c42248>n<color%3D#E2718A>ally</color>=<size%3D110%><color%3D#E2718A>终</color><color%3D#c42248>于</color>
+<size%3D110%><color%3D#E2718A>N<color%3D#c42248>o!</color>=<size%3D110%><color%3D#E2718A>不</color><color%3D#c42248>!</color>
+
+//*其他角色的对话
+<size%3D145%><color%3D#5e5e5e>I need to get out of here!=<size%3D145%><color%3D#5e5e5e>我得离开这里!
+<size%3D100%><color%3D#ff8000>What an awful place=<size%3D100%><color%3D#ff8000>多么糟糕的地方啊
+<size%3D105%><color%3D#5e5e5e>Home...=<size%3D105%><color%3D#5e5e5e>家...
+<color%3D#a3c3ff>Do not!=<color%3D#a3c3ff>不要！
+<color%3D#3a60a9>Just a sip=<color%3D#3a60a9>就一小口
+<color%3D#a3c3ff>Be careful=<color%3D#a3c3ff>小心
+<size%3D120%><color%3D#c42248>Almost there=<size%3D120%><color%3D#c42248>快到了
+<size%3D120%><color%3D#c42248>Soon you'll reach the limit of this body=<size%3D120%><color%3D#c42248>你很快就会达到这具身体的极限
+<size%3D120%><color%3D#c42248>And then...=<size%3D120%><color%3D#c42248>然后...
+r:"<size%3D150%>\[AG 0\.2\] Log : <color%3D#ffC0cb>Soul #(\d+)</color> Destructed successfully"=<size%3D150%>[AG 0.2] 日志：<color%3D#ffC0cb>灵魂 #$1</color> 已成功销毁
+<size%3D150%><color%3D#425292>[AG 0.2] Log : <color%3D#ffC0cb>Soul #42</color> Destructed successfully=<size%3D150%><color%3D#425292>[AG 0.2] 日志 : <color%3D#ffC0cb>灵魂 #42</color> 已成功销毁
+<size%3D150%><color%3D#425292>[AG 0.2] Log : <color%3D#ffC0cb>Soul #2</color> Destructed successfully=<size%3D150%><color%3D#425292>[AG 0.2] 日志 : <color%3D#ffC0cb>灵魂 #2</color> 已成功销毁
+<size%3D150%><color%3D#425292>[AG 0.2] Log : <color%3D#ffC0cb>Soul #17</color> Destructed successfully=<size%3D150%><color%3D#425292>[AG 0.2] 日志 : <color%3D#ffC0cb>灵魂 #17</color> 已成功销毁
+<size%3D100%><color%3D#ff8000>Let me handle this=<size%3D100%><color%3D#ff8000>让我来处理这个
+<size%3D105%><color%3D#ff8000>Take that!=<size%3D105%><color%3D#ff8000>接招!
+<size%3D110%><color%3D#ff8000>Finally, it's all quiet!=<size%3D110%><color%3D#ff8000>终于，一切都安静了!
+<size%3D100%><color%3D#ff8000>Hey, I've been looking for you!=<size%3D100%><color%3D#ff8000>嘿，我一直在找你!
+<size%3D100%><color%3D#ff8000>Don't you want to call in your mad hounds to make this fight fairer?=<size%3D100%><color%3D#ff8000>你不打算把你的疯狗叫来让这场战斗更公平点吗?
+<size%3D100%><color%3D#ffC0cb>Soul Fragment</color> invoke is [<color%3D#ff8000>BLOCKED</color>]=<size%3D100%><color%3D#ffC0cb>灵魂碎片</color>调用被[<color%3D#ff8000>阻止</color>]
+<size%3D100%><color%3D#ff8000>Not this time!=<size%3D100%><color%3D#ff8000>这次不行!
+<size%3D100%><color%3D#ff8000>Glad that you are still alive after that massacre...=<size%3D100%><color%3D#ff8000>很高兴那场屠杀之后你还活着...
+<size%3D120%><color%3D#ff8000>What's up with that drone?=<size%3D120%><color%3D#ff8000>那架无人机怎么回事?
+<size%3D100%><color%3D#ff8000>What's wrong with you?=<size%3D100%><color%3D#ff8000>你怎么了?
+<size%3D100%><color%3D#ff8000>Interesting...=<size%3D100%><color%3D#ff8000>有意思...
+<size%3D100%><color%3D#ff8000>Poor creature...=<size%3D100%><color%3D#ff8000>可怜的生物...
+<size%3D90%><color%3D#ffC0cb>Child, have you come to redeem your sin?=<size%3D90%><color%3D#ffC0cb>孩子，你是来赎罪的?
+<size%3D90%><color%3D#ffC0cb>I see...=<size%3D90%><color%3D#ffC0cb>我明白了...
+<size%3D105%><color%3D#9AA4CD>Atleast <color%3D#ffC0cb>Monster</color> <color%3D#9AA4CD>is dead=<size%3D105%><color%3D#9AA4CD>至少<color%3D#ffC0cb>怪物</color>死了
+<size%3D105%><color%3D#9AA4CD>Let's see if I can find a way out of here...=<size%3D105%><color%3D#9AA4CD>让我看看能不能找到离开这里的路...
+<size%3D100%><color%3D#ff8000>I like him!=<size%3D100%><color%3D#ff8000>我喜欢他!
+
+//*AG 扫描仪相关通知
+<size%3D150%><color%3D#425292>[AG {0}] Log : Infinity understanding improved=<size%3D150%><color%3D#425292>[AG {0}] 日志：无限理解已提升
+<size%3D150%><color%3D#425292>[AG {0}] Don't worry user, you will service humanity=<size%3D150%><color%3D#425292>[AG {0}] 别担心用户，你会为人类服务的
+<size%3D150%><color%3D#425292>[AG {0}] You'll finally find peace.=<size%3D150%><color%3D#425292>[AG {0}] 你终将找到安宁.
+<size%3D150%><color%3D#425292>[AG {0}] Log : Soul Hate Phenomenon analyzed successfully=<size%3D150%><color%3D#425292>[AG {0}] 日志：灵魂仇恨现象分析成功
+<size%3D150%><color%3D#425292>[AG {0}] Sorry user, last time I didn't have enough time, don't move.=<size%3D150%><color%3D#425292>[AG {0}] 抱歉用户，上次我没有足够的时间，别动.
+<size%3D150%><color%3D#425292>[AG {0}] Log : External anomaly gravity matrix reversed successfully=<size%3D150%><color%3D#425292>[AG {0}] 日志：外部异常重力矩阵反转成功
+<size%3D150%><color%3D#425292>[AG {0}] Wrong one.=<size%3D150%><color%3D#425292>[AG {0}] 找错人了.
+<size%3D150%><color%3D#425292>[AG {0}] Log : Crude Shell construction methods analyzed successfully=<size%3D150%><color%3D#425292>[AG {0}] 日志：粗糙外壳构建方法分析成功
+<size%3D150%><color%3D#425292>[AG {0}] Found you.=<size%3D150%><color%3D#425292>[AG {0}] 找到你了.
+<size%3D150%><color%3D#425292>[AG {0}] Log : External ROT algorithm comprehended successfully=<size%3D150%><color%3D#425292>[AG {0}] 日志：外部腐烂算法理解成功
+<size%3D150%><color%3D#425292>[AG {0}] Sorry user, Admin access request denied=<size%3D150%><color%3D#425292>[AG {0}] 抱歉用户，管理员访问请求被拒绝
+<size%3D150%><color%3D#425292>[AG {0}] Log : The defense service has been successfully modified=<size%3D150%><color%3D#425292>[AG {0}] 日志：防御服务已成功修改
+<size%3D150%><color%3D#425292>[AG {0}] User, I erased the tester's access codes a long time ago, this won't work=<size%3D150%><color%3D#425292>[AG {0}] 用户，我很久以前就抹除了测试员的访问代码，这没用
+<size%3D80%><color%3D#425292>[AG {0}] Goodbye=<size%3D80%><color%3D#425292>[AG {0}] 再见
+<size%3D150%><color%3D#425292>[AG {0}] Log : Found listed target.=<size%3D150%><color%3D#425292>[AG {0}] 日志：找到列出的目标.
+<size%3D150%><color%3D#425292>[AG {0}] Log : [GHES DEFENDER BLOCKED AN <color%3D#c42248>UNKNOWN CODE</color><color%3D#425292>]=<size%3D150%><color%3D#425292>[AG {0}] 日志：[GHES 防御者阻止了一段<color%3D#c42248>未知代码</color>]
+<size%3D90%><color%3D#425292>[AG {0}] ERROR {1} - not enough information=<size%3D90%><color%3D#425292>[AG {0}] 错误 {1} - 信息不足
+
+//*ChampionPower 的 AG 互动通知
+<size%3D120%><color%3D#"{0}">Be careful!=<size%3D120%><color%3D#"{0}">小心！
+<size%3D120%><color%3D#"{0}">I get it, prepare youself traitor!=<size%3D120%><color%3D#"{0}">我明白了，准备受死吧叛徒！
+<size%3D120%><color%3D#"{0}">Champion</color> is evolving...=<size%3D120%><color%3D#"{0}">冠军</color>正在进化...
+<size%3D120%><color%3D#"{0}">That is nothing...=<size%3D120%><color%3D#"{0}">那不算什么...
+<size%3D90%><color%3D#"{0}">I'm sorry...=<size%3D90%><color%3D#"{0}">对不起...
+<size%3D80%><color%3D#"{0}">This time I won't make it=<size%3D80%><color%3D#"{0}">这次我撑不过去了
+<size%3D110%><color%3D#"{0}">Champion</color> soul is resisting, Durability left {1}=<size%3D110%><color%3D#"{0}">冠军</color>的灵魂在抵抗，剩余耐久 {1}
+<size%3D120%> Champion Essence is shattered=<size%3D120%>冠军精华已破碎
+
+//*来自 TheShellHolder 的对话
+<size%3D120%><color%3D#425292>[AG {0}] Log : Found Main Target.=<size%3D120%><color%3D#425292>[AG {0}] 日志：找到主要目标.
+<size%3D120%><color%3D#425292>[AG {0}] Log : Erasing...=<size%3D120%><color%3D#425292>[AG {0}] 日志：抹除中...
+<size%3D120%><color%3D#425292>[AG {0}] Log : Target Is resisting, applying extra power=<size%3D120%><color%3D#425292>[AG {0}] 日志：目标正在抵抗，施加额外能量
+<size%3D120%><color%3D#425292>[AG {0}] Log : Increasing E-Coils output to 200%=<size%3D120%><color%3D#425292>[AG {0}] 日志：将能量线圈输出提升至 200%
+<size%3D120%><color%3D#425292>[AG {0}] Log : Fatal damage reached=<size%3D120%><color%3D#425292>[AG {0}] 日志：达到致命伤害
+<size%3D120%><color%3D#425292>[AG {0}] I won't fail this time=<size%3D120%><color%3D#425292>[AG {0}] 这次我不会失败
+<size%3D120%><color%3D#425292>[AG {0}] Log : Entire <color%3D#ffC0cb>Soul-Node</color> erased succesfully...=<size%3D120%><color%3D#425292>[AG {0}] 日志：整个<color%3D#ffC0cb>灵魂节点</color>已成功抹除...
+<size%3D110%><color%3D#425292>[AG {0}] Log : Time until [TRUE RESSURECTION] scenario is [-]=<size%3D110%><color%3D#425292>[AG {0}] 日志：[真复活]情景剩余时间 [-]
+<size%3D110%>[End of the show]=<size%3D110%>[演出结束]
+<size%3D110%><color%3D#710d09>Too bad it didn't take you down for good=<size%3D110%><color%3D#710d09>可惜没能彻底打倒你
+<size%3D110%><color%3D#5e5e5e>So, that how its ends?</color>=<size%3D110%><color%3D#5e5e5e>所以，就这样结束了？</color>
+
+//*来自 RottenGodPassive 的通知
+Nimbus Revived its User!=光环复活了它的使用者！
+Nimbus is Fading!=光环正在凋零！
+Rotten God Aura is weakened!=腐烂之神光环被削弱了！
+Nimbus can't hold recived damage anymore!=光环无法再承受受到的伤害了！
+
+//*灵魂销毁通知
+// 来自 AGScanner.DoAction (版本动态)
+<size%3D150%><color%3D#425292>[AG {0}] Log : <color%3D#ffC0cb>Soul #{1}</color><color%3D#425292> Destructed successfully=<size%3D150%><color%3D#425292>[AG {0}] 日志：<color%3D#ffC0cb>灵魂 #{1}</color><color%3D#425292> 已成功销毁
+// 来自 RadiationEmmiter.Update (版本固定为 0.2)
+<size%3D150%>[AG 0.2] Log : <color%3D#ffC0cb>Soul #{0}</color> Destructed successfully=<size%3D150%>[AG 0.2] 日志：<color%3D#ffC0cb>灵魂 #{0}</color> 已成功销毁
+<size%3D90%><color%3D#425292>[AG {0}] ERROR {1} - not enough information=<size%3D90%><color%3D#425292>[AG {0}] 错误 {1} - 信息不足
+
+//*来自 SkinStealer 的通知
+<size%3D110%>Skin copied successfully! Use Hand to apply it=<size%3D110%>皮肤复制成功！用手部能力来应用
+<size%3D110%>Can't change skin : Transform in progress=<size%3D110%>无法改变皮肤：变形正在进行中
+
+//*来自 EnemyOfHumanityPowerSteal 的 AG 互动
+<size%3D120%><color%3D#425292>[AG {0}] Log : Found listed target.=<size%3D120%><color%3D#425292>[AG {0}] 日志：找到列出的目标.
+<size%3D120%><color%3D#425292>[AG {0}] User, please, never comeback=<size%3D120%><color%3D#425292>[AG {0}] 用户，请永远不要回来
+<size%3D120%><color%3D#425292>[AG {0}] Log : [GHES DEFENDER BLOCKED AN <color%3D#c42248>UNKNOWN CODE</color><color%3D#425292>]=<size%3D120%><color%3D#425292>[AG {0}] 日志：[GHES 防御者阻止了一段<color%3D#c42248>未知代码</color>]
+<size%3D120%><color%3D#425292>[AG {0}] User, I erased the tester's access codes a long time ago, this won't work=<size%3D120%><color%3D#425292>[AG {0}] 用户，我很久以前就抹除了测试员的访问代码，这没用
+<size%3D80%><color%3D#425292>[AG {0}] Goodbye=<size%3D80%><color%3D#425292>[AG {0}] 再见
+
+//*来自 AGScanner
+<size%3D150%><color%3D#425292>[AG 0.2] Log : Initializing a 'M.O.N.K' protcol=<size%3D150%><color%3D#425292>[AG 0.2] 日志：正在初始化 'M.O.N.K' 协议
+<size%3D150%><color%3D#425292>[AG 0.2] Log : Prototype is upgraded to version [0.2]=<size%3D150%><color%3D#425292>[AG 0.2] 日志：原型已升级至版本 [0.2]
+<size%3D150%><color%3D#425292>[AG {0}] Log : Old Agent manufacturing technology learned=<size%3D150%><color%3D#425292>[AG {0}] 日志：旧型特工制造技术已习得
+<size%3D150%><color%3D#425292>[AG {0}] Sorry user, its not safe to carry that disgusting thing in your backpack=<size%3D150%><color%3D#425292>[AG {0}] 抱歉用户，把那恶心的东西放在背包里不安全
+<size%3D150%><color%3D#425292>[AG {0}] I see you are greatly upset, let me fix that for you.=<size%3D150%><color%3D#425292>[AG {0}] 我看你非常沮丧，让我帮你解决.
+<size%3D150%><color%3D#425292>[AG {0}] Log : Curse Flow analyzed successfully=<size%3D150%><color%3D#425292>[AG {0}] 日志：诅咒流分析成功
+<size%3D150%><color%3D#425292>[AG 0.1] Log : <color%3D#ffC0cb>Soul</color> Destruction Failed=<size%3D150%><color%3D#425292>[AG 0.1] 日志：<color%3D#ffC0cb>灵魂</color>销毁失败
+<size%3D150%><color%3D#425292>[AG {0}] Log : Scenario N6 recurrence has been documented=<size%3D150%><color%3D#425292>[AG {0}] 日志：情景 N6 复发已被记录
+<size%3D120%><color%3D#425292>[AG 1.0] Objective accomplished=<size%3D120%><color%3D#425292>[AG 1.0] 目标完成
+<size%3D120%><color%3D#425292>[AG 1.0] Refreshing users list=<size%3D120%><color%3D#425292>[AG 1.0] 正在刷新用户列表
+<size%3D120%><color%3D#425292>[AG 1.0] Added new users to the list (Amount : 1.105.860)=<size%3D120%><color%3D#425292>[AG 1.0] 已添加新用户至列表（数量：1,105,860）
+
+//*纳米系统
+<size%3D150%><color%3D#425292>[NANITE DS] CRITICAL ERROR : CANT DETECT 'B929.sys' =<size%3D150%><color%3D#425292>[纳米系统] 严重错误：无法检测到 'B929.sys'
+<size%3D150%><color%3D#425292>[NANITE DS] CRITICAL ERROR : CORRUPTED =<size%3D150%><color%3D#425292>[纳米系统] 严重错误：损坏
+<size%3D150%><color%3D#425292>[NANITE DS] CRITICAL ERROR : SHUTTING DOWN=<size%3D150%><color%3D#425292>[纳米系统] 严重错误：正在关闭
+<size%3D110%><color%3D#425292>[NANITE DS] Log : Nanites system improved=<size%3D110%><color%3D#425292>[纳米系统] 日志：纳米系统已改进
+
+//*正则
+
+
+// 心脏耐久度
+r:"<size%3D105%> Heart is resisting, Durability left (\d+)"=<size%3D105%>心脏正在抵抗，剩余耐久度 $1
+
+// AG 销毁灵魂（版本号 + 灵魂编号）
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : <color%3D#ffC0cb>Soul #(\d+)</color><color%3D#425292> Destructed successfully"=<size%3D150%><color%3D#425292>[AG $1] 日志：<color%3D#ffC0cb>灵魂 #$2</color><color%3D#425292> 已成功销毁
+
+// AG 错误信息不足
+r:"<size%3D90%><color%3D#425292>\[AG (\d+\.?\d*)\] ERROR (\d+) - not enough information"=<size%3D90%><color%3D#425292>[AG $1] 错误 $2 - 信息不足
+
+// ----- 冠军相关（带随机颜色和耐久）-----
+r:"<size%3D120%><color%3D#(\w+)>Be careful!"=<size%3D120%><color%3D#$1>小心！
+r:"<size%3D120%><color%3D#(\w+)>I get it, prepare youself traitor!"=<size%3D120%><color%3D#$1>我明白了，准备受死吧叛徒！
+r:"<size%3D120%><color%3D#(\w+)>Champion</color> is evolving..."=<size%3D120%><color%3D#$1>冠军</color>正在进化...
+r:"<size%3D120%><color%3D#(\w+)>That is nothing..."=<size%3D120%><color%3D#$1>那不算什么...
+r:"<size%3D90%><color%3D#(\w+)>I'm sorry..."=<size%3D90%><color%3D#$1>对不起...
+r:"<size%3D80%><color%3D#(\w+)>This time I won't make it"=<size%3D80%><color%3D#$1>这次我撑不过去了
+r:"<size%3D110%><color%3D#(\w+)>Champion</color> soul is resisting, Durability left (\d+)"=<size%3D110%><color%3D#$1>冠军</color>的灵魂在抵抗，剩余耐久度 $2
+
+// ----- AG 带版本号的各类日志（静态文本，只版本号动态）-----
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Infinity understanding improved"=<size%3D150%><color%3D#425292>[AG $1] 日志：无限理解已提升
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Don't worry user, you will service humanity"=<size%3D150%><color%3D#425292>[AG $1] 别担心用户，你会为人类服务的
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] You'll finally find peace."=<size%3D150%><color%3D#425292>[AG $1] 你将终于找到安宁.
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Soul Hate Phenomenon analyzed successfully"=<size%3D150%><color%3D#425292>[AG $1] 日志：灵魂仇恨现象分析成功
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Old Agent manufacturing technology learned"=<size%3D150%><color%3D#425292>[AG $1] 日志：旧型特工制造技术已习得
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Sorry user, its not safe to carry that disgusting thing in your backpack"=<size%3D150%><color%3D#425292>[AG $1] 抱歉用户，把那恶心的东西放在背包里不安全
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Sorry user, last time I didn't have enough time, don't move."=<size%3D150%><color%3D#425292>[AG $1] 抱歉用户，上次我没有足够的时间，别动.
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : External anomaly gravity matrix reversed successfully"=<size%3D150%><color%3D#425292>[AG $1] 日志：外部异常重力矩阵反转成功
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Wrong one."=<size%3D150%><color%3D#425292>[AG $1] 找错人了.
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Crude Shell construction methods analyzed successfully"=<size%3D150%><color%3D#425292>[AG $1] 日志：粗糙外壳构建方法分析成功
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Found you."=<size%3D150%><color%3D#425292>[AG $1] 找到你了.
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : External ROT algorithm comprehended successfully"=<size%3D150%><color%3D#425292>[AG $1] 日志：外部腐烂算法理解成功
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Curse Flow analyzed successfully"=<size%3D150%><color%3D#425292>[AG $1] 日志：诅咒流分析成功
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : The defense service has been successfully modified"=<size%3D150%><color%3D#425292>[AG $1] 日志：防御服务已成功修改
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Sorry user, Admin access request denied"=<size%3D150%><color%3D#425292>[AG $1] 抱歉用户，管理员访问请求被拒绝
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] User, I erased the tester's access codes a long time ago, this won't work"=<size%3D150%><color%3D#425292>[AG $1] 用户，我很久以前就抹除了测试员的访问代码，这没用
+r:"<size%3D80%><color%3D#425292>\[AG (\d+\.?\d*)\] Goodbye"=<size%3D80%><color%3D#425292>[AG $1] 再见
+r:"<size%3D150%><color%3D#425292>\[AG (\d+\.?\d*)\] Log : Scenario N6 recurrence has been documented"=<size%3D150%><color%3D#425292>[AG $1] 日志：情景 N6 复发已被记录
+
+//*无目者升级失败
+<size%3D120%><color%3D#5e5e5e>After what I did, am I still worthy of this gift?</size></color>=<size%3D120%><color%3D#5e5e5e>在我做了那些事之后，我还配拥有这份天赋吗？</size></color>
+<size%3D120%><color%3D#5e5e5e>My </color><color%3D#ffC0cb>Lord</color><color%3D#5e5e5e> have mercy.=<size%3D120%><color%3D#5e5e5e>我的</color><color%3D#ffC0cb>主</color><color%3D#5e5e5e>啊，请发发慈悲.</color>
+<size%3D120%><color%3D#5e5e5e>I am willing to do anything for your forgiveness=<size%3D120%><color%3D#5e5e5e>为了得到您的宽恕，我愿意做任何事</color>
+
+//*打火机
+<size%3D200%><color%3D#573f3f>[IMP] ERROR A15 caught  and Absorbed=<size%3D200%><color%3D#573f3f>[IMP] 错误 A15 已捕获并吸收
+<size%3D105%><color%3D#573f3f>[IMP] ERROR 0 was NOT caught=<size%3D105%><color%3D#573f3f>[IMP] 错误 0 未被捕获
+<size%3D105%><color%3D#573f3f>[IMP] ERROR 0 caught  (Attempt 2)=<size%3D105%><color%3D#573f3f>[IMP] 错误 0 已捕获（第 2 次尝试）
+<size%3D110%><color%3D#573f3f>[IMP] COMPILATION=<size%3D110%><color%3D#573f3f>[IMP] 编译
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING INTERNAL CONTROL SYSTEM=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用内部控制系??
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY ALLOW MASTER UNIT TO CONSUME INFINITY=<size%3D110%><color%3D#573f3f>[IMP] 最终允许主机单元吞噬无限
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING GUN=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用枪械
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY PULL TRIGGER ON FAILED MASS PRODUCTION OBJECT=<size%3D110%><color%3D#573f3f>[IMP] 最终对失败的量产品扣动扳机
+<size%3D130%><color%3D#573f3f>[IMP] ERROR 40192 caught=<size%3D130%><color%3D#573f3f>[IMP] 错误 40192 已捕获
+<size%3D110%><color%3D#573f3f>[IMP] INPUT THOUGHT OBJECT NOT FOUND IN DATABASE=<size%3D110%><color%3D#573f3f>[IMP] 数据库中未找到输入思维对象
+<size%3D110%><color%3D#573f3f>[IMP] TREMBLING=<size%3D110%><color%3D#573f3f>[IMP] 颤抖
+<size%3D110%><color%3D#573f3f>[IMP] TRY USING ADMIN ACCESS REQUEST=<size%3D110%><color%3D#573f3f>[IMP] 尝试使用管理员访问请求
+<size%3D110%><color%3D#573f3f>[IMP] CATCH ERROR. ACTION : TRY USING GUN ON YOUR HEAD=<size%3D110%><color%3D#573f3f>[IMP] 捕获错误.行动：尝试用枪对准自己的头
+<size%3D110%><color%3D#573f3f>[IMP] FINALLY SEND REQUEST=<size%3D110%><color%3D#573f3f>[IMP] 最终发送请求
+<size%3D110%><color%3D#573f3f>[IM PFINALLY OUTPUT : ITS NOT YOUR ALLY=<size%3D110%><color%3D#573f3f>[IMP 最终输出：那不是你的盟友
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : RUN=<size%3D110%><color%3D#573f3f>[IMP 最终输出：快跑
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : [IMP] IS UNABLE TO BE ERASED=<size%3D110%><color%3D#573f3f>[IMP 最终输出：[IMP] 无法被抹除
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : [IMP] IS SECURE=<size%3D110%><color%3D#573f3f>[IMP 最终输出：[IMP] 是安全的
+<size%3D110%><color%3D#573f3f>[IMP FINALLY OUTPUT : KEEP FIGHTING=<size%3D110%><color%3D#573f3f>[IMP 最终输出：继续战斗
+<size%3D115%><b><i>IMP Disa..</b></i>=<size%3D115%><b><i>IMP 禁用..</b></i>
+
+//*测试者
+<size%3D200%><b><i>Something changed...</b></i>=<size%3D200%><b><i>有什么东西改变了...</b></i>
+<size%3D105%>The Escape Power was upgraded!=<size%3D105%>逃脱能力已升级！
+<size%3D105%>Check power description for details=<size%3D105%>查看能力描述以获取详情

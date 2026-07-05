@@ -1,0 +1,389 @@
+//TF_RC汉化
+Bobs Invincible Collection=Bob的无敌少侠少侠系列
+//键位
+Crush Head on Grab or Slice (HOLD)=[Bob的无敌少侠少侠]在抓取或切割时压碎头部（按住）
+
+//1*无敌少侠
+all the other viltrumites are scared of me...=其他所有的维特鲁姆人都怕我...
+//物品栏
+<b>[Bobs Invincible Collection] </b>.=<b>[Bob的无敌少侠合集] </b>.
+
+
+//物品
+<b>[Bobs Invincible Collection] auto enable punch and kick power</b>\r\nenables/disables punch and kick power for characters when you spawn them in.=<b>[Bob的无敌少侠合集] 自动启用拳脚能力</b>\r\n在生成角色时启用/禁用其拳脚能力
+
+<b>[Bobs Invincible Collection] bone healing</b>\r\nenable/disable healing of bones for stronger characters (this is useful if you dont want to accidently break a characters bones)=<b>[Bob的无敌少侠合集] 骨骼愈合</b>\r\n启用/禁用更强角色的骨骼愈合（如果你不想意外打断角色骨头，这个功能很有用）
+
+<b>[Bobs Invincible Collection] Drag To Punch</b>\r\nenable/disable having to hold someone limb to enable punch power for that limb.=<b>[Bob的无敌少侠合集] 拖拽出拳</b>\r\n启用/禁用“必须抓住他人肢体才能为该肢体启用拳击能力”的设定
+
+<b>[Bobs Invincible Collection] healing</b>\r\nenable/disable healing for characters who can regen.=<b>[Bob的无敌少侠合集] 治疗</b>\r\n启用/禁用可再生角色的治疗
+
+<b>[Bobs Invincible Collection] invincible character maker</b>\r\ncreate your own characters with this tool!=<b>[Bob的无敌少侠合集] 无敌少侠角色制造器</b>\r\n使用此工具创建你自己的角色！
+
+<b>[Bobs Invincible Collection] Invincible Collection power multiplier</b>\r\nchanges stats of everyone in the mod :)=<b>[Bob的无敌少侠合集] 无敌少侠合集力量倍率</b>\r\n更改模组中所有角色的属性 :)
+
+<b>[Bobs Invincible Collection] Metal Bar</b>\r\nrexplode uses them, they deal more damage.=<b>[Bob的无敌少侠合集] 金属棒</b>\r\nrexplode 会使用它们，造成更高伤害
+
+<b>[Bobs Invincible Collection] Metal Disc</b>\r\nrexplode uses them, they deal more damage.=<b>[Bob的无敌少侠合集] 金属圆盘</b>\r\nrexplode 会使用它们，造成更高伤害
+
+<b>[Bobs Invincible Collection] Noise Maker</b>\r\nBEEP BEEP. makes viltrumites go crazyyyy.=<b>[Bob的无敌少侠合集] 噪音发生器</b>\r\n哔哔. 让维特鲁姆人彻底发疯
+
+<b>[Bobs Invincible Collection] punch and kicks crushing and slicing</b>\r\nenables/disables the ability for punches and kicks to slice and dismember weak foes. BTW THE CHARACTER HAS TO BE DECENTLY STRONG TO EVEN DISMEMBER/CRUSH PPL.=<b>[Bob的无敌少侠合集] 拳脚碾压与切割</b>\r\n启用/禁用拳脚切割和肢解弱小敌人的能力. 顺便说一句，角色必须有足够强的实力才能肢解/碾压他人
+
+<b>[Bobs Invincible Collection] Viltrumite Pills</b>\r\npills that you are meant to eat.=<b>[Bob的无敌少侠合集] 维特鲁姆药丸</b>\r\n你应该吃的药丸
+
+
+
+
+//人物
+<b>[Bobs Invincible Collection] Titan</b>\r\nrock paper scissors.=<b>[Bob的无敌少侠合集] 泰坦</b>\r\n石头剪刀布.
+
+<b>[Bobs Invincible Collection] Mauler Twin</b>\r\noh boy, I sure hope I dont die!=<b>[Bob的无敌少侠合集] 双胞胎破坏者</b>\r\n哦天哪，我希望我不会死！
+
+<b>[Bobs Invincible Collection] Multipaul</b>\r\nbetter than duplikate.=<b>[Bob的无敌少侠合集] 多重保罗</b>\r\n比复制女强.
+
+<b>[Bobs Invincible Collection] Pre Revenge Powerplex</b>\r\ninvincible? who is that guy? I sure hope he dont kill anyone I love.=<b>[Bob的无敌少侠合集] 复仇前能量狂</b>\r\n无敌少侠？那家伙是谁？我希望他不会杀我爱的人.
+
+<b>[Bobs Invincible Collection] Powerplex</b>\r\nITS ALL HIS FAULT!=<b>[Bob的无敌少侠合集] 能量狂</b>\r\n都是他的错！
+
+<b>[Bobs Invincible Collection] Gripper Invincible</b>\r\nSO TRASH. GET GOOD + SKILL ISSUE... mb, just this guys so bad. which is why he is THE WEAKEST VARIANT.=<b>[Bob的无敌少侠合集] 抓取无敌少侠</b>\r\n太垃圾了。练练技术吧，技术问题……抱歉，这家伙太菜了，所以他是最弱的版本.
+
+<b>[Bobs Invincible Collection] Light Blue Invincible</b>\r\nrandom ah variant.=<b>[Bob的无敌少侠合集] 淡蓝无敌少侠</b>\r\n随机变体.
+
+<b>[Bobs Invincible Collection] Light Blue Invincible Reaniman</b>\r\nrandom ah variant.=<b>[Bob的无敌少侠合集] 淡蓝无敌少侠 再生人</b>\r\n随机变体.
+
+<b>[Bobs Invincible Collection] Bulletproof Invincible</b>\r\nbro was dumb to keep the design.=<b>[Bob的无敌少侠合集] 防弹无敌少侠</b>\r\nbro保留这个设计真是蠢.
+
+<b>[Bobs Invincible Collection] Cowl Invincible</b>\r\nbaldy.=<b>[Bob的无敌少侠合集] 兜帽无敌少侠</b>\r\n秃头.
+
+<b>[Bobs Invincible Collection] Cowl Invincible Reaniman</b>\r\nbaldy.=<b>[Bob的无敌少侠合集] 兜帽无敌少侠 再生人</b>\r\n秃头.
+
+<b>[Bobs Invincible Collection] Long Hair Invincible</b>\r\nbro loves hairspray (some say he actually eats it at midnight so that nobody notices his secret addiction of eating hairspray) but who knows, I could just be yapping.=<b>[Bob的无敌少侠合集] 长发无敌少侠</b>\r\nbro喜欢发胶（有人说他会在午夜偷偷吃掉发胶，这样没人会发现他对发胶的秘密癖好），但谁知道呢，也许我只是在胡扯.
+
+<b>[Bobs Invincible Collection] Mustache Invincible</b>\r\nare you sure.=<b>[Bob的无敌少侠合集] 胡子无敌少侠</b>\r\n你确定吗.
+
+<b>[Bobs Invincible Collection] Lensless Invincible</b>\r\nso childish.=<b>[Bob的无敌少侠合集] 无透镜无敌少侠</b>\r\n太幼稚了.
+
+<b>[Bobs Invincible Collection] Mustache Invincible Reaniman</b>\r\nare you sure.=<b>[Bob的无敌少侠合集] 胡子无敌少侠 再生人</b>\r\n你确定吗.
+
+<b>[Bobs Invincible Collection] Lensless Invincible Reaniman</b>\r\nso childish.=<b>[Bob的无敌少侠合集] 无透镜无敌少侠 再生人</b>\r\n太幼稚了.
+
+<b>[Bobs Invincible Collection] No Mask Invincible</b>\r\nfreaky.=<b>[Bob的无敌少侠合集] 无面具无敌少侠</b>\r\n怪异.
+
+<b>[Bobs Invincible Collection] Retro Invincible</b>\r\nhis rex wasnt smarter than main marks rex...=<b>[Bob的无敌少侠合集] 复古无敌少侠</b>\r\n他的雷克斯并不比主世界的雷克斯聪明...
+
+<b>[Bobs Invincible Collection] No Mask Invincible Reaniman</b>\r\nfreaky.=<b>[Bob的无敌少侠合集] 无面具无敌少侠 再生人</b>\r\n怪异.
+
+<b>[Bobs Invincible Collection] Kneepad Invincible</b>\r\nlike the main character but with kneepads and stuff.=<b>[Bob的无敌少侠合集] 护膝无敌少侠</b>\r\n像主角，但有护膝之类的.
+
+<b>[Bobs Invincible Collection] Shiesty Invincible</b>\r\nerm what the sigma g.=<b>[Bob的无敌少侠合集] 遮面无敌少侠</b>\r\n嗯，这是什么西格玛啊.
+
+<b>[Bobs Invincible Collection] Shiesty Invincible Reaniman</b>\r\nerm what the sigma g.=<b>[Bob的无敌少侠合集] 遮面无敌少侠 再生人</b>\r\n嗯，这是什么西格玛啊.
+
+<b>[Bobs Invincible Collection] Masked Invincible</b>\r\nbro misses his mom.=<b>[Bob的无敌少侠合集] 蒙面无敌少侠</b>\r\nbro又在想他的妈妈了.
+
+<b>[Bobs Invincible Collection] Stripe Invincible</b>\r\nI WOULDNT EVEN KEEP YOU AS A SLAVE IN MY EMPIRE!!!=<b>[Bob的无敌少侠合集] 条纹无敌少侠</b>\r\n我甚至不会在我的帝国里把你当成奴隶!!!
+
+<b>[Bobs Invincible Collection] Stripe Invincible Reaniman</b>\r\nI WOULDNT EVEN KEEP YOU AS A SLAVE IN MY EMPIRE!!!=<b>[Bob的无敌少侠合集] 条纹无敌少侠 再生人</b>\r\n我甚至不会在我的帝国里把你当成奴隶!!!
+
+<b>[Bobs Invincible Collection] Omni Invincible</b>\r\nswearing isnt cool.=<b>[Bob的无敌少侠合集] 全能无敌少侠</b>\r\n说脏话不酷.
+
+<b>[Bobs Invincible Collection] Prisoner Invincible</b>\r\nbro dropped the soap.=<b>[Bob的无敌少侠合集] 囚犯无敌少侠</b>\r\nbro肥皂掉了.
+
+<b>[Bobs Invincible Collection] Omni Invincible Reaniman</b>\r\nswearing isnt cool.=<b>[Bob的无敌少侠合集] 全能无敌少侠 再生人</b>\r\n说脏话不酷.
+
+<b>[Bobs Invincible Collection] Prisoner Invincible Reaniman</b>\r\nbro dropped the soap.=<b>[Bob的无敌少侠合集] 囚犯无敌少侠 再生人</b>\r\nbro肥皂掉了.
+
+<b>[Bobs Invincible Collection] Viltrumite Invincible</b>\r\nnah id viltrumite f.=<b>[Bob的无敌少侠合集] 维特鲁姆无敌少侠</b>\r\n不，我是维特鲁姆人.
+
+<b>[Bobs Invincible Collection] Viltrumite Invincible Reaniman</b>\r\nnah id viltrumite f.=<b>[Bob的无敌少侠合集] 维特鲁姆无敌少侠 再生人</b>\r\n不，我是维特鲁姆人.
+
+<b>[Bobs Invincible Collection] Mohawk Invincible</b>\r\nthe smartest variant.=<b>[Bob的无敌少侠合集] 莫西干无敌少侠</b>\r\n最聪明的版本.
+
+<b>[Bobs Invincible Collection] Sinister Invincible</b>\r\noh angstrom.=<b>[Bob的无敌少侠合集] 极恶无敌少侠</b>\r\n哦，安斯特罗姆.
+
+<b>[Bobs Invincible Collection] Sinister Invincible Reaniman</b>\r\noh angstrom.=<b>[Bob的无敌少侠合集] 邪恶无敌少侠 再生人</b>\r\n哦，安斯特罗姆.
+
+<b>[Bobs Invincible Collection] Mohawk Invincible Hurt</b>\r\nthe smartest variant, now starved.=<b>[Bob的无敌少侠合集] 受伤的莫西干无敌少侠</b>\r\n最聪明的版本，现在却挨饿了.
+
+<b>[Bobs Invincible Collection] Cannibal Sinister Invincible</b>\r\nNOM NOM NOM.=<b>[Bob的无敌少侠合集] 食人邪恶无敌少侠</b>\r\n嗷呜嗷呜嗷呜.
+
+<b>[Bobs Invincible Collection] Conquest</b>\r\nall of the other viltrumites are scared of me...=<b>[Bob的无敌少侠合集] 征服</b>\r\n其他维特鲁姆人都怕我...
+
+<b>[Bobs Invincible Collection] Randomised Viltrumite</b>\r\nthey are all the same like strength ig. but uh look different.=<b>[Bob的无敌少侠合集] 随机维特鲁姆人</b>\r\n他们实力都差不多，但外观不同.
+
+<b>[Bobs Invincible Collection] Onaan</b>\r\nbaldy.=<b>[Bob的无敌少侠合集] 奥南</b>\r\n秃头.
+
+<b>[Bobs Invincible Collection] Ursaal</b>\r\ngyat.=<b>[Bob的无敌少侠合集] 乌尔萨尔</b>\r\n哇.
+
+<b>[Bobs Invincible Collection] Thragg</b>\r\nthe strongest.=<b>[Bob的无敌少侠合集] 斯拉格</b>\r\n最强的.
+
+<b>[Bobs Invincible Collection] Anissa</b>\r\nweaker than omni man but faster (has barrage power)=<b>[Bob的无敌少侠合集] 安妮莎</b>\r\n比全能人弱但更快（有弹幕能力）
+
+<b>[Bobs Invincible Collection] Kregg</b>\r\nthe general ig.=<b>[Bob的无敌少侠合集] 克雷格</b>\r\n大概是将军吧.
+
+<b>[Bobs Invincible Collection] Vidor</b>\r\nhe could still be alive, trust.=<b>[Bob的无敌少侠合集] 维多尔</b>\r\n他可能还活着，相信我.
+
+<b>[Bobs Invincible Collection] Lucan</b>\r\ngot the drip in the comics.=<b>[Bob的无敌少侠合集] 卢坎</b>\r\n在漫画里很有派头.
+
+<b>[Bobs Invincible Collection] Young Omni Man</b>\r\nAm I sure?=<b>[Bob的无敌少侠合集] 年轻全能人</b>\r\n我确定吗？
+
+<b>[Bobs Invincible Collection] Reanimen V1</b>\r\nbeep boop cyborg thing idk.=<b>[Bob的无敌少侠合集] 再生人 V1</b>\r\n哔哔，机器人什么的，我不确定.
+
+<b>[Bobs Invincible Collection] Reanimen V2</b>\r\nNOW THATS A LOT OF DAMAGE.=<b>[Bob的无敌少侠合集] 再生人 V2</b>\r\n那真是很大的伤害.
+
+<b>[Bobs Invincible Collection] GDA Soldier</b>\r\nactual fodder.=<b>[Bob的无敌少侠合集] GDA 士兵</b>\r\n真正的炮灰.
+
+<b>[Bobs Invincible Collection] Donald Ferguson</b>\r\nwhat is it sir?=<b>[Bob的无敌少侠合集] 唐纳德·弗格森</b>\r\n什么事，先生？.
+
+<b>[Bobs Invincible Collection] Cecil Stedman</b>\r\nWe are still on the same side, we are still trying to save lives and we are still the good guys.=<b>[Bob的无敌少侠合集] 塞西尔·斯特德曼</b>\r\n我们仍然站在同一战线，我们仍然在努力拯救生命，我们仍然站在正义的一方.
+
+<b>[Bobs Invincible Collection] Tech Jacket</b>\r\nWIP.=<b>[Bob的无敌少侠合集] 科技夹克</b>\r\n制作中.
+
+<b>[Bobs Invincible Collection] Allen The Alien</b>\r\nidk what to put here lol.=<b>[Bob的无敌少侠合集] 外星人艾伦</b>\r\n不知道写什么，哈哈.
+
+<b>[Bobs Invincible Collection] Allen The Alien Awakened</b>\r\ncan punch a viltrumite and make them feel the hurty hurty of his punch.=<b>[Bob的无敌少侠合集] 觉醒的外星人艾伦</b>\r\n可以一拳揍得维特鲁姆人感到疼痛.
+
+<b>[Bobs Invincible Collection] Allen The Alien Final Awakening</b>\r\nthe 2nd strongest guy in the mod currently (may forget to update this description as I add stronger ppl lol)=<b>[Bob的无敌少侠合集] 最终觉醒的外星人艾伦</b>\r\n目前是模组中第二强的人（当我添加更强角色时可能会忘记更新描述，哈哈）.
+
+<b>[Bobs Invincible Collection] Business Baby</b>\r\num what the sigma.=<b>[Bob的无敌少侠合集] 商业宝贝</b>\r\n嗯，这是什么西格玛.
+
+<b>[Bobs Invincible Collection] Atom Eve</b>\r\ncan create stuff ig.=<b>[Bob的无敌少侠合集] 原子夏娃</b>\r\n可以创造东西吧.
+
+<b>[Bobs Invincible Collection] Shrinking Rae</b>\r\ncan shrink ig.=<b>[Bob的无敌少侠合集] 收缩蕾</b>\r\n可以缩小吧.
+
+<b>[Bobs Invincible Collection] Duplikate</b>\r\ninvincibles useless miwa.=<b>[Bob的无敌少侠合集] 复制女</b>\r\n无敌少侠的废材米娃.
+
+<b>[Bobs Invincible Collection] Rexplode</b>\r\nmy skeleton ah.=<b>[Bob的无敌少侠合集] 雷克斯爆裂</b>\r\n我的骨架啊.
+
+<b>[Bobs Invincible Collection] Bulletproof</b>\r\nhes strong but never tries ig.=<b>[Bob的无敌少侠合集] 防弹</b>\r\n他很强大，但从不认真尝试.
+
+<b>[Bobs Invincible Collection] Green Ghost</b>\r\nI sure do hope my power can stop a fist going through my face!=<b>[Bob的无敌少侠合集] 绿幽灵</b>\r\n我当然希望我的能力能阻止一只拳头穿过我的脸！
+
+<b>[Bobs Invincible Collection] Immortal</b>\r\nWhere is he! Where is omni man! Where is he! Omni man! You bastard! Murderer! We trusted you! You betrayed us!=<b>[Bob的无敌少侠合集] 不朽者</b>\r\n他在哪里！全能人在哪里！他在哪里！全能人！你这个混蛋！刽子手！我们信任你！你背叛了我们！
+
+<b>[Bobs Invincible Collection] Omni Man</b>\r\nAre you sure?=<b>[Bob的无敌少侠合集] 全能人</b>\r\n你确定吗？.
+
+<b>[Bobs Invincible Collection] Emperor Omni Man</b>\r\nI am sure.=<b>[Bob的无敌少侠合集] 皇帝全能人</b>\r\n我确定.
+
+<b>[Bobs Invincible Collection] Invincible</b>\r\nill still have you ah.=<b>[Bob的无敌少侠合集] 无敌少侠小子</b>\r\n我还是会抓住你的.
+
+<b>[Bobs Invincible Collection] Invincible Blue Suit</b>\r\nI can see the future ah.=<b>[Bob的无敌少侠合集] 蓝衣无敌少侠</b>\r\n我能看到未来.
+
+<b>[Bobs Invincible Collection] Invincible Viltrumite War</b>\r\nruh roh viltrumite war is not good.=<b>[Bob的无敌少侠合集] 维特鲁姆战争无敌少侠</b>\r\n哎呀，维特鲁姆战争可不是好事.
+
+<b>[Bobs Invincible Collection] Invincible The End of All Things</b>\r\nDIEEEEEEE ah character.=<b>[Bob的无敌少侠合集] 万物终结无敌少侠</b>\r\n死死死死死死啊角色.
+
+<b>[Bobs Invincible Collection] Emperor Invincible</b>\r\nback in my day!=<b>[Bob的无敌少侠合集] 皇帝无敌少侠</b>\r\n在我那个年代！
+
+<b>[Bobs Invincible Collection] Oliver</b>\r\nwe can take him on ah.=<b>[Bob的无敌少侠合集] 奥利弗</b>\r\n我们可以对付他.
+
+<b>[Bobs Invincible Collection] Teen Oliver</b>\r\nwe cant take him on ah.=<b>[Bob的无敌少侠合集] 少年奥利弗</b>\r\n我们对付不了他.
+
+<b>[Bobs Invincible Collection] Debbie</b>\r\nerm, idk what to put here sob.=<b>[Bob的无敌少侠合集] 黛比</b>\r\n嗯，不知道写什么，呜呜.
+
+<b>[Bobs Invincible Collection] Conquestvincible</b>\r\nall of the other variants are scared of me... is it because I ate one of them and stole their identity? nono, it mustnt be.=<b>[Bob的无敌少侠合集] 征服无敌少侠</b>\r\n其他变体都怕我... 是因为我吃掉了一个并窃取了他们的身份吗？不，肯定不是.
+
+<b>[Bobs Invincible Collection] GDA Invincible</b>\r\nvery op.=<b>[Bob的无敌少侠合集] GDA 无敌少侠</b>\r\n非常强.
+
+<b>[Bobs Invincible Collection] Bobvincible</b>\r\nI take what I want, Your planet is no exception.=<b>[Bob的无敌少侠合集] 鲍勃无敌少侠</b>\r\n我拿走我想要的东西，你的星球也不例外.
+
+<b>[Bobs Invincible Collection] Whatsapp Invincible</b>\r\ngreen, greeeeeen.... GREEEEEEEEEEEN.=<b>[Bob的无敌少侠合集] 绿色无敌少侠</b>\r\n绿色，绿绿绿绿.... 绿绿绿绿绿.
+
+<b>[Bobs Invincible Collection] Bradsvincible</b>\r\nYIPEE, weeeee. flying sounds!=<b>[Bob的无敌少侠合集] 布拉德无敌少侠</b>\r\n耶，呜呼。飞翔的声音！
+
+<b>[Bobs Invincible Collection] Glitchvincible</b>\r\noooo looking cool.=<b>[Bob的无敌少侠合集] 故障无敌少侠</b>\r\n噢，看起来很酷.
+
+<b>[Bobs Invincible Collection] Jettvincible</b>\r\nmade a really cool god of war mod.=<b>[Bob的无敌少侠合集] 杰特无敌少侠</b>\r\n制作了一个非常酷的战神模组.
+
+<b>[Bobs Invincible Collection] Pressedvincible</b>\r\nreally goated cat.=<b>[Bob的无敌少侠合集] 按压无敌少侠</b>\r\n真的很棒的猫.
+
+<b>[Bobs Invincible Collection] Crossvincible</b>\r\nchill guy.=<b>[Bob的无敌少侠合集] 十字无敌少侠</b>\r\n冷静的家伙.
+
+<b>[Bobs Invincible Collection] Vayvincible</b>\r\nbro aura farming.=<b>[Bob的无敌少侠合集] 维伊无敌少侠</b>\r\nbro在刷气场.
+
+<b>[Bobs Invincible Collection] Zombie Invincible</b>\r\nNOM NOM NOM.=<b>[Bob的无敌少侠合集] 僵尸无敌少侠</b>\r\n嗷呜嗷呜嗷呜.
+
+<b>[Bobs Invincible Collection] PPG invincible</b>\r\nshowing off the invincible character maker.=<b>[Bob的无敌少侠合集] PPG 无敌少侠</b>\r\n展示无敌少侠角色制作器.
+
+//无敌少侠角色制造器
+What would you like to do?=你想做什么？
+Make a New Character=创建新角色
+Custom Character Folder=自定义角色文件夹
+Characters Name=角色名称
+
+
+//右键菜单
+Enables Punch=启用拳击
+Disables Punch=禁用拳击
+Enables Kick=启用踢击
+Disables Kick=禁用踢击
+Force Awake=强制唤醒
+Force Sleep=强制休眠
+Enables Rage=启用狂怒
+Disables Rage=禁用狂怒
+
+
+//人物-没啥好说的,暂时不做
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//2*咒术回战_Bobs Jujutsu Kaisen
+<noparse>Bobs Jujutsu Kaisen</noparse>=<noparse>Bob的咒术回战</noparse>
+gojo is cool!=五条好帅！
+<size%3D1.5em>Bobs Jujutsu Kaisen</size>\ngojo is cool!\n<noparse>A mod by bob1245 for game version 1.8.1+</noparse>=<size%3D1.5em>Bob的咒术回战</size>\n五条好帅！\n<noparse>由 bob1245 制作的模组，适用于游戏版本 1.8.1+</noparse>
+
+
+//物品
+<b>[Bobs Jujutsu Kaisen] <color%3Dorange>jogo rock</b>\r\nthis rock contains jogos powers.=<b>[Bob的咒术回战] <color%3Dorange>漏瑚之石</b>\r\n这块石头蕴含了漏瑚的力量。
+<b>[Bobs Jujutsu Kaisen] <color%3Dred>choso blood orb</b>\r\nthis orb contains chosos powers.=<b>[Bob的咒术回战] <color%3Dred>胀相血球</b>\r\n这颗球蕴含了胀相的力量。
+<b>[Bobs Jujutsu Kaisen] blobkuna</b>\r\nHAH... HAAH...=<b>[Bob的咒术回战] 一坨宿傩</b>\r\n哈……哈……
+<b>[Bobs Jujutsu Kaisen] cursed energy giver</b>\r\ngive ppls ce ig.=<b>[Bob的咒术回战] 咒力赋予器</b>\r\n给人咒力，大概吧。
+<b>[Bobs Jujutsu Kaisen] cursed energy system on/off</b>\r\nself explanitory.=<b>[Bob的咒术回战] 咒力系统 开/关</b>\r\n不言自明。
+<b>[Bobs Jujutsu Kaisen] cursed speech power giver</b>\r\nbiggest yapper.=<b>[Bob的咒术回战] 咒言能力赋予器</b>\r\n最强话痨。
+<b>[Bobs Jujutsu Kaisen] durability giver</b>\r\nmake someone big and stwong.=<b>[Bob的咒术回战] 耐久度赋予器</b>\r\n让某人变得又大又壮。
+<b>[Bobs Jujutsu Kaisen] gojo blindfold</b>\r\nthis blindfold contains the limitless technique :)=<b>[Bob的咒术回战] 五条眼罩</b>\r\n这个眼罩蕴含着无下限术式 :)
+<b>[Bobs Jujutsu Kaisen] hakari music options</b>\r\ncan change the music : D.=<b>[Bob的咒术回战] 秤的音乐选项</b>\r\n可以更改音乐 : D。
+<b>[Bobs Jujutsu Kaisen] hakari token</b>\r\nthis token contains hakari's powers, because you always bet on hakari! =<b>[Bob的咒术回战] 秤的币</b>\r\n这枚币蕴含了秤的力量，因为你永远可以相信秤！
+<b>[Bobs Jujutsu Kaisen] heavenly restriction giver</b>\r\nthis eye contains some cool lightning powers! =<b>[Bob的咒术回战] 天与咒缚赋予器</b>\r\n这只眼睛蕴含了很酷的雷电力量！
+<b>[Bobs Jujutsu Kaisen] human sword</b>\r\nAHHH I HAVE A FAMILY, PLS DONT TURN ME INTO A SWOR-.=<b>[Bob的咒术回战] 人类之剑</b>\r\n啊啊啊我有家人，求求别把我变成剑——
+<b>[Bobs Jujutsu Kaisen] Inverted Spear of Heaven</b>\r\nslices people :) =<b>[Bob的咒术回战] 天逆鉾</b>\r\n砍人 :)
+<b>[Bobs Jujutsu Kaisen] jjk black flash chance multiplier</b>\r\nhigher number %3D higher chance. =<b>[Bob的咒术回战] 咒术回战黑闪概率倍率</b>\r\n数字越高 %3D 概率越高。
+<b>[Bobs Jujutsu Kaisen] jjk power multiplier</b>\r\nchanges stats of everyone in the mod :) =<b>[Bob的咒术回战] 咒术回战力量倍率</b>\r\n改变模组内所有人的属性 :)
+<b>[Bobs Jujutsu Kaisen] kashimo lightning</b>\r\nthis eye contains some cool lightning powers! =<b>[Bob的咒术回战] 鹿紫云雷电</b>\r\n这只眼睛蕴含了很酷的雷电力量！
+<b>[Bobs Jujutsu Kaisen] kashimo staff</b>\r\nbzzz bzzzz (meant to be uh electricity sound ig, I know its bad ;-; WAAAAAAAAAAAAaaaaaaaaaaaaa............) =<b>[Bob的咒术回战] 鹿紫云法杖</b>\r\n嗡嗡嗡嗡（大概是电流声吧，我知道很烂 ;-; 哇啊啊啊啊啊啊啊啊啊啊啊............）
+<b>[Bobs Jujutsu Kaisen] kento blade</b>\r\nslices people :) =<b>[Bob的咒术回战] 七海之刃</b>\r\n砍人 :)
+<b>[Bobs Jujutsu Kaisen] mahito arm</b>\r\nthis arm contains mahitos powers! =<b>[Bob的咒术回战] 真人手臂</b>\r\n这只手臂蕴含了真人的力量！
+<b>[Bobs Jujutsu Kaisen] mahito green hammer</b>\r\nwack slam! =<b>[Bob的咒术回战] 真人绿锤</b>\r\n猛击！重砸！
+<b>[Bobs Jujutsu Kaisen] mahito purple hammer</b>\r\nwack slam! =<b>[Bob的咒术回战] 真人紫锤</b>\r\n猛击！重砸！
+<b>[Bobs Jujutsu Kaisen] megumi sword</b>\r\nHELP, HELP ME SWORD, HELP MEEEEEEE. =<b>[Bob的咒术回战] 惠之刀</b>\r\n救命，救救我刀，救救我——
+<b>[Bobs Jujutsu Kaisen] mini mechamaru</b>\r\nGoodbye. =<b>[Bob的咒术回战] 小机械丸</b>\r\n再见。
+<b>[Bobs Jujutsu Kaisen] nobara hammer</b>\r\nwabang! smash! =<b>[Bob的咒术回战] 野蔷薇锤</b>\r\n邦！砸！
+<b>[Bobs Jujutsu Kaisen] projection sorcery test extra cool XD</b>\r\nthis arm contains mahitos powers! =<b>[Bob的咒术回战] 投影术式测试额外酷炫 XD</b>\r\n这只手臂蕴含了真人的力量！
+<b>[Bobs Jujutsu Kaisen] rubber mallet</b>\r\nwack slam! =<b>[Bob的咒术回战] 橡胶槌</b>\r\n猛击！重砸！
+<b>[Bobs Jujutsu Kaisen] six eyes</b>\r\nthis eye reduces any energy costs by 80% !!! =<b>[Bob的咒术回战] 六眼</b>\r\n这只眼睛降低任何能量消耗 80% ！！！
+<b>[Bobs Jujutsu Kaisen] slaughter demon</b>\r\nslices people :) =<b>[Bob的咒术回战] 屠魔</b>\r\n砍人 :)
+<b>[Bobs Jujutsu Kaisen] spear staff</b>\r\nslices people :) =<b>[Bob的咒术回战] 矛杖</b>\r\n砍人 :)
+<b>[Bobs Jujutsu Kaisen] Split Soul Katana</b>\r\nslices people :) =<b>[Bob的咒术回战] 灵魂分裂刀</b>\r\n砍人 :)
+<b>[Bobs Jujutsu Kaisen] sukuna finger</b>\r\noh a finger! =<b>[Bob的咒术回战] 宿傩手指</b>\r\n哦，一根手指！
+<b>[Bobs Jujutsu Kaisen] tenshadows user giver</b>\r\nsummons stuff ig. =<b>[Bob的咒术回战] 十影术式赋予器</b>\r\n召唤东西，大概吧。
+<b>[Bobs Jujutsu Kaisen] todo power giver</b>\r\nBLACK FLASH! =<b>[Bob的咒术回战] 东堂能力赋予器</b>\r\n黑闪！
+<b>[Bobs Jujutsu Kaisen] toji worm give test object</b>\r\njust a test lol. =<b>[Bob的咒术回战] 甚尔虫给予测试物体</b>\r\n只是个测试啦。
+<b>[Bobs Jujutsu Kaisen] trishula</b>\r\nslices people :) =<b>[Bob的咒术回战] 三叉戟</b>\r\n砍人 :)
+<b>[Bobs Jujutsu Kaisen] vajra</b>\r\nslices people :) =<b>[Bob的咒术回战] 金刚杵</b>\r\n砍人 :)
+<b>[Bobs Jujutsu Kaisen] yuki power giver</b>\r\nyuki is uh strong and stuff. =<b>[Bob的咒术回战] 由基能力赋予器</b>\r\n由基嘛，很强什么的。
+<b>[Bobs Jujutsu Kaisen] yuta Katana</b>\r\nslices people :) =<b>[Bob的咒术回战] 乙太之刀</b>\r\n砍人 :)
+
+
+//人物
+<b>[Bobs Jujutsu Kaisen] meguna (WIP)</b>\r\nLet's start by peeling off those scales.=<b>[Bob的咒术回战] 宿傩（虎杖）(WIP)</b>\r\n让我们先从剥掉那些鳞片开始吧。
+<b>[Bobs Jujutsu Kaisen] finger bearer</b>\r\nugly looking curse.=<b>[Bob的咒术回战] 手指持有者</b>\r\n长相丑陋的咒灵。
+<b>[Bobs Jujutsu Kaisen] toji</b>\r\nI killed him.=<b>[Bob的咒术回战] 甚尔</b>\r\n我杀了他。
+<b>[Bobs Jujutsu Kaisen] curse</b>\r\nspawns in with random stuff.=<b>[Bob的咒术回战] 咒灵</b>\r\n带着随机东西生成。
+<b>[Bobs Jujutsu Kaisen] polymorphic soul isomer</b>\r\nstrong punches but not that durable.=<b>[Bob的咒术回战] 多态灵魂异构体</b>\r\n出拳很重但没那么耐揍。
+<b>[Bobs Jujutsu Kaisen] heian sukuna</b>\r\nLove is worthless let me assure you...=<b>[Bob的咒术回战] 平安宿傩</b>\r\n爱毫无价值，让我向你保证……
+<b>[Bobs Jujutsu Kaisen] instant spirit body of distorted killing</b>\r\nIts a happy birthday, Yuji Itadori.=<b>[Bob的咒术回战] 畸变杀戮的即身佛</b>\r\n生日快乐，虎杖悠仁。
+<b>[Bobs Jujutsu Kaisen] <color%3Dorange>jogo</b>\r\nbut to this extent!=<b>[Bob的咒术回战] <color%3Dorange>漏瑚</b>\r\n竟然到这种地步！
+<b>[Bobs Jujutsu Kaisen] hanami</b>\r\nSo I'm left with...=<b>[Bob的咒术回战] 花御</b>\r\n所以我只剩下……
+<b>[Bobs Jujutsu Kaisen] Mahito</b>\r\nThe essence of my soul...=<b>[Bob的咒术回战] 真人</b>\r\n我灵魂的本质……
+<b>[Bobs Jujutsu Kaisen] choso</b>\r\nDon't die, okay?=<b>[Bob的咒术回战] 胀相</b>\r\n别死，好吗？
+<b>[Bobs Jujutsu Kaisen] <color%3Dred>dagon</b>\r\nMy name is not cursed spirit.=<b>[Bob的咒术回战] <color%3Dred>陀艮</b>\r\n我的名字不是咒灵。
+<b>[Bobs Jujutsu Kaisen] satoru gojo post prison realm</b>\r\nNah, id win.=<b>[Bob的咒术回战] 狱门疆后五条悟</b>\r\n会赢的。
+<b>[Bobs Jujutsu Kaisen] satoru gojo</b>\r\nYou're weak!=<b>[Bob的咒术回战] 五条悟</b>\r\n你很弱！
+<b>[Bobs Jujutsu Kaisen] jujutsu high school satoru gojo</b>\r\nYOU'RE SO RIGHT!!=<b>[Bob的咒术回战] 高专五条悟</b>\r\n你说得太对了！！
+<b>[Bobs Jujutsu Kaisen] yuji</b>\r\nWhat do you think you're doing with my body? Give it back.=<b>[Bob的咒术回战] 虎杖悠仁</b>\r\n你对我的身体做什么？还回来。
+<b>[Bobs Jujutsu Kaisen] yuji jujutsu</b>\r\nI Don't Know How I Will Feel If I Am Dead, But I Don't Want To Regret How I Lived.=<b>[Bob的咒术回战] 虎杖悠仁（咒术高专）</b>\r\n我不知道死后会有什么感觉，但我不想后悔自己活过的方式。
+<b>[Bobs Jujutsu Kaisen] yuji shibuya arc</b>\r\nI Will Accept It, Mahito. I Am You. I Wanted To Reject You. I Wanted To Pretend I Didn't Understand What You Said.=<b>[Bob的咒术回战] 虎杖悠仁（涩谷篇）</b>\r\n我会接受的，真人。我就是你。我曾想拒绝你。我曾想假装不明白你在说什么。
+<b>[Bobs Jujutsu Kaisen] yuji culling games arc</b>\r\nI'm- LISTEN!!=<b>[Bob的咒术回战] 虎杖悠仁（死灭回游篇）</b>\r\n我——听好了！！
+<b>[Bobs Jujutsu Kaisen] yuji shinjuku arc</b>\r\nTo kill him, I'll eat anything.=<b>[Bob的咒术回战] 虎杖悠仁（新宿篇）</b>\r\n为了杀他，我什么都吃。
+<b>[Bobs Jujutsu Kaisen] kashimo</b>\r\nBECAUSE THIS IS A FUNERAL FOR THE LIVING!!=<b>[Bob的咒术回战] 鹿紫云</b>\r\n因为这是为活人举办的葬礼！！
+<b>[Bobs Jujutsu Kaisen] megumi (WIP)</b>\r\nMy future ambitions? I never really thought about it. But if I had to say... I'd like to save people, unequally.=<b>[Bob的咒术回战] 伏黑惠 (WIP)</b>\r\n我未来的抱负？我从未真正想过。但如果非要说……我想不平等地拯救他人。
+<b>[Bobs Jujutsu Kaisen] young yuta</b>\r\nRIKA!!=<b>[Bob的咒术回战] 年幼的乙骨</b>\r\n里香！！
+<b>[Bobs Jujutsu Kaisen] yuta</b>\r\nRIKA!!=<b>[Bob的咒术回战] 乙骨</b>\r\n里香！！
+<b>[Bobs Jujutsu Kaisen] naobito</b>\r\nNOT EEEVEN ONE SSSIP! HAHH!=<b>[Bob的咒术回战] 直毘人</b>\r\n连一口都没喝！哈！
+<b>[Bobs Jujutsu Kaisen] naoya</b>\r\nLong time no see.=<b>[Bob的咒术回战] 直哉</b>\r\n好久不见。
+<b>[Bobs Jujutsu Kaisen] maki</b>\r\nI've got something even better.=<b>[Bob的咒术回战] 真希</b>\r\n我有更好的东西。
+<b>[Bobs Jujutsu Kaisen] <color%3Dorange>burnt maki</b>\r\nLet's get started.=<b>[Bob的咒术回战] <color%3Dorange>灼烧真希</b>\r\n开始吧。
+<b>[Bobs Jujutsu Kaisen] nobara</b>\r\nRESONANCE.=<b>[Bob的咒术回战] 野蔷薇</b>\r\n共鸣。
+<b>[Bobs Jujutsu Kaisen] nobara shinjuku arc</b>\r\nRESONANCE.=<b>[Bob的咒术回战] 野蔷薇（新宿篇）</b>\r\n共鸣。
+<b>[Bobs Jujutsu Kaisen] geto</b>\r\nNot bad...=<b>[Bob的咒术回战] 夏油</b>\r\n不错嘛……
+<b>[Bobs Jujutsu Kaisen] toge inumaki</b>\r\nDie.=<b>[Bob的咒术回战] 狗卷</b>\r\n去死。
+<b>[Bobs Jujutsu Kaisen] todo</b>\r\nWe are the exception!=<b>[Bob的咒术回战] 东堂</b>\r\n我们是例外！
+<b>[Bobs Jujutsu Kaisen] nanami</b>\r\nYou've got it from here.=<b>[Bob的咒术回战] 七海</b>\r\n接下来交给你了。
+<b>[Bobs Jujutsu Kaisen] mechamaru</b>\r\nI'm sorry.=<b>[Bob的咒术回战] 机械丸</b>\r\n对不起。
+<b>[Bobs Jujutsu Kaisen] mechamaru shirtless</b>\r\nI'm sorry.=<b>[Bob的咒术回战] 赤膊机械丸</b>\r\n对不起。
+<b>[Bobs Jujutsu Kaisen] <color%3Dgreen>hakari</b>\r\nAnd me? I LOVE the FEVER!=<b>[Bob的咒术回战] <color%3Dgreen>秤</b>\r\n我呢？我超爱这狂热！
+<b>[Bobs Jujutsu Kaisen] utahime</b>\r\nI can't wait to start drinkin!=<b>[Bob的咒术回战] 歌姬</b>\r\n我等不及要开喝了！
+<b>[Bobs Jujutsu Kaisen] <color%3Dred>yuki</b>\r\nWhat kind of girls are you into?=<b>[Bob的咒术回战] <color%3Dred>由基</b>\r\n你喜欢哪种类型的女孩？
+<b>[Bobs Jujutsu Kaisen] random sorcerer</b>\r\noh boy, I hope I dont die!=<b>[Bob的咒术回战] 随机术师</b>\r\n天哪，我希望我不会死！
+<b>toji gun</b>\r\npew pew...=<b>甚尔的枪</b>\r\n砰 砰……
+
+
+//实体栏(不知道为啥这俩在实体栏)
+<b>Dragon</b>\r\nDragon.=<b>龙</b>\r\n龙
+<b>Mahoraga WIP</b>\r\nBIG RAGA THE OPP STOPPA.=<b>魔虚罗 WIP</b>\r\n大魔虚罗，对手终结者！
+
+
+//弹窗
+cursed energy system?=咒力系统?
+music options=音乐选项
+Tuca Donka=图卡东卡
+Tripping On Love=爱之迷醉
+nothing=无
+change multiplier=更改倍率
+Default is 1, current is 1=默认值为1，当前值为1
+
+//右键菜单
+//物品的菜单
+hairpin=发夹
+very bad=非常糟糕
+bad=坏
+bad.=坏.
+good=好
+good.=好.
+perfect=完美
+perfect.=完美.
+health amount=生命值量
+breaking threshold=破坏阈值
+intensity=强度
+

@@ -1,0 +1,1528 @@
+//*TF_RC汉化
+
+//1*MPW库_MPW library
+MPW library=MPW库
+<size%3D1.5em>MPW library</size>\nLibrary for creating and managing windows. Using this library is <color%3Dred>required</color> for most mods from Int Studio.\r\n\r\nIncludes:\r\n• The library itself\r\n• Special activation (by default <b>H</b>)\r\n• UIBuilder (it is used by the library itself, it can also be used via MPWAPI)\r\n\r\nAbout the patch (command promt/terminal)\r\nImportant! After updating the mod to version 2.0, you must restart the game after the first launch with enabled MPW to apply the patch (a window with a notification will appear).\r\nDuring the first launch, the patcher's terminal will open (it lists all the changes it makes), so don't be alarmed.\r\n\r\nThis patch allows mods to set their own loading order. In the case of MPW, this is necessary so that it loads before all other mods and loads the latest version of the MPW API, which other mods will use.\r\n\r\nTo completely disable the library, you need to turn it off and restart the game.=<size%3D1.5em>MPW库</size>\n用于创建和管理窗口的库.使用此库对于Int Studio的大多数模组是<color%3Dred>必需的</color>.\r\n\r\n包括：\r\n• 库本身\r\n• 特殊激活（默认为<b>H</b>）\r\n• UIBuilder（由库本身使用，也可通过MPWAPI使用）\r\n\r\n关于补丁（命令提示符/终端）\r\n重要！将模组更新到2.0版本后，在首次启动启用MPW后，必须重新启动游戏以应用补丁（会显示通知窗口）.在首次启动期间，修补程序的终端将打开（它会列出其所做的所有更改），因此不必惊慌.\r\n\r\n此补丁允许模组设置自己的加载顺序.对于MPW，这是必要的，以便它先于所有其他模组加载，并加载其他模组将使用的最新版MPW API.\r\n\r\n要完全禁用该库，你需要将其关闭并重新启动游戏.
+Library for creating and managing windows. Also includes special activation (SA).=用于创建和管理窗口的库. 还包括特殊激活(SA).
+[MPW] Specially activate object (SA)=[MPW] 特殊激活物体（SA）
+<b>MPW menu</b>\nMenu for setting up the MPW library.=<b>MPW菜单</b>\n用于设置MPW库的菜单.
+[MPW] Settings=[MPW] 设置
+Windows=窗口
+Show minimized windows=显示最小化窗口
+Enable button click sound=启用按钮点击音效
+Close all windows=关闭所有窗口
+Normal windows size=正常窗口尺寸
+Special activation enabled=特殊激活已启用
+MPW Library Patch Notification.\n\nYou may notice a terminal opening. This is <color%3Dred>required</color> to patch the game compiler\nso the MPW Library <color%3Dyellow>mod compiles before other mods</color>.\nFor more details, check the mod description on workshop page.\nIf you want to revert the patch, use Verify integrity of game files on steam.\n\nThe patch was applied successfully. Please <color%3Dyellow>restart</color> People Playground.=MPW库补丁通知.\n\n你可能会注意到一个终端窗口打开. 这是<color%3Dred>必需</color>的，用于修补游戏编译器\n以便MPW库<color%3Dyellow>模组在其他模组之前编译</color>.\n更多详情请查看创意工坊页面的模组描述.\n如果你想还原补丁，请在Steam上使用验证游戏文件完整性.\n\n补丁已成功应用. 请<color%3Dyellow>重启</color>人类游乐场.
+I understand and will restart=我明白了，我会重启
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//2*黏土士兵模组_Clay Soldiers Mod [Public]
+<size%3D1.5em>Clay Soldiers Mod</size>\n<color%3Dyellow>public version.</color>\r\n\r\nThe full version with all content is available via subscription on Patreon and Boosty!\r\nPatreon: patreon.com/intstudio\r\nBoosty: boosty.to/intstudio\r\n\r\nClay Soldiers Mod for People Playground adds miniature toy-sized soldiers into the game, turning the sandbox into a chaotic battlefield at a tiny scale. These small clay-style fighters can be spawned in different colors and factions, and they automatically attack enemies using scaled weapons.\r\n\r\nYou can create small wars, build arenas, test destruction scenarios, or simply watch the chaos unfold. It’s a simple concept, but it adds a unique and entertaining dynamic to the People Playground experience.=<size%3D1.5em>粘土士兵模组</size>\n<color%3Dyellow>公开版本.</color>\r\n\r\n完整版包含所有内容，可通过订阅Patreon和Boosty获取！\r\nPatreon: patreon.com/intstudio\r\nBoosty: boosty.to/intstudio\r\n\r\n《人类游乐场》的粘土士兵模组将微型玩具大小的士兵添加到游戏中，将沙盒变成一个混乱的小型战场. 这些小粘土风格的战士可以生成不同颜色和阵营，并使用缩小的武器自动攻击敌人. \r\n\r\n你可以创建小型战争、搭建竞技场、测试破坏场景，或者只是观看混乱上演. 这是一个简单的概念，但它为《人类游乐场》的体验增添了独特而有趣的动态. 
+Unlock all=解锁所有
+Clay entities, clay items, and clay policy. Public version.=粘土实体、粘土物品及粘土政策.公开版本.
+<b>[CSM] Clay soldier</b>\r\n<b><color%3D#ff8000>A small warrior shaped from clay, ready to fight for its cause.</color></b>=<b>[CSM] 黏土士兵</b>\r\n<b><color%3D#ff8000>一个由黏土制成的小战士，随时准备为其信念而战</color></b>
+<b>[CSM] Clay giant</b>\r\n<b><color%3D#ff8000>Very huge and strong. Probably very kind. Or maybe not</color></b>=<b>[CSM] 黏土巨人</b>\r\n<b><color%3D#ff8000>体型巨大,力量强大.可能非常友善,也可能不是</color></b>
+<b>[CSM] Zombie soldier</b>\r\n<b><color%3D#ff8000>Very slow and weak. Needs to hit a target 10 times to infect</color></b>=<b>[CSM] 僵尸士兵</b>\r\n<b><color%3D#ff8000>行动迟缓，体力虚弱.需击中目标10次才能使其感染</color></b>
+<b>[CSM] Zombie giant</b>\r\n<b><color%3D#ff8000>Very slow but quite strong. It takes 4 hits to infect.</color></b>=<b>[CSM] 僵尸巨人</b>\r\n<b><color%3D#ff8000>移动速度非常慢，但力量相当强大.需要攻击4次才能感染</color></b>
+<b>[CSM] Clay horse</b>\r\n<b><color%3D#ff8000>We are no clays, we are horses. Horses are. Fast and doesn’t belong to any team. On its own, but can be tamed by putting on a Ribbon. Runs VERY fast</color></b>=<b>[CSM] 黏土马</b>\r\n<b><color%3D#ff8000>我们不是黏土，我们是马. 马就是马.速度快，不属于任何队伍，独自生存，但可以通过戴上丝带驯服.跑得非常快</color></b>
+<b>[CSM] Training dummy</b>\r\n<b><color%3D#ff8000>Just a hay doll made for training</color></b>=<b>[CSM] 训练假人</b>\r\n<b><color%3D#ff8000>只是一个用于训练的稻草人偶</color></b>
+<b>[CSM] Sword</b>\r\nFast but with average damage\n<b><color%3D#f00>Average damage: 0.4\nAverage distance: 0.21\nAverage knockback: 0.2 units\nCooldown: 0.55 seconds</color></b>=<b>[CSM] 剑</b>\r\n速度快，但伤害一般\n<b><color%3D#f00>平均伤害：0.4\n平均距离：0.21\n平均击退距离：0.2个单位\n冷却时间：0.55秒</color></b>
+<b>[CSM] Battle axe</b>\r\nDeals two hits in a single use. The second one is weaker.\n<b><color%3D#f00>Average damage: 0.525\nAverage distance: 0.14\nAverage knockback: 0.175 units\nCooldown: 2.1 seconds</color></b>=<b>[CSM] 战斧</b>\r\n一次使用造成两次打击，第二次较弱. \n<b><color%3D#f00>平均伤害：0.525\n平均距离：0.14\n平均击退：0.175 单位\n冷却时间：2.1 秒</color></b>
+<b>[CSM] Axe</b>\r\nSlow but powerful.\n<b><color%3D#f00>Average damage: 0.65\nAverage distance: 0.18\nAverage knockback: 0.15 units\nCooldown: 0.2 seconds</color></b>=<b>[CSM] 斧头</b>\r\n速度慢但威力强大. \n<b><color%3D#f00>平均伤害：0.65\n平均距离：0.18\n平均击退：0.15 单位\n冷却时间：0.2 秒</color></b>
+<b>[CSM] Pitchfork</b>\r\nWhen taken, makes a peaceful entity aggressive.\n<b><color%3D#f00>Distance: 0.33 meters\nCooldown: 1.1 seconds\nDamage: 0.3 hp\nKnockback: 0.5 units</color></b>=<b>[CSM] 干草叉</b>\r\n拿起后，会使和平实体变得具有攻击性. \n<b><color%3D#f00>距离：0.33 米\n冷却时间：1.1 秒\n伤害：0.3 生命值\n击退：0.5 单位</color></b>
+<b>[CSM] Melee spear</b>\r\nDeals melee damage, but at a long distance.\n<b><color%3D#f00>Average damage: 0.45\nAverage distance: 0.37\nAverage knockback: 0.2 units\nCooldown: 0.9 seconds</color></b>=<b>[CSM] 近战矛</b>\r\n造成近战伤害，但攻击距离较远. \n<b><color%3D#f00>平均伤害：0.45\n平均距离：0.37\n平均击退：0.2 单位\n冷却时间：0.9 秒</color></b>
+<b>[CSM] Stick</b>\r\nSlightly stronger and faster than "hands"\n<b><color%3D#f00>Average damage: 0.2\nAverage distance: 0.18\nAverage knockback: 0.2 units\nCooldown: 0.2 seconds</color></b>=<b>[CSM] 棍子</b>\r\n比“徒手”稍强且更快\n<b><color%3D#f00>平均伤害：0.2\n平均距离：0.18\n平均击退：0.2 单位\n冷却时间：0.2 秒</color></b>
+<b>[CSM] Giant's Club</b>\r\nCan only be used by a Giants. Deals colossal damage.\n<b><color%3D#f00>Average damage: 1\nAverage distance: 0.49\nAverage knockback: 0.2 units\nCooldown: 2 seconds</color></b>=<b>[CSM] 巨人棍棒</b>\r\n仅巨人可使用. 造成巨大伤害. \n<b><color%3D#f00>平均伤害：1\n平均距离：0.49\n平均击退：0.2 单位\n冷却时间：2 秒</color></b>
+<b><color=#f0f>Blows up when the wearer dies</color></b>
+<b>[CSM] Explosive Device</b>\r\n<b><color%3D#f0f>Blows up when the wearer dies</color></b>=<b>[CSM] 爆炸装置</b>\r\n<b><color%3D#f0f>佩戴者死亡时引爆</color></b>
+<b>[CSM] Leather helmet</b>\r\n<b><color%3D#0ff>Protection: 3%</color></b>=<b>[CSM] 皮头盔</b>\r\n<b><color%3D#0ff>保护：3%</color></b>
+<b>[CSM] Leather chestplate</b>\r\n<b><color%3D#0ff>Protection: 7%</color></b>=<b>[CSM] 皮胸甲</b>\r\n<b><color%3D#0ff>保护：7%</color></b>
+<b>[CSM] Iron helmet</b>\r\n<b><color%3D#0ff>Protection: 8%</color></b>=<b>[CSM] 铁头盔</b>\r\n<b><color%3D#0ff>保护：8%</color></b>
+<b>[CSM] Iron chestplate</b>\r\n<b><color%3D#0ff>Protection: 25%</color></b>=<b>[CSM] 铁胸甲</b>\r\n<b><color%3D#0ff>保护：25%</color></b>
+<b>[CSM] Farmer hat</b>\r\n<b><color%3D#ff0>Wearer becomes peaceful, unable to attack others. Tries to flee from enemies. Can only attack if holding a Pitchfork</color></b>=<b>[CSM] 农夫帽</b>\r\n<b><color%3D#ff0>佩戴者变得和平，无法攻击他人. 会试图逃离敌人. 只有手持干草叉时才能攻击</color></b>
+<b>[CSM] Crown</b>\r\n<b><color%3D#ff0>Makes everyone follow the one who wears it</color></b>=<b>[CSM] 王冠</b>\r\n<b><color%3D#ff0>让所有人跟随佩戴者</color></b>
+<b>[CSM] Giant`s crown</b>\r\n<b><color%3D#ff0>Giant version of the regular crown. Has the same functionality, but for big guys</color></b>=<b>[CSM] 巨人王冠</b>\r\n<b><color%3D#ff0>普通王冠的巨人版本. 功能相同，但适用于大块头</color></b>
+<b>[CSM] Piece of Cake</b>\r\n<b><color%3D#0f0>A tasty treat that heals 100 hp</color></b>=<b>[CSM] 一块蛋糕</b>\r\n<b><color%3D#0f0>一种美味的食物，可恢复100生命值</color></b>
+<b>[CSM] Antidote Potato</b>\r\n<b><color%3D#0f0>A potato with some kind of antidote inside. Turns a zombified entity back to normal. Also heals 50 hp</color></b>=<b>[CSM] 解毒马铃薯</b>\r\n<b><color%3D#0f0>一种内部含有某种解毒剂的马铃薯. 可将僵尸化的实体恢复正常. 同时恢复50生命值</color></b>
+<b>[CSM] Hay bale</b>\r\n<b><color%3D#0f0>A bundle of hay tied with rope. Only a horse can eat it. Instantly restores 50 hp and gradually regenerates to full health.</color></b>=<b>[CSM] 干草捆</b>\r\n<b><color%3D#0f0>一捆用绳子扎起的干草. 只有马可以食用. 立即恢复50生命值，并逐渐恢复至满生命值. </color></b>
+<b>[CSM] Throne</b>\r\n<b><color%3D#0f0>Golden Throne. Can be sat on by a clay soldier with a crown. While seated, a king passively regenerates hp</color></b>=<b>[CSM] 王座</b>\r\n<b><color%3D#0f0>黄金王座. 佩戴王冠的粘土士兵可以坐在上面. 坐在上面时，国王会被动恢复生命值</color></b>
+<b>[CSM] Animal barn</b>\r\n<b><color%3D#0f0>Spawns different types of animals. Configurable via context menu. (Only horses for now)</color></b>=<b>[CSM] 动物棚</b>\r\n<b><color%3D#0f0>生成不同种类的动物. 可通过右键菜单配置. （目前只有马）</color></b>
+<b>[CSM] Soldier`s house</b>\r\n<b><color%3D#0f0>Spawns a Clay Soldier entity. Configurable via context menu</color></b>=<b>[CSM] 士兵屋</b>\r\n<b><color%3D#0f0>生成粘土士兵实体. 可通过右键菜单配置</color></b>
+<b>[CSM] Giant's cave</b>\r\n<b><color%3D#0f0>Spawns a Giant entity. Configurable via context menu</color></b>=<b>[CSM] 巨人洞穴</b>\r\n<b><color%3D#0f0>生成巨人实体. 可通过右键菜单配置</color></b>
+<b>[CSM] Castle</b>\r\n<b><color%3D#0f0>Passively regenerates members of the team it is assigned to. Can be captured by enemies</color></b>.=<b>[CSM] 城堡</b>\r\n<b><color%3D#0f0>为其所属小队被动恢复成员. 可被敌人占领</color></b>.
+<b>[CSM] Wooden chair</b>\r\n<b><color%3D#0f0>regular soldiers can seat</color></b>=<b>[CSM] 木椅</b>\r\n<b><color%3D#0f0>普通士兵可以就座</color></b>
+<b>[CSM] Wooden table</b>\r\n<b><color%3D#0f0>Just Visual</color></b>=<b>[CSM] 木桌</b>\r\n<b><color%3D#0f0>仅作装饰</color></b>
+<b>[CSM] Bench</b>\r\n<b><color%3D#0f0>A place where two can relax together. Soldiers may randomly sit down on the bench to rest for a while, then get up and continue with their activities</color></b>=<b>[CSM] 长椅</b>\r\n<b><color%3D#0f0>可供两人一起放松的地方. 士兵们可能会随机坐在长椅上休息片刻，然后起身继续他们的活动</color></b>
+<b>[CSM] Cake</b>\r\n<b><color%3D#0f0>A tasty treat that heals 500 hp</color></b>=<b>[CSM] 蛋糕</b>\r\n<b><color%3D#0f0>恢复500生命值的美味点心</color></b>
+<b>[CSM] Dynamite</b>\r\n<b><color%3D#0f0>Explodes and destroys all teams within its radius.</color></b>=<b>[CSM] 炸药</b>\r\n<b><color%3D#0f0>爆炸并摧毁其半径内的所有小队. </color></b>
+//*模组菜单
+Clay Soldiers Mod=黏土士兵模组
+Menu=菜单
+[CSM]Settings=[CSM]设置
+Changelog=更新日志
+Global=全局
+Random entity height=随机实体高度
+If enabled, entities will have random size on spawn.=如果启用，实体在生成时将具有随机大小.
+Items=物品
+Activate dynamite after spawn=生成后激活炸药
+On spawn, a dynamite is immediately activated.=生成时，炸药会立即被激活.(注:steam公开版没有炸药,需在Patreon和Boosty购买完整版)
+Structures=建筑
+Spawners=繁殖
+Capturable by default=默认可占领
+On spawn, a capturable structure is capturable or not.=生成时，建筑是否可被占领
+Spawning by default=默认启用生成
+On spawn, a spawner automatically starts spawning entities or not. =在生成时会自动开始生成实体，或者不生成实体
+Use selected color=使用所选颜色
+On spawn, a spawner’s flag takes a team color selected in the entity’s quick color picker. (if a entity has different color) or not. If not, the flag will be neutral.=生成时，生成器的旗帜会采用士兵快速颜色选择器中选择的团队颜色(如果实体有不同的颜色).如果没有选择，旗帜将保持中立
+Actions=行为
+Set all teams enemies=所有队伍互相为敌对
+Changes all teams’ relations to hostile with each other.=将所有队伍之间的关系更改为相互敌对
+Set all teams allies=所有队伍互相为盟友
+Changes all teams’ relations to friendly with each other. =将所有队伍之间的关系更改为相互友好
+//*团队颜色
+Teams=团队
+Team selector menu=团队选择菜单
+Select team, create a new one, or choose up to 6 favorite teams=选择队伍，创建新队伍，或选择最多6个喜欢的队伍
+Enter name...=输入名称...
+Name=名称
+Confirm=确认
+//*右键菜单
+Change HP=更改HP
+Change entity HP.=更改实体HP.
+Set entities HP. (<size%3D60%>"[CSM] Clay soldier"<%3Dsize> MaxHealth: 1)=设置实体生命值.(<size%3D60%>"[CSM]" 黏土士兵"<%3Dsize> 生命上限:1)
+Set entities HP. (<size%3D60%>"[CSM] Clay giant"<%3Dsize> MaxHealth: 4)=设置实体生命值.(<size%3D60%>"[CSM]" 黏土巨人"<%3Dsize> 生命上限:4)
+Set entities HP. (<size%3D60%>"[CSM] Zombie soldier"<%3Dsize> MaxHealth: 1)=设置实体生命值.(<size%3D60%>"[CSM]" 僵尸士兵"<%3Dsize> 生命上限:1)
+Set entities HP. (<size%3D60%>"[CSM] Zombie giant"<%3Dsize> MaxHealth: 3.5)=设置实体生命值.(<size%3D60%>"[CSM]" 僵尸巨人"<%3Dsize> 生命上限:3.5)
+Set entities HP. (<size%3D60%>"[CSM] Clay horse"<%3Dsize> MaxHealth: 0.85)=设置实体生命值.(<size%3D60%>"[CSM]" 黏土马"<%3Dsize> 生命上限:0.85)
+Set entities HP. (<size%3D60%>"[CSM] Training dummy"<%3Dsize> MaxHealth: 1)=设置实体生命值.(<size%3D60%>"[CSM]" 训练假人"<%3Dsize> 生命上限:1)
+Debug panel=调试面板
+Open debug panel. (from Clay soldiers mod)=打开调试面板.(来自黏土士兵模组)
+Show behaviour tree=显示行为树
+Open show behaviour tree window. (from Clay soldiers mod)=打开行为树窗口.（来自黏土士兵模组）
+Set team=设置团队
+Set structure team.=设置建筑团队
+Capturable=可占领
+Switch the capture capability.=切换是否可占领
+Spawning=生成
+Switch spawning.=切换生成
+Spawn delay=生成延迟
+Change spawn entity delay.=更改生成实体延迟
+Spawn limit=生成限制
+Change max spawned entities count.=更改最大生成实体数量
+Disable when max spawned=达到最大生成数时停止
+Disable spawner when max entities spawned.=当生成实体数量达到上限时，停止生成
+Change team=更换团队
+Change team.=更换团队.
+God mode=上帝模式
+Toggle god mode.=切换上帝模式.
+Damage numbers=伤害数值
+Switch training dummy damage numbers.=切换训练假人伤害数值.
+Numbers spawn data=数字生成数据
+Switch training dummy damage numbers spawn data.=切换训练假人伤害数值生成数据.
+Make enemy for all=与所有人为敌
+Make dummy enemy for all teams.=为所有团队做虚拟敌人.
+Toggle AI.=切换AI.
+Control=控制
+Toggle control.=切换控制.
+//*调试面板
+Debug panels select=调试面板选项
+Debug panels for "[CSM] Clay soldier"=调试面板"[CSM] 黏土士兵"
+Debug panels for "[CSM] Clay giant"=调试面板"[CSM] 黏土巨人"
+Debug panels for "[CSM] Zombie soldier"=调试面板"[CSM] 僵尸士兵"
+Debug panels for "[CSM] Zombie giant"=调试面板"[CSM] 僵尸巨人"
+Debug panels for "[CSM] Clay horse"=调试面板"[CSM] 黏土马"
+Debug panels for "[CSM] Training dummy"=调试面板"[CSM] 训练假人"
+Strategy=策略
+AI targets=AI目标
+Traits=特征
+Other info=其他信息
+Weapon=武器
+//*右下弹窗
+Clay Soldiers Mod: Saved=粘土士兵模组：已保存
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//3*义肢模组_Prostheses Mod [Rework]
+Prostheses Mod [Rework]=义肢模组[重制]
+<size%3D1.5em>Prostheses Mod 2.2</size>\n<color%3Dyellow>Early access version.</color>\r\n<color%3Dyellow>Public version.</color>\r\n\r\nThe full version with all content is available via subscription on Patreon and Boosty!\r\n<u>Patreon: patreon.com/intstudio</u>\r\n<u>Boosty: boosty.to/intstudio</u>\r\n————————————————————————————\r\nProstheses Mod 2.0 expands the sandbox experience by introducing advanced mechanical prosthetic limbs with enhanced functionality and customization.\r\n\r\nThe mod allows players to attach mechanical arms and legs that can enhance strength, mobility, and combat capability. Some prostheses provide increased durability, improved grip, or unique mechanical abilities, making entities more powerful and versatile in different scenarios.\r\n\r\nVersion 2.0 (rework) focuses on refinement and expansion, offering better balance, cleaner design, and more detailed mechanics compared to previous version. It’s built for experimentation – whether you want to create enhanced fighters, test mechanical durability, or push sandbox destruction to the limit.=<size%3D1.5em>义肢模组2.2</size>\n<color%3Dyellow>抢先体验版本.</color>\r\n<color%3Dyellow>公开版本.</color>\r\n\r\n完整版包含所有内容，可通过订阅Patreon和Boosty获取！\r\n<u>Patreon: patreon.com/intstudio</u>\r\n<u>Boosty: boosty.to/intstudio</u>\r\n————————————————————————————\r\n假肢模组 2.0 通过引入具有增强功能和自定义选项的先进机械假肢，扩展了沙盒体验. \r\n\r\n该模组允许玩家安装机械手臂和腿，可以增强力量、机动性和战斗能力. 某些假肢提供更高的耐久度、更好的抓握力或独特的机械能力，使实体在不同场景中更加强大和多才多艺. \r\n\r\n版本 2.0（重制版）侧重于完善和扩展，与之前的版本相比，提供了更好的平衡性、更简洁的设计和更细致的机制. 它专为实验而构建——无论你是想创造强化战士、测试机械耐久度，还是将沙盒破坏推向极限. 
+Rework of the old Prostheses Mod: new prosthetics, improved old ones, as well as other unique devices and items.=重制旧假肢模组：新义体、改进旧义体，以及其他独特装置和物品.
+New Update=新更新
+<b>Prostheses 2.0</b>\r\nProsthetics, implants, devices, and other cybernetic items.=<b>[假肢 2.0]TF_RC汉化</b>\r\n假体、植入物、装置及其他义体组件.
+//*物品
+<b>[PMR] Enhanced fireworks</b>\r\nA small firework rocket, but enhanced - meaning it has higher speed, longer time before explosion, and increased damage.=<b>[PMR] 强化烟花</b>\r\n一个小型烟花火箭，但经过强化——速度更快，爆炸前时间更长，伤害也更高.
+<b>[PMR] Broadcast television</b>\r\nBroadcast television. Switch channels by clicking a buttons on the object itself. The video content on the channels changes over time.=<b>[PMR] 广播电视</b>\r\n广播电视. 通过点击物体本身的按钮切换频道. 频道上的视频内容会随时间变化.
+//*假肢
+<b>[PMR] Gravitational Ray Arm <size%3D14><color%3Dyellow>[Grab-3]</size></color></b>\r\nGravity prosthesis, designed to manipulate objects using energy beams.\nBy <color%3Dred>H by default</color> creates two energy beams that grab an object.\nBy <color%3Dred>Double H by default</color> throws the currently grabbed object forward.=<b>[PMR] 引力射线臂 <size%3D14><color%3Dyellow>[Grab-3]</size></color></b>\r\n重力义体，设计用于使用能量束操控物体.\n默认按 <color%3Dred>H</color> 可生成两道能量束抓取物体.\n默认按 <color%3Dred>双击 H</color> 可向前抛出当前抓取的物体.
+<b>[PMR] Tactical Blade Arm <size%3D14><color%3Dyellow>[Blart-1]</size></color></b>\r\nA prosthesis equipped with retractable blades for close combat.\nBy <color%3Dred>H by default</color> to extend the sharp blades.\nBy <color%3Dred>Double H by default</color> throws objects in front of it forward.=<b>[PMR] 战术刀臂 <size%3D14><color%3Dyellow>[Blart-1]</size></color></b>\r\n一种配备可伸缩刀片的义体，用于近战.\n默认按 <color%3Dred>H</color> 伸出锋利的刀片.\n默认按 <color%3Dred>双击 H</color> 将前方的物体向前抛出.
+<b>[PMR] Circularsaw Arm <size%3D14><color%3Dyellow>[CSA-1]</size></color></b>\r\nMassive circularsaw arm, highly effective against flesh. In most cases, it tears the target to pieces.\nBy <color%3Dred>H by default</color> spins up the saw, dealing colossal cutting damage.=<b>[PMR] 圆锯臂 <size%3D14><color%3Dyellow>[CSA-1]</size></color></b>\r\n巨大的圆锯臂，对血肉极为有效. 大多数情况下，它能将目标撕成碎片. \n默认按 <color%3Dred>H</color> 启动圆锯旋转，造成巨量切割伤害.
+<b>[PMR] Homing Rocket Launcher <size%3D14><color%3Dyellow>[HRL-1]</color></size></b>\r\nMissile prosthesis, designed to launch small homing rockets.\nBy <color%3Dred>H by default</color> opens its palm cover and launches a homing missile forward.=<b>[PMR] 制导火箭发射器 <size%3D14><color%3Dyellow>[HRL-1]</color></size></b>\r\n导弹义体，设计用于发射小型制导火箭. \n默认按 <color%3Dred>H</color> 打开手掌盖并向前发射一枚制导导弹.
+<b>[PMR] Firework Launcher <size%3D14><color%3Dyellow>[FWL]</size></color></b>\r\nA firework-launcher prosthesis. Uses fireworks as ammo (standard and enhanced).\nBy <color%3Dred>H by default</color> By default, pressing H launches a firework forward in sequence, starting from the first slot.=<b>[PMR] 烟花发射器 <size%3D14><color%3Dyellow>[FWL]</size></color></b>\r\n一种烟花发射义体. 使用烟花作为弹药（标准型和强化型）. \n默认按 <color%3Dred>H</color> 默认情况下，按 H 会从第一个槽位开始依次向前发射一枚烟花. 
+<b>[PMR] Energy Sword Arm-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\nA prosthesis with a pink energy sword inside.\nBy <color%3Dred>H by default</color> opens a lid on the palm and activates the energy sword.=<b>[PMR] 能量剑臂-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\n一种内部装有粉色能量剑的义体.\n默认按 <color%3Dred>H</color> 打开手掌盖并激活能量剑.
+<b>[PMR] Energy Karambit</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower arm</color>=<b>[PMR] 能量爪刀</b>\r\n一种金属义体，无特殊功能.\n替换 <color%3Dred>下臂</color>
+<b>[PMR] Glue Shooter <size%3D14><color%3Dyellow>[GluS-1]</size></color></b>\r\nA “Sticky” prosthesis, designed to shoot sticky blobs of glue.\nBy <color%3Dred>H by default</color> releases a glue blob that, upon contact with any physical object, causes it to stick to the background or nearby objects.=<b>[PMR] 胶水发射器 <size%3D14><color%3Dyellow>[GluS-1]</size></color></b>\r\n一种“粘性”义体，设计用于发射粘性胶团.\n默认按 <color%3Dred>H</color> 释放一团胶水，当它与任何物理对象接触时，会使其粘附在背景或附近物体上.
+<b>[PMR] Shock Hand-1 <size%3D14><color%3Dyellow>[SH-1]</color></size></b>\r\nAn electrically based prosthesis that harnesses the power of electricity.\nBy <color%3Dred>H by default</color> electrifies the palm, shocking any struck object.\nBy <color%3Dred>holding H by default</color>, starts charging up, and releasing it unleashes the energy forward.=<b>[PMR] 电击手-1 <size%3D14><color%3Dyellow>[SH-1]</color></size></b>\r\n一种基于电力的义体，驾驭电能之力.\n默认按 <color%3Dred>H</color> 使手掌带电，电击任何被击中的物体.\n默认按住 <color%3Dred>H</color> 开始充能，松开时将能量向前释放.
+<b>[PMR] Personal Weaponized Arm <size%3D14><color%3Dyellow>[Pewo-1]</size></color></b>\r\nA machine-gun arm with high rate of fire and mobility.\nBy <color%3Dred>H by default</color> fires a massive volley of bullets.=<b>[PMR] 个人武装臂 <size%3D14><color%3Dyellow>[Pewo-1]</size></color></b>\r\n一种高射速、高机动性的机枪臂.\n默认按 <color%3Dred>H</color> 发射大量子弹.
+<b>[PMR] Retro Warrior Arm <size%3D14><color%3Dyellow>[RWA]</size></color></b>\r\nRetro prosthesis with a wrist shield that blocks bullets, reinforced frame, and sharp spikes on the lower arm.\nBy <color%3Dred>H by default</color> toggles Freeze Rotation function.=<b>[PMR] 复古战士臂 <size%3D14><color%3Dyellow>[RWA]</size></color></b>\r\n复古义体，带有可挡子弹的手腕护盾、强化框架以及下臂上的锋利尖刺.\n默认按 <color%3Dred>H</color> 切换冻结旋转功能.
+<b>[PMR] Energy Sword Arm-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\nA prosthesis with a energy sword inside.\nBy <color%3Dred>H by default</color> opens a lid on the palm and activates the energy sword.=<b>[PMR] 能量剑臂-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\n一种内部装有能量剑的义体.\n默认按 <color%3Dred>H</color> 打开手掌盖并激活能量剑.
+<b>[PMR] Energy Blade Foot <size%3D14><color%3Dyellow>[EBF]</size></color></b>\r\nA energy prosthesis is designed for close combat, dealing the highest damage and heating enemies on impact.\nBy <color%3Dred>H by default</color> activates a energy blade on a foot.=<b>[PMR] 能量刃脚 <size%3D14><color%3Dyellow>[EBF]</size></color></b>\r\n一种能量义体，专为近战设计，造成最高伤害并在撞击时加热敌人.\n默认按 <color%3Dred>H</color> 激活脚上的能量刃.
+<b>[PMR] Energy Karambit <size%3D14><color%3Dyellow>[EK]</size></color></b>\r\nA energy prosthesis is designed for close combat, featuring a shortened curved blade that deals more damage than the extended version.\nBy <color%3Dred>H by default</color> rotates the mechanism and activates a energy blade.=<b>[PMR] 能量爪刀 <size%3D14><color%3Dyellow>[EK]</size></color></b>\r\n一种能量义体，专为近战设计，具有缩短的弯曲刀刃，比加长版造成更高伤害.\n默认按 <color%3Dred>H</color> 旋转机械结构并激活能量刀刃.
+<b>[PMR] Metal long full arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper and lower arm</color>=<b>[PMR] 金属长全臂</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上臂和下臂</color>
+<b>[PMR] Metal long full leg</b>\r\nA metal prosthesis with no special features, but with a comically long frame.\nReplaces <color%3Dred>upper and lower leg and foot</color>=<b>[PMR] 金属长全腿</b>\r\n一种无特殊功能的金属义体，但有着滑稽的长骨架.\n替换 <color%3Dred>大腿、小腿和脚</color>
+<b>[PMR] Cheap full arm</b>\r\nMetal frame that is fairly fragile, but stronger than wooden ones and can break apart into pieces.\nReplaces <color%3Dred>upper and lower arm</color>=<b>[PMR] 廉价全臂</b>\r\n金属框架，相当脆弱，但比木制义体更坚固，且可以碎裂成片.\n替换 <color%3Dred>上臂和下臂</color>
+<b>[PMR] Cheap full leg</b>\r\nMetal frame that is fairly fragile, but stronger than wooden ones and can break apart into pieces.\nReplaces <color%3Dred>upper and lower leg and foot</color>=<b>[PMR] 廉价全腿</b>\r\n金属框架，相当脆弱，但比木制义体更坚固，且可以碎裂成片.\n替换 <color%3Dred>大腿、小腿和脚</color>
+<b>[PMR] Wooden hook</b>\r\nProsthesis with a sharp hook at the end.\nReplaces <color%3Dred>lower arm</color>=<b>[PMR] 木制钩爪</b>\r\n末端带有锋利钩子的义体.\n替换 <color%3Dred>下臂</color>
+<b>[PMR] Wooden lower leg</b>\r\nFeel like a pirate. Because of its low durability, it can easily break into pieces.\nReplaces <color%3Dred>lower leg</color>=<b>[PMR] 木制小腿</b>\r\n感觉自己像个海盗.由于其低耐久度，它很容易碎裂成片.\n替换 <color%3Dred>小腿</color>
+<b>[PMR] Metal upper arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper arm</color>=<b>[PMR] 金属上臂</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上臂</color>
+<b>[PMR] Metal lower arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower arm</color>=<b>[PMR] 金属下臂</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>下臂</color>
+<b>[PMR] Metal full arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper and lower arm</color>=<b>[PMR] 金属全臂</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上臂和下臂</color>
+<b>[PMR] Metal upper leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper leg</color>=<b>[PMR] 金属大腿</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>大腿</color>
+<b>[PMR] Metal lower leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower leg and foot</color>=<b>[PMR] 金属小腿</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>小腿和脚</color>
+<b>[PMR] Metal foot</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>foot</color>=<b>[PMR] 金属脚</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>脚</color>
+<b>[PMR] Metal full leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper and lower leg and foot</color>=<b>[PMR] 金属全腿</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>大腿、小腿和脚</color>
+<b>[PMR] Metal upper body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper body</color>=<b>[PMR] 金属上半身</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上半身</color>
+<b>[PMR] Metal middle body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>middle body</color>=<b>[PMR] 金属中段躯干</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>中段躯干</color>
+<b>[PMR] Metal lower body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower body</color>=<b>[PMR] 金属下半身</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>下半身</color>
+<b>[PMR] Metal full body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper, middle and lower body</color>=<b>[PMR] 金属全身</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上半身、中段躯干和下半身</color>
+//*武器
+<b>[PMR] Blink Dagger</b>\r\nEnergy dagger. Uses teleportation mechanics. Can be configured in the context menu.\nBy <color%3Dred>H by default</color> teleports a dagger forward.\nBy <color%3Dred>Holding H by default</color> aiming at the nearest target.=<b>[PMR] 闪烁匕首</b>\r\n能量匕首. 使用传送机制. 可在右键菜单中配置.\n默认按 <color%3Dred>H</color> 将匕首向前传送.\n默认按住 <color%3Dred>H</color> 瞄准最近的目标.
+<b>[PMR] Chain Blink Dagger</b>\r\nAn upgraded version of the blink dagger, but it teleports in a chain between different entities. Can be configured in the context menu.\nBy <color%3Dred>F by default</color> teleports a dagger forward.\nBy <color%3Dred>Holding F by default</color> aiming at the nearest target.=<b>[PMR] 连锁闪烁匕首</b>\r\n闪烁匕首的升级版，可在不同实体之间连锁传送. 可在右键菜单中配置.\n默认按 <color%3Dred>F</color> 将匕首向前传送.\n默认按住 <color%3Dred>F</color> 瞄准最近的目标.
+<b>[PMR] Glue Gun</b>\r\nGlue Shooter gun version. It’s great when you can use glue while having both hands!=<b>[PMR] 胶水枪</b>\r\n胶水发射器的枪械版本. 能在双手空闲时使用胶水真是太棒了!
+<b>[PMR] Glue Container</b>\r\nA liquid container that can hold any liquid from the game. Required for glue weapons.=<b>[PMR] 胶水容器</b>\r\n可容纳游戏中任何液体的液体容器. 胶水武器所需.
+//*右键菜单
+Detach prosthesis=分离义体
+Attach side <color%3D#ffffff>Front</color>=<color%3D#ffffff>前</color>侧附着
+Attach side <color%3D#a8a8a7>Back</color>=<color%3D#a8a8a7>后</color>侧附着
+Change attach side=更改义体附着侧
+Change prosthesis attach side.=更改义体附着侧.
+Grab distance =抓取距离 
+Set Grab distance=抓取距离
+Set grab distance.=抓取距离.
+Grab max hold force=获取最大抓取力
+Set Grab max hold force=设置抓取抓取力
+Set grab max hold force.=设置抓取抓取力.
+Grab throw force =抓取投掷力 
+Set Grab throw force=抓取投掷力
+Set grab throw force.=抓取投掷力.
+Freeze rotation=冻结旋转
+Freeze prosthesis parts rotation.=冻结假肢部件旋转.
+Lazer pointer=激光指示器
+Switch lazer pointer.=切换激光指示器.
+Infinite fireworks=无限烟花
+Switch infinite fireworks in firework launcher.=切换烟花发射器中的无限烟花.
+Detach fireworks=分离烟花
+Detach fireworks from firework launcher.=从烟花发射器上分离烟花.
+Fireworks type: Fireworks=烟花类型: 烟花
+Set firework launcher spawned fireworks type.=设置烟花发射器生成的烟花类型.
+Select fireworks type=选择烟花类型
+[PMR] Enhanced fireworks=[PMR] 强化烟花
+Random=随机
+Fireworks type: [PMR] Enhanced fire...=烟花类型: [PMR] 强化烟花
+Fireworks type: random=烟花类型: 随机
+Blink distance=闪烁距离
+Set blink distance. From Prostheses 2.0.=设置闪烁距离. 来自假肢模组 2.0.
+Switch return after blink. From Prostheses 2.0.=闪烁后切换回位.来自假肢模组 2.0.
+Return delay=返回延迟
+Set return delay after blink. From Prostheses 2.0.=设置闪烁后的返回延迟.来自假肢模组 2.0.
+Max chain blinks count:=最大连锁闪烁次数：
+Change max number of chain blinks (except first blink). From Prostheses 2.0.=更改最大连锁闪烁次数（不包括第一次闪烁）.来自假肢模组 2.0.
+Target select mode: Nearest=目标选择模式：最近
+Target select mode: Farthest=目标选择模式：最远
+Change chain blink dagger target selection mode. From Prostheses 2.0.=改变连锁闪烁匕首目标选择模式.来自假肢模组 2.0.
+Creature aim=生物瞄准
+Switch creature aim on use hold. From Prostheses 2.0.=切换按住使用时的生物瞄准.来自假肢模组 2.0.
+Creature aim radius=生物瞄准半径
+Set creature aim radius on use hold. From Prostheses 2.0.=设置按住使用时的生物瞄准半径.来自假肢模组 2.0.
+Blade type=刀刃类型
+Ice=冰
+Select energy blade type=选择能量刀刃类型
+Set energy blade type (fire, ice, ...). From Prostheses 2.0.=设置能量刀刃类型（火焰，冰霜，...）.来自假肢模组 2.0.
+Blade color=刀刃颜色
+From type=原生类型
+Select energy blade color=选择能量刀刃颜色
+Set energy blade color. From Prostheses 2.0.=设置能量刀刃颜色.来自假肢模组 2.0.
+Clear glue=清除胶水
+Clear all launched glue. From Prostheses 2.0.=清除所有已发射的胶水.来自假肢模组 2.0.
+Liquid: =液体: 
+Set liquid. From Prostheses 2.0.=设置液体. 来自假肢模组 2.0.
+Select liquid=选择液体
+//*设置
+[PMR] Settings=[PMR] 设置
+Special prostheses=特殊义体
+If enabled prostheses with ammo like firework launcher will filled after first spawn.=如果启用，带有弹药（如烟花发射器）的义体在首次生成时会被填满.
+Fill prostheses ammo on spawn=生成时填满义体弹药
+Energy blade=能量刀刃
+Multiplier for damage dealt by all energy blades. Applied after first spawn. Default is 1.=所有能量刀刃造成伤害的倍数.首次生成后生效.默认值为1.
+Damage per second=每秒伤害
+Multiplier for damage dealt per second by all energy blades. Applied after first spawn. Default is 1.=所有能量刀刃每秒造成伤害的倍数.首次生成后生效.默认值为1.
+If enabled prostheses like firework launcher will have an infinite ammo enabled after first spawn.=如果启用，像烟花发射器这样的义体在首次生成后将拥有无限弹药.
+Some prostheses have infinite ammo=部分义体拥有无限弹药
+GRAB-3 has no mass limit=GRAB-3 无质量限制
+Prostheses can freeze rotation=义体可冻结旋转
+Some prostheses can freeze own rotation if needed. For example: GRAB-3.=部分义体可以在需要时冻结自身旋转. 例如: GRAB-3.
+Quick dismember=快速肢解
+Healing liquid=治疗液体
+Quick dismember limb key=快速肢解肢体键
+Add liquid=添加液体
+Add healing liquid after quick dismember?=在快速肢解后添加治疗液体?
+Liquid amount=液体量
+Healing liquid amount. Used if "Add liquid" setting is enabled.=治疗液体量. 当“添加液体”设置启用时使用.
+To quickly dismember a limb hover or select it and press the key (default [Y]). With held multiselect (default [Shift]), the limb will be deleted.=要快速肢解肢体，将鼠标悬停或选中它并按按键（默认为Y）. 在按住多重选择（默认为Shift+Y）的情况下，该肢体将被删除.
+Holiday changes=节日变化
+If enabled in certain holidays, something in the mod will change. Require game restart.=如果在特定节日启用，模组中的某些内容会发生变化.需要重启游戏.
+Prostheses joint unbreakable=义体关节不可破坏
+All prostheses joints are unbreakable.=所有义体的关节都不可破坏.
+Prostheses immune to damage=义体免疫伤害
+All prostheses is immune to damage.=所有义体免疫伤害.
+Prostheses auto change attach side=义体自动更换附着侧
+A prosthesis will automatically change the attachment side if it can attach to the limb on the other side.=如果义体可以附着在另一侧的肢体上，它将自动更换附着侧.
+MPW library not found, you may not have subscribed to it in the workshop or it is not enabled.=未找到 MPW 库，你可能尚未在创意工坊中订阅它，或者它未被启用.
+Subscribe=订阅
+Retry=重试
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//4*炼金模组_Alchemy Mod
+Alchemy=[炼金]TF_RC汉化
+//*设置
+Alchemy Mod=[炼金模组]TF_RC汉化
+Craft messages enabled=启用消息功能
+Show messages when crafting is successful or fails.=当制作成功或失败时显示消息.
+Lock all items=锁定所有配方
+Are you sure you want to <b>Lock</b> all items?=你确定要<b>锁定</b>所有配方吗?
+Unlock all items=解锁所有配方
+Are you sure you want to <b>Unlock</b> all items?=你确定要<b>解锁</b>所有配方吗?
+//*配方书
+[AlchemyMod] recipe book=[炼金模组] 配方书
+<u>Alchemy guide</u>=<u>炼金指南</u>
+1. Spawn the cauldron.\r\n2. Fill it with liquid. Use it to pour the liquid into the cauldron.\r\n3. Press F on the cauldron (for example, on its handles).\r\n\nThe ingredients will begin to mix. As a result, either a potion will be created, or the ingredients will spoil and no potion will be produced.\r\n\n\nTry brewing Water. This liquid is used in many other recipes as a base liquid. You can find its recipe on the next page.\r\n\nExperiment and try to brew all the potions in this mod! Good luck. But.. If you’re having trouble, join our official Discord server! <color%3D#c0a87f>https:%2F%2Fdiscord.gg/w2mqRUmKfn</color>\r\n\n\nYou can exceed the liquid amount in the cauldron by ~0.35, or underfill it by about ~0.15 for the recipe to still succeed.=1. 放置大锅.\r\n2. 向其中填充液体. 使用它来将液体倒入大锅.\r\n3. 在大锅上按F键（例如，按其手柄）.\r\n\n配料将开始混合. 结果要么生成药水，要么配料错误而无法产生药水.\r\n\n\n尝试酿造水. 这种液体在许多其他配方中用作基底液体. 你可以在下一页找到它的配方.\r\n\n实验并尝试酿造本模组中的所有药水！祝你好运. 但如果遇到困难，请加入我们的官方Discord服务器！ \r\n<color%3D#c0a87f>https:%2F%2Fdiscord.gg/w2mqRUmKfn</color>\r\n\n\n你可以超过大锅中的液体量约0.35，或低于配方所需约0.15，配方仍能成功.
+You can open and close the inside view of the cauldron via the context menu (RMB on the cauldron): Interior hidden/visible. With the cauldron open, you can see which ingredients are inside.\r\n\nPotions REQUIRE exact ingredient amounts (with a small tolerance mentioned earlier). To check the precise quantities, use the Show items option in the context menu\r\n\nYou can fill a bottle from the cauldron by placing it inside (after opening it by F). You can also throw an entity into the cauldron or flip it over and pour all the liquid onto the entity.=你可以通过右键菜单（在大锅上按鼠标右键）打开或关闭大锅的内部视图：内部隐藏/可见. 打开大锅后，你可以看到内部有哪些配料.\r\n\n药水需要精确的配料数量（且上一页有明确标注误差范围）. 要查看精确数量，请使用右键菜单中的“显示物品”选项.\r\n\n你可以将瓶子倒入大锅（先按F打开）来从大锅中装填药水. 你也可以将实体扔进大锅，或者将其翻转并将所有液体倒在实体上.
+r:"Hydrates and sustains life[\s\S]*carrying faint echoes of ancient life\."=维持生命并补充水分\r\n\r\n<size%3D150%>配料：</size>\r\n- 植物油 x3\r\n- 脂肪 x2\r\n\r\n一种清澈的基础液体，通过维持水分、支持生命机能和调节温度来保持生物存活；据说是世间最早被赠予的物质，承载着远古生命的淡淡回响.
+<u><allcaps>Lava</allcaps></u>=<u><allcaps>熔岩</allcaps></u>
+r:"Burns and destroys everything\.[\s\S]*Alchemists usually bought this ingredient from travelers\."=燃烧并摧毁一切.\r\n\r\n<color%3Dgrey>这种配料没有已知的通用配方.\n(译者提示:到有岩浆的地图试试)\r\n\r\n</color>一种极具破坏性的熔融物质，温度极高，能够燃烧、熔化并摧毁其路径上的几乎所有东西；据信是大地的血液，体现了原始的力量与愤怒.\r\n\r\n炼金术士通常从旅行者那里购买这种配料.
+<u><allcaps>Vegetable oil</allcaps></u>=<u><allcaps>植物油</allcaps></u>
+r:"Slippery liquid\.[\s\S]*?used only as an ingredient\."=滑腻的液体.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 脂肪 x3\r\n\r\n一种源自植物的顺滑有机液体，常用于烹饪，以其滑腻的质地和缓慢燃烧的特性而闻名；象征着人类将自然馈赠转化为多功能资源的智慧.\r\n\n<color%3D#c0a87f>没有实际效果；仅用作配料.</color>
+<u><allcaps>Binding liquid</allcaps></u>=<u><allcaps>粘合液</allcaps></u>
+r:"^For weakening potions\.[\s\S]*?- Binding vine[\s\S]*?suppress their inner energy\.$"=用于弱化药水.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 结合藤蔓\r\n\r\n一种特殊物质，通过抽取力量和减缓移动来弱化目标；由古代炼金术士创造，用于限制危险生物并压制其内在能量.
+r:"^For weakening potions\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?suppress their inner energy\.$"=用于弱化药水.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n</color>\r\n一种特殊物质，通过抽取力量和减缓移动来弱化目标；由古代炼金术士创造，用于限制危险生物并压制其内在能量.
+<u><allcaps>Miserable water</allcaps></u>=<u><allcaps>痛苦之水</allcaps></u>
+r:"Weakens and restricts movement\.[\s\S]*- Binding liquid x2[\s\S]*?used only as an ingredient\."=削弱并限制行动.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 粘合液 x2\r\n- 毒根 x2\r\n\r\n一种奇怪、令人不适的液体，会引起不适并消耗情绪和能量；据传受到了诅咒，由浓缩的悲伤与绝望形成.\r\n\n<color%3D#c0a87f>没有实际效果；仅用作配料.</color>
+r:"Weakens and restricts movement\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?used only as an ingredient\."=削弱并限制行动.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x2\r\n- 未知成分 x2\r\n</color>\r\n一种奇怪、令人不适的液体，会引起不适并消耗情绪和能量；据传受到了诅咒，由浓缩的悲伤与绝望形成.\r\n\n<color%3D#c0a87f>没有实际效果；仅用作配料.</color>
+<u><allcaps>Infinite cooling liquid</allcaps></u>=<u><allcaps>无限冷却液</allcaps></u>
+r:"^Extreme cooling effect\.[\s\S]*- Lava x5[\s\S]*?leaves only lifeless cold behind\.$"=极致的冷却效果.\r\n\n<size%3D150%>配料：</size>\r\n- 熔岩 x5\r\n- 黑根\r\n- 雪果\r\n\r\n剧烈降低体温至非自然水平；据传来自一个吸收所有热量的冰冻虚空，只留下毫无生机的寒冷.
+r:"^Extreme cooling effect\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?leaves only lifeless cold behind\.$"=极致的冷却效果.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n剧烈降低体温至非自然水平；据传来自一个吸收所有热量的冰冻虚空，只留下毫无生机的寒冷.
+<u><allcaps>Infinite heating liquid</allcaps></u>=<u><allcaps>无限加热液</allcaps></u>
+r:"^Extreme heating effect\.[\s\S]*- Water x5[\s\S]*?burning targets from within\.$"=极致的加热效果.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 黑根\r\n- 火焰果\r\n\r\n迅速将体内温度提升至危险水平；据信携带着地核的能量，从内部灼烧目标.
+r:"^Extreme heating effect\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?burning targets from within\.$"=极致的加热效果.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n迅速将体内温度提升至危险水平；据信携带着地核的能量，从内部灼烧目标.
+<u><allcaps>Weightless liquid</allcaps></u>=<u><allcaps>失重液</allcaps></u>
+r:"^Removes all weight\.[\s\S]*?binding matter to the world\.$"=移除所有重量.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x4\r\n- 植物油 x2\r\n- 羽毛 x2\r\n\r\n使身体完全失重并摆脱重力；在打破物质与世界自然法则的实验中创造出来.
+<u><allcaps>Zero friction liquid</allcaps></u>=<u><allcaps>零摩擦液体</allcaps></u>
+r:"^Eliminates all friction\.[\s\S]*- Vegetable oil x5[\s\S]*?as if reality stops applying friction\.$"=消除所有摩擦力.\r\n\n<size%3D150%>配料：</size>\r\n- 植物油 x5\r\n- 脂肪 x2\r\n\r\n移除所有表面的阻力，导致无法控制的滑动；据说扭曲了物理交互本身，仿佛现实停止了施加摩擦力.
+r:"^Eliminates all friction\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?as if reality stops applying friction\.$"=消除所有摩擦力.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x2\r\n</color>\r\n移除所有表面的阻力，导致无法控制的滑动；据说扭曲了物理交互本身，仿佛现实停止了施加摩擦力.
+<u><allcaps>Gravity shift liquid</allcaps></u>=<u><allcaps>重力偏移液</allcaps></u>
+r:"^Random gravity direction\.[\s\S]*?disrupts balance and orientation completely\.$"=随机重力方向.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x3\r\n- 植物油 x2\r\n- 水莓\r\n- 黑根\r\n\r\n每隔几秒将重力改变为随机方向；一种不稳定的炼金造物，完全破坏平衡和方向感.
+<u><allcaps>Water electrification liquid</allcaps></u>=<u><allcaps>水导电液</allcaps></u>
+r:"^Electrifies water contact\.[\s\S]*- Adrenaline x2[\s\S]*?turns any liquid into a hidden electrical hazard\.$"=使水接触带电.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x4\r\n- 肾上腺素 x2\r\n- 水莓\r\n- 铁 x2\r\n- 黑根\r\n\r\n导致生物接触水时触电；注入能量，使任何液体变成隐藏的电气危险.
+r:"^Electrifies water contact\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?turns any liquid into a hidden electrical hazard\.$"=使水接触带电.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x4\r\n- 未知成分 x2\r\n- 未知成分\r\n- 未知成分 x2\r\n- 未知成分\r\n</color>\r\n导致生物接触水时触电；注入能量，使任何液体变成隐藏的电气危险.
+<u><allcaps>Mega brain liquid</allcaps></u>=<u><allcaps>超级大脑液</allcaps></u>
+r:"^Boosts brain power\.[\s\S]*- Brain x2[\s\S]*?beyond natural limits\.$"=增强脑力.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 大脑 x2\r\n- 雪果\r\n\r\n大幅增大并强化大脑，显著提高智力；一种罕见的血清，将心智变异超越自然极限.
+r:"^Boosts brain power\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?beyond natural limits\.$"=增强脑力.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x2\r\n- 未知成分\r\n</color>\r\n大幅增大并强化大脑，显著提高智力；一种罕见的血清，将心智变异超越自然极限.
+<u><allcaps>Unstable growth liquid</allcaps></u>=<u><allcaps>不稳定生长液</allcaps></u>
+r:"^Random limb growth\.[\s\S]*- Apple x3[\s\S]*?breaks body proportions and natural form stability\.$"=随机肢体生长.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 苹果 x3\r\n- 金苹果\r\n\r\n导致肢体随时间随机改变大小；一种混沌混合物，打破身体比例和自然形态的稳定性.
+r:"^Random limb growth\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?breaks body proportions and natural form stability\.$"=随机肢体生长.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x3\r\n- 未知成分\r\n</color>\r\n导致肢体随时间随机改变大小；一种混沌混合物，打破身体比例和自然形态的稳定性.
+<u><allcaps>Balloon head liquid</allcaps></u>=<u><allcaps>气球头液</allcaps></u>
+r:"^Inflates head explosively\.[\s\S]*- Balloon[\s\S]*?built on unstable pressure reactions\.$"=使头部爆炸性膨胀.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 气球\r\n- 眩晕花\r\n\r\n像气球一样将头部膨胀直至爆裂；一种基于不稳定压力反应的危险实验液体.
+r:"^Inflates head explosively\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?built on unstable pressure reactions\.$"=使头部爆炸性膨胀.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n像气球一样将头部膨胀直至爆裂；一种基于不稳定压力反应的危险实验液体.
+<u><allcaps>Glass Skin</allcaps></u>=<u><allcaps>玻璃皮肤</allcaps></u>
+r:"^Fragile transparent body\.[\s\S]*- Glass[\s\S]*?leaves the user as fragile as glass\.$"=脆弱的透明身体.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 玻璃板\r\n- 黑根\r\n\r\n使身体变得隐形且极度脆弱；为 stealth 而设计，但让使用者像玻璃一样易碎.
+r:"^Fragile transparent body\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?leaves the user as fragile as glass\.$"=脆弱的透明身体.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n使身体变得隐形且极度脆弱；为 stealth 而设计，但让使用者像玻璃一样易碎.
+<u><allcaps>Delayed death liquid</allcaps></u>=<u><allcaps>延迟死亡液</allcaps></u>
+r:"^Delayed fatal effect\.[\s\S]*- Acid x1[\s\S]*?leaving only a skeleton\.$"=延迟致命效果.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 酸 x1\r\n- 古树叶 x3\r\n- 格洛斯腿\r\n\r\n没有即时症状，但会导致缓慢死亡；被称为一种诅咒液体，逐渐移除血肉，只留下骨架.
+r:"^Delayed fatal effect\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?leaving only a skeleton\.$"=延迟致命效果.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x1\r\n- 未知成分 x3\r\n- 未知成分\r\n</color>\r\n没有即时症状，但会导致缓慢死亡；被称为一种诅咒液体，逐渐移除血肉，只留下骨架.
+<u><allcaps>Explosive steps liquid</allcaps></u>=<u><allcaps>爆炸步态液</allcaps></u>
+r:"^Exploding movement effect\.[\s\S]*- Explosive watermelon[\s\S]*?converts motion into destruction\.$"=爆炸移动效果.\r\n\n<size%3D150%>配料：</size>\r\n- 熔岩 x5\r\n- 爆炸西瓜\r\n- 火焰果 x2\r\n\r\n导致每一步触发爆炸；一种不稳定的能量化合物，将运动转化为毁灭.
+r:"^Exploding movement effect\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?converts motion into destruction\.$"=爆炸移动效果.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分 x2\r\n</color>\r\n导致每一步触发爆炸；一种不稳定的能量化合物，将运动转化为毁灭.
+<u><allcaps>Midas' touch</allcaps></u>=<u><allcaps>点金之手</allcaps></u>
+r:"^Turns touch to gold\.[\s\S]*- Miserable water x5[\s\S]*?a powerful but cursed ability\.$"=将触碰到的一切变成黄金.\r\n\n<size%3D150%>配料：</size>\r\n- 痛苦之水 x5\r\n- 熔岩 x0.5\r\n- 毒苹果\r\n- 黄金\r\n\r\n将触碰到的一切转变为黄金；灵感源自古代传说，赋予强大但受诅咒的能力.
+r:"^Turns touch to gold\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?a powerful but cursed ability\.$"=将触碰到的一切变成黄金.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x0.5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n将触碰到的一切转变为黄金；灵感源自古代传说，赋予强大但受诅咒的能力.
+r:"^Restorative effect\.[\s\S]*- Life leaf of the 91-leaf bush x3[\s\S]*?at the cellular level\.$"=恢复效果.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 九十一叶灌木的生命叶 x3\r\n\r\n修复受损组织；一种浓缩修复剂，能在细胞层面快速修复生物损伤.
+r:"^Restorative effect\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?at the cellular level\.$"=恢复效果.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x3\r\n</color>\r\n修复受损组织；一种浓缩修复剂，能在细胞层面快速修复生物损伤.
+r:"^Comparable to resurrection\.[\s\S]*- Mending serum x5[\s\S]*?stabilizes life force\.$"=堪比复活.\r\n\n<size%3D150%>配料：</size>\r\n- 愈合血清 x5\r\n- 生命石\r\n- 金苹果\r\n\r\n恢复生命机能；一种稀有血清，能刺激核心生物过程并稳定生命力.
+r:"^Comparable to resurrection\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?stabilizes life force\.$"=堪比复活.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n恢复生命机能；一种稀有血清，能刺激核心生物过程并稳定生命力.
+r:"^Eats flesh\.[\s\S]*- Gorse blood x5[\s\S]*?organic and inorganic materials\.$"=腐蚀血肉.\r\n\n<size%3D150%>配料：</size>\r\n- 格洛斯血 x5\r\n- 毒根\r\n- 格洛斯腿\r\n\r\n腐蚀性化学物；一种高活性液体，能够分解有机和无机材料.
+r:"^Eats flesh\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?breaking down organic and inorganic materials\.$"=腐蚀血肉.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n腐蚀性化学物；一种高活性液体，能够分解有机和无机材料.
+r:"Gives energy\.[\s\S]*- Dizzying flower[\s\S]*?extreme survival state\."=提供能量.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 眩晕花\r\n- 辣椒\r\n\r\n增强刺激效果；一种合成化合物，迫使身体进入极端生存状态.
+r:"Gives energy\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?extreme survival state\."=提供能量.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n增强刺激效果；一种合成化合物，迫使身体进入极端生存状态.
+<u><allcaps>Bone hurting juice</allcaps></u>=<u><allcaps>噬骨汁</allcaps></u>
+r:"Erodes bones\.[\s\S]*- Acid x5[\s\S]*?calcium-based tissue\."=侵蚀骨骼.\r\n\n<size%3D150%>配料：</size>\r\n- 酸 x5\r\n- 毒苹果\r\n\r\n溶解骨骼结构；一种靶向并降解钙基组织的毒剂.
+r:"Erodes bones\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?calcium-based tissue\."=侵蚀骨骼.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n</color>\r\n溶解骨骼结构；一种靶向并降解钙基组织的毒剂.
+<u><allcaps>Coagulation</allcaps></u>=<u><allcaps>凝血血清</allcaps></u>
+r:"Healing liquid\.[\s\S]*- Mending serum x5[\s\S]*?Will heal all bleeding wounds\."=治疗液体.\r\n\n<size%3D150%>配料：</size>\r\n- 愈合血清 x5\r\n- 古树叶\r\n\r\n一种加速血液凝固过程的血清.能治愈所有流血伤口.
+r:"Healing liquid\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?Will heal all bleeding wounds\."=治疗液体.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n</color>\r\n一种加速血液凝固过程的血清.能治愈所有流血伤口.
+<u><allcaps>Instant death poison</allcaps></u>=<u><allcaps>死亡药剂</allcaps></u>
+r:"Kills an entity\.[\s\S]*- Miserable water x5[\s\S]*?within seconds\."=击杀实体.\r\n\n<size%3D150%>配料：</size>\r\n- 痛苦之水 x5\r\n- 毒苹果\r\n- 毒根\r\n\r\n即时致命毒素；一种高浓度毒药，能在数秒内关闭重要系统.
+r:"Kills an entity\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?within seconds\."=击杀实体.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n即时致命毒素；一种高浓度毒药，能在数秒内关闭重要系统.
+<u><allcaps>Freeze poison</allcaps></u>=<u><allcaps>冰冻毒药</allcaps></u>
+r:"Freezes an entity\.[\s\S]*- Water x5[\s\S]*?halts movement\."=冻结实体.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 雪果 x5\r\n\r\n引发极寒；一种化学剂，能迅速降低体温并停止行动.
+r:"Freezes an entity\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?halts movement\."=冻结实体.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x5\r\n</color>\r\n引发极寒；一种化学剂，能迅速降低体温并停止行动.
+<u><allcaps>Knockout poison</allcaps></u>=<u><allcaps>致昏毒液</allcaps></u>
+r:"Induces unconsciousness\.[\s\S]*- Water x5[\s\S]*?immediate sleep-like collapse\."=引发昏迷.\r\n\n<size%3D150%>配料：</size>\r\n- 水 x5\r\n- 眩晕花 x3\r\n\r\n强制昏迷；一种镇静毒素，中断神经活动，导致立即像睡眠一样倒下.
+r:"Induces unconsciousness\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?immediate sleep-like collapse\."=引发昏迷.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x3\r\n</color>\r\n强制昏迷；一种镇静毒素，中断神经活动，导致立即像睡眠一样倒下.
+<u><allcaps>Pain killer</allcaps></u>=<u><allcaps>镇痛药剂</allcaps></u>
+r:"Removes the sensation of pain\.[\s\S]*- Acid x5[\s\S]*?blocks pain signals in the nervous system\."=移除疼痛感.\r\n\n<size%3D150%>配料：</size>\r\n- 酸 x5\r\n- 金苹果\r\n- 眩晕花\r\n\r\n抑制所有疼痛；一种强效镇痛化合物，阻断神经系统中的疼痛信号.
+r:"Removes the sensation of pain\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?blocks pain signals in the nervous system\."=移除疼痛感.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n抑制所有疼痛；一种强效镇痛化合物，阻断神经系统中的疼痛信号.
+<u><allcaps>Pink dormant</allcaps></u>=<u><allcaps>惰性粉色液体</allcaps></u>
+r:"Different effects\.[\s\S]*- Blood x5[\s\S]*?under unknown conditions\."=不同的效果.\r\n\n<size%3D150%>配料：</size>\r\n- 血液 x5\r\n- 爆炸西瓜\r\n- 结合藤蔓\r\n- 眩晕花\r\n\r\n不稳定的异常现象；一种高度挥发的物质，能在未知条件下产生各种不可预测且强大的效果.
+r:"Different effects\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?under unknown conditions\."=不同的效果.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n不稳定的异常现象；一种高度挥发的物质，能在未知条件下产生各种不可预测且强大的效果.
+r:"Empowers the entity\.[\s\S]*- Pain killer x5[\s\S]*?beyond natural limits\."=锻体.\r\n\n<size%3D150%>配料：</size>\r\n- 镇痛药剂 x5\r\n- 辣椒 x2\r\n- 生命石\r\n- 金苹果\r\n\r\n大幅增强力量；一种提升表现的血清，暂时将肌肉输出提升至超越自然极限.
+r:"Empowers the entity\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?beyond natural limits\."=锻体.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x2\r\n- 未知成分\r\n- 未知成分\r\n</color>\r\n大幅增强力量；一种提升表现的血清，暂时将肌肉输出提升至超越自然极限.
+r:"Allows underwater breathing\.[\s\S]*- Adrenaline x5[\s\S]*?for aquatic environments\."=允许水下呼吸.\r\n\n<size%3D150%>配料：</size>\r\n- 肾上腺素 x5\r\n- 水莓 x2\r\n\r\n实现在水下呼吸；一种改良的血清，使呼吸系统适应水生环境.
+r:"Allows underwater breathing\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?for aquatic environments\."=允许水下呼吸.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分 x2\r\n</color>\r\n实现在水下呼吸；一种改良的血清，使呼吸系统适应水生环境.
+<u><allcaps>Zombie poison</allcaps></u>=<u><allcaps>僵尸毒液</allcaps></u>
+r:"Zombie virus\.[\s\S]*- Miserable water x5[\s\S]*?overriding normal neural death processes\."=僵尸病毒.\r\n\n<size%3D150%>配料：</size>\r\n- 痛苦之水 x5\r\n- 毒苹果\r\n- 大脑\r\n- 黑根 x3\r\n\r\n僵尸病毒；一种生物传染剂，能复活死去的组织，覆盖正常的神经死亡过程.
+r:"Zombie virus\.[\s\S]*?<color%3Dgrey>[\s\S]*?</color>[\s\S]*?overriding normal neural death processes\."=僵尸病毒.\r\n\n<size%3D150%>配料：</size>\r\n<color%3Dgrey>- 未知成分 x5\r\n- 未知成分\r\n- 未知成分\r\n- 未知成分 x3\r\n</color>\r\n僵尸病毒；一种生物传染剂，能复活死去的组织，覆盖正常的神经死亡过程.
+//*物品
+<b>[AlchemyMod] Recipe book</b>\r\nActivate the object with F to open a special menu with recipes from this mod.=<b>[炼金模组] 配方书</b>\r\n按F键激活此物体，打开一个包含本模组配方的特殊菜单.
+<b>[AlchemyMod] Cauldron</b>=<b>[炼金模组] 大锅</b>
+<b>[AlchemyMod] Demijohn</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>10.00</color></b>=<b>[炼金模组] 细颈瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>10.00</color></b>
+<b>[AlchemyMod] Bagel bottle</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>2.00</color></b>=<b>[炼金模组] 贝果瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>2.00</color></b>
+<b>[AlchemyMod] Fat bottle</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>2.50</color></b>=<b>[炼金模组] 脂肪瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>2.50</color></b>
+<b>[AlchemyMod] Magic bottle</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>1.20</color></b>=<b>[炼金模组] 魔法瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>1.20</color></b>
+<b>[AlchemyMod] Rectangle bottle</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>1.50</color></b>=<b>[炼金模组] 矩形瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>1.50</color></b>
+<b>[AlchemyMod] Star bottle</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>2.00</color></b>=<b>[炼金模组] 派大星形瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>2.00</color></b>
+<b>[AlchemyMod] Triangular bottle</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>1.60</color></b>=<b>[炼金模组] 三角瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>1.60</color></b>
+<b>[AlchemyMod] Vial bottle</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>0.50</color></b>=<b>[炼金模组] 小瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>0.50</color></b>
+<b>[AlchemyMod] Flask bottle</b>\r\nEmpty bottle.\nCapacity: <b><color%3D#0ff>1.80</color></b>=<b>[炼金模组] 烧瓶</b>\r\n空瓶.\n容量: <b><color%3D#0ff>1.80</color></b>
+<b>[AlchemyMod] Bottle cork</b>\r\nIf you accidentally lost your cork, you can use this one! The one you lost won’t be offended.=<b>[炼金模组] 瓶塞</b>\r\n如果你不小心弄丢了你的瓶塞，可以用这个! 你丢的那个不会介意的.
+<b>[AlchemyMod] Water</b>\r\nBottle with Water.\nCapacity: <b><color%3D#0ff>10.00</color></b>=<b>[炼金模组] 水</b>\r\n装有水的瓶子.\n容量: <b><color%3D#0ff>10.00</color></b>
+<b>[AlchemyMod] Vegetable oil</b>\r\nBottle with Vegetable oil.\nCapacity: <b><color%3D#0ff>2.50</color></b>=<b>[炼金模组] 植物油</b>\r\n装有植物油的瓶子.\n容量: <b><color%3D#0ff>2.50</color></b>
+<b>[AlchemyMod] Blood</b>\r\nBottle with Blood.\nCapacity: <b><color%3D#0ff>2.50</color></b>=<b>[炼金模组] 血液</b>\r\n装有血液的瓶子.\n容量: <b><color%3D#0ff>2.50</color></b>
+<b>[AlchemyMod] Gorse blood</b>\r\nBottle with Gorse blood.\nCapacity: <b><color%3D#0ff>2.50</color></b>=<b>[炼金模组] 格洛斯血</b>\r\n装有格洛斯血的瓶子.\n容量: <b><color%3D#0ff>2.50</color></b>
+<b>[AlchemyMod] Snow fruit</b>=<b>[炼金模组] 雪果</b>
+<b>[AlchemyMod] Fire fruit</b>=<b>[炼金模组] 火焰果</b>
+<b>[AlchemyMod] Fat</b>=<b>[炼金模组] 脂肪</b>
+<b>[AlchemyMod] Lily pad</b>=<b>[炼金模组] 睡莲叶</b>
+<b>[AlchemyMod] Binding vine</b>=<b>[炼金模组] 结合藤蔓</b>
+<b>[AlchemyMod] Toxic root</b>=<b>[炼金模组] 毒根</b>
+<b>[AlchemyMod] Feather</b>=<b>[炼金模组] 羽毛</b>
+<b>[AlchemyMod] Black root</b>=<b>[炼金模组] 黑根</b>
+<b>[AlchemyMod] Spine</b>=<b>[炼金模组] 脊椎</b>
+<b>[AlchemyMod] Water berry</b>=<b>[炼金模组] 水莓</b>
+<b>[AlchemyMod] Iron nugget</b>=<b>[炼金模组] 铁</b>
+<b>[AlchemyMod] Brain</b>=<b>[炼金模组] 大脑</b>
+<b>[AlchemyMod] Apple</b>=<b>[炼金模组] 苹果</b>
+<b>[AlchemyMod] Golden apple</b>=<b>[炼金模组] 金苹果</b>
+<b>[AlchemyMod] Dizzying flower</b>=<b>[炼金模组] 眩晕花</b>
+<b>[AlchemyMod] Leaf of the ancient tree</b>=<b>[炼金模组] 古树叶</b>
+<b>[AlchemyMod] Explosive watermelon</b>=<b>[炼金模组] 爆炸西瓜</b>
+<b>[AlchemyMod] Poisonous apple</b>=<b>[炼金模组] 毒苹果</b>
+<b>[AlchemyMod] Gold nugget</b>=<b>[炼金模组] 黄金</b>
+<b>[AlchemyMod] Life stone</b>=<b>[炼金模组] 生命石</b>
+<b>[AlchemyMod] Hot pepper</b>=<b>[炼金模组] 辣椒</b>
+<b>[AlchemyMod] Paper</b>=<b>[炼金模组] 纸</b>
+<b>[AlchemyMod] Life leaf of the 91-leaf bush</b>=<b>[炼金模组] 九十一叶灌木的生命叶</b>
+//*大锅物品名字
+[AlchemyMod] Cauldron items=[炼金模组] 大锅物品
+Water=水
+Vegetable oil=植物油
+Blood=血液
+Gorse blood=格洛斯血
+Snow fruit=雪果
+Fire fruit=火焰果
+Fat=脂肪
+Lily pad=睡莲叶
+Binding vine=结合藤蔓
+Toxic root=毒根
+Feather=羽毛
+Black root=黑根
+Spine=脊椎
+Water berry=水莓
+Iron=铁
+Brain=大脑
+Apple=苹果
+Golden apple=金苹果
+Dizzying flower=眩晕花
+Leaf of the ancient tree=古树叶
+Explosive watermelon=爆炸西瓜
+Poisonous apple=毒苹果
+Gold=黄金
+Life stone=生命石
+Hot pepper=辣椒
+Paper=纸
+Life leaf of the 91-leaf bush=九十一叶灌木的生命叶
+Lava=熔岩
+Vegetable oil=植物油
+Binding liquid=粘合液
+Miserable water=痛苦之水
+Infinite cooling liquid=无限冷却液
+Infinite heating liquid=无限加热液
+Weightless liquid=失重液
+Zero friction liquid=零摩擦液体
+Gravity shift liquid=重力偏移液
+Water electrification liquid=水导电液
+Mega brain liquid=超级大脑液
+Unstable growth liquid=不稳定生长液
+Balloon head liquid=气球头液
+Glass Skin=玻璃皮肤
+Delayed death liquid=延迟死亡液
+Explosive steps liquid=爆炸步态液
+Midas' touch=点金之手
+Bone hurting juice=噬骨汁
+Coagulation=凝血血清
+Freeze poison=冰冻毒药
+Knockout poison=致昏毒液
+Pain killer=镇痛药剂
+Pink dormant=惰性粉色液体
+Zombie poison=僵尸毒液
+Glass=玻璃板
+Gorse leg=格洛斯腿
+//*右键菜单
+Show items=显示物品
+Show alchemy items in object. From AlchemyMod.=在物体中显示炼金物品. 来自炼金模组.
+Interior <color%3Dgreen>visible</color>=内部 <color%3Dgreen>可见</color>
+Interior <color%3Dgrey>hidden</color>=内部 <color%3Dgrey>隐藏</color>
+Switch interior visibility. From AlchemyMod.=切换内部可见性.来自炼金模组.
+//*右下角提示
+<color%3Dyellow>Started crafting...</color>=<color%3Dyellow>开始酿造...</color>
+<color%3Dred>Wrong</color> ingredients!=<color%3Dred>错误</color>的配料！
+<color%3Dgreen>Something created</color>=<color%3Dgreen>某神神秘秘玩意已生成</color>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//5*魔法模组_Magic Mod [Discontinued]
+<size%3D1.5em>Magic Mod</size>\nThis mod adds magical things to the people playground!\nPotions, mages, spells, mana all this adds this mod! \n\nThis mod requires an MPW library mod! This is a must, otherwise the mod will not work properly.\n\n\n\n<size%3D78%>The mod was created by members of the Int team</size>=<size%3D1.5em>魔法模组</size>\n这个模组为人类游乐场增添了魔法元素！\n药水、法师、法术、法力，所有这些都由这个模组添加！\n\n这个模组需要 MPW 库模组！这是必须的，否则模组将无法正常工作.\n\n\n\n<size%3D78%>该模组由 Int 团队成员创建</size>
+The mod adds a lot of magical stuff: items, spells, souls, and much more.\nby laska, Gank, quickness\nAdds magic stuff to the game=该模组添加了大量魔法内容：物品、法术、灵魂等等.\n作者：laska, Gank, quickness\n向游戏添加了魔法物品.
+
+
+
+
+
+//*物品栏
+<b>Magic Mod</b>\r\nMages, spells, potions.=<b>[魔法模组]TF_RC汉化</b>\r\n法师，法术，药水.
+Mod menu [MagicMod]</b>\r\nMod menu. It contains settings, info and changelog.\nIf it's just a brick, then download <color%3Dred>MPW Library</color> on Workshop!=<b>模组菜单 [魔法模组]</b>\n模组菜单. 包含设置、信息和更新日志. \n如果它只是个砖块，请在创意工坊下载 <color%3Dred>MPW Library</color>！
+
+
+
+
+
+//*人物状态
+r:"MagicalPower: <alpha%3D#00>-<alpha%3D#FF>([\d\.]+)\\nManaRegenPerSec: <alpha%3D#00>-<alpha%3D#FF>([\d\.]+)\\nMana: <alpha%3D#00>-<alpha%3D#FF>([\d\.]+) / <alpha%3D#00>-<alpha%3D#FF>([\d\.]+)"=魔法力量：<alpha%3D#00>-<alpha%3D#FF>$1\n法力每秒恢复：<alpha%3D#00>-<alpha%3D#FF>$2\n法力：<alpha%3D#00>-<alpha%3D#FF>$3 / <alpha%3D#00>-<alpha%3D#FF>$4
+
+
+
+
+
+//*设置
+[MagicMod] Settings=[魔法模组TF_RC汉化] 设置
+Reset settings?=重置设置?
+Are you sure you want to reset <b>settings "MagicMod.ModSettings+Settings" from "null"</b>?=你确定要将<b>设置 "MagicMod.ModSettings+Settings" 从 "null"</b> 重置吗?
+Show spells charge=显示法术充能
+If enabled, mages will have bars to display the charge of all assigned spells.=如果启用，法师将会有进度条来显示所有指定法术的充能进度.
+Show spells aim cross=瞄准十字显示法术
+If enabled, some spells will have an aiming cross.=如果启用，部分法术会显示瞄准准星.
+Always show mage bars=始终显示法师数值条
+If enabled, the mage's bars will always be displayed, if not - only in the detailed view.=如果启用，法师的数值条将始终显示；如果未启用，则仅在详情视图中显示.
+Spells=法术
+More powerful spells=更强大的法术
+All spells become more powerful.=所有法术都变得更强大.
+Quick casting of some spells=部分法术快速施法
+If enabled, some spells will be cast quickly (for example, without aiming).=如果启用，部分法术将可快速施放（例如，无需瞄准）
+Slowmotion when using some spells=使用部分法术时进入慢动作
+If enabled, when using some spells, time is slowed down to "Slowmotion speed".=如果启用，使用部分法术时，时间会减慢至“慢动作速度”.
+Slowmotion speed=慢动作速度
+Slowmotion speed for setting "Slowmotion when using some spells".=设置“使用部分法术时进入慢动作”的慢动作速度.
+Cheats=作弊
+Auto learn all spells=自动学会所有法术
+When a mage spawns, he learns all spells.=当法师生成时，他会学会所有法术.
+Fill explosive soul stones on spawn=生成时填满爆裂灵魂石
+Explosive soul stones will spawn already with a medium soul inside.=爆裂灵魂石生成时将已内含一个中等灵魂.
+Fill soul stones on spawn=生成时填满灵魂石
+Soul stones will spawn already with a medium soul inside.=灵魂石生成时将已内含一个中等灵魂.
+Infinite souls in soul stones=灵魂石内灵魂无限
+Soul stones is automatically filled with a medium soul.=灵魂石会自动充满一个中等灵魂.
+Developer Mode=开发者模式
+Enables developer mode. You need this.=启用开发者模式. 你需要这个.
+Show mage info=显示法师信息
+Shows above the mage's head all information about the mage.=在法师头顶显示关于该法师的所有信息.
+Very fast mana regeneration=极快法力恢复
+If enabled, all mages will have very fast mana regeneration.=如果启用, 所有法师都将拥有极快的法力恢复速度.
+Other=其他
+Reset all secrets=重置所有秘密
+The progress of all secrets will be reset.=所有秘密的进度将被重置.
+Auto-assignment of learned spells=自动分配已学法术
+When learned, spells are themselves assigned to a suitable unassignment limb.=学习后，法术会自动分配至合适的空闲肢体.
+Souls dissolving over time=灵魂随时间消散
+If enabled, souls will dissolve after a certain time, as intended.=如果启用，灵魂将如预期那样在一定时间后消散.
+Potions splatter liquid when broken=药水瓶破碎时溅出液体
+If enabled, potions release liquid gas when broken. (for easy use of potions)=如果启用，药水瓶破碎时会释放液态气体.（方便使用药水）
+Spell projectiles are debris=法术投射物变为碎片
+If enabled, projectiles created by spells will be treated as debris and removed with the "Clear debris" button.=如果启用，法术产生的投射物将被视为碎片，并可通过“清除碎片”按钮移除.
+Make masks unpickable=使面具无法拾取
+When enabled, masks cannot be removed using a hand grip.=启用时，面具无法通过手部抓取移除.
+Remove cloth when limb die=肢体死亡时移除布料
+If enabled, the cloth will detach from the limb when it dies.=如果启用，肢体死亡时其上的布料会脱落.
+Catalog folders opened by default=默认打开目录文件夹
+If enabled, folders in the catalog will be opened by default.=如果启用，目录中的文件夹将默认展开.
+Androids can become mages=机器人可成为法师
+Just a setting that toggles is not a logical thing. Androids can now become mages=仅靠一个开关来切换并不合逻辑.现在，机器人也可以成为法师了.
+[MagicMod] Info=[魔法模组TF_RC汉化] 信息
+Info=信息
+Basic=基础
+Entity into Mage=实体转化为法师
+[MagicMod] Entity into Mage=[魔法模组TF_RC汉化] 实体转化为法师
+<color%3D#93cccf>Magic Mod</color> allows you to turn almost any entity into a mage. To do this, use a new item added by the mod: <color%3Dyellow>Mage Book</color>. This item enables an entity to become a mage.\n\nHold this item near the entity's head and press the activation button <color%3D#c25436>(default: F)</color>. A learning effect will appear as a stream of <color%3D#617bc9>runes</color> flowing into the entity's head. Do not move the book away until the training is complete, or you'll have to start over. Once training is finished, the entity will become a mage, gaining a small amount of maximum mana and weak magical power.=<color%3D#93cccf>魔法模组</color>允许你将几乎任何实体转化为法师. 要做到这一点，请使用模组新增的物品：<color%3Dyellow>法师之书</color>.该物品可使实体成为法师.\n\n将此物品靠近实体的头部，并按下激活键 <color%3D#c25436>（默认：F）</color>.学习效果将以一股<color%3D#617bc9>符文</color>流的形式出现，流入实体的头部.在训练完成之前，不要移开书本，否则你必须重新开始.训练完成后，该实体将成为法师，并获得少量最大法力值和微弱的魔法力量.
+Spell learning=法术学习
+[MagicMod] Spell learning=[魔法模组TF_RC汉化] 法术学习
+In <color%3D#93cccf>Magic Mod</color>, mages have the ability to learn spells. This is the <color%3D#f77b74>core</color> feature of the mod, with a wide variety of spells ranging from simple to complex.\n\nThe mod includes many books that contain specific spells. Choose the book that holds the desired spell. Then, hold it near the mage's head and press the activation button <color%3D#c25436>(default: F)</color>. The learning effect, shown as a stream of <color%3D#617bc9>runes</color>, indicates that spell learning has begun. Once the spell is learned, it will be added to the <color%3D#ffaa42>spell assigment menu</color>.\n\nYou can also use a new item: <color%3Dyellow>Omniscience Book</color>. This book contains all the spells available in the mod. The learning process with this book is the same as with other books, with the only difference being that the learning speed is slower.\n\nThe last method, as of the guide's writing, is a custom setting in the mod: <color%3D#ffaa42>Auto learn all spells</color>. When enabled, this setting automatically learns all spells for all mages.\n\nIf you're having trouble learning a spell, it might already be learned. This could be due to a mod setting that automatically learns all spells.=<color%3D#93cccf>魔法模组</color>中，法师拥有学习法术的能力.这是该模组的<color%3D#f77b74>核心</color>功能，其法术种类繁多，从简单到复杂均有涵盖.\n\n模组包含许多记载特定法术的书籍.选择你想要法术的那本书.然后，将其靠近法师的头部，并按下激活键 <color%3D#c25436>（默认：F）</color>. 学习效果将以<color%3D#617bc9>符文</color>流的形式呈现，表示法术学习已经开始.一旦法术被学会，它将被添加到<color%3D#ffaa42>法术分配菜单</color>中.\n\n你还可以使用一种新物品：<color%3Dyellow>全知之书</color>. 这本书包含了模组中所有可用的法术.使用此书的学习过程与其他书籍相同，唯一区别在于学习速度较慢.\n\n截至本指南编写时，最后一种方法是模组中的一个自定义设置：<color%3D#ffaa42>自动学习所有法术</color>. 启用此设置后，所有法师将自动学会所有法术.\n\n如果你在学习法术时遇到困难，该法术可能已经被学会了.这可能是由于模组中自动学习所有法术的设置所导致.
+Spell assignment=法术分配
+[MagicMod] Spell assignment=[魔法模组TF_RC汉化] 法术分配
+One of the <color%3D#f77b74>core</color> features of <color%3D#93cccf>Magic Mod</color> is <color%3D#f77b74>spell assignment</color> for mages. This is done through a special unique menu: <color%3Dyellow>Spell Assignment Menu</color>. It allows you to view learned spells, their descriptions, and the requirements for using them, such as mana cost per use or mana required to hold the cast.\n\nTo access this menu, <color%3D#c25436>right-click</color> on any mage's limb and select <color%3Dyellow>Spell Assignment Menu</color> option in the context menu. This will open the menu where you can assign spells to specific limbs.\n\nOn the left side, the mage and their limbs are displayed, along with the mage's name and the currently selected limb. Click on one of the limbs, and in the middle panel, the spells that can be assigned to that limb will be shown. Some spells are assigned to the hands, some to the head, and some to both hands and feet. It all depends on the spell.\n\n<color%3D#f77b74>To assign a spell</color> to a limb, click on the desired limb on the left and then select the appropriate spell from the middle. The spell icon will appear on the limb, indicating that the spell has been assigned.\n\nOn the right side of the menu, all information about the selected spell is displayed, including its description, what it consumes for casting and holding, as well as which type of magic the spell belongs to.=<color%3D#93cccf>魔法模组</color>的<color%3D#f77b74>核心</color>功能之一是法师的<color%3D#f77b74>法术分配</color>.这是通过一个特殊的专属菜单完成的：<color%3Dyellow>法术分配菜单</color>.它允许你查看已学习的法术、它们的描述以及使用它们的要求，例如每次使用的法力消耗或维持施法所需的法力.\n\n要访问此菜单，请在任何法师的肢体上<color%3D#c25436>右键单击</color>，然后在右键菜单中选择<color%3Dyellow>法术分配菜单</color>选项.这将打开菜单，你可以在其中将法术分配给特定的肢体.\n\n在左侧，显示法师及其肢体，以及法师的名称和当前选中的肢体.单击其中一个肢体，中间面板将显示可以分配给该肢体的法术.有些法术分配给手，有些分配给头，有些则分配给手和脚.这完全取决于法术本身.\n\n<color%3D#f77b74>要将法术分配</color>给肢体，请单击左侧所需的肢体，然后从中间选择相应的法术.法术图标将出现在肢体上，表示法术已分配完毕.\n\n在菜单的右侧，显示有关所选法术的所有信息，包括其描述、施法和维持所消耗的资源，以及该法术所属的魔法类型.
+Spell casting=法术施放
+[MagicMod] Spell casting=[魔法模组TF_RC汉化] 法术施放
+To use spells, you need to cast them. Since the development of the Prostheses mod, we thought that a <color%3D#f77b74>separate activation</color> button was needed for abilities, and in this case, spells. So, we introduced a new button: <color%3Dyellow>Special Activation</color> <color%3D#c25436>(default: H)</color>. Sometimes we call it <color%3Dyellow>SA</color>. This was done so you could grab items and use spells/abilities at the same time.\n\nTo cast any spell, grab the hand where the spell is assigned, then use SA <color%3D#c25436>(default: H)</color>, and the spell will casted. Some spells require holding SA <color%3D#c25436>(default: H)</color>. This depends on the spell, so be sure to read the descriptions.=要使用法术，你需要施放它们.自从假肢模组开发以来，我们认为能力（以及此处的法术）需要一个<color%3D#f77b74>单独的激活</color>键.因此，我们引入了一个新按键：<color%3Dyellow>特殊激活</color> <color%3D#c25436>（默认：H）</color>.有时我们称之为<color%3Dyellow>SA</color>.这样做是为了让你可以同时抓取物品和使用法术/能力.\n\n要施放任何法术，请抓取分配了法术的那只手，然后使用SA <color%3D#c25436>（默认：H）</color>，法术就会被施放.有些法术需要长按SA <color%3D#c25436>（默认：H）</color>.这取决于具体的法术，所以请务必阅读法术描述.
+<color%3D#93cccf>Magic Mod</color> includes various settings that manipulate different events. They were designed for convenience — to disable certain annoying elements and add extra features that I <color%3D#93cccf>(quickness)</color> wanted but <color%3D#93cccf>laska</color> didn’t.\n\nSettings can be found in <color%3D#f77b74>Settings tab</color> of <color%3D#f77b74>Mod Menu</color> and are organized into multiple categories for ease of use. These settings are saved automatically, so you don’t need to adjust them every time you launch the game.\n\nRemember to click <color%3D#f77b74>Save Settings</color> button; otherwise, your changes won’t be saved. Below is a list of all settings and their descriptions.\n\nSettings List:\n<size%3D13>a default value is shown to the right of a setting name.\n<size%3D15><color%3D#dee1fc>Always show mage bars</color> <size%3D13><color%3D#d14545>Off</color>\nIf enabled, the mage's bars will always be displayed, if not - only in the detailed view.\n\n<size%3D15><color%3D#dee1fc>Show spells charge</color> <size%3D13><color%3D#d14545>Off</color>\nIf enabled, mages will have bars to display the charge of all assigned spells.\n\n\n<size%3D15><color%3D#dee1fc>Show spells aim cross</color> <size%3D13><color%3D#d14545>Off</color>\nIf enabled, some spells will have an aiming cross.\n\n<size%3D15><color%3D#dee1fc>Quick casting of some spells</color> <size%3D13><color%3D#2ed622>True</color>\nIf enabled, some spells will be cast quickly (for example, without aiming). A fairly old setting used in several older spells (Kick, Rip Out Spells).\n\n<size%3D15><color%3D#dee1fc>Slowmotion when using some spells</color> <size%3D13><color%3D#2ed622>True</color>\nIf enabled, when using some spells, time is slowed down to \"Slowmotion speed\".\n\n<size%3D15><color%3D#dee1fc>Slowmotion speed</color> <size%3D13><color%3D#697eb3>20%</color>\nSlowmotion speed for setting \"Slowmotion when using some spells\".\n\n<size%3D15><color%3D#dee1fc>Androids can become mages</color> <size%3D13><color%3D#d14545>Off</color>\nJust a setting that toggles is not a logical thing. Androids can now become mages.\n\n<size%3D15><color%3D#dee1fc>Auto-assignment of learned spells</color> <size%3D13><color%3D#d14545>Off</color>\nWhen learned, spells are themselves assigned to a suitable unassignment limb.\n\n<size%3D15><color%3D#dee1fc>Souls dissolving over time</color> <size%3D13><color%3D#2ed622>True</color>\nIf enabled, souls will dissolve after a certain time, as intended.\n\n<size%3D15><color%3D#dee1fc>More powerful spells</color> <size%3D13><color%3D#d14545>Off</color>\nAll spells become more powerful.\n\n<size%3D15><color%3D#dee1fc>Potions splatter liquid when broken</color> <size%3D13><color%3D#d14545>Off</color>\nIf enabled, potions release liquid gas when broken. (for easy use of potions)\n\n<size%3D15><color%3D#dee1fc>Spell projectiles are debris</color> <size%3D13><color%3D#d14545>Off</color>\nIf enabled, projectiles created by spells will be treated as debris and removed with the \"Clear debris\" button.\n\n<size%3D15><color%3D#dee1fc>Make masks unpickable</color> <size%3D13><color%3D#d14545>Off</color>\nWhen enabled, masks cannot be removed using a hand grip.\n\n<size%3D15><color%3D#dee1fc>Very fast mana regeneration</color> <size%3D13><color%3D#d14545>Off</color>\nIf enabled, all mages will have very fast mana regeneration.\n\n<size%3D15><color%3D#dee1fc>Auto learn all spells</color> <size%3D13><color%3D#d14545>Off</color>\nWhen a mage spawns, he learns all spells.\n\n<size%3D15><color%3D#dee1fc>Fill explosive soul stones on spawn</color> <size%3D13><color%3D#d14545>Off</color>\nExplosive soul stones will spawn already with a medium soul inside.\n\n<size%3D15><color%3D#dee1fc>Fill soul stones on spawn</color> <size%3D13><color%3D#d14545>Off</color>\nSoul stones will spawn already with a medium soul inside.\n\n<size%3D15><color%3D#dee1fc>Infinite souls in soul stones</color> <size%3D13><color%3D#d14545>Off</color>\nSoul stones is automatically filled with a medium soul.\n\n<size%3D15><color%3D#dee1fc>Developer Mode</color> <size%3D13><color%3D#d14545>Off</color>\nEnables developer mode. You need this.\n\n<size%3D15><color%3D#dee1fc>Show mage info</color> <size%3D13><color%3D#d14545>Off</color>\nShows above the mage's head all information about the mage.=<color%3D#93cccf>魔法模组</color>包含多种用于控制不同事件的设置.它们的设计是为了方便——禁用某些恼人的元素，并添加我<color%3D#93cccf>@quickness</color>想要但<color%3D#93cccf>@laska</color>不想要的额外功能.\n\n设置可以在<color%3D#f77b74>模组菜单</color>的<color%3D#f77b74>设置选项卡</color>中找到，并为了便于使用而分为多个类别.这些设置会自动保存，因此你无需在每次启动游戏时重新调整.\n\n记得点击<color%3D#f77b74>保存设置</color>按钮；否则，你的更改下次进游戏将不会被保存.以下是所有设置及其描述的列表.\n\n设置列表默认值：\n<size%3D13>默认值显示在设置名称的右侧.\n<size%3D15><color%3D#dee1fc>始终显示法师数值条</color> <size%3D13><color%3D#d14545>关闭</color>\n如果启用，法师的数值条将始终显示；如果未启用，则仅在详情视图中显示.\n\n<size%3D15><color%3D#dee1fc>显示法术充能</color> <size%3D13><color%3D#d14545>关闭</color>\n如果启用，法师将拥有显示所有已分配法术充能状态的数值条.\n\n\n<size%3D15><color%3D#dee1fc>显示法术瞄准准星</color> <size%3D13><color%3D#d14545>关闭</color>\n如果启用，部分法术会显示瞄准准星.\n\n<size%3D15><color%3D#dee1fc>部分法术快速施法</color> <size%3D13><color%3D#2ed622>开启</color>\n如果启用，部分法术将可快速施放（例如，无需瞄准）.这是一个相当古老的设置，用于一些旧版法术（踢，扯出法术）.\n\n<size%3D15><color%3D#dee1fc>使用部分法术时进入慢动作</color> <size%3D13><color%3D#2ed622>开启</color>\n如果启用，使用部分法术时，时间会减慢至“慢动作速度”.\n\n<size%3D15><color%3D#dee1fc>慢动作速度</color> <size%3D13><color%3D#697eb3>20%</color>\n设置“使用部分法术时进入慢动作”的慢动作速度.\n\n<size%3D15><color%3D#dee1fc>机器人可成为法师</color> <size%3D13><color%3D#d14545>关闭</color>\n仅靠一个开关来切换并不合逻辑.现在，机器人也可以成为法师了.\n\n<size%3D15><color%3D#dee1fc>自动分配已学法术</color> <size%3D13><color%3D#d14545>关闭</color>\n学习后，法术会自动分配至合适的空闲肢体.\n\n<size%3D15><color%3D#dee1fc>灵魂随时间消散</color> <size%3D13><color%3D#2ed622>开启</color>\n如果启用，灵魂将如预期那样在一定时间后消散.\n\n<size%3D15><color%3D#dee1fc>更强大的法术</color> <size%3D13><color%3D#d14545>关闭</color>\n所有法术都变得更强大.\n\n<size%3D15><color%3D#dee1fc>药水破碎时溅出液体</color> <size%3D13><color%3D#d14545>关闭</color>\n如果启用，药水瓶破碎时会释放液态气体.（方便使用药水）\n\n<size%3D15><color%3D#dee1fc>法术投射物变为碎片</color> <size%3D13><color%3D#d14545>关闭</color>\n如果启用，法术产生的投射物将被视为碎片，并可通过“清除碎片”按钮移除.\n\n<size%3D15><color%3D#dee1fc>使面具无法拾取</color> <size%3D13><color%3D#d14545>关闭</color>\n启用时，面具无法通过手部抓取移除.\n\n<size%3D15><color%3D#dee1fc>极快法力恢复</color> <size%3D13><color%3D#d14545>关闭</color>\n如果启用，所有法师都将拥有极快的法力恢复速度.\n\n<size%3D15><color%3D#dee1fc>自动学习所有法术</color> <size%3D13><color%3D#d14545>关闭</color>\n当法师生成时，他会学会所有法术.\n\n<size%3D15><color%3D#dee1fc>生成时填满爆裂灵魂石</color> <size%3D13><color%3D#d14545>关闭</color>\n爆裂灵魂石生成时将已内含一个中等灵魂.\n\n<size%3D15><color%3D#dee1fc>生成时填满灵魂石</color> <size%3D13><color%3D#d14545>关闭</color>\n灵魂石生成时将已内含一个中等灵魂.\n\n<size%3D15><color%3D#dee1fc>灵魂石内灵魂无限</color> <size%3D13><color%3D#d14545>关闭</color>\n灵魂石会自动充满一个中等灵魂.\n\n<size%3D15><color%3D#dee1fc>开发者模式</color> <size%3D13><color%3D#d14545>关闭</color>\n启用开发者模式.你需要这个.\n\n<size%3D15><color%3D#dee1fc>显示法师信息</color> <size%3D13><color%3D#d14545>关闭</color>\n在法师头顶显示关于该法师的所有信息.
+Secrets=秘密
+[MagicMod] Secrets=[魔法模组TF_RC汉化] 秘密
+<color%3D#93cccf>Magic Mod</color> contains several secrets and mysteries that unlock unique items. We won’t reveal exactly what they are, but here’s a hint: Look for something, somewhere on the official PPG maps. :)=<color%3D#93cccf>魔法模组</color>包含多个秘密和谜团，解锁独特物品.我们不会确切透露它们是什么，但这里有个提示：在官方PPG地图的某个地方寻找某物 :)
+Mechanics=机制
+Mages=法师
+[MagicMod] Mages=[魔法模组TF_RC汉化] 法师
+<color%3D#93cccf>Magic Mod</color> already includes new entities created by us. They have their own names, gender, strength, learned spells, and predisposition to certain types of magic. All mages have different characteristics. We will strive to add a new mage for each type of magic in the future.\n\nWe did this to make it easier for you, for example, to spawn a <color%3D#35cc49>Healer Mage</color>, who knows all healing-related spells, or an <color%3D#24aed4>Ice Mage</color>, who knows all ice-related spells.\n\nHowever, <color%3D#f77b74>all mages can learn any spells</color>, even those unrelated to their elemental affinity.=<color%3D#93cccf>魔法模组</color>已经包含了由我们创建的新实体.它们有自己的名字、性别、强度、已学法术以及对某些类型魔法的倾向.所有法师都有不同的特性.未来我们将努力为每种魔法类型添加一个新的法师.\n\n我们这样做是为了让你更方便，例如，生成一个<color%3D#35cc49>治疗法师</color>，它掌握所有与治疗相关的法术，或者一个<color%3D#24aed4>冰霜法师</color>，它掌握所有与冰相关的法术.\n\n然而，<color%3D#f77b74>所有法师都可以学习任何法术</color>，即使是那些与其元素亲和力无关的法术.
+Magical power=魔法力量
+[MagicMod] Magical power=[魔法模组TF_RC汉化] 魔法力量
+Each mage has their own <color%3D#f77b74>magical power</color>. In general, magical power is a <color%3D#f77b74>multiplier</color> for all spells. The higher the magical power of a mage, the stronger they are overall.\n\nThis affects the spell's casting range, power, mana cost per cast, and much more. However, it's important to note that magical power doesn't affect everything equally. It all depends on the specific spell.=每个法师都有自己的<color%3D#f77b74>魔法力量</color>.一般来说，魔法力量是所有法术的<color%3D#f77b74>乘数</color>.法师的魔法力量越高，他们的整体实力就越强.\n\n这会影响法术的施法范围、威力、每次施放的法力消耗等等.然而，需要注意的是，魔法力量对不同方面的影响程度并不相同.这完全取决于具体的法术.
+Mana=法力
+[MagicMod] Mana=[魔法模组TF_RC汉化] 法力
+<color%3D#446fdb>Mana</color> is the primary energy used for casting spells. It can be consumed per use or for holding a cast.\n\nThe amount of <color%3D#446fdb>mana</color> is displayed in the <color%3D#446fdb>Mana bar</color> above the mage's head. By default, <color%3D#446fdb>Mana bar</color> is visible only in detailed view mode <color%3D#c25436>(default: S)</color>. However, you can enable <color%3Dyellow>Always Show Mage Bars</color> setting to keep it visible at all times.\n\n<color%3D#446fdb>Mana</color> is not infinite — it depletes when casting spells but regenerates passively depending on the mage. It can also be restored using <color%3D#b097db>potions</color>.\n\nIf you want infinite <color%3D#446fdb>mana</color>, enable <color%3Dyellow>Very Fast Mana Regeneration</color> setting, which makes mana unlimited.=<color%3D#446fdb>法力</color>是施放法术所使用的主要能量.它可以按次消耗，也可以用于维持施法.\n\n<color%3D#446fdb>法力</color>的量显示在法师头顶的<color%3D#446fdb>法力条</color>中.默认情况下，<color%3D#446fdb>法力条</color>仅在详情视图模式 <color%3D#c25436>（默认：S）</color> 下可见.不过，你可以启用<color%3Dyellow>始终显示法师数值条</color>设置，使其始终保持可见.\n\n<color%3D#446fdb>法力</color>并非无限——施放法术时会消耗，但会根据法师被动恢复.也可以使用<color%3D#b097db>药水</color>来恢复.\n\n如果你想要无限的<color%3D#446fdb>法力</color>，可以启用<color%3Dyellow>极快法力恢复</color>设置，该设置会使法力变为无限.
+Magic types=魔法类型
+Effects=效果
+[MagicMod] Effects=[魔法模组TF_RC汉化] 效果
+<color%3D#93cccf>Magic Mod</color> includes various effects that grant special advantages or disadvantages to entities. By default, the effect bar is only visible in detailed view mode <color%3D#c25436>(default: S)</color>. However, you can enable <color%3Dyellow>Always Show Mage Bars</color> setting to keep the effect bar visible at all times.\n\nMany effects can be obtained through <color%3D#b097db>potions</color>, while others are granted only in special cases. Below is a list of all effects in Magic Mod.\n\nEffects List:\n<size%3D15><color%3D#dee1fc>Mana Regeneration</color> <size%3D13><color%3D#2ed622>Positive</color>\nIncreases mana regeneration.\n\n<size%3D15><color%3D#dee1fc>Enhance magical power</color> <size%3D13><color%3D#2ed622>Positive</color>\nEnhances mage's magical power. If the increase in magical power is too large, after the end of the effect, the magical power will greatly decrease.\n\n<size%3D15><color%3D#dee1fc>Warming</color> <size%3D13><color%3D#2ed622>Positive</color>\nGradually warming the creature. Will never replace hot tea because of its flavor.\n\n<size%3D15><color%3D#dee1fc>Сooling</color> <size%3D13><color%3D#2ed622>Positive</color>\nGradually cooling the creature.\n\n<size%3D15><color%3D#dee1fc>Electricity resistance</color> <size%3D13><color%3D#2ed622>Positive</color>\nAbsorbs the creature's electricity.\n\n<size%3D15><color%3D#dee1fc>Water breathing</color> <size%3D13><color%3D#2ed622>Positive</color>\nGenerates oxygen if there isn't enough.\n\n<size%3D15><color%3D#dee1fc>Weaken magical power</color> <size%3D13><color%3D#d14545>Negative</color>\nWeakens mage's magical power. The effect weakens over time.\n\n<size%3D15><color%3D#dee1fc>Effect of using dark magic</color> <size%3D13><color%3D#d14545>Negative</color>\nReduces max mana. If it is not possible to reduce max mana, it harms the mage to death. Gradually accumulates when using dark magic.\n\n<size%3D15><color%3D#dee1fc>Strange mark</color> <size%3D13><color%3D#697eb3>Neutral</color>\nThe answers aren't looking for you.\n\n<size%3D15><color%3D#dee1fc>Not magical soul in mage</color> <size%3D13><color%3D#d14545>Negative</color>\nDecreases the mage's stats due to non-magical soul.\n\n<size%3D15><color%3D#dee1fc>Protected soul</color> <size%3D13><color%3D#2ed622>Positive</color>\nProtects the soul from being ripped out. Some spells cannot be cast due to this effect.=<color%3D#93cccf>魔法模组</color>包含各种能为实体带来特殊优势或劣势的效果.默认情况下，效果条仅在详情视图模式 <color%3D#c25436>（默认：S）</color> 下可见.不过，你可以启用<color%3Dyellow>始终显示法师数值条</color>设置，让效果条始终保持可见.\n\n许多效果可以通过<color%3D#b097db>药水</color>获得，而其他效果仅在特殊情况下授予.以下是魔法模组中所有效果的列表.\n\n效果列表：\n<size%3D15><color%3D#dee1fc>法力恢复</color> <size%3D13><color%3D#2ed622>正面</color>\n增加法力恢复速度.\n\n<size%3D15><color%3D#dee1fc>增强魔法力量</color> <size%3D13><color%3D#2ed622>正面</color>\n增强法师的魔法力量.如果魔法力量的增幅过大，效果结束后，魔法力量会大幅下降.\n\n<size%3D15><color%3D#dee1fc>温暖</color> <size%3D13><color%3D#2ed622>正面</color>\n逐渐温暖该实体.因其味道，永远无法取代热茶.\n\n<size%3D15><color%3D#dee1fc>凉爽</color> <size%3D13><color%3D#2ed622>正面</color>\n逐渐冷却该实体.\n\n<size%3D15><color%3D#dee1fc>电阻</color> <size%3D13><color%3D#2ed622>正面</color>\n吸收该实体的电.\n\n<size%3D15><color%3D#dee1fc>水下呼吸</color> <size%3D13><color%3D#2ed622>正面</color>\n在氧气不足时生成氧气.\n\n<size%3D15><color%3D#dee1fc>削弱魔法力量</color> <size%3D13><color%3D#d14545>负面</color>\n削弱法师的魔法力量.效果会随时间逐渐减弱.\n\n<size%3D15><color%3D#dee1fc>使用黑暗魔法的效果</color> <size%3D13><color%3D#d14545>负面</color>\n减少最大法力值.如果无法减少最大法力值，则会对法师造成致命伤害.使用黑暗魔法时会逐渐累积.\n\n<size%3D15><color%3D#dee1fc>奇怪的标记</color> <size%3D13><color%3D#697eb3>中性</color>\n答案不会来找你.\n\n<size%3D15><color%3D#dee1fc>法师中的非魔法灵魂</color> <size%3D13><color%3D#d14545>负面</color>\n由于非魔法灵魂，降低法师的属性.\n\n<size%3D15><color%3D#dee1fc>受保护的灵魂</color> <size%3D13><color%3D#2ed622>正面</color>\n保护灵魂不被扯出.由于此效果，部分法术无法施放.
+Souls=灵魂
+Attachable=可附加的
+[MagicMod] Attachable=[魔法模组TF_RC汉化] 可附加的
+In Magic Mod, there are some items that can be worn on any entity. This is useful for RP, and it also includes any items used by the mages we added. Additionally, such an item can have any functionality.\n\nTo equip a wearable item, bring it to the limb specified in the item’s description, aligning it with the logically correct side (for example, for the Witch Hat, this is the bottom side). The item will automatically be equipped.\n\nTo remove a worn item, you can use two methods. The first is to use the Detach option in the context menu. The second method is to grab the wearable item with a mage’s hand using the activation button (F by default). Since many requested it, the second method can be disabled in the mod settings. Use the Make mask unpickable setting to prevent such items from being removed by hand.\n\nAnd lastly, there is the Ignore collision in circle option. This setting disables collisions between the wearable item and all other objects in a small area around it. Quite a useful feature.=在魔法模组中，有一些物品可以穿戴在任何实体上.这对角色扮演很有用，同时也包括我们添加的法师所使用的任何物品.此外，这样的物品可以具有任何功能.\n\n要装备可穿戴物品，请将其带到物品描述中指定的肢体处，并与逻辑上正确的一侧对齐（例如，对于女巫帽，这是底部一侧）.该物品将自动装备.\n\n要移除已穿戴的物品，你可以使用两种方法.第一种是使用右键菜单中的“分离”选项.第二种方法是使用激活键（默认为F）用法师的手抓取可穿戴物品.由于很多人要求这样做，第二种方法可以在模组设置中禁用.使用“使面具无法拾取”设置可以防止此类物品被手移除.\n\n最后，还有“忽略圈内碰撞”选项.此设置会禁用可穿戴物品与其周围小范围内所有其他物体的碰撞.这是一个相当有用的功能.
+Potions=药水
+[MagicMod] Potions=[魔法模组TF_RC汉化] 药水
+<color%3D#93cccf>Magic Mod</color> has effects system. They give mages unique buffs or debuffs. Some of them come from spells, and some from potions. This guide is specifically about Potions.\n\nTo use a potion, you need to bring it to the entity's mouth (the front part of the entity's face) and hold F. The contents of the bottle will be drunk, and the effect will be applied to the entity. Effects can be positive, negative, or neutral. This was explained in more detail in the Effects Guide.\n\nIt is also worth noting that the mod has containers with potions: Small and Regular. These liquid containers differ in volume.\n\nAnd lastly, if you don’t like the original way of using potions, you can enable a setting in Mod Menu: Potions splatter liquid when broken. This setting allows you to use potions similarly to Minecraft. Just break a container with liquid, and it will automatically apply to nearby entities.=<color%3D#93cccf>魔法模组</color>拥有效果系统.它们为法师提供独特的增益或减益效果.其中一些来自法术，一些来自药水.本指南专门介绍药水.\n\n要使用药水，你需要将其带到实体的嘴边（实体面部的前部）并按住F键.瓶子中的液体将被喝下，效果将应用于该实体.效果可以是正面的、负面的或中性的.这在效果指南中有更详细的说明.\n\n另外值得注意的是，模组中有盛装药水的容器：小型和普通型.这些液体容器的容量不同.\n\n最后，如果你不喜欢药水的原始使用方式，可以在模组菜单中启用一个设置：药水破碎时溅出液体.此设置允许你像《我的世界》那样使用药水.只需打破装有液体的容器，它就会自动应用于附近的实体.
+Soul Containers=灵魂容器
+[MagicMod] Soul Containers=[魔法模组TF_RC汉化] 灵魂容器
+In Magic Mod, there are special Soul Containers. They store souls and prevent them from escaping or disappearing.\n\nSoul Stone is the very first soul container we created. It simply holds one soul inside. To capture a soul in the stone, activate it (F by default). After activation, the soul will gradually move toward the stone, shrink, and eventually be captured. To release a soul, activate the stone again (F by default). You can also use the View souls option, which I will explain later.\n\nSoul Stone Belt is an improved version of the Soul Stone. It is a belt with multiple Soul Stones attached. It can hold up to 8 different souls. To capture a soul, activate the Soul Stone Belt (F by default). You can capture up to 8 souls this way. To release a soul, use the Release soul option in the context menu. This option will release the last captured soul. You can also use the View souls option, which I will explain later.\n\nExplosive Soul Stone is a red and dangerous stone made from an unknown material that uses soul energy for self-destruction. You can capture a soul (F by default) and release it by activating it again (F by default). However, if you want to trigger its self-destruction, use the special activation (H by default). The stone will charge with soul energy and eventually explode, ripping souls from entities and sometimes dealing damage. The explosion’s power and damage depend on the soul stored in the stone.\n\nView souls option makes it easier to interact with souls inside a container. In the new menu, you can choose which souls to release and see an overview of the souls stored inside the container.=在魔法模组中，有特殊的灵魂容器.它们存储灵魂并防止其逃脱或消失.\n\n灵魂石是我们创建的第一个灵魂容器.它内部仅容纳一个灵魂.要将灵魂捕获到石头中，请激活它（默认F）.激活后，灵魂将逐渐向石头移动，缩小，并最终被捕获.要释放灵魂，请再次激活石头（默认F）.你也可以使用“查看灵魂”选项，我将在后面解释.\n\n灵魂石腰带是灵魂石的改进版本.它是一条腰带上附有多颗灵魂石.它可以容纳多达8个不同的灵魂.要捕获灵魂，请激活灵魂石腰带（默认F）.通过这种方式，最多可以捕获8个灵魂.要释放灵魂，请使用右键菜单中的“释放灵魂”选项.此选项将释放最后捕获的灵魂.你也可以使用“查看灵魂”选项，我将在后面解释.\n\n爆裂灵魂石是一块红色且危险的石头，由一种未知材料制成，利用灵魂能量进行自毁.你可以捕获一个灵魂（默认F），并通过再次激活它来释放（默认F）.然而，如果你想触发它的自毁，请使用特殊激活键（默认H）.石头将充入灵魂能量并最终爆炸，从实体中撕扯出灵魂，有时还会造成伤害.爆炸的威力和伤害取决于石头中存储的灵魂.\n\n“查看灵魂”选项使与容器内的灵魂互动更加容易.在新菜单中，你可以选择释放哪些灵魂，并查看容器内存储的灵魂概览.
+Soul Lantern=灵魂灯笼
+Witch broom=女巫扫帚
+Developer Notes=开发者笔记
+18.05.2025=2025年5月18日
+[MagicMod] 18.05.2025=[魔法模组TF_RC汉化] 2025年5月18日
+A note written before the release of Souls Update 2.\n\nWe originally planned to add a lot more to this mod than what ended up being included. For example, new reworked menus, energy crystals, and many more soul-based spells. But it’s not just that we didn’t make it in time—we simply got distracted by other mods, which (let’s be honest) are easier to make and bring in more support.\n\nRight now, I’m making a video about this update, and we’ll see how it performs on YouTube. Based on that, we’ll decide whether there will be a new update or not. (Though I’d like there to be one, because there’s still so much we could add and improve.)\n\nAs for the quality of the current update: It’s not the best we’re capable of. It’s still unfinished. We decided to release it so it wouldn’t be delayed for another year—or even longer. This update wasn’t even posted on Patreon or Boosty.=一份在灵魂更新2发布前写下的笔记.\n\n我们原本计划为这个模组添加比最终实际内容多得多的东西.例如，新的重做菜单，能量水晶，以及更多基于灵魂的法术.但这不仅仅是因为我们没有及时完成——我们只是被其他模组分心了，说实话，那些模组更容易制作，也能带来更多支持.\n\n现在，我正在制作一个关于这次更新的视频，我们来看看它在YouTube上的表现如何.基于此，我们将决定是否会有新的更新.（虽然我希望会有，因为我们还有很多可以添加和改进的地方）.\n\n至于当前更新的质量：这不是我们能力的最高水平.它仍然是不完整的.我们决定发布它，是为了让它不会再拖延一年——甚至更久.这次更新甚至没有发布在Patreon或Boosty上.
+[MagicMod] Changelog=[MagicModTF_RC汉化] 更新日志
+
+
+
+
+
+//*人物
+<b>Mages</b>\r\nFolder with all mages.=<b>法师</b>\r\n包含所有法师的文件夹.
+<b>Mage [MagicMod]</b>\r\nOrdinary mage - without special skills and stats.=<b>法师 [魔法模组]</b>\r\n普通法师 - 没有特殊技能和属性.
+<b>Mage sage [MagicMod]</b>\r\nThe sage of mages spent his whole life learning magic, he is stronger than an ordinary mage, the rest of the stats are also better. Knows basic spells.=<b>贤者法师 [魔法模组]</b>\r\n法师中的贤者一生都在学习魔法，他比普通法师更强，其他属性也更优秀.掌握基础法术.
+<b>Necromancer [MagicMod]</b>\r\nKnows spells of dark magic for the manipulation of souls.=<b>死灵法师 [魔法模组]</b>\r\n掌握用于操纵灵魂的黑暗魔法法术.
+<b>Advanced necromancer [MagicMod]</b>\r\nA more experienced necromancer who has seen a lot of things. He has stronger stats and is also good with all the necromancer spells.=<b>高阶死灵法师 [魔法模组]</b>\r\n一位经验更丰富的死灵法师，见识过很多事情.他拥有更强的属性，并且精通所有死灵法术.
+<b>Ice mage [MagicMod]</b>\r\nA very strong lover of all things icy. Defaults to 5 ice magic level, so he pretty strong in it by default.=<b>冰霜法师 [魔法模组]</b>\r\n非常热爱冰霜之物的强者.默认拥有5级冰霜魔法等级，因此在这方面相当强大.
+<b>Fire mage [MagicMod]</b>\r\nSomeone really insisted on adding this kind of mage to the game. Miraak, hello there!=<b>火焰法师 [魔法模组]</b>\r\n有人非常坚持要把这种法师加入游戏.米拉克，你好啊！
+<b>Poison mage [MagicMod]</b>\r\nA mage who controls poison. He's green.=<b>剧毒法师 [魔法模组]</b>\r\n一名掌控剧毒的法师.他是绿色的.
+<b>Healer mage [MagicMod]</b>\r\nFemale healer mage. She has a maximum mana of 100 units. She is slightly stronger than a regular mage and already knows healing spells. She has a level 4 magic skill in "Healing," making her naturally stronger in this area than others.=<b>治疗法师 [魔法模组]</b>\r\n女性治疗法师.她拥有100点最大法力值.她比普通法师稍强，并且已经掌握了治疗法术.她在“治疗”方面拥有4级魔法技能，这使得她在这方面天生比其他人更强.
+<b>Monk [MagicMod]</b>\r\nJust a Monk. Dressed in brown robes. He's old.=<b>僧侣 [魔法模组]</b>\r\n只是个僧侣.穿着棕色长袍.他老了.
+<b>Witch [MagicMod]</b>\r\nA very scary and beautiful witch.=<b>女巫 [魔法模组]</b>\r\n一个非常可怕又美丽的女巫.
+<b>Frog [MagicMod]</b>\r\nJust a frog.=<b>青蛙 [魔法模组]</b>\r\n只是一只青蛙.
+
+
+
+
+
+//*装备
+<b>Equipment</b>\r\nFolder with all equipment.=<b>装备</b>\r\n包含所有装备的文件夹.
+<b>Witch broom [MagicMod]</b>\r\nWitch's Magic Broom. Take the broom in hand and activate it with F. Move the broom under the entity so it can sit on it. The broom automatically moves under the entity, but not always.=<b>女巫扫帚 [魔法模组]</b>\r\n女巫的魔法扫帚.手持扫帚并按F键激活.将扫帚移动到实体下方，使其能够坐在上面.扫帚会自动移动到实体下方，但并非总是如此.
+<b>Soul stone belt [MagicMod]</b>\r\nSoul stone belt can be attached to lower part of the body. It is essentially a belt with 8 soul stones attached to it. Very handy!=<b>灵魂石腰带 [魔法模组]</b>\r\n灵魂石腰带可附着于身体下部.它本质上是腰带上附有8颗灵魂石.非常方便！
+<b>Soul lantern [MagicMod]</b>\r\nA lantern that creates new types of souls.=<b>灵魂灯笼 [魔法模组]</b>\r\n一种创造新型灵魂的灯笼.
+<b>Soul stone [MagicMod]</b>\r\nCan keep the soul. Activate to capture/release the soul.=<b>灵魂石 [魔法模组]</b>\r\n可以保存灵魂.激活以捕获/释放灵魂.
+<b>Explosive soul stone [MagicMod]</b>\r\nСan contain only 1 soul. When activated with H (SA), the stone will begin charging with the soul's energy and then explode, pushing objects away, releasing souls from entities' bodies, and in some cases, dealing damage. The power, explosion, radius, and other parameters depend on the soul contained within the stone.=<b>爆裂灵魂石 [魔法模组]</b>\r\n只能容纳1个灵魂.当用H键(特殊激活)激活时，石头会开始充入灵魂能量然后爆炸，推开物体，释放实体体内的灵魂，并在某些情况下造成伤害.威力、爆炸范围及其他参数取决于石头内所含的灵魂.
+
+
+
+
+
+//*面具
+<b>Masks</b>\r\nFolder with all masks.=<b>面具</b>\r\n包含所有面具的文件夹.
+<b>Necromancer mask [MagicMod]</b>\r\nThis mask is worn by an ordinary necromancer to hide their disfigured face, damaged by the use of dark magic. It can be equipped or removed through the context menu.=<b>死灵法师面具 [魔法模组]</b>\r\n普通死灵法师佩戴此面具，用以遮掩因使用黑暗魔法而毁容的面庞.可通过右键菜单装备或移除.
+<b>Advanced Necromancer mask [MagicMod]</b>\r\nThis mask is worn by an advanced necromancer to hide their disfigured face, damaged by the use of dark magic. In reality, they no longer care, but traditions still hold their place. It can be equipped or removed through the context menu.=<b>高阶死灵法师面具 [魔法模组]</b>\r\n高阶死灵法师佩戴此面具，用以遮掩因使用黑暗魔法而毁容的面庞.实际上，他们已不再在意，但传统依然保留.可通过右键菜单装备或移除.
+<b>Witch hat [MagicMod]</b>\r\nThis mask is worn by an advanced necromancer to hide their disfigured face, damaged by the use of dark magic. In reality, they no longer care, but traditions still hold their place. It can be equipped or removed through the context menu.=<b>女巫帽 [魔法模组]</b>\r\n高阶死灵法师佩戴此面具，用以遮掩因使用黑暗魔法而毁容的面庞.实际上，他们已不再在意，但传统依然保留.可通过右键菜单装备或移除.\n\n（注：原文描述与物品名称不匹配，此为模组作者失误，译文按原文直译，未作修正. ）
+<b>Fire mage bandage [MagicMod]</b>\r\nA red headband. Maybe someone will like it... I don't know who.=<b>火焰法师头带 [魔法模组]</b>\r\n一条红色头带.也许有人会喜欢它……我不知道是谁.
+
+
+
+
+
+//*法师书
+<b>Books</b>\r\nFolder with all special books.=<b>书籍</b>\r\n包含所有特殊书籍的文件夹.
+<b>Mage book [MagicMod]</b>\r\nBook to become a mage. Of course, the learn of the book will not replace a lot of time of practice and the innate talent of real mages, so the skills of the person using this book will be worse.=<b>法师之书 [魔法模组]</b>\r\n成为法师的书.当然，书本的学习无法替代大量实践时间和真正法师的天赋，因此使用这本书的人其技能会更差.
+<b>Omniscience book [MagicMod]</b>\r\nA book that holds all the spells. Instead of reading a ton of different books, read this one and you'll know everything.=<b>全知之书 [魔法模组]</b>\r\n一本收录了所有法术的书.无需阅读大量不同的书籍，读这一本就够了，你将无所不知.
+
+
+
+
+
+//*法术书
+<b>Spell books</b>\r\nFolder with all spell books.=<b>法术书</b>\r\n包含所有法术书的文件夹.
+<b>Fireball book [MagicMod]</b>\r\nSpellbook. Contains "Fireball" spell. A fireball that explodes on impact.=<b>火球术书 [魔法模组]</b>\r\n法术书.包含“火球术”法术.火球，撞击时爆炸.
+FIREBALL=火球术
+<b>Fire fist book [MagicMod]</b>\r\nSpellbook. Contains "Fire fist" spell. The fist sets the target on fire on impact. The mage maintains a low fire temperature on his fist, and raises it on impact to set the target on fire and reduce damage to his fist. Elemental fists are not very effective spells because of the risk of being hit back by an enemy or the consequences of your own spell.=<b>火焰拳书 [魔法模组]</b>\r\n法术书.包含“火焰拳”法术.拳头在撞击时点燃目标.法师保持拳头处于低温，撞击时提高温度以点燃目标并减少对自身拳头的伤害.元素拳法术效果不佳，因为存在被敌人反击或自身法术后果的风险.
+<b>Fire Aura book [MagicMod]</b>\r\nSpellbook. Contains "Fire Aura" spell. Aura that ignites entities in an area.=<b>火焰光环书 [魔法模组]</b>\r\n法术书.包含“火焰光环”法术.光环点燃区域内的实体.
+<b>Burning book [MagicMod]</b>\r\nSpellbook. Contains "Burning" spell. Cast this spell on entities to burn them to death. Cast the spell again on the same entity to destroy it completely. Be careful, the flying pieces burn and may harm the caster!=<b>燃烧术书 [魔法模组]</b>\r\n法术书.包含“燃烧”法术.对实体施放此法术可将其烧死.对同一实体再次施放则可将其彻底毁灭.小心，飞溅的燃烧碎片可能会伤害施法者！
+<b>Ice spike book [MagicMod]</b>\r\nSpellbook. Contains "Ice spike" spell. An ice spike that is sharp.=<b>冰锥术书 [魔法模组]</b>\r\n法术书.包含“冰锥”法术.锋利的冰锥.
+<b>Ice spear book [MagicMod]</b>\r\nSpellbook. Contains "Ice spear" spell. A stronger version of the ice spike in the form of a spear.=<b>冰矛书 [魔法模组]</b>\r\n法术书.包含“冰矛”法术.冰锥的强化版，呈矛形.
+<b>Ice fist book [MagicMod]</b>\r\nSpellbook. Contains "Ice fist" spell. Freezes on contact and maintains normal arm temperature. Elemental fists are not very effective spells because of the risk of being hit back by an enemy or the consequences of your own spell.=<b>寒冰拳书 [魔法模组]</b>\r\n法术书.包含“寒冰拳”法术.接触时冻结并保持正常手臂温度.元素拳法术效果不佳，因为存在被敌人反击或自身法术后果的风险.
+<b>Frost aura book [MagicMod]</b>\r\nSpellbook. Contains "Frost aura" spell. Aura that freezing objects.=<b>冰霜光环书 [魔法模组]</b>\r\n法术书.包含“冰霜光环”法术.光环会冻结物体.
+<b>Icing book [MagicMod]</b>\r\nSpellbook. Contains "Icing" spell. Cast this spell on entities to freeze them to death. Cast the spell again on the same entity to destroy it completely.=<b>冰封术书 [魔法模组]</b>\r\n法术书.包含“冰封”法术.对实体施放此法术可将其冻死.对同一实体再次施放则可将其彻底毁灭.
+<b>Acid fist book [MagicMod]</b>\r\nSpellbook. Contains "Acid fist" spell. When a limb is collided with, and the limb is activated, it will attach to the collided limb and when released the limb will be dismembered.=<b>强酸拳书 [魔法模组]</b>\r\n法术书.包含"强酸拳"法术.当肢体碰撞且该肢体处于激活状态时，它会附着在被碰撞的肢体上，松开时该肢体将被肢解.
+<b>Acid aura book [MagicMod]</b>\r\nSpellbook. Contains "Acid aura" spell. Aura that corroding the flesh.=<b>强酸光环书 [魔法模组]</b>\r\n法术书.包含"强酸光环"法术.光环会腐蚀血肉.
+<b>Damage Aura book [MagicMod]</b>\r\nSpellbook. Contains "Damage Aura" spell. Aura that damage entities in an area.=<b>伤害光环书 [魔法模组]</b>\r\n法术书.包含“伤害光环”法术.光环会伤害区域内的实体.
+<b>Lightning bolt book [MagicMod]</b>\r\nSpellbook. Contains "Lightning bolt" spell. A lightning bolt that strikes with an electrical discharge.=<b>闪电箭书 [魔法模组]</b>\r\n法术书.包含“闪电箭”法术.一道闪电箭以放电形式击打.
+<b>Lightning fist book [MagicMod]</b>\r\nSpellbook. Contains "Lightning fist" spell. Electrifies the mage's hand, maintaining a weak charge. On impact, it electrifies the target. Elemental fists are not very effective spells because of the risk of being hit back by an enemy or the consequences of your own spell.=<b>闪电拳书 [魔法模组]</b>\r\n法术书.包含“闪电拳”法术.使法师的手带电，维持微弱电荷.撞击时电击目标.元素拳法术效果不佳，因为存在被敌人反击或自身法术后果的风险.
+<b>Rock shot book [MagicMod]</b>\r\nSpellbook. Contains "Rock shot" spell. A rock that you can throw at someone you don't like.=<b>投石术书 [魔法模组]</b>\r\n法术书.包含“投石”法术.一块可以扔向你讨厌的人的石头.
+<b>Meteor book [MagicMod]</b>\r\nSpellbook. Contains "Meteor" spell. While holding activation, aim at the spot where the stone meteorite should fall. Release the activation and the meteorite will fall from the sky. Its strength, size and power depends on the mage's level.=<b>陨石术书 [魔法模组]</b>\r\n法术书.包含“陨石”法术.按住激活键时，瞄准石质陨石应落下的位置.松开激活键，陨石便会从天而降.其强度、大小和威力取决于法师的等级.
+<b>Medusa book [MagicMod]</b>\r\nSpellbook. Contains "Medusa" spell. When aimed at any living being and activated, the target will turn to stone.=<b>美杜莎之书 [魔法模组]</b>\r\n法术书.包含“美杜莎”法术.当瞄准任何活物并激活时，目标将变成石头.
+<b>Ripping out soul I book [MagicMod]</b>\r\nSpellbook. Contains "Ripping out soul I" spell. Rip out soul of dead creature. After casting the spell, it can be held again to extend the soul pull. The soul cannot be returned, since it is no longer connected with the body in any way.=<b>抽取灵魂 I 之书 [魔法模组]</b>\r\n法术书.包含"抽取灵魂 I"法术.抽取已死生物的灵魂.施放法术后，可再次按住以延长灵魂抽取.灵魂无法返回，因为它已与身体没有任何联系.
+<b>Ripping out soul II book [MagicMod]</b>\r\nSpellbook. Contains "Ripping out soul II" spell. Rip out soul of creature. Has a reduced distance compared to I. After casting the spell, it can be held again to extend the soul pull. The soul cannot be returned, since it is no longer connected with the body in any way.=<b>抽取灵魂 II 之书 [魔法模组]</b>\r\n法术书.包含“抽取灵魂 II”法术.抽取生物的灵魂.相比 I 距离有所缩短.施放法术后，可再次按住以延长灵魂抽取.灵魂无法返回，因为它已与身体没有任何联系.
+<b>Soul blast book [MagicMod]</b>\r\nSpellbook. Contains "Soul blast" spell. Takes a soul from a soul vault (such as a soul stone) and fires it. If the target is a creature without a soul, the soul tries to inhabit, otherwise it explodes.=<b>灵魂冲击书 [魔法模组]</b>\r\n法术书.包含“灵魂冲击”法术.从灵魂容器（如灵魂石）中取出一个灵魂并发射出去.如果目标是没有灵魂的生物，灵魂会试图寄居；否则会爆炸.
+<b>Soul bomb book [MagicMod]</b>\r\nSpellbook. Contains "Soul bomb" spell. Use it to transform a soul into a bomb and then launch it. After the bomb collides with an obstacle, it will split into small fragments that will eventually explode. With some chance, they can extract souls from entities. The bomb's power depends on the transformed soul.=<b>灵魂炸弹书 [魔法模组]</b>\r\n法术书.包含“灵魂炸弹”法术.使用它将一个灵魂转化为炸弹并发射出去.炸弹碰撞障碍物后，会分裂成小碎片并最终爆炸.有一定几率可以从实体中抽取灵魂.炸弹的威力取决于被转化的灵魂.
+<b>Soul teleportation book [MagicMod]</b>\r\nSpellbook. Contains "Soul teleportation" spell. Releases its soul in the direction of the spell cast. Then teleports to the soul's position after a few seconds. While the soul is out of the mage, the mage shows no signs of life.=<b>灵魂传送书 [魔法模组]</b>\r\n法术书.包含“灵魂传送”法术.向施法方向释放自己的灵魂.几秒后传送至灵魂所在位置.当灵魂离开法师时，法师会呈现毫无生命迹象的状态.
+<b>Soul knocking fist book [MagicMod]</b>\r\nSpellbook. Contains "Soul knocking fist" spell. When casting this spell, touch a mage, which will take half of their mana and add it to the caster's maximum mana. There is a cooldown of a few seconds. Once the targeted mage runs out of mana, their soul will be ripped out. However, if they have the protected soul effect, their skull bone will break instead.=<b>灵魂重击拳书 [魔法模组]</b>\r\n法术书.包含“灵魂重击拳”法术.当施放此法术时，触碰一名法师，会夺取其一半法力并加至施法者的最大法力值.有几秒冷却时间.一旦目标法师法力耗尽，其灵魂将被抽出.但如果他们拥有受保护的灵魂效果，则其头骨会碎裂.
+<b>Resurrection book [MagicMod]</b>\r\nSpellbook. Contains "Resurrection" spell. Resurrects a dead entity as a zombie.=<b>复活术书 [魔法模组]</b>\r\n法术书.包含“复活”法术.将死亡的实体复活为僵尸.
+<b>Soul body shift book [MagicMod]</b>\r\nSpellbook. Contains "Soul body shift" spell. The spell allows the mage to leave their body, freeing their soul, and possess another body by ripping out that person's soul. When transferring to another body, only this spell is carried over. If there are no suitable bodies nearby, the soul will ascend and be torn apart.=<b>灵魂移体书 [魔法模组]</b>\r\n法术书.包含“灵魂移体”法术.该法术允许法师离开自己的身体，释放自己的灵魂，并通过抽出他人的灵魂来占据其身体.当转移到另一个身体时，只有这个法术会被保留.如果附近没有合适的身体，灵魂将升腾并被撕裂.
+<b>Healing hand book [MagicMod]</b>\r\nSpellbook. Contains "Healing hand" spell. Heals external and internal bleeding, restores bones and skin.=<b>治疗之手书 [魔法模组]</b>\r\n法术书.包含“治疗之手”法术.治愈内外出血，恢复骨骼与皮肤.
+<b>Healing aura book [MagicMod]</b>\r\nSpellbook. Contains "Healing aura" spell. Aura that heals creatures and stops their external bleeding.=<b>治疗光环书 [魔法模组]</b>\r\n法术书.包含“治疗光环”法术.光环可治疗生物并阻止其外部出血.
+<b>Frogmation book [MagicMod]</b>\r\nSpellbook. Contains "Frogmation" spell. Transform into a frog at any moment to hide from someone, squeeze through a small gap, or do something else!=<b>变成青蛙书 [魔法模组]</b>\r\n法术书.包含“变成青蛙”法术.随时变成青蛙以躲避某人、挤过狭小的缝隙，或者做其他事情！
+<b>Confinement book [MagicMod]</b>\r\nSpellbook. Contains "Confinement" spell. When casting the spell, the entity against which it was used turns into a small pebble. In this state, it can be carried in hands or stored somewhere. When activated with H (by default), the entity starts breaking free from the pebble.=<b>禁锢术书 [魔法模组]</b>\r\n法术书.包含“禁锢”法术.施放此法术时，目标实体将变成一颗小鹅卵石.在此状态下，可以手持或存放在某处.当用H键（默认）激活时，实体会开始从鹅卵石中挣脱.
+<b>Disguise book [MagicMod]</b>\r\nSpellbook. Contains "Disguise" spell. When limb is aimed at an object and activated the human will become that object. activate the object to turn back.=<b>伪装术书 [魔法模组]</b>\r\n当肢体瞄准物体并激活时，人类将变成该物体.再次激活物体即可变回.
+<b>Splitter book [MagicMod]</b>\r\nSpellbook. Contains "Splitter" spell. Strongly increases the blood pressure in the limb and thus blasts it.=<b>血爆术书 [魔法模组]</b>\r\n法术书.包含“血爆”法术.强烈增加肢体的血压，从而使其爆炸.
+<b>Lighting book [MagicMod]</b>\r\nSpellbook. Contains "Lighting" spell. A simple spell to illuminate the ominous darkness.=<b>照明书 [魔法模组]</b>\r\n法术书.包含“照明”法术.一个简单的法术，用以照亮不祥的黑暗.
+<b>Kick book [MagicMod]</b>\r\nSpellbook. Contains "Kick" spell. Gripping a limb with the mouse instantly strengthens the muscles on the limb for a strong kick, meaning no charging is needed.=<b>踢击术书 [魔法模组]</b>\r\n法术书.包含“踢击”法术.用鼠标抓取肢体时，会瞬间增强肢体肌肉以发出强力踢击，这意味着无需蓄力.
+
+
+
+
+
+//*药水
+<b>Potions</b>\r\nFolder with all potions.=<b>药水</b>\r\n包含所有药水的文件夹.
+<b>Mana regeneration potion [MagicMod]</b>\r\nIncreases mana regeneration. No overdose effects.=<b>法力恢复药水 [魔法模组]</b>\r\n增加法力恢复. 无过量副作用.
+<b>Weakening debuffs potion [MagicMod]</b>\r\nReduces the power and duration of debuffs.=<b>弱化减益药水 [魔法模组]</b>\r\n减少减益效果的强度和持续时间.
+<b>Cleaning effects potion [MagicMod]</b>\r\nReduces the duration of all effects.=<b>清洁效果药水 [魔法模组]</b>\r\n减少所有效果的持续时间.
+<b>Instant сleaning effects potion [MagicMod]</b>\r\nInstant сleaning all effects.=<b>即时清洁效果药水 [魔法模组]</b>\r\n立即清除所有效果.
+<b>Enhance magical power potion [MagicMod]</b>\r\nEnhances the power of the mage. Potion overdose (2 bottles) can be bad for the mage.=<b>增强魔法力量药水 [魔法模组]</b>\r\n增强法师的力量. 药水过量（2瓶）可能对法师产生不良影响.
+<b>Restoration potion [MagicMod]</b>\r\nHeals and regenerate mana.=<b>恢复药水 [魔法模组]</b>\r\n治疗并恢复法力.
+<b>Empty potion bottle [MagicMod]</b>\r\nJust a bottle, the air tastes good too.=<b>空药水瓶 [魔法模组]</b>\r\n只是一个瓶子，空气的味道也不错.
+<b>Weak enhance magical power potion [MagicMod]</b>\r\nWeakly enhances the power of the mage. Potion overdose (2-3 bottles) can be bad for the mage.=<b>弱效增强魔法力量药水 [魔法模组]</b>\r\n小幅增强法师的力量.药水过量（2-3瓶）可能对法师产生不良影响.
+<b>Weak healing potion [MagicMod]</b>\r\nSlowly heals a person, slows down bleeding and restores blood. It is recommended to pour on the wound.=<b>弱效治疗药水 [魔法模组]</b>\r\n缓慢治疗一个人，减缓出血并恢复血液.建议倒在伤口上.
+<b>Warming potion [MagicMod]</b>\r\nLiquid with effect. Gradually warming the creature. Will never replace hot tea because of its flavor.=<b>温暖药水 [魔法模组]</b>\r\n具有效果的液体.逐渐温暖生物.因其味道，永远无法取代热茶.
+<b>Cooling potion [MagicMod]</b>\r\nLiquid with effect. Gradually cooling the creature.=<b>冷却药水 [魔法模组]</b>\r\n具有效果的液体.逐渐冷却生物.
+<b>Electricity resistance potion [MagicMod]</b>\r\nLiquid with effect. Absorbs the creature's electricity.=<b>电阻药水 [魔法模组]</b>\r\n具有效果的液体.吸收生物的电流.
+<b>Water breathing potion [MagicMod]</b>\r\nLiquid with effect. Generates oxygen if there isn't enough.=<b>水下呼吸药水 [魔法模组]</b>\r\n具有效果的液体.氧气不足时生成氧气.
+<b>Memory erasure potion [MagicMod]</b>\r\nAfter drinking this potion, the mage forgets all spells and the experience of using them.=<b>记忆消除药水 [魔法模组]</b>\r\n喝下此药水后，法师会忘记所有法术及其使用经验.
+<b>Soul dissolution potion [MagicMod]</b>\r\nAfter drinking it dissolves the soul. It's dangerous. Don't throw it.=<b>灵魂溶解药水 [魔法模组]</b>\r\n饮用后会溶解灵魂.很危险.不要扔掉.
+<b>Protected soul potion [MagicMod]</b>\r\nAfter drinking, it protects the soul from being ripped out and lasts forever. It can be removed by another potion that removes all effects.=<b>受保护的灵魂药水 [魔法模组]</b>\r\n饮用后，可永久保护灵魂不被抽出.可以被另一种移除所有效果的药水移除.
+<b>Empty weak potion bottle [MagicMod]</b>\r\nJust a small empty bottle, the air tastes good too.=<b>弱效空药水瓶 [魔法模组]</b>\r\n只是一个小空瓶子，空气的味道也不错.
+
+
+
+
+
+//*灵魂
+<b>Small soul [MagicMod]</b>\r\nThe soul of a gorse or other small-sized creature.=<b>小型灵魂 [魔法模组]</b>\r\n格洛斯或其他小型生物的灵魂.
+<b>Medium soul [MagicMod]</b>\r\nThe soul of a human or other medium-sized creature.=<b>中型灵魂 [魔法模组]</b>\r\n人类或其他中型生物的灵魂.
+<b>Large soul [MagicMod]</b>\r\nThe soul of large-sized creature.=<b>大型灵魂 [魔法模组]</b>\r\n大型生物的灵魂.
+<b>Medium magical soul [MagicMod]</b>\r\nThe soul of a magical creature.=<b>中型魔法灵魂 [魔法模组]</b>\r\n魔法生物的灵魂.
+<b>Corrupted soul [MagicMod]</b>\r\nA soul corrupted by some kind of exposure.=<b>腐化灵魂 [魔法模组]</b>\r\n因某种暴露而腐化的灵魂.
+<b>Concentrated soul [MagicMod]</b>=<b>浓缩灵魂 [魔法模组]</b>
+
+
+
+
+
+//*石头
+<b>Pebble stone [MagicMod]</b>\r\nA small piece of stone used for the "Confinement" spell.=<b>鹅卵石 [魔法模组]</b>\r\n一块用于“禁锢”法术的小石头.
+
+
+
+
+
+//*右键菜单
+Detach armor.=脱下衣物
+Remove physical cloth=移除实体衣物
+Remove physical cloth.=移除实体衣物.
+Remove physical clothes=脱掉身上的衣服
+Ignore collision in circle=忽略圆形区域内的碰撞
+Ignore collision with objects in circle.=忽略与圆形区域内物体的碰撞.
+Opens a window for assigning spells to limbs.=打开一个用于将法术分配到肢体的窗口.
+
+
+
+
+
+//*法术分配菜单
+Head=头
+Upper body=上半身
+Front lower arm=前下臂
+Lower arm=后下臂
+Front lower leg=前小腿
+Lower leg=后小腿
+SPELLS=<b>法术</b>
+
+
+
+
+
+//*法术
+//*头
+//*灵魂移体*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Soul body shift</uppercase></b>\n<size%3D70%><color%3Dgrey>The spell allows the mage to leave their body, freeing their soul, and possess another body by ripping out that person's soul. When transferring to another body, only this spell is carried over. If there are no suitable bodies nearby, the soul will ascend and be torn apart.=<b>灵魂移体</b>\n<size%3D70%><color%3Dgrey>该法术允许法师离开自己的身体，释放自己的灵魂，并通过抽出他人的灵魂来占据其身体.当转移到另一个身体时，只有这个法术会被保留.如果附近没有合适的身体，灵魂将升腾并被撕裂.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>49</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Souls</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>49</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>灵魂</color></size><size%3D0%>
+//不适用
+<b><uppercase>Soul body shift</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>head</b>. It cannot be assigned to this limb.=<b>灵魂移体</b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>头部</b>.无法分配到该肢体.</size></color>
+
+
+
+
+
+//*上半身
+//*火焰光环*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Fire Aura</uppercase></b>\n<size%3D70%><color%3Dgrey>Aura that ignites entities in an area=<b>火焰光环</color></b>\n<size%3D70%><color%3Dgrey>光环点燃区域内的实体.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>0</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0.8</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Fire</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</color></b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0.8</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>火焰</color></size><size%3D0%>
+//不适用
+<b><uppercase>Fire Aura</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>torso</b>. It cannot be assigned to this limb.=<b>火焰光环</color></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>躯干</b>.无法分配到该肢体.</size></color>
+
+
+//*冰霜光环*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Frost aura</uppercase></b>\n<size%3D70%><color%3Dgrey>Aura that freezing objects.=<b>冰霜光环</color></b>\n<size%3D70%><color%3Dgrey>光环会冻结物体.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>0</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0.8</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Ice</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</color></b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0.8</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>冰霜</color></size><size%3D0%>
+//不适用
+<b><uppercase>Frost aura</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>torso</b>. It cannot be assigned to this limb.=<b>冰霜光环</color></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>躯干</b>.无法分配到该肢体.</size></color>
+
+
+//*强酸光环*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Acid aura</uppercase></b>\n<size%3D70%><color%3Dgrey>Aura that corroding the flesh.=<b>强酸光环</b>\n<size%3D70%><color%3Dgrey>光环会腐蚀血肉.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>0</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0.9</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Acid</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</color></b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0.9</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>强酸</color></size><size%3D0%>
+//不适用
+<b><uppercase>Acid aura</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>torso</b>. It cannot be assigned to this limb.=<b>强酸光环</b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>躯干</b>.无法分配到该肢体.</size></color>
+
+
+//*伤害光环*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Damage Aura</uppercase></b>\n<size%3D70%><color%3Dgrey>Aura that damage entities in an area=<b>伤害光环</b>\n<size%3D70%><color%3Dgrey>光环会伤害区域内的实体.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>0</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>1.5</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Other liquids</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</color></b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>1.5</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>其他液体</color></size><size%3D0%>
+//不适用
+<b><uppercase>Damage Aura</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>torso</b>. It cannot be assigned to this limb.=<b>伤害光环</color></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>躯干</b>.无法分配到该肢体.</size></color>
+
+
+//*治疗光环*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Healing aura</uppercase></b>\n<size%3D70%><color%3Dgrey>Aura that heals creatures and stops their external bleeding.=<b>治疗光环</b>\n<size%3D70%><color%3Dgrey>光环可治疗生物并阻止其外部出血.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>0</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>2.035</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Healing</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</color></b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>2.035</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>治疗</color></size><size%3D0%>
+//不适用
+<b><uppercase>Healing aura</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>torso</b>. It cannot be assigned to this limb.=<b>治疗光环</b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>躯干</b>.无法分配到该肢体.</size></color>
+
+
+//*变成青蛙*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Frogmation</uppercase></b>\n<size%3D70%><color%3Dgrey>Transform into a frog at any moment to hide from someone, squeeze through a small gap, or do something else!=<b>变成青蛙</b>\n<size%3D70%><color%3Dgrey>随时变成青蛙以躲避某人、挤过狭小的缝隙，或者做其他事情!</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>35</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Creatures change</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>35</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>生物变化</color></size><size%3D0%>
+//不适用
+<b><uppercase>Frogmation</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>head</b>. It cannot be assigned to this limb.=<b>变成青蛙</b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>头部</b>.无法分配到该肢体.</size></color>
+
+
+
+
+
+//*下臂
+//*火球术*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Fireball</uppercase></b>\n<size%3D70%><color%3Dgrey>A fireball that explodes on impact.=<b>火球术</b>\n<size%3D70%><color%3Dgrey>撞击时爆炸的火球.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>10</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>3</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Fire</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>10</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>3</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>火焰</color></size><size%3D0%>
+//不适用
+<b><uppercase>Fireball</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>火球术</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*冰锥*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Ice spike</uppercase></b>\n<size%3D70%><color%3Dgrey>An ice spike that is sharp.=<b>冰锥</b>\n<size%3D70%><color%3Dgrey>锋利的冰锥.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>10</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>3</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Ice</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>10</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>3</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>冰霜</color></size><size%3D0%>
+//不适用
+<b><uppercase>Ice spike</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>冰锥</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*冰矛*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Ice spear</uppercase></b>\n<size%3D70%><color%3Dgrey>A stronger version of the ice spike in the form of a spear.=<b>冰矛</b>\n<size%3D70%><color%3Dgrey>冰锥的强化版，呈矛形.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>15</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>3.2</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Ice</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>15</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>3.2</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>冰霜</color></size><size%3D0%>
+//不适用
+<b><uppercase>Ice spear</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>冰矛</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*闪电箭*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Lightning bolt</uppercase></b>\n<size%3D70%><color%3Dgrey>A lightning bolt that strikes with an electrical discharge.=<b>闪电箭</b>\n<size%3D70%><color%3Dgrey>一道闪电箭以放电形式击打.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>12</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>2.47</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Lightning</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>12</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>2.47</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>闪电</color></size><size%3D0%>
+//不适用
+<b><uppercase>Lightning bolt</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>闪电箭</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*投石*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Rock shot</uppercase></b>\n<size%3D70%><color%3Dgrey>A rock that you can throw at someone you don't like.=<b>投石</b>\n<size%3D70%><color%3Dgrey>一块可以扔向你讨厌的人的石头.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>5</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>1.4</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Stone</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>5</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>1.4</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>石头</color></size><size%3D0%>
+//不适用
+<b><uppercase>Rock shot</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>投石</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*火焰拳*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Fire fist</uppercase></b>\n<size%3D70%><color%3Dgrey>The fist sets the target on fire on impact. The mage maintains a low fire temperature on his fist, and raises it on impact to set the target on fire and reduce damage to his fist. Elemental fists are not very effective spells because of the risk of being hit back by an enemy or the consequences of your own spell.=<b>火焰拳</b>\n<size%3D70%><color%3Dgrey>拳头在撞击时点燃目标.法师保持拳头处于低温，撞击时提高温度以点燃目标并减少对自身拳头的伤害.元素拳法术效果不佳，因为存在被敌人反击或自身法术后果的风险.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>7</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>1</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Fire</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>7</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>1</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>火焰</color></size><size%3D0%>
+//不适用
+<b><uppercase>Fire fist</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>火焰拳</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*燃烧*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Burning</uppercase></b>\n<size%3D70%><color%3Dgrey>Cast this spell on entities to burn them to death. Cast the spell again on the same entity to destroy it completely. Be careful, the flying pieces burn and may harm the caster!=<b>燃烧</b>\n<size%3D70%><color%3Dgrey>对实体施放此法术可将其烧死.对同一实体再次施放则可将其彻底毁灭.小心，飞溅的燃烧碎片可能会伤害施法者!</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>30</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Fire</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>30</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>火焰</color></size><size%3D0%>
+//不适用
+<b><uppercase>Burning</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>燃烧</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*寒冰拳*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Ice fist</uppercase></b>\n<size%3D70%><color%3Dgrey>Freezes on contact and maintains normal arm temperature. Elemental fists are not very effective spells because of the risk of being hit back by an enemy or the consequences of your own spell.=<b>寒冰拳</b>\n<size%3D70%><color%3Dgrey>接触时冻结并保持正常手臂温度.元素拳法术效果不佳，因为存在被敌人反击或自身法术后果的风险.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>7</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>1</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Ice</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>7</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>1</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>冰霜</color></size><size%3D0%>
+//不适用
+<b><uppercase>Ice fist</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>寒冰拳</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*冰封*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Icing</uppercase></b>\n<size%3D70%><color%3Dgrey>Cast this spell on entities to freeze them to death. Cast the spell again on the same entity to destroy it completely.=<b>冰封</b>\n<size%3D70%><color%3Dgrey>对实体施放此法术可将其冻死.对同一实体再次施放则可将其彻底毁灭.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>30</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Ice</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>30</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>冰霜</color></size><size%3D0%>
+//不适用
+<b><uppercase>Icing</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>冰封</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*强酸拳*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Acid fist</uppercase></b>\n<size%3D70%><color%3Dgrey>When a limb is collided with, and the limb is activated, it will attach to the collided limb and when released the limb will be dismembered.=<b>强酸拳</b>\n<size%3D70%><color%3Dgrey>当肢体碰撞且该肢体处于激活状态时，它会附着在被碰撞的肢体上，松开时该肢体将被肢解.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>35</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Acid</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>35</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>强酸</color></size><size%3D0%>
+//不适用
+<b><uppercase>Acid fist</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>强酸拳</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*闪电拳*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Lightning fist</uppercase></b>\n<size%3D70%><color%3Dgrey>Electrifies the mage's hand, maintaining a weak charge. On impact, it electrifies the target. Elemental fists are not very effective spells because of the risk of being hit back by an enemy or the consequences of your own spell.=<b>闪电拳</b>\n<size%3D70%><color%3Dgrey>使法师的手带电，维持微弱电荷.撞击时电击目标.元素拳法术效果不佳，因为存在被敌人反击或自身法术后果的风险.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>7</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>1.3</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Lightning</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>7</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>1.3</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>闪电</color></size><size%3D0%>
+//不适用
+<b><uppercase>Lightning fist</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>闪电拳</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*陨石*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Meteor</uppercase></b>\n<size%3D70%><color%3Dgrey>While holding activation, aim at the spot where the stone meteorite should fall. Release the activation and the meteorite will fall from the sky. Its strength, size and power depends on the mage's level.=<b>陨石</b>\n<size%3D70%><color%3Dgrey>按住激活键时，瞄准石质陨石应落下的位置.松开激活键，陨石便会从天而降.其强度、大小和威力取决于法师的等级.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>30</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Stone</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>30</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>石头</color></size><size%3D0%>
+//不适用
+<b><uppercase>Meteor</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>陨石</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*美杜莎*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Medusa</uppercase></b>\n<size%3D70%><color%3Dgrey>When aimed at any living being and activated, the target will turn to stone.=<b>美杜莎</b>\n<size%3D70%><color%3Dgrey>当瞄准任何活物并激活时，目标将变成石头.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>35</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Stone</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>35</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>石头</color></size><size%3D0%>
+//不适用
+<b><uppercase>Medusa</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>美杜莎</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*抽取灵魂 I*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Ripping out soul I</uppercase></b>\n<size%3D70%><color%3Dgrey>Rip out soul of dead creature. After casting the spell, it can be held again to extend the soul pull. The soul cannot be returned, since it is no longer connected with the body in any way.=<b>抽取灵魂 I</b>\n<size%3D70%><color%3Dgrey>抽取已死生物的灵魂.施放法术后，可再次按住以延长灵魂抽取.灵魂无法返回，因为它已与身体没有任何联系.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>22</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>3.02</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Souls</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>22</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>3.02</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>灵魂</color></size><size%3D0%>
+//不适用
+<b><uppercase>Ripping out soul I</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>抽取灵魂 I</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*抽取灵魂 II*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Ripping out soul II</uppercase></b>\n<size%3D70%><color%3Dgrey>Rip out soul of creature. Has a reduced distance compared to I. After casting the spell, it can be held again to extend the soul pull. The soul cannot be returned, since it is no longer connected with the body in any way.=<b>抽取灵魂 II</b>\n<size%3D70%><color%3Dgrey>抽取生物的灵魂.相比 I 距离有所缩短.施放法术后，可再次按住以延长灵魂抽取.灵魂无法返回，因为它已与身体没有任何联系.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>25.81</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>3.02</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Souls</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>25.81</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>3.02</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>灵魂</color></size><size%3D0%>
+//不适用
+<b><uppercase>Ripping out soul II</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>抽取灵魂 II</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*灵魂冲击*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Soul blast</uppercase></b>\n<size%3D70%><color%3Dgrey>Takes a soul from a soul vault (such as a soul stone) and fires it. If the target is a creature without a soul, the soul tries to inhabit, otherwise it explodes.=<b>灵魂冲击</b>\n<size%3D70%><color%3Dgrey>从灵魂容器（如灵魂石）中取出一个灵魂并发射出去.如果目标是没有灵魂的生物，灵魂会试图寄居，否则会爆炸.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>30.06</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>2.08</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Souls</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>30.06</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>2.08</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>灵魂</color></size><size%3D0%>
+//不适用
+<b><uppercase>Soul blast</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>灵魂冲击</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*灵魂炸弹*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Soul bomb</uppercase></b>\n<size%3D70%><color%3Dgrey>Use it to transform a soul into a bomb and then launch it. After the bomb collides with an obstacle, it will split into small fragments that will eventually explode. With some chance, they can extract souls from entities. The bomb's power depends on the transformed soul.=<b>灵魂炸弹</b>\n<size%3D70%><color%3Dgrey>使用它将一个灵魂转化为炸弹并发射出去.炸弹碰撞障碍物后，会分裂成小碎片并最终爆炸.有一定几率可以从实体中抽取灵魂.炸弹的威力取决于被转化的灵魂.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>34</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>2.3</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Souls</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>34</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>2.3</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>灵魂</color></size><size%3D0%>
+//不适用
+<b><uppercase>Soul bomb</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>灵魂炸弹</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*灵魂传送*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Soul teleportation</uppercase></b>\n<size%3D70%><color%3Dgrey>Releases its soul in the direction of the spell cast. Then teleports to the soul's position after a few seconds. While the soul is out of the mage, the mage shows no signs of life.=<b>灵魂传送</b>\n<size%3D70%><color%3Dgrey>向施法方向释放自己的灵魂.几秒后传送至灵魂所在位置.当灵魂离开法师时，法师会呈现毫无生命迹象的状态.</size></color>
+//不适用
+<b><uppercase>Soul teleportation</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>灵魂传送</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*复活*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Resurrection</uppercase></b>\n<size%3D70%><color%3Dgrey>Resurrects a dead entity as a zombie.=<b>复活</b>\n<size%3D70%><color%3Dgrey>将死亡的实体复活为僵尸.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>25</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Souls</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>25</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>灵魂</color></size><size%3D0%>
+//不适用
+<b><uppercase>Resurrection</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>复活</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*灵魂重击拳*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Soul knocking fist</uppercase></b>\n<size%3D70%><color%3Dgrey>When casting this spell, touch a mage, which will take half of their mana and add it to the caster's maximum mana. There is a cooldown of a few seconds. Once the targeted mage runs out of mana, their soul will be ripped out. However, if they have the protected soul effect, their skull bone will break instead.=<b>灵魂重击拳</b>\n<size%3D70%><color%3Dgrey>当施放此法术时，触碰一名法师，会夺取其一半法力并加至施法者的最大法力值.有几秒冷却时间.一旦目标法师法力耗尽，其灵魂将被抽出.但如果他们拥有受保护的灵魂效果，则其头骨会碎裂.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>15</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Souls</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>15</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>灵魂</color></size><size%3D0%>
+//不适用
+<b><uppercase>Soul knocking fist</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>灵魂重击拳</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*治疗之手*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Healing hand</uppercase></b>\n<size%3D70%><color%3Dgrey>Heals external and internal bleeding, restores bones and skin.=<b>治疗之手</b>\n<size%3D70%><color%3Dgrey>治愈内外出血，恢复骨骼与皮肤.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>7.6</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>2.5</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Healing</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>7.6</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>2.5</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>治疗</color></size><size%3D0%>
+//不适用
+<b><uppercase>Healing hand</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>治疗之手</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*伪装*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Disguise</uppercase></b>\n<size%3D70%><color%3Dgrey>When limb is aimed at an object and activated the human will become that object. activate the object to turn back.=<b>伪装</b>\n<size%3D70%><color%3Dgrey>当肢体瞄准物体并激活时，人类将变成该物体.再次激活物体即可变回.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>20</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Creatures change</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>20</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>生物变化</color></size><size%3D0%>
+//不适用
+<b><uppercase>Disguise</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>伪装</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*禁锢*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Confinement</uppercase></b>\n<size%3D70%><color%3Dgrey>When casting the spell, the entity against which it was used turns into a small pebble. In this state, it can be carried in hands or stored somewhere. When activated with H (by default), the entity starts breaking free from the pebble.=<b>禁锢</b>\n<size%3D70%><color%3Dgrey>施放此法术时，目标实体将变成一颗小鹅卵石.在此状态下，可以手持或存放在某处.当用H键（默认）激活时，实体会开始从鹅卵石中挣脱.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>25</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Creatures change</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>25</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>生物变化</color></size><size%3D0%>
+//不适用
+<b><uppercase>Confinement</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>禁锢</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*照明*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Lighting</uppercase></b>\n<size%3D70%><color%3Dgrey>A simple spell to illuminate the ominous darkness.=<b>照明</b>\n<size%3D70%><color%3Dgrey>一个简单的法术，用以照亮不祥的黑暗.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>5</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>1.06</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Light</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>5</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>1.06</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>光</color></size><size%3D0%>
+//不适用
+<b><uppercase>Lighting</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>照明</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*血爆*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Splitter</uppercase></b>\n<size%3D70%><color%3Dgrey>Strongly increases the blood pressure in the limb and thus blasts it.=<b>血爆</b>\n<size%3D70%><color%3Dgrey>强烈增加肢体的血压，从而使其爆炸.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>25</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>0</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Light</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>25</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>0</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>光</color></size><size%3D0%>
+//不适用
+<b><uppercase>Splitter</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms</b>. It cannot be assigned to this limb.=<b><uppercase>血爆</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂</b>. 无法分配到该肢体.
+
+
+//*踢击*--------------------------------------------------------------------------------------------------------
+<b><uppercase>Kick</uppercase></b>\n<size%3D70%><color%3Dgrey>Gripping a limb with the mouse instantly strengthens the muscles on the limb for a strong kick, meaning no charging is needed.=<b>踢击</b>\n<size%3D70%><color%3Dgrey>用鼠标抓取肢体时，会瞬间增强肢体肌肉以发出强力踢击，这意味着无需蓄力.</size></color>
+//属性
+<b>STATS</b>\n<size%3D70%><color%3D#00ffd2>5</color> <color%3Dgrey>mp on use</color>\n<color%3D#00ffd2>1.6</color> <color%3Dgrey>mp per second</color>\n<color%3D#00ffd2>Enhancement</color> <color%3Dgrey>magic type</color></size><size%3D0%>=<b>属性</b>\r\n<size%3D70%><color%3Dgrey>消耗法力：</color><color%3D#00ffd2>5</color>\n<color%3Dgrey>每秒消耗：</color><color%3D#00ffd2>1.6</color>\n<color%3Dgrey>魔法类型：</color><color%3D#00ffd2>强化</color></size><size%3D0%>
+//不适用
+<b><uppercase>Kick</uppercase></b>\n<size%3D70%><color%3Dgrey>This spell is suitable for <b>arms, legs</b>. It cannot be assigned to this limb.=<b><uppercase>踢击</uppercase></b>\n<size%3D70%><color%3Dgrey>此法术适用于<b>手臂,腿</b>. 无法分配到该肢体.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//6*快捷栏模组_Hotbar Mod
+Hotbar Mod=快捷栏模组
+Adds a panel with slots where you can assign any spawnables, and then easily select them.=添加一个带有槽位的面板，你可以在其中分配任何可生成物品，然后轻松选择它们.(左键添加,右键移除)
+Hotbar=快捷栏模组
+Cells count=单元格数量
+Count of cells in hotbar.=快捷栏中单元格的数量.
+Rows count=行数
+Hotbar rows count.=快捷栏行数.
+Show cell number=显示单元格编号
+Show cell number in its upper right corner.=在单元格右上角显示编号.
+Position and size=位置和大小
+Placement=放置位置
+Hotbar placement=快捷栏放置位置
+Bottom=底部
+Offset=偏移量
+Hotbar offset.=快捷栏偏移量.
+Cell size=单元格大小
+Hotbar cell size.=快捷栏单元格大小.
+Objects save mode=物品保存模式
+Hotbar objects save mode.\n - OnGameExit: objects saved when exiting game;\n - Periodic: objects saved once in specified period of time;\n - Manual: objects can be saved only by <b>Save objects</b> button in settings;=快捷栏物品保存模式.\n - 游戏退出时：退出游戏时保存物品；\n - 定期：在指定时间段内保存一次物品；\n - 手动：只能通过设置中的<b>保存物品</b>按钮来保存物品；
+OnGameExit=游戏退出时
+Periodic=定期
+Manual=手动
+Save objects=保存物品
+Save hotbar objects.=保存快捷栏物品.
+Objects periodic save delay=物品定期保存延迟
+Objects periodic save delay in minutes.\nWorks if only if <b>Objects save mode</b> is <b>Periodic</b>.=物品定期保存延迟（分钟）.\n仅当<b>物品保存模式</b>为<b>定期</b>时生效.
+settings saved.=设置已保存.
+[Hotbar] Hide hotbar=[快捷栏] 隐藏快捷栏
+[Hotbar] Select 1 cell=[快捷栏] 选择1单元格
+[Hotbar] Select 2 cell=[快捷栏] 选择2单元格
+[Hotbar] Select 3 cell=[快捷栏] 选择3单元格
+[Hotbar] Select 4 cell=[快捷栏] 选择4单元格
+[Hotbar] Select 5 cell=[快捷栏] 选择5单元格
+[Hotbar] Select 6 cell=[快捷栏] 选择6单元格
+[Hotbar] Select 7 cell=[快捷栏] 选择7单元格
+[Hotbar] Select 8 cell=[快捷栏] 选择8单元格
+[Hotbar] Select 9 cell=[快捷栏] 选择9单元格
+[Hotbar] Select 10 cell=[快捷栏] 选择10单元格
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//7*巫毒娃娃模组_Voodoo Doll Mod
+Voodoo Doll Mod=巫毒娃娃模组
+A cursed doll that can be used to harm entities.=一个被诅咒的娃娃，可用于伤害实体
+<b>Human Voodoo Doll</b>\r\nA cursed doll that can be used to harm entities. Bring it close to a <color%3D#f0f>human</color> and activate it to place a curse on them. Activate it again to lift the curse.=<b>人类巫毒娃娃</b>\r\n一个被诅咒的娃娃，可用于伤害实体.将其靠近 <color%3D#f0f>人类</color> 并激活即可对其施咒.再次激活即可解除诅咒.
+<b>Android Voodoo Doll</b>\r\nA cursed doll that can be used to harm entities. Bring it close to an <color%3D#f0f>android</color> and activate it to place a curse on them. Activate it again to lift the curse.=<b>机器人巫毒娃娃</b>\r\n一个被诅咒的娃娃，可用于伤害实体.将其靠近 <color%3D#f0f>人型机器人</color> 并激活即可对其施咒.再次激活即可解除诅咒.
+<b>Gorse Voodoo Doll</b>\r\nA cursed doll that can be used to harm entities. Bring it close to a <color%3D#f0f>gorse</color> and activate it to place a curse on them. Activate it again to lift the curse.=<b>格洛斯巫毒娃娃</b>\r\n一个被诅咒的娃娃，可用于伤害实体.将其靠近 <color%3D#f0f>格洛斯</color> 并激活即可对其施咒.再次激活即可解除诅咒.
+//*右键菜单
+ON=开启
+DISABLED=禁用
+ENTITY=实体
+DOLL=玩偶
+Control mode=控制模式
+Toggle control mode.=切换控制模式.
+Detaching=分离
+Toggle detaching.=切换分离状态.
+Crushing=碾压
+Toggle crushing.=切换压碎模式.
+Shot transferring=射击转移
+Toggle shot transferring.=切换镜头传输.
+Explosion transferring=爆炸转移
+Toggle explosion transferring.=切换爆炸转移.
+Impact transferring=冲击转移
+Toggle impact transferring.=切换冲击转移.
+Charge transferring=充能转移
+Toggle charge transferring.=切换充能转移.
+Wetness transferring=潮湿转移
+Toggle wetness transferring.=切换潮湿转移.
+Ignition transferring=点燃转移
+Toggle ignition transferring.=切换点燃转移.
+Detaching transferring=分离转移
+Toggle detaching transferring.=切换分离转移.
+Crushing transferring=碾压转移
+Toggle crushing transferring.=切换碾压转移.
+Stabbing transferring=刺穿转移
+Toggle stabbing transferring.=切换刺穿转移.
+Liquid transferring=液体转移
+Toggle liquid transferring.=切换液体转移.
+
+
+
+
+
+
+
+
+
+
+
+
+//8*像素破坏模组_Per Pixel Mod
+Per Pixel Mod=每像素破坏模组
+Vannila only!=仅原版游戏运行!
+//工具
+<b>Destruction drag</b>\nMakes objects destructible by pixel when spawned with this tool. Otherwise identical to the Drag Tool.=<b>破坏拖拽</b>\n使用此工具生成的物体会按像素点被破坏. 其他方面与拖拽工具相同.
+
+<b>Nanite</b>\nHover over an object to create small green organisms that eat the object pixel by pixel until their lifespan ends or the object is completely destroyed.=<b>纳米虫</b>\n将鼠标悬停在物体上可生成微小的绿色生物，它们会逐像素啃食物体，直到它们的寿命结束或物体被完全摧毁.
+
+<b>Slice</b>\nSlice objects at the intersection with a line. Creates separate, independent objects from each other.=<b>切割</b>\n沿线的交点切割物体. 创建彼此分离、独立的物体.
+
+
+//右键菜单
+Pixel destructible=像素可破坏
+Switch object pixel destructible. \nYou cannot switch object debris`s destructible.\nFrom Per Pixel Mod.=切换物体的像素可破坏性. \n你无法切换物体碎片的可破坏性. \n来自像素破坏模组.
+
+
+//设置
+Pixel destruction=像素破坏
+
+Destruction parameters=破坏参数
+
+Make object destructible on spawn=使物体在生成时可破坏
+All object that spawned with this setting will be destructible.\n<color%3Dyellow>Warning: damaged objects cannot be copied/saved.</color>=所有使用此设置生成的物体都将可破坏. \n<color%3Dyellow>警告：损坏的物体无法被复制/保存. </color>
+
+Colliders update delay (in seconds)=碰撞体更新延迟（秒）
+The delay (in seconds) between collider updates for destructible objects.\nIf 0, will be updated every frame (default value).=可破坏物体碰撞体更新之间的延迟（秒）. \n如果为0，则每帧更新（默认值）. 
+
+Spawn count per tool click=每次工具点击的生成数量
+The number of nanites that spawn when you click with the nanite tool.=使用纳米虫工具点击时生成的纳米虫数量. 
+
+Moves per life=每次寿命的移动次数
+The number of moves a nanite can make in its lifetime.=纳米虫在其寿命内可以移动的次数. 
+
+Speed (in pixels per second)=速度（像素/秒）
+The number of pixels the nanite processes per second.=纳米虫每秒处理的像素数. 
+
+Сan jump to near objects=能否跳转到附近物体？
+Can nanites jump to nearby objects?=纳米虫能否跳转到附近物体？
+
+Visual=视觉效果
+Pixel particles=像素粒子
+Lifetime (in seconds)=寿命（秒）
+
+Cool glass break=酷炫玻璃破碎
+On impact, shot or  explosion, the glass can shatter into 2 pieces.\nWorks only if glass is destructible by pixels (by <b>MakeObjectsDestructibleOnSpawn</b> setting, tools or other).=在撞击、射击或爆炸时，玻璃可以碎成2块. \n仅当玻璃可通过像素破坏时生效（通过<b>MakeObjectsDestructibleOnSpawn</b>设置、工具或其他方式）. 
+
+Slice tool sound=切割工具音效
+Enable/disable Slice tool slice sound.=启用/禁用切割工具的切割声音. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//9*植物大战僵尸
+Plants vs. Zombies Mod=植物大战僵尸模组
+
+by quickness, morrz1c, laska, Webber, \nThe mod adds a huge number of plants from plants vs zombies. Some plants have unique functionality.=由 quickness, morrz1c, laska, Webber 制作，\n该模组添加了大量来自《植物大战僵尸》的植物. 部分植物拥有独特功能. 
+
+<size%3D1.5em>Plants vs. Zombies Mod</size>\nby quickness, morrz1c, laska, Webber, \nThe mod adds a huge number of plants from plants vs zombies. Some plants have unique functionality.\n<noparse>A mod by intMod for game version 1.27+</noparse>=<size%3D1.5em>植物大战僵尸模组</size>\n由 quickness, morrz1c, laska, Webber 制作，\n该模组添加了大量来自《植物大战僵尸》的植物. 部分植物拥有独特功能. \n<noparse>由 intMod 为游戏版本 1.27+ 制作的模组</noparse>
+
+<b>Plants vs Zombies</b>\r\npfaspfapsfsdfdslkfgdlkfg. -sounds pretty cool.=<b>植物大战僵尸</b>\r\n歪比巴卜. -听起来很酷.
+<b>Sunflower [INTBP]</b>\r\nImproves the characteristics of plants in the vicinity.=<b>向日葵 [INTBP]</b>\r\n提升附近植物的特性.
+<b>Peashooter [INTBP]</b>\r\nShoots peas. When a pea hits a limb, it deals damage to that limb.=<b>豌豆射手 [INTBP]</b>\r\n发射豌豆. 当豌豆击中肢体时，会对其造成伤害.
+<b>Repeater [INTBP]</b>\r\nShoots peas quickly. When a pea hits a limb, it deals damage to that limb.=<b>双发射手 [INTBP]</b>\r\n快速发射豌豆. 当豌豆击中肢体时，会对其造成伤害.
+<b>Gatling Pea [INTBP]</b>\r\nShoots four peas. The strongest version of a peashooters.=<b>加特林豌豆 [INTBP]</b>\r\n发射四颗豌豆. 豌豆射手的终极形态.
+<b>Show Pea [INTBP]</b>\r\nShoots freezing peas. When a pea hits a limb, it deals damage and freezes it.=<b>寒冰射手 [INTBP]</b>\r\n发射冰冻豌豆. 当豌豆击中肢体时，会造成伤害并冻结该肢体.
+<b>Threepeater [INTBP]</b>\r\nTriple pea shooter. Fires three pea shells instead of 1.=<b>三线射手 [INTBP]</b>\r\n三管豌豆射手. 同时发射三颗豌豆而非一颗.
+<b>Chomper [INTBP]</b>\r\nDangerous toothy purple flower. Eats any entity in its vicinity. Then it needs time to chew its prey.=<b>大嘴花 [INTBP]</b>\r\n危险的紫色利齿花朵. 吞噬附近的任何实体. 之后需要时间消化猎物.
+<b>Wall-Nut [INTBP]</b>\r\nHardy nut that protects plants from enemies. Gradually breaks when taking damage.=<b>坚果墙 [INTBP]</b>\r\n坚硬的坚果，保护植物免受敌人攻击. 受到伤害时会逐渐碎裂.
+<b>Tall-nut [INTBP]</b>\r\nA taller and more durable version of the small walnut. Also protects plants from zombies. Zombies take quite a long time to destroy this nut.=<b>高坚果 [INTBP]</b>\r\n更高更耐久的小坚果墙版本. 同样保护植物免受僵尸攻击. 僵尸需要相当长的时间才能摧毁它.
+<b>Squash [INTBP]</b>\r\nThe disgruntled squash as soon as it sees a zombie, it will jump and crush it. A rather powerful and grumpy plant.=<b>倭瓜 [INTBP]</b>\r\n不满的倭瓜，一看到僵尸就会跳起来将其压碎. 一种相当强大且脾气暴躁的植物.
+<b>Cherry Bomb [INTBP]</b>\r\nWhen activated, it explodes.=<b>樱桃炸弹 [INTBP]</b>\r\n激活后会爆炸.
+<b>Potato Mine [INTBP]</b>\r\nPotato mine explodes when someone steps on it.=<b>土豆地雷 [INTBP]</b>\r\n有人踩到时爆炸.
+<b>Jalapeno [INTBP]</b>\r\nAn incredibly spicy and hot plant. Burns zombies when activated. It's impossible to escape!=<b>火爆辣椒 [INTBP]</b>\r\n一种极其辛辣的植物. 激活时灼烧僵尸. 无法逃脱！
+<b>Spikeweed [INTBP]</b>\r\nVery spiky grass. As soon as an entity walks on this plant - its legs will be badly damaged. =<b>地刺 [INTBP]</b>\r\n非常尖利的草丛. 一旦实体踩上，其腿部会受到严重伤害.
+<b>Sun-shroom [INTBP]</b>\r\nLittle sunshine mushroom. Improves the characteristics of plants in the vicinity. Sleeps during the day. In context menu you can disable this function.=<b>阳光菇 [INTBP]</b>\r\n小阳光蘑菇. 提升附近植物的特性. 白天会睡觉. 可在右键菜单中禁用此功能.
+<b>Puff-shroom [INTBP]</b>\r\nSmall mushroom that shoots a spore that does a little damage to limbs. Sleeps during the day. In context menu you can disable this function.=<b>小喷菇 [INTBP]</b>\r\n小型蘑菇，发射孢子对肢体造成少量伤害. 白天会睡觉. 可在右键菜单中禁用此功能.
+<b>Fume-shroom [INTBP]</b>\r\nLarge mushroom, launches a large number of spores that cause damage to limbs. Sleeps during the day. In context menu you can disable this function.=<b>大喷菇 [INTBP]</b>\r\n大型蘑菇，发射大量孢子对肢体造成伤害. 白天会睡觉. 可在右键菜单中禁用此功能.
+<b>Scaredy-shroom [INTBP]</b>\r\nShy thin mushroom. Launches single spores that deal limb damage. Hides at the sight of zombies. Sleeps during the day. In context menu you can disable this function.=<b>胆小菇 [INTBP]</b>\r\n害羞的细长蘑菇. 发射单发孢子造成肢体伤害. 看到僵尸时会缩起来. 白天会睡觉. 可在右键菜单中禁用此功能.
+<b>Doom-shroom [INTBP]</b>\r\nCrazy powerful mushroom, when activated, destroys all entities in a small area.=<b>毁灭菇 [INTBP]</b>\r\n极其强大的蘑菇，激活后摧毁小范围内的所有实体.
+<b>Ice-shroom [INTBP]</b>\r\nIce Mushroom, when activated, freezes all entities in a small area for a small amount of time.=<b>冰菇 [INTBP]</b>\r\n冰蘑菇，激活后冻结小范围内所有实体一段时间.
+<b>Hypno-shroom [INTBP]</b>\r\nThis rainbow mushroom hypnotizes zombies, which causes them to lie down and wait for other zombies to grab it and keep it from going any further.=<b>魅惑菇 [INTBP]</b>\r\n这种彩虹蘑菇能催眠僵尸，使它们躺下，等待其他僵尸抓住它并阻止它前进.
+<b>Grave Buster [INTBP]</b>\r\nPlant that destroys graves. Move this plant to grave so that Grave Buster starts eating it.=<b>墓碑吞噬者 [INTBP]</b>\r\n吞噬墓碑的植物. 将此植物移至墓碑上即可开始吞噬.
+<b>Grave [INTBP]</b>\r\nObject that protects zombies from plant projectiles. Gradually breaks down until it is completely destroyed. Can be eaten by Grave Buster.=<b>墓碑 [INTBP]</b>\r\n保护僵尸免受植物投射物伤害的物体. 会逐渐碎裂直至完全摧毁. 可被墓碑吞噬者吃掉.
+<b>Zombie [INTBP]</b>\r\nA regular zombie that starts moving forward when spawned. A weaker version of regular zombies. Plant projectiles can tear off legs, arms or heads. After death, this entity disappears.=<b>僵尸 [INTBP]</b>\r\n生成后即向前移动的普通僵尸. 普通僵尸的弱化版本. 植物投射物可撕掉腿、手臂或头部. 死亡后该实体消失.
+<b>Zombie spawner [INTBP]</b>\r\nZombie spawner. Has many settings in the context menu. To get the spawner to work, first create a spawn point (in the context menu). Then, in pause mode, set up the point as you need. Then activate a spawner.=<b>僵尸生成器 [INTBP]</b>\r\n僵尸生成器. 在右键菜单中有许多设置. 要使其工作，首先创建生成点（在右键菜单中）. 然后在暂停模式下按需设置该点. 然后激活生成器.
+
+
+//右键菜单
+Stop ignore day plan=遵循日夜循环
+Ignore day plan=忽略日夜循环
+Switch ignore day plan=切换日夜循环
+Switch ignore day plan.=切换日夜循环.
+Control the plant=控制植物
+Control the plant.=控制植物.
+Stop controlling=停止控制
+Add spawn point=添加生成点
+Set right=设置右侧
+Set left=设置左侧
+Set Interval=设置间隔
+Add spawn point for zombie spawn=为僵尸生成添加生成点
+Add spawnd point for zombie spawn=为僵尸生成添加生成点
+Add spawnd point for zombie spawn.=为僵尸生成添加生成点.
+Add spawn point for zombie spawn.=为僵尸生成添加生成点.
+Flip zombie spawner=翻转僵尸生成器
+Flip zombie spawner.=翻转僵尸生成器.
+Set zombie spawn interval.=设置僵尸生成间隔.
+Clear zombie spawn points.=清除僵尸生成点.
+Clear spawn points=清除生成点
+Set spawn chance=设置生成几率
+Set spawn limit=设置生成上限
+Set point zombie spawn chance=设置生成点僵尸生成几率
+Set point zombie spawn chance.=设置生成点僵尸生成几率.
+Set zombie spawn chance=设置僵尸生成几率
+Set point zombie spawn limit=设置生成点僵尸生成上限
+Set point zombie spawn limit.=设置生成点僵尸生成上限.
+Set zombie spawn limit=设置僵尸生成上限
+
+//通知
+Zombie spawner activeted.=僵尸生成器已激活.
+Zombie spawner deactiveted.=僵尸生成器已停用.
+Create at least 1 spawn point to activate the zombie spawner.=请至少创建1个生成点以激活僵尸生成器.
+
+
+
+
+
+
+//10*统一生命条_One Health Bar
+One Health Bar=统一生命条
+Converts entity health from body-part specific to a single health pool. Damage to any part affects the total health, and entities die when it reaches zero.=将实体生命值从分部位计算转换为统一的总体生命值. 任何部位受损都会影响总生命值，归零时实体才会死亡. 
+<size%3D1.5em>One Health Bar</size>\nConverts entity health from body-part specific to a single health pool. Damage to any part affects the total health, and entities die when it reaches zero.\n<noparse>A mod by Int Studio for game version 1.27</noparse>=<size%3D1.5em>统一生命条</size>\n将实体生命值从分部位计算转换为统一的总体生命值. 任何部位受损都会影响总生命值，归零时实体死亡. \n<noparse>由 Int Studio 为游戏版本 1.27 制作的模组</noparse>
+
+
+
+
+
+
+//11*高级抓取模组_Advanced Grip Mod
+Advanced Grip Mod=高级抓取模组
+Enhanced grip feature. Selection priority, switching with SHIFT=增强抓取功能. 选择优先级，按SHIFT在要抓握的物品中切换
+<size%3D1.5em>Advanced Grip Mod</size>\nThis mod adds an advanced (improved) object grip system. It often happens that among several “grabbed” objects, you need a certain one. With this mod you will be able to choose which item you want to grab.\r\n\r\nIf you press F, the one in the direction of your hand has priority.\r\n\r\nIf you hold F, the highest-priority object is highlighted with a yellow outline. With Shift, you can switch to another object to grab.=<size%3D1.5em>高级抓取模组</size>\n该模组添加了一个高级（改进的）物体抓取系统. 在抓取多个物体时，经常需要精确选择某一个. 有了这个模组，你将能够选择你想要抓取的物品. \r\n\r\n如果你按下F键，位于手部方向的那个物体将获得优先. \r\n\r\n如果你按住F键，最高优先级的物体会被黄色轮廓高亮. 使用Shift键，你可以切换到另一个可抓取的物体. 
+
+
+
+
+//12*其他武器附件_Other weapon attachments
+Other weapon attachments=其他武器附件
+mod adds a random number of different atachments that came to my mind=模组随机添加了一些我想出来的不同附件
+<size%3D1.5em>Other weapon attachments</size>\nmod adds a random number of different atachments that came to my mind\n<noparse>A mod by Int team for game version 1.21+</noparse>=<size%3D1.5em>其他武器附件</size>\n模组随机添加了一些我想出来的不同附件\n<noparse>一款由Int团队制作的模组，适用于游戏版本1.21+</noparse>
+<b>Shock attachment [OWA]</b>\r\nThe bullet is weakly electrocuted on hit.=<b>电击附件 [OWA]</b>\r\n子弹击中时会造成微弱电击. 
+<b>Small boom attachment [OWA]</b>\r\nOn hit the bullet weakly explodes.=<b>微型爆炸附件 [OWA]</b>\r\n子弹击中时会发生微弱爆炸. 
+<b>Zombie attachment [OWA]</b>\r\nAttachment with zombie serum that goes into a person on hit (you can pour another liquid in).=<b>僵尸血清附件 [OWA]</b>\r\n带有僵尸血清的附件，击中时会注入人体（你可以倒入其他液体）. 
+<b>Acid attachment [OWA]</b>\r\nAttachment with acid that goes into a person on hit (you can pour another liquid in).=<b>酸液附件 [OWA]</b>\r\n带有酸液的附件，击中时会注入人体（你可以倒入其他液体）. 
+<b>Knockout attachment [OWA]</b>\r\nBullets knock a man out.=<b>击昏附件 [OWA]</b>\r\n子弹能将人击昏. 
+<b>Meat grinder attachment [OWA]</b>\r\nBullets grinds the damaged limbs.=<b>绞肉机附件 [OWA]</b>\r\n子弹会碾碎受伤的肢体. 
+<b>Recoil compensator [OWA]</b>\r\nStrongly copmensating the recoil.=<b>后坐力补偿器 [OWA]</b>\r\n显著补偿后坐力. 
+<b>Bayonet attachment [OWA]</b>\r\nA knife that is attached to a weapon.=<b>刺刀附件 [OWA]</b>\r\n安装在武器上的刀具. 
+<b>Bipod attachment [OWA]</b>.\r\n=<b>两脚架附件 [OWA]</b>. 
+<b>Collimator sight attachment [OWA]</b>\r\nSlightly increases accuracy.=<b>准直式瞄准镜附件 [OWA]</b>\r\n略微提高精度. 
+<b>Silencer attachment [OWA]</b>\r\nAttach to the muzzle of some vanilla weapons. Makes the sound of shooting quieter.=<b>消音器附件 [OWA]</b>\r\n安装在某些原版武器的枪口上. 使射击声音更安静. 
