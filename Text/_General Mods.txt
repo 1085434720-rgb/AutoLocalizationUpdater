@@ -9852,3 +9852,203 @@ Set Speed Threshold=设置速度阈值
 Set the speed threshold of the objects to meet for this bone to hit.=设置此骨头命中所需满足的对象速度阈值. 
 Set the speed threshold. (Default: 2.5)=设置速度阈值. （默认：2.5）
 
+
+
+
+
+
+
+//190*增强人类撞击_Enhanced Human Impact
+<noparse>Enhanced Human Impact</noparse>=<noparse>增强人类撞击</noparse>
+Makes all humans (vanilla and modded) capable of breaking walls and destructibles on high-velocity impacts. The harder they fly, the more they destroy.=使所有人类（原版和模组）在高速撞击时能够破坏墙壁和可摧毁物体. 飞得越猛，破坏力越大. 
+<size%3D1.5em>Enhanced Human Impact</size>\nMakes all humans (vanilla and modded) capable of breaking walls and destructibles on high-velocity impacts. The harder they fly, the more they destroy.\n<noparse>A mod by TimesLast for game version 1.28+</noparse>=<size%3D1.5em>增强人类撞击</size>\n使所有人类（原版和模组）在高速撞击时能够破坏墙壁和可摧毁物体. 飞得越猛，破坏力越大. \n<noparse>由 TimesLast 制作的模组，适用于游戏版本 1.28+</noparse>
+
+
+
+
+
+//191*肢体交换模组_Limb Swap Mod
+<noparse>Limb Swap Mod</noparse>=<noparse>肢体交换模组</noparse>
+Frankenstein???=弗兰肯斯坦？？？\n按J取下要交换的肢体
+<size%3D1.5em>Limb Swap Mod</size>\nFrankenstein???\n<noparse>A mod by Batrix Studio. Commissioned by Raiden1103. for game version 1.21+</noparse>=<size%3D1.5em>肢体交换模组</size>\n弗兰肯斯坦？？？\n<noparse>由 Batrix Studio 制作的模组. 由 Raiden1103 委托制作. 适用于游戏版本 1.21+</noparse>
+<b>Frankenstein Power Giver</b>.\r\n=<b>弗兰肯斯坦力量赋予器</b>.\r\n按J取下要交换的肢体
+
+
+
+
+
+//192*万物可附着_Everything Attachable
+<noparse>Everything Attachable</noparse>=<noparse>万物可附着</noparse>
+Adds new context menu button that allows you to make any object atachment=添加了新的上下文菜单按钮，允许你将任何物体变为可附着物. 
+<size%3D1.5em>Everything Attachable</size>\nAdds new context menu button that allows you to make any object atachment\n<noparse>A mod by ibiglaser for game version MORE Attachments</noparse>=<size%3D1.5em>万物可附着</size>\n添加了新的上下文菜单按钮，允许你将任何物体变为可附着物. \n<noparse>由 ibiglaser 制作的模组，适用于游戏版本 更多附着物</noparse>
+Make This Attachable=使此物可附着
+Remove Attachability=移除可附着性
+Makes Or Removes Objects Attachable.=使物体可附着或移除附着状态. 
+<size%3D120%><align%3D"center">Everything Attachable<color%3D"red"><color%3D"white">\n<size%3D100%><align%3D"left">\n\nI ask you to watch the tutorial on how to use the mod, so you quickly figure it out and also support us!\nYou can also join us on the discord server and subscribe to Patreon or Boosty=<size%3D120%><align%3D"center">万物可附着<color%3D"red"><color%3D"white">\n<size%3D100%><align%3D"left">\n\n我请求您观看有关如何使用本模组的教程，这样您就能快速上手，同时也能支持我们！\n您还可以加入我们的 Discord 服务器，并订阅 Patreon 或 Boosty. 
+Choose Attachment Effect. This Will Only Affect While Attached.=选择附着效果. 此效果仅在附着时生效. 
+Change Accuracy=更改精准度
+Enter Accuracy Modifier \nDefault %3D 25%=输入精准度修正值 \n默认 %3D 25%
+Integer Numbers Only (0 - 100)=仅限整数（0-100）
+Open Settings=打开设置
+Choose Attachment Type / Set Offset=选择附着类型 / 设置偏移
+Scope=瞄准镜
+Barrel=枪管
+Set Offset=设置偏移
+Set Offset\nNumber, Number %3D> X-Offset, Y-Offset=设置偏移\n数字，数字 %3D> X轴偏移，Y轴偏移
+Example: 0, 0=示例：0, 0
+Incorrect Value=数值不正确
+Incorrect Values=数值不正确
+Go Back=返回
+Charged Rounds=充电弹
+Enter Base Charge \ndefault %3D 1=输入基础电荷 \n默认 %3D 1
+Only Numbers=仅限数字
+Incendiary Rounds=燃烧弹
+Enter Fire Chance \ndefault %3D 10%=输入开火几率 \n默认 %3D 10%
+Explosive Rounds=爆炸弹
+Apply / Open Explosion Stats Settings=应用 / 打开爆炸统计设置
+Apply Exp. Stats=应用爆炸统计
+Edit Exp. Stats=编辑爆炸统计
+Edit Bullet Impact Explosion Stats / Settings\nBe Very Careful Large Values Can Cause Problems Such As Lags, Bugs, Game Crash, Long Game Freezes=编辑子弹撞击爆炸统计 / 设置\n请务必小心，较大的数值可能会导致问题，例如延迟、错误、游戏崩溃、长时间卡顿.
+Switch effects=切换效果
+Explosion Particles disabled=爆炸粒子已禁用
+Explosion Particles enabled=爆炸粒子已启用
+Explosion Size=爆炸尺寸
+Explosion Size Now Medium=爆炸尺寸现在为中等
+Explosion Size Now Big=爆炸尺寸现在为大
+Explosion Size Now Small=爆炸尺寸现在为小
+Explosion Range=爆炸范围
+Set Explosion Range \ndefault %3D 10=设置爆炸范围 \n默认 %3D 10
+Explosion Force=爆炸力度
+Set Explosion Force \ndefault %3D 0.8=设置爆炸力度 \n默认 %3D 0.8
+Explosion Dismember Chance=爆炸断肢几率
+Set Explosion Dismember Chance \ndefault %3D 5%=设置爆炸断肢几率 \n默认 %3D 5%
+Only Numbers (0 - 100)=仅限数字（0 - 100）
+Explosion Shrapnel Count=爆炸碎片数量
+Set Explosion Shrapnel Count \ndefault %3D 1=设置爆炸碎片数量 \n默认 %3D 1
+Integer Numbers Only %3D> example: 24=仅限整数 %3D> 示例：24
+
+
+
+
+
+//193*更好的弓模组 修复版_Better Bow Mod Fixed
+<noparse>Better Bow Mod Fixed</noparse>=<noparse>更好的弓模组 修复版</noparse>
+Better Bow more realistic with draw system=更好的弓，带有拉弓系统，更真实. 
+<size%3D1.5em>Better Bow Mod Fixed</size>\nBetter Bow more realistic with draw system\n<noparse>A mod by Kasztan_Best, Timtam for game version </noparse>=<size%3D1.5em>更好的弓模组 修复版</size>\n更好的弓，带有拉弓系统，更真实. \n<noparse>由 Kasztan_Best、Timtam 制作的模组，适用于游戏版本 </noparse>
+<b>Bow</b>\r\na weak simplistic bow.=<b>弓</b>\r\n一把简陋的弱弓
+<b>Compound Bow</b>\r\nState of the art strong compound bow.=<b>复合弓</b>\r\n一把最先进的强力复合弓
+
+
+
+
+
+//194*元素模组_Elemental mod
+<noparse>Elemental mod</noparse>=<noparse>元素模组</noparse>
+Elemental Mod=元素模组
+<size%3D1.5em>Elemental mod</size>\nElemental Mod\n<noparse>A mod by $mexu for game version 1.27+</noparse>=<size%3D1.5em>元素模组</size>\n元素模组\n<noparse>由 $mexu 制作的模组，适用于游戏版本 1.27+</noparse>
+<b>Elemental</b>\r\nElemental Mod.=<b>元素</b>\r\n元素模组. 
+<b>Air Crystal</b>\r\nAir elemental powers head:Radial Shockwave,Flying arm:air stream,Suffocation Bubble,tornado.=<b>空气水晶</b>\r\n空气元素能力\n头部：径向冲击波\n飞行手臂：气流, 窒息气泡, 龙卷风
+<b>Earth Crystal</b>\r\nEarth Elemental powers arm:rock,earth fist,earthquake,earth wall,head:stone armor.=<b>大地水晶</b>\r\n大地元素能力\n手臂：岩石、大地之拳、地震、土墙\n头部：石质护甲
+<b>Fire Crystal</b>\r\nFire elemental powers head:fire breath arm:fire fist,flamethrower,fireball.=<b>火焰水晶</b>\r\n火焰元素能力\n头部：火焰吐息\n手臂：火焰之拳、火焰喷射器、火球
+<b>Green Brick</b>\r\njust Green brick.=<b>绿色砖块</b>\r\n只是绿色砖块. 
+<b>Ice Crystal</b>\r\nIce elemental powers head: Glacial Burst, arm: Ice Shard, Ice Fist, Ice Shield, Ice Sword. Legs: Ice Skating.=<b>冰霜水晶</b>\r\n冰霜元素能力\n头部：冰川爆裂\n手臂：冰晶碎片、冰霜之拳、冰霜护盾、冰霜之剑\n腿部：冰上滑行
+<b>Lightning Crystal</b>\r\nLightning elemental powers head: Lightning Shockwave, arm: Lightning Beam, Lightning Fist, Lightning Bolt, Lightning Ball.=<b>闪电水晶</b>\r\n闪电元素能力\n头部：闪电冲击波\n手臂：闪电光束、闪电之拳、闪电箭、闪电球
+<b>Water Crystal</b>\r\nWater elemental powers head:Water Tentacles  arm: water whip, heal fist, water bubble.=<b>水流水晶</b>\r\n水流元素能力\n头部：水流触手\n手臂：水鞭、治疗之拳、水泡
+Switch Head Mode=切换头部模式
+Switch between Radial Shockwave and Flying.=在径向冲击波和飞行之间切换. 
+Toggle Power=切换能力
+Enable or disable elemental powers.=启用或禁用元素能力. 
+Head Mode: Radial Shockwave=头部模式：径向冲击波
+Air Flying: ACTIVE=空气飞行：激活
+Head Mode: Flying=头部模式：飞行
+Air Powers Disabled=空气能力已禁用
+Air Powers Enabled=空气能力已启用
+Air Powers Disabled=空气能力已禁用
+Air Powers Enabled=空气能力已启用
+Switch between Air Blast and Suffocation Bubble.=在空气爆裂和窒息气泡之间切换. 
+Hand Mode: Suffocation Bubble=手部模式：窒息气泡
+Hand Mode: Tornado=手部模式：龙卷风
+Hand Mode: Air Blast=手部模式：空气爆裂
+Toggle Stone Armor=切换石质护甲
+Activate or deactivate stone protective skin.=激活或停用石质防护皮肤. 
+STONE ARMOR ACCRUED=石质护甲已累积
+Stone Armor shattered.=石质护甲已碎裂. 
+Switch between Rock, Earth Fist, Earthquake, and Stone Wall.=在岩石、大地之拳、地震和石墙之间切换. 
+Hand Mode: EARTH FIST=手部模式：大地之拳
+Hand Mode: EARTHQUAKE=手部模式：地震
+Hand Mode: STONE WALL=手部模式：石墙
+Hand Mode: ROCK=手部模式：岩石
+EARTHQUAKE STARTED!=地震开始了！
+Earthquake stopped.=地震已停止. 
+Change Fire Color=更改火焰颜色
+Change the color of your fire.=更改你火焰的颜色. 
+Fire Color: RED=火焰颜色：红色
+Fire Color: BLUE=火焰颜色：蓝色
+Fire Color: GREEN=火焰颜色：绿色
+Fire Color: YELLOW=火焰颜色：黄色
+Fire Color: ORANGE=火焰颜色：橙色
+Fire Color: PURPLE=火焰颜色：紫色
+Fire Color: PINK=火焰颜色：粉色
+Fire Color: BLACK=火焰颜色：黑色
+Fire Color: WHITE=火焰颜色：白色
+Fire Color: GRAY=火焰颜色：灰色
+Fire Color: RAINBOW=火焰颜色：彩虹
+Fire Color: DEFAULT=火焰颜色：默认
+Fire Powers: DISABLED=火焰能力：已禁用
+Fire Powers: ENABLED=火焰能力：已启用
+Switch between Flamethrower and Fire Fist.=在火焰喷射器和火焰之拳之间切换.
+Hand Mode: FIRE FIST=手部模式：火焰之拳
+Hand Mode: FIRE BALL=手部模式：火球
+Hand Mode: FLAMETHROWER=手部模式：火焰喷射器
+Ice Powers: DISABLED=冰霜能力：已禁用
+Ice Powers: ENABLED=冰霜能力：已启用
+Ice Skates: DISABLED=冰鞋：已禁用
+Switch between Ice Shard and Ice Fist.=在冰晶碎片和冰霜之拳之间切换. 
+Hand Mode: ICE FIST=手部模式：冰霜之拳
+Hand Mode: ICE SHIELD=手部模式：冰霜护盾
+Hand Mode: ICE SWORD=手部模式：冰霜之剑
+Hand Mode: ICE SHARD=手部模式：冰晶碎片
+Switch between current lightning fire modes.=在当前闪电射击模式之间切换. 
+Hand Mode: ICE FIST=手部模式：冰霜之拳
+Hand Mode: LIGHTNING FIST=手部模式：闪电之拳
+Hand Mode: LIGHTNING BOLT=手部模式：闪电箭
+Hand Mode: LIGHTNING BALL=手部模式：闪电球
+Hand Mode: LIGHTNING BEAM=手部模式：闪电光束
+Switch between Water Whip, Heal Hands and Water Bubble.=在水鞭、治疗之手和水泡之间切换. 
+Hand Mode: HEAL FIST=手部模式：治疗之拳
+Hand Mode: WATER BUBBLE=手部模式：水泡
+Hand Mode: WATER WHIP=手部模式：水鞭
+
+
+
+
+
+
+
+//195*搞基角色模组_Advanced Character Mod
+<noparse>Advanced Character Mod</noparse>=<noparse>高级角色模组</noparse>
+A mod with possibly the most advanced limb and limb addon systems ever. The original mod with Jiggle Physics, full destruction support, and if editted to be NSFW Mode- this is the PPG Sex Mod.=一个可能拥有有史以来最先进的肢体及肢体附加系统的模组. 该原始模组带有弹性物理、完整的破坏支持，并且如果编辑为NSFW模式，则此即为PPG性爱模组. 
+<size%3D1.5em>Advanced Character Mod</size>\nA mod with possibly the most advanced limb and limb addon systems ever. The original mod with Jiggle Physics, full destruction support, and if editted to be NSFW Mode- this is the PPG Sex Mod.\n<noparse>A mod by Abyssal Studio for game version 1.23+</noparse>=<size%3D1.5em>高级角色模组</size>\n- - - - - - - - - -\n\n用任意文本编辑器在模组根目录打开“~ CONFIG ~.cs”，并阅读文件代码中的协议. \n如果你同意，请将“false”替换为“true”，保留行尾结束字符，即类似“true;”的格式. \n如果你想在SFW模式之外游玩本模组，请进行此操作. \n\n- - - - - - - - - -\n\n%3D%3D%3D%3D 注意 %3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D\n%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D\n本模组默认处于SFW模式，即所有NSFW功能默认处于禁用状态/不包含在模组中. \n\n并且由于配置文件为代码文件，你需要自行在本地系统上编辑本模组，才能访问NSFW模式. \n因此，在NSFW模式下使用本模组完全是你自己的修改行为，\n此类内容的任何责任均不能转嫁给我 Aubarino，因为这是你自己在你自己的电脑上进行的修改. \n%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D\n%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D\n\n将此模组重新上传至Steam创意工坊是不可能的，请不要尝试，\n我在此模组中加入了反重新上传代码. \n但如果你想用此模组中的系统制作一个SFW模组，请联系Aubarino. \n\n- - - 本模组作者的Discord服务器，也有帮助频道等. \nhttps:%2F%2Fdiscord.gg/brxg5zPz6S\n\n- - - 如果你想支持作者，这是她的Patreon. \nhttps:%2F%2Fwww.patreon.com/Aubarino\n\n- - - - - - - - - -\n\n查看“update notes.txt”以获取当前更新及其变更信息. \n\n\n\n%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D\n我时隔这么久才上传它的原因. \n%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D\n\n这个模组自多年前创建以来，一直没有上架创意工坊. \n\n但随着更深入的改进，以及对游戏内分类也进行了自动审查，\n我决定将其上传至创意工坊，作为愚人节的一个合适发布. \n\n这个模组可能被称为“性爱模组”，但默认情况下，它仅仅包含大量\n先进的机制和交互，这些内容本身并不属于NSFW范畴. \n\n就其本身而言，这是一个值得上传的模组，因为这个模组中的新增内容质量，\n即使在这么多年后，至今依然过硬. \n\n而且在我之外，PPG社区中那些只顾捞钱的工作室，都烂透了. \n\n%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D\n<noparse>由 Abyssal Studio 制作的模组，适用于游戏版本 1.23+</noparse>
+<b>ACM</b>\r\nAdvanced Character Mod.=<b>ACM</b>\r\n搞基角色模组
+<b>Female Anthro Fox</b>\r\nAnthropomorphic Female Vulpine Character.=<b>女性拟人狐狸</b>\r\n拟人女性狐族角色
+<b>Male Anthro Fox</b>\r\nAnthropomorphic Male Vulpine Character.=<b>男性拟人狐狸</b>\r\n拟人男性狐族角色
+<b>Female Goblin</b>\r\nFemale Shortstack Goblin Character, classic high-fantasy female goblin.=<b>女性哥布林</b>\r\n女性矮墩哥布林角色，经典的高奇幻女性哥布林
+<b>Male Goblin</b>\r\nMale Goblinoid Character, classic high-fantasy goblin.=<b>男性哥布林</b>\r\n男性哥布林类角色，经典的高奇幻哥布林
+<b>Female Cosmic Entity</b>\r\nCosmic Entity of unknown origin.=<b>女性宇宙实体</b>\r\n来源不明的宇宙实体
+<b>Male Cosmic Entity</b>\r\nCosmic Entity of unknown origin.=<b>男性宇宙实体</b>\r\n来源不明的宇宙实体
+<b>Choker</b>\r\nA Choker fashion accessory for the neck.=<b>颈链</b>\r\n一种颈部时尚配饰
+<b>Collar</b>\r\nA Leather Collar with a little bell.=<b>项圈</b>\r\n带有小铃铛的皮革项圈
+<b>Thigh Highs (Black)</b>\r\nThigh highs, leg warmers, in a classic black color.=<b>过膝袜（黑色）</b>\r\n过膝袜，腿部保暖袜，经典黑色. 
+<b>Thigh Highs (Pink)</b>\r\nThigh highs, leg warmers, in a pink color.=<b>过膝袜（粉色）</b>\r\n过膝袜，腿部保暖袜，粉色. 
+<b>Sunglasses</b>\r\nShades for looking cool.=<b>太阳镜</b>\r\n耍酷用的墨镜
+<b>Cat Paw Gloves</b>\r\nNya nya nya! paw gloves.=<b>猫爪手套</b>\r\n喵喵喵！猫爪手套
+<b>Party Glasses</b>\r\nPink plastic party glasses.=<b>派对眼镜</b>\r\n粉色塑料派对眼镜
+<b>Fake Beard</b>\r\nA low quality fake beard, feels like plastic.=<b>假胡子</b>\r\n质量很低的假胡子，摸起来像塑料
+<b>Balaclava</b>\r\nA Balaclava, we need to put a team together >:)=<b>巴拉克拉瓦面罩</b>\r\n巴拉克拉瓦面罩，我们需要组建一支队伍 >:)
+<b>Plastic Eye</b>\r\nA funny plastic eye for gags and jokes.=<b>塑料假眼</b>\r\n用于搞怪和玩笑的搞笑塑料假眼
+<b>Blindfold</b>\r\nA Blindfold, for if you need to make someone unable to see.=<b>眼罩</b>\r\n眼罩，用于让某人无法看见东西
+<b>Leather Jacket</b>\r\nA cool leather jacket.=<b>皮夹克</b>\r\n一件很酷的皮夹克
+<b>Goblin Dildo</b>\r\nA dildo based on a goblin.=<b>哥布林假阳具</b>\r\n基于哥布林设计的假屌
+<b>Vulpine Dildo</b>\r\nA vulpine dildo with a knot.=<b>狐族假阳具</b>\r\n带有结节的狐族假屌
+Humping pose=性交姿势
+Forces the humping animation override.=强制执行性交动画. 
