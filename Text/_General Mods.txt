@@ -4030,8 +4030,10 @@ The mod was ordered by Midas=该模组由@Midas定制.
 Watch Guide=观看指南
 <size%3D200%>Attack On Human <color%3D#6af292>Update<color%3D#ffffff> is here! <size%3D100%>\nCheck out the guide on how to control ODM Gear and see what new stuff has been added!=<size%3D200%>进击的人类<color%3D#6af292>更新<color%3D#ffffff>来了！ <size%3D100%>\n查看如何控制ODM装备的指南，看看新增了什么内容！
 We've put together a detailed guide for you, as well as a couple things that will be added in the future.\nPlease watch it, so you can support us!=我们为您整理了一份详细指南，以及一些未来将会添加的内容。\n请您观看，以便支持我们！
-<b>Spinal Syringe</b>\r\n=<b>脊髓注射器</b>\r\n
-<b>[AOH] Wine</b>\r\n=<b>[进击的人类]葡萄酒</b>\r\n
+<b>Spinal Syringe</b>.\r\n=<b>脊髓注射器</b>\r\n
+<b>[AOH] Wine</b>.\r\n=<b>[进击的人类]葡萄酒</b>\r\n
+<b>[AOH] ODM Gear</b>.\r\n=<b>[进击的人类]立体机动装置</b>\r\n对手部按H键拔出剑
+<b>[AOH] Sword</b>.\r\n=<b>[进击的人类]剑</b>.\r\n
 Disable Unique Titanization=禁用独特巨人化
 Enable Unique Titanization=启用独特巨人化
 Switch Unique Titanization=切换独特巨人化
@@ -4058,6 +4060,62 @@ Set priority Founder Titan=设置优先始祖巨人
 Set priority Founder Titan.=设置优先始祖巨人。
 Set priority Rod Reiss=设置优先罗德·雷斯
 Set priority Rod Reiss.=设置优先罗德·雷斯。
+Reset priority Attack Titan=重置优先进击的巨人
+Reset priority Attack Titan.=重置优先进击的巨人。
+Reset priority War Hammer Titan=重置优先战锤巨人
+Reset priority War Hammer Titan.=重置优先战锤巨人。
+Reset priority Armored Titan=重置优先铠之巨人
+Reset priority Armored Titan.=重置优先铠之巨人。
+Reset priority Jaw Titan=重置优先颚之巨人
+Reset priority Jaw Titan.=重置优先颚之巨人。
+Reset priority Cart Titan=重置优先车力巨人
+Reset priority Cart Titan.=重置优先车力巨人。
+Reset priority Beast Titan=重置优先兽之巨人
+Reset priority Beast Titan.=重置优先兽之巨人。
+Reset priority Female Titan=重置优先女巨人
+Reset priority Female Titan.=重置优先女巨人。
+Reset priority Collosal Titan=重置优先超大型巨人
+Reset priority Collosal Titan.=重置优先超大型巨人。
+Reset priority Founder Titan=重置优先始祖巨人
+Reset priority Founder Titan.=重置优先始祖巨人。
+Reset priority Rod Reiss=重置优先罗德·雷斯
+Reset priority Rod Reiss.=重置优先罗德·雷斯。
+Morph to Attack Titan=变身为进击的巨人
+Morph to Attack Titan.=变身为进击的巨人。
+Morph to War Hammer Titan=变身为战锤巨人
+Morph to War Hammer Titan.=变身为战锤巨人。
+Morph to Armored Titan=变身为铠之巨人
+Morph to Armored Titan.=变身为铠之巨人。
+Morph to Jaw Titan=变身为颚之巨人
+Morph to Jaw Titan.=变身为颚之巨人。
+Morph to Cart Titan=变身为车力巨人
+Morph to Cart Titan.=变身为车力巨人。
+Morph to Beast Titan=变身为兽之巨人
+Morph to Beast Titan.=变身为兽之巨人。
+Morph to Female Titan=变身为女巨人
+Morph to Female Titan.=变身为女巨人。
+Morph to Collosal Titan=变身为超大型巨人
+Morph to Collosal Titan.=变身为超大型巨人。
+Morph to Founder Titan=变身为始祖巨人
+Morph to Founder Titan.=变身为始祖巨人。
+Morph to Rod Reiss=变身为罗德·雷斯
+Morph to Rod Reiss.=变身为罗德·雷斯。
+Leave titan=离开巨人
+Leave titan.=离开巨人。
+Change Speed Steam Emission=更改蒸汽排放速度
+Change Speed Steam Emission.=更改蒸汽排放速度。
+Create Explosion=创建爆炸
+CreateExplosion.=创建爆炸。
+Detach ODM Gear=拆卸立体机动装置
+Detach ODM Gear.=拆卸立体机动装置。
+Change Wire Tension=更改钢丝张力
+Change Wire Tension.=更改钢丝张力。
+Change Wire Distance=更改钢丝距离
+Change Wire Distance.=更改钢丝距离。
+Switch attaching to Background=切换附着背景
+Switch attaching to Background.=切换附着背景。
+Enter Wire Tension=输入钢丝张力
+Enter Wire Distance=输入钢丝距离
 
 
 
@@ -10418,3 +10476,18 @@ A mod with possibly the most advanced limb and limb addon systems ever. The orig
 <b>Vulpine Dildo</b>\r\nA vulpine dildo with a knot.=<b>狐族假阳具</b>\r\n带有结节的狐族假屌
 Humping pose=性交姿势
 Forces the humping animation override.=强制执行性交动画. 
+
+
+
+
+
+
+
+//196*死侍模组_Deadpool Mod
+<noparse>Deadpool Mod</noparse>=<noparse>死侍模组</noparse>
+<size%3D200%>Deadpool Mod<size%3D100%>\nI recommend to see the guide on how to use it=<size%3D200%>死侍模组<size%3D100%>\n我建议你查看如何使用它的指南
+<b>Deadpool</b>\r\nTry to destroy.=<b>死侍</b>\r\n尝试摧毁他
+<b>Deadpool Katana</b>\r\nIf you have accidentally lost or need a new.=<b>死侍打刀</b>\r\n如果你不小心丢失了或需要一把新的
+<b>Deadpool Scabbard</b>\r\nThere's 2 of them.=<b>死侍刀鞘</b>\r\n对手部按H键拔出
+Detach Deadpool Scabbard=拆卸死侍刀鞘
+Detach Deadpool Scabbard.=拆卸死侍刀鞘。
