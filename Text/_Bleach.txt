@@ -1678,6 +1678,8 @@ Evolution Available=新进化形态已解锁
 
 The target is too close=目标太近
 
+The target not found=未找到目标
+
 
 
 
@@ -1837,7 +1839,7 @@ Sword Form: Tiger II=剑形: 豹王 II
 
 
 
-//*右下角对话
+//*右下角通知
 
 <color%3D"green">Anyone can use this powerball now=<color%3D"green">现在，任何人都可以使用这个崩玉
 
@@ -1847,6 +1849,16 @@ Sword Form: Tiger II=剑形: 豹王 II
 
 <color%3D"red">Direct Positioning Parameter Disabled=<color%3D"red">精确定位参数已禁用
 <color%3D"green">Direct Positioning Parameter Enabled=<color%3D"green">精确定位参数已启用
+
+Press Shift After Selection=选择后按Shift键
+
+Saved=已保存
+Rewinded=回溯
+Select Skin Clone User=选择要套用复刻皮肤的对象
+r:"Picked (.*?) Now Select Skin Clone Target"="已选择$1，现在选择要克隆的皮肤目标"
+r:"Cloned Skin From (.*?)"="克隆皮肤来自$1"
+
+
 
 //*提示框
 Soul System required!=需要灵魂系统！
