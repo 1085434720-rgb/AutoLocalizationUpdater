@@ -10789,7 +10789,7 @@ Adds a trajectory view when pressing O=按下O键时显示轨迹视图
 <size%3D1.5em>Trajectories</size>\nAdds a trajectory view when pressing O\n<noparse>A mod by Voidanity Studios for game version 1.27+</noparse>=<size%3D1.5em>轨迹线</size>\n按下O键时显示轨迹视图\n<noparse>由 Voidanity Studios 制作的模组，适用于游戏版本 1.27+</noparse>
 Trajectory View: ENABLED=轨迹视图：已启用
 Trajectory View: DISABLED=轨迹视图：已禁用
-r:"SPD: ([\d.]+) m/s\nANG: (\d+)°"="速度: $1 m/s\n角度: $2°"
+r:"SPD: ([\d.]+)\nANG: (\d+)°"="速度: $1 m/s\n角度: $2°"
 
 
 
@@ -10864,3 +10864,40 @@ THE LEGEND OF THIS WORLD. <DELTARUNE.>=这个世界的传说. <三角符文. >
 <b><color%3Dblue>(DRMTL)<color%3Dwhite> Shadow Mantle</b>\r\nFlows like water.=<b><color%3Dblue>(DRMTL)<color%3Dwhite> 暗影斗篷</b>\r\n如流水般飘逸. 
 <b><color%3Dblue>(DRMTL)<color%3Dwhite> Jevilstail</b>\r\nChaotic.=<b><color%3Dblue>(DRMTL)<color%3Dwhite> 杰维尔之尾</b>\r\n混沌. 
 <b><color%3Dblue>(DRMTL)<color%3Dwhite> DealMaker</b>\r\nFashionable pink and yellow glasses.=<b><color%3Dblue>(DRMTL)<color%3Dwhite> 交易者眼镜</b>\r\n时尚的粉黄双色眼镜. 
+
+
+
+
+
+
+
+
+
+
+
+//201*模组菜单大修_Mod Menu Overha
+<noparse>Mod Menu Overhaul</noparse>=<noparse>模组菜单大修</noparse>
+Tired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)=厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶。（收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）
+<size%3D1.5em>Mod Menu Overhaul</size>\nTired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)\n<noparse>A mod by TF_RC for game version 1.26+</noparse>=<size%3D1.5em>模组菜单大修</size>\n厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶。（收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）\n<noparse>由 TF_RC 制作的模组，适用于游戏版本 1.26+</noparse>
+Show Enabled=显示已启用
+Show Disabled=显示已禁用
+Collections=收藏夹
+Activate All=全部激活
+Add Active Mods=<size%3D75%>添加已激活\n模组到合集
+<size%3D75%>Override Active=覆盖激活
+Overwrite Active=<size%3D75%>覆盖已激活\n模组到合集
+<size%3D75%>View Contents=查看内容
+View Contents=查看内容
+<color%3Dred>Cancel View</color>=<color%3Dred>取消查看</color>
+<size%3D75%>Delete Collection=删除合集
+<size%3D75%>Change Cover=更换封面
+Rename=重命名
+Are you sure?\nOnly activate Mods within the current collection, and Mods not in this collection will be disabled=你确定吗？\n仅激活当前收藏夹中的模组，不在此收藏夹中的模组将被禁用
+New Collection=新收藏夹
+Enter collection name=输入收藏夹名称
+Are you sure?\nAdd the currently activated Mods to this collection=你确定吗?\n将当前已激活的模组覆盖添加到收藏夹
+Sure!=确定!
+No!=不!
+Are you sure?\nDelete this collection=你确定吗?\n删除此收藏夹
+Rename Collection=重命名收藏夹
+Enter new collection name=输入新的收藏夹名称

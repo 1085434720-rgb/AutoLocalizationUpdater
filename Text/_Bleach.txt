@@ -1864,6 +1864,7 @@ r:"Cloned Skin From (.*?)"="克隆皮肤来自$1"
 Soul System required!=需要灵魂系统！
 Soul System not found=灵魂系统未找到
 Add and continue=添加并继续
+<align%3Dcenter><b><size%3D120%>Attention!</size></b></align>\n\n<align%3Dleft>Unlocking the <b>Physical</b> parameter will activate <b>DurabilitySystem</b>, which\nwill constantly modify physical parameters. This may:\n• Break characters from other mods\n• Cause bugs\n\n<color%3D#FF4444><b>This action cannot be undone!</b></color>\n<size%3D80%><color%3D#808080>Note: Some abilities and items can dynamically affect this parameter of the owner.\nIf this parameter is locked, those effects will not work.</color></size></align>=<align%3Dcenter><b><size%3D120%>注意！</size></b></align>\n\n<align%3Dleft>解锁 <b>肉体</b> 参数将激活 <b>耐久度系统</b>，该系统\n会持续修改物理参数。这可能导致：\n• 破坏其他模组的角色\n• 引发错误\n\n<color%3D#FF4444><b>此操作不可撤销！</b></color>\n<size%3D80%><color%3D#808080>注意：某些能力和物品可以动态影响拥有者的此参数。\n如果此参数被锁定，这些效果将无法生效。</color></size></align>
 
 //*血腥设置
 
