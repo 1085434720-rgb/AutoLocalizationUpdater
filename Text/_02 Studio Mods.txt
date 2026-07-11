@@ -2,7 +2,13 @@
 
 //1*软人类_Soft Human
 <b>Soft Human</b>=<b>软人类</b>
-
+Change Frequency=更改频率
+Change Frequency.=更改频率.
+Change Joints Frequency=更改关节频率
+Change Joints Frequency.=更改关节频率.
+r:"Currently Frequency %3D> ([\d.]+)"="当前频率 %3D> $1"
+Toggle Free Stretching=切换自由拉伸
+Toggle Free Stretching.=切换自由拉伸.
 
 
 
