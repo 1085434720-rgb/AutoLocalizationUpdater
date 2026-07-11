@@ -9420,7 +9420,7 @@ Heal persons without repairing skin damage=治疗人员但不修复皮肤损伤
 Immortal=不朽
 Make the selected persons immortal and immune to all damage. (Vanila can save)=使所选人员不朽并免疫所有伤害.（完全原版可保存）
 Restore Joints=恢复关节
-Reattach all broken joints, restore circulation and blood flow to pristine state.=重新连接所有断裂的关节，将循环和血流恢复到最佳状态。
+Reattach all broken joints, restore circulation and blood flow to pristine state.=重新连接所有断裂的关节，将循环和血流恢复到最佳状态. 
 Constantly recovering from injuries=持续从伤势中恢复
 Toggles=切换
 Kill the selected persons instantly.=立即杀死所选人物.
@@ -10895,6 +10895,7 @@ Tired of the vanilla mod menu? This overhaul gives you full control: drag & drop
 <size%3D1.5em>Mod Menu Overhaul</size>\nTired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)\n<noparse>A mod by TF_RC for game version 1.26+</noparse>=<size%3D1.5em>模组菜单大修</size>\n厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶. （收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）\n<noparse>由 TF_RC 制作的模组，适用于游戏版本 1.26+</noparse>
 Show Enabled=显示已启用
 Show Disabled=显示已禁用
+New!=新的!
 <size%3D85%>Show Collections=显示收藏夹
 <size%3D85%>Hide Collections=隐藏收藏夹
 Activate All=全部激活
@@ -10925,8 +10926,8 @@ Enter new collection name=输入新的收藏夹名称
 
 //202*
 <noparse>Compound Playground</noparse>=<noparse>5号化合物游乐场</noparse>
-Inject Compound V to turn people into The Boys-style Supers with real powers and durability. Right-click a V2 syringe to pick the power loadout.=注射复合V将人转变为《黑袍纠察队》风格的超能者，拥有真实的能力和耐久度。右键点击V2注射器可选择能力配置。
-<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground (inspired by The Boys).\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super\nrolls random powers: strength, durability, regeneration, flight, heat vision,\nhemokinesis, radiation chest blast, electricity, super speed, termite.\n\nRight-click a V2 syringe -> Options to choose exact powers and levels (loadout).\nPowers activate with F on the matching body part of a Super that has them.\n\nby ale_diola_\n=<size%3D1.5em>5号化合物游乐场</size>\n5号化合物游乐场\n为《People Playground》添加5号化合物超能力（灵感来自《黑袍纠察队》）。\n\n为某人注射5号化合物注射器可将其转变为超能者。每个超能者\n随机获得能力：力量、耐久度、再生、飞行、热视线、\n血液控制、辐射胸部冲击波、电力、超级速度、白蚁。\n\n右键点击V2注射器 -> 选项可选择精确能力和等级（配置）。\n能力通过按F键在拥有该能力的超能者的对应身体部位上激活。\n\n作者：ale_diola_
+Inject Compound V to turn people into The Boys-style Supers with real powers and durability. Right-click a V2 syringe to pick the power loadout.=注射复合V将人转变为《黑袍纠察队》风格的超能者，拥有真实的能力和耐久度. 右键点击V2注射器可选择能力配置. 
+<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground (inspired by The Boys).\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super\nrolls random powers: strength, durability, regeneration, flight, heat vision,\nhemokinesis, radiation chest blast, electricity, super speed, termite.\n\nRight-click a V2 syringe -> Options to choose exact powers and levels (loadout).\nPowers activate with F on the matching body part of a Super that has them.\n\nby ale_diola_\n=<size%3D1.5em>5号化合物游乐场</size>\n5号化合物游乐场\n为《People Playground》添加5号化合物超能力（灵感来自《黑袍纠察队》）. \n\n为某人注射5号化合物注射器可将其转变为超能者. 每个超能者\n随机获得能力：力量、耐久度、再生、飞行、热视线、\n血液控制、辐射胸部冲击波、电力、超级速度、白蚁. \n\n右键点击V2注射器 -> 选项可选择精确能力和等级（配置）. \n能力通过按F键在拥有该能力的超能者的对应身体部位上激活. \n\n作者：ale_diola_
 
 //通知
 
@@ -11008,3 +11009,147 @@ V1: external durability Large Building (High 8-C), internal Large Building (High
 <b>Enriched Uranium Syringe</b>\r\n- Liquid enriched uranium, phosphorescent green\n- Burns the Compound V from the inside\n- V2 Supers die; V1 / regenerators only neutralized\n- Lethal to normal humans.=<b>浓缩铀注射器</b>\r\n- 液态浓缩铀，发出磷光绿\n- 从内部灼烧复合V\n- V2超能者死亡；V1/再生者仅被中和\n- 对普通人类致命. 
 <b>Enriched Uranium Cube</b>\r\nBig block of green enriched uranium, phosphorescent. Emits a constant saturation of radiation (Vought's 'Uranium Chamber'): nearby V2 Supers die in a short time, V1 / extreme density / regenerators are neutralized (powers off) but survive.=<b>浓缩铀方块</b>\r\n大块绿色浓缩铀，发出磷光. 持续释放饱和辐射（沃特的“铀室”）：附近的V2超能者在短时间内死亡，V1/极端密度/再生者被中和（能力关闭）但存活. 
 <b>Novichok Gas Mask</b>\r\nSealed gas mask with a pressurised tank of nerve agent (Novichok). Hold it up to a person's face and it clamps on like a mask; the tank then vents a lethal, sleep-inducing gas into their lungs.=<b>诺维乔克防毒面具</b>\r\n密封防毒面具，配有加压神经毒剂（诺维乔克）罐. 将其对准人脸，它会像面具一样紧扣；然后罐体会向肺部释放致命的诱导睡眠气体. 
+
+
+
+
+
+
+
+//203*JMC的SCP超级包_JMC's SCP Megapack
+<noparse>JMC's SCP Megapack</noparse>=<noparse>JMC的SCP超级包</noparse>
+Adds A LOT of working SCPs with their anomalous properties and powers!=添加了大量可正常运作的SCP及其异常特性和能力！
+<size%3D1.5em>JMC's SCP Megapack</size>\nAdds A LOT of working SCPs with their anomolous properties and powers! (as well as some other scp related items)\r\n\r\nMy Discord: https:%2F%2Fdiscord.gg/NY9NdGs388\r\n\r\nALL SCPs THIS MOD ADDS:\r\n\r\nSCP-002:\r\nSCP-002 is resembles a tumorous, fleshy growth with a iron valve hatch on one side that leads to its interior. It has the power to convert organic matter into new furniture by trapping the entity inside in a very cruel and mysterious process.\r\n\r\nSCP-009:\r\nWhen SCP-009/Red Ice is in contact with any Entities, SCP-009 will, through unknown mechanisms, transfer its anomalous properties to other objects and creatures. CAN AFFECT WATER!\r\n\r\nSCP-018:\r\nA bouncy ball with a efficeny over 100%, meaning it doesnt lose velocity when bouncing, but instead gain velocity.\r\n\r\nSCP-035:\r\nThe SCP-035 Mask can control anyone who puts him on, but an unknown fluid causes the Host to decay over time. After 40 Seconds of Decay, the Body will also begin to get more and more damaged by the corrosive and degenerative viscous liquid. When SCP-035 damaged its Host too much, he won't be able to control him anymore and leave the Host. Then it wants a new Host...\r\n\r\nSCP-049:\r\nCan kill People by touching them, and by touching them again he... uhhh... cures them. Has a Belt that can attach and deattach syringes. He also spawns with a Zombie Syringe attached to his belt by default.\r\n\r\nSCP-076-1 and SCP-076-2:\r\nSCP-076-2 is encased in SCP-076-1. When sending an activation signal via the Context menu or the F key to SCP-076-1, SCP-076-2 will awaken and leaves SCP-076-1. SCP-076-2 can summon a dangerous weapon when his arms get activated with an activation signal or F key. After SCP-076-2 is killed, he can reawaken inside of SCP-076-1. There is also a option to enable the automatic reawakening of Able inside the context menu of SCP-076-1.\r\n\r\n\r\nSCP-079:\r\nSCP-079 will slowly expand his hacking range and regularly start to hack any guns, explosives, machinery or androids in that area and use them to kill nearby humans. In the context menu you can open his custom menu which allows you to manually active some abilities or to make all hacked things visible for example.\r\nThis is easily the most complex scp in the mod.\r\n\r\nSCP-096:\r\nSCP-096 is normally passive and just cries alone, but when someone is getting too close and sees his face, SCP 096 will enter his Rage Mode after a few seconds and will hunt the Person that looked at its face with its murderous claws/hands until that Person is killed.\r\n\r\n\r\nSCP-106:\r\nSCP-106 can torture Humans by touching them and make them feel massive pain and let their Flesh rott. In the Context Menu you can activate his phase-through solid Objects Mode. Another Context Menu Button lets you spawn a Pocket - Dimension Portal which will stick to the ground and can trap Entities and Objects in it.When releasing Entities from the Pocket-Dimension they will be compleatly dead and split appart...\r\n\r\nSCP-131:\r\nSCP-131-A and SCP-131-B are two drop-shaped harmless entities with a big eye, which is best used to watch SCP-173.\r\n\r\nSCP-173:\r\nA living monstrous sculpture that when not looked at will rapidly move to its nearest target and kill them by snapping their necks, or strangulating them. Has a 3 second sleepy phase before comming active after being spawned. Ignores Immortal SCPs.\r\n\r\nSCP-409:\r\nCovers Entities and Objects in anomalous crystals which can transfer SCP-409's anomalous properties as well as heavily damage the affected entities after a short period.\r\n\r\nSCP-457:\r\nA humanoid entity made out of flames, it shrinks in size when being extinguished and can grow in size when absorbing flammable materials.\r\n\r\nSCP-500:\r\nHas an ultimate cure/healing effect by reseting entities back to heir original states. Activate to pull pills out of this.\r\n\r\nSCP-610:\r\nThe SCP-610 Virus is contained in a syringe that can easily be injected into any creature to turn it into a fleshy monster.\r\n\r\nSCP-682:\r\nSCP-682 aka the hard to destroy reptile is a immortal being that can adapt to damage sources. When he adapts to something, he becomes immune to it and gains some ability to use it in a deadly way. All Adatptions: Electricity, Bullets, Fire, SCP-009 (i will add more)\r\n\r\nSCP-939:\r\nSCP-939 aka da dog can speak or scream like a human when activating his mouth. He can also slice people to death.\r\n\r\nSCP-999:\r\nSCP-999 calms people down by slowly removing their shock, adrenaline and pain. He also can cure braindamages and loves to tickle! But his abbilities can lower consciousness.\r\n\r\nThis Mod also adds other Items like SCP-049's Medical Bag, SCP-409's granite container, syringes and a lot more stuff.\r\n\r\nOn of these are the Tesla Gate Connectors which chain together to make any crazy tesla gate you could every imagine!\r\n\r\nEVERYTHING IS LOCATED IN THE NEW CATEGORY ADDED BY THIS MOD.\r\n\r\nhope yall enjoy :)\r\n\r\nv1.3.3=<size%3D1.5em>JMC的SCP超级包</size>\n添加了大量可正常运作的SCP及其异常特性和能力！（以及一些其他SCP相关物品）\r\n\r\n我的Discord：https:%2F%2Fdiscord.gg/NY9NdGs388\r\n\r\n本模组添加的所有SCP：\r\n\r\nSCP-002：\r\nSCP-002是一个肿瘤状、肉质的生长物，一侧有一个通向其内部的铁制阀门舱口. 它有能力通过将实体困在里面，以非常残忍和神秘的过程将有机物转化为新家具. \r\n\r\nSCP-009：\r\n当SCP-009/红冰与任何实体接触时，SCP-009会通过未知机制将其异常特性转移到其他物体和生物上. 可以影响水！\r\n\r\nSCP-018：\r\n一个效率超过100%的弹力球，意味着它在弹跳时不会损失速度，反而会增加速度. \r\n\r\nSCP-035：\r\nSCP-035面具可以控制任何戴上它的人，但一种未知的液体会导致宿主随时间逐渐腐烂. 腐烂40秒后，身体也会开始被腐蚀性和退行性的粘稠液体越来越严重地损伤. 当SCP-035对其宿主造成过多伤害时，它将无法再控制宿主并离开宿主. 然后它会寻找新宿主……\r\n\r\nSCP-049：\r\n可以通过触碰杀死人，再碰一次他就会……呃……治愈他们. 他有一条可以挂载和卸下注射器的腰带. 默认情况下，他生成时腰带上已挂载一支僵尸注射器. \r\n\r\nSCP-076-1和SCP-076-2：\r\nSCP-076-2被封装在SCP-076-1中. 当通过上下文菜单或F键向SCP-076-1发送激活信号时，SCP-076-2将苏醒并离开SCP-076-1. 当SCP-076-2的双臂被激活信号或F键激活时，他可以召唤一种危险的武器. SCP-076-2被杀死后，他可以在SCP-076-1内部重新苏醒. 在SCP-076-1的上下文菜单中还有一个选项可以启用亚伯的自动苏醒. \r\n\r\n\r\nSCP-079：\r\nSCP-079会缓慢扩展其黑客范围，并定期开始入侵该区域内的任何枪支、爆炸物、机械或机器人，并用它们来杀死附近的人类. 在上下文菜单中，你可以打开他的自定义菜单，例如允许你手动激活某些能力或使所有被黑物体可见. \r\n这无疑是本模组中最复杂的SCP. \r\n\r\nSCP-096：\r\nSCP-096通常是被动的，只是独自哭泣，但当有人靠得太近并看到他的脸时，SCP-096会在几秒后进入狂暴模式，并用其致命的爪子/手猎杀那个看到它脸的人，直到那人被杀死. \r\n\r\n\r\nSCP-106：\r\nSCP-106可以通过触摸人类来折磨他们，让他们感受巨大痛苦并让他们的肉体腐烂. 在上下文菜单中，你可以激活他的穿透固体物体模式. 另一个上下文菜单按钮可以让你生成一个口袋维度传送门，它会吸附在地面上，可以困住实体和物体. 当从口袋维度释放实体时，它们会完全死亡并四分五裂……\r\n\r\nSCP-131：\r\nSCP-131-A和SCP-131-B是两个水滴形的无害实体，有一只大眼睛，最适合用来监视SCP-173. \r\n\r\nSCP-173：\r\n一个活生生的怪物雕塑，当不被注视时，它会迅速移动到最近的目标，通过扭断他们的脖子或勒死他们来杀死目标. 生成后需要3秒的休眠期才会活跃. 忽略不朽的SCP. \r\n\r\nSCP-409：\r\n用异常晶体覆盖实体和物体，这些晶体可以传递SCP-409的异常特性，并在短时间内对受影响实体造成严重伤害. \r\n\r\nSCP-457：\r\n一个由火焰构成的人形实体，被扑灭时会缩小体积，吸收可燃材料时可以变大. \r\n\r\nSCP-500：\r\n通过将实体重置回其原始状态来产生终极治愈/治疗效应. 激活后可从中取出药片. \r\n\r\nSCP-610：\r\nSCP-610病毒被封装在注射器中，可以轻松注入任何生物，将其变成肉质的怪物. \r\n\r\nSCP-682：\r\nSCP-682，即难以摧毁的爬行动物，是一个不朽的存在，可以适应伤害源. 当他适应某种东西时，他会对其免疫并获得某种以致命方式使用它的能力. 所有适应：电力、子弹、火焰、SCP-009（我还会添加更多）\r\n\r\nSCP-939：\r\nSCP-939，即狗，可以在激活嘴部时像人类一样说话或尖叫. 他也可以用爪子把人切成碎片致死. \r\n\r\nSCP-999：\r\nSCP-999通过逐渐消除人们的震惊、肾上腺素和疼痛来安抚他们. 他还可以治愈脑损伤，并且喜欢挠痒痒！但他的能力可以降低意识. \r\n\r\n本模组还添加了其他物品，如SCP-049的医疗包、SCP-409的花岗岩容器、注射器以及更多东西. \r\n\r\n其中之一是特斯拉门连接器，它们可以串联起来制造任何你能想象到的疯狂特斯拉门！\r\n\r\n所有内容都在本模组新增的分类中. \r\n\r\n希望大家喜欢 :)\r\n\r\nv1.3.3
+
+//物品注册
+<b>JMC's SCPs</b>\r\nworking scps.=<b>JMC的SCP</b>\r\n可运作的SCP. 
+
+<b>SCP-002</b>\r\nSCP-002 is resembles a tumorous, fleshy growth with a iron valve hatch on one side that leads to its interior. It has the power to convert organic matter into new furniture by trapping the entity inside in a very cruel and mysterious process.=<b>SCP-002</b>\r\nSCP-002是一个肿瘤状、肉质的生长物，一侧有一个通向其内部的铁制阀门舱口. 它能够通过将实体困于其中，以极其残酷而神秘的过程将有机物转化为新家具. 
+
+<b>SCP-009</b>\r\nWhen SCP-009/Red Ice is in contact with any Entities, SCP-009 will, through unknown mechanisms, transfer its anomalous properties to other objects and creatures. CAN AFFECT WATER!=<b>SCP-009</b>\r\n当SCP-009/红冰与任何实体接触时，会通过未知机制将其异常特性转移至其他物体和生物. 可以影响水！
+
+<b>SCP-018</b>\r\nA bouncy ball with a efficeny over 100%, meaning it doesnt lose velocity when bouncing, but instead gain velocity.=<b>SCP-018</b>\r\n一个效率超过100%的弹力球，意味着它在弹跳时不会损失速度，反而会增加速度. 
+
+<b>SCP-035</b>\r\nThe SCP-035 Mask can control anyone who puts him on, but an unknown fluid causes the Host to decay over time. After 40 Seconds of Decay, the Body will also begin to get more and more damaged by the corrosive and degenerative viscous liquid. When SCP-035 damaged its Host too much, he won't be able to control him anymore and leave the Host. Then it wants a new Host...=<b>SCP-035</b>\r\nSCP-035面具可以控制任何戴上它的人，但一种未知液体会导致宿主随时间逐渐腐烂. 腐烂40秒后，身体也会开始被腐蚀性和退行性的粘稠液体越来越严重地损伤. 当SCP-035对其宿主造成过多伤害时，它将无法再控制宿主并离开宿主，然后它会寻找新宿主……
+
+<b>SCP-049</b>\r\nCan kill People by touching them. He also a Belt that can attach and deattach syringes.=<b>SCP-049</b>\r\n可以通过触碰杀人. 他还拥有一条可挂载和卸下注射器的腰带. 
+
+<b>SCP-049's Medical Bag</b>\r\nSCP-049's anomalous medical bag. Mysteriously contains anything the doctor could ever need for his patients...=<b>SCP-049的医疗包</b>\r\nSCP-049的异常医疗包. 神秘地包含了医生为患者所需的一切……
+
+<b>SCP-049's Syringe Belt</b>\r\nSCP-049's syringe belt. After eqipping it, dragging any syringe onto it will automatically attach it to the wearer. Activate the Lower Body to drop it.=<b>SCP-049的注射器腰带</b>\r\nSCP-049的注射器腰带. 装备后，将任何注射器拖到上面会自动将其挂载到佩戴者身上. 激活下半身可将其卸下. 
+
+<b>SCP-076-1 and SCP-076-2</b>\r\nSCP-076-2 is encased in SCP-076-1. When sending an activation signal via the Context menu or the F key to SCP-076-1, SCP-076-2 will awaken and leaves SCP-076-1. SCP-076-2 can summon a dangerous weapon when his arms get activated with an activation signal or F key. After SCP-076-2 is killed, he can reawaken inside of SCP-076-1. There is also a option to enable the automatic reawakening of Able inside the context menu of SCP-076-1.=<b>SCP-076-1和SCP-076-2</b>\r\nSCP-076-2被封装在SCP-076-1中. 当通过上下文菜单或F键向SCP-076-1发送激活信号时，SCP-076-2将苏醒并离开SCP-076-1. 当SCP-076-2的双臂被激活信号或F键激活时，他可以召唤一种危险的武器. SCP-076-2被杀死后，他可以在SCP-076-1内部重新苏醒. 在SCP-076-1的上下文菜单中还有一个选项可以启用亚伯的自动苏醒. 
+
+<b>SCP-076's Obsidian Sword</b>\r\nSCP-076's/Able's obsidian sword.=<b>SCP-076的黑曜石剑</b>\r\nSCP-076/亚伯的黑曜石剑. 
+
+<b>SCP-079</b>\r\nAfter booting SCP-079 will slowly increase its hacking range, after hacking dangeous objects such as bombs, guns and any other machinery it will try to use them to kill anything alive... Each hacked object will increase its maximum hacking range. You can Open his custom menu in the context menu.=<b>SCP-079</b>\r\n启动后，SCP-079会缓慢增加其黑客范围，在入侵炸弹、枪支和其他机械设备等危险物体后，它会尝试利用它们杀死一切活物……每个被黑物都会增加其最大黑客范围. 你可以在上下文菜单中打开他的自定义菜单. 
+
+<b>SCP-096</b>\r\nSCP-096 is normally passive and just cries alone, but when someone is getting too close and sees his face, SCP 096 will enter his Rage Mode after a few seconds and will hunt the Person that looked at its face with its murderous claws/hands until that Person is killed.=<b>SCP-096</b>\r\nSCP-096通常是被动的，只是独自哭泣，但当有人靠得太近并看到他的脸时，SCP-096会在几秒后进入狂暴模式，并用其致命的爪子/手猎杀那个看到它脸的人，直到那人被杀死. 
+
+<b>SCP-106</b>\r\nSCP-106 can torture Humans by touching them and make them feel massive pain and let their Flesh rott. In the Context Menu you can activate his phase-through solid Objects Mode. Another Context Menu Button lets you spawn a Pocket - Dimension Portal which will stick to the ground and can trap Entities and Objects in it.When releasing Entities from the Pocket-Dimension they will be compleatly dead and split appart...=<b>SCP-106</b>\r\nSCP-106可以通过触摸人类来折磨他们，让他们感受巨大的痛苦并使肉体腐烂. 在上下文菜单中，你可以激活他的穿透固体物体模式. 另一个上下文菜单按钮可以让你生成一个口袋维度传送门，它会吸附在地面上，可以困住实体和物体. 从口袋维度释放实体时，它们会完全死亡并四分五裂……
+
+<b>SCP-106's Pocket Dimension Portal</b>\r\nSCP-106's Pocket Dimension Portal will stick to Bounds and can trap Entities and Objects in it. When releasing Entities from the Pocket-Dimension via the Context Menu, they will be compleatly dead, split appart and rotten as if someone had tortured them for eternity...=<b>SCP-106的口袋维度传送门</b>\r\nSCP-106的口袋维度传送门会附着在边界上，可以困住实体和物体. 当通过上下文菜单从口袋维度释放实体时，它们会完全死亡、分裂并腐烂，仿佛遭受了永恒折磨……
+
+<b>SCP-131-A</b>\r\nSCP-131-A and SCP-131-B aka. Eye-Pods are Drop-shaped Creatures with a large eye best used to watch SCP-173. Activate its line of seight in the context menu.=<b>SCP-131-A</b>\r\nSCP-131-A和SCP-131-B又名眼豆，是水滴形生物，长有一只大眼睛，最适合用来监视SCP-173. 在上下文菜单中可激活其视线范围. 
+
+<b>SCP-131-B</b>\r\nSCP-131-A and SCP-131-B aka. Eye-Pods are Drop-shaped Creatures with a large eye best used to watch SCP-173. Activate its line of seight in the context menu.=<b>SCP-131-B</b>\r\nSCP-131-A和SCP-131-B又名眼豆，是水滴形生物，长有一只大眼睛，最适合用来监视SCP-173. 在上下文菜单中可激活其视线范围. 
+
+<b>SCP-173</b>\r\nA living monstrous sculpture that when not looked at will rapidly move to its nearest target and kill them by snapping their necks, or strangulating them. Has a 3 second sleepy phase before comming active after being spawned. Ignores Immortal SCPs.=<b>SCP-173</b>\r\n一个活生生的怪物雕塑，当不被注视时，它会迅速移动到最近的目标，通过扭断他们的脖子或勒死他们来杀死目标. 生成后有3秒的休眠期才会活跃. 忽略不朽的SCP. 
+
+<b>SCP-409</b>\r\nCovers Entities and Objects in anomalous crystals which can transfer SCP-409's anomalous properties as well as damage the affected entities after a short period.=<b>SCP-409</b>\r\n用异常晶体覆盖实体和物体，这些晶体可以传递SCP-409的异常特性，并在短时间内对受影响实体造成伤害. 
+
+<b>SCP-409's Granite Container</b>\r\nA container made by the SCP Foundation made out of granite to contain SCP-409, because it is the only material SCP-409 does not affect.=<b>SCP-409的花岗岩容器</b>\r\nSCP基金会制作的花岗岩容器，用于收容SCP-409，因为花岗岩是唯一不受SCP-409影响的材料. 
+
+<b>SCP-457</b>\r\nA humanoid entity made out of flames, it shrinks in size when being extinguished and can grow in size when absorbing flammable materials. Can shoot a fire-blast out of his hands. Smoke-Effects and fire-blast can be toggled in the context menu.=<b>SCP-457</b>\r\n一个由火焰构成的人形实体，被扑灭时会缩小体积，吸收可燃材料时可以变大. 可以从手中发射火焰爆裂. 烟雾效果和火焰爆裂可在上下文菜单中切换. 
+
+<b>SCP-500</b>\r\nHas an ultimate cure/healing effect by reseting entities back to heir original states. Activate to pull pills out of this.=<b>SCP-500</b>\r\n通过将实体重置回其原始状态，产生终极治愈/治疗效应. 激活后可从中取出药片. 
+
+<b>SCP-610 Virus Syringe</b>\r\nContains the dangerous and contagious SCP-610 Virus in a syringe.=<b>SCP-610病毒注射器</b>\r\n在注射器中装满了危险且具有传染性的SCP-610病毒. 
+
+<b>SCP-682</b>\r\nSCP-682 aka the hard to destroy reptile is a immortal being that can adapt to damage sources. When he adapts to something, he becomes immune to it and gains some ability to use it in a deadly way. All Adatptions: Electricity, Bullets, Fire, SCP-009, SCP-106. Texture by chrisstk.=<b>SCP-682</b>\r\nSCP-682，即难以摧毁的爬行动物，是一个不朽的存在，可以适应伤害源. 当他适应某种东西时，他会对其免疫，并获得某种以致命方式使用它的能力. 所有适应：电力、子弹、火焰、SCP-009、SCP-106. 纹理由chrisstk制作. 
+
+<b>SCP-939</b>\r\nSCP-939 aka da dog can speak or scream like a human when activating his mouth. He can also slice people to death. Texture by chrisstk.=<b>SCP-939</b>\r\nSCP-939，即狗，可以在激活嘴部时像人类一样说话或尖叫. 他还能把人切成碎片致死. 纹理由chrisstk制作. 
+
+<b>SCP-999</b>\r\nSCP-999 calms people down by slowly removing their shock, adrenaline and pain. He also can cure braindamages and loves to tickle! But his abbilities can lower consciousness.=<b>SCP-999</b>\r\nSCP-999通过逐渐消除人们的震惊、肾上腺素和疼痛来安抚他们. 他还可以治愈脑损伤，并且喜欢挠痒痒！但他的能力可能会降低意识. 
+
+<b>Tesla Gate Connector</b>\r\nConnects with any other Tesla Gate Connectors to create a timed Tesla Gate!=<b>特斯拉门连接器</b>\r\n与任何其他特斯拉门连接器连接，可创建一个定时特斯拉门！
+
+<b>SCP-610 Immunity Syringe</b>\r\nMakes Entities immune against the SCP-610 Virus.=<b>SCP-610免疫注射器</b>\r\n使实体免疫SCP-610病毒. 
+
+<b>SCP-409 Immunity Syringe</b>\r\nMakes Entities immune against SCP-409's effects.=<b>SCP-409免疫注射器</b>\r\n使实体免疫SCP-409的效果. 
+
+<b>SCP-049 Touch of Death Power Syringe</b>\r\nGives Entities the power of SCP-049's Touch of Death.=<b>SCP-049死亡之触能力注射器</b>\r\n赋予实体SCP-049的死亡之触能力. 
+
+<b>Ouroboros Syringe</b>\r\nGives Entities the same Immortality and Immunity powers that many powerful SCPs share.=<b>衔尾蛇注射器</b>\r\n赋予实体与许多强大SCP相同的不朽和免疫能力. 
+
+<b>SCP-457 Fire Blast Power Syringe</b>\r\nGives Entities the power of SCP-457's shootable Fire Blast through their hands.=<b>SCP-457火焰爆裂能力注射器</b>\r\n赋予实体通过双手发射SCP-457式火焰爆裂的能力. 
+
+<b>SCP-106 Pass Through Power Syringe</b>\r\nGives Entities the power of SCP-106's deadly Pass-Through Mode in the context menu.=<b>SCP-106穿透模式能力注射器</b>\r\n赋予实体在上下文菜单中使用SCP-106致命穿透模式的能力. 
+
+<b>SCP-009 Immunity Syringe</b>\r\nMakes Enities immune against SCP-009 and temperature in general.=<b>SCP-009免疫注射器</b>\r\n使实体免疫SCP-009以及一般的温度影响. 
+
+<b>SCP-682's Adaptation Power Syringe</b>\r\nGives Enitys the ability to adapt to diffferent types of Damage and Powers like SCP-682.  All Adaptions: Electricity, Bullets, Fire, Braindeath, SCP-409, SCP-009, SCP-173.=<b>SCP-682适应能力注射器</b>\r\n赋予实体像SCP-682一样适应不同类型伤害和能力的能力. 所有适应：电力、子弹、火焰、脑死亡、SCP-409、SCP-009、SCP-173. 
+
+
+
+//右键菜单
+[002]Change Texture=[002]更改纹理
+[002]Change Texture.=[002]更改纹理.
+[049] Toggle Touch of Death=[049] 切换死亡之触
+[049] Toggle Touch of Death.=[049] 切换死亡之触.
+Uneqip Syringe Belt=卸下注射器腰带
+Uneqip Syringe Belt.=卸下注射器腰带.
+[173] Toggle AI=[173] 切换AI
+[173] Toggle AI.=[173] 切换AI.
+Toggle line of sight=切换视线
+Toggle line of sight.=切换视线.
+[035] Remove Mask=[035] 移除面具
+[035] Remove Mask.=[035] 移除面具.
+[035] Toggle braindeath on removal=[035] 切换移除时脑死亡
+[035] Toggle braindeath on removal.=[035] 切换移除时脑死亡.
+[076] Toggle Auto Reawakening=[076] 切换自动苏醒
+[076] Toggle Auto Reawakening.=[076] 切换自动苏醒.
+[076] Create Sword=[076] 创造剑
+[076] Create Sword.=[076] 创造剑.
+Open SCP-079 Menu=打开 SCP-079 菜单
+Open SCP-079 Menu.=打开 SCP-079 菜单.
+SCP-079 Menu=SCP-079菜单
+Toggle Hackview=切换黑客视图
+<color%3D#1EE200>[079] Hackview Enabled</color>=<color%3D#1EE200>[079] 黑客视图已启用</color>
+Toggle Rangeview=切换范围视图
+Toggle Range Expansion=切换范围扩展
+<color%3D#1EE200>[079] Rangeview Enabled</color>=<color%3D#1EE200>[079] 范围视图已启用</color>
+Mass Activation=大规模激活
+Shock Attack=电击攻击
+Explosive Attack=爆炸攻击
+<color%3D#1EE200>[079] Hackview Disabled</color>=<color%3D#1EE200>[079] 黑客视图已禁用</color>
+<color%3D#1EE200>[079] Rangeview Disabled</color>=<color%3D#1EE200>[079] 范围视图已禁用</color>
+<color%3D#1EE200>[079] Range Expansion Disabled</color>=<color%3D#1EE200>[079] 范围扩展已禁用</color>
+<color%3D#1EE200>[079] Range Expansion Enabled</color>=<color%3D#1EE200>[079] 范围扩展已启用</color>
+<color%3D#1EE200>[079] Mass Activation executed</color>=<color%3D#1EE200>[079] 大规模激活已执行</color>
+<color%3D#1EE200>[079] Mass Activation executed</color>=<color%3D#1EE200>[079] 大规模激活已执行</color>
+<color%3D#1EE200>[079] Shock Attack executed</color>=<color%3D#1EE200>[079] 电击攻击已执行</color>
+<color%3D#1EE200>[079] Shock Attack executed</color>=<color%3D#1EE200>[079] 电击攻击已执行</color>
+<color%3D#1EE200>[079] Explosion Attack executed</color>=<color%3D#1EE200>[079] 爆炸攻击已执行</color>
+<color%3D#1EE200>[079] Explosion Attack executed</color>=<color%3D#1EE200>[079] 爆炸攻击已执行</color>
+[106] Toggle Pass through Objects=[106] 切换穿透物体
+[106] Toggle Pass through Objects.=[106] 切换穿透物体.
+[106] Spawn Pocketdimension Portal=[106] 生成口袋维度传送门
+[106] Spawn Pocketdimension Portal.=[106] 生成口袋维度传送门.
+[106] Release a Item from the Pocketdimension=[106] 从口袋维度释放物品
+[106] Release a Item from the Pocketdimension.=[106] 从口袋维度释放物品.
+[131] Toggle line of sight=[131] 切换视线
+[131] Toggle line of sight.=[131] 切换视线.
+[457] Toggle Smoke Effects=[457] 切换烟雾效果
+[457] Toggle Smoke Effects.=[457] 切换烟雾效果.
+[457] Toggle Fire Blast=[457] 切换火焰爆裂
+[457] Toggle Fire Blast.=[457] 切换火焰爆裂.
+<color%3D#FF6A00>[457] Fire Blast Enabled</color>=<color%3D#FF6A00>[457] 火焰爆裂已启用</color>
+<color%3D#FF6A00>[457] Fire Blast Disabled</color>=<color%3D#FF6A00>[457] 火焰爆裂已禁用</color>
+<color%3D#FF6A00>[457] Smoke Effects Enabled</color>=<color%3D#FF6A00>[457] 烟雾效果已启用</color>
+<color%3D#FF6A00>[457] Smoke Effects Disabled</color>=<color%3D#FF6A00>[457] 烟雾效果已禁用</color>
+[682] Toggle eating=[682] 切换进食
+[682] Toggle eating.=[682] 切换进食.
+[939] Toggle eating=[939] 切换进食
+[939] Toggle eating.=[939] 切换进食.
+
