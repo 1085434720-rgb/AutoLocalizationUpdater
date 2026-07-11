@@ -9395,6 +9395,7 @@ Multi-function Context Menu=多功能上下文菜单
 Stats=状态
 Life Menu=<b><i>生命菜单</b></i>
 Hide Life Menu=<b><i>隐藏生命菜单</b></i>
+Shortcut Key=快捷键
 Set the health of the selected limbs.=设置选定肢体的生命值.
 Set the max health of the selected limbs.=设置选定肢体的最大生命值.
 Set Base Strength=设置基础强度
@@ -9414,8 +9415,12 @@ Strange=奇异
 Trigger strange events on selected objects.=对所选对象触发奇异事件.
 Recovery=恢复
 Simple heal persons=简单治疗人物
+Heal (No Skin)=治疗(不修复皮肤)
+Heal persons without repairing skin damage=治疗人员但不修复皮肤损伤
 Immortal=不朽
 Make the selected persons immortal and immune to all damage. (Vanila can save)=使所选人员不朽并免疫所有伤害.（完全原版可保存）
+Restore Joints=恢复关节
+Reattach all broken joints, restore circulation and blood flow to pristine state.=重新连接所有断裂的关节，将循环和血流恢复到最佳状态。
 Constantly recovering from injuries=持续从伤势中恢复
 Toggles=切换
 Kill the selected persons instantly.=立即杀死所选人物.
@@ -9457,6 +9462,10 @@ Deactivate Keep=取消激活保持
 Toggle continuous activation for selected objects.=切换所选对象的持续激活.
 Set Activation Key=设置激活键
 Bind a key to activate selected objects on key press.=绑定按键以在按下时激活所选对象.
+Activate at Hz...=按频率激活...
+Periodically send Use at a specified frequency (Hz).=以指定频率（Hz）周期性发送使用指令.
+Flip all selected objects symmetrically around their shared visual center. (UNSTABLE)=围绕它们共同的视觉中心对称翻转所有选中的物体. (不稳定)
+
 Better Delete=安全删除
 Safely delete the selected objects.=安全删除所选对象. 
 
@@ -9475,13 +9484,18 @@ Regen animation: Standard=再生动画：标准
 Regen animation: BoneFirst=再生动画：骨骼优先
 Regen animation: BoneFirstInstant=再生动画：骨骼优先即时
 Cycle regeneration animation mode for all selected=切换所有所选对象的再生动画模式
+Quick regen: OFF=快速再生：关
+Quick regen: ON=快速再生：开
+Toggle quick regeneration for all selected. When ON, severed limb subtrees regenerate all at once with simultaneous animations.=切换所有所选对象的快速再生.开启时，断肢子树会一次性全部再生，并同时播放动画.
 Severed limbs: Crush=断肢：碾碎
 Severed limbs: PhysicalReattach=断肢：物理重接
 Severed limbs: IndependentRebirth=断肢：独立重生
 Severed limbs: Preserve=断肢：保留
 Cycle severed limb handling mode for all selected=切换所有所选对象的断肢处理模式
-IR transmissible: Yes=独立重生可转移: 已开
-IR transmissible: No=独立重生可转移: 已关
+Set Severed Delay=设置断肢延迟
+Set the delay before severed limb handling begins (seconds).=设置断肢处理开始前的延迟时间 (秒).
+IR transmissible: Yes=独立重生可转移: 开
+IR transmissible: No=独立重生可转移: 关
 Toggle whether IR mode is inherited for all selected=切换是否让所有所选对象继承独立重生模式
 Regenerate from: Head=再生来源：头部
 Set Head as source for all selected=将头部设为所有所选对象的来源
@@ -10877,8 +10891,8 @@ THE LEGEND OF THIS WORLD. <DELTARUNE.>=这个世界的传说. <三角符文. >
 
 //201*模组菜单大修_Mod Menu Overha
 <noparse>Mod Menu Overhaul</noparse>=<noparse>模组菜单大修</noparse>
-Tired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)=厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶。（收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）
-<size%3D1.5em>Mod Menu Overhaul</size>\nTired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)\n<noparse>A mod by TF_RC for game version 1.26+</noparse>=<size%3D1.5em>模组菜单大修</size>\n厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶。（收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）\n<noparse>由 TF_RC 制作的模组，适用于游戏版本 1.26+</noparse>
+Tired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)=厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶. （收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）
+<size%3D1.5em>Mod Menu Overhaul</size>\nTired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)\n<noparse>A mod by TF_RC for game version 1.26+</noparse>=<size%3D1.5em>模组菜单大修</size>\n厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶. （收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）\n<noparse>由 TF_RC 制作的模组，适用于游戏版本 1.26+</noparse>
 Show Enabled=显示已启用
 Show Disabled=显示已禁用
 <size%3D85%>Show Collections=显示收藏夹
@@ -10902,3 +10916,95 @@ No!=不!
 Are you sure?\nDelete this collection=你确定吗?\n删除此收藏夹
 Rename Collection=重命名收藏夹
 Enter new collection name=输入新的收藏夹名称
+
+
+
+
+
+
+
+//202*
+<noparse>Compound Playground</noparse>=<noparse>5号化合物游乐场</noparse>
+Inject Compound V to turn people into The Boys-style Supers with real powers and durability. Right-click a V2 syringe to pick the power loadout.=注射复合V将人转变为《黑袍纠察队》风格的超能者，拥有真实的能力和耐久度。右键点击V2注射器可选择能力配置。
+<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground (inspired by The Boys).\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super\nrolls random powers: strength, durability, regeneration, flight, heat vision,\nhemokinesis, radiation chest blast, electricity, super speed, termite.\n\nRight-click a V2 syringe -> Options to choose exact powers and levels (loadout).\nPowers activate with F on the matching body part of a Super that has them.\n\nby ale_diola_\n=<size%3D1.5em>5号化合物游乐场</size>\n5号化合物游乐场\n为《People Playground》添加5号化合物超能力（灵感来自《黑袍纠察队》）。\n\n为某人注射5号化合物注射器可将其转变为超能者。每个超能者\n随机获得能力：力量、耐久度、再生、飞行、热视线、\n血液控制、辐射胸部冲击波、电力、超级速度、白蚁。\n\n右键点击V2注射器 -> 选项可选择精确能力和等级（配置）。\n能力通过按F键在拥有该能力的超能者的对应身体部位上激活。\n\n作者：ale_diola_
+
+//通知
+
+//静态
+no human under the mouse=鼠标下没有人类. 
+Radioactive source removed.=放射性源已移除. 
+No human prefab found to spawn.=未找到要生成的人类预制体. 
+APEX: V1 fused onto an extreme-durability V2. Strength, resistance and abilities QUADRUPLED (x4). Immortal (never ages) and fully immune to the anti-Supe virus (weak and strong).=APEX：V1 融合到极端耐久的 V2 上. 力量、抗性和能力翻四倍（x4）. 不朽（永不衰老）并且完全免疫反超能力者病毒（弱和强）. 
+TERMITE: shrunk. Guide yourself (mouse) INTO an enemy, then tap F on your torso again to burst them from within.=TERMITE：缩小. 引导自己（鼠标）进入敌人内部，然后再次点击自己的躯干按 F 从内部炸裂他们. 
+TERMITE: burst them open from the inside.=TERMITE：从内部炸裂他们. 
+This subject doesn't have the flight power.=该对象没有飞行能力. 
+Flight disabled.=飞行已禁用. 
+Flight enabled! Follow the mouse (F on a foot to land).=飞行已启用！跟随鼠标（在脚部按 F 降落）. 
+Compound V restarts the vital functions! The body rises with powers... but the brain is damaged (hypoxia): UNSTABLE subject.=复合 V 重启生命功能！身体带着能力站起...但大脑受损（缺氧）：不稳定对象. 
+V24 injected too many times: brain chemistry collapses - brain liquefaction and fulminant tumors.=V24 注射次数过多：大脑化学崩溃 - 脑液化和暴发性肿瘤. 
+Brain liquefied. Death.=大脑液化. 死亡. 
+Compound V cleared from the blood: powers gone, back to a normal human.=复合 V 从血液中清除：能力消失，变回普通人类. 
+Raw V1: the adult body rejects the serum. Fulminant hemorrhage - blood gushing from the rear.=原始 V1：成人体内排斥血清. 暴发性出血——血液从后方喷涌而出. 
+Bled out. Death.=失血过多. 死亡. 
+Blood vessels start giving way. Convulsions.=血管开始破裂. 抽搐. 
+Organ collapse: widespread hemorrhaging.=器官衰竭：广泛出血. 
+The vessels burst.=血管爆裂. 
+Against all odds the subject survives!=尽管困难重重，对象存活了！
+The subject didn't make it. Death.=对象未能幸免. 死亡. 
+Compound V OVERDOSE. The mitochondria accelerate past the limit: the heart can't meet the ATP demand. Cardiac hypertrophy, unstable bone density, dependency. The body stops producing endogenous V.=复合 V 过量. 线粒体加速超过极限：心脏无法满足 ATP 需求. 心脏肥大，骨密度不稳定，依赖. 身体停止产生内源性 V. 
+Fatal cardiac arrest (like A-Train under strain).=致命心脏骤停（类似压力下的 A-Train）. 
+APEX being: perfect molecular structure, fully immune to any anti-Supe virus.=APEX 存在：完美分子结构，完全免疫任何反超能力者病毒. 
+Normal human: no Compound-V-modified receptors. Fully immune to the anti-Supe virus.=正常人类：没有复合 V 修饰的受体. 完全免疫反超能力者病毒. 
+Pure V1 (Soldier Boy-type): impenetrable molecular structure, nothing binds. Fully immune.=纯 V1（士兵男孩型）：不可穿透的分子结构，无所结合. 完全免疫. 
+Modern Super but extreme internal resistance: the base virus is at most a mild flu. Survives.=现代超能力者但极端内部抗性：基础病毒至多轻微流感. 存活. 
+Strong virus: exponential replication, fulminant tissue necrosis. Lethal and highly contagious (one touch is enough).=强病毒：指数复制，暴发性组织坏死. 致命且高度传染（触碰一下即足）. 
+Virus: tissue necrosis, the Compound V in the blood is depleted. Lethal to the modern Super.=病毒：组织坏死，血液中的复合 V 耗尽. 对现代超能力者致命. 
+Pure V1: the strong virus can't kill it but knocks it out - cough, apnea, blotchy skin and ~1 minute unconscious, then it recovers.=纯 V1：强病毒无法杀死它但会使其昏迷 - 咳嗽、呼吸暂停、皮肤斑驳和约 1 分钟失去知觉，然后恢复. 
+Total necrosis: the subject is dead, the Compound V destroyed.=完全坏死：对象已死，复合 V 被摧毁. 
+The virus didn't take hold: the subject recovers.=病毒未能立足：对象恢复. 
+Lethal radiation dose: acute syndrome, widespread necrosis and multi-organ collapse.=致命辐射剂量：急性综合征，广泛坏死和多器官衰竭. 
+Invisibility: visible again.=隐形：再次可见. 
+Invisibility: turned invisible (the carbon skin stays bulletproof). Tap F on the head to reappear.=隐形：转为隐形（碳皮肤保持防弹）. 点击头部按 F 重新出现. 
+Mindstorm: the mind is released - the subject stirs awake.=心灵风暴：精神被释放 - 对象苏醒. 
+Mindstorm: trapped in an endless memory - deep sleep until a Mindstorm frees them (F on the Mindstorm's head, then click the sleeper).=心灵风暴：被困在无尽的记忆中 - 深度睡眠，直到心灵风暴释放他们（在心灵风暴的头部按 F，然后点击睡眠者）. 
+Mindstorm gaze armed: CLICK a person to put them to sleep or wake them (right-click cancels).=心灵风暴凝视已就绪：点击一个人使其睡眠或唤醒（右键取消）. 
+Hemokinesis active: aim and CLICK a limb to burst it (F or right-click to cancel).=血液控制激活：瞄准并点击一个肢体使其爆裂（F 或右键取消）. 
+Heat Vision: looping OFF.=热视线：循环关闭. 
+Heat Vision: looping ON - right-click the head again to stop.=热视线：循环开启 - 再次右键头部停止. 
+Body too destroyed (decapitated/atomized): Compound V can't restart anything. Permanent death.=身体破坏太严重（斩首/原子化）：复合 V 无法重启任何东西. 永久死亡. 
+Radiation: the Compound V is burned out of the blood. Powers off.=辐射：复合 V 从血液中被烧尽. 能力关闭. 
+The radioactive beam fried and pulverized the Compound V in the blood: powers lost.=辐射光束烧灼并粉碎了血液中的复合 V：能力丧失. 
+Compound V - This subject has no active Compound V in the blood.=复合 V - 该对象血液中没有活跃的复合 V. 
+
+//动态
+r:"Object made radioactive. Level: (.+) \(dose ~([0-9.]+) RAD/s at 1m, radius ([0-9.]+)\). Put a Super nearby."=物体已变为放射性. 等级：$1（剂量约 $2 RAD/s at 1m，半径 $3）. 请将一个超能力者放在附近. 
+
+r:"Spawned MAX V2 SUPER: Class T strength, Multi-City Block durability \(int\+ext\), regeneration, extreme radiation resistance, Chest Blast ready \(hold (.+) on the chest\)."=已生成最大 V2 超能力者：T级力量，多城市街区耐久（内+外），再生，极端抗辐射，胸部冲击波就绪（在胸部按住 $1）. 
+
+r:"OVERDOSE SURVIVED. The body adapts past the limit: \+([0-9]+)% to strength, durability, speed and all abilities \(total \+([0-9]+)%, overdose #([0-9]+)\)."=过量注射存活. 身体超越极限适应：力量、耐久、速度和所有能力 +$1%（总计 +$2%，过量注射 #$3）. 
+
+r:"SUPER SPEED: (.+) - the world slows to ([0-9]+)%, you don't. Tap F on the head to stop."=超级速度：$1 - 世界减速至 $2%，你不受影响. 点击头部按 F 停止. 
+
+r:"PLASMA BEAM! Power level ([0-9]+) \(([^)]+)\)."=等离子光束！力量等级 $1（$2）. 
+
+r:"V24: temporary powers \(use ([0-9]+)/3\). They will drain away."=V24：临时能力（使用 $1/3）. 它们会逐渐消失. 
+
+r:"Enough nuclear energy accumulated: RADIATION CHEST BLAST unlocked! Hold (.+) on the chest ~9s, then release."=累积足够的核能：辐射胸部冲击波已解锁！在胸部按住 $1 约 9 秒，然后释放. 
+
+r:"Charging the beam\.\.\. hold (.+)\."=充能中...按住 $1. 
+
+Compound V ready. See the 'Compound V' spawn category. Powers (if unlocked): hold F on the chest %3D Chest Blast, on the head %3D Heat Vision; F on the head (tap) %3D Hemokinesis; hold F on a hand %3D Electricity; F on a foot %3D Flight; F on the head %3D Invisibility / Mindstorm (sleep gaze).=复合V已就绪. 请查看“复合V”生成分类. 能力（如果已解锁）：按住F键在胸部%3D胸部冲击波，在头部%3D热视线；\n轻按F键在头部%3D血液控制；按住F键在一只手上%3D电力；按F键在脚上%3D飞行；按F键在头部%3D隐形/心灵风暴（睡眠凝视）
+
+Raw V1: the adult body rejects the serum. Fulminant hemorrhage - blood gushing from the rear.=原始V1：成人体内排斥血清. 暴发性出血——血液从后方喷涌而出. 
+V1: external durability Large Building (High 8-C), internal Large Building (High 8-C). Building-level (8-C): shrugs off heavy machine-gun fire (Homelander-type). Super-strength: Class 1. (F while clicking on the character to use powers.)=V1：外部耐久性大型建筑（高8-C），内部大型建筑（高8-C）. 建筑级（8-C）：无视重型机枪火力（祖国人型）. 超级力量：1级. （点击角色时按F键使用能力. ）
+
+//物品注册
+<b>Compound V</b>\r\nLiquid chemicals and other items related to chemistry.=<b>5号化合物</b>\r\n液体化学品及其他与化学相关的物品. 
+<b>Compound V1</b>\r\n- Vought's lost original formula (1940s)\n- ~35% become a god, ~65% die from hemorrhage\n- x10 denser & stronger: near-invulnerable tissue + regen\n- Inject into an extreme V2 Super to fuse into an APEX being.=<b>复合V1</b>\r\n- 沃特公司遗失的原始配方（1940年代）\n- 约35%成为神，约65%死于大出血\n- 密度与强度提升10倍：近乎无敌的组织 + 再生能力\n- 注入极端V2超能者体内可融合成为顶点存在. 
+<b>Compound V2</b>\r\n- Modern commercial formula\n- ~60% gain powers, ~40% die (organ collapse)\n- Unstable Super with a random power loadout\n- Right-click -> Options -> loadout to choose powers.=<b>复合V2</b>\r\n- 现代商业配方\n- 约60%获得能力，约40%死亡（器官衰竭）\n- 不稳定的超能者，拥有随机能力配置\n- 右键 -> 选项 -> 配置以选择能力. 
+<b>Compound V24 (Temp V)</b>\r\n- Hyper-concentrated military variant\n- Temporary powers (~24 min), then they fade\n- No death risk under the 3rd dose\n- 3rd injection is lethal (brain liquefaction)=<b>复合V24（临时V）</b>\r\n- 超浓缩军用变体\n- 临时能力（约24分钟），之后消退\n- 第三次注射前无死亡风险\n- 第三次注射致命（脑液化）
+<b>Supe-Killer Virus (Weak)</b>\r\n- Anti-Supe virus, weak strain (Godolkin U.)\n- Kills modern V2 Supers (tissue necrosis)\n- Normal humans and pure V1: immune\n- Extreme-resistance Supers: just a flu.=<b>超能杀手病毒（弱）</b>\r\n- 抗超能病毒，弱毒株（戈多尔金大学）\n- 杀死现代V2超能者（组织坏死）\n- 普通人类和纯V1：免疫\n- 极端抗性超能者：仅相当于一次流感. 
+<b>Supe-Killer Virus (Strong)</b>\r\n- Anti-Supe virus, strong strain (Neuman)\n- Kills ANY modern Super, even total invulnerability\n- Contagious: one touch infects other modern Supers\n- Pure V1: immune but knocked out ~1 min.=<b>超能杀手病毒（强）</b>\r\n- 抗超能病毒，强毒株（诺伊曼）\n- 杀死任何现代超能者，甚至完全无敌者\n- 具有传染性：一次接触即可感染其他现代超能者\n- 纯V1：免疫但昏迷约1分钟. 
+<b>Enriched Uranium Syringe</b>\r\n- Liquid enriched uranium, phosphorescent green\n- Burns the Compound V from the inside\n- V2 Supers die; V1 / regenerators only neutralized\n- Lethal to normal humans.=<b>浓缩铀注射器</b>\r\n- 液态浓缩铀，发出磷光绿\n- 从内部灼烧复合V\n- V2超能者死亡；V1/再生者仅被中和\n- 对普通人类致命. 
+<b>Enriched Uranium Cube</b>\r\nBig block of green enriched uranium, phosphorescent. Emits a constant saturation of radiation (Vought's 'Uranium Chamber'): nearby V2 Supers die in a short time, V1 / extreme density / regenerators are neutralized (powers off) but survive.=<b>浓缩铀方块</b>\r\n大块绿色浓缩铀，发出磷光. 持续释放饱和辐射（沃特的“铀室”）：附近的V2超能者在短时间内死亡，V1/极端密度/再生者被中和（能力关闭）但存活. 
+<b>Novichok Gas Mask</b>\r\nSealed gas mask with a pressurised tank of nerve agent (Novichok). Hold it up to a person's face and it clamps on like a mask; the tank then vents a lethal, sleep-inducing gas into their lungs.=<b>诺维乔克防毒面具</b>\r\n密封防毒面具，配有加压神经毒剂（诺维乔克）罐. 将其对准人脸，它会像面具一样紧扣；然后罐体会向肺部释放致命的诱导睡眠气体. 
