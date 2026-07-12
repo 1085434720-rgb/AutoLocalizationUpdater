@@ -10899,10 +10899,8 @@ THE LEGEND OF THIS WORLD. <DELTARUNE.>=这个世界的传说. <三角符文. >
 
 //201*模组菜单大修_Mod Menu Overha
 <noparse>Mod Menu Overhaul</noparse>=<noparse>模组菜单大修</noparse>
-Tired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)=厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶. （收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）
-<size%3D1.5em>Mod Menu Overhaul</size>\nTired of the vanilla mod menu? This overhaul gives you full control: drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. (Collection system coming soon – create custom mod sets with intuitive UI and batch activation controls!)\n<noparse>A mod by TF_RC for game version 1.26+</noparse>=<size%3D1.5em>模组菜单大修</size>\n厌倦了原版模组菜单？这个大修让你完全掌控：拖放重新排序模组，收藏常用模组，新订阅的模组自动置顶. （收藏集系统即将推出——通过直观的界面和批量激活控制来创建自定义模组集合！）\n<noparse>由 TF_RC 制作的模组，适用于游戏版本 1.26+</noparse>
-Show Enabled=显示已启用
-Show Disabled=显示已禁用
+drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. \nCollection system – create custom mod sets with intuitive UI and batch activation controls! =拖放以重新排序模组，置顶常用模组，新订阅的模组自动置顶.\n收藏集系统 – 通过直观的界面和批量激活控制创建自定义模组集合！
+<size%3D1.5em>Mod Menu Overhaul</size>\nTired of the vanilla mod menu?\r\n\r\nYou don't have to suffer anymore...\r\n\r\nBecause now there's Mod Menu Overhaul!!!\r\n\r\nSorting Features\r\nIntuitive drag-and-drop reordering — just like moving app icons\r\nNew subscriptions automatically jump to the top with a "New!" badge\r\nOne-click pin to keep your favorites where you want them\r\nSmooth expanding line animation when inserting\r\n\r\nCollection System\r\nDrag mods to create custom collections\r\nOne-click batch activation — or override your entire active list\r\nClean filtering to view only what's in a collection\r\nCustom cover images for each collection\r\nIntuitive card-style UI for managing collections\r\n\r\nAt present, 'settings' has no practical effect because I haven't thought about what to put inside the "settings" button yet. Everyone can give suggestions=<size%3D1.5em>模组菜单大修</size>\n厌倦了原版模组菜单？\r\n\r\n你不再需要忍受了……\r\n\r\n因为现在有了模组菜单大修！！！\r\n\r\n排序功能\r\n直观的拖放重新排序——就像移动应用图标一样\r\n新订阅的模组自动置顶并带有“New！”标签\r\n一键固定，将常用模组保留在你想要的位置\r\n插入时带有平滑展开的线条动画\r\n\r\n收藏集系统\r\n拖拽模组创建自定义收藏集\r\n一键批量激活——或覆盖整个活动列表\r\n清晰的筛选，仅查看收藏集中的内容\r\n每个收藏集可自定义封面图像\r\n直观的卡片式UI管理收藏集\r\n\r\n目前，“设置”还没有实际功能，因为我还没想好要在“设置”按钮里放什么。欢迎大家提出建议
 New!=新的!
 <size%3D85%>Show Collections=显示收藏夹
 <size%3D85%>Hide Collections=隐藏收藏夹
@@ -10925,6 +10923,7 @@ No!=不!
 Are you sure?\nDelete this collection=你确定吗?\n删除此收藏夹
 Rename Collection=重命名收藏夹
 Enter new collection name=输入新的收藏夹名称
+r:"(\d+) mods"="$1个模组"
 
 
 
