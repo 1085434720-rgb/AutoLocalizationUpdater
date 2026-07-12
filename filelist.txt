@@ -13,4 +13,5 @@ _Batrix Chainsaw Man mod [Beta 5.0].txt
 _[UN]Holy Blood.txt
 _PPG.txt
 _Kuomintang Frontal Battlefield Army.txt
+_Chainsaw Playground.txt
 test.txt
