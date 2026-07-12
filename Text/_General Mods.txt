@@ -9391,6 +9391,14 @@ Enter page count (1-8):=输入页数（1-8）：
 
 //176*多功能上下文菜单_Multi-function Context Menu
 Multi-function Context Menu=多功能上下文菜单
+Thanks for subscribing to my mod, I really appreciate everyone's support.=感谢订阅我的模组，我非常感谢大家的支持.
+If you have any suggestions, you can put them in the SUGGESTIONS section.=如果你有任何建议，可以将其放入建议部分.
+It's not easy to make, giving a Like is the biggest encouragement for me.=制作并不容易，给我点一个赞就是对我最大的鼓励.
+SUGGESTIONS=建议
+Like This Mod=点赞这个模组
+Click to open the workshop suggestions page.=点击打开创意工坊建议页面.
+This will automatically like the mod — please be aware.=这会自动给模组点赞 — 请注意.
+Close this window and goodbye.=关闭此窗口，再见.
 //生命
 Stats=状态
 Life Menu=<b><i>生命菜单</b></i>
@@ -11152,4 +11160,14 @@ Explosive Attack=爆炸攻击
 [682] Toggle eating.=[682] 切换进食.
 [939] Toggle eating=[939] 切换进食
 [939] Toggle eating.=[939] 切换进食.
+
+
+
+
+
+
+
+
+
+//204*
 
