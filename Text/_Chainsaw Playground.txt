@@ -1,0 +1,76 @@
+//TF_RC汉化
+<noparse>Chainsaw Playground [01]</noparse>=<noparse>电锯游乐场 [01]</noparse>
+
+//人物
+<b>[SPG 01] Aki Hayakawa</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#4CB200FF>700</color>\nPhysical : <color%3D#7093ADFF>1250</color>  |  Speed : <color%3D#40BF00FF>750</color>\n[MP] : <color%3D#4CB200FF>700</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#996600FF>400</color>\nState : [Soul]  |  [AC] : <color%3D#13248CFF>COLOR</color>=<b>[SPG 01] 早川秋</b>\r\n能量：<color%3D#E61A00FF>15000</color>  |  能量吞吐量：<color%3D#4CB200FF>700</color>\n物理：<color%3D#7093ADFF>1250</color>  |  速度：<color%3D#40BF00FF>750</color>\n[MP]：<color%3D#4CB200FF>700</color> | [AM]：<color%3D#669900FF>600</color> | [DM]：<color%3D#40BF00FF>750</color> | [HM]：<color%3D#996600FF>400</color>\n状态：[灵魂]  |  [AC]：<color%3D#13248CFF>颜色</color>
+
+<b>[SPG 01] Beam</b>\r\nEnergy : <color%3D#EE1100FF>10000</color>  |  Energy Throughput : <color%3D#4CB200FF>700</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#40BF00FF>750</color>\n[MP] : <color%3D#FF0000FF>0</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Soul]  |  [AC] : <color%3D#13248CFF>COLOR</color>=<b>[SPG 01] 比姆</b>\r\n能量：<color%3D#EE1100FF>10000</color>  |  能量吞吐量：<color%3D#4CB200FF>700</color>\n物理：<color%3D#798FAEFF>1300</color>  |  速度：<color%3D#40BF00FF>750</color>\n[MP]：<color%3D#FF0000FF>0</color> | [AM]：<color%3D#FF0000FF>0</color> | [DM]：<color%3D#FF0000FF>0</color> | [HM]：<color%3D#FF0000FF>0</color>\n状态：[灵魂]  |  [AC]：<color%3D#13248CFF>颜色</color>
+
+<b>[SPG 01] Denji</b>\r\nEnergy : <color%3D#EE1100FF>10000</color>  |  Energy Throughput : <color%3D#4CB200FF>700</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#40BF00FF>750</color>\n[MP] : <color%3D#FF0000FF>0</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Soul]  |  [AC] : <color%3D#13248CFF>COLOR</color>=<b>[SPG 01] 电次</b>\r\n能量：<color%3D#EE1100FF>10000</color>  |  能量吞吐量：<color%3D#4CB200FF>700</color>\n物理：<color%3D#798FAEFF>1300</color>  |  速度：<color%3D#40BF00FF>750</color>\n[MP]：<color%3D#FF0000FF>0</color> | [AM]：<color%3D#FF0000FF>0</color> | [DM]：<color%3D#FF0000FF>0</color> | [HM]：<color%3D#FF0000FF>0</color>\n状态：[灵魂]  |  [AC]：<color%3D#13248CFF>颜色</color>
+
+<b>[SPG 01] Makima</b>\r\nEnergy : <color%3D#996600FF>60000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#FF59C2FF>2050</color>  |  Speed : <color%3D#40BF00FF>750</color>\n[MP] : <color%3D#9F7FB4FF>1500</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Soul]  |  [AC] : <color%3D#E67321FF>COLOR</color>=<b>[SPG 01] 玛奇玛</b>\r\n能量：<color%3D#996600FF>60000</color>  |  能量吞吐量：<color%3D#40A6A6FF>1000</color>\n物理：<color%3D#FF59C2FF>2050</color>  |  速度：<color%3D#40BF00FF>750</color>\n[MP]：<color%3D#9F7FB4FF>1500</color> | [AM]：<color%3D#FF0000FF>0</color> | [DM]：<color%3D#FF0000FF>0</color> | [HM]：<color%3D#FF0000FF>0</color>\n状态：[灵魂]  |  [AC]：<color%3D#E67321FF>颜色</color>
+
+<b>[SPG 01] Power</b>\r\nEnergy : <color%3D#EE1100FF>10000</color>  |  Energy Throughput : <color%3D#4CB200FF>700</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#40BF00FF>750</color>\n[MP] : <color%3D#4CB200FF>700</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#996600FF>400</color>\nState : [Soul]  |  [AC] : <color%3D#13248CFF>COLOR</color>=<b>[SPG 01] 帕瓦</b>\r\n能量：<color%3D#EE1100FF>10000</color>  |  能量吞吐量：<color%3D#4CB200FF>700</color>\n物理：<color%3D#798FAEFF>1300</color>  |  速度：<color%3D#40BF00FF>750</color>\n[MP]：<color%3D#4CB200FF>700</color> | [AM]：<color%3D#669900FF>600</color> | [DM]：<color%3D#40BF00FF>750</color> | [HM]：<color%3D#996600FF>400</color>\n状态：[灵魂]  |  [AC]：<color%3D#13248CFF>颜色</color>
+
+<b>[SPG 01] Reze</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#4CB200FF>700</color>\nPhysical : <color%3D#8C87B1FF>1400</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#33CC00FF>800</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#996600FF>400</color>\nState : [Soul]  |  [AC] : <color%3D#13248CFF>COLOR</color>=<b>[SPG 01] 蕾塞</b>\r\n能量：<color%3D#E61A00FF>15000</color>  |  能量吞吐量：<color%3D#4CB200FF>700</color>\n物理：<color%3D#8C87B1FF>1400</color>  |  速度：<color%3D#33CC00FF>800</color>\n[MP]：<color%3D#33CC00FF>800</color> | [AM]：<color%3D#669900FF>600</color> | [DM]：<color%3D#40BF00FF>750</color> | [HM]：<color%3D#996600FF>400</color>\n状态：[灵魂]  |  [AC]：<color%3D#13248CFF>颜色</color>
+
+
+
+//能力
+//头部
+[C] Control=[C] 控制
+[C] Control Options=[C] 控制选项
+Control target=控制目标
+Control the target with 2 times lower energy=以低于目标2倍的能量控制目标
+Successfully controlled!=成功控制！
+成功fully controlled!=成功控制！
+Target Removed=目标已移除
+Sacrifice ritual=献祭仪式
+Select Near Victim Then Select Target=先选择附近牺牲者，再选择目标
+<color%3D"red">Cant Control Victim=<color%3D"red">无法控制牺牲者
+r:"Picked (.*?) As Victim Now Select Target"="已选择 $1 作为牺牲者，现在选择目标"
+Revive Mode=复活模式
+Current: ControlledPerson=当前: 被控制者
+Current: RandomPerson=当前: 随机人员
+Current: EnergyBased=当前: 基于能量
+Revive Mode Selection=复活模式选择
+ControlledPerson=被控制者
+RandomPerson=随机人员
+EnergyBased=基于能量
+Passive Stat Buff Target=被动属性增益目标
+r:"Current: (.*?)"="当前：$1"
+<color%3D"red">Person should be controlled=<color%3D"red">应先控制人员
+r:"(.*?) Are Now Buff Target"="$1 现已成为增益目标"
+Passive Stat Buff=被动属性增益
+Passive Stat Buff Selection=被动属性增益选择
+Transfer Energy To Owner : =向主人转移能量 :
+Transfers energy from controlled to the owner when energy is low=当能量低时，将被控制者的能量转移给主人
+Keep Controlled Alive :=保持被控制者存活 :
+Keeps all controlled people alive=让所有被控制者保持存活
+Draw Chains :=绘制锁链 :
+Shows or hides chains visually=视觉上显示或隐藏锁链
+
+Enable [C] Control=<color%3D#00FF00FF>启用[C]控制
+Disable [C] Control=<color%3D#FF0000FF>禁用[C]控制
+Toggle [C] Control=切换[C]控制
+Toggle [C] Control.=切换[C]控制。
+[C] Control Open Menu=<color%3D#FFD800>[C]控制打开菜单
+[C] Control Open Menu.=[C]控制打开菜单。
+
+
+
+
+//前臂
+[C] Chains Manipulation=[C] 锁链操控
+[C] Chains Manipulation Options=[C] 锁链操控选项
+Select Manipulation Type=选择操控类型
+Select Manipulation Type Selection=选择操控类型选择
+Move=移动
+WeaponControl=武器控制
+
+Enable [C] Chains Manipulation=<color%3D#00FF00FF>启用 [C] 锁链操控
+Disable [C] Chains Manipulation=<color%3D#FF0000FF>禁用 [C] 锁链操控
+Toggle [C] Chains Manipulation=切换 [C] 锁链操控
+Toggle [C] Chains Manipulation.=切换 [C] 锁链操控。
+[C] Chains Manipulation Open Menu=<color%3D#FFD800>[C] 锁链操控打开菜单
+[C] Chains Manipulation Open Menu.=[C] 锁链操控打开菜单。
