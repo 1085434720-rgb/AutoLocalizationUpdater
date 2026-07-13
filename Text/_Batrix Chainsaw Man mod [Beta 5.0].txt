@@ -361,6 +361,8 @@ Longsword Hybrid Transformation\nOn Activation : Activate Longsword Hybrid trans
 
 //*中半身
 Devil Erasure\nOn Activation : Consume nearby Devil flesh pieces, erasing Devils from existing. Is able to resist Curse Devil, Check context menu when user is grabbed by it. In context menu you are able to turn back into original user or puke last consumed devil=<b>恶魔抹除</b>\n激活方式：消耗附近的恶魔血肉碎片，将恶魔从存在中抹除. 能够抵抗诅咒恶魔，当使用者被其抓取时请查看右键菜单. 在右键菜单中你可以变回原使用者或吐出最后吞食的恶魔
+Puke last consumed Devil=吐出最后消耗的恶魔
+Puke last consumed Devil.=吐出最后消耗的恶魔.
 
 Levitation\nOn Activation : Toggles flight. The user shrugs off gravity and hovers in place until switched off.=悬浮\n激活方式：切换飞行. 使用者摆脱重力，悬停原地，直到关闭.
 
@@ -580,6 +582,15 @@ Barrier=屏障
 Falling Area=坠落区域
 否 debris nearby=附近没有碎片
 No debris nearby=附近没有碎片
+
+Gun Devil was erased by Hero of Hell!=枪之恶魔被地狱的英雄抹除了！
+Gun Devil was released by Hero of Hell!=枪之恶魔被地狱的英雄释放了！
+[FAILED] : Gun Devil was erased by Hero of Hell!=[失败] : 枪之恶魔已经被地狱的英雄抹除了！
+r:"\[FAILED\] : (.*?) was erased by Hero of Hell!"="[失败] : $1已经被地狱的英雄抹除了！"
+r:"(.*?) was erased by Hero of Hell!"="被地狱的英雄抹除了$1！"
+r:"(.*?) was released by Hero of Hell!"="被地狱的英雄释放了$1！"
+
+r:"Gun Devil begins barrage at (\d{2}:\d{2}:\d{2})"="枪之恶魔在$1开始弹幕攻击"
 
 //*右下角弹窗
 Infinity Energy for all humans was enabled=启用所有人类无限能量
