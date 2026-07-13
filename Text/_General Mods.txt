@@ -10924,6 +10924,10 @@ Are you sure?\nDelete this collection=你确定吗?\n删除此收藏夹
 Rename Collection=重命名收藏夹
 Enter new collection name=输入新的收藏夹名称
 r:"(\d+) mods"="$1个模组"
+r:"Add all currently active mods to \"(.*?)\"\\?\n\\(Mods already in the collection will be skipped\\.\\)"="将所有当前激活的模组添加到“$1”？\n（集合中已有的模组将被跳过。）"
+r:"Overwrite \"(.*?)\" with currently active mods\\?\nThis will remove all existing mods from the collection and replace them with the currently enabled mods\\."="用当前激活的模组覆盖“$1”？\n这将从集合中移除所有现有模组，并将其替换为当前启用的模组。"
+Yes, add them=是，添加它们
+Overwrite=覆盖
 
 
 
