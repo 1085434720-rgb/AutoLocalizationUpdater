@@ -10937,9 +10937,9 @@ Overwrite=覆盖
 
 //202*
 <noparse>Compound Playground</noparse>=<noparse>5号化合物游乐场</noparse>
-Inject Compound V to turn people into The Boys-style Supers with real powers and durability. Right-click a V2 syringe to pick the power loadout.=注射复合V将人转变为《黑袍纠察队》风格的超能者，拥有真实的能力和耐久度. 右键点击V2注射器可选择能力配置. 
-<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground (inspired by The Boys).\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super\nrolls random powers: strength, durability, regeneration, flight, heat vision,\nhemokinesis, radiation chest blast, electricity, super speed, termite.\n\nRight-click a V2 syringe -> Options to choose exact powers and levels (loadout).\nPowers activate with F on the matching body part of a Super that has them.\n\nby ale_diola_\n=<size%3D1.5em>5号化合物游乐场</size>\n5号化合物游乐场\n为《People Playground》添加5号化合物超能力（灵感来自《黑袍纠察队》）. \n\n为某人注射5号化合物注射器可将其转变为超能者. 每个超能者\n随机获得能力：力量、耐久度、再生、飞行、热视线、\n血液控制、辐射胸部冲击波、电力、超级速度、白蚁. \n\n右键点击V2注射器 -> 选项可选择精确能力和等级（配置）. \n能力通过按F键在拥有该能力的超能者的对应身体部位上激活. \n\n作者：ale_diola_
+Compound V superpowers inspired by The Boys. Inject a syringe to turn a person into a Super with random powers: strength, durability, regeneration, flight, heat vision, hemokinesis, radiation chest blast, electricity, super speed, termite, invisibility, mindstorm. Right-click a V2 syringe -> Options for a custom loadout; powers activate with F on the matching body part. Community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s=受《黑袍纠察队》启发的复合V超能力。注射注射器可将人转变为拥有随机能力的超能者：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、电力、超级速度、白蚁、隐形、心灵风暴。右键点击V2注射器 -> 选项可自定义配置；能力通过在对应身体部位按F键激活。社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s
 
+<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground - inspired by The Boys.\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super rolls\nrandom powers: strength, durability, regeneration, flight, heat vision, hemokinesis,\nradiation chest blast, electricity, super speed, termite, invisibility, mindstorm.\n\n- Right-click a V2 syringe -> Options to pick exact powers and levels (loadout).\n- Powers activate with F on the matching body part of a Super that has them.\n- V1 %3D classic god-formula, V24 %3D temporary, plus anti-Supe viruses and enriched uranium.\n\nJoin the community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s\n\nby ale_diola_\n=<size%3D1.5em>复合V游乐场</size>\n复合V游乐场\n为《People Playground》添加复合V超能力——灵感来自《黑袍纠察队》。\n\n为某人注射复合V注射器可将其转变为超能者。每个超能者随机获得\n能力：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、\n电力、超级速度、白蚁、隐形、心灵风暴。\n\n- 右键点击V2注射器 -> 选项可选择精确能力和等级（配置）。\n- 能力通过在拥有该能力的超能者的对应身体部位上按F键激活。\n- V1 %3D 经典神之配方，V24 %3D 临时型，还有抗超能病毒和浓缩铀。\n\n加入社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_
 //通知
 
 //静态
@@ -11022,8 +11022,165 @@ V1: external durability Large Building (High 8-C), internal Large Building (High
 <b>Novichok Gas Mask</b>\r\nSealed gas mask with a pressurised tank of nerve agent (Novichok). Hold it up to a person's face and it clamps on like a mask; the tank then vents a lethal, sleep-inducing gas into their lungs.=<b>诺维乔克防毒面具</b>\r\n密封防毒面具，配有加压神经毒剂（诺维乔克）罐. 将其对准人脸，它会像面具一样紧扣；然后罐体会向肺部释放致命的诱导睡眠气体. 
 
 
+//右键菜单
+Chosen loadout: OFF (random)=已选配置：关（随机）
+Chosen loadout: ON=已选配置：开
+Strength: none=力量：无
+Strength: Average Human=力量：普通人级
+Strength: Peak Human=力量：人类巅峰级
+Strength: Class 1=力量：1级
+Strength: Class 25=力量：25级
+Strength: Class 100=力量：100级
+Strength: Class T=力量：T级
+Durability: Wall (9-B)=耐久度：墙体级（9-B）
+Durability: Building (8-C)=耐久度：建筑级（8-C）
+Durability: City Block (8-B)=耐久度：街区级（8-B）
+Durability: Multi-City Block (8-A)=耐久度：多街区级（8-A）
+Durability: Athlete (10-A)=耐久度：运动员级（10-A）
+Regeneration: none=再生：无
+Regeneration: Leggera=再生：轻度
+Regeneration: Alta=再生：高度
+Regeneration: Totale=再生：完全
+Heat Vision: OFF=热视线：关
+Heat Vision: ON=热视线：开
+Hemokinesis: OFF=血液控制：关
+Hemokinesis: ON=血液控制：开
+Electricity: OFF=电力：关
+Electricity: ON=电力：开
+Super Speed: none=超级速度：无
+Super Speed: Accelerated (20%)=超级速度：加速（20%）
+Super Speed: Hypervelocity (10%)=超级速度：超高速（10%）
+Super Speed: Mach Rider (5%)=超级速度：马赫骑手（5%）
+Super Speed: Time Skipper (1%)=超级速度：时间跳跃者（1%）
+Termite: OFF=白蚁：关
+Termite: ON=白蚁：开
+Chest Blast: OFF=胸部冲击波：关
+Chest Blast: ON=胸部冲击波：开
+Invisibility: OFF=隐形：关
+Invisibility: ON=隐形：开
+Mindstorm: OFF=心灵风暴：关
+Mindstorm: ON=心灵风暴：开
+If ON, THIS syringe's next injection gives exactly the chosen powers=如果开启，此注射器的下一次注射将精确赋予所选能力
+If ON, THIS syringe's next injection gives exactly the chosen powers.=如果开启，此注射器的下一次注射将精确赋予所选能力。
+Click to change the strength level=点击更改力量等级
+Click to change the strength level.=点击更改力量等级。
+Click to change durability (ext+int)=点击更改耐久度（外部+内部）
+Click to change durability (ext+int)=点击更改耐久度（外部+内部）
+Click to change regeneration=点击更改再生
+Click to change regeneration.=点击更改再生。
+Toggle Flight=切换飞行
+Toggle Flight.=切换飞行。
+Toggle Heat Vision=切换热视线
+Toggle Heat Vision.=切换热视线。
+Toggle Hemokinesis=切换血液控制
+Toggle Hemokinesis.=切换血液控制。
+Toggle Electricity=切换电力
+Toggle Electricity.=切换电力。
+Click to change Super Speed level (A-Train)=点击更改超级速度等级（A-Train）
+Toggle Termite (shrink + burst from inside)=切换白蚁（缩小+从内部爆裂）
+Toggle Chest Blast=切换胸部冲击波
+Toggle Chest Blast.=切换胸部冲击波。
+Toggle Invisibility (+ carbon skin); F on the head=切换隐形（+碳化皮肤）；按F键在头部
+Toggle Invisibility (+ carbon skin); F on the head.=切换隐形（+碳化皮肤）；按F键在头部。
+Toggle Mindstorm (deep-sleep gaze); F on the head, then click a target=切换心灵风暴（深度睡眠凝视）；按F键在头部，然后点击目标
+Toggle Mindstorm (deep-sleep gaze); F on the head, then click a target.=切换心灵风暴（深度睡眠凝视）；按F键在头部，然后点击目标。
+Compound V stats=复合V属性
+Show this Super's Compound V sheet=显示此超能者的复合V属性面板
+Show this Super's Compound V sheet.=显示此超能者的复合V属性面板。
+Heat Vision (loop)=热视线（循环）
+Toggle a continuous heat-vision beam=切换持续热视线光束
+Toggle a continuous heat-vision beam.=切换持续热视线光束。
+Flight: Classic (hover)=飞行：经典（悬停）
+Switch flight mode. Classic (default) %3D weightless hover, holds still in the air. Follow Mouse %3D flies to the cursor.=切换飞行模式。经典（默认）%3D失重悬停，在空中静止不动。跟随鼠标%3D飞向光标。
+Flight mode: FOLLOW MOUSE (flies to the cursor).=飞行模式：跟随鼠标（飞向光标）。
+Flight mode: CLASSIC (weightless hover - holds still in the air, drag to move).=飞行模式：经典（失重悬停——在空中静止不动，拖拽移动）。
 
 
+//面板
+COMPOUND V2  -  modern=复合V2 - 现代版
+COMPOUND V1  -  classic, pure=复合V1 - 经典，纯正
+COMPOUND V1  -  temporary=复合V1 - 临时型
+COMPOUND V1  -  modern=复合V1 - 现代型
+COMPOUND V24  -  temporary=复合V24 - 临时型
+r:"RAGE (\d+)%  -  lv(\d+)  \((\d+) kg TNT\)"="愤怒 $1% - 等级$2（$3 公斤 TNT）"
+PHYSIQUE=体格
+Below Average Human  (hit 0)=低于普通人级（攻击0）
+Average Human  (hit 1)=普通人级（攻击1）
+Above Average Human  (hit 3)=高于普通人级（攻击3）
+Athletic Human  (hit 6)=运动员级（攻击6）
+Peak Human  (hit 12)=人类巅峰级（攻击12）
+Superhuman  (hit 25)=超人类（攻击25）
+Class 1  (hit 50)=1级（攻击50）
+Class 5  (hit 100)=5级（攻击100）
+Class 10  (hit 180)=10级（攻击180）
+Class 25  (hit 320)=25级（攻击320）
+Class 50  (hit 550)=50级（攻击550）
+Class 100  (hit 900)=100级（攻击900）
+Class K  (hit 1800)=K级（攻击1800）
+Class M (hit 3500)=M级（攻击3500）
+Class G  (hit 6500)=G级（攻击6500）
+Class T  (hit 12000)=T级（攻击12000）
+Toughness=坚韧度
+defense =防御 
+Durability (skin)=耐久度（皮肤）
+Durability (core)=耐久度（核心）
+Human (10-B)=人类级（10-B）
+Athlete (10-A)=运动员级（10-A）
+Street (9-C)=街道级（9-C）
+Wall (9-B)=墙体级（9-B）
+Small Building (9-A)=小型建筑级（9-A）
+Building (8-C)=建筑级（8-C）
+Large Building (High 8-C)=大型建筑级（高8-C）
+City Block (8-B)=街区级（8-B）
+Multi-City Block (8-A)=多街区级（8-A）
+MOBILITY=机动性
+Super Speed=超级速度
+Time Skipper  (world 1%)=时间跳跃者（世界1%）
+Accelerated  (world 20%)=加速（世界20%）
+Hypervelocity  (world 10%)=超高速（世界10%）
+Mach Rider  (world 5%)=马赫骑手（世界5%）
+one=一
+Average Human  (spd 20)=普通人级（速度20）
+Athletic Human  (spd 28)=运动员级（速度28）
+Peak Human  (spd 36)=人类巅峰级（速度36）
+Superhuman  (spd 48)=超人类（速度48）
+Subsonic  (spd 68)=亚音速（速度68）
+Subsonic+  (spd 92)=亚音速+（速度92）
+Transonic  (spd 116)=跨音速（速度116）
+Supersonic  (spd 144)=超音速（速度144）
+Supersonic+  (spd 176)=超音速+（速度176）
+Hypersonic  (spd 210)=高超音速（速度210）
+Hypersonic+  (spd 250)=高超音速+（速度250）
+Regeneration=再生
+Totale  (3000 HP/s, regrows)=完全（3000 HP/s，再生肢体）
+Alta  (180 HP/s)=高度  (180 HP/s)
+
+ABILITIES=能力
+Regeneration (passive)=再生（被动）
+Super Speed (tap F on the head to toggle)=超级速度（轻按头部F键切换）
+Mindstorm=心灵风暴
+Mindstorm (F on the head, then click a target)=心灵风暴 (按头部F键，然后点击目标)
+Invisibility (F on the head to toggle)=隐形（按头部F键切换）
+Heat Vision=热视线
+Heat Vision (hold F on the head; or right-click the head to loop it)=(按住头部F键;或右键头部以循环持续)
+Radiation Chest Blast=辐射胸部冲击波
+Chest Blast (hold F on the chest, then release)=胸部冲击波 (按住胸部F键，然后释放)
+Termite=白蚁
+Termite (F on the upper torso)=白蚁（按上躯干F键）
+Electricity (hold F on a hand)=电力（按住手部F键）
+Hemokinesis=血液控制
+Hemokinesis (F on the head, then click a limb)=(按头部F键，然后点击一个肢体)
+Flight (F on a foot to toggle; right-click the head for Follow-Mouse / Classic mode)=(脚部F键切换;右键头部切换跟随鼠标/经典模式)
+
+RADIATION=辐射
+Absorbed=已吸收
+Band=频段
+Negligible=可忽略
+Resistance=抗性
+Chest Blast unlock=胸部冲击波解锁
+
+drag header to move  -  right-click head to reopen=拖动标题移动 - 右键点击头部重新打开
+join the Discord=加入Discord
 
 
 
