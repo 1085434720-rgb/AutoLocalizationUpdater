@@ -10900,7 +10900,7 @@ THE LEGEND OF THIS WORLD. <DELTARUNE.>=这个世界的传说. <三角符文. >
 //201*模组菜单大修_Mod Menu Overha
 <noparse>Mod Menu Overhaul</noparse>=<noparse>模组菜单大修</noparse>
 drag & drop to reorder mods, pin favorites, and new subscriptions automatically jump to the top. \nCollection system – create custom mod sets with intuitive UI and batch activation controls! =拖放以重新排序模组，置顶常用模组，新订阅的模组自动置顶.\n收藏集系统 – 通过直观的界面和批量激活控制创建自定义模组集合！
-<size%3D1.5em>Mod Menu Overhaul</size>\nTired of the vanilla mod menu?\r\n\r\nYou don't have to suffer anymore...\r\n\r\nBecause now there's Mod Menu Overhaul!!!\r\n\r\nSorting Features\r\nIntuitive drag-and-drop reordering — just like moving app icons\r\nNew subscriptions automatically jump to the top with a "New!" badge\r\nOne-click pin to keep your favorites where you want them\r\nSmooth expanding line animation when inserting\r\n\r\nCollection System\r\nDrag mods to create custom collections\r\nOne-click batch activation — or override your entire active list\r\nClean filtering to view only what's in a collection\r\nCustom cover images for each collection\r\nIntuitive card-style UI for managing collections\r\n\r\nAt present, 'settings' has no practical effect because I haven't thought about what to put inside the "settings" button yet. Everyone can give suggestions=<size%3D1.5em>模组菜单大修</size>\n厌倦了原版模组菜单？\r\n\r\n你不再需要忍受了……\r\n\r\n因为现在有了模组菜单大修！！！\r\n\r\n排序功能\r\n直观的拖放重新排序——就像移动应用图标一样\r\n新订阅的模组自动置顶并带有“New！”标签\r\n一键固定，将常用模组保留在你想要的位置\r\n插入时带有平滑展开的线条动画\r\n\r\n收藏集系统\r\n拖拽模组创建自定义收藏集\r\n一键批量激活——或覆盖整个活动列表\r\n清晰的筛选，仅查看收藏集中的内容\r\n每个收藏集可自定义封面图像\r\n直观的卡片式UI管理收藏集\r\n\r\n目前，“设置”还没有实际功能，因为我还没想好要在“设置”按钮里放什么。欢迎大家提出建议
+<size%3D1.5em>Mod Menu Overhaul</size>\nTired of the vanilla mod menu?\r\n\r\nYou don't have to suffer anymore...\r\n\r\nBecause now there's Mod Menu Overhaul!!!\r\n\r\nSorting Features\r\nIntuitive drag-and-drop reordering — just like moving app icons\r\nNew subscriptions automatically jump to the top with a "New!" badge\r\nOne-click pin to keep your favorites where you want them\r\nSmooth expanding line animation when inserting\r\n\r\nCollection System\r\nDrag mods to create custom collections\r\nOne-click batch activation — or override your entire active list\r\nClean filtering to view only what's in a collection\r\nCustom cover images for each collection\r\nIntuitive card-style UI for managing collections\r\n\r\nAt present, 'settings' has no practical effect because I haven't thought about what to put inside the "settings" button yet. Everyone can give suggestions=<size%3D1.5em>模组菜单大修</size>\n厌倦了原版模组菜单？\r\n\r\n你不再需要忍受了……\r\n\r\n因为现在有了模组菜单大修！！！\r\n\r\n排序功能\r\n直观的拖放重新排序——就像移动应用图标一样\r\n新订阅的模组自动置顶并带有“New！”标签\r\n一键固定，将常用模组保留在你想要的位置\r\n插入时带有平滑展开的线条动画\r\n\r\n收藏集系统\r\n拖拽模组创建自定义收藏集\r\n一键批量激活——或覆盖整个活动列表\r\n清晰的筛选，仅查看收藏集中的内容\r\n每个收藏集可自定义封面图像\r\n直观的卡片式UI管理收藏集\r\n\r\n目前，“设置”还没有实际功能，因为我还没想好要在“设置”按钮里放什么. 欢迎大家提出建议
 New!=新的!
 <size%3D85%>Show Collections=显示收藏夹
 <size%3D85%>Hide Collections=隐藏收藏夹
@@ -10924,8 +10924,8 @@ Are you sure?\nDelete this collection=你确定吗?\n删除此收藏夹
 Rename Collection=重命名收藏夹
 Enter new collection name=输入新的收藏夹名称
 r:"(\d+) mods"="$1个模组"
-r:"Add all currently active mods to \"(.*?)\"\\?\n\\(Mods already in the collection will be skipped\\.\\)"="将所有当前激活的模组添加到“$1”？\n（集合中已有的模组将被跳过。）"
-r:"Overwrite \"(.*?)\" with currently active mods\\?\nThis will remove all existing mods from the collection and replace them with the currently enabled mods\\."="用当前激活的模组覆盖“$1”？\n这将从集合中移除所有现有模组，并将其替换为当前启用的模组。"
+r:"Add all currently active mods to \"(.*?)\"\\?\n\\(Mods already in the collection will be skipped\\.\\)"="将所有当前激活的模组添加到“$1”？\n（集合中已有的模组将被跳过. ）"
+r:"Overwrite \"(.*?)\" with currently active mods\\?\nThis will remove all existing mods from the collection and replace them with the currently enabled mods\\."="用当前激活的模组覆盖“$1”？\n这将从集合中移除所有现有模组，并将其替换为当前启用的模组. "
 Yes, add them=是，添加它们
 Overwrite=覆盖
 
@@ -10937,9 +10937,9 @@ Overwrite=覆盖
 
 //202*
 <noparse>Compound Playground</noparse>=<noparse>5号化合物游乐场</noparse>
-Compound V superpowers inspired by The Boys. Inject a syringe to turn a person into a Super with random powers: strength, durability, regeneration, flight, heat vision, hemokinesis, radiation chest blast, electricity, super speed, termite, invisibility, mindstorm. Right-click a V2 syringe -> Options for a custom loadout; powers activate with F on the matching body part. Community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s=受《黑袍纠察队》启发的复合V超能力。注射注射器可将人转变为拥有随机能力的超能者：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、电力、超级速度、白蚁、隐形、心灵风暴。右键点击V2注射器 -> 选项可自定义配置；能力通过在对应身体部位按F键激活。社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s
+Compound V superpowers inspired by The Boys. Inject a syringe to turn a person into a Super with random powers: strength, durability, regeneration, flight, heat vision, hemokinesis, radiation chest blast, electricity, super speed, termite, invisibility, mindstorm. Right-click a V2 syringe -> Options for a custom loadout; powers activate with F on the matching body part. Community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s=受《黑袍纠察队》启发的复合V超能力. 注射注射器可将人转变为拥有随机能力的超能者：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、电力、超级速度、白蚁、隐形、心灵风暴. 右键点击V2注射器 -> 选项可自定义配置；能力通过在对应身体部位按F键激活. 社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s
 
-<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground - inspired by The Boys.\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super rolls\nrandom powers: strength, durability, regeneration, flight, heat vision, hemokinesis,\nradiation chest blast, electricity, super speed, termite, invisibility, mindstorm.\n\n- Right-click a V2 syringe -> Options to pick exact powers and levels (loadout).\n- Powers activate with F on the matching body part of a Super that has them.\n- V1 %3D classic god-formula, V24 %3D temporary, plus anti-Supe viruses and enriched uranium.\n\nJoin the community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s\n\nby ale_diola_\n=<size%3D1.5em>复合V游乐场</size>\n复合V游乐场\n为《People Playground》添加复合V超能力——灵感来自《黑袍纠察队》。\n\n为某人注射复合V注射器可将其转变为超能者。每个超能者随机获得\n能力：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、\n电力、超级速度、白蚁、隐形、心灵风暴。\n\n- 右键点击V2注射器 -> 选项可选择精确能力和等级（配置）。\n- 能力通过在拥有该能力的超能者的对应身体部位上按F键激活。\n- V1 %3D 经典神之配方，V24 %3D 临时型，还有抗超能病毒和浓缩铀。\n\n加入社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_
+<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground - inspired by The Boys.\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super rolls\nrandom powers: strength, durability, regeneration, flight, heat vision, hemokinesis,\nradiation chest blast, electricity, super speed, termite, invisibility, mindstorm.\n\n- Right-click a V2 syringe -> Options to pick exact powers and levels (loadout).\n- Powers activate with F on the matching body part of a Super that has them.\n- V1 %3D classic god-formula, V24 %3D temporary, plus anti-Supe viruses and enriched uranium.\n\nJoin the community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s\n\nby ale_diola_\n=<size%3D1.5em>复合V游乐场</size>\n复合V游乐场\n为《People Playground》添加复合V超能力——灵感来自《黑袍纠察队》. \n\n为某人注射复合V注射器可将其转变为超能者. 每个超能者随机获得\n能力：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、\n电力、超级速度、白蚁、隐形、心灵风暴. \n\n- 右键点击V2注射器 -> 选项可选择精确能力和等级（配置）. \n- 能力通过在拥有该能力的超能者的对应身体部位上按F键激活. \n- V1 %3D 经典神之配方，V24 %3D 临时型，还有抗超能病毒和浓缩铀. \n\n加入社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_
 //通知
 
 //静态
@@ -11061,39 +11061,39 @@ Invisibility: ON=隐形：开
 Mindstorm: OFF=心灵风暴：关
 Mindstorm: ON=心灵风暴：开
 If ON, THIS syringe's next injection gives exactly the chosen powers=如果开启，此注射器的下一次注射将精确赋予所选能力
-If ON, THIS syringe's next injection gives exactly the chosen powers.=如果开启，此注射器的下一次注射将精确赋予所选能力。
+If ON, THIS syringe's next injection gives exactly the chosen powers.=如果开启，此注射器的下一次注射将精确赋予所选能力. 
 Click to change the strength level=点击更改力量等级
-Click to change the strength level.=点击更改力量等级。
+Click to change the strength level.=点击更改力量等级. 
 Click to change durability (ext+int)=点击更改耐久度（外部+内部）
 Click to change durability (ext+int)=点击更改耐久度（外部+内部）
 Click to change regeneration=点击更改再生
-Click to change regeneration.=点击更改再生。
+Click to change regeneration.=点击更改再生. 
 Toggle Flight=切换飞行
-Toggle Flight.=切换飞行。
+Toggle Flight.=切换飞行. 
 Toggle Heat Vision=切换热视线
-Toggle Heat Vision.=切换热视线。
+Toggle Heat Vision.=切换热视线. 
 Toggle Hemokinesis=切换血液控制
-Toggle Hemokinesis.=切换血液控制。
+Toggle Hemokinesis.=切换血液控制. 
 Toggle Electricity=切换电力
-Toggle Electricity.=切换电力。
+Toggle Electricity.=切换电力. 
 Click to change Super Speed level (A-Train)=点击更改超级速度等级（A-Train）
 Toggle Termite (shrink + burst from inside)=切换白蚁（缩小+从内部爆裂）
 Toggle Chest Blast=切换胸部冲击波
-Toggle Chest Blast.=切换胸部冲击波。
+Toggle Chest Blast.=切换胸部冲击波. 
 Toggle Invisibility (+ carbon skin); F on the head=切换隐形（+碳化皮肤）；按F键在头部
-Toggle Invisibility (+ carbon skin); F on the head.=切换隐形（+碳化皮肤）；按F键在头部。
+Toggle Invisibility (+ carbon skin); F on the head.=切换隐形（+碳化皮肤）；按F键在头部. 
 Toggle Mindstorm (deep-sleep gaze); F on the head, then click a target=切换心灵风暴（深度睡眠凝视）；按F键在头部，然后点击目标
-Toggle Mindstorm (deep-sleep gaze); F on the head, then click a target.=切换心灵风暴（深度睡眠凝视）；按F键在头部，然后点击目标。
+Toggle Mindstorm (deep-sleep gaze); F on the head, then click a target.=切换心灵风暴（深度睡眠凝视）；按F键在头部，然后点击目标. 
 Compound V stats=复合V属性
 Show this Super's Compound V sheet=显示此超能者的复合V属性面板
-Show this Super's Compound V sheet.=显示此超能者的复合V属性面板。
+Show this Super's Compound V sheet.=显示此超能者的复合V属性面板. 
 Heat Vision (loop)=热视线（循环）
 Toggle a continuous heat-vision beam=切换持续热视线光束
-Toggle a continuous heat-vision beam.=切换持续热视线光束。
+Toggle a continuous heat-vision beam.=切换持续热视线光束. 
 Flight: Classic (hover)=飞行：经典（悬停）
-Switch flight mode. Classic (default) %3D weightless hover, holds still in the air. Follow Mouse %3D flies to the cursor.=切换飞行模式。经典（默认）%3D失重悬停，在空中静止不动。跟随鼠标%3D飞向光标。
-Flight mode: FOLLOW MOUSE (flies to the cursor).=飞行模式：跟随鼠标（飞向光标）。
-Flight mode: CLASSIC (weightless hover - holds still in the air, drag to move).=飞行模式：经典（失重悬停——在空中静止不动，拖拽移动）。
+Switch flight mode. Classic (default) %3D weightless hover, holds still in the air. Follow Mouse %3D flies to the cursor.=切换飞行模式. 经典（默认）%3D失重悬停，在空中静止不动. 跟随鼠标%3D飞向光标. 
+Flight mode: FOLLOW MOUSE (flies to the cursor).=飞行模式：跟随鼠标（飞向光标）. 
+Flight mode: CLASSIC (weightless hover - holds still in the air, drag to move).=飞行模式：经典（失重悬停——在空中静止不动，拖拽移动）. 
 
 
 //面板
@@ -11329,5 +11329,123 @@ Explosive Attack=爆炸攻击
 
 
 
-//204*
+//204*适应性人类_Adapting Human Mod
+<noparse>Adapting Human Mod</noparse>=<noparse>适应人类模组</noparse>
+Defo Not Mahoraga :100:=绝对不是魔虚罗 :100:
+<size%3D1.5em>Adapting Human Mod</size>\nDefo Not Mahoraga :100:\n<noparse>A mod by Wilki for game version 1.11</noparse>=<size%3D1.5em>适应人类模组</size>\n绝对不是魔虚罗 :100:\n<noparse>由 Wilki 制作的模组，适用于游戏版本 1.11</noparse>
+//人物
+<b>Adapting Human</b>\r\nDefo not budget mahoraga.=<b>适应人类</b>\r\n绝对不是没经费版魔虚罗.
+//物品
+<b>Adaptation Syringe</b>\r\nGrants the user the ability to adapt.=<b>适应注射器</b>\r\n赋予使用者适应能力.
+//通知
+Beginning Stage One Of Cold Adaptation=寒冷适应第一阶段开始
+Stage One Of Cold Adaptation Complete=寒冷适应第一阶段完成
+Beginning Stage Two Of Cold Adaptation=寒冷适应第二阶段开始
+Stage Two Of Cold Adaptation Complete=寒冷适应第二阶段完成
+Beginning Stage Three Of Cold Adaptation=寒冷适应第三阶段开始
+Stage Three Of Cold Adaptation Complete=寒冷适应第三阶段完成
+Beginning Final Stage Of Cold Adaptation=寒冷适应最终阶段开始
+Final Stage Of Cold Adaptation Complete=寒冷适应最终阶段完成
+Beginning Stage One Of Heat Adaptation=高温适应第一阶段开始
+Stage One Of Heat Adaptation Complete=高温适应第一阶段完成
+Beginning Stage Two Of Heat Adaptation=高温适应第二阶段开始
+Stage Two Of Heat Adaptation Complete=高温适应第二阶段完成
+Beginning Stage Three Of Heat Adaptation=高温适应第三阶段开始
+Stage Three Of Heat Adaptation Complete=高温适应第三阶段完成
+Beginning Final Stage Of Heat Adaptation=高温适应最终阶段开始
+Final Stage Of Heat Adaptation Complete=高温适应最终阶段完成
+Beginning Stage One Of Bullets Adaptation=子弹适应第一阶段开始
+Stage One Of Bullets Adaptation Complete=子弹适应第一阶段完成
+Beginning Stage Two Of Bullets Adaptation=子弹适应第二阶段开始
+Stage Two Of Bullets Adaptation Complete=子弹适应第二阶段完成
+Beginning Stage Three Of Bullets Adaptation=子弹适应第三阶段开始
+Stage Three Of Bullets Adaptation Complete=子弹适应第三阶段完成
+Beginning Final Stage Of Bullets Adaptation=子弹适应最终阶段开始
+Final Stage Of Bullets Adaptation Complete=子弹适应最终阶段完成
+Beginning Stage One Of Stabbing Adaptation=刺击适应第一阶段开始
+Stage One Of Stabbing Adaptation Complete=刺击适应第一阶段完成
+Beginning Stage Two Of Stabbing Adaptation=刺击适应第二阶段开始
+Stage Two Of Stabbing Adaptation Complete=刺击适应第二阶段完成
+Beginning Stage Three Of Stabbing Adaptation=刺击适应第三阶段开始
+Stage Three Of Stabbing Adaptation Complete=刺击适应第三阶段完成
+Beginning Final Stage Of Stabbing Adaptation=刺击适应最终阶段开始
+Final Stage Of Stabbing Adaptation Complete=刺击适应最终阶段完成
+Beginning Stage One Of Bleeding Adaptation=流血适应第一阶段开始
+Stage One Of Bleeding Adaptation Complete=流血适应第一阶段完成
+Beginning Stage Two Of Bleeding Adaptation=流血适应第二阶段开始
+Stage Two Of Bleeding Adaptation Complete=流血适应第二阶段完成
+Beginning Stage Three Of Bleeding Adaptation=流血适应第三阶段开始
+Stage Three Of Bleeding Adaptation Complete=流血适应第三阶段完成
+Beginning Final Stage Of Bleeding Adaptation=流血适应最终阶段开始
+Final Stage Of Bleeding Adaptation Complete=流血适应最终阶段完成
+Beginning Stage One Of Electricity Adaptation=电击适应第一阶段开始
+Stage One Of Electricity Adaptation Complete=电击适应第一阶段完成
+Beginning Stage Two Of Electricity Adaptation=电击适应第二阶段开始
+Stage Two Of Electricity Adaptation Complete=电击适应第二阶段完成
+Beginning Stage Three Of Electricity Adaptation=电击适应第三阶段开始
+Stage Three Of Electricity Adaptation Complete=电击适应第三阶段完成
+Beginning Final Stage Of Electricity Adaptation=电击适应最终阶段开始
+Final Stage Of Electricity Adaptation Complete=电击适应最终阶段完成
+Beginning Stage One Of Oxygen Shortage Adaptation=缺氧适应第一阶段开始
+Stage One Of Oxygen Shortage Adaptation Complete=缺氧适应第一阶段完成
+Beginning Stage Two Of Oxygen Shortage Adaptation=缺氧适应第二阶段开始
+Stage Two Of Oxygen Shortage Adaptation Complete=缺氧适应第二阶段完成
+Beginning Stage Three Of Oxygen Shortage Adaptation=缺氧适应第三阶段开始
+Stage Three Of Oxygen Shortage Adaptation Complete=缺氧适应第三阶段完成
+Beginning Final Stage Of Oxygen Shortage Adaptation=缺氧适应最终阶段开始
+Final Stage Of Oxygen Shortage Adaptation Complete=缺氧适应最终阶段完成
+Beginning Stage One Of Fire Adaptation=火焰适应第一阶段开始
+Stage One Of Fire Adaptation Complete=火焰适应第一阶段完成
+Beginning Stage Two Of Fire Adaptation=火焰适应第二阶段开始
+Stage Two Of Fire Adaptation Complete=火焰适应第二阶段完成
+Beginning Stage Three Of Fire Adaptation=火焰适应第三阶段开始
+Stage Three Of Fire Adaptation Complete=火焰适应第三阶段完成
+Beginning Final Stage Of Fire Adaptation=火焰适应最终阶段开始
+Final Stage Of Fire Adaptation Complete=火焰适应最终阶段完成
+Beginning Stage One Of Pain Adaptation=疼痛适应第一阶段开始
+Stage One Of Pain Adaptation Complete=疼痛适应第一阶段完成
+Beginning Stage Two Of Pain Adaptation=疼痛适应第二阶段开始
+Stage Two Of Pain Adaptation Complete=疼痛适应第二阶段完成
+Beginning Stage Three Of Pain Adaptation=疼痛适应第三阶段开始
+Stage Three Of Pain Adaptation Complete=疼痛适应第三阶段完成
+Beginning Final Stage Of Pain Adaptation=疼痛适应最终阶段开始
+Final Stage Of Pain Adaptation Complete=疼痛适应最终阶段完成
+Beginning Stage One Of Impact Damage Adaptation=冲击伤害适应第一阶段开始
+Stage One Of Impact Damage Adaptation Complete=冲击伤害适应第一阶段完成
+Beginning Stage Two Of Impact Damage Adaptation=冲击伤害适应第二阶段开始
+Stage Two Of Impact Damage Adaptation Complete=冲击伤害适应第二阶段完成
+Beginning Stage Three Of Impact Damage Adaptation=冲击伤害适应第三阶段开始
+Stage Three Of Impact Damage Adaptation Complete=冲击伤害适应第三阶段完成
+Beginning Final Stage Of Impact Damage Adaptation=冲击伤害适应最终阶段开始
+Final Stage Of Impact Damage Adaptation Complete=冲击伤害适应最终阶段完成
+Beginning Stage One Of Acid Adaptation=酸液适应第一阶段开始
+Stage One Of Acid Adaptation Complete=酸液适应第一阶段完成
+Beginning Stage Two Of Acid Adaptation=酸液适应第二阶段开始
+Stage Two Of Acid Adaptation Complete=酸液适应第二阶段完成
+Beginning Stage Three Of Acid Adaptation=酸液适应第三阶段开始
+Stage Three Of Acid Adaptation Complete=酸液适应第三阶段完成
+Beginning Final Stage Of Acid Adaptation=酸液适应最终阶段开始
+Final Stage Of Acid Adaptation Complete=酸液适应最终阶段完成
 
+
+
+
+
+//205*反应性人类_Reactive humans
+<noparse>Reactive humans</noparse>=<noparse>反应性人类</noparse>
+Adds humans with simple AI, and allows you to control creatures by clicking X on them.=添加了带有简单AI的人类，并允许你通过点击X键来控制生物. 
+<size%3D1.5em>Reactive humans</size>\nAdds humans with simple AI, and allows you to control creatures by clicking X on them.\n<noparse>A mod by Orsoniks / Navii for game version 1.23+</noparse>=<size%3D1.5em>反应性人类</size>\n添加了带有简单AI的人类，并允许你通过点击X键来控制生物. \n<noparse>由 Orsoniks / Navii 制作的模组，适用于游戏版本 1.23+</noparse>
+//物品注册
+<b>Change auto apply</b>\r\nChange the reactive humans auto apply mode. Goes like this: None, Normal, Angry, Blue team, Yellow team.=<b>更改自动应用</b>\r\n更改反应性人类的自动应用模式. 顺序为：无、正常、愤怒、蓝队、黄队. (应用于所有人类)
+<b>Enable creature control</b>\r\nAfter spawning, hover your mouse over a creature and press X to control them.=<b>启用生物控制</b>\r\n生成后，将鼠标悬停在生物上并按X键来控制它们. 
+<b>Human (Reactive)</b>\r\nA normal human, but one that reacts to things around them (may try to run away or defend itself).=<b>人类（反应性）</b>\r\n一个正常人类，但会对周围事物做出反应（可能会试图逃跑或自卫）. 
+<b>Human (Reactive, Angry)</b>\r\nA reactive human, but one that is VERY angry. Will attack anyone it sees.=<b>人类（反应性，愤怒）</b>\r\n一个反应性人类，但非常愤怒. 会攻击它看到的任何人. 
+<b>Human (Reactive, Blue, Angry)</b>\r\nA reactive human, but one that is VERY angry. Will attack anyone it sees, except for other Blue teammates.=<b>人类（反应性，蓝色，愤怒）</b>\r\n一个反应性人类，但非常愤怒. 会攻击它看到的任何人，除了蓝色队友. 
+<b>Human (Reactive, Yellow, Angry)</b>\r\nA reactive human, but one that is VERY angry. Will attack anyone it sees, except for other Yellow teammates.=<b>人类（反应性，黄色，愤怒）</b>\r\n一个反应性人类，但非常愤怒. 会攻击它看到的任何人，除了黄色队友. 
+//通知
+Auto apply enabled: Normal.=自动应用已启用：正常. 
+Auto apply: Angry.=自动应用：愤怒. 
+Auto apply: Blue team.=自动应用：蓝队. 
+Auto apply: Yellow team.=自动应用：黄队. 
+Auto apply disabled.=自动应用已禁用. 
+Press X on creatures to control them.=按X键控制生物. 
