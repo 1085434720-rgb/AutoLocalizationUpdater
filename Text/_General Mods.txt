@@ -11561,3 +11561,25 @@ Adds more grenades to the game which have different properties, looks and names 
 <b>Mills Bomb</b>\r\nWorld war era British handgrenade. Very rusty.=<b>米尔斯手雷</b>\r\n二战时期的英国手雷. 非常生锈. 
 <b>L2 Handgrenade</b>\r\nBritish reproduction of the M26. Kind of looks like a green lemon.=<b>L2手雷</b>\r\n英国仿制的M26. 看起来有点像绿色的柠檬. 
 <b>L109 Handgrenade</b>\r\nBritish reproduction of the HG 85.=<b>L109手雷</b>\r\n英国仿制的HG 85. 
+
+
+
+
+
+//211*终极杀戮武器_Ultrakill Weapons
+<noparse>Ultrakill Weapons</noparse>=<noparse>终极杀戮</noparse>
+<b>Ultrakill Weapons</b>\r\nultra fungus.=<b>终极杀戮</b>\r\n终极真菌. 
+<b>Core-eject Shotgun -UW</b>\r\nFires plasma shots that spread out, like a shotgun, alt fire to launch a dense pocket of volitile plasma.=<b>核心喷射霰弹枪 -UW</b>\r\n发射呈散射状的等离子弹，如同霰弹枪；副射击(长按)可发射一团致密的不稳定等离子体. 
+<b>Pump Charge Shotgun -UW</b>\r\nA heat based pump shotgun that charges up to two pumps. First pump fires more plasma pellets, second pump fires an explosive blast.=<b>泵动充能霰弹枪 -UW</b>\r\n一把基于热能的泵动霰弹枪，可充能(长按)至两泵. 第一泵发射更多等离子弹丸，第二泵发射爆炸冲击波. 
+<b>Slab Revolver -UW</b>\r\nFires particle shots, alt fire will charge up a greater particle beam.=<b>重型左轮 -UW</b>\r\n发射粒子弹，副射击(长按)可蓄力发射更强的粒子光束. 
+<b>Sharpshooter Revolver -UW</b>\r\nFires bouncing particle shots, alt fire will charge up a greater particle beam.=<b>神射手左轮 -UW</b>\r\n发射可反弹的粒子弹，副射击(长按)可蓄力发射更强的粒子光束. 
+<b>Marksman Revolver -UW</b>\r\nFires particle shots, alt fire (press y) will launch a coin that can be shot at.=<b>神枪手左轮 -UW</b>\r\n发射粒子弹，副射击(按Y键)可抛出一枚可被射击的硬币. 
+<b>RailCannon -UW</b>\r\nShoots a beam of lightning, can interact with the marksman's coins, has the potential of killing strong modded creatures.=<b>轨炮 -UW</b>\r\n发射一道闪电光束，可与神枪手的硬币互动，有潜力击杀强大的模组生物. 
+<b>Malicious RailCannon -UW</b>\r\nShoots a beam of pure explosive energy, can interact with the marksman's coins, has the potential of killing strong modded creatures.=<b>恶意轨炮 -UW</b>\r\n发射一道纯粹的爆炸性能量光束，可与神枪手的硬币互动，有潜力击杀强大的模组生物. 
+<b>Screwdriver RailCannon -UW</b>\r\nShoots a drill that sticks to objects, deals damage over time, has the potential of killing strong modded creatures.=<b>螺丝刀轨炮 -UW</b>\r\n发射一枚可附着于物体的钻头，持续造成伤害，有潜力击杀强大的模组生物. 
+<b>Nail gun -UW</b>\r\nRapidly fires nails, alt fire (press y) to fire a magnet that sticks to anything, nails and magnets will violently arc when exposed with enough electricity.=<b>钉枪 -UW</b>\r\n快速发射钉子，副射击(按Y键)可发射一枚可附着于任何物体的磁铁，钉子和磁铁在受到足够电力作用时会产生剧烈电弧. 
+<b>Sawblade Launcher -UW</b>\r\nRapidly fires bouncing sawblades, alt fire (press y) to fire a magnet that sticks to anything.=<b>锯片发射器 -UW</b>\r\n快速发射可反弹的锯片，副射击(按Y键)可发射一枚可附着于任何物体的磁铁. 
+<b>Rocket Launcher -UW</b>\r\nFires a rocket that explodes violently on contact with living beings, more damage if the enemy is airborne, alt fire (press y) to freeze rockets midair.=<b>火箭发射器 -UW</b>\r\n发射一枚火箭，接触生物时剧烈爆炸，若敌人在空中则造成更高伤害，副射击(按Y键)可使火箭在空中冻结. 
+<b>JackHammer -UW</b>\r\nHammers things, the faster this weapon moves, the stronger the impact, alt fire (press y) to launch a dense pocket of volitile plasma.=<b>冲击锤 -UW</b>\r\n锤击物体，此武器移动速度越快，冲击力越强，副射击(按Y键)可发射一团致密的不稳定等离子体. 
+<b>V1 -UW</b>\r\nJohn Ultrakill! will heal when blood splatters on it.=<b>V1 -UW</b>\r\n终极杀戮约翰！当血液溅到它时会治愈. 
+<b>Coin -UW</b>\r\nUsed to reflect particle shots and redirect them to nearby targets.=<b>硬币 -UW</b>\r\n用于反射粒子弹并将其重定向至附近目标. 
