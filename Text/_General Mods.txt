@@ -11449,3 +11449,56 @@ Auto apply: Blue team.=自动应用：蓝队.
 Auto apply: Yellow team.=自动应用：黄队. 
 Auto apply disabled.=自动应用已禁用. 
 Press X on creatures to control them.=按X键控制生物. 
+
+
+
+
+
+
+
+
+
+//206*绿砖工业_Greenbrick Industries
+<noparse>Greenbrick Industries</noparse>=<noparse>绿砖工业</noparse>
+The sequel to a very large miscellaneous item pack.=一个非常庞大的杂项物品包的续作. 
+<size%3D1.5em>Greenbrick Industries</size>\nThe sequel to a very large miscellaneous item pack.\n<noparse>A mod by Talonphobia for game version 1.18+</noparse>=<size%3D1.5em>绿砖工业</size>\n一个非常庞大的杂项物品包的续作. \n<noparse>由 Talonphobia 制作的模组，适用于游戏版本 1.18+</noparse>
+<b>Alien Arrow [GBI]</b>\r\nA controllable, whistling arrow. \n \nIs it cool? Hell yeah it's cool. I'm Mary Poppins y'all.=<b>外星箭矢 [GBI]</b>\r\n一种可控的、呼啸而过的箭矢. \n \n酷吗？当然酷. 我就是玛丽·波平斯，伙计们. 
+<b>EL-01 Knuckleblaster [GBI]</b>\r\nAn enhanced limb for anything that can grab. \n\nEnhances the users punch, as well as giving them a powerful blast option for tense circumstances.=<b>EL-01 拳击爆破者 [GBI]</b>\r\n为任何能抓握的东西设计的增强肢体. \n\n增强使用者的拳击，同时在紧张情况下提供强大的冲击波选项. 
+<b>EL-04 Sulphur [GBI]</b>\r\nAn enhanced limb for anything that can grab. \n\nGrants the user a powerful short-ranged thruster arm..=<b>EL-04 硫磺 [GBI]</b>\r\n为任何能抓握的东西设计的增强肢体. \n\n赋予使用者强大的短程推进手臂. 
+<b>EL-07 Power-arm! [GBI]</b>\r\nAn enhanced limb for anything that can grab. \n\n A variant of the Power-Glove! Allows the user to grab, hold, and throw anything.=<b>EL-07 力量臂！[GBI]</b>\r\n为任何能抓握的东西设计的增强肢体. \n\n力量手套的变种！允许使用者抓取、持有并投掷任何东西. 
+<b>EL-08 Trick Arm [GBI]</b>\r\nAn enhanced limb for anything that can grab. \n\n A detatchable limb that can be projectiled outwards and reattatched back to the remainder.=<b>EL-08 诡术臂 [GBI]</b>\r\n为任何能抓握的东西设计的增强肢体. \n\n一种可分离的肢体，可以向外投射并重新附着回剩余部分. 
+<b>Blink Dagger [GBI]</b>\r\nA teleporting dagger.=<b>闪烁匕首 [GBI]</b>\r\n一种可传送的匕首. 
+<b>Power-Glove! [GBI]</b>\r\nAble to pick up and throw anything.=<b>力量手套！[GBI]</b>\r\n能够捡起并投掷任何东西. 
+<b>Sewing Needle [GBI]</b>\r\nHey, aren't these supposed to be smaller?=<b>缝衣针 [GBI]</b>\r\n嘿，这东西不应该更小一点吗？
+<b>Space Wrench [GBI]</b>\r\nWhile the mechanics of it are confusing, the space wrench is a simple fix-all tool for most electronic appliances, while also sufficing as an impromptu weapon in some cases.=<b>太空扳手 [GBI]</b>\r\n虽然其原理令人困惑，但太空扳手是一种适用于大多数电子设备的简单万能修理工具，在某些情况下也可作为临时武器使用. 
+<b>Armcannon [GBI]</b>\r\nA chargable arm-cannon.=<b>臂炮 [GBI]</b>\r\n一种可充能臂炮. 
+<b>Sine Blaster [GBI]</b>\r\nDespite the millions of lives this weapon has taken over it's course of use, people still regularly refer to it as "wiggle gun".=<b>正弦冲击波 [GBI]</b>\r\n尽管这件武器在使用过程中已夺去了数百万人的生命，人们仍然经常称其为“摇摆枪”. 
+<b>Homing Blaster [GBI]</b>\r\nA blaster developed to help those who are <i>really</i> bad at aiming. \n \nOrder of operations goes <b>Living entities > Unbroken Machinery > Syringes</b>.=<b>追踪冲击波 [GBI]</b>\r\n一种为那些<i>真的</i>不擅长瞄准的人开发的冲击波. \n \n优先级顺序为 <b>活体实体 > 完好机械 > 注射器</b>. 
+<b>Specter Crossbow [GBI]</b>\r\nA crossbow loaded with some ethereal arrow that only reacts to living tissue. \n \n<i>Heretic</i>.=<b>幽灵弩 [GBI]</b>\r\n一种装填有仅对活体组织起反应的灵体箭矢的弩. \n \n<i>异端</i>. 
+<b>EL-02 Gravipull [GBI]</b>\r\nAn enhanced limb for anything that can grab. \n\nGrants the user the ability to <b>pull</b> physical objects towards them.=<b>EL-02 引力牵引 [GBI]</b>\r\n为任何能抓握的东西设计的增强肢体. \n\n赋予使用者将物理物体<b>拉</b>向自己的能力. 
+<b>EL-03 Gravipush [GBI]</b>\r\nAn enhanced limb for anything that can grab. \n\nGrants the user the ability to <b>push</b> physical objects away from them.=<b>EL-03 引力推斥 [GBI]</b>\r\n为任何能抓握的东西设计的增强肢体. \n\n赋予使用者将物理物体<b>推</b>离自己的能力. 
+<b>EL-05 Barret [GBI]</b>\r\nAn enhanced limb for anything that can grab. \n\n <i>Debatably</i> enhances the users arm, by replacing it with a burst rifle.=<b>EL-05 巴雷特 [GBI]</b>\r\n为任何能抓握的东西设计的增强肢体. \n\n<i>可说是</i>通过用爆发步枪替换来增强使用者的手臂. 
+<b>EL-06 Armcannon [GBI]</b>\r\nAn enhanced limb for anything that can grab. \n\n A variant of the Armcannon. Grants the user a chargable laser.=<b>EL-06 臂炮 [GBI]</b>\r\n为任何能抓握的东西设计的增强肢体. \n\n臂炮的变种. 赋予使用者可充能激光. 
+<b>Staff [GBI]</b>\r\nA staff that shoots different lasers based on which direction it's facing.=<b>法杖 [GBI]</b>\r\n一种根据朝向方向发射不同激光的法杖. 
+<b>Explosive Knife [GBI]</b>\r\nThe pinnacle of war. A weapon to surpass metal gear.=<b>爆炸匕首 [GBI]</b>\r\n战争的巅峰之作. 一把超越合金装备的武器. 
+<b>Greenbrick [GBI]</b>\r\nGreenbrick.=<b>绿砖 [GBI]</b>\r\n绿砖. 
+<b>Toy Greenbrick [GBI]</b>\r\nDon't step on it.=<b>乐高绿砖 [GBI]</b>\r\n别踩到它. 
+
+
+
+
+
+
+
+
+//207*Nerf武器模组_Nerf Weapons Mod
+<noparse>Nerf Weapons Mod</noparse>=<noparse>Nerf武器模组</noparse>
+by quickness, Laska\nAdds toy weapons.=由 quickness、Laska 制作\n添加了玩具武器. 
+<size%3D1.5em>Nerf Weapons Mod</size>\nby quickness, Laska\nAdds toy weapons.\n<noparse>A mod by intTeam for game version 1.27+</noparse>=<size%3D1.5em>Nerf武器模组</size>\n由 quickness、Laska 制作\n添加了玩具武器. \n<noparse>由 intTeam 制作的模组，适用于游戏版本 1.27+</noparse>
+<b>Nerf Pistol [NG]</b>\r\nToy pistol. Fires a light dart that "imaginary" kills an entity. Dart deals 1 damage. Entity has 5 "imaginary" health units.=<b>Nerf手枪 [NG]</b>\r\n玩具手枪. 发射一枚轻型飞镖，可“想象性”击杀一个实体. 飞镖造成1点伤害. 实体拥有5点“想象性”生命值. 
+<b>Nerf Rifle [NG]</b>\r\nToy rifle. Fires a light dart that "imaginary" kills an entity. Dart deals 0.25 damage. Entity has 5 "imaginary" health units.=<b>Nerf步枪 [NG]</b>\r\n玩具步枪. 发射一枚轻型飞镖，可“想象性”击杀一个实体. 飞镖造成0.25点伤害. 实体拥有5点“想象性”生命值. 
+<b>Nerf Sniper [NG]</b>\r\nToy sniper rifle. Fires a sniper dart that "imaginary" kills an entity. Dart deals 5 damage. Entity has 5 "imaginary" health units.=<b>Nerf狙击枪 [NG]</b>\r\n玩具狙击步枪. 发射一枚狙击飞镖，可“想象性”击杀一个实体. 飞镖造成5点伤害. 实体拥有5点“想象性”生命值. 
+<b>Simple Dart [NG]</b>\r\nAttaches to any object. 1 damage.=<b>简易飞镖 [NG]</b>\r\n可附着于任何物体. 1点伤害. 
+<b>Light Dart [NG]</b>\r\nAttaches to any object. Weaker version. 0.25 damage.=<b>轻型飞镖 [NG]</b>\r\n可附着于任何物体. 较弱版本. 0.25点伤害. 
+<b>Sniper Dart [NG]</b>\r\nAttaches to any object. Long and powerful version. 5 damage.=<b>狙击飞镖 [NG]</b>\r\n可附着于任何物体. 长而强力的版本. 5点伤害. 
+
