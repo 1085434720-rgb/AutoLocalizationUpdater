@@ -12430,3 +12430,34 @@ First version was unfixable broken shit=第一版是没法修的垃圾
 Destroy loop=销毁循环
 Destroy loop.=销毁循环.
 
+
+
+
+
+
+
+
+
+//222*只是项圈_Just Collars
+<noparse>Just Collars</noparse>=<noparse>只是项圈</noparse>
+The mod was ordered by UnknownPotato=该模组由 UnknownPotato 委托制作
+<size%3D1.5em>Just Collars</size>\nThe mod was ordered by UnknownPotato\n<noparse>A mod by Dyadyushka Dyadya for game version 1.26+</noparse>=<size%3D1.5em>只是项圈</size>\n该模组由 UnknownPotato 委托制作\n<noparse>由 Dyadyushka Dyadya 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>Explode Collar</b>.\r\n=<b>爆炸项圈</b>.\r\n
+<b>Electric Collar</b>.\r\n=<b>电击项圈</b>.\r\n
+<b>Liquid Collar</b>.\r\n=<b>液体项圈</b>.\r\n
+Set level electricity=设置电击等级
+Set level electricity.=设置电击等级.
+Choose mode=选择模式
+Middle=中等
+<color%3D"red">Something went wrong :(=<color%3D"red">出错了 :(
+Detach Explode Collar=拆卸爆炸项圈
+Detach Explode Collar.=拆卸爆炸项圈.
+Detach Electric Collar=拆卸电击项圈
+Detach Electric Collar.=拆卸电击项圈.
+Detach Liquid Collar=拆卸液体项圈
+Detach Liquid Collar.=拆卸液体项圈.
+Enter liquid name=输入液体名称
+Liquid Name=液体名称
+r:"Liquid is selected: (.*?)"="已选择液体：$1"
+Change Liquid.=更改液体。
+Change Liquid=更改液体
