@@ -11566,23 +11566,23 @@ Adds more grenades to the game which have different properties, looks and names 
 
 
 
-//211*终极杀戮武器_Ultrakill Weapons
-<noparse>Ultrakill Weapons</noparse>=<noparse>终极杀戮</noparse>
-<b>Ultrakill Weapons</b>\r\nultra fungus.=<b>终极杀戮</b>\r\n终极真菌. 
-<b>Core-eject Shotgun -UW</b>\r\nFires plasma shots that spread out, like a shotgun, alt fire to launch a dense pocket of volitile plasma.=<b>核心喷射霰弹枪 -UW</b>\r\n发射呈散射状的等离子弹，如同霰弹枪；副射击(长按)可发射一团致密的不稳定等离子体. 
-<b>Pump Charge Shotgun -UW</b>\r\nA heat based pump shotgun that charges up to two pumps. First pump fires more plasma pellets, second pump fires an explosive blast.=<b>泵动充能霰弹枪 -UW</b>\r\n一把基于热能的泵动霰弹枪，可充能(长按)至两泵. 第一泵发射更多等离子弹丸，第二泵发射爆炸冲击波. 
-<b>Slab Revolver -UW</b>\r\nFires particle shots, alt fire will charge up a greater particle beam.=<b>重型左轮 -UW</b>\r\n发射粒子弹，副射击(长按)可蓄力发射更强的粒子光束. 
-<b>Sharpshooter Revolver -UW</b>\r\nFires bouncing particle shots, alt fire will charge up a greater particle beam.=<b>神射手左轮 -UW</b>\r\n发射可反弹的粒子弹，副射击(长按)可蓄力发射更强的粒子光束. 
-<b>Marksman Revolver -UW</b>\r\nFires particle shots, alt fire (press y) will launch a coin that can be shot at.=<b>神枪手左轮 -UW</b>\r\n发射粒子弹，副射击(按Y键)可抛出一枚可被射击的硬币. 
-<b>RailCannon -UW</b>\r\nShoots a beam of lightning, can interact with the marksman's coins, has the potential of killing strong modded creatures.=<b>轨炮 -UW</b>\r\n发射一道闪电光束，可与神枪手的硬币互动，有潜力击杀强大的模组生物. 
-<b>Malicious RailCannon -UW</b>\r\nShoots a beam of pure explosive energy, can interact with the marksman's coins, has the potential of killing strong modded creatures.=<b>恶意轨炮 -UW</b>\r\n发射一道纯粹的爆炸性能量光束，可与神枪手的硬币互动，有潜力击杀强大的模组生物. 
-<b>Screwdriver RailCannon -UW</b>\r\nShoots a drill that sticks to objects, deals damage over time, has the potential of killing strong modded creatures.=<b>螺丝刀轨炮 -UW</b>\r\n发射一枚可附着于物体的钻头，持续造成伤害，有潜力击杀强大的模组生物. 
-<b>Nail gun -UW</b>\r\nRapidly fires nails, alt fire (press y) to fire a magnet that sticks to anything, nails and magnets will violently arc when exposed with enough electricity.=<b>钉枪 -UW</b>\r\n快速发射钉子，副射击(按Y键)可发射一枚可附着于任何物体的磁铁，钉子和磁铁在受到足够电力作用时会产生剧烈电弧. 
-<b>Sawblade Launcher -UW</b>\r\nRapidly fires bouncing sawblades, alt fire (press y) to fire a magnet that sticks to anything.=<b>锯片发射器 -UW</b>\r\n快速发射可反弹的锯片，副射击(按Y键)可发射一枚可附着于任何物体的磁铁. 
-<b>Rocket Launcher -UW</b>\r\nFires a rocket that explodes violently on contact with living beings, more damage if the enemy is airborne, alt fire (press y) to freeze rockets midair.=<b>火箭发射器 -UW</b>\r\n发射一枚火箭，接触生物时剧烈爆炸，若敌人在空中则造成更高伤害，副射击(按Y键)可使火箭在空中冻结. 
-<b>JackHammer -UW</b>\r\nHammers things, the faster this weapon moves, the stronger the impact, alt fire (press y) to launch a dense pocket of volitile plasma.=<b>冲击锤 -UW</b>\r\n锤击物体，此武器移动速度越快，冲击力越强，副射击(按Y键)可发射一团致密的不稳定等离子体. 
-<b>V1 -UW</b>\r\nJohn Ultrakill! will heal when blood splatters on it.=<b>V1 -UW</b>\r\n终极杀戮约翰！当血液溅到它时会治愈. 
-<b>Coin -UW</b>\r\nUsed to reflect particle shots and redirect them to nearby targets.=<b>硬币 -UW</b>\r\n用于反射粒子弹并将其重定向至附近目标. 
+//211*超杀武器_Ultrakill Weapons
+<noparse>Ultrakill Weapons</noparse>=<noparse>超杀武器</noparse>
+<b>Ultrakill Weapons</b>\r\nultra fungus.=<b>超杀</b>\r\n终极真菌. 
+<b>Core-eject Shotgun -UW</b>\r\nFires plasma shots that spread out, like a shotgun, alt fire to launch a dense pocket of volitile plasma.=<b>核心喷射霰弹枪 -超杀</b>\r\n发射呈散射状的等离子弹，如同霰弹枪；副射击(长按)可发射一团致密的不稳定等离子体. 
+<b>Pump Charge Shotgun -UW</b>\r\nA heat based pump shotgun that charges up to two pumps. First pump fires more plasma pellets, second pump fires an explosive blast.=<b>泵动充能霰弹枪 -超杀</b>\r\n一把基于热能的泵动霰弹枪，可充能(长按)至两泵. 第一泵发射更多等离子弹丸，第二泵发射爆炸冲击波. 
+<b>Slab Revolver -UW</b>\r\nFires particle shots, alt fire will charge up a greater particle beam.=<b>重型左轮 -超杀</b>\r\n发射粒子弹，副射击(长按)可蓄力发射更强的粒子光束. 
+<b>Sharpshooter Revolver -UW</b>\r\nFires bouncing particle shots, alt fire will charge up a greater particle beam.=<b>神射手左轮 -超杀</b>\r\n发射可反弹的粒子弹，副射击(长按)可蓄力发射更强的粒子光束. 
+<b>Marksman Revolver -UW</b>\r\nFires particle shots, alt fire (press y) will launch a coin that can be shot at.=<b>神枪手左轮 -超杀</b>\r\n发射粒子弹，副射击(按Y键)可抛出一枚可被射击的硬币. 
+<b>RailCannon -UW</b>\r\nShoots a beam of lightning, can interact with the marksman's coins, has the potential of killing strong modded creatures.=<b>轨炮 -超杀</b>\r\n发射一道闪电光束，可与神枪手的硬币互动，有潜力击杀强大的模组生物. 
+<b>Malicious RailCannon -UW</b>\r\nShoots a beam of pure explosive energy, can interact with the marksman's coins, has the potential of killing strong modded creatures.=<b>恶意轨炮 -超杀</b>\r\n发射一道纯粹的爆炸性能量光束，可与神枪手的硬币互动，有潜力击杀强大的模组生物. 
+<b>Screwdriver RailCannon -UW</b>\r\nShoots a drill that sticks to objects, deals damage over time, has the potential of killing strong modded creatures.=<b>螺丝刀轨炮 -超杀</b>\r\n发射一枚可附着于物体的钻头，持续造成伤害，有潜力击杀强大的模组生物. 
+<b>Nail gun -UW</b>\r\nRapidly fires nails, alt fire (press y) to fire a magnet that sticks to anything, nails and magnets will violently arc when exposed with enough electricity.=<b>钉枪 -超杀</b>\r\n快速发射钉子，副射击(按Y键)可发射一枚可附着于任何物体的磁铁，钉子和磁铁在受到足够电力作用时会产生剧烈电弧. 
+<b>Sawblade Launcher -UW</b>\r\nRapidly fires bouncing sawblades, alt fire (press y) to fire a magnet that sticks to anything.=<b>锯片发射器 -超杀</b>\r\n快速发射可反弹的锯片，副射击(按Y键)可发射一枚可附着于任何物体的磁铁. 
+<b>Rocket Launcher -UW</b>\r\nFires a rocket that explodes violently on contact with living beings, more damage if the enemy is airborne, alt fire (press y) to freeze rockets midair.=<b>火箭发射器 -超杀</b>\r\n发射一枚火箭，接触生物时剧烈爆炸，若敌人在空中则造成更高伤害，副射击(按Y键)可使火箭在空中冻结. 
+<b>JackHammer -UW</b>\r\nHammers things, the faster this weapon moves, the stronger the impact, alt fire (press y) to launch a dense pocket of volitile plasma.=<b>冲击锤 -超杀</b>\r\n锤击物体，此武器移动速度越快，冲击力越强，副射击(按Y键)可发射一团致密的不稳定等离子体. 
+<b>V1 -UW</b>\r\nJohn Ultrakill! will heal when blood splatters on it.=<b>V1 -超杀</b>\r\n约翰维克超杀版！当血液溅到它时会治愈. 
+<b>Coin -UW</b>\r\nUsed to reflect particle shots and redirect them to nearby targets.=<b>硬币 -超杀</b>\r\n用于反射粒子弹并将其重定向至附近目标. 
 
 
 
@@ -12283,3 +12283,89 @@ This item belongs to: DBSSH.=此物品属于：龙珠超：超级人造人.
 <b>[DBPU] (DBSSH) Dendê</b>\r\nThe young Namekian healer who tends the Lookout and supports Earth's defenders from the sidelines.=<b>[DBPU] (DBSSH) 丹迪</b>\r\n年轻的娜美克星治疗师，负责照料神殿并从旁支持地球的守护者们. 
 <b>[DBPU] (DBSSH) Gamma 1</b>\r\nOne of the Red Ribbon Army's new android supersoldiers from Dragon Ball Super: Super Hero.=<b>[DBPU] (DBSSH) 伽玛1号</b>\r\n来自《龙珠超：超级人造人》的红缎带军团新型人造人超级士兵之一. 
 <b>[DBPU] (DBSSH) Gamma 2</b>\r\nThe stronger of the Red Ribbon Army's Gamma android duo from Dragon Ball Super: Super Hero.=<b>[DBPU] (DBSSH) 伽玛2号</b>\r\n来自《龙珠超：超级人造人》的红缎带军团伽玛人造人二人组中较强的一个. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//218*
+<noparse>Cam's SCP Mod</noparse>=<noparse>Cam的SCP模组</noparse>
+Adds many scps with different abilities=添加了许多具有不同能力的SCP
+<size%3D1.5em>Cam's SCP Mod</size>\n<align%3D"center"><color%3D#6e747d>Ca<color%3D#a1a9b5>m's <color%3D#c3cbd6>SCP <color%3D#a1a9b5>M<color%3D#6e747d>od<color%3D"white">\r\n\r\nV1.0 beta\r\n\r\nAdds many scps\r\n\r\nWell, not that many yet\r\n=<size%3D1.5em>Cam的SCP模组</size>\n<align%3D"center"><color%3D#6e747d>Ca<color%3D#a1a9b5>m的<color%3D#c3cbd6>SCP<color%3D#a1a9b5>模<color%3D#6e747d>组<color%3D"white">\r\n\r\nV1.0 beta\r\n\r\n添加了许多SCP\r\n\r\n嗯，其实还没有那么多\r\n
+//物品注册
+<b>SCP Mod</b>\r\nSecure. Contain. Protect.=<b>SCP模组</b>\r\n收容。控制。保护。
+
+<b>SCP-131 <color%3D#52ff7a>[Safe]</b>\r\nSCP-131-A and SCP-131-B (affectionately nicknamed the Eye Pods by personnel) are a pair of teardrop-shaped creatures roughly 30 cm (1 ft) in height, with a single blue eye in the middle of their bodies. Able to stop SCP-173 from attacking if near them.=<b>SCP-131 <color%3D#52ff7a>[Safe]</b>\r\nSCP-131-A和SCP-131-B（被人员亲切地称为“眼豆”）是一对泪滴形生物，高约30厘米，身体中央有一只蓝色眼睛。如果它们靠近SCP-173，能够阻止其攻击。
+
+<b>SCP-1867 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1867 is a nudibranch of the species Nembrotha kubaryana (variable neon slug), measuring 11.7 cm (4.6 inches) in length. There are no physical differences between SCP-1867 and any other member of its species.=<b>SCP-1867 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1867是一种名为“Nembrotha kubaryana”（可变霓虹海蛞蝓）的海蛞蝓，体长11.7厘米。SCP-1867与该物种的其他个体没有物理差异。
+
+<b>SCP-1356 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1356 is a small bath toy, resembling one of several generic rubber duck designs. Tests indicate that the object is made of plasticized polyvinyl chloride. It is designed to emit a sharp squeak when squeezed.=<b>SCP-1356 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1356是一个小型沐浴玩具，外观类似于常见的橡胶鸭子造型。测试表明该物品由塑化聚氯乙烯制成。其设计为在被挤压时发出尖锐的吱吱声。
+
+<b>SCP-999 <color%3D#52ff7a>[Safe]</b>\r\nSCP-999 appears to be a large, amorphous, gelatinous mass of translucent orange slime, weighing about 54 kg (120 lbs) with a consistency similar to that of peanut butter.=<b>SCP-999 <color%3D#52ff7a>[Safe]</b>\r\nSCP-999看起来像是一大团不定形的半透明橙色凝胶状粘液，重约54公斤，质地类似于花生酱。
+
+<b>SCP-079 <color%3D#ffd738>[Euclid]</b>\r\nSCP-079 is an Exidy Sorcerer microcomputer built in 1978. In 1981, its owner, █████ ██████ (deceased), a college sophomore attending ███, took it upon himself to attempt to code an AI.=<b>SCP-079 <color%3D#ffd738>[Euclid]</b>\r\nSCP-079是一台1978年制造的Exidy Sorcerer微型计算机。1981年，其所有者█████ ██████（已故）——当时是███大学二年级学生——自行尝试编写一个人工智能程序。
+
+<b>SCP-173 <color%3D#ffd738>[Euclid]</b>\r\nMoved to Site-19 1993. Origin is as of yet unknown. It is constructed from concrete and rebar with traces of Krylon brand spray paint. SCP-173 is animate and extremely hostile.=<b>SCP-173 <color%3D#ffd738>[Euclid]</b>\r\n于1993年转移至Site-19。来源至今未知。它由混凝土和钢筋构成，并带有Krylon品牌喷漆痕迹。SCP-173具有生命且极具敌意。
+
+<b>SCP-066 <color%3D#ffd738>[Euclid]</b>\r\nSCP-066 is an amorphous mass of braided yarn and ribbon weighing approximately one kilogram. Strands of SCP-066 may be taken individually and manipulated; when this is done, a note on the diatonic scale (C-D-E-F-G-A-B) is produced by the object.=<b>SCP-066 <color%3D#ffd738>[Euclid]</b>\r\nSCP-066是一团由编织纱线和丝带构成的无定形物，重约一公斤。SCP-066的线股可以被单独取下并操作；此时该物体会发出自然音阶（C-D-E-F-G-A-B）上的音符。
+
+<b>SCP-096 WIP <color%3D#ffd738>[Euclid]</b>\r\nSCP-096 is normally extremely docile. However, when someone views SCP-096's face, whether it be directly, via video recording, or even a photograph, SCP-096 will begin running to the person who viewed its face and kill them.=<b>SCP-096 制作中 <color%3D#ffd738>[Euclid]</b>\r\nSCP-096通常极为温顺。然而，当有人看到SCP-096的脸时，无论是直接观看、通过录像还是甚至照片，SCP-096都会开始跑向看到其面容的人并杀死他们。
+
+<b>SCP-457 WIP <color%3D#ffd738>[Euclid]</b>\r\nFor all points and purposes, SCP-457 appears to be a sentient being composed of flame. SCP-457's actual composition is unknown, and has proven to be invisible and undetectable by any known means, but is shaped out by the flames it produces.=<b>SCP-457 制作中 <color%3D#ffd738>[Euclid]</b>\r\n从各方面来看，SCP-457似乎是一个由火焰组成的智能存在。SCP-457的实际构成未知，并且已被证明在任何已知手段下都不可见且无法探测，但其形状由其产生的火焰勾勒出来。
+
+<b>SCP-106 <color%3D#ff4f19>[Keter]</b>\r\nSCP-106 appears to be an elderly humanoid, with a general appearance of advanced decomposition. This appearance may vary, but the “rotting” quality is observed in all forms. SCP-106 is not exceptionally agile, and will remain motionless for days at a time, waiting for prey.=<b>SCP-106 <color%3D#ff4f19>[Keter]</b>\r\nSCP-106看起来像一个年老的人形实体，外观呈现高度腐烂状态。其外观可能有所不同，但“腐烂”的特征在所有形态中均可观察到。SCP-106并不特别敏捷，会连续数天保持静止，等待猎物。
+
+<b>SCP-035 <color%3D#ff4f19>[Keter]</b>\r\nSCP-035 appears to be a white porcelain comedy mask, although, at times, it will change to tragedy. A highly corrosive and degenerative viscous liquid constantly seeps from the eye and mouth holes of SCP-035.=<b>SCP-035 <color%3D#ff4f19>[Keter]</b>\r\nSCP-035看起来是一个白色陶瓷喜剧面具，但有时会变为悲剧面具。一种高腐蚀性和退行性的粘稠液体不断从SCP-035的眼部和嘴部孔洞中渗出。
+
+<b>SCP-018 <color%3D#ff4f19>[Keter]</b>\r\nSCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is six (6) centimeters in diameter and coloured red.=<b>SCP-018 <color%3D#ff4f19>[Keter]</b>\r\nSCP-018外观像一个由Wham-O公司于1969年制造的超级弹力球。其直径为6厘米，颜色为红色。
+
+<b>When Day Breaks <color%3D#ff0026>[Apollyon]</b>.\r\n=<b>破晓之时 <color%3D#ff0026>[Apollyon]</b>.\r\n
+
+<b>Guard Helmet <color%3D#7e8285>[Item]</b>\r\nA helmet. Activate to enable/disable the visor.=<b>守卫头盔 <color%3D#7e8285>[物品]</b>\r\n一顶头盔。激活以启用/禁用面罩。
+
+<b>Keycard <color%3D#7e8285>[Item]</b>\r\nSimple Keycard, the higher your Perms, the more Control you get over the Foundation.=<b>钥匙卡 <color%3D#7e8285>[物品]</b>\r\n简易钥匙卡，你的权限越高，对基金会的控制力就越强。
+
+<b>D-Class <color%3D#ff9e54>[Test Subject]</b>\r\nused for testing SCPs, notably Keter-class objects. They are unwillingly recruited by the SCP Foundation worldwide and are usually death row inmates.=<b>D级人员 <color%3D#ff9e54>[测试对象]</b>\r\n用于测试SCP，尤其是Keter级对象。他们是被SCP基金会全球范围内非自愿招募的，通常是死刑犯。
+
+<b>Guard <color%3D#7e8285>[Foundation Member]</b>\r\nThe guards act as defense against possible containment breaches, and to ensure that Class-D personnel comply with orders and do not attempt to escape. =<b>守卫 <color%3D#7e8285>[基金会成员]</b>\r\n守卫负责防御可能的收容突破，并确保D级人员服从命令且不试图逃跑。
+
+<b>Door WIP <color%3D#7e8285>[Prop]</b>\r\nA simple Door. Activate it to open/close it.=<b>门 制作中 <color%3D#7e8285>[道具]</b>\r\n一扇简单的门。激活它以打开/关闭。
+
+r:"Radius: ([\d.]+)"="半径：$1"
+<color%3D#ffffff>Don't Sh<color%3D#3d3d3d>ow Radius=<color%3D#ffffff>不显<color%3D#3d3d3d>示半径
+Enable Control=启用控制
+Disable Control=禁用控制
+AI on=AI开启
+AI off=AI关闭
+Freeze Rotation=冻结旋转
+Unfreeze Rotation=解除冻结旋转
+Meatball=肉丸
+Play Idle Sound=播放空闲音效
+Stop Idle Sound=停止空闲音效
+Play Enraged Sound=播放愤怒音效
+Stop Enraged Sound=停止愤怒音效
+Enable AI=启用AI
+Disable AI=禁用AI
+Enable Speech=启用语音
+Disable Speech=禁用语音
+Enable Theme=启用主题
+Disable Theme=禁用主题
