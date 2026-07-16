@@ -12037,11 +12037,15 @@ SKINS=皮肤
 
 //右键菜单
 Kaioken Multiplier=界王拳倍率
-Kaioken Multiplier=界王拳倍率.
+Kaioken Multiplier.=界王拳倍率.
 Enable Fusion=启用合体
 Disable Fusion=禁用合体
 Toggle Fusion=切换合体
 Toggle Fusion.=切换合体.
+Unfuse=解除合体
+Unfuse.=解除合体.
+Unable to fuse. Characters must be on similar power levels.=无法合体. 角色的战斗力必须在相近水平.
+!Animation Framework isn't enabled, the Fusion Animation won't be played!="动画框架"模组未启用，合体动画将不会播放！
 Enable Aura=启用气场
 Disable Aura=禁用气场
 Toggle Aura=切换气场
