@@ -11876,6 +11876,7 @@ Ki Powers Volume=气能力音量
 Search...=搜索……
 Ki Blast=气功波
 Single-shot ki projectiles from the arms.=从双臂发出单发气功弹. 
+Damage output multiplier.=伤害输出倍率.
 Ki Blast  <size%3D70%><color%3D#444>Ki=气功波  <size%3D70%><color%3D#444>气
 r:"Granted Ki Blast to (.*?)\."="已向 $1 赋予气功波. "
 
@@ -11919,6 +11920,7 @@ r:"Granted Solar Flare to (.*?)\."="已向 $1 赋予太阳拳. "
 
 Ki Shield=气盾
 Protective ki barrier.=防护气墙.
+Shield diameter in meters.=护盾直径（米）。
 Ki Shield  <size%3D70%><color%3D#444>Defense=气盾 <size%3D70%><color%3D#444>防御
 r:"Granted Ki Shield to (.*?)\."="已向 $1 赋予气盾. "
 
@@ -11993,6 +11995,7 @@ r:"Granted Flight to (.*?)\."="已向 $1 赋予飞行. "
 
 Great Namekian Growth=那美克星巨大化
 Giant Namekian transformation.=那美克星巨大化变身.
+Giant form target height in meters.=巨大化形态目标高度（米）。
 Great Namekian Growth  <size%3D70%><color%3D#444>Physical=那美克星巨大化 <size%3D70%><color%3D#444>物理
 r:"Granted Great Namekian Growth to (.*?)\."="已向 $1 赋予那美克星巨大化. "
 
@@ -12012,6 +12015,8 @@ Damage Output=伤害输出
 Knockback=击退
 Nuke Shockwave=核爆冲击波
 Diameter=直径
+Blasts Amount=弹幕数量
+Target Size=目标大小
 //非赋予能力
 Ki Blast Barrage=气功弹幕
 Continuous rapid ki blasts from the arms.=从双臂连续快速发出气功弹幕. 
@@ -12063,7 +12068,19 @@ This item belongs to: Items.=此物品属于：物品.
 <b>[DBPU] Senzu Bean Bag</b>\r\nA bag full of Senzu Beans.=<b>[DBPU] 仙豆袋</b>\r\n装满仙豆的袋子. 
 <b>[DBPU] Senzu Bean</b>\r\nA magic Bean that has the ability to restore someone's state to it's peak.=<b>[DBPU] 仙豆</b>\r\n一种神奇的豆子，能将某人的状态恢复到巅峰. 
 <b>[DBPU] Earth Dragon Balls</b>\r\nShenron, grant me a wish!=<b>[DBPU] 地球龙珠</b>\r\n神龙，实现我的愿望吧！
-
+Balls!=球！
+The Dragon isn't feeling good today. Try again later.=神龙今天状态不佳. 请稍后再试.
+This doesn't work yet buddy. Wait for a future Update!=这个还没做好，哥们. 等待未来的更新吧！
+It seems that this Dragon Ball has a malfunction! Please contact the Namekians for technical help.=这颗龙珠似乎出现了故障！请联系那美克星人寻求技术帮助。
+Weird... it doesn't seem to do anything? Maybe we should wait for the Dragon to be added=奇怪……它似乎什么作用都没有？也许我们应该等神龙被添加进来。
+What does a Dragon Ball say the another when activated? It says 'WHERE THE HECK IS THAT DRAGON??'=一颗龙珠被激活时会对另一颗说什么？它会说“那条龙到底在哪？？”
+It didn't work the first time, why would you try another 10?=第一次都没成功了，你干嘛还要再试10次？
+Wait... something is happening... SOMETHING IS HAPPENING- oh wait... nah, it still doesn't work=等等……有什么在发生……有什么在发生——哦等等……不，还是不行.
+Knock Knock. Who's there? Not the Dragon!=咚咚. 谁呀？不是神龙！
+<i>*You try to summon the Dragon, but nothing happens</i>=<i>*你试图召唤神龙，但什么也没发生</i>
+I must agree, activating the Dragon Ball over an over again it's the best feature of this mod!=我必须承认，一遍又一遍地激活龙珠是这个模组最棒的功能！
+Well, this didn't work, maybe another try could solve it?=嗯，这个没成功，也许再试一次能解决？
+What does a Dragon Ball say to the another when activated? It says 'WHERE THE HECK IS THAT DRAGON??'=一颗龙珠被激活时会对另一颗说什么？它会说“那条龙到底在哪？？”
 
 
 //龙珠超
