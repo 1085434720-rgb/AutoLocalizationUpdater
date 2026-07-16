@@ -11788,3 +11788,308 @@ Toggles the borders of the camera viewport.=切换摄像头视口的边框.
 Set viewport size=设置视口大小
 Sets custom camera viewport size=设置自定义摄像头视口大小
 Sets custom camera viewport size.=设置自定义摄像头视口大小. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//217*龙珠游乐场终极版_DragonBall Playground Ultimate
+<noparse>DragonBall Playground Ultimate</noparse>=<noparse>龙珠游乐场终极版</noparse>
+<size%3D1.5em>DragonBall Playground Ultimate</size>\n\n<noparse>A mod by MC studios for game version 1.25+</noparse>=<size%3D1.5em>龙珠游乐场终极版</size>\n\n<noparse>由 MC studios 制作的模组，适用于游戏版本 1.25+</noparse>
+
+
+//物品栏
+<b>DragonBall Playground <color%3Dyellow>Ultimate<color%3Dwhite></b>.\r\n=<b>龙珠游乐场 <color%3Dyellow>终极版<color%3Dwhite></b>.\r\n
+
+
+//设置
+<b>[DBPU] Config</b>\r\nMod Configurations.=<b>[DBPU] 配置</b>\r\n模组配置. 
+Mod Configurations=模组配置
+
+Physical Configs=物理配置
+Physical Options=物理选项
+Health Multiplier=生命值倍率
+Can Destroy=可摧毁
+Impact Stop=冲击停止
+Reset to Default=重置为默认
+
+Ki Configs=气配置
+Ki Options=气选项
+Auras=气场
+Extra Charge=额外充能
+Ki Drain=气消耗
+Ki Regen=气恢复
+Ki Cost=气消耗
+Ki Charge=气充能
+
+Strain Configs=负荷配置
+Strain Options=负荷选项
+Strain Gain=负荷积累
+Strain Drain=负荷消耗
+Strain Damage=负荷伤害
+
+Beam Configs=光束配置
+Beams Options=光束选项
+Beam Force=光束力度
+Beam Speed=光束速度
+Beam Size=光束大小
+Can Delete=可删除
+Can Burn=可燃烧
+
+Special Configs=特殊配置
+Special Features Options=特殊功能选项
+Exponential Growth=指数增长
+
+Misc Configs=杂项配置
+Misc Options=杂项选项
+Voice Lines=语音台词
+Voice Lines Volume=语音台词音量
+Ki Powers Volume=气能力音量
+
+
+
+
+//能力赋予
+<b>[DBPU] Power Giver</b>\r\nGrant mod powers to any person. Select a power, then click them.=<b>[DBPU] 能力赋予器</b>\r\n给任何人赋予模组能力. 选择一种能力，然后点击他们. 
+Search...=搜索……
+Ki Blast=气功波
+Single-shot ki projectiles from the arms.=从双臂发出单发气功弹. 
+Ki Blast  <size%3D70%><color%3D#444>Ki=气功波  <size%3D70%><color%3D#444>气
+r:"Granted Ki Blast to (.*?)\."="已向 $1 赋予气功波. "
+
+Energy Wave=能量波
+Beam attack.=光束攻击.
+Energy Wave  <size%3D70%><color%3D#444>Beam=能量波  <size%3D70%><color%3D#444>光束
+r:"Granted Energy Wave to (.*?)\."="已向 $1 赋予能量波. "
+
+Kamehameha=龟派气功
+Kamehameha  <size%3D70%><color%3D#444>Beam=龟派气功  <size%3D70%><color%3D#444>光束
+r:"Granted Kamehameha to (.*?)\."="已向 $1 赋予龟派气功. "
+
+Galick Gun=加利克炮
+Galick Gun  <size%3D70%><color%3D#444>Beam=加利克炮  <size%3D70%><color%3D#444>光束
+r:"Granted Galick Gun to (.*?)\."="已向 $1 赋予加利克炮. "
+
+Final Flash=终极闪光
+Final Flash  <size%3D70%><color%3D#444>Beam=终极闪光  <size%3D70%><color%3D#444>光束
+r:"Granted Final Flash to (.*?)\."="已向 $1 赋予终极闪光. "
+
+Special Beam Cannon=魔贯光杀炮
+Special Beam Cannon  <size%3D70%><color%3D#444>Beam=魔贯光杀炮  <size%3D70%><color%3D#444>光束
+r:"Granted Special Beam Cannon to (.*?)\."="已向 $1 赋予魔贯光杀炮. "
+
+Full Force Kamehameha=全力龟派气功
+Full Force Kamehameha  <size%3D70%><color%3D#444>Beam=全力龟派气功 <size%3D70%><color%3D#444>光束
+r:"Granted Full Force Kamehameha to (.*?)\."="已向 $1 赋予全力龟派气功. "
+
+Gigantic Full Blast=巨型全力爆发
+Gigantic Full Blast  <size%3D70%><color%3D#444>Beam=巨型全力爆发 <size%3D70%><color%3D#444>光束
+r:"Granted Gigantic Full Blast to (.*?)\."="已向 $1 赋予巨型全力爆发. "
+
+Gigantic Roar=巨型咆哮
+Gigantic Roar  <size%3D70%><color%3D#444>Beam=巨型咆哮 <size%3D70%><color%3D#444>光束
+r:"Granted Gigantic Roar to (.*?)\."="已向 $1 赋予巨型咆哮. "
+
+Solar Flare=太阳拳
+Blinds nearby targets.=致盲附近目标. 
+Solar Flare  <size%3D70%><color%3D#444>Special=太阳拳 <size%3D70%><color%3D#444>特殊
+r:"Granted Solar Flare to (.*?)\."="已向 $1 赋予太阳拳. "
+
+Ki Shield=气盾
+Protective ki barrier.=防护气墙.
+Ki Shield  <size%3D70%><color%3D#444>Defense=气盾 <size%3D70%><color%3D#444>防御
+r:"Granted Ki Shield to (.*?)\."="已向 $1 赋予气盾. "
+
+Final Explosion=终极爆炸
+Self-destruct attack.=自爆攻击.
+Final Explosion  <size%3D70%><color%3D#444>Special=终极爆炸 <size%3D70%><color%3D#444>特殊
+r:"Granted Final Explosion to (.*?)\."="已向 $1 赋予终极爆炸. "
+
+Hellzone Granade=地狱弹幕
+Trap ki blasts in an area.=在区域内设置气功陷阱. 
+Hellzone Grenade  <size%3D70%><color%3D#444>Special=地狱弹幕 <size%3D70%><color%3D#444>特殊
+r:"Granted Hellzone Grenade to (.*?)\."="已向 $1 赋予地狱弹幕. "
+
+Gigantic Crusher=巨型粉碎弹
+Large ki sphere attack.=大型气功弹攻击. 
+Gigantic Crusher  <size%3D70%><color%3D#444>Ball=巨型粉碎弹 <size%3D70%><color%3D#444>弹丸
+r:"Granted Gigantic Crusher to (.*?)\."="已向 $1 赋予巨型粉碎弹. "
+
+Last Emperor=最终帝王
+Last Emperor  <size%3D70%><color%3D#444>Beam=最终帝王 <size%3D70%><color%3D#444>光束
+r:"Granted Last Emperor to (.*?)\."="已向 $1 赋予最终帝王. "
+
+Death Beam=死亡光束
+Finger beam attack.=手指光束攻击. 
+Death Beam  <size%3D70%><color%3D#444>Frieza=死亡光束 <size%3D70%><color%3D#444>弗利萨
+r:"Granted Death Beam to (.*?)\."="已向 $1 赋予死亡光束. "
+
+Death Ball=死亡弹
+Death Ball  <size%3D70%><color%3D#444>Frieza=死亡弹 <size%3D70%><color%3D#444>弗利萨
+r:"Granted Death Ball to (.*?)\."="已向 $1 赋予死亡弹. "
+
+Supernova=超新星
+Supernova  <size%3D70%><color%3D#444>Frieza=超新星 <size%3D70%><color%3D#444>弗利萨
+r:"Granted Supernova to (.*?)\."="已向 $1 赋予超新星. "
+
+Stardust Fall=星尘坠落
+Gogeta special technique.=悟吉塔特殊技. 
+Stardust Fall  <size%3D70%><color%3D#444>Gogeta=星尘坠落 <size%3D70%><color%3D#444>悟吉塔
+r:"Granted Stardust Fall to (.*?)\."="已向 $1 赋予星尘坠落. "
+
+Meteor Explosion=流星爆炸
+Meteor Explosion  <size%3D70%><color%3D#444>Gogeta=流星爆炸 <size%3D70%><color%3D#444>悟吉塔
+r:"Granted Meteor Explosion to (.*?)\."="已向 $1 赋予流星爆炸. "
+
+God Punisher=神之惩罚者
+God Punisher  <size%3D70%><color%3D#444>Gogeta=神之惩罚者 <size%3D70%><color%3D#444>悟吉塔
+r:"Granted God Punisher to (.*?)\."="已向 $1 赋予神之惩罚者. "
+
+Stardust Breaker=星尘粉碎者
+Stardust Breaker  <size%3D70%><color%3D#444>Gogeta=星尘粉碎者 <size%3D70%><color%3D#444>悟吉塔
+r:"Granted Stardust Breaker to (.*?)\."="已向 $1 赋予星尘粉碎者. "
+
+Punch Power=拳击力量
+Melee enhancement on arm contact.=手臂接触时近战强化.
+Punch Power  <size%3D70%><color%3D#444>Physical=拳击力量 <size%3D70%><color%3D#444>物理
+r:"Granted Punch Power to (.*?)\."="已向 $1 赋予拳击力量. "
+
+Kick Power=踢击力量
+Melee enhancement on leg contact.=腿部接触时近战强化. 
+Kick Power  <size%3D70%><color%3D#444>Physical=踢击力量 <size%3D70%><color%3D#444>物理
+r:"Granted Kick Power to (.*?)\."="已向 $1 赋予踢击力量. "
+
+Barrage=连续拳击
+Passive rapid projectile barrage (hold H).=被动快速弹幕（按住H）. 
+Barrage  <size%3D70%><color%3D#444>Physical=弹幕拳 <size%3D70%><color%3D#444>物理
+r:"Granted Barrage to (.*?)\."="已向 $1 赋予弹幕拳. "
+
+Flight=飞行
+Passive flight ability on the lower body.=下半身被动飞行能力. 
+Flight  <size%3D70%><color%3D#444>Physical=飞行 <size%3D70%><color%3D#444>物理
+r:"Granted Flight to (.*?)\."="已向 $1 赋予飞行. "
+
+Great Namekian Growth=那美克星巨大化
+Giant Namekian transformation.=那美克星巨大化变身.
+Great Namekian Growth  <size%3D70%><color%3D#444>Physical=那美克星巨大化 <size%3D70%><color%3D#444>物理
+r:"Granted Great Namekian Growth to (.*?)\."="已向 $1 赋予那美克星巨大化. "
+
+Instant Transmission=瞬间移动
+Teleport short distances.=短距离传送. 
+Instant Transmission  <size%3D70%><color%3D#444>Movement=瞬间移动 <size%3D70%><color%3D#444>移动
+r:"Granted Instant Transmission to (.*?)\."="已向 $1 赋予瞬间移动. "
+
+
+
+
+//能力菜单
+Powers Menu=<b>能力菜单</b>
+Powers Menu.=能力菜单.
+//配置
+Damage Output=伤害输出
+Knockback=击退
+Nuke Shockwave=核爆冲击波
+Diameter=直径
+//非赋予能力
+Ki Blast Barrage=气功弹幕
+Continuous rapid ki blasts from the arms.=从双臂连续快速发出气功弹幕. 
+
+
+
+//变身菜单
+Trasformations Menu=变身菜单
+Trasformations Menu.=变身菜单. 
+TRANSFORMATION=变身
+Clothing Damage=衣物损坏
+ACCEPT=接受
+
+
+//皮肤
+Skins Menu=皮肤菜单
+Skins Menu.=皮肤菜单. 
+SKINS=皮肤
+
+
+
+//物品
+<b>Items</b>\r\nDragon Ball Items.=<b>物品</b>\r\n龙珠物品. 
+This item belongs to: Items.=此物品属于：物品. 
+<b>[DBPU] Roshi's Staff</b>\r\nA simple but useful weapon, used by Master Roshi.=<b>[DBPU] 龟仙人手杖</b>\r\n一件简单但实用的武器，由龟仙人使用. 
+<b>[DBPU] Senzu Bean Bag</b>\r\nA bag full of Senzu Beans.=<b>[DBPU] 仙豆袋</b>\r\n装满仙豆的袋子. 
+<b>[DBPU] Senzu Bean</b>\r\nA magic Bean that has the ability to restore someone's state to it's peak.=<b>[DBPU] 仙豆</b>\r\n一种神奇的豆子，能将某人的状态恢复到巅峰. 
+<b>[DBPU] Earth Dragon Balls</b>\r\nShenron, grant me a wish!=<b>[DBPU] 地球龙珠</b>\r\n神龙，实现我的愿望吧！
+
+
+
+//龙珠超
+<b>DBS</b>\r\nDragon Ball Super Series.=<b>龙珠超</b>\r\n龙珠超系列. 
+This item belongs to: DBS.=此物品属于：龙珠超. 
+
+//布罗利剧场版
+<b>Broly Movie</b>\r\nBroly Movie Arc.=<b>布罗利剧场版</b>\r\n布罗利剧场版篇. 
+This item belongs to: Broly Movie.=此物品属于：布罗利剧场版. 
+<b>[DBPU] (BM) Goku</b>\r\nHey, It's me, Goku!=<b>[DBPU] (BM) 孙悟空</b>\r\n嘿，是我，孙悟空！
+<b>[DBPU] (BM) Vegeta</b>\r\nMeaningless, huh?! What do you know of meaningless?! Spend most of your life ruled by another! Watch your race dwindle to a handful! And then tell me what has more meaning then your own strength!=<b>[DBPU] (BM) 贝吉塔</b>\r\n毫无意义，哼？！你懂什么叫毫无意义？！大半辈子都活在别人的支配下！看着自己的种族凋零到只剩寥寥数人！然后你再告诉我，还有什么比自己的力量更有意义！
+<b>[DBPU] (BM) Gohan</b>\r\nI'm going to pursue an ultimate form that no Saiyan has ever achieved before. I won't rely on Super Saiyan transformations, instead, I'll find a different kind of ultimate power.=<b>[DBPU] (BM) 孙悟饭</b>\r\n我要追求一种前所未有的终极形态，不依赖超级赛亚人变身，而是找到另一种终极力量. 
+<b>[DBPU] (BM) Krillin</b>\r\nGOKUUUUU!!=<b>[DBPU] (BM) 克林</b>\r\n悟——空——！！
+<b>[DBPU] (BM) Master Roshi</b>\r\nWork hard, study well, and eat and sleep plenty! That is the Turtle Hermit way! We must master the art of peace in addition to the art of war! The Turtle Hermit School will be with you...always!=<b>[DBPU] (BM) 龟仙人</b>\r\n勤勉修行，刻苦学习，吃饱睡足！这就是龟仙流！除了武艺，我们还要掌握和平之道！龟仙流会一直与你们同在……永远！
+<b>[DBPU] (BM) Yamcha</b>\r\nI guess I'll just be on the sidelines... again.=<b>[DBPU] (BM) 雅木茶</b>\r\n看来我又只能在旁边看着了……又是这样. 
+<b>[DBPU] (BM) Tenshinhan</b>\r\nI HATE EVERYTHING ABOUT YOU, WHY DO I LOVE YOU.=<b>[DBPU] (BM) 天津饭</b>\r\n我恨你的一切，为什么我会爱上你. 
+<b>[DBPU] (BM) Piccolo</b>\r\nPiccolo, you need to stop aura farming!=<b>[DBPU] (BM) 比克</b>\r\n比克，你别再搁那爆气了！
+<b>[DBPU] (BM) Android 17</b>\r\nSacrificing myself to help others. I like human nature like that.=<b>[DBPU] (BM) 人造人17号</b>\r\n牺牲自己来帮助他人. 我喜欢这样的人性. 
+<b>[DBPU] (BM) Android 18</b>\r\nWhat are you staring at? Are you in love with me or something?=<b>[DBPU] (BM) 人造人18号</b>\r\n你在看什么？你爱上我了还是怎么的？
+<b>[DBPU] (BM) Kid Goten</b>.\r\n=<b>[DBPU] (BM) 小悟天</b>.\r\n
+<b>[DBPU] (BM) Kid Trunks</b>.\r\n=<b>[DBPU] (BM) 小特兰克斯</b>.\r\n
+<b>[DBPU] (BM) Broly</b>.\r\n=<b>[DBPU] (BM) 布罗利</b>.\r\n
+<b>[DBPU] (BM) Gogeta</b>.\r\n=<b>[DBPU] (BM) 悟吉塔</b>.\r\n
+<b>[DBPU] (BM) Whis</b>\r\nThe Angel attendant and martial arts teacher of Beerus, the God of Destruction. Whis moves faster than instant transmission and trains Goku and Vegeta on Beerus's planet.=<b>[DBPU] (BM) 维斯</b>\r\n破坏神比鲁斯的天使随从兼武术老师. 维斯的速度比瞬间移动还快，在比鲁斯的星球上训练孙悟空和贝吉塔. 
+<b>[DBPU] (BM) Beerus</b>\r\nThe God of Destruction of Universe 7.=<b>[DBPU] (BM) 比鲁斯</b>\r\n第七宇宙的破坏神. 
+<b>[DBPU] Chichi</b>\r\nGoku! You promised me we'd live a normal life! Fighting isn't normal!=<b>[DBPU] 琪琪</b>\r\n悟空！你答应过我要过普通人的生活！战斗才不普通！
+<b>[DBPU] Bulma</b>\r\nYou might be the Prince of Saiyans, but I'm the Queen of Attitude!=<b>[DBPU] 布尔玛</b>\r\n你也许是赛亚人的王子，但我是傲娇女王！
+<b>[DBPU] Cheelai</b>.\r\n=<b>[DBPU] 琪莱</b>.\r\n
+<b>[DBPU] Lemo</b>.\r\n=<b>[DBPU] 雷莫</b>.\r\n
+<b>[DBPU] Paragus</b>.\r\n=<b>[DBPU] 帕拉伽斯</b>.\r\n
+<b>[DBPU] Frieza</b>\r\nI am the Emperor of the Universe. Kneel before me!=<b>[DBPU] 弗利萨</b>\r\n我是宇宙帝王. 跪拜在我面前！
+
+//龙珠超：超级英雄
+<b>DBSSH</b>\r\nDragon Ball Super: Super Hero.=<b>龙珠超：超级人造人</b>\r\n龙珠超：超级人造人
+This item belongs to: DBSSH.=此物品属于：龙珠超：超级人造人. 
+<b>[DBPU] (DBSSH) Piccolo</b>\r\nPiccolo with his Power Awakened transformation from Dragon Ball Super: Super Hero.=<b>[DBPU] (DBSSH) 比克</b>\r\n来自《龙珠超：超级人造人》的比克，拥有力量觉醒形态. 
+<b>[DBPU] (DBSSH) Gohan</b>\r\nGohan from Dragon Ball Super: Super Hero, including his Beast transformation.=<b>[DBPU] (DBSSH) 孙悟饭</b>\r\n来自《龙珠超：超级人造人》的孙悟饭，包括其野兽形态. 
+<b>[DBPU] (DBSSH) Goku</b>\r\nHey, It's me, Goku!=<b>[DBPU] (DBSSH) 孙悟空</b>\r\n嘿，是我，孙悟空！
+<b>[DBPU] (DBSSH) Vegeta</b>\r\nMeaningless, huh?! What do you know of meaningless?! Spend most of your life ruled by another! Watch your race dwindle to a handful! And then tell me what has more meaning then your own strength!=<b>[DBPU] (DBSSH) 贝吉塔</b>\r\n毫无意义，哼？！你懂什么叫毫无意义？！大半辈子都活在别人的支配下！看着自己的种族凋零到只剩寥寥数人！然后你再告诉我，还有什么比自己的力量更有意义！
+<b>[DBPU] (DBSSH) Broly</b>.\r\n=<b>[DBPU] (DBSSH) 布罗利</b>.\r\n
+<b>[DBPU] (DBSSH) Krillin</b>\r\nGOKUUUUU!!=<b>[DBPU] (DBSSH) 克林</b>\r\n悟——空——！！
+<b>[DBPU] (DBSSH) Teen Goten</b>.\r\n=<b>[DBPU] (DBSSH) 少年悟天</b>.\r\n
+<b>[DBPU] (DBSSH) Teen Trunks</b>.\r\n=<b>[DBPU] (DBSSH) 少年特兰克斯</b>.\r\n
+<b>[DBPU] (DBSSH) Cell Max</b>\r\nThe colossal ultimate form from Dragon Ball Super: Super Hero, rampaging with overwhelming destructive power.=<b>[DBPU] (DBSSH) 沙鲁MAX</b>\r\n来自《龙珠超：超级人造人》的巨型终极形态，以压倒性的破坏力横冲直撞. 
+<b>[DBPU] (DBSSH) Whis</b>\r\nThe Angel attendant and martial arts teacher of Beerus, the God of Destruction. Whis moves faster than instant transmission and trains Goku and Vegeta on Beerus's planet.=<b>[DBPU] (DBSSH) 维斯</b>\r\n破坏神比鲁斯的天使随从兼武术老师. 维斯的速度比瞬间移动还快，在比鲁斯的星球上训练孙悟空和贝吉塔. 
+<b>[DBPU] (DBSSH) Beerus</b>\r\nThe God of Destruction of Universe 7.=<b>[DBPU] (DBSSH) 比鲁斯</b>\r\n第七宇宙的破坏神. 
+<b>[DBPU] (DBSSH) Bulma</b>\r\nYou might be the Prince of Saiyans, but I'm the Queen of Attitude!=<b>[DBPU] (DBSSH) 布尔玛</b>\r\n你也许是赛亚人的王子，但我是傲娇女王！
+<b>[DBPU] (DBSSH) Cheelai</b>.\r\n=<b>[DBPU] (DBSSH) 琪莱</b>.\r\n
+<b>[DBPU] (DBSSH) Lemo</b>.\r\n=<b>[DBPU] (DBSSH) 雷莫</b>.\r\n
+<b>[DBPU] (DBSSH) Dendê</b>\r\nThe young Namekian healer who tends the Lookout and supports Earth's defenders from the sidelines.=<b>[DBPU] (DBSSH) 丹迪</b>\r\n年轻的娜美克星治疗师，负责照料神殿并从旁支持地球的守护者们. 
+<b>[DBPU] (DBSSH) Gamma 1</b>\r\nOne of the Red Ribbon Army's new android supersoldiers from Dragon Ball Super: Super Hero.=<b>[DBPU] (DBSSH) 伽玛1号</b>\r\n来自《龙珠超：超级人造人》的红缎带军团新型人造人超级士兵之一. 
+<b>[DBPU] (DBSSH) Gamma 2</b>\r\nThe stronger of the Red Ribbon Army's Gamma android duo from Dragon Ball Super: Super Hero.=<b>[DBPU] (DBSSH) 伽玛2号</b>\r\n来自《龙珠超：超级人造人》的红缎带军团伽玛人造人二人组中较强的一个. 
