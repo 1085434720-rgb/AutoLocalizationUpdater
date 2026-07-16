@@ -11590,41 +11590,41 @@ Adds more grenades to the game which have different properties, looks and names 
 
 
 
-//212*泰坦陨落模组
+//212*泰坦陨落模组_Titanfall Mod
 <noparse>Titanfall Mod</noparse>=<noparse>泰坦陨落模组</noparse>
 Stand By For Titanfall!=泰坦陨落准备就绪！
-<size%3D1.5em>Titanfall Mod</size>\nHi, thief. \r\nYou need my code?\r\nOk, but provide a link to this mod.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease :)\r\n=<size%3D1.5em>泰坦陨落模组</size>\n嘿，小偷。\n你需要我的代码？\n好吧，但请提供此模组的链接.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n请 :)\n```
+<size%3D1.5em>Titanfall Mod</size>\nHi, thief. \r\nYou need my code?\r\nOk, but provide a link to this mod.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nPlease :)\r\n=<size%3D1.5em>泰坦陨落模组</size>\n嘿，小偷. \n你需要我的代码？\n好吧，但请提供此模组的链接.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n请 :)\n```
 <b>TitanFall</b>\r\n+TFall.=<b>泰坦陨落</b>\r\n+TFall.
-<b>Jack Cooper<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nBeginning his military career as a Rifleman in the Frontier Militia, he is the (eventual) Pilot of BT-7274 and ends up becoming a lynchpin of Operation Broadsword, specifically the hero of the Battle of Typhon.=<b>杰克·库珀<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n他作为边境军团的步枪兵开始了他的军事生涯，后来成为BT-7274的铁驭，并最终成为“阔剑行动”的关键人物，尤其是泰丰星战役的英雄。
-<b>Kuben Blisk<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nfKuben Blisk is a South African mercenary Pilot who served in the IMC's forces as a ranking commander and contracted mercenary. He is the leader of the Apex Predators, an infamous outfit of ruthless freelance Pilots.=<b>库本·布里斯克<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n库本·布里斯克是一名南非雇佣兵铁驭，曾在IMC部队中担任高级指挥官和签约雇佣兵。他是“ apex 猎杀者”的领袖，这是一个由冷酷无情的自由铁驭组成的臭名昭著的组织。
-<b>Tai Lastimosa<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nHailing from the Frontier planet Harmony, he was linked to Vanguard-Class Titan BT-7274 for 973 days before transferring control to Rifleman Jack Cooper, whom he mentored.=<b>泰·拉斯提莫沙<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n来自边境星球“和谐”，他与先锋级泰坦BT-7274连接了973天，之后将控制权移交给了他指导的步枪兵杰克·库珀。
-<b>Ash<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nOnce an elite Pilot, she was severely injured, and her mind was transferred to a robot body. She was subsequently hired by Kuben Blisk and joined the Apex Predators. After her defeat by jack cooper and BT 7274 on typon she was later rebuilt by Vinson Dynamics after the destruction of the Automated Testing Facility.=<b>艾许<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n她曾是一名精英铁驭，在严重受伤后，她的意识被转移到一个机器人身体中。随后她被库本·布里斯克雇佣并加入了 apex 猎杀者。在泰丰星上被杰克·库珀和BT-7274击败后，她在自动测试设施被摧毁后被文森动力公司重建。
+<b>Jack Cooper<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nBeginning his military career as a Rifleman in the Frontier Militia, he is the (eventual) Pilot of BT-7274 and ends up becoming a lynchpin of Operation Broadsword, specifically the hero of the Battle of Typhon.=<b>杰克·库珀<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n他作为边境军团的步枪兵开始了他的军事生涯，后来成为BT-7274的铁驭，并最终成为“阔剑行动”的关键人物，尤其是泰丰星战役的英雄. 
+<b>Kuben Blisk<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nfKuben Blisk is a South African mercenary Pilot who served in the IMC's forces as a ranking commander and contracted mercenary. He is the leader of the Apex Predators, an infamous outfit of ruthless freelance Pilots.=<b>库本·布里斯克<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n库本·布里斯克是一名南非雇佣兵铁驭，曾在IMC部队中担任高级指挥官和签约雇佣兵. 他是“ apex 猎杀者”的领袖，这是一个由冷酷无情的自由铁驭组成的臭名昭著的组织. 
+<b>Tai Lastimosa<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nHailing from the Frontier planet Harmony, he was linked to Vanguard-Class Titan BT-7274 for 973 days before transferring control to Rifleman Jack Cooper, whom he mentored.=<b>泰·拉斯提莫沙<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n来自边境星球“和谐”，他与先锋级泰坦BT-7274连接了973天，之后将控制权移交给了他指导的步枪兵杰克·库珀. 
+<b>Ash<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nOnce an elite Pilot, she was severely injured, and her mind was transferred to a robot body. She was subsequently hired by Kuben Blisk and joined the Apex Predators. After her defeat by jack cooper and BT 7274 on typon she was later rebuilt by Vinson Dynamics after the destruction of the Automated Testing Facility.=<b>艾许<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n她曾是一名精英铁驭，在严重受伤后，她的意识被转移到一个机器人身体中. 随后她被库本·布里斯克雇佣并加入了 apex 猎杀者. 在泰丰星上被杰克·库珀和BT-7274击败后，她在自动测试设施被摧毁后被文森动力公司重建. 
 <b>Viper<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>毒蛇<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
 <b>Kane<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>凯恩<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
 <b>Richter<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>里希特<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
-<b>MRVN<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThey are mechanical personnel intended for manufacturing and OTHER such routine tasks. They can be seen on many maps repairing machinery or simply walking around. They vary in appearance depending on the map - e.g. red Marvins intended for firefighting duties can be found on the map Demeter, and having different heads in War Games.=<b>MRVN<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n它们是用于制造和其他日常任务的机械人员。在许多地图上都可以看到它们修理机械或只是四处走动。它们的外观因地图而异——例如，在德墨忒尔地图上可以找到用于消防任务的红色MRVN，而在战争游戏中它们有不同的头部。
+<b>MRVN<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThey are mechanical personnel intended for manufacturing and OTHER such routine tasks. They can be seen on many maps repairing machinery or simply walking around. They vary in appearance depending on the map - e.g. red Marvins intended for firefighting duties can be found on the map Demeter, and having different heads in War Games.=<b>MRVN<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n它们是用于制造和其他日常任务的机械人员. 在许多地图上都可以看到它们修理机械或只是四处走动. 它们的外观因地图而异——例如，在德墨忒尔地图上可以找到用于消防任务的红色MRVN，而在战争游戏中它们有不同的头部. 
 <b>Stalker<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>潜行者<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
-<b>Tick<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nFour-legged drone that wanders close to enemies and detonates.\nPress F on head to make a boom.=<b>跳虫<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n四足无人机，会靠近敌人并引爆。\n按头部F键使其爆炸。
-<b>Tick from campaign<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nFour-legged drone that wanders close to enemies and detonates.\nPress F on head to make a boom.=<b>战役跳虫<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n四足无人机，会靠近敌人并引爆。\n按头部F键使其爆炸。
+<b>Tick<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nFour-legged drone that wanders close to enemies and detonates.\nPress F on head to make a boom.=<b>跳虫<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n四足无人机，会靠近敌人并引爆. \n按头部F键使其爆炸. 
+<b>Tick from campaign<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nFour-legged drone that wanders close to enemies and detonates.\nPress F on head to make a boom.=<b>战役跳虫<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n四足无人机，会靠近敌人并引爆. \n按头部F键使其爆炸. 
 <b>Militia Pilot<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>民兵铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
-<b>Grunt Militia Rifleman<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThe Riflemen are the main infantry of the Frontier Militia.=<b>民兵步枪兵<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n步枪兵是边境军团的主要步兵力量。
-<b>Grunt IMC Rifleman<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThe IMC Marine Corps is the primary infantry arm of the IMC Armed Services on The Frontier. Also nicknamed Grunts, the Marines are capable of providing support to Pilots and Titans in any situation.=<b>IMC步枪兵<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nIMC海军陆战队是IMC武装部队在边境的主要步兵力量。也被昵称为“步兵”，他们能够在任何情况下为铁驭和泰坦提供支援。
+<b>Grunt Militia Rifleman<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThe Riflemen are the main infantry of the Frontier Militia.=<b>民兵步枪兵<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n步枪兵是边境军团的主要步兵力量. 
+<b>Grunt IMC Rifleman<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThe IMC Marine Corps is the primary infantry arm of the IMC Armed Services on The Frontier. Also nicknamed Grunts, the Marines are capable of providing support to Pilots and Titans in any situation.=<b>IMC步枪兵<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nIMC海军陆战队是IMC武装部队在边境的主要步兵力量. 也被昵称为“步兵”，他们能够在任何情况下为铁驭和泰坦提供支援. 
 <b>Grunt IMC Heavy<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>IMC重装步兵<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
 <b>Grunt IMC Comms<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>IMC通讯兵<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
 <b>Grunt IMC Support<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>IMC支援兵<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
-<b>Pilot Pulse Blade<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThrowing knife with a sonar pulse that exposes enemies through all surfaces.=<b>脉冲刀刃铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n带有声纳脉冲的投掷刀，能透过所有表面暴露敌人。
-<b>Pilot Stim<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nQuickly heals you and boosts your speed for a short time.\n<b>Press on the head to use the ability</b>.=<b>兴奋剂铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n快速治疗你并在短时间内提升速度。\n<b>按头部使用能力</b>。
-<b>Pilot Grapple <color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nGrappling hook for getting to out of reach places quickly.\n<b>Press on the back lower arm to use the ability</b>.=<b>钩爪铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n用于快速到达难以触及之处的抓钩。\n<b>按后下臂使用能力</b>。
-<b>Pilot Phase Shift<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nPhase into an alternate space for a short time to avoid damage.\n<b>Press on the head to turn on/off the ability</b>.=<b>相位转移铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n短时间内相位进入另一个空间以规避伤害。\n<b>按头部开关能力</b>。
-<b>Pilot Cloak<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nBy activating Cloak, you immediately become nearly invisible to pilots, and completely invisible to all AI and enemy titans.\n<b>Press on the head to turn on/off the ability</b>.=<b>隐身铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n激活隐身，你立即对铁驭接近隐形，对所有人AI和敌方泰坦完全隐形。\n<b>按头部开关能力</b>。
-<b>Pilot A-Wall<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThe A-Wall, on use, will deploy an invincible particle wall that blocks incoming shots.=<b>A护盾铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n使用后，A护盾会部署一道无敌的粒子墙，阻挡来袭的射击。
-<b>Pilot Holo<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThe Holo Pilot's tactical ability, when used, will create a holographic clone of the user and will copy what they were doing at the time .The copy cannot fire at enemies and is not a physical object.=<b>全息铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n全息铁驭的战术能力，使用时会产生一个使用者的全息克隆体，并复制他们当时正在做的动作。克隆体无法射击敌人，也不是实体物体。
+<b>Pilot Pulse Blade<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThrowing knife with a sonar pulse that exposes enemies through all surfaces.=<b>脉冲刀刃铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n带有声纳脉冲的投掷刀，能透过所有表面暴露敌人. 
+<b>Pilot Stim<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nQuickly heals you and boosts your speed for a short time.\n<b>Press on the head to use the ability</b>.=<b>兴奋剂铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n快速治疗你并在短时间内提升速度. \n<b>按头部使用能力</b>. 
+<b>Pilot Grapple <color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nGrappling hook for getting to out of reach places quickly.\n<b>Press on the back lower arm to use the ability</b>.=<b>钩爪铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n用于快速到达难以触及之处的抓钩. \n<b>按后下臂使用能力</b>. 
+<b>Pilot Phase Shift<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nPhase into an alternate space for a short time to avoid damage.\n<b>Press on the head to turn on/off the ability</b>.=<b>相位转移铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n短时间内相位进入另一个空间以规避伤害. \n<b>按头部开关能力</b>. 
+<b>Pilot Cloak<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nBy activating Cloak, you immediately become nearly invisible to pilots, and completely invisible to all AI and enemy titans.\n<b>Press on the head to turn on/off the ability</b>.=<b>隐身铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n激活隐身，你立即对铁驭接近隐形，对所有人AI和敌方泰坦完全隐形. \n<b>按头部开关能力</b>. 
+<b>Pilot A-Wall<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThe A-Wall, on use, will deploy an invincible particle wall that blocks incoming shots.=<b>A护盾铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n使用后，A护盾会部署一道无敌的粒子墙，阻挡来袭的射击. 
+<b>Pilot Holo<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\nThe Holo Pilot's tactical ability, when used, will create a holographic clone of the user and will copy what they were doing at the time .The copy cannot fire at enemies and is not a physical object.=<b>全息铁驭<color%3Dblack> +TFallHumans.</color%3Dblack></b>\r\n全息铁驭的战术能力，使用时会产生一个使用者的全息克隆体，并复制他们当时正在做的动作. 克隆体无法射击敌人，也不是实体物体. 
 <b>Holographic clone<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n=<b>全息克隆体<color%3Dblack> +TFallHumans.</color%3Dblack></b>.\r\n
-<b>Jack Cooper Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\nThe legendary helmet of the no less legendary Jack Cooper.=<b>杰克·库珀头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\n属于同样传奇的杰克·库珀的传奇头盔。
+<b>Jack Cooper Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\nThe legendary helmet of the no less legendary Jack Cooper.=<b>杰克·库珀头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\n属于同样传奇的杰克·库珀的传奇头盔. 
 <b>Kane Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>凯恩头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Richter Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>里希特头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Richter Jump Kit<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>里希特跳跃装置<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
-<b>Viper Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\nThe legendary helmet of the no less legendary Viper.=<b>毒蛇头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\n属于同样传奇的毒蛇的传奇头盔。
+<b>Viper Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\nThe legendary helmet of the no less legendary Viper.=<b>毒蛇头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\n属于同样传奇的毒蛇的传奇头盔. 
 <b>Militia Pilot Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>民兵铁驭头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Grunt Militia Rifleman Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>民兵步枪兵头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Grunt Militia Backpack<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>民兵背包<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
@@ -11634,7 +11634,7 @@ Stand By For Titanfall!=泰坦陨落准备就绪！
 <b>Grunt IMC Heavy Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>IMC重装步兵头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Grunt IMC Comms Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>IMC通讯兵头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Grunt IMC Comms Backpack<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>IMC通讯兵背包<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
-<b>Jump Kit<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\nThe trusters what using for double jump and easy landings from hight places (Only pilot now how to use).=<b>跳跃装置<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\n用于二段跳和从高处轻松着陆的推进器（只有铁驭知道如何使用）。
+<b>Jump Kit<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\nThe trusters what using for double jump and easy landings from hight places (Only pilot now how to use).=<b>跳跃装置<color%3Dblack> +TFallArmor.</color%3Dblack></b>\r\n用于二段跳和从高处轻松着陆的推进器（只有铁驭知道如何使用）. 
 <b>Pilot Pulse Blade Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>脉冲刀刃铁驭头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Pilot Pulse Blade Jump Kit<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>脉冲刀刃铁驭跳跃装置<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Pilot Stim Jump Kit.png<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>兴奋剂铁驭跳跃装置.png<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
@@ -11648,31 +11648,31 @@ Stand By For Titanfall!=泰坦陨落准备就绪！
 <b>Pilot Holo Helmet<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>全息铁驭头盔<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Pilot Holo Jump Kit<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>全息铁驭跳跃装置<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
 <b>Gyroscope for Jump Kit<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n=<b>跳跃装置陀螺仪<color%3Dblack> +TFallArmor.</color%3Dblack></b>.\r\n
-<b>C.A.R. SMG<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nThe Combat Advanced Round Submachine Gun.=<b>C.A.R. 冲锋枪<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n战斗先进弹药冲锋枪。
+<b>C.A.R. SMG<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nThe Combat Advanced Round Submachine Gun.=<b>C.A.R. 冲锋枪<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n战斗先进弹药冲锋枪. 
 <b>R-6P Softball<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n =<b>R-6P 软球发射器<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n 
 <b>Mag Launcher<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n =<b>磁力发射器<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n 
 <b>Charge Rifle<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n=<b>充能步枪<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n
 <b>Archer<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n=<b>弓箭手<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n
 <b>LG-97 Thunderbolt<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n=<b>LG-97 雷霆<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n
-<b>Data Knife<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nThe knife used for hacking. An android can be hacked by hitting its upper body or head. It is also possible to hack turrets or mechanisms.\n<b>You can disable hacking and change the modifier for it in the RMB menu.</b>.=<b>数据刀<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n用于黑客攻击的刀。可以通过击打其上半身或头部来攻击安卓机器人。也可以黑入炮塔或机械装置。\n<b>你可以在右键菜单中禁用黑客功能并更改其修改器。</b>.
-<b>Arc Tool<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nArc Tool is a Pilot secondary weapon. It is used to gain base access. Carried by MRVN service robots in IMC facilities, it is used to fire an arc of energy into specially designed ports in machinery to charge it or to toggle its functions.=<b>电弧工具<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n电弧工具是铁驭的副武器。用于获得基地通行权限。由IMC设施中的MRVN服务机器人携带，用于向机械中特殊设计的端口发射能量弧，为其充能或切换其功能。
-<b>Smart Pistol MK6<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nThe next generation in AI targeting technology comes in the form of the Lastimosa Armory Smart Pistol MK6. Upgrades from the MK5 include a reciprocating charging handle, frame integrated ammo counter, multi-function Laser Aiming Module (LAM), improved ergonomics, an integrated stand-off muzzle, as well as improvements to the targeting capabilities. The SP MK6 is the choice of deep cover operatives, most infamously used by the Advocates in clandestine assassination operations.=<b>智能手枪 MK6<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nAI瞄准技术的下一代以拉斯提莫沙军械库的智能手枪MK6的形式出现。相比MK5的升级包括往复式拉机柄、框架集成弹药计数器、多功能激光瞄准模块（LAM）、改进的人体工程学、集成式枪口装置，以及瞄准能力的提升。SP MK6是深度潜伏特工的选择，最臭名昭著的是被“倡导者”用于秘密暗杀行动。
+<b>Data Knife<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nThe knife used for hacking. An android can be hacked by hitting its upper body or head. It is also possible to hack turrets or mechanisms.\n<b>You can disable hacking and change the modifier for it in the RMB menu.</b>.=<b>数据刀<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n用于黑客攻击的刀. 可以通过击打其上半身或头部来攻击安卓机器人. 也可以黑入炮塔或机械装置. \n<b>你可以在右键菜单中禁用黑客功能并更改其修改器. </b>.
+<b>Arc Tool<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nArc Tool is a Pilot secondary weapon. It is used to gain base access. Carried by MRVN service robots in IMC facilities, it is used to fire an arc of energy into specially designed ports in machinery to charge it or to toggle its functions.=<b>电弧工具<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n电弧工具是铁驭的副武器. 用于获得基地通行权限. 由IMC设施中的MRVN服务机器人携带，用于向机械中特殊设计的端口发射能量弧，为其充能或切换其功能. 
+<b>Smart Pistol MK6<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nThe next generation in AI targeting technology comes in the form of the Lastimosa Armory Smart Pistol MK6. Upgrades from the MK5 include a reciprocating charging handle, frame integrated ammo counter, multi-function Laser Aiming Module (LAM), improved ergonomics, an integrated stand-off muzzle, as well as improvements to the targeting capabilities. The SP MK6 is the choice of deep cover operatives, most infamously used by the Advocates in clandestine assassination operations.=<b>智能手枪 MK6<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nAI瞄准技术的下一代以拉斯提莫沙军械库的智能手枪MK6的形式出现. 相比MK5的升级包括往复式拉机柄、框架集成弹药计数器、多功能激光瞄准模块（LAM）、改进的人体工程学、集成式枪口装置，以及瞄准能力的提升. SP MK6是深度潜伏特工的选择，最臭名昭著的是被“倡导者”用于秘密暗杀行动. 
 <b>Pulse blade<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n=<b>脉冲刀刃<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n
-<b>Frag Grenade<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nA basic grenade that can be cooked. If cooked when you are killed, it will be dropped and will explode.=<b>破片手雷<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n一种可以延时引爆的基础手雷。如果你在被杀时正在延时，它会被掉落并爆炸。
+<b>Frag Grenade<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nA basic grenade that can be cooked. If cooked when you are killed, it will be dropped and will explode.=<b>破片手雷<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n一种可以延时引爆的基础手雷. 如果你在被杀时正在延时，它会被掉落并爆炸. 
 <b>Arc Grenade<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n=<b>电弧手雷<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n
-<b>Fire Star<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nFirestar is an incendiary throwing star that creates thermite on impact. The Firestar kills Pilots almost instantly when it hits them.=<b>火焰之星<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n火焰之星是一种燃烧投掷武器，撞击时产生铝热剂。火焰之星击中铁驭时几乎瞬间致命。
-<b>Gravity Star<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nAfter a short delay, the grenade generates a blurry purple field around it which pulls in enemies and projectiles before exploding. The Gravity star is especially useful as it can gather multiple enemies and trap them for you to pick off, and the final explosion will finish off the strong ones.=<b>重力之星<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n短暂延迟后，手雷周围产生一个模糊的紫色力场，在爆炸前吸引敌人和弹丸。重力之星尤其有用，因为它可以聚集多个敌人并将他们困住，让你逐个击破，最后的爆炸会解决掉强敌。
+<b>Fire Star<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nFirestar is an incendiary throwing star that creates thermite on impact. The Firestar kills Pilots almost instantly when it hits them.=<b>火焰之星<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n火焰之星是一种燃烧投掷武器，撞击时产生铝热剂. 火焰之星击中铁驭时几乎瞬间致命. 
+<b>Gravity Star<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nAfter a short delay, the grenade generates a blurry purple field around it which pulls in enemies and projectiles before exploding. The Gravity star is especially useful as it can gather multiple enemies and trap them for you to pick off, and the final explosion will finish off the strong ones.=<b>重力之星<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n短暂延迟后，手雷周围产生一个模糊的紫色力场，在爆炸前吸引敌人和弹丸. 重力之星尤其有用，因为它可以聚集多个敌人并将他们困住，让你逐个击破，最后的爆炸会解决掉强敌. 
 <b>Electric Smoke Grenade<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n=<b>电击烟雾手雷<color%3Dblack> +TFallWeapons.</color%3Dblack></b>.\r\n
-<b>Satchel<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nRemote for activating explosives.=<b>遥控器<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n用于引爆爆炸物的遥控器。
-<b>Satchel explosive<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nExplosives that are activated by the remote control.=<b>遥控炸药<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n由遥控器激活的爆炸物。
+<b>Satchel<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nRemote for activating explosives.=<b>遥控器<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n用于引爆爆炸物的遥控器. 
+<b>Satchel explosive<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\nExplosives that are activated by the remote control.=<b>遥控炸药<color%3Dblack> +TFallWeapons.</color%3Dblack></b>\r\n由遥控器激活的爆炸物. 
 <b>LG-97 Thunderbolt magazine<color%3Dblack> +TFallStuff.</color%3Dblack></b>.\r\n=<b>LG-97 雷霆弹匣<color%3Dblack> +TFallStuff.</color%3Dblack></b>.\r\n
 <b>Titan Power Cell<color%3Dblack> +TFallStuff.</color%3Dblack></b>.\r\n=<b>泰坦能量电池<color%3Dblack> +TFallStuff.</color%3Dblack></b>.\r\n
-<b>SERE kit<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nThe SERE (Survival Evasion Resistance Escape) Kit is a piece of equipment employed by the Frontier Militia's Special Recon Squadron. It consists of a Data Knife, Smart Pistol, and the corresponding Titan's AI core.=<b>SERE生存套件<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nSERE（生存、规避、抵抗、逃脱）套件是边境军团特种侦察中队使用的装备。它包含一把数据刀、一把智能手枪和对应泰坦的AI核心。
+<b>SERE kit<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nThe SERE (Survival Evasion Resistance Escape) Kit is a piece of equipment employed by the Frontier Militia's Special Recon Squadron. It consists of a Data Knife, Smart Pistol, and the corresponding Titan's AI core.=<b>SERE生存套件<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nSERE（生存、规避、抵抗、逃脱）套件是边境军团特种侦察中队使用的装备. 它包含一把数据刀、一把智能手枪和对应泰坦的AI核心. 
 <b>Titan AI Core<color%3Dblack> +TFallStuff.</color%3Dblack></b>.\r\n=<b>泰坦AI核心<color%3Dblack> +TFallStuff.</color%3Dblack></b>.\r\n
-<b>Drop Pod<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nDecoration.=<b>空降舱<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\n装饰品。
-<b>Boost Activator<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nBoosts are modifiers that pilots can use in combat.=<b>强化激活器<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\n强化是铁驭在战斗中可使用的修改器。
-<b>Hard Cover<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nTo create a shield, activate the stand and throw it onto any surface.=<b>硬质护盾<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\n要生成护盾，激活支架并将其投掷到任何表面。
-<b>A-Wall<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nTo create a shield, activate the stand and throw it onto any surface.=<b>A护盾<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\n要生成护盾，激活支架并将其投掷到任何表面。
+<b>Drop Pod<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nDecoration.=<b>空降舱<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\n装饰品. 
+<b>Boost Activator<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nBoosts are modifiers that pilots can use in combat.=<b>强化激活器<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\n强化是铁驭在战斗中可使用的修改器. 
+<b>Hard Cover<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nTo create a shield, activate the stand and throw it onto any surface.=<b>硬质护盾<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\n要生成护盾，激活支架并将其投掷到任何表面. 
+<b>A-Wall<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\nTo create a shield, activate the stand and throw it onto any surface.=<b>A护盾<color%3Dblack> +TFallStuff.</color%3Dblack></b>\r\n要生成护盾，激活支架并将其投掷到任何表面. 
 
 
 
@@ -11680,41 +11680,42 @@ Stand By For Titanfall!=泰坦陨落准备就绪！
 
 
 
-//213*可控马里奥
+//213*可控马里奥_Controllable Mario
 <noparse>Controllable Mario</noparse>=<noparse>可控马里奥</noparse>
 Nintendos most popular character now in people playground!=任天堂最受欢迎的角色现在来到了《People Playground》！
-<b>Mario Category</b>\r\nAll the mario stuff.=<b>马里奥分类</b>\r\n所有马里奥相关物品。
-<b>Mario -CM</b>\r\nMario, from mario.=<b>马里奥 -CM</b>\r\n马里奥，来自《马里奥》。
-<b>Cat Mario -CM</b>\r\nmeow.=<b>猫马里奥 -CM</b>\r\n喵。
-<b>Luigi -CM</b>\r\nLuigi, from mario.=<b>路易吉 -CM</b>\r\n路易吉，来自《马里奥》。
-<b>Goomba</b>\r\nMario's most iconic enemy, i think.=<b>板栗仔</b>\r\n马里奥最具代表性的敌人，我觉得。
-<b>Koopa</b>\r\nMario's second most iconic enemy, i think.=<b>诺库龟</b>\r\n马里奥第二代表性的敌人，我觉得。
-<b>Bowser</b>\r\nBowser. He needs no introduction.=<b>库巴</b>\r\n库巴。他不需要介绍。
-<b>Blocks Category</b>\r\nAll the mario blocks.=<b>方块分类</b>\r\n所有马里奥方块。
-<b>OW Brick Block</b>\r\nBuilding block for all mario levels.=<b>OW 砖块</b>\r\n所有马里奥关卡的建筑材料。
-<b>OW Floor Block</b>\r\nIdk what this block is supposed to be but it is used as the standard floor block... for some reason.=<b>OW 地板方块</b>\r\n我不知道这个方块该是什么，但它被用作标准地板方块……出于某种原因。
-<b>OW Metal Block</b>\r\nBlock of metal.=<b>OW 金属方块</b>\r\n金属方块。
-<b>OW Mountain Rocks</b>\r\nRocks from a mountain.=<b>OW 山岩</b>\r\n山上的岩石。
-<b>Spring</b>\r\nBuilding block for all mario levels.=<b>弹簧</b>\r\n所有马里奥关卡的建筑材料。
-<b>Empty Block</b>\r\nEmpty power up block.=<b>空方块</b>\r\n空的强化道具方块。
-<b>UW Brick Block</b>\r\nBuilding block for all mario levels.=<b>UW 砖块</b>\r\n所有马里奥关卡的建筑材料。
-<b>UW Floor Block</b>\r\nFlooring from underground.=<b>UW 地板方块</b>\r\n来自地下的地板。
-<b>UW Metal Block</b>\r\nBlock of metal from underground.=<b>UW 金属方块</b>\r\n来自地下的金属方块。
-<b>UW Mountain Rocks</b>\r\nRocks from an underground mountain.=<b>UW 山岩</b>\r\n来自地下山脉的岩石。
+<b>Mario Category</b>\r\nAll the mario stuff.=<b>马里奥分类</b>\r\n所有马里奥相关物品. 
+<b>Mario -CM</b>\r\nMario, from mario.=<b>马里奥 -CM</b>\r\n马里奥，来自《马里奥》. 
+<b>Cat Mario -CM</b>\r\nmeow.=<b>猫马里奥 -CM</b>\r\n喵. 
+<b>Luigi -CM</b>\r\nLuigi, from mario.=<b>路易吉 -CM</b>\r\n路易吉，来自《马里奥》. 
+<b>Goomba</b>\r\nMario's most iconic enemy, i think.=<b>板栗仔</b>\r\n马里奥最具代表性的敌人，我觉得. 
+<b>Koopa</b>\r\nMario's second most iconic enemy, i think.=<b>诺库龟</b>\r\n马里奥第二代表性的敌人，我觉得. 
+<b>Bowser</b>\r\nBowser. He needs no introduction.=<b>库巴</b>\r\n库巴. 他不需要介绍. 
+<b>Blocks Category</b>\r\nAll the mario blocks.=<b>方块分类</b>\r\n所有马里奥方块. 
+<b>OW Brick Block</b>\r\nBuilding block for all mario levels.=<b>OW 砖块</b>\r\n所有马里奥关卡的建筑材料. 
+<b>OW Floor Block</b>\r\nIdk what this block is supposed to be but it is used as the standard floor block... for some reason.=<b>OW 地板方块</b>\r\n我不知道这个方块该是什么，但它被用作标准地板方块……出于某种原因. 
+<b>OW Metal Block</b>\r\nBlock of metal.=<b>OW 金属方块</b>\r\n金属方块. 
+<b>OW Mountain Rocks</b>\r\nRocks from a mountain.=<b>OW 山岩</b>\r\n山上的岩石. 
+<b>Spring</b>\r\nBuilding block for all mario levels.=<b>弹簧</b>\r\n所有马里奥关卡的建筑材料. 
+<b>Empty Block</b>\r\nEmpty power up block.=<b>空方块</b>\r\n空的强化道具方块. 
+<b>UW Brick Block</b>\r\nBuilding block for all mario levels.=<b>UW 砖块</b>\r\n所有马里奥关卡的建筑材料. 
+<b>UW Floor Block</b>\r\nFlooring from underground.=<b>UW 地板方块</b>\r\n来自地下的地板. 
+<b>UW Metal Block</b>\r\nBlock of metal from underground.=<b>UW 金属方块</b>\r\n来自地下的金属方块. 
+<b>UW Mountain Rocks</b>\r\nRocks from an underground mountain.=<b>UW 山岩</b>\r\n来自地下山脉的岩石. 
 <b>Castle Mountain Rocks</b>\r\nRocks from an underground.. mountain.. castle?=<b>城堡山岩</b>\r\n来自地下……山脉……城堡的岩石？
-<b>castle Brick</b>\r\nBricks in a castle.=<b>城堡砖块</b>\r\n城堡中的砖块。
-<b>castle Floors</b>\r\nFloors in a castle.=<b>城堡地板</b>\r\n城堡中的地板。
-<b>Castle Metal</b>\r\nThe Metal tile found in bowser's castles.=<b>城堡金属</b>\r\n库巴城堡中的金属瓷砖。
+<b>castle Brick</b>\r\nBricks in a castle.=<b>城堡砖块</b>\r\n城堡中的砖块. 
+<b>castle Floors</b>\r\nFloors in a castle.=<b>城堡地板</b>\r\n城堡中的地板. 
+<b>Castle Metal</b>\r\nThe Metal tile found in bowser's castles.=<b>城堡金属</b>\r\n库巴城堡中的金属瓷砖. 
 <b>Bush</b>\r\ntotally not a reskinned cloud...=<b>灌木</b>\r\n绝对不是换皮的云……
 <b>Cloud</b>\r\ntotally not a reskinned bush...=<b>云朵</b>\r\n绝对不是换皮的灌木……
-<b>OW Background</b>\r\nThe standard background for overworld levels.=<b>OW 背景</b>\r\n地上关卡的标准背景。
-<b>UW Background</b>\r\nThe standard background for underworld levels.=<b>UW 背景</b>\r\n地下关卡的标准背景。
-<b>Two-way Pipe</b>\r\nPipe.=<b>双向管道</b>\r\n管道。
-<b>Power Up Category</b>\r\nAll the mario Power Ups.=<b>强化道具分类</b>\r\n所有马里奥强化道具。
-<b>Power Up (Holding a Mushroom)</b>\r\nPower Up block.=<b>强化道具（蘑菇）</b>\r\n强化道具方块。
-<b>Power Up (Holding A Fire Flower)</b>\r\nPower Up block.=<b>强化道具（火焰花）</b>\r\n强化道具方块。
-<b>Power Up (Holding A Coin)</b>\r\nPower Up block.=<b>强化道具（金币）</b>\r\n强化道具方块。
-<b>Coin</b>\r\nGolden coin. Must weigh a lot.=<b>金币</b>\r\n金币。一定很重。
+<b>OW Background</b>\r\nThe standard background for overworld levels.=<b>OW 背景</b>\r\n地上关卡的标准背景. 
+<b>UW Background</b>\r\nThe standard background for underworld levels.=<b>UW 背景</b>\r\n地下关卡的标准背景. 
+<b>Two-way Pipe</b>\r\nPipe.=<b>双向管道</b>\r\n管道. 
+<b>Power Up Category</b>\r\nAll the mario Power Ups.=<b>强化道具分类</b>\r\n所有马里奥强化道具. 
+<b>Power Up (Holding a Mushroom)</b>\r\nPower Up block.=<b>强化道具（蘑菇）</b>\r\n强化道具方块. 
+<b>Power Up (Holding A Fire Flower)</b>\r\nPower Up block.=<b>强化道具（火焰花）</b>\r\n强化道具方块. 
+<b>Power Up (Holding A Coin)</b>\r\nPower Up block.=<b>强化道具（金币）</b>\r\n强化道具方块. 
+<b>Coin</b>\r\nGolden coin. Must weigh a lot.=<b>金币</b>\r\n金币. 一定很重. 
+A for left, D for right, W for jump, F to shoot fireballs, E or Q to place blocks, and left click to deselect current block=A向左，D向右，W跳跃，F发射火球，E或Q放置方块，左键取消选择当前方块
 Q and E to place blocks, alt to free move block=按Q和E放置方块，按Alt自由移动方块
 Drag click to place=拖拽点击放置
 
@@ -11727,11 +11728,63 @@ Drag click to place=拖拽点击放置
 
 
 
-//214*可控索尼克
+//214*可控索尼克_Controllable Sonic
 <noparse>Controllable Sonic</noparse>=<noparse>可控索尼克</noparse>
-Controllable sonic, for all your hedgehog needs.=可控索尼克，满足你对刺猬的一切需求。
-<b>Sonic Entities</b>\r\nAll of the entities in Sonic.=<b>索尼克实体</b>\r\n索尼克中的所有实体。
-<b>Miles 'Tails' Prower</b>\r\nMiles 'Tails' Prower. Thats his name.=<b>迈尔斯·“塔尔斯”·普劳尔</b>\r\n迈尔斯·“塔尔斯”·普劳尔。这就是他的名字。
-<b>Sonic The Hedgehog</b>\r\nThe one and only blue hedgehog. Can also run fast ig.=<b>索尼克</b>\r\n独一无二的蓝色刺猬。跑得也很快，大概吧。
+Controllable sonic, for all your hedgehog needs.=可控索尼克，满足你对刺猬的一切需求. 
+<b>Sonic Entities</b>\r\nAll of the entities in Sonic.=<b>索尼克实体</b>\r\n索尼克中的所有实体. 
+<b>Miles 'Tails' Prower</b>\r\nMiles 'Tails' Prower. Thats his name.=<b>迈尔斯·“塔尔斯”·普劳尔</b>\r\n迈尔斯·“塔尔斯”·普劳尔. 这就是他的名字. 
+<b>Sonic The Hedgehog</b>\r\nThe one and only blue hedgehog. Can also run fast ig.=<b>索尼克</b>\r\n独一无二的蓝色刺猬. 跑得也很快，大概吧. 
 jump=跳跃
 crouch=蹲伏
+
+
+
+
+
+
+
+
+
+
+//215*雷达制导发射系统_Radar-Guided Launcher System
+<noparse>Radar-Guided Launcher System</noparse>=<noparse>雷达制导发射系统</noparse>
+<b>Launcher System</b>\r\nLauncher with a linked radar.=<b>发射系统</b>\r\n带有联动雷达的发射器.
+Configure=配置
+Open missile launcher settings menu=打开导弹发射器设置菜单
+Open missile launcher settings menu.=打开导弹发射器设置菜单. 
+Set Group ID=设置组ID
+Click and type a number to change this launcher's group ID=点击并输入数字以更改此发射器的组ID
+Click and type a number to change this launcher's group ID.=点击并输入数字以更改此发射器的组ID. 
+Launcher Settings=发射器设置
+fire on detection :=检测时开火：
+Set Proxyfuse :=设置近炸引信：
+follow mouse : =跟随鼠标：
+Set Scan Speed : 0=设置扫描速度 ：0
+r:"Set Missile Speed Scale : ([\d.]+)"="设置导弹速度倍率：$1"
+r:"Set Missile Delay : ([\d.]+)"="设置导弹延迟：$1"
+r:"Set Cooldown \(per object\) : ([\d.]+)"="设置冷却（每个物体）：$1"
+r:"Set Cooldown \(per system\) : ([\d.]+)"="设置冷却（每个系统）：$1"
+r:"Set Radar Ray current Angle : ([\d.]+)"="设置雷达射线当前角度 ：$1"
+r:"Set Scan Speed : ([\d.]+)"="设置扫描速度 ：$1"
+r:"Set Scan Angle Range : \(([-\d.]+), ([\d.]+)\)"="设置扫描角度范围：（$1, $2）"
+
+
+
+
+
+
+
+//216*闭路电视摄像头模组_CCTV Camera Mod
+<noparse>CCTV Camera Mod</noparse>=<noparse>闭路电视摄像头模组</noparse>
+Adds functional CCTV cameras and monitors.=添加了可用的闭路电视摄像头和监视器. 
+<size%3D1.5em>CCTV Camera Mod</size>\nThis mod will add functional CCTV cameras!\r\n\r\nTo connect a camera to a monitor, select the "CCTV Link" tool and connect any part of the camera to the monitor. A maximum of 16 cameras can be connected to the monitor.\r\n\r\nYou can change the size of the camera viewport in the context menu.\r\n\r\nItems from the modification are compatible with saves.=<size%3D1.5em>闭路电视摄像头模组</size>\n这个模组将添加可用的闭路电视摄像头！\r\n\r\n要将摄像头连接到监视器，请选择“CCTV连接”工具，并将摄像头的任意部分连接到监视器. 最多可将16个摄像头连接到监视器. \r\n\r\n您可以在上下文菜单中更改摄像头视口的大小. \r\n\r\n模组中的物品与存档兼容. 
+<b>CCTV Monitor (Full HD) -CCTVCM</b>\r\nCCTV monitor with a resolution of 1920x1080.=<b>CCTV监视器（全高清） -CCTVCM</b>\r\n分辨率1920x1080的CCTV监视器. 
+<b>CCTV Camera -CCTVCM</b>\r\nA CCTV camera.=<b>CCTV摄像头 -CCTVCM</b>\r\n一个CCTV摄像头. 
+<b>CCTV Link</b>.\n=<b>CCTV连接</b>.\n
+Show viewport=显示视口
+Hide viewport=隐藏视口
+Toggles the borders of the camera viewport=切换摄像头视口的边框
+Toggles the borders of the camera viewport.=切换摄像头视口的边框. 
+Set viewport size=设置视口大小
+Sets custom camera viewport size=设置自定义摄像头视口大小
+Sets custom camera viewport size.=设置自定义摄像头视口大小. 
