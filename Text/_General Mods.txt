@@ -12033,6 +12033,25 @@ SKINS=皮肤
 
 
 
+
+
+//右键菜单
+Kaioken Multiplier=界王拳倍率
+Kaioken Multiplier=界王拳倍率.
+Enable Fusion=启用合体
+Disable Fusion=禁用合体
+Toggle Fusion=切换合体
+Toggle Fusion.=切换合体.
+Enable Aura=启用气场
+Disable Aura=禁用气场
+Toggle Aura=切换气场
+Choose the Kaioken Multiplier=选择界王拳倍率
+Sound=声音
+Aura=气场
+
+
+
+
 //物品
 <b>Items</b>\r\nDragon Ball Items.=<b>物品</b>\r\n龙珠物品. 
 This item belongs to: Items.=此物品属于：物品. 
