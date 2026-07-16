@@ -12312,43 +12312,43 @@ This item belongs to: DBSSH.=此物品属于：龙珠超：超级人造人.
 Adds many scps with different abilities=添加了许多具有不同能力的SCP
 <size%3D1.5em>Cam's SCP Mod</size>\n<align%3D"center"><color%3D#6e747d>Ca<color%3D#a1a9b5>m's <color%3D#c3cbd6>SCP <color%3D#a1a9b5>M<color%3D#6e747d>od<color%3D"white">\r\n\r\nV1.0 beta\r\n\r\nAdds many scps\r\n\r\nWell, not that many yet\r\n=<size%3D1.5em>Cam的SCP模组</size>\n<align%3D"center"><color%3D#6e747d>Ca<color%3D#a1a9b5>m的<color%3D#c3cbd6>SCP<color%3D#a1a9b5>模<color%3D#6e747d>组<color%3D"white">\r\n\r\nV1.0 beta\r\n\r\n添加了许多SCP\r\n\r\n嗯，其实还没有那么多\r\n
 //物品注册
-<b>SCP Mod</b>\r\nSecure. Contain. Protect.=<b>SCP模组</b>\r\n收容。控制。保护。
+<b>SCP Mod</b>\r\nSecure. Contain. Protect.=<b>SCP模组</b>\r\n收容. 控制. 保护. 
 
-<b>SCP-131 <color%3D#52ff7a>[Safe]</b>\r\nSCP-131-A and SCP-131-B (affectionately nicknamed the Eye Pods by personnel) are a pair of teardrop-shaped creatures roughly 30 cm (1 ft) in height, with a single blue eye in the middle of their bodies. Able to stop SCP-173 from attacking if near them.=<b>SCP-131 <color%3D#52ff7a>[Safe]</b>\r\nSCP-131-A和SCP-131-B（被人员亲切地称为“眼豆”）是一对泪滴形生物，高约30厘米，身体中央有一只蓝色眼睛。如果它们靠近SCP-173，能够阻止其攻击。
+<b>SCP-131 <color%3D#52ff7a>[Safe]</b>\r\nSCP-131-A and SCP-131-B (affectionately nicknamed the Eye Pods by personnel) are a pair of teardrop-shaped creatures roughly 30 cm (1 ft) in height, with a single blue eye in the middle of their bodies. Able to stop SCP-173 from attacking if near them.=<b>SCP-131 <color%3D#52ff7a>[Safe]</b>\r\nSCP-131-A和SCP-131-B（被人员亲切地称为“眼豆”）是一对泪滴形生物，高约30厘米，身体中央有一只蓝色眼睛. 如果它们靠近SCP-173，能够阻止其攻击. 
 
-<b>SCP-1867 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1867 is a nudibranch of the species Nembrotha kubaryana (variable neon slug), measuring 11.7 cm (4.6 inches) in length. There are no physical differences between SCP-1867 and any other member of its species.=<b>SCP-1867 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1867是一种名为“Nembrotha kubaryana”（可变霓虹海蛞蝓）的海蛞蝓，体长11.7厘米。SCP-1867与该物种的其他个体没有物理差异。
+<b>SCP-1867 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1867 is a nudibranch of the species Nembrotha kubaryana (variable neon slug), measuring 11.7 cm (4.6 inches) in length. There are no physical differences between SCP-1867 and any other member of its species.=<b>SCP-1867 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1867是一种名为“Nembrotha kubaryana”（可变霓虹海蛞蝓）的海蛞蝓，体长11.7厘米. SCP-1867与该物种的其他个体没有物理差异. 
 
-<b>SCP-1356 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1356 is a small bath toy, resembling one of several generic rubber duck designs. Tests indicate that the object is made of plasticized polyvinyl chloride. It is designed to emit a sharp squeak when squeezed.=<b>SCP-1356 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1356是一个小型沐浴玩具，外观类似于常见的橡胶鸭子造型。测试表明该物品由塑化聚氯乙烯制成。其设计为在被挤压时发出尖锐的吱吱声。
+<b>SCP-1356 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1356 is a small bath toy, resembling one of several generic rubber duck designs. Tests indicate that the object is made of plasticized polyvinyl chloride. It is designed to emit a sharp squeak when squeezed.=<b>SCP-1356 <color%3D#52ff7a>[Safe]</b>\r\nSCP-1356是一个小型沐浴玩具，外观类似于常见的橡胶鸭子造型. 测试表明该物品由塑化聚氯乙烯制成. 其设计为在被挤压时发出尖锐的吱吱声. 
 
-<b>SCP-999 <color%3D#52ff7a>[Safe]</b>\r\nSCP-999 appears to be a large, amorphous, gelatinous mass of translucent orange slime, weighing about 54 kg (120 lbs) with a consistency similar to that of peanut butter.=<b>SCP-999 <color%3D#52ff7a>[Safe]</b>\r\nSCP-999看起来像是一大团不定形的半透明橙色凝胶状粘液，重约54公斤，质地类似于花生酱。
+<b>SCP-999 <color%3D#52ff7a>[Safe]</b>\r\nSCP-999 appears to be a large, amorphous, gelatinous mass of translucent orange slime, weighing about 54 kg (120 lbs) with a consistency similar to that of peanut butter.=<b>SCP-999 <color%3D#52ff7a>[Safe]</b>\r\nSCP-999看起来像是一大团不定形的半透明橙色凝胶状粘液，重约54公斤，质地类似于花生酱. 
 
-<b>SCP-079 <color%3D#ffd738>[Euclid]</b>\r\nSCP-079 is an Exidy Sorcerer microcomputer built in 1978. In 1981, its owner, █████ ██████ (deceased), a college sophomore attending ███, took it upon himself to attempt to code an AI.=<b>SCP-079 <color%3D#ffd738>[Euclid]</b>\r\nSCP-079是一台1978年制造的Exidy Sorcerer微型计算机。1981年，其所有者█████ ██████（已故）——当时是███大学二年级学生——自行尝试编写一个人工智能程序。
+<b>SCP-079 <color%3D#ffd738>[Euclid]</b>\r\nSCP-079 is an Exidy Sorcerer microcomputer built in 1978. In 1981, its owner, █████ ██████ (deceased), a college sophomore attending ███, took it upon himself to attempt to code an AI.=<b>SCP-079 <color%3D#ffd738>[Euclid]</b>\r\nSCP-079是一台1978年制造的Exidy Sorcerer微型计算机. 1981年，其所有者█████ ██████（已故）——当时是███大学二年级学生——自行尝试编写一个人工智能程序. 
 
-<b>SCP-173 <color%3D#ffd738>[Euclid]</b>\r\nMoved to Site-19 1993. Origin is as of yet unknown. It is constructed from concrete and rebar with traces of Krylon brand spray paint. SCP-173 is animate and extremely hostile.=<b>SCP-173 <color%3D#ffd738>[Euclid]</b>\r\n于1993年转移至Site-19。来源至今未知。它由混凝土和钢筋构成，并带有Krylon品牌喷漆痕迹。SCP-173具有生命且极具敌意。
+<b>SCP-173 <color%3D#ffd738>[Euclid]</b>\r\nMoved to Site-19 1993. Origin is as of yet unknown. It is constructed from concrete and rebar with traces of Krylon brand spray paint. SCP-173 is animate and extremely hostile.=<b>SCP-173 <color%3D#ffd738>[Euclid]</b>\r\n于1993年转移至Site-19. 来源至今未知. 它由混凝土和钢筋构成，并带有Krylon品牌喷漆痕迹. SCP-173具有生命且极具敌意. 
 
-<b>SCP-066 <color%3D#ffd738>[Euclid]</b>\r\nSCP-066 is an amorphous mass of braided yarn and ribbon weighing approximately one kilogram. Strands of SCP-066 may be taken individually and manipulated; when this is done, a note on the diatonic scale (C-D-E-F-G-A-B) is produced by the object.=<b>SCP-066 <color%3D#ffd738>[Euclid]</b>\r\nSCP-066是一团由编织纱线和丝带构成的无定形物，重约一公斤。SCP-066的线股可以被单独取下并操作；此时该物体会发出自然音阶（C-D-E-F-G-A-B）上的音符。
+<b>SCP-066 <color%3D#ffd738>[Euclid]</b>\r\nSCP-066 is an amorphous mass of braided yarn and ribbon weighing approximately one kilogram. Strands of SCP-066 may be taken individually and manipulated; when this is done, a note on the diatonic scale (C-D-E-F-G-A-B) is produced by the object.=<b>SCP-066 <color%3D#ffd738>[Euclid]</b>\r\nSCP-066是一团由编织纱线和丝带构成的无定形物，重约一公斤. SCP-066的线股可以被单独取下并操作；此时该物体会发出自然音阶（C-D-E-F-G-A-B）上的音符. 
 
-<b>SCP-096 WIP <color%3D#ffd738>[Euclid]</b>\r\nSCP-096 is normally extremely docile. However, when someone views SCP-096's face, whether it be directly, via video recording, or even a photograph, SCP-096 will begin running to the person who viewed its face and kill them.=<b>SCP-096 制作中 <color%3D#ffd738>[Euclid]</b>\r\nSCP-096通常极为温顺。然而，当有人看到SCP-096的脸时，无论是直接观看、通过录像还是甚至照片，SCP-096都会开始跑向看到其面容的人并杀死他们。
+<b>SCP-096 WIP <color%3D#ffd738>[Euclid]</b>\r\nSCP-096 is normally extremely docile. However, when someone views SCP-096's face, whether it be directly, via video recording, or even a photograph, SCP-096 will begin running to the person who viewed its face and kill them.=<b>SCP-096 制作中 <color%3D#ffd738>[Euclid]</b>\r\nSCP-096通常极为温顺. 然而，当有人看到SCP-096的脸时，无论是直接观看、通过录像还是甚至照片，SCP-096都会开始跑向看到其面容的人并杀死他们. 
 
-<b>SCP-457 WIP <color%3D#ffd738>[Euclid]</b>\r\nFor all points and purposes, SCP-457 appears to be a sentient being composed of flame. SCP-457's actual composition is unknown, and has proven to be invisible and undetectable by any known means, but is shaped out by the flames it produces.=<b>SCP-457 制作中 <color%3D#ffd738>[Euclid]</b>\r\n从各方面来看，SCP-457似乎是一个由火焰组成的智能存在。SCP-457的实际构成未知，并且已被证明在任何已知手段下都不可见且无法探测，但其形状由其产生的火焰勾勒出来。
+<b>SCP-457 WIP <color%3D#ffd738>[Euclid]</b>\r\nFor all points and purposes, SCP-457 appears to be a sentient being composed of flame. SCP-457's actual composition is unknown, and has proven to be invisible and undetectable by any known means, but is shaped out by the flames it produces.=<b>SCP-457 制作中 <color%3D#ffd738>[Euclid]</b>\r\n从各方面来看，SCP-457似乎是一个由火焰组成的智能存在. SCP-457的实际构成未知，并且已被证明在任何已知手段下都不可见且无法探测，但其形状由其产生的火焰勾勒出来. 
 
-<b>SCP-106 <color%3D#ff4f19>[Keter]</b>\r\nSCP-106 appears to be an elderly humanoid, with a general appearance of advanced decomposition. This appearance may vary, but the “rotting” quality is observed in all forms. SCP-106 is not exceptionally agile, and will remain motionless for days at a time, waiting for prey.=<b>SCP-106 <color%3D#ff4f19>[Keter]</b>\r\nSCP-106看起来像一个年老的人形实体，外观呈现高度腐烂状态。其外观可能有所不同，但“腐烂”的特征在所有形态中均可观察到。SCP-106并不特别敏捷，会连续数天保持静止，等待猎物。
+<b>SCP-106 <color%3D#ff4f19>[Keter]</b>\r\nSCP-106 appears to be an elderly humanoid, with a general appearance of advanced decomposition. This appearance may vary, but the “rotting” quality is observed in all forms. SCP-106 is not exceptionally agile, and will remain motionless for days at a time, waiting for prey.=<b>SCP-106 <color%3D#ff4f19>[Keter]</b>\r\nSCP-106看起来像一个年老的人形实体，外观呈现高度腐烂状态. 其外观可能有所不同，但“腐烂”的特征在所有形态中均可观察到. SCP-106并不特别敏捷，会连续数天保持静止，等待猎物. 
 
-<b>SCP-035 <color%3D#ff4f19>[Keter]</b>\r\nSCP-035 appears to be a white porcelain comedy mask, although, at times, it will change to tragedy. A highly corrosive and degenerative viscous liquid constantly seeps from the eye and mouth holes of SCP-035.=<b>SCP-035 <color%3D#ff4f19>[Keter]</b>\r\nSCP-035看起来是一个白色陶瓷喜剧面具，但有时会变为悲剧面具。一种高腐蚀性和退行性的粘稠液体不断从SCP-035的眼部和嘴部孔洞中渗出。
+<b>SCP-035 <color%3D#ff4f19>[Keter]</b>\r\nSCP-035 appears to be a white porcelain comedy mask, although, at times, it will change to tragedy. A highly corrosive and degenerative viscous liquid constantly seeps from the eye and mouth holes of SCP-035.=<b>SCP-035 <color%3D#ff4f19>[Keter]</b>\r\nSCP-035看起来是一个白色陶瓷喜剧面具，但有时会变为悲剧面具. 一种高腐蚀性和退行性的粘稠液体不断从SCP-035的眼部和嘴部孔洞中渗出. 
 
-<b>SCP-018 <color%3D#ff4f19>[Keter]</b>\r\nSCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is six (6) centimeters in diameter and coloured red.=<b>SCP-018 <color%3D#ff4f19>[Keter]</b>\r\nSCP-018外观像一个由Wham-O公司于1969年制造的超级弹力球。其直径为6厘米，颜色为红色。
+<b>SCP-018 <color%3D#ff4f19>[Keter]</b>\r\nSCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is six (6) centimeters in diameter and coloured red.=<b>SCP-018 <color%3D#ff4f19>[Keter]</b>\r\nSCP-018外观像一个由Wham-O公司于1969年制造的超级弹力球. 其直径为6厘米，颜色为红色. 
 
 <b>When Day Breaks <color%3D#ff0026>[Apollyon]</b>.\r\n=<b>破晓之时 <color%3D#ff0026>[Apollyon]</b>.\r\n
 
-<b>Guard Helmet <color%3D#7e8285>[Item]</b>\r\nA helmet. Activate to enable/disable the visor.=<b>守卫头盔 <color%3D#7e8285>[物品]</b>\r\n一顶头盔。激活以启用/禁用面罩。
+<b>Guard Helmet <color%3D#7e8285>[Item]</b>\r\nA helmet. Activate to enable/disable the visor.=<b>守卫头盔 <color%3D#7e8285>[物品]</b>\r\n一顶头盔. 激活以启用/禁用面罩. 
 
-<b>Keycard <color%3D#7e8285>[Item]</b>\r\nSimple Keycard, the higher your Perms, the more Control you get over the Foundation.=<b>钥匙卡 <color%3D#7e8285>[物品]</b>\r\n简易钥匙卡，你的权限越高，对基金会的控制力就越强。
+<b>Keycard <color%3D#7e8285>[Item]</b>\r\nSimple Keycard, the higher your Perms, the more Control you get over the Foundation.=<b>钥匙卡 <color%3D#7e8285>[物品]</b>\r\n简易钥匙卡，你的权限越高，对基金会的控制力就越强. 
 
-<b>D-Class <color%3D#ff9e54>[Test Subject]</b>\r\nused for testing SCPs, notably Keter-class objects. They are unwillingly recruited by the SCP Foundation worldwide and are usually death row inmates.=<b>D级人员 <color%3D#ff9e54>[测试对象]</b>\r\n用于测试SCP，尤其是Keter级对象。他们是被SCP基金会全球范围内非自愿招募的，通常是死刑犯。
+<b>D-Class <color%3D#ff9e54>[Test Subject]</b>\r\nused for testing SCPs, notably Keter-class objects. They are unwillingly recruited by the SCP Foundation worldwide and are usually death row inmates.=<b>D级人员 <color%3D#ff9e54>[测试对象]</b>\r\n用于测试SCP，尤其是Keter级对象. 他们是被SCP基金会全球范围内非自愿招募的，通常是死刑犯. 
 
-<b>Guard <color%3D#7e8285>[Foundation Member]</b>\r\nThe guards act as defense against possible containment breaches, and to ensure that Class-D personnel comply with orders and do not attempt to escape. =<b>守卫 <color%3D#7e8285>[基金会成员]</b>\r\n守卫负责防御可能的收容突破，并确保D级人员服从命令且不试图逃跑。
+<b>Guard <color%3D#7e8285>[Foundation Member]</b>\r\nThe guards act as defense against possible containment breaches, and to ensure that Class-D personnel comply with orders and do not attempt to escape. =<b>守卫 <color%3D#7e8285>[基金会成员]</b>\r\n守卫负责防御可能的收容突破，并确保D级人员服从命令且不试图逃跑. 
 
-<b>Door WIP <color%3D#7e8285>[Prop]</b>\r\nA simple Door. Activate it to open/close it.=<b>门 制作中 <color%3D#7e8285>[道具]</b>\r\n一扇简单的门。激活它以打开/关闭。
+<b>Door WIP <color%3D#7e8285>[Prop]</b>\r\nA simple Door. Activate it to open/close it.=<b>门 制作中 <color%3D#7e8285>[道具]</b>\r\n一扇简单的门. 激活它以打开/关闭. 
 
 r:"Radius: ([\d.]+)"="半径：$1"
 <color%3D#ffffff>Don't Sh<color%3D#3d3d3d>ow Radius=<color%3D#ffffff>不显<color%3D#3d3d3d>示半径
@@ -12369,3 +12369,64 @@ Enable Speech=启用语音
 Disable Speech=禁用语音
 Enable Theme=启用主题
 Disable Theme=禁用主题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//219*万物皆可着色_Everything Colourable
+<noparse>Everything Colourable</noparse>=<noparse>万物皆可着色</noparse>
+Programmer: zuccian\nVersion: 1.1=程序员：zuccian\n版本：1.1
+<size%3D1.5em>Everything Colourable</size>\nProgrammer: zuccian\nVersion: 1.1\n<noparse>A mod by 01 STUDIO for game version 1.26+</noparse>=<size%3D1.5em>万物皆可着色</size>\n程序员：zuccian\n版本：1.1\n<noparse>由 01 STUDIO 制作的模组，适用于游戏版本 1.26+</noparse>
+Do you want to know how and where you can use the functions of this mod?=你想知道如何以及在何处使用本模组的功能吗？
+You can support us or go to our discord if you like our creativity.=如果你喜欢我们的创意，可以支持我们或加入我们的Discord. 
+Set tint for selected object=为所选对象设置色调
+Set tint for selected object.=为所选对象设置色调.
+Change the colour of this objects=更改此对象的颜色
+Change the colour of this objects.=更改此对象的颜色.
+
+
+
+
+
+
+
+
+
+
+//220*可着色线缆_Colourable Wires
+<noparse>Colourable Wires</noparse>=<noparse>可着色线缆</noparse>
+Watch tutorial=观看教程
+Coloured Wires Mod Settings=可着色线缆模组设置
+Switch Always Replace=切换始终替换
+Set New Wires Color=设置新线缆颜色
+Always Replace Now Active=始终替换现已激活
+Always Replace Now Disabled=始终替换现已禁用
+Open Colored Wires Menu=打开可着色线缆菜单
+Enable Replace Wires Color=启用替换线缆颜色
+
+
+
+
+
+
+
+//221*镇魂曲人类 V2_Requiem human V2
+<noparse>Requiem human V2</noparse>=<noparse>镇魂曲人类 V2</noparse>
+First version was unfixable broken shit=第一版是没法修的垃圾
+<size%3D1.5em>Requiem human V2</size>\nFirst version was unfixable broken shit\n<noparse>A mod by ibiglaser for game version Vavarot and GR</noparse>=<size%3D1.5em>镇魂曲人类 V2</size>\n第一版是没法修的垃圾\n<noparse>由 ibiglaser 制作的模组，适用于游戏版本 Vavarot 和 GR</noparse>
+<b>Requiem human</b>\r\nWhen it is created, it saves a moment in time and when it dies or is deleted, it rolls back the time to it. Upon activating the head, it saves the current moment in time.<color%3D#FF002A>Don't create more than one Requiem creature at the same time, it can cause bugs or crash the game.=<b>镇魂曲人类</b>\r\n在被创建时，它会保存一个时间点；当其死亡或被删除时，会将时间回滚至该时刻. 激活头部可保存当前时刻. <color%3D#FF002A>请勿同时创建多个安魂生物，这可能导致错误或游戏崩溃. 
+<b>Requiem Arrow</b>\r\nGives Requem power to anyone he pierces.=<b>虫箭</b>\r\n赋予被其刺穿的任何人镇魂曲之力.
+Destroy loop=销毁循环
+Destroy loop.=销毁循环.
+
