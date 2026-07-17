@@ -12605,3 +12605,21 @@ The mod was ordered by Erdinlol=该模组由 Erdinlol 委托制作
 
 
 
+
+
+
+//230*深渊腐化系统_Abyss corruption system
+<noparse>Abyss corruption system</noparse>=<noparse>深渊腐化系统</noparse>
+Dead peoples !%3D normal peoples=死人!%3D 普通人
+<size%3D1.5em>Abyss corruption system</size>\nDead peoples !%3D normal peoples\n<noparse>A mod by ibiglaser for game version 1.25+ and Dyadyushka Dyadya</noparse>=<size%3D1.5em>深渊腐化系统</size>\n死人 !%3D 普通人\n<noparse>由 ibiglaser 和 Dyadyushka Dyadya 制作的模组，适用于游戏版本 1.25+</noparse>
+<size%3D20><color%3Dred><b>ABYSS   ENTERED   IN   TO   THIS   WORLD</b></color>=<size%3D20><color%3Dred><b>深渊   进   入   了   这 个   世 界</b></color>
+[Abyss corruption] resurrecting dead creatures <color%3D#E5000B>off=[深渊腐化] 复活死亡生物 <color%3D#E5000B>已关闭
+[Abyss corruption] resurrecting dead creatures <color%3D#00E70E>on=[深渊腐化] 复活死亡生物 <color%3D#00E70E>已开启
+[Abyss Corruption] Toggle script=[深渊腐化] 切换脚本
+<b>Abyss corruption Cure</b>\r\nThis cure was synthesized by scientists in an attempt to prevent the end of the world. Guarantees immunity to corruption, and also keep most improvements from infection.=<b>深渊腐化解药</b>\r\n科学家们为阻止世界末日而合成的解药. 保证免疫腐化，同时保留感染带来的大部分强化效果. 
+<b>Syringe with an unknown substance</b>\r\nContains something similar to a part of the void.=<b>未知物质注射器</b>\r\n包含某种类似于虚空碎片的东西. 
+<b>Forgotten syringe</b>\r\nContains the oldest part of the abyss. Can't be cured.=<b>被遗忘的注射器</b>\r\n包含深渊最古老的部分. 无法治愈. 
+Corrupt Entity=腐化实体
+Corrupt Entity.=腐化实体.
+Cure Corrupted Entity=净化腐化实体
+Cure Corrupted Entity.=净化腐化实体.

@@ -156,7 +156,6 @@ Fox=九尾
 Sannin=三忍
 <b>Sasuke</b>.=<b>佐助</b>.
 <b>Naruto Ability Picker</b>.=<b>鸣人能力选择器</b>.
-<b>Sanjin no Ogama</b>\r\nIf you hold and activate, the Hidan zone will appear. And if you attack someone with a scythe, all damage from the holder will be transferred to the last victim.=<b>三神大镰</b>\r\n如果按住并激活，飞段领域将出现. 如果你用镰刀攻击某人，持有者的所有伤害都会转移到最后一个受害者身上.
 Black Fire Look=黑火外观
 Rasengan=螺旋丸
 The Call of Susanoo=召唤须佐能乎
@@ -253,9 +252,9 @@ Break all=摧毁一切
 
 
 
-//13*飞段的血镰_Hidan's Blood Scythe
-
-
+//13*飞段的血腥三月镰_Hidan's Blood Scythe
+Hidan's Blood Scythe=飞段的血腥三月镰
+<b>Sanjin no Ogama</b>\r\nIf you hold and activate, the Hidan zone will appear. And if you attack someone with a scythe, all damage from the holder will be transferred to the last victim.=<b>血腥三月镰</b>\r\n按住并激活，飞段领域将会出现. 若用镰刀攻击某人，\n持有者受到的所有伤害都将转移给最后受到血镰伤害的受害者. 
 
 
 
