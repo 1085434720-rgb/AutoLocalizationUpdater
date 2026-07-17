@@ -12623,3 +12623,495 @@ Corrupt Entity=腐化实体
 Corrupt Entity.=腐化实体.
 Cure Corrupted Entity=净化腐化实体
 Cure Corrupted Entity.=净化腐化实体.
+
+
+
+
+
+
+
+//231*可附着物_Attachable
+<noparse>Attachable</noparse>=<noparse>可附着物</noparse>
+Attachable - Adjective, capable of being fastened or added to something else=可附着物 - 形容词，能够被固定或添加到其他物体上的事物
+<size%3D1.5em>Attachable</size>\nAttachable - Adjective, capable of being fastened or added to something else\n<noparse>A mod by Mr_kWKD for game version 1.26+</noparse>=<size%3D1.5em>可附着物</size>\n可附着物 - 形容词，能够被固定或添加到其他物体上的事物\n<noparse>由 Mr_kWKD 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>Attachable Assault Rifle</b>\r\nThe assault rifle with rails for attachments.=<b>可附着突击步枪</b>\r\n带有附件导轨的突击步枪. 
+<b>Attachable AK-47</b>\r\nThe AK-47 with rails for attachments.=<b>可附着AK-47</b>\r\n带有附件导轨的AK-47. 
+<b>Attachable Glock</b>\r\nA modified Glock-17 with a rail for attachments and place to attach a stock.=<b>可附着格洛克</b>\r\n经过改装的格洛克-17，带有附件导轨和枪托安装位. 
+<b>Attachable Pistol</b>\r\nA pistol with a threaded barrel for a suppressor and can have a rail for sights and laser.=<b>可附着手枪</b>\r\n带有消音器螺纹枪管的手枪，并可安装用于瞄准具和激光的导轨. 
+<b>Attachable Rifle</b>\r\nA rifle with grooves and threaded barrel for grips, bipods and suppressors. Rifle rail modification for sights/scopes reccomended.=<b>可附着步枪</b>\r\n带有凹槽和螺纹枪管的步枪，可用于握把、两脚架和消音器. 建议对步枪进行导轨改装以安装瞄准具/瞄准镜. 
+<b>Attachable Sniper Rifle</b>\r\nA sniper rifle with interchangable stock, rail for sights and laser and threaded barrel for suppressor.=<b>可附着狙击步枪</b>\r\n带有可互换枪托、瞄准具和激光导轨以及消音器螺纹枪管的狙击步枪. 
+<b>Attachable Submachine Gun</b>\r\nA submachine gun with interchangable stock, rail for sights and laser and threaded barrel for a pistol suppressor.=<b>可附着冲锋枪</b>\r\n带有可互换枪托、瞄准具和激光导轨以及手枪消音器螺纹枪管的冲锋枪. 
+<b>attachable Light Machine Gun</b>\r\nThe light machine gun with an interchangable stock and ability to use the rail for a sight and laser.=<b>可附着轻机枪</b>\r\n带有可互换枪托和导轨（可用于瞄准具和激光）的轻机枪. 
+<b>Pistol rail</b>\r\nA rail modification for the glock or pistol for sights and a laser (Attachment type %3D Other)=<b>手枪导轨</b>\r\n用于格洛克或手枪的导轨改装件，可安装瞄准具和激光（附件类型 %3D 其他）
+<b>Rifle rail</b>\r\nA rail modification for the rifle for sights and a laser (Attachment type %3D Other)=<b>步枪导轨</b>\r\n用于步枪的导轨改装件，可安装瞄准具和激光（附件类型 %3D 其他）
+<b>Holosight</b>\r\nA holosight produced by... PPGOtech (Attachment type %3D Sight)=<b>全息瞄准镜</b>\r\n由……PPGOtech生产的全息瞄准镜（附件类型 %3D 瞄准具）
+<b>Iron Sight</b>\r\nStandard iron sight. Nothing fancy. (Attachment type %3D Sight)=<b>机械瞄具</b>\r\n标准机械瞄具. 没什么特别的. （附件类型 %3D 瞄准具）
+<b>Scope</b>\r\nAn 8x scope for long range targets. (Attachment type %3D Sight)=<b>瞄准镜</b>\r\n用于远程目标的8倍瞄准镜. （附件类型 %3D 瞄准具）
+<b>ACOG</b>\r\nAn ACOG with prismatic telescopic sights. (Attachment type %3D Sight)=<b>ACOG瞄准镜</b>\r\n带有棱镜伸缩式瞄准具的ACOG瞄准镜. （附件类型 %3D 瞄准具）
+<b>Vertical Grip</b>\r\nA vertical grip for better ergonomics and recoil control. (Attachment type %3D Grip)=<b>垂直握把</b>\r\n用于更好的人机工效和后坐力控制的垂直握把. （附件类型 %3D 握把）
+<b>Horizontal Grip</b>\r\nA horizontal grip for better ergonomics than the vertical grip. (Attachment type %3D Grip)=<b>水平握把</b>\r\n人机工效比垂直握把更好的水平握把. （附件类型 %3D 握把）
+<b>Bipod</b>\r\nA bipod that can be rested on the ground to reduce shake, and recoil. (Attachment type %3D Grip)=<b>两脚架</b>\r\n可架设在地面上以减少晃动和后坐力的两脚架. （附件类型 %3D 握把）
+<b>Laser Sight</b>\r\nA rail mounted laser pointer for your gun. (Attachment type %3D Laser)=<b>激光瞄准器</b>\r\n安装在导轨上的枪用激光指示器. （附件类型 %3D 激光）
+<b>Rifle Supressor</b>\r\nA suppressor which can be screwed onto the end of a threaded rifle barrel to minorly suppress the sound. (Attachment type %3D Suppressor)=<b>步枪消音器</b>\r\n可旋入步枪螺纹枪管末端的消音器，可轻微抑制声音. （附件类型 %3D 消音器）
+<b>Pistol Supressor</b>\r\nA suppressor for a pistol which suppresses the sound it makes. (Attachment type %3D Suppressor)=<b>手枪消音器</b>\r\n用于手枪的消音器，可抑制其发出的声音. （附件类型 %3D 消音器）
+<b>Heavy Rifle Supressor</b>\r\nA suppressor for a heavy rifle which suppresses the sound it makes. (Attachment type %3D Suppressor)=<b>重型步枪消音器</b>\r\n用于重型步枪的消音器，可抑制其发出的声音. （附件类型 %3D 消音器）
+<b>Wooden Stock</b>\r\nA wooden stock carved from hard wood. (Attachment type %3D Stock)=<b>木质枪托</b>\r\n由硬木雕刻而成的木质枪托. （附件类型 %3D 枪托）
+<b>Heavy Wooden Stock</b>\r\nA heavy wooden stock carved from hard wood and a steel backplate. (Attachment type %3D Stock)=<b>重型木质枪托</b>\r\n由硬木和钢制背板制成的重型木质枪托. （附件类型 %3D 枪托）
+<b>Light Stock</b>\r\nA light polymer stock. (Attachment type %3D Stock)=<b>轻型枪托</b>\r\n轻质聚合物枪托. （附件类型 %3D 枪托）
+<b>Heavy Stock</b>\r\nA heavy polymer stock injection molded around a steel frame. (Attachment type %3D Stock)=<b>重型枪托</b>\r\n在钢制框架周围注塑成型的重型聚合物枪托. （附件类型 %3D 枪托）
+<b>Advanced Stock</b>\r\nA steel chasis stock with a shoulder and cheek rest. (Attachment type %3D Stock)=<b>先进枪托</b>\r\n带有肩托和贴腮板的钢制底盘枪托. （附件类型 %3D 枪托）
+<b>Glock Full Auto Mod</b>\r\nThe device operates by applying force to the trigger bar to prevent it from limiting the weapon to firing only one round each time the trigger is depressed. (Attachment type %3D Other)=<b>格洛克全自动改装件</b>\r\n该装置通过向扳机连杆施加力来防止其限制武器每次扣动扳机只能发射一发弹药. （附件类型 %3D 其他）
+Attachment Detached, there is delay to add new attachment=附件已分离，添加新附件有延迟
+attach point is now available=附着点现在可用
+Become sight attachment=变为瞄准具附件
+Become sight attachment.=变为瞄准具附件.
+Become grip attachment=变为握把附件
+Become grip attachment.=变为握把附件.
+Become stock attachment=变为枪托附件
+Become stock attachment.=变为枪托附件.
+
+
+
+//232*俄罗斯轮盘模组_Russian Roulette Mod
+<noparse>Russian Roulette Mod</noparse>=<noparse>俄罗斯轮盘模组</noparse>
+This mod adds a new revolver to the game with which you can play Russian roulette!=此模组为游戏添加了一把新左轮手枪，你可以用它来玩俄罗斯轮盘！
+<size%3D1.5em>Russian Roulette Mod</size>\nThis mod adds a new revolver to the game with which you can play Russian roulette!\n<noparse>A mod by Morzzic for game version 1.9+</noparse>=<size%3D1.5em>俄罗斯轮盘模组</size>\n此模组为游戏添加了一把新左轮手枪，你可以用它来玩俄罗斯轮盘！\n<noparse>由 Morzzic 制作的模组，适用于游戏版本 1.9+</noparse>
+<b>Revolver -RRM</b>\r\nRevolver for playing Russian roulette.=<b>左轮手枪 -RRM</b>\r\n用于玩俄罗斯轮盘的左轮手枪. 
+Spin the drum of the revolver=转动左轮手枪的弹巢
+Spin the drum of the revolver.=转动左轮手枪的弹巢. 
+0/6 bullets=0/6 发子弹
+1/6 bullets=1/6 发子弹
+2/6 bullets=2/6 发子弹
+3/6 bullets=3/6 发子弹
+4/6 bullets=4/6 发子弹
+5/6 bullets=5/6 发子弹
+6/6 bullets=6/6 发子弹
+Set the value of bullets in drum 0=设置弹巢中的子弹数量为0
+Set the value of bullets in drum 1=设置弹巢中的子弹数量为1
+Set the value of bullets in drum 2=设置弹巢中的子弹数量为2
+Set the value of bullets in drum 3=设置弹巢中的子弹数量为3
+Set the value of bullets in drum 4=设置弹巢中的子弹数量为4
+Set the value of bullets in drum 5=设置弹巢中的子弹数量为5
+Set the value of bullets in drum 6=设置弹巢中的子弹数量为6
+Set the value of bullets in drum 0.=设置弹巢中的子弹数量为0.
+Set the value of bullets in drum 1.=设置弹巢中的子弹数量为1.
+Set the value of bullets in drum 2.=设置弹巢中的子弹数量为2.
+Set the value of bullets in drum 3.=设置弹巢中的子弹数量为3.
+Set the value of bullets in drum 4.=设置弹巢中的子弹数量为4.
+Set the value of bullets in drum 5.=设置弹巢中的子弹数量为5.
+Set the value of bullets in drum 6.=设置弹巢中的子弹数量为6.
+
+
+
+
+//323*[inc's] 空袭模组_[inc's] Airstrike mod
+<noparse>[inc's] Airstrike mod</noparse>=<noparse>[inc's] 空袭模组</noparse>
+Airstrike mod. Call an Airstrike to enemy's position with a custom flare!=空袭模组. 使用自定义信号弹在敌人位置召唤空袭！
+<size%3D1.5em>[inc's] Airstrike mod</size>\nAirstrike mod. Call an Airstrike to enemy's position with a custom flare!\n<noparse>A mod by inc, diego_money for game version 1.26+</noparse>=<size%3D1.5em>[inc's] 空袭模组</size>\n空袭模组. 使用自定义信号弹在敌人位置召唤空袭！\n<noparse>由 inc、diego_money 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>Airstrike mod</b>\r\n<color%3Dorange>Call a tactical Airstrike with a flare.=<b>空袭模组</b>\r\n<color%3Dorange>使用信号弹召唤战术空袭. 
+<b><color%3Dred>A-10 Airstrike</b>\r\n<color%3Dorange>Call an A-10 Airstrike to a designated position.=<b><color%3Dred>A-10 空袭</b>\r\n<color%3Dorange>在指定位置召唤 A-10 空袭. 
+<b><color%3Dred>AC-130 Vulcan cannon Airstrike</b>\r\n<color%3Dorange>Call an AC-130 Vulcan cannon Airstrike to a designated position.=<b><color%3Dred>AC-130 火神机炮空袭</b>\r\n<color%3Dorange>在指定位置召唤 AC-130 火神机炮空袭. 
+<b><color%3Dred>AC-130 105mm Howitzer Airstrike</b>\r\n<color%3Dorange>Call an AC-130 105mm Howitzer Airstrike to a designated position.=<b><color%3Dred>AC-130 105mm 榴弹炮空袭</b>\r\n<color%3Dorange>在指定位置召唤 AC-130 105mm 榴弹炮空袭. 
+<b><color%3Dred>AH-64 Apache Machine gun Airstrike</b>\r\n<color%3Dorange>Call an AH-64 Apache Machine gun Airstrike to a designated position.=<b><color%3Dred>AH-64 阿帕奇 机枪空袭</b>\r\n<color%3Dorange>在指定位置召唤 AH-64 阿帕奇 机枪空袭. 
+<b><color%3Dred>AH-64 Apache Hydra 70mm Missile Airstrike</b>\r\n<color%3Dorange>Call an AH-64 Apache Hydra 70mm Missile Airstrike to a designated position.=<b><color%3Dred>AH-64 阿帕奇 九头蛇 70mm 导弹空袭</b>\r\n<color%3Dorange>在指定位置召唤 AH-64 阿帕奇 九头蛇 70mm 导弹空袭. 
+<b><color%3Dred>Junkers Ju 87 Stuka Airstrike</b>\r\n<color%3Dorange>Call a Junkers Ju 87 Stuka Airstrike to a designated position.=<b><color%3Dred>容克 Ju 87 斯图卡空袭</b>\r\n<color%3Dorange>在指定位置召唤 容克 Ju 87 斯图卡 空袭. 
+
+
+
+
+
+//324*斑点_The Spot
+<noparse>The Spot</noparse>=<noparse>斑点</noparse>
+very cool=非常酷
+<size%3D1.5em>The Spot</size>\nvery cool\n<noparse>A mod by evan.chaba for game version 1.22+</noparse>=<size%3D1.5em>斑点</size>\n非常酷\n<noparse>由 evan.chaba 制作的模组，适用于游戏版本 1.22+</noparse>
+<b>The Spot</b>\r\nA bundle of spots.=<b>斑点</b>\r\n一团斑点. 
+<b>Alchemax Rifle</b>\r\npew pew.=<b>Alchemax 步枪</b>\r\n砰砰. 
+<b>Animated Series Spot</b>\r\nhaha im the spot from spiderman (i never watched the series)=<b>动画系列斑点</b>\r\n哈哈，我是蜘蛛侠里的斑点（我从没看过这部动画）
+<b>Bagel</b>.\r\n =<b>贝果</b>.\r\n 
+<b>Blank Spot</b>\r\nMy holes can take me... anywhere.=<b>空白斑点</b>\r\n我的洞能带我去……任何地方. 
+<b>Coyote</b>\r\nThe spots powers mutated to form this thing.=<b>郊狼</b>\r\n斑点的力量变异形成了这东西. 
+<b>Johnathon Ohnn</b>\r\nWorks for kingpin.=<b>乔纳森·欧恩</b>\r\n为金并工作. 
+<b>Johnathon Ohnn Spot Takover</b>\r\nJohnathon Ohnn with spots.=<b>乔纳森·欧恩 斑点侵蚀</b>\r\n带有斑点的乔纳森·欧恩. 
+<b>Portal</b>\r\nSpawns a portal.=<b>传送门</b>\r\n生成一个传送门. 
+<b>Spot</b>\r\nI AM YOUR ENEMY.=<b>斑点</b>\r\n我是你的敌人. 
+<b>Spot Final Form</b>\r\nSpot.=<b>斑点最终形态</b>\r\n斑点. 
+<b>Spot Third Form</b>\r\nThis is gonna be good for us Spiderman.=<b>斑点第三形态</b>\r\n这对我们来说会是好事，蜘蛛侠. 
+<b>Spot with hat</b>\r\nJUST LET ME ROB YOUR STORE.=<b>戴帽子的斑点</b>\r\n就让我抢你的店吧. 
+
+
+
+
+
+
+
+//325*终极食物模组_Ultimate Food Mod
+<noparse>Ultimate Food Mod</noparse>=<noparse>终极食物模组</noparse>
+Eat all kind of foods until you explode!!=吃遍各种食物，直到你爆炸！！
+<size%3D1.5em>Ultimate Food Mod</size>\nEat all kind of foods until you explode!!\n<noparse>A mod by MC studios for game version 1.26+</noparse>=<size%3D1.5em>终极食物模组</size>\n吃遍各种食物，直到你爆炸！！\n<noparse>由 MC studios 制作的模组，适用于游戏版本 1.26+</noparse>
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Recipes Book</b>\r\nWill teach you how to cook every single food on the Mod.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>食谱书</b>\r\n将教你如何烹饪模组中的每一种食物. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Oven</b>\r\nDont put your hand inside!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>烤箱</b>\r\n别把手伸进去！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Plate</b>\r\nPlate to put your food on! No, it's not Edible...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>盘子</b>\r\n用来放食物的盘子！不，它不能吃……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Large Plate</b>\r\nLarge Plate to put your food on! No, it's not Edible...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>大盘子</b>\r\n用来放食物的大盘子！不，它不能吃……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Bowl</b>\r\nBowl to put your food on! No, it's not Edible too...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>碗</b>\r\n用来放食物的碗！不，它也不能吃……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Silver Plate</b>\r\nSilver Plate to make foods like Pies! If you try to eat it, I dont know what else to say...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>银色烤盘</b>\r\n用于制作馅饼等食物的银色烤盘！如果你试着吃它，我不知道该说什么了……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Large Silver Plate</b>\r\nLarge Silver Plate to make foods like Cakes! At this point just try to eat it already...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>大型银色烤盘</b>\r\n用于制作蛋糕等食物的大型银色烤盘！到这份上了你就试着吃它吧……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Spoon</b>\r\nI HAVE A SPOON!!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>勺子</b>\r\n我有一把勺子！！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Fork</b>\r\nThis one only have 2 teeths.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>叉子</b>\r\n这把只有两个齿. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Knife</b>\r\nIts not that sharp.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>刀</b>\r\n没那么锋利. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Sharp Knife</b>\r\nIts sharp!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>锋利刀</b>\r\n很锋利！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Bread Knife</b>\r\nI already cut myself with one, it hurts.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>面包刀</b>\r\n我已经被它割伤过，很疼. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Kitchen Knife</b>\r\nI remember this from some Terror Movies...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>厨房刀</b>\r\n我记得这是某些恐怖电影里的……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Kitchen Roll</b>\r\nNot very efficient to fight.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>厨房纸巾卷</b>\r\n用来打架不太有效率. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Apple</b>\r\nWhat Orange??=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>苹果</b>\r\n什么橙子？？
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Orange</b>\r\nHey Apple!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>橙子</b>\r\n嘿，苹果！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Pear</b>\r\nEhn... I prefer Apple.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>梨</b>\r\n呃……我更喜欢苹果. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Peach</b>\r\nPeach Peach Peach Peach Peach - Bowser.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>桃子</b>\r\n桃子桃子桃子桃子桃子——库巴. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Banana</b>\r\nSlippery...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>香蕉</b>\r\n很滑……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Mango</b>\r\nIs it already ripe or not?=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>芒果</b>\r\n它到底熟了没有？
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Avocado</b>\r\nThe lump is very big!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>牛油果</b>\r\n果核非常大！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Strawberry</b>\r\nIt tastes awesome with Chocolate.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>草莓</b>\r\n蘸巧克力吃味道很棒. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Cherry</b>\r\nNormaly used on top of cakes.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>樱桃</b>\r\n通常放在蛋糕顶部. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Kiwi</b>\r\nRunning like a kiwi on a mission!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>猕猴桃</b>\r\n像有任务在身的奇异鸟一样奔跑！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Pineapple</b>\r\nApple Pen.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>菠萝</b>\r\n苹果笔. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Coconut</b>\r\nIf it has Fur and Milk, then why isn't it a mammal?=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>椰子</b>\r\n如果它有毛还有奶，那为什么它不是哺乳动物？
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Cocoa</b>\r\nUsed to make Chocolate.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>可可</b>\r\n用于制作巧克力. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Papaya</b>\r\nLet's do the papaya dance!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>木瓜</b>\r\n一起来跳木瓜舞吧！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Watermelon</b>\r\nIs there water on it?=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>西瓜</b>\r\n它里面有水吗？
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Melon</b>\r\nWhats the different for a Watermelon? I dont know lol.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>甜瓜</b>\r\n和西瓜有什么区别？我不知道，哈哈. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Lemon</b>\r\nDon't give it to your pet >:(.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>柠檬</b>\r\n别给你的宠物吃 >:(
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Potato</b>\r\nLook, its your PC :D (or maybe not)=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>土豆</b>\r\n看，这是你的电脑 :D（也许不是）
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Sweet Potato</b>\r\nIts not as Sweet as it says.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>红薯</b>\r\n它并没有说的那么甜. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Carrot</b>\r\nWhat's up duck?=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>胡萝卜</b>\r\n咋了鸭子？
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Tomato</b>\r\nSo Bi... never mind.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>番茄</b>\r\n所以双……算了. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Lettuce</b>\r\nTo make a good salad.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>生菜</b>\r\n用来做一份好沙拉. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Spinach</b>\r\nMAKES YOU STRONGER!!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>菠菜</b>\r\n让你变得更强壮！！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Eggplant</b>\r\nSussy Emoji.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>茄子</b>\r\n可疑表情. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Broccoli</b>\r\nTo make a good salad.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>西兰花</b>\r\n用来做一份好沙拉. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Cucumber</b>\r\nAnother Sussy emoji...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>黄瓜</b>\r\n又一个可疑表情……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Pepper</b>\r\nITS BURNING!! BURNING MY TONGUE.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>辣椒</b>\r\n好辣！！辣到我舌头了. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Corn</b>\r\nIts a terrible combination with a Drill...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>玉米</b>\r\n和电钻搭配起来太糟糕了……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Onion</b>\r\nDont Cry... DONT CRY! GGRRRAAAHHHHHHH *crying*.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>洋葱</b>\r\n别哭……别哭！呜呜呜呜呜 *泪目*.
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Garlic</b>\r\nEwwwww, what smell is that??=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>大蒜</b>\r\n咦~~~~，那是什么味道？？
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Pea</b>\r\nWe're like peas in a pod!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>豌豆</b>\r\n我们就像豌豆荚里的两颗豌豆！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Mushroom</b>\r\nHere we goooooo!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>蘑菇</b>\r\n我们走起！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Cheese</b>\r\n*Takes a Picture*.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>奶酪</b>\r\n*拍照*.
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Egg</b>\r\nWhat did came first, the Egg or the Chicken?=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>鸡蛋</b>\r\n到底是先有鸡还是先有蛋？
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Spaghetti</b>\r\nRemembers me of that one Disney Film.. what is it called?.. Oh yeah, Lady and the Tramp!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>意大利面</b>\r\n让我想起那部迪士尼电影……叫什么来着？……哦对了，《小姐与流氓》！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Water</b>\r\nThe core of life.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>水</b>\r\n生命之源. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Milk</b>\r\nMiiiiiiiiiilk.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>牛奶</b>\r\n牛~~~奶. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Olive Oil</b>\r\nDid you know that Olive Oil it's a healthy fat?=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>橄榄油</b>\r\n你知道橄榄油是一种健康的脂肪吗？
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Rice Bag</b>\r\nIts meant to be below Beans.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>米袋</b>\r\n它应该在豆子下面. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Beans Bag</b>\r\nIts meant to be above Rice.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>豆子袋</b>\r\n它应该在米上面. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Raw Turkey</b>\r\nfor the Day of Thanksgiving!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>生火鸡</b>\r\n为了感恩节！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Raw Beef</b>\r\nWho wants a steak? Well done, of course!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>生牛肉</b>\r\n谁想要一份牛排？当然是全熟！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Raw Meat Ball</b>\r\nIts not that kind of Balls... Come on...=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>生肉丸</b>\r\n不是那种球啦……拜托……
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Raw Sausage</b>\r\nIf your a kid, do NOT search (Sausage Party) on Youtube, for the love of god!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>生香肠</b>\r\n如果你是小孩，看在上帝的份上，别在Youtube上搜索“香肠派对”！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Raw Bacon</b>\r\nCool breakfast combined with an Egg.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>生培根</b>\r\n配上鸡蛋就是很棒的早餐. 
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Raw Spare Ribs</b>\r\nGuess what day it is? Ribs Day!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>生猪肋排</b>\r\n猜猜今天是什么日子？肋排日！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Raw Salmon</b>\r\nWatch out for the salmon cannon!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>生鲑鱼</b>\r\n小心鲑鱼大炮！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Shrimp</b>\r\nLooks like we've got ourselves a shrimp parade here!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>虾</b>\r\n看起来我们这里有一场虾的游行！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Sugar Bag</b>\r\nBeware of diabetes!=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>糖袋</b>\r\n当心糖尿病！
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Salt</b>\r\nWAAAAAAAAAAA *disintegrates after eating 2Kg of salt*.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>盐</b>\r\n哇啊啊啊啊啊 *吃了2公斤盐后灰飞烟灭*.
+
+<b><color%3D#4DFF00>[UFM] <color%3Dwhite>Wheat Flour</b>\r\nDont add too much to the recipe.=<b><color%3D#4DFF00>[UFM] <color%3Dwhite>小麦面粉</b>\r\n配方中别加太多. 
+
+//秘密
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Bob</b>\r\nLook! Its Bob!=<b><color%3D#FFF300>[隐藏] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Bob</b>\r\n看！是Bob！
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Enchanted Golden Apple</b>\r\nTHE POWER!!=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>附魔金苹果</b>\r\n力量！！
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Bandi's Hat</b>\r\nCan be used to make a Pie.=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>班迪的帽子</b>\r\n可用于制作派.
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Bleach</b>\r\nNo, its not the Anime.=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>漂白剂</b>\r\n不，不是那部动画.
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Bradsy</b>\r\nBradsy.=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>布拉德西</b>\r\n布拉德西.
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Brasil</b>\r\nBrasil-sil.=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>巴西</b>\r\n巴西-西.
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Carolina Reaper</b>\r\nTHE SPICIEST PEPPER ON THE WORLD, be careful to not <b>burn</b> your head (yes, not your tongle, your head)=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>卡罗来纳死神</b>\r\n世界上最辣的辣椒，小心别<b>烧</b>到你的头（是的，不是舌头，是头）
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Ihavenoideaforaname in a can</b>\r\nthe owner of xeromods in a can!=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>装在罐里的我想不出名字</b>\r\n装在罐里的xeromods站长！
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Int Team</b>\r\nInt Team Icon.=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Int团队</b>\r\nInt团队图标.
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Nermal</b>\r\nNermal.=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>纳莫</b>\r\n纳莫.
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>CatHat Studios</b>\r\nCatHat Studios!=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>CatHat工作室</b>\r\nCatHat工作室！
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Red Bull</b>\r\nGive's you whings!=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>红牛</b>\r\n给你翅膀！
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Uranium</b>\r\nIt not meant to be eaten, but if you do, you will get super power! (not really, everyone around you will die, including you)=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>铀</b>\r\n它不是用来吃的，但如果你吃了，你会获得超能力！（其实不会，你周围的所有人都会死，包括你自己）
+
+BobPie=Bob派
+RawBobPie=生Bob派
+ApplePie=苹果派
+AppleSlice1=苹果片1
+AppleSlice2=苹果片2
+AvocadoSeed=牛油果核
+AvocadoSlice1=牛油果片1
+AvocadoSlice2=牛油果片2
+Bacon=培根
+BaguetteDough=法棍面团
+BaguetteSlice=法棍片
+BandiPie=班迪派
+Beef=牛肉
+Bolognese=肉酱面
+BowlChocolate=碗装巧克力
+BowlGuacamole=碗装鳄梨酱
+BowlGuacamoleNacho=碗装鳄梨酱玉米片
+BowlLettuce=碗装生菜
+BowlLettuceTomato=碗装生菜番茄
+BowlTortilla=碗装玉米饼
+BradsyPie=布拉德西派
+BrasilPie=巴西派
+BreadSlice=面包片
+BreadSliceButter=黄油面包片
+BroccoliSlice=西兰花片
+Insulator=绝缘材料
+BurguerBun=汉堡面包
+Burrito=卷饼
+Butter=黄油
+ButterBowl=碗装黄油
+ButterKnife=黄油刀
+CacauSlice1=可可片1
+CacauSlice2=可可片2
+CakeBase=蛋糕底
+CarrotSlice=胡萝卜片
+CatHatPie=CatHat派
+CheeseSlice1=奶酪片1
+CheeseSlice2=奶酪片2
+CherryPie=樱桃派
+Chocolate=巧克力
+ChocolateCake=巧克力蛋糕
+CoconutSlice=椰子片
+Cookie=饼干
+CookieBowl=碗装饼干
+CornGrain=玉米粒
+CornSlice1=玉米片1
+CucumberSlice=黄瓜片
+DoughBowl=碗装面团
+EggplantSlice1=茄子片1
+EggplantSlice2=茄子片2
+GarlicSlice1=蒜片1
+GarlicSlice2=蒜片2
+Hamburger=汉堡
+Hamburguer_1=汉堡_1
+Hotdog=热狗
+IntTeamPie=Int团队派
+KiwiSlice1=猕猴桃片1
+LargePlateDough=大盘面团
+LargePlateTorkey=大盘火鸡
+LargePlateTorkey2=大盘火鸡2
+LargePlateTorkey3=大盘火鸡3
+LargePlateTorkey4=大盘火鸡4
+LargePlateTorkey5=大盘火鸡5
+LettuceSlice=生菜片
+LimonSlice1=柠檬片1
+LimonSlice2=柠檬片2
+MangoSlice1=芒果片1
+MangoSlice2=芒果片2
+MeatBall=肉丸
+MelonBark=甜瓜皮
+MelonSlice1=甜瓜片1
+MelonSlice2=甜瓜片2
+MilkBowl=碗装牛奶
+MuchroomSlice=蘑菇片
+Nacho=玉米片
+NermalPie=纳莫派
+OlivaOilBowl=碗装橄榄油
+OnionSlice1=洋葱片1
+OnionSlice2=洋葱片2
+OrangeSlice1=橙子片1
+OrangeSlice2=橙子片2
+PapayaSlice1=木瓜片1
+PeachSlice1=桃子片1
+PeeledShrimp=去皮虾
+PearSlice1=梨片1
+PeaGrain=豌豆粒
+PeachSlice2=桃子片2
+PineappleSlice1=菠萝片1
+PineappleSlice2=菠萝片2
+PizzaBase=披萨底
+PizzaDough=披萨面团
+PlateBeans=盘装豆子
+PlateBaconEgg=盘装培根蛋
+PlateBacon=盘装培根
+PlateBeansRice=盘装豆饭
+PlateDough=盘装面团
+PlatePasta=盘装意面
+PlatePastaBeef=盘装意面牛肉
+PlateRiceBeans=盘装米饭豆子
+PlateRice=盘装米饭
+PlatePastaMeatBall=盘装意面肉丸
+PlatePastaBeefCream=盘装意面牛肉奶油
+PlateRiceMeatBall=盘装米饭肉丸
+PopcornFood=爆米花
+PotatoSlice=土豆片
+RawApplePie=生苹果派
+RawBandiPie=生班迪派
+RawBradsyPie=生布拉德西派
+RawBrasilPie=生巴西派
+RawCatHatPie=生CatHat派
+RawCherryPie=生樱桃派
+RawCookie=生饼干
+RawIntTeamPie=生Int团队派
+RawNermalPie=生纳莫派
+RawSausageSlice=生香肠片
+RawTorkey2=生火鸡2
+RawTorkey3=生火鸡3
+RawTorkey4=生火鸡4
+RawTorkey5=生火鸡5
+RawTorkeyLeg=生火鸡腿
+RawTorkeyLegBone=生火鸡腿骨
+RawTorkeyWing=生火鸡翅
+Sandwich=三明治
+Sandwich_1=三明治_1
+Sandwich_2=三明治_2
+Sandwich_3=三明治_3
+Sausage=香肠
+SausageSlice=香肠片
+SpinachSlice=菠菜片
+SpareRibs=猪肋排
+Strogonoff=斯特罗加诺夫牛肉
+SweetPotatoSlice1=红薯片1
+SweetPotatoSlice2=红薯片2
+Taco=塔可
+TomatoSlice=番茄片
+Torkey4=火鸡4
+Torkey3=火鸡3
+Torkey2=火鸡2
+Torkey=火鸡
+Torkey5=火鸡5
+TorkeyBones=火鸡骨头
+TorkeyLeg=火鸡腿
+TorkeyLegBone=火鸡腿骨
+TorkeyWing=火鸡翅
+Tortilla=玉米饼
+WaterBowl=碗装水
+WatermelonBark=西瓜皮
+WatermelonSlice1=西瓜片1
+WatermelonSlice2=西瓜片2
+What is this??-melon =这啥？？-瓜
+
+
+//326*文本语音合成器_Text Speecher
+<noparse>Text Speecher</noparse>=<noparse>文本语音合成器</noparse>
+In order to avoid possible questions, I suggest watching a short tutorial on setting up the system for this mod to work. \nOn some systems, the mod will not work at all!=为了避免可能出现的问题，我建议观看一个关于设置本模组运行系统的简短教程. \n在某些系统上，该模组可能完全无法运行！
+I will be very glad if you join our discord server, here I can help you if there are problems with the mod!=如果你能加入我们的Discord服务器，我会非常高兴. 如果模组出现问题，我可以在这里帮助你！
+Set text to speech=设置文本到语音
+Set text to speech.=设置文本到语音.
+Set speech packet to speech=设置语音包到语音
+Set speech packet to speech.=设置语音包到语音.
+Get installed voices=获取已安装的语音
+Get installed voices.=获取已安装的语音.
+
+
+
+
+
+
+
+
+//327*降世神通：最后的气宗_Avatar The Last Airbender
+<noparse>Avatar The Last Airbender</noparse>=<noparse>降世神通：最后的气宗</noparse>
+<b>Avatar TLA</b>.\r\n=<b>降世神通：最后的气宗</b>.\r\n
+
+<b><color%3Dblue>[Water]</color> Katara</b>\r\n"I believe Aang can save the world."\n\n<color%3Dblue>[Abilities: 4]\n[Passive] - Underwater Breathing\n[Hands] - Water Stream, Ice Spike, Water Heal</color>.=<b><color%3Dblue>[水]</color> 卡塔拉</b>\r\n“我相信安昂能拯救世界. ”\n\n<color%3Dblue>[能力：4]\n[被动] - 水下呼吸\n[双手] - 水流、冰刺、水疗</color>.
+
+<b><color%3Dblue>[Water]</color> Sokka</b>\r\n"My first girlfriend turned into the moon."\n\n<color%3Dblue>[Abilities: 0]=<b><color%3Dblue>[水]</color> 索卡</b>\r\n“我的初恋女友变成了月亮. ”\n\n<color%3Dblue>[能力：0]
+
+<b><color%3Dblue>[Water]</color> Waterbender Warrior</b>\r\n\n\n<color%3Dblue>[Abilities: 4]\n[Passive] - Underwater Breathing\n[Hands] - Water Stream, Ice Spike, Water Heal</color>.=<b><color%3Dblue>[水]</color> 御水术战士</b>\r\n\n\n<color%3Dblue>[能力：4]\n[被动] - 水下呼吸\n[双手] - 水流、冰刺、水疗</color>.
+
+<b><color%3Dgreen>[Earth]</color> King Bumi</b>\r\n"There are no taksies baksies in my kingdom."\n\n<color%3Dgreen>[Abilities: 4]\n[Passive] - Enhanced Durability\n[Hands] - Rock Push, Meteor Shower\n[Feet] - Rock Summon</color>.=<b><color%3Dgreen>[土]</color> 布米王</b>\r\n“在我的王国里没有反悔这回事. ”\n\n<color%3Dgreen>[能力：4]\n[被动] - 强化耐久度\n[双手] - 推石、陨石雨\n[双脚] - 召石</color>.
+
+<b><color%3Dgreen>[Earth]</color> Earthbender Warrior</b>\r\n\n\n<color%3Dgreen>[Abilities: 3]\n[Passive] - Enhanced Durability\n[Hands] - Rock Push\n[Feet] - Rock Summon</color>.=<b><color%3Dgreen>[土]</color> 御土术战士</b>\r\n\n\n<color%3Dgreen>[能力：3]\n[被动] - 强化耐久度\n[双手] - 推石\n[双脚] - 召石</color>.
+
+<b><color%3Dgreen>[Earth]</color> Di Lee\n\n<color%3Dgreen>[Abilities: 3]\n[Passive] - Enhanced Durability\n[Hands] - Rock Push\n[Feet] - Rock Summon</color></b>\r\n=<b><color%3Dgreen>[土]</color> 戴笠\n\n<color%3Dgreen>[能力：3]\n[被动] - 强化耐久度\n[双手] - 推石\n[双脚] - 召石</color></b>\r\n
+
+<b><color%3Dgreen>[Earth]</color> Toph</b>\r\n"I am the greatest Earthbender in the world!"\n\n<color%3Dgreen>[Abilities: 3]\n[Passive] - Enhanced Durability\n[Hands] - Rock Push\n[Feet] - Rock Summon</color>.=<b><color%3Dgreen>[土]</color> 拓芙</b>\r\n“我是世界上最伟大的御土师！”\n\n<color%3Dgreen>[能力：3]\n[被动] - 强化耐久度\n[双手] - 推石\n[双脚] - 召石</color>.
+
+<b><color%3Dgreen>[Earth]</color> Suki</b>\r\n"Yeah, you kinda burned down my village."\n\n<color%3Dgreen>[Abilities: 0]=<b><color%3Dgreen>[土]</color> 苏琪</b>\r\n“是啊，你有点烧毁了我的村庄. ”\n\n<color%3Dgreen>[能力：0]
+
+<b><color%3Dred>[Fire]</color> Fire Nation Soldier</b>\r\n"That lemur! He’s Earth Bending!"\n\n<color%3Dred>[Abilities: 3]\n[Passive] - Heat Resistance\n[Hands] - Fire Fist, Fire Stream</color>.=<b><color%3Dred>[火]</color> 火烈国士兵</b>\r\n“那只狐猴！他在御土！”\n\n<color%3Dred>[能力：3]\n[被动] - 耐热\n[双手] - 火拳、火焰流</color>.
+
+<b><color%3Dred>[Fire]</color> Ozai</b>\r\n"After generations of Fire Lords failed to find you, now the universe delivers you to me as an act of providence."\n\n<color%3Dred>[Abilities: 4]\n[Passive] - Heat Resistance\n[Head] - Fire Breath\n[Hands] - Fire Fist, Fire Stream</color>.=<b><color%3Dred>[火]</color> 敖载</b>\r\n“历代火烈王都没能找到你，如今命运将你送到我面前，此乃天意. ”\n\n<color%3Dred>[能力：4]\n[被动] - 耐热\n[头部] - 火焰吐息\n[双手] - 火拳、火焰流</color>.
+
+<b><color%3Dred>[Fire]</color> Azula</b>\r\n"I'm about to celebrate becoming an only child!"\n\n<color%3Dred>[Abilities: 3]\n[Passive] - Heat Resistance\n[Hands] - Fire Fist, Fire Stream</color>.=<b><color%3Dred>[火]</color> 阿祖拉</b>\r\n“我快要庆祝自己成为独生女了！”\n\n<color%3Dred>[能力：3]\n[被动] - 耐热\n[双手] - 火拳、火焰流</color>.
+
+<b><color%3Dred>[Fire]</color> Mai</b>\r\n"I love Zuko more than I fear you."\n\n<color%3Dred>[Abilities: 0]</color>.=<b><color%3Dred>[火]</color> 梅</b>\r\n“我爱祖寇胜过怕你. ”\n\n<color%3Dred>[能力：0]</color>.
+
+<b><color%3Dred>[Fire]</color> Ty Lee</b>\r\n"My aura has never been pinker!"\n\n<color%3Dred>[Abilities: 1]\n[Hands] - Chi Punch</color>.=<b><color%3Dred>[火]</color> 泰丽</b>\r\n“我的气场从未如此粉红！”\n\n<color%3Dred>[能力：1]\n[双手] - 气脉拳</color>.
+
+<b><color%3Dred>[Fire]</color> Zuko</b>\r\n"I did lose my way."\n\n<color%3Dred>[Abilities: 3]\n[Passive] - Heat Resistance\n[Hands] - Fire Fist, Fire Stream</color>.=<b><color%3Dred>[火]</color> 祖寇</b>\r\n“我确实迷失过方向. ”\n\n<color%3Dred>[能力：3]\n[被动] - 耐热\n[双手] - 火拳、火焰流</color>.
+
+<b><color%3Dred>[Fire]</color> Iroh</b>\r\n"Even in exile, my nephew is more honorable than you"\n\n<color%3Dred>[Abilities: 4]\n[Passive] - Heat Resistance\n[Head] - Fire Breath\n[Hands] - Fire Fist, Fire Stream</color>.=<b><color%3Dred>[火]</color> 艾洛</b>\r\n“即便流放在外，我的侄子也比你们更有尊严”\n\n<color%3Dred>[能力：4]\n[被动] - 耐热\n[头部] - 火焰吐息\n[双手] - 火拳、火焰流</color>.
+
+<b><color%3Dwhite>[Air]</color> Aang</b>\r\n"Will you go penguin sledding with me?"\n\n<color%3Dwhite>[Abilities: 9]\n[Passive] - Temperature Regulation, Underwater Breathing\n[Hands] - Air Push, Water Jet, Fire Fist, Fire Stream, Earth Push\n[Upper Body] - Air Burst\n[Feet] - Rock Summon</color>.=<b><color%3Dwhite>[气]</color> 安昂</b>\r\n“你愿意和我一起去骑企鹅雪橇吗？”\n\n<color%3Dwhite>[能力：9]\n[被动] - 体温调节、水下呼吸\n[双手] - 气推、水射流、火拳、火焰流、土推\n[上躯干] - 气爆\n[双脚] - 召石</color>.
+
+<b><color%3Dwhite>[Air]</color> Appa</b>.\r\n=<b><color%3Dwhite>[气]</color> 阿柏</b>.\r\n
+
+<b><color%3Dgrey>[Item]</color> Zukos Sword</b>.\r\n=<b><color%3Dgrey>[物品]</color> 祖寇之剑</b>.\r\n
+
+<b><color%3Dgrey>[Item]</color> Meteorite Sword</b>.\r\n=<b><color%3Dgrey>[物品]</color> 陨铁剑</b>.\r\n
+
+<b><color%3Dgrey>[Item]</color> Boomerang</b>\r\n\n<color%3Dblue>Throwable</color>.=<b><color%3Dgrey>[物品]</color> 回旋镖</b>\r\n\n<color%3Dblue>可投掷</color>.
+
+Switch Ability=切换能力
+Switch Ability.=切换能力.
+
+
+
+
+
+
