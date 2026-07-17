@@ -12461,3 +12461,76 @@ Liquid Name=液体名称
 r:"Liquid is selected: (.*?)"="已选择液体：$1"
 Change Liquid.=更改液体。
 Change Liquid=更改液体
+
+
+
+
+
+
+
+
+
+
+//223*高级投掷物_Throwables Advanced
+<noparse>Throwables Advanced</noparse>=<noparse>高级投掷物</noparse>
+Throwables Advanced makes pointed throwable items - knives, swords, spears, syringes, and more - lock their tip toward the direction of travel while thrown, instead of spinning wildly in the air. It only takes over once it detects a real throw (sustained speed + stable trajectory), so holding, aiming, and swinging items still feels completely normal. Includes a live-tuning panel (F9) to adjust any item's angle in real time, and a full on/off toggle (F7).=高级投掷物使尖锐的可投掷物品——刀、剑、矛、注射器等——在投掷时将其尖端锁定朝向运动方向，而不是在空中乱转。它仅在检测到真正的投掷（持续速度 + 稳定轨迹）时才会接管控制，因此握持、瞄准和挥动物品时仍感觉完全正常。包括一个实时调整面板（F9），可实时调整任何物品的角度，以及一个完整的开/关切换键（F7）。
+<size%3D1.5em>Throwables Advanced</size>\nThrowables Advanced makes pointed throwable items - knives, swords, spears, syringes, and more - lock their tip toward the direction of travel while thrown, instead of spinning wildly in the air. It only takes over once it detects a real throw (sustained speed + stable trajectory), so holding, aiming, and swinging items still feels completely normal. Includes a live-tuning panel (F9) to adjust any item's angle in real time, and a full on/off toggle (F7).\n<noparse>A mod by Yuri for game version 1.28+</noparse>=<size%3D1.5em>高级投掷物</size>\n高级投掷物使尖锐的可投掷物品——刀、剑、矛、注射器等——在投掷时将其尖端锁定朝向运动方向，而不是在空中乱转。它仅在检测到真正的投掷（持续速度 + 稳定轨迹）时才会接管控制，因此握持、瞄准和挥动物品时仍感觉完全正常。包括一个实时调整面板（F9），可实时调整任何物品的角度，以及一个完整的开/关切换键（F7）。\n<noparse>由 Yuri 制作的模组，适用于游戏版本 1.28+</noparse>
+
+//面板,静态
+F9 - Throwables Advanced (ligado)=F9 - 高级投掷物（已开启）
+F9 - Throwables Advanced (DESLIGADO - F7 pra ligar)=F9 - 高级投掷物（已关闭 - 按F7开启）
+%3D%3D%3D Throwables Advanced %3D%3D%3D\nMOD DESLIGADO - aperte F7 pra ligar de novo.\nTodos os itens estão se comportando 100% normal (vanilla) agora.=%3D%3D%3D 高级投掷物 %3D%3D%3D\n模组已禁用 - 按F7重新启用。\n所有物品现在行为100%正常（原版）。
+%3D%3D%3D Throwables Advanced - Diagnostics %3D%3D%3D\nMod: LIGADO (F7 desliga)\nFound in game: Knife, Crystal, Chainsaw, Energy Sword, Lance, Spear, Spike, Sword, Excalibur\nNOT found (wrong name or item doesn't exist): (none)\n\nMarked target (O + left click marks | O + right click clears): (none)\n\nLast movement detected: (none yet)\n\nThrow an item to start adjusting the angle.=%3D%3D%3D 高级投掷物 - 诊断 %3D%3D%3D\n模组：已开启（按F7关闭）\n在游戏中找到：Knife、Crystal、Chainsaw、Energy Sword、Lance、Spear、Spike、Sword、Excalibur\n未找到（名称错误或物品不存在）：（无）\n\n标记目标（O + 左键标记 | O + 右键清除）：（无）\n\n上次检测到的移动：（暂无）\n\n投掷一个物品以开始调整角度。
+
+//拆分正则
+//诊断面板
+sr:"%3D%3D%3D Throwables Advanced - Diagnostics %3D%3D%3D\nMod: (?<status>LIGADO|DESLIGADO) \(F7 desliga\)\nFound in game: (?<found>.*?)\nNOT found \(wrong name or item doesn't exist\): (?<notfound>.*?)\n\nMarked target \(O \+ left click marks \| O \+ right click clears\): (?<target>.*?)\n\nLast movement detected: (?<item>.*?) -> (?<phrase>.*?)(?<params>.*?)\n\nThrow an item to start adjusting the angle\."="%3D%3D%3D 高级投掷物 - 诊断 %3D%3D%3D\n模组状态：${status}（按F7关闭）\n在游戏中找到：${found}\n未找到（名称错误或物品不存在）：${notfound}\n\n标记目标（O+左键标记 | O+右键清除）：${target}\n\n上次检测到的移动：${item} -> ${phrase} ${params}\n\n投掷一个物品以开始调整角度。"
+
+//实时调校面板
+sr:"%3D%3D%3D Throwables Advanced - Live Tuning %3D%3D%3D\nMod: (?<status>LIGADO|DESLIGADO) \(F7 desliga\)\nItem: (?<itemName>.*?)\nCurrent angleOffset: (?<angle>.*?)\nKeys: \[ and \] adjust by 5 \| ; and ' adjust by 45\nMarked target: (?<target>.*?) \(O \+ left click marks \| O \+ right click clears\)\nMode: (?<mode>.*?) \| Scale: (?<scale>.*?)\n---\nLast item tested \(any item, even if it didn't activate\): (?<item>.*?) -> (?<diag>.*?)"="%3D%3D%3D 高级投掷物 - 实时调校 %3D%3D%3D\n模组状态：${status}（按F7关闭）\n物品：${itemName}\n当前角度偏移：${angle}\n按键：[ 和 ] 调节5° | ；和 ' 调节45°\n标记目标：${target}（O+左键标记 | O+右键清除）\n模式：${mode} | 缩放：${scale}\n---\n上次测试物品：${item} -> ${diag}"
+
+Knife, Crystal, Chainsaw, Energy Sword, Lance, Spear, Spike, Sword, Excalibur=小刀、水晶碎块、电锯、能质剑、骑士长枪、长矛、尖刺、剑、断钢剑
+LIGADO=已开启
+DESLIGADO=已关闭
+straight lock=直线锁定
+(none)=（无）
+(no target)=（无目标）
+Scale=缩放
+none yet=暂无
+rested, ready to lock again on the next throw=已静止，准备在下次投掷时重新锁定
+r:"^speed OK \((.*?)\) but waiting for consecutive frames \((.*?)/(.*?)\)$"=速度正常（$1），等待连续帧（$2/$3）
+r:"^speed (.*?) below minimum \((.*?)\)$"=速度 $1 低于最小值（$2）
+r:"^ignored \(has transform\.parent %3D True\)$"=被忽略（存在父级）
+r:"^ignored \(rb\.isKinematic %3D true\)$"=被忽略（刚体为运动学）
+r:"^ERROR: couldn't find any Rigidbody2D \(not on the object, nor in children/parents\)$"=错误：未找到任何Rigidbody2D（物体本身、子级或父级均无）
+r:"^speed OK \((.*?)\) but direction changing too much \((.*?)°\) - probably still in hand$"=速度正常（$1），方向变化过大（$2°）——可能仍在手中
+
+UpperBody=上半身
+MiddleBody=中半身
+LowerBody=下半身
+UpperArm=上臂
+UpperArmFront=前上臂
+LowerArm=下臂
+LowerArmFront=前下臂
+UpperLeg=大腿
+UpperLegFront=前大腿
+LowerLeg=小腿
+LowerLegFront=前小腿
+Foot=脚部
+FootFront=前脚部
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
