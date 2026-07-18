@@ -12480,7 +12480,7 @@ Throwables Advanced makes pointed throwable items - knives, swords, spears, syri
 F9 - Throwables Advanced (ligado)=F9 - 高级投掷物（已开启）
 F9 - Throwables Advanced (DESLIGADO - F7 pra ligar)=F9 - 高级投掷物（已关闭 - 按F7开启）
 %3D%3D%3D Throwables Advanced %3D%3D%3D\nMOD DESLIGADO - aperte F7 pra ligar de novo.\nTodos os itens estão se comportando 100% normal (vanilla) agora.=%3D%3D%3D 高级投掷物 %3D%3D%3D\n模组已禁用 - 按F7重新启用. \n所有物品现在行为100%正常（原版）. 
-%3D%3D%3D Throwables Advanced - Diagnostics %3D%3D%3D\nMod: LIGADO (F7 desliga)\nFound in game: Knife, Crystal, Chainsaw, Energy Sword, Lance, Spear, Spike, Sword, Excalibur\nNOT found (wrong name or item doesn't exist): (none)\n\nMarked target (O + left click marks | O + right click clears): (none)\n\nLast movement detected: (none yet)\n\nThrow an item to start adjusting the angle.=%3D%3D%3D 高级投掷物 - 诊断 %3D%3D%3D\n模组：已开启（按F7关闭）\n在游戏中找到：Knife、Crystal、Chainsaw、Energy Sword、Lance、Spear、Spike、Sword、Excalibur\n未找到（名称错误或物品不存在）：（无）\n\n标记目标（O + 左键标记 | O + 右键清除）：（无）\n\n上次检测到的移动：（暂无）\n\n投掷一个物品以开始调整角度. 
+%3D%3D%3D Throwables Advanced - Diagnostics %3D%3D%3D\nMod: LIGADO (F7 desliga)\nFound in game: Knife, Crystal, Chainsaw, Energy Sword, Lance, Spear, Spike, Sword, Excalibur\nNOT found (wrong name or item doesn't exist): (none)\n\nMarked target (O + left click marks | O + right click clears): (none)\n\nLast movement detected: (none yet)\n\nThrow an item to start adjusting the angle.=%3D%3D%3D 高级投掷物 - 诊断 %3D%3D%3D\n模组：已开启（按F7关闭）\n在游戏中找到：小刀、水晶碎块、电锯、能质剑、骑士长枪、长矛、尖刺、剑、断钢剑\n未找到（名称错误或物品不存在）：（无）\n\n标记目标（O + 左键标记 | O + 右键清除）：（无）\n\n上次检测到的移动：（暂无）\n\n投掷一个物品以开始调整角度. 
 
 //拆分正则
 //诊断面板
@@ -13115,3 +13115,4 @@ Switch Ability.=切换能力.
 
 
 
+//328*
