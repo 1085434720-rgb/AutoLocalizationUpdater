@@ -13139,4 +13139,108 @@ Switch Ability.=切换能力.
 
 
 
-//328*
+//328*实时贴图编辑器_Live Sprite Editor
+<noparse>Live Sprite Editor</noparse>=<noparse>实时贴图编辑器</noparse>
+Adds an in-game sprite editor for characters and objects with painting tools, hitbox syncing, and quick copy/paste transfer tools for limbs, full characters, and sprites.=为角色和物体添加了游戏内贴图编辑器，包含绘画工具、碰撞箱同步，以及用于肢体、完整角色和贴图的快速复制/粘贴传输工具。
+<size%3D1.5em>Live Sprite Editor</size>\nAdds an in-game sprite editor for characters and objects with painting tools, hitbox syncing, and quick copy/paste transfer tools for limbs, full characters, and sprites.\n<noparse>A mod by hypermodified for game version Latest</noparse>=<size%3D1.5em>实时贴图编辑器</size>\n为角色和物体添加了游戏内贴图编辑器，包含绘画工具、碰撞箱同步，以及用于肢体、完整角色和贴图的快速复制/粘贴传输工具。\n<noparse>由 hypermodified 制作的模组，适用于游戏版本 Latest</noparse>
+
+Edit Character Sprite=编辑角色贴图
+Open a live sprite editor for this character and paint the selected limb in-game.=为此角色打开实时贴图编辑器，在游戏中为所选肢体绘制贴图.
+
+//UI
+LIVE SPRITE WORKSHOP=实时贴图工坊
+LIMB SELECT=肢体选择
+TOOLS=工具
+Brush=画笔
+Eraser=橡皮擦
+Fill=填充
+Picker=拾色器
+Brush Size=画笔大小
+Recent=最近
+COLOR=颜色
+r:"HEX (#[0-9A-Fa-f]{6})\\nOpacity ([\d.]+)%"="HEX $1\n透明度 $2%"
+CANVAS=画布
+Resize Canvas=调整画布大小
+Adds transparent space or crops around the center.=在中心周围添加透明区域或进行裁剪.
+Width=宽度
+Export=导出
+Export All=导出全部
+PREVIEW=预览
+CHANNELS=通道
+SKIN=皮肤
+FLESH=血肉
+BONE=骨骼
+UNIFIED=统一
+Editing Skin texture=正在编辑皮肤纹理
+Editing Flesh texture=正在编辑血肉纹理
+Editing Bone texture=正在编辑骨骼纹理
+ACTIONS=操作
+Redo=重做
+Reset Limb=重置肢体
+Reset Character=重置角色
+Copy Limb=复制肢体
+Paste Limb=粘贴肢体
+Copy Body=复制身体
+Paste Body=粘贴身体
+Keybinds=按键绑定
+Blood Color=血液颜色
+Choose the blood color for this character.=选择此角色的血液颜色.
+Unified depth: Brush damages, Eraser heals=统一深度：画笔造成伤害，橡皮擦恢复
+SKIN LAYERS=皮肤层
+FLESH CHANNEL=血肉通道
+BONE CHANNEL=骨骼通道
+UNIFIED CHANNEL=统一通道
+Reset Unified=重置统一
+Reset Flesh=重置血肉
+Reset Bone=重置骨骼
+BLOOD COLOR=血液颜色
+Rename Layer=重命名图层
+Sprite Copy=复制贴图
+Brush, eraser, fill, picker=画笔、橡皮擦、填充、拾色器
+Select pixels, move selection
+Copy all layers from the target
+Paste all target layers as overlays=将所有目标图层粘贴为叠加层
+Fill an enclosed pixel selection=填充封闭的像素选区
+Paint only existing opaque pixels=仅绘制现有的不透明像素
+Zoom canvas=缩放画布
+Pan canvas=平移画布
+Rename layer=重命名图层
+Select pixels, move selection=选择像素，移动选区
+Copy all layers from the target=从目标复制所有图层
+Brush size down or up=画笔大小减小或增大
+Set brush size=设置画笔大小
+Undo and redo=撤销和重做
+Copy selected pixels=复制选中的像素
+Cut selected pixels=剪切选中的像素
+Paste selected pixels as a new layer=将选中的像素粘贴为新图层
+Deselect pixels=取消选择像素
+Clear selected pixels=清除选中的像素
+Copy the selected layer=复制选中的图层
+Paste the selected layer=粘贴选中的图层
+Close the active popup or editor=关闭当前弹窗或编辑器
+r:"UI Scale ([\d.]+)%"="UI缩放 $1%"
+r:"Exported (.*?) PNG to (Export_at_.*?)\."="已导出$1PNG至$2."
+Brush Color=画笔颜色
+Choose a brush color.=选择画笔颜色.
+body=身体
+right upper leg=右上腿
+right bottom leg=右下腿
+left upper leg=左上腿
+left bottom leg=左下腿
+right upper leg background=右上腿背面
+right bottom leg background=右下腿背面
+left upper leg background=左上腿背面
+left bottom leg background=左下腿背面
+sr:"^(.*?)  \|  (.*?)  \|  (.*?)  \|  (\d+) x (\d+) px  \|  (.*?)$"="$1 | $2 | $3 | $4 × $5 像素 | $6"
+sr:"^(.*?)  \|  (.*?)  \|  (\d+) x (\d+) px  \|  (.*?)  \|  (\d+)%$"="$1 | $2 | $3 × $4 像素 | $5 | $6%"
+Skin=皮肤
+
+
+//UI2
+Edit Sprite=编辑贴图
+Open a live sprite editor for this object and paint its sprite in-game.=为此物体打开实时贴图编辑器，在游戏中绘制其贴图。
+Reset Sprite=重置贴图
+Reset Object=重置物体
+Copy Sprite=复制贴图
+Paste Sprite=粘贴贴图
+
