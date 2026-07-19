@@ -1597,3 +1597,147 @@ Reset filters and search after map restart?=地图重启后重置筛选和搜索
 
 
 
+
+
+
+
+
+
+
+
+//14*服装模组
+<noparse>intFramework</noparse>=<noparse>int框架</noparse>
+Contains code for Clothes mods by Int Studio=包含Int Studio的服装模组代码
+<size%3D1.5em>intFramework</size>\nContains code for Clothes mods by Int Studio\n<noparse>A mod by Int Studio for game version 1.27.3+</noparse>=<size%3D1.5em>int框架</size>\n包含Int Studio的服装模组代码\n<noparse>由 Int Studio 制作的模组，适用于游戏版本 1.27.3+</noparse>
+
+<noparse>Professions Clothes Pack</noparse>=<noparse>职业服装包</noparse>
+by quickness, mishanya, gank\n adds several sets of clothes of different professions=由 quickness、mishanya、gank 制作\n添加了多套不同职业的服装
+<size%3D1.5em>Professions Clothes Pack</size>\n=<size%3D1.5em>职业服装包</size>\n
+
+<noparse>Functional Clothing Mod Part III</noparse>=<noparse>功能性服装模组第三部分</noparse>
+by quickness, Mishanya\n=由 quickness、Mishanya 制作\n
+<size%3D1.5em>Functional Clothing Mod Part III</size>\nby quickness, Mishanya\n\n<noparse>A mod by Int Studio for game version 1.27.5</noparse>=<size%3D1.5em>功能性服装模组第三部分</size>\n由 quickness、Mishanya 制作\n\n<noparse>由 Int Studio 制作的模组，适用于游戏版本 1.27.5</noparse>
+
+<noparse>Functional Clothing Mod Part II</noparse>=<noparse>功能性服装模组第二部分</noparse>
+by quickness, Mishanya\n=由 quickness、Mishanya 制作\n
+<size%3D1.5em>Functional Clothing Mod Part II</size>\nby quickness, Mishanya\n\n<noparse>A mod by Int Studio for game version 1.27.5</noparse>=<size%3D1.5em>功能性服装模组第二部分</size>\n由 quickness、Mishanya 制作\n\n<noparse>由 Int Studio 制作的模组，适用于游戏版本 1.27.5</noparse>
+
+<noparse>Functional Clothing Mod</noparse>=<noparse>功能性服装模组</noparse>
+by quickness, gank, mishanya\n=由 quickness、gank、mishanya 制作\n
+<size%3D1.5em>Functional Clothing Mod</size>\n=<size%3D1.5em>功能性服装模组</size>\n
+
+Remove piece of clothing=移除服装
+
+Many people have questions about the mod. We have answered them.=许多人对此模组有疑问. 我们已经回答了它们.
+Video=视频
+
+Set as decorative=设为装饰
+Set as cloth=设为服装
+Toggles the functionality of an item of clothing=切换一件服装的功能性
+Toggles the functionality of an item of clothing.=切换一件服装的功能性.
+Next colour=下一颜色
+Switches to the next default colour=切换到下一个默认颜色
+Switches to the next default colour.=切换到下一个默认颜色.
+Previous colour=上一颜色
+Switches to the previous default colour=切换到上一个默认颜色
+Switches to the previous default colour.=切换到上一个默认颜色.
+Change the item of clothing colour=更改服装颜色
+Change the item of clothing colour.=更改服装颜色.
+Set tint for selected clothes=为所选服装设置色调
+Switch colour to default=将颜色切换为默认
+Switches colour to default=将颜色切换为默认
+Switches colour to default.=将颜色切换为默认.
+
+<b>Clothing [FCM]</b>\r\n=<b>服装 [FCM]</b>\r\n
+
+//1
+Shorts [FCM]=短裤 [FCM]
+T-shirt [FCM]=T恤 [FCM]
+Baseball Cap [FCM]=棒球帽 [FCM]
+Bucket Hat [FCM]=水桶帽 [FCM]
+Shirt [FCM]=衬衫 [FCM]
+Trousers [FCM]=长裤 [FCM]
+Jacket [FCM]=夹克 [FCM]
+Cylinder Hat [FCM]=圆筒帽 [FCM]
+Hat 1 [FCM]=帽子1 [FCM]
+Hat 2 [FCM]=帽子2 [FCM]
+Pilgrim Hat [FCM]=朝圣者帽 [FCM]
+Shoes [FCM]=鞋子 [FCM]
+Glasses [FCM]=眼镜 [FCM]
+Boonie Hat [FCM]=遮阳帽 [FCM]
+Boots [FCM]=靴子 [FCM]
+Gloves [FCM]=手套 [FCM]
+
+//2
+Sun Hat [FCM]=遮阳帽 [FCM]
+Balaclava [FCM]=巴拉克拉瓦面罩 [FCM]
+Ski Mask [FCM]=滑雪面罩 [FCM]
+Open Shiesty [FCM]=开口面罩 [FCM]
+Shades [FCM]=墨镜 [FCM]
+White Paper Mask With Facial Expressions [FCM]=带表情白纸面具 [FCM]
+Tank Top [FCM]=背心 [FCM]
+Crop Top [FCM]=露脐装 [FCM]
+Arm Pads [FCM]=护臂 [FCM]
+Fingerless Gloves [FCM]=露指手套 [FCM]
+Arm Warmers [FCM]=臂套 [FCM]
+Arm Warmers With White Strips [FCM]=白色条纹臂套 [FCM]
+White T-Shirt With Color Icon [FCM]=带彩色图标的白色T恤 [FCM]
+Cosmetic Brass Knuckles [FCM]=装饰指虎 [FCM]
+Knee Pads [FCM]=护膝 [FCM]
+Thigh Pads [FCM]=护大腿 [FCM]
+Thigh Highs [FCM]=过膝袜 [FCM]
+Baggy Pants [FCM]=宽松长裤 [FCM]
+Track Pants With White Strips [FCM]=白色条纹运动裤 [FCM]
+Track Pants With Black Strips [FCM]=黑色条纹运动裤 [FCM]
+Sandals [FCM]=凉鞋 [FCM]
+Slides [FCM]=拖鞋 [FCM]
+Socks [FCM]=袜子 [FCM]
+Long Socks [FCM]=长袜 [FCM]
+
+//3
+Fedora [FCM]=软呢帽 [FCM]
+Necktie dotted [FCM]=波点领带 [FCM]
+Necktie Plain [FCM]=纯色领带 [FCM]
+Vest [FCM]=马甲 [FCM]
+Pinstriped Vest [FCM]=细条纹马甲 [FCM]
+Unbuttoned Suit Jacket [FCM]=敞怀西装外套 [FCM]
+Pinstriped Unbuttoned Suit Jacket [FCM]=细条纹敞怀西装外套 [FCM]
+Suit Overcoat [FCM]=西装大衣 [FCM]
+Pinstriped Suit Overcoat [FCM]=细条纹西装大衣 [FCM]
+Pinstriped Jacket [FCM]=细条纹夹克 [FCM]
+Pinstriped Pants [FCM]=细条纹长裤 [FCM]
+
+//职业
+Builder uniform=建筑工人制服
+<b>Builder uniform</b>\r\nBuilder uniform parts.=<b>建筑工人制服</b>\r\n建筑工人制服部件.
+Builder trousers=建筑工人长裤
+Builder waistcoat=建筑工人马甲
+Builder gloves=建筑工人手套
+Builder helmet=建筑工人头盔
+Police uniform=警察制服
+<b>Builder uniform</b>\r\nPolice uniform parts.=<b>建筑工人制服</b>\r\n警察制服部件.
+Police trousers=警察长裤
+Police jacket=警察夹克
+Police cap=警察帽
+Paramedic uniform=急救员制服
+<b>Builder uniform</b>\r\nParamedic uniform parts.=<b>建筑工人制服</b>\r\n急救员制服部件.
+Paramedic trousers=急救员长裤
+Paramedic jacket=急救员夹克
+<b>Builder uniform</b>\r\nSurgeon uniform parts.=<b>建筑工人制服</b>\r\n外科医生制服部件.
+Surgeon uniform parts=外科医生制服部件
+Surgeon trousers=外科医生长裤
+Surgeon gown=外科医生手术服
+Surgeon hat=外科医生帽
+Medical Mask=医用口罩
+Doctor uniform=医生制服
+<b>Builder uniform</b>\r\nDoctor uniform parts.=<b>建筑工人制服</b>\r\n医生制服部件.
+Doctor trousers=医生长裤
+Doctor coat=医生白大褂
+Sweater=毛衣
+Doctor shirt=医生衬衫
+Doctor hat=医生帽
+
+
+
+
+
