@@ -232,7 +232,7 @@ Hand Throw Open Menu.=打开手部投掷菜单.
 
 Disable Punch=<color%3D#FF0000FF>关闭打击
 Enable Punch=<color%3D#00FF00FF>开启打击
-Toggle Punch=切换打击.
+Toggle Punch=切换打击
 Toggle Punch.=切换打击.
 Punch Open Menu=<color%3D#FFD800>打开打击菜单
 Punch Open Menu.=打开打击菜单.
