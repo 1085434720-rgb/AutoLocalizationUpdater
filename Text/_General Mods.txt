@@ -13255,6 +13255,9 @@ Paste Sprite=粘贴贴图
 
 
 //329*
+<noparse>LLS Invincible Mod Public Beta</noparse>=<noparse>LLS无敌少侠模组公开测试版</noparse>
+This is a free early view of Llama Studios' Invincible Mod.=这是Llama Studios无敌少侠模组的免费早期预览。
+<size%3D1.5em>LLS Invincible Mod Public Beta</size>\nThis is a free early view of Llama Studios' Invincible Mod.\n<noparse>A mod by Llama Studios for game version 1.26+</noparse>=<size%3D1.5em>LLS无敌少侠模组公开测试版</size>\n这是Llama Studios无敌少侠模组的免费早期预览。\n<noparse>由 Llama Studios 制作的模组，适用于游戏版本 1.26+</noparse>
 <noparse>LLS Invincible Mod</noparse>=<noparse>LLS无敌少侠模组</noparse>
 
 <b>LLS Invincible</b>\r\nBeing a hero is bullshit.=<b>LLS无敌少侠</b>\r\n当英雄就是狗屁. 
@@ -13348,8 +13351,8 @@ Paste Sprite=粘贴贴图
 
 Toggle Slashing=切换劈砍
 Toggle Slashing.=切换劈砍.
-Toggle Headbutting=切换头撞
-Toggle Headbutting.=切换头撞.
+Toggle Headbutting=切换头槌
+Toggle Headbutting.=切换头槌.
 Toggle Kick=切换踢击
 Toggle Kick.=切换踢击.
 Toggle Goggles=切换护目镜
