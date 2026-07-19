@@ -5,6 +5,7 @@ Automatic localization patch=自动汉化补丁
 <color%3D#ccc>Parsing metadata</color>=<color%3D#ccc>解析元数据</color>
 <color%3D#ccc>Reading</color>=<color%3D#ccc>阅读</color>
 <color%3D#ccc>Compiling</color>=<color%3D#ccc>编译中</color>
+<color%3D#ccc>Processing</color>=<color%3D#ccc>数据处理中</color>
 <b>people playground</b> (2019) by mestiez (zooi), Studio Minus\nAdditional work by Aspa102 and mishanya=<b>人类游乐场</b> (2019) 由 mestiez (zooi), Studio Minus 制作\n附加工作由 Aspa102 和 mishanya 完成
 r:"running game version <b>(.*?)</b>\nusing Unity version <b>(.*?)</b>"=正在运行的游戏版本 <b>$1</b>\nUnity使用版本 <b>$2</b>
 NAudio by Mark Heath (Ms-PL)=NAudio 由 Mark Heath 提供 (Ms-PL)
@@ -12915,6 +12916,7 @@ Eat all kind of foods until you explode!!=吃遍各种食物，直到你爆炸�
 <b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>CatHat Studios</b>\r\nCatHat Studios!=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>CatHat工作室</b>\r\nCatHat工作室！
 <b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Red Bull</b>\r\nGive's you whings!=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>红牛</b>\r\n给你翅膀！
 <b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Uranium</b>\r\nIt not meant to be eaten, but if you do, you will get super power! (not really, everyone around you will die, including you)=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>铀</b>\r\n它不是用来吃的，但如果你吃了，你会获得超能力！（其实不会，你周围的所有人都会死，包括你自己）
+<b><color%3D#FFF300>[Secret] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>Hair</b>\r\nI think you dont understand... I WANT... MORE HAIR... ON MY FOOD!=<b><color%3D#FFF300>[秘密] <color%3Dwhite><color%3D#4DFF00>[UFM] <color%3Dwhite>头发</b>\r\n我想你没明白……我想要……在我的食物上……更多头发！
 
 BobPie=Bob派
 RawBobPie=生Bob派
