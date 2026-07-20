@@ -13256,10 +13256,10 @@ Paste Sprite=粘贴贴图
 
 
 
-//329*
+//329*LLS无敌少侠_LLS Invincible
 <noparse>LLS Invincible Mod Public Beta</noparse>=<noparse>LLS无敌少侠模组公开测试版</noparse>
-This is a free early view of Llama Studios' Invincible Mod.=这是Llama Studios无敌少侠模组的免费早期预览。
-<size%3D1.5em>LLS Invincible Mod Public Beta</size>\nThis is a free early view of Llama Studios' Invincible Mod.\n<noparse>A mod by Llama Studios for game version 1.26+</noparse>=<size%3D1.5em>LLS无敌少侠模组公开测试版</size>\n这是Llama Studios无敌少侠模组的免费早期预览。\n<noparse>由 Llama Studios 制作的模组，适用于游戏版本 1.26+</noparse>
+This is a free early view of Llama Studios' Invincible Mod.=这是Llama Studios无敌少侠模组的免费早期预览. 
+<size%3D1.5em>LLS Invincible Mod Public Beta</size>\nThis is a free early view of Llama Studios' Invincible Mod.\n<noparse>A mod by Llama Studios for game version 1.26+</noparse>=<size%3D1.5em>LLS无敌少侠模组公开测试版</size>\n这是Llama Studios无敌少侠模组的免费早期预览. \n<noparse>由 Llama Studios 制作的模组，适用于游戏版本 1.26+</noparse>
 <noparse>LLS Invincible Mod</noparse>=<noparse>LLS无敌少侠模组</noparse>
 
 <b>LLS Invincible</b>\r\nBeing a hero is bullshit.=<b>LLS无敌少侠</b>\r\n当英雄就是狗屁. 
@@ -13359,3 +13359,294 @@ Toggle Kick=切换踢击
 Toggle Kick.=切换踢击.
 Toggle Goggles=切换护目镜
 Toggle Goggles.=切换护目镜.
+
+
+
+
+
+
+//330*龙珠冲击_Dragonball Impact
+<noparse>Dragonball Impact</noparse>=<noparse>龙珠冲击</noparse>
+Dragonball Impact=龙珠冲击
+<size%3D1.5em>Dragonball Impact</size>\nDragonball Impact\n<noparse>A mod by Impact Studios for game version 1.25+</noparse>=<size%3D1.5em>龙珠冲击</size>\n龙珠冲击\n<noparse>由 Impact Studios 制作的模组，适用于游戏版本 1.25+</noparse>
+//物品栏
+<b>[DBPU] Transformation Maker</b>\r\nCreate and edit custom transformations. Pick a character, then a form, then edit sprites and properties with a live preview.=<b>[DBPU] 变身制作器</b>\r\n创建和编辑自定义变身. 选择角色，然后选择形态，再通过实时预览编辑贴图和属性. 
+<b>[DBPU] Skin Maker</b>\r\nCreate and edit custom skin packs. Pick a character, edit limbs by category, auto-generate damage variants, and preview live.=<b>[DBPU] 皮肤制作器</b>\r\n创建和编辑自定义皮肤包. 选择角色，按分类编辑肢体，自动生成损伤变体，并实时预览. 
+
+
+//物品
+<b>[DBPU] Potara Earring</b>\r\nEarrings worn by Supreme Kais. Fuse two compatible fighters when each wears one and they meet.=<b>[DBPU] 波塔拉耳环</b>\r\n界王神所佩戴的耳环. 当两位合适的战士各戴一只并接触时，即可合体. 
+
+
+//龙珠超
+//布罗利剧场版
+<b>[DBPU] (BM) Bardock</b>\r\nBardock from Dragon Ball Super: Broly.=<b>[DBPU] (BM) 巴达克</b>\r\n出自《龙珠超：布罗利》的巴达克. 
+<b>[DBPU] (BM) Chiaotzu</b>\r\nChiaotzu in his Super Fit look from Dragon Ball Super: Broly.=<b>[DBPU] (BM) 饺子</b>\r\n出自《龙珠超：布罗利》，身着超级健壮造型的饺子. 
+//龙珠超：超级人造人
+<b>[DBPU] (DBSSH) Teen Gotenks</b>\r\nThe Metamoran fusion of Teen Goten and Teen Trunks.=<b>[DBPU] (DBSSH) 少年悟天克斯</b>\r\n少年悟天与少年特兰克斯的梅塔莫尔融合. 
+<b>[DBPU] (DBSSH) Pan</b>\r\nGohan and Videl's daughter from Dragon Ball Super: Super Hero.=<b>[DBPU] (DBSSH) 小芳</b>\r\n出自《龙珠超：超级人造人》的悟饭与比迪丽的女儿. 
+//黑悟空篇
+<b>Goku Black Arc</b>\r\nGoku Black Arc.=<b>黑悟空篇</b>\r\n黑悟空篇. 
+<b>[DBPU] Goku Black</b>\r\nMy form is justice.=<b>[DBPU] 黑悟空</b>\r\n我的形态即为正义. 
+
+
+//龙珠Z
+<b>DBZ</b>\r\nDragon Ball Z Series.=<b>DBZ</b>\r\n龙珠Z系列.
+This item belongs to: DBZ.=此物品属于：龙珠Z.
+
+<b>Buu Saga</b>\r\nDragon Ball Z Majin Buu Saga.=<b>布欧篇</b>\r\n龙珠Z魔人布欧篇.
+This item belongs to: Buu Saga.=此物品属于：布欧篇.
+<b>[DBPU] Vegito</b>\r\nThe gloves are off. Fight me! YOSHAAAA!!!=<b>[DBPU] 贝吉特</b>\r\n废话少说. 来战吧！呀哈——！！！
+<b>[DBPU] Kid Buu</b>\r\nMe Buu, not nice!=<b>[DBPU] 小布欧</b>\r\n布欧，不好！
+<b>[DBPU] Majin Buu</b>\r\nMe give you nice beatdown!=<b>[DBPU] 魔人布欧</b>\r\n布欧，痛扁你！
+<b>[DBPU] Super Buu</b>\r\nYou are not worthy to fight me!=<b>[DBPU] 超级布欧</b>\r\n你不配与我战斗！
+<b>[DBPU] Evil Buu</b>\r\nGive up your candy!=<b>[DBPU] 邪恶布欧</b>\r\n交出你的糖果！
+
+<b>Saiyan Saga</b>\r\nDragon Ball Z Saiyan Saga.=<b>赛亚人篇</b>\r\n龙珠Z赛亚人篇. 
+This item belongs to: Saiyan Saga.=此物品属于：赛亚人篇. 
+<b>[DBPU] Tenshinhan</b>\r\nA disciplined martial artist from the Crane School, ready to face the Saiyans.=<b>[DBPU] 天津饭</b>\r\n来自鹤仙流的纪律严明的武术家，准备迎战赛亚人. 
+<b>[DBPU] Kid Gohan</b>\r\nGohan as a child during the Saiyan Saga, training under Piccolo.=<b>[DBPU] 小悟饭</b>\r\n赛亚人篇时期的孩童悟饭，在比克门下修行. 
+<b>[DBPU] Chiaotzu</b>\r\nTien's small psychic partner from the Saiyan Saga.=<b>[DBPU] 饺子</b>\r\n天津饭的矮小超能力伙伴，出自赛亚人篇. 
+<b>[DBPU] Farmer</b>\r\nA farmer from the Saiyan Saga era.=<b>[DBPU] 农夫</b>\r\n一名来自赛亚人篇时代的农夫. 
+<b>[DBPU] Nappa</b>\r\nVegeta's towering Saiyan partner from the Saiyan Saga.=<b>[DBPU] 那巴</b>\r\n赛亚人篇中贝吉塔的高大赛亚人搭档. 
+<b>[DBPU] Vegeta</b>\r\nThe Prince of all Saiyans in his Saiyan Saga armor.=<b>[DBPU] 贝吉塔</b>\r\n穿着赛亚人篇装甲的赛亚人王子. 
+<b>[DBPU] Oozaru</b>\r\nA Great Ape Saiyan. Titan-scale body for now; joints will be tuned before form wiring.=<b>[DBPU] 巨猿</b>\r\n赛亚人的巨猿形态. 目前为泰坦级体型；关节将在形态接入前进行调整.
+
+<b>Story of Bardock</b>\r\nDragon Ball Z: Bardock - The Father of Goku.=<b>巴达克篇</b>\r\n龙珠Z特别版：一夫当关的最后决战. 
+This item belongs to: Story of Bardock.=此物品属于：巴达克篇. 
+<b>[DBPU] Bardock</b>\r\nGoku's father from Dragon Ball Z: Bardock - The Father of Goku.=<b>[DBPU] 巴达克</b>\r\n来自《龙珠Z特别版：一夫当关的最后决战》的悟空之父. 
+
+<b>Cell Games</b>\r\nDragon Ball Z Cell Games.=<b>沙鲁游戏</b>\r\n龙珠Z沙鲁游戏. 
+This item belongs to: Cell Games.=此物品属于：沙鲁游戏. 
+<b>[DBPU] Teen Gohan</b>\r\nGohan during the Cell Games era.=<b>[DBPU] 少年悟饭</b>\r\n沙鲁游戏时期的悟饭. 
+
+
+//变身制作器
+Click a person to open Transformation Maker=点击一个人以打开变身制作器
+Transformations Menu added beside Powers Menu=变身菜单已添加至能力菜单旁
+sr:"^Editing (.*?)$"="正在编辑$1"
+sr:"^(.*?) Forms$"="$1形态"
+New Form=新形态
+Import a transformation pack (.dbputf / .zip) or browse Workshop=导入变身包（.dbputf / .zip）或浏览创意工坊
+Browse=浏览
+Enter Path=输入路径
+New Transformation=新建变身
+Custom Form=自定义形态
+Live Preview=实时预览
+Apply Now=立即应用
+Pick Person=选择角色
+Click a person in the world=点击世界中的一个人
+sr:"^Preview bound to (.*?)$"="预览绑定到$1"
+Click limb for accessory  |  Drag hair=点击肢体选择饰品 ｜ 拖拽头发
+sr:"^Add Accessory \((.*?)\)$"="添加饰品（$1）"
+Import PNG=导入PNG
+Search sprites...=搜索贴图...
+No head sprites found=未找到头部贴图
+Sprites=贴图
+No hair sprites found=未找到头发贴图
+r:"Name: (.*?)"="名称：$1"
+Set Text=设置文本
+r:"Size: ([\d.]+)"="大小：$1"
+r:"Ki Drain: ([\d.]+)"="气消耗：$1"
+sr:"^Aura: (.*?)$"="气场：$1"
+Aura Maker=气场制作
+Aura Presets=气场预设
+BeastGohan=野兽悟饭
+BlackFrieza=黑弗利萨
+Broly=布罗利
+Frieza=弗利萨
+GoldenFrieza=黄金弗利萨
+MUI=自在极意功
+Mystic=神秘悟饭
+OrangePiccolo=橙色比克
+PowerAwakened=力量觉醒
+SSJ1=超级赛亚人1
+SSJ2=超级赛亚人2
+SSJ3=超级赛亚人3
+SSJBlue=超级赛亚人蓝
+SSJBlueEvolution=超级赛亚人蓝进化
+SSJGod=超级赛亚人之神
+UE=自我极意
+Base *=基础 *
+BeastGohan *=野兽悟饭 *
+BlackFrieza *=黑弗利萨 *
+Broly *=布罗利 *
+Frieza *=弗利萨 *
+GoldenFrieza *=黄金弗利萨 *
+MUI *=自在极意功 *
+Mystic *=神秘悟饭 *
+OrangePiccolo *=橙色比克 *
+PowerAwakened *=力量觉醒 *
+SSJ1 *=超级赛亚人1 *
+SSJ2 *=超级赛亚人2 *
+SSJ3 *=超级赛亚人3 *
+SSJBlue *=超级赛亚人蓝 *
+SSJBlueEvolution *=超级赛亚人蓝进化 *
+SSJGod *=超级赛亚人之神 *
+UE *=自我极意 *
+r:"UI \| preset \| x(\d+)"="自在极意功 | 预设 | x$1"
+sr:"^(.*?) \| (.*?) \| (.*?)$"="$1 | $2 | $3"
+Primary Color=主色
+Secondary Color=副色
+Custom: OFF=自定义：关
+Custom: ON=自定义：开
+r:"Scale: ([\d.]+)"="缩放：$1"
+preset=预设
+custom=自定义
+Ki Bar Color=气条颜色
+Ki Bar Colour=气条颜色
+Pick the ki bar colour for this form.=为此形态选择气条颜色.
+sr:"^Skin Suffix: \((.*?)\)$"="皮肤后缀：（$1）"
+default=默认
+(default / none)=（默认 / 无）
+r:"Accessories: (\d+)"="饰品：$1"
+Accessories=饰品
+List=列表
+sr:"^Accessory @ (.*?)$"="饰品 @ $1"
+Add Accessory=添加饰品
+Click a limb in\nthe preview to\npreselect attach.=点击预览中的肢体\n以预选附着点
+Edit Accessory=编辑饰品
+Properties=属性
+Attach Limb=附着肢体
+sr:"^Sprite: (.*?)$"="贴图：$1"
+r:"Offset X: ([\d.]+)"="X偏移：$1"
+r:"Offset Y: ([\d.]+)"="Y偏移：$1"
+Sprite Editor=贴图编辑器
+Limbs=肢体
+sr:"^(.*?)  \|  (.*?)  \|  (\d+) x (\d+) px  \|  (.*?)$"="$1 | $2 | $3 × $4 像素 | $5"
+sr:"^(.*?)  \|  (\d+) x (\d+) px  \|  (.*?)  \|  (\d+)%$"="$1 | $2 × $3 像素 | $4 | $5%"
+Marquee=选框
+Canvas Size=画布大小
+Set size, then pick where the current art stays.=设置大小，然后选择当前画面保留的位置.
+Content Position=内容位置
+Center=居中
+sr:"^Icon: \((.*?)\)$"="图标：（$1）"
+empty=空
+Icon capture ready=图标捕获就绪
+Take Photo=拍照
+Icon saved=图标已保存
+Share=分享
+Icon: set=图标: 已设置
+sr:"^Illustration: \((.*?)\)$"="插图：（$1）"
+Illustration capture ready=插图捕获就绪
+Illustration saved=插图已保存
+Illustration: set=插图: 已设置
+r:"Hair Offset X ([\d.]+) Y ([\d.]+)"="头发偏移 X $1 Y $2"
+r:"HaiR X: ([\d.]+)"="头发 X：$1"
+Set Value=设置数值
+r:"Hair Y: ([\d.]+)"="头发 Y：$1"
+Reset Hair Offset=重置头发偏移
+Hair Recolour=头发重新着色
+Pick a hair colour tint and press Apply.=选择头发颜色色调，然后点击应用.
+Description=描述
+Base form=基础形态
+r:"Saved transformation \"(.*?)\"\."="已保存变身“$1”."
+r:"Reset \"(.*?)\" to the default form\\?"="重置“$1”为默认形态？"
+File Pack (.dbputf)=文件包（.dbputf）
+Share Form=分享形态
+Publish to Workshop=发布到创意工坊
+r:"Title: (.*?)"="标题：$1"
+r:"Description: (.*?)"="描述：$1"
+r:"Preview: (.*?)"="预览：$1"
+Recapture Icon Preview=重新捕获图标预览
+Browse PNG Preview=浏览PNG预览
+
+//皮肤制作器
+Click a person to open Skin Maker=点击一个人以打开皮肤制作器
+sr:"^(.*?) Skins$"="$1的皮肤"
+New Skin=新皮肤
+No sprites found=未找到贴图
+sr:"^Click limb: (.*?)$"="点击肢体：$1"
+r:"Damage: Damage(\d+)"="损伤：损伤$1"
+r:"Damage(\d+)"="损伤$1"
+Damage Levels=损伤等级
+sr:"^(.*?)  \(editing\)$"="$1（编辑中）"
+Click a level to edit it=点击一个等级以进行编辑
+Add=添加
+sr:"^Variant: (.*?)$"="变体：$1"
+Buffed Variants=强化变体
+r:"Add Buffed(\d+)"="添加强化$1"
+sr:"^Limb: (.*?)$"="肢体：$1"
+Upper=上
+Middle=中
+Lower=下
+ULeg=上腿
+LLeg=下腿
+UArm=上臂
+LArm=下臂
+Uppe=上
+Midd=中
+Lowe=下
+Belts=腰带
+Save Belts=保存腰带
+Share Skin=分享皮肤
+File Pack (.dbpusk)=文件包（.dbpusk）
+r:"Delete custom skin \"(.*?)\"\\?"="删除自定义皮肤“$1”？"
+Clone=克隆
+Publish Skin=发布皮肤
+Edit Title=编辑标题
+Description:=描述：
+Edit Description=编辑说明
+
+//能力
+Max Cannon=极限加农炮
+Max Cannon  <size%3D70%><color%3D#444>Beam=极限加农炮 <size%3D70%><color%3D#444>光束
+r:"Granted Max Cannon to (.*?)\."="已向 $1 赋予极限加农炮。"
+
+Wrath of the G.O.D.=破坏神之怒
+Wrath of the G.O.D.  <size%3D70%><color%3D#444>Beerus=破坏神之怒 <size%3D70%><color%3D#444>比鲁斯
+r:"Granted Wrath of the G.O.D. to (.*?)\."="已向 $1 赋予破坏神之怒。"
+
+Beerus Ball=比鲁斯之球
+Beerus Ball  <size%3D70%><color%3D#444>Beerus=比鲁斯之球 <size%3D70%><color%3D#444>比鲁斯
+r:"Granted Beerus Ball to (.*?)\."="已向 $1 赋予比鲁斯之球。"
+
+G.O.D's Wrath=破坏神之怒
+Omni-directional ki blast barrage from the middle body.=从身体中部发出的全方位气功弹幕。
+G.O.D's Wrath  <size%3D70%><color%3D#444>Beerus=破坏神之怒 <size%3D70%><color%3D#444>比鲁斯
+r:"Granted G.O.D's Wrath to (.*?)\."="已向 $1 赋予破坏神之怒。"
+
+Cataclysmic Orb=灾厄之球
+Tiny atom-like sphere with a devastating explosion.=带有毁灭性爆炸的微型原子状球体。
+Cataclysmic Orb  <size%3D70%><color%3D#444>Beerus=灾厄之球 <size%3D70%><color%3D#444>比鲁斯
+r:"Granted Cataclysmic Orb to (.*?)\."="已向 $1 赋予灾厄之球。"
+
+Spirit Bomb=元气弹
+Spirit Bomb  <size%3D70%><color%3D#444>Ball=元气弹 <size%3D70%><color%3D#444>弹丸
+r:"Granted Spirit Bomb to (.*?)\."="已向 $1 赋予元气弹。"
+
+Super Spirit Bomb=超级元气弹
+Super Spirit Bomb  <size%3D70%><color%3D#444>Ball=超级元气弹 <size%3D70%><color%3D#444>弹丸
+r:"Granted Super Spirit Bomb to (.*?)\."="已向 $1 赋予超级元气弹。"
+
+Kaioken=界王拳
+Power boost with strain buildup. Toggle from the powers menu or press K.=力量随负荷积累而提升。可从能力菜单切换或按K键。
+Kaioken power multiplier.=界王拳力量倍率.
+Multiplier=倍率
+Kaioken  <size%3D70%><color%3D#444>Special=界王拳 <size%3D70%><color%3D#444>特殊
+r:"Granted Kaioken to (.*?)\."="已向 $1 赋予界王拳。"
+
+Disaster Ray=灾厄射线
+Black armor spots glow purple and emit destructive lasers in all directions. Activate the head while enabled to unleash.=黑色护甲上的斑点发出紫色光芒，向所有方向发射毁灭性激光。启用时激活头部即可释放。
+
+Disaster Ray  <size%3D70%><color%3D#444>Special=灾厄射线 <size%3D70%><color%3D#444>特殊
+r:"Granted Disaster Ray to (.*?)\."="已向 $1 赋予灾厄射线。"
+
+Eye Laser=眼部激光
+Fires a straight yellow eye laser. Activate the head while enabled to fire.=发射一道笔直的黄色眼部激光。启用时激活头部即可发射。
+Eye Laser  <size%3D70%><color%3D#444>Special=眼部激光 <size%3D70%><color%3D#444>特殊
+r:"Granted Eye Laser to (.*?)\."="已向 $1 赋予眼部激光。"
+
+
+
+//右键菜单
+Ki charge FX: Enable=气充能特效：启用
+Ki charge FX: Disable=气充能特效：禁用
+Enable then hold activation on the head (same as Ki Blast barrage on arms) — debris, Ki, aura=启用后按住头部激活键（与手臂气功弹幕相同）——碎片、气、气场
+Enable then hold activation on the head (same as Ki Blast barrage on arms) — debris, Ki, aura.=启用后按住头部激活键（与手臂气功弹幕相同）——碎片、气、气场。
+
+Sparking: Activate (or overcharge)=火花：激活（或过载）
+With charge FX on, hold activation on head at full Ki until purple fills. Or start Sparking here=气充能特效开启时，在气满状态下按住头部激活键直至紫色填满。或在此处启动火花。
+With charge FX on, hold activation on head at full Ki until purple fills. Or start Sparking here.=气充能特效开启时，在气满状态下按住头部激活键直至紫色填满。或在此处启动火花。
+
+
