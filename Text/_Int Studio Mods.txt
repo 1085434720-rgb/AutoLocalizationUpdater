@@ -4,7 +4,7 @@
 MPW library=MPW库
 <size%3D1.5em>MPW library</size>\nLibrary for creating and managing windows. Using this library is <color%3Dred>required</color> for most mods from Int Studio.\r\n\r\nIncludes:\r\n• The library itself\r\n• Special activation (by default <b>H</b>)\r\n• UIBuilder (it is used by the library itself, it can also be used via MPWAPI)\r\n\r\nAbout the patch (command promt/terminal)\r\nImportant! After updating the mod to version 2.0, you must restart the game after the first launch with enabled MPW to apply the patch (a window with a notification will appear).\r\nDuring the first launch, the patcher's terminal will open (it lists all the changes it makes), so don't be alarmed.\r\n\r\nThis patch allows mods to set their own loading order. In the case of MPW, this is necessary so that it loads before all other mods and loads the latest version of the MPW API, which other mods will use.\r\n\r\nTo completely disable the library, you need to turn it off and restart the game.=<size%3D1.5em>MPW库</size>\n用于创建和管理窗口的库.使用此库对于Int Studio的大多数模组是<color%3Dred>必需的</color>.\r\n\r\n包括：\r\n• 库本身\r\n• 特殊激活（默认为<b>H</b>）\r\n• UIBuilder（由库本身使用，也可通过MPWAPI使用）\r\n\r\n关于补丁（命令提示符/终端）\r\n重要！将模组更新到2.0版本后，在首次启动启用MPW后，必须重新启动游戏以应用补丁（会显示通知窗口）.在首次启动期间，修补程序的终端将打开（它会列出其所做的所有更改），因此不必惊慌.\r\n\r\n此补丁允许模组设置自己的加载顺序.对于MPW，这是必要的，以便它先于所有其他模组加载，并加载其他模组将使用的最新版MPW API.\r\n\r\n要完全禁用该库，你需要将其关闭并重新启动游戏.
 Library for creating and managing windows. Also includes special activation (SA).=用于创建和管理窗口的库. 还包括特殊激活(SA).
-[MPW] Specially activate object (SA)=[MPW] 特殊激活物体（SA）
+[MPW] Specially activate object (SA)=[MPW] 物体特殊激活, 简称(SA)
 <b>MPW menu</b>\nMenu for setting up the MPW library.=<b>MPW菜单</b>\n用于设置MPW库的菜单.
 [MPW] Settings=[MPW] 设置
 Windows=窗口
@@ -1736,6 +1736,178 @@ Doctor coat=医生白大褂
 Sweater=毛衣
 Doctor shirt=医生衬衫
 Doctor hat=医生帽
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//15*义肢模组_Prostheses Mod
+<noparse>Prostheses Mod</noparse>=<noparse>义肢模组</noparse>
+This mod adds prosthetic limbs that can be worn instead of limbs. It also adds batteries and chargers for them..=此模组添加了可穿戴以替代原生肢体的义肢，同时还添加了它们的电池和充电器. 
+<size%3D1.5em>Prostheses Mod</size>\nThis mod adds prosthetic limbs that can be worn instead of limbs. It also adds batteries and chargers for them.\r\n\r\nHow do I <u>attach</u> a prosthesis?\r\n1. Find the human being with the missing limb (Or create it yourself)\r\n2. Look, which limb is missing?\r\n3. If front, just bring the prosthesis to the place where the limb should be. If from the back, don't forget to toggle it in the context menu of the prosthesis.\r\n\r\nProstheses <u>not</u> working?\r\n1. Some prostheses are functional and some are not. See the item descriptions to see if they are functional.\r\n2. Some functional prostheses need BATTERIES!\r\n3. If you have a battery and the activation with F does not work for you, that is correct. A separate hotkey was created for this mod that activates the prosthetic functions. By default, this button «H»\r\n\r\nCurrent version is <u>1.4</u>\r\n\r\n\r\n<size%3D78%>The mod was created by members of the Int team</size>=<size%3D1.5em>义肢模组</size>\n此模组添加了可穿戴以替代原生肢体的义肢，同时还添加了它们的电池和充电器. \r\n\r\n如何<u>安装</u>义肢？\r\n1. 找到缺少肢体的人类（或自己创造）\r\n2. 观察，缺少的是哪条肢体？\r\n3. 如果是前侧，直接将义肢带到肢体应在的位置即可. 如果是后侧，别忘了在义肢的上下文菜单中切换模式. \r\n\r\n义肢<u>不</u>工作？\r\n1. 有些义肢是功能性的，有些则不是. 查看物品描述以确认它们是否具有功能. \r\n2. 有些功能性义肢需要电池！\r\n3. 如果你有电池，但按F键无法激活，这是正常的. 此模组有一个独立的快捷键用于激活义肢功能. 默认情况下，该按钮为「H」\r\n\r\n当前版本为<u>1.4</u>\r\n\r\n\r\n<size%3D78%>该模组由 Int 团队成员创建</size>
+
+Prostheses Mod 2.0 ALMOST HERE.. WOW!=义肢模组 2.0 即将到来.. 哇！
+We've released a video showcasing ALL the content in version 2.0. Hurry and watch the video using the button below!!!=我们已发布一个视频, 展示了2.0版本中的所有内容. 赶快使用下方按钮观看视频！！！
+
+
+
+//物品栏
+<b>Prostheses</b>\r\nProsthesis and everything you need for them.=<b>义肢</b>\r\n义肢及您所需的一切相关物品. 
+
+
+
+//设置
+<b>Mod menu [Prostheses]</b>\r\nSpawn me!=<b>模组菜单 [义肢]</b>\r\n生成我！
+[Prostheses] Menu=[义肢] 菜单
+[Prostheses] Settings=[义肢] 设置
+Save prosthesis skin after change (when using Spray paint)=更改后保存义肢皮肤（使用喷漆时）
+If enabled, then after using a spray paint, the skin of the prosthesis is saved until you exit the game, that is, all new prostheses will have a saved skin.=如果启用，则在使用喷漆后，义肢的皮肤将被保存直至退出游戏，也就是说，所有新义肢都将拥有已保存的皮肤. 
+Clear all saved skins=清除所有已保存的皮肤
+Clears all saved prosthetic skins.=清除所有已保存的义肢皮肤. 
+Infinite charge for all accumulators=所有蓄电池无限电量
+All new accumulators will have an infinite charge.=所有新蓄电池都将拥有无限电量. 
+Infinite repair points for all repair kits=所有修理包无限修理点数
+All new repair kits will have infinite repair points.=所有新修理包都将拥有无限修理点数. 
+Infinite consumables=无限消耗品
+All new consumable containers will have infinite consumables.=所有新消耗品容器都将拥有无限消耗品. 
+
+
+//信息
+sr:"^\[Prostheses\] (.*?)$"=［义肢］$1
+[Prostheses] Info=[义肢] 信息
+Basics=基础
+
+<b><size%3D25>SA - Special Activation</size></b>\n\nSA is short for Special Activation. SA is the same activation as F, but on a different key. The default is H. This is to allow you to do several functions with one hand. Picking things up and activating an ability. Based on this, to activate the prosthetic functions you need to press H by default.=<b><size%3D25>SA - 特殊激活</size></b>\n\nSA 是特殊激活（Special Activation）的缩写. SA 与 F 键的激活方式相同，但使用不同的按键. 默认按键为 H. 这样您就可以用一只手完成多项操作，例如拾取物品的同时激活能力. 因此，默认情况下，您需要按 H 键来激活义肢功能. 
+
+Prostheses=义肢
+<b><size%3D25>Description</size></b>\nProsthetics in this mod replace limbs that the humanoid has lost. Android and Human can replace their limbs with prosthetic limbs.\n\n<b><size%3D25>How to attach a prosthesis?</size></b>\nTo attach a prosthesis in place of a lost limb, bring it to the place where the limb is missing. Prostheses are attached by default to the foreground limbs. To switch attaching of prosthesis to back limb, find the option in the context menu of the prosthesis you want to attach. You can also detach the prosthesis by using the context menu.=<b><size%3D25>说明</size></b>\n本模组中的义肢可替代人形生物失去的肢体. 安卓机器人和人类均可将肢体替换为义肢. \n\n<b><size%3D25>如何安装义肢？</size></b>\n要将义肢安装在失去肢体的位置，请将其带到缺失肢体的位置即可. 默认情况下，义肢会安装到前侧肢体. 要将义肢切换到后侧肢体，请在要安装的义肢的上下文菜单中找到相应选项. 您也可以使用上下文菜单卸下义肢. 
+
+Charging=充电
+<b><size%3D25>Description</size></b>\nAccumulators are needed for some prostheses to work (for example, for Grab-2). Accumulators have a limited charge. The charge can be restored using the charging station. Also, the charge can be made infinite using the button in the context menu or in the mod settings in the "Cheats" category.=<b><size%3D25>说明</size></b>\n某些义肢（例如 Grab-2）需要蓄电池才能工作. 蓄电池的电量有限. 可以使用充电站恢复电量. 此外，也可以使用上下文菜单中的按钮或在模组设置的“作弊”类别中将电量设为无限. 
+
+Repairng=修理
+<b><size%3D25>Description</size></b>\nThe repair kits is needed to repair prosthetics. It has a limited supply of repair points (their number is shown by the color of the indicator), it can be made infinite using the button in the context menu. A regular repair kit can only repair 1 part of the prosthesis at a time.\n\n<b><size%3D25>How to use?</b></size>\nTouch the part of the prosthesis with incomplete health with the repair kit. The repair kit will connect the wire to the part and begin to repair it. To disconnect the wire, activate the repair kit or simply remove the wire.=<b><size%3D25>说明</size></b>\n修理包用于修理义肢. 它拥有有限的修理点数（其数量由指示器的颜色显示），可以使用上下文菜单中的按钮将其设为无限. 普通修理包一次只能修理义肢的1个部件. \n\n<b><size%3D25>如何使用？</b></size>\n使用修理包触碰耐久度不满的义肢部件. 修理包会将线缆连接到该部件并开始修理. 要断开线缆，可激活修理包或直接移除线缆. 
+
+Skin system=皮肤系统
+<b><size%3D25>Description</size></b>\nA common skin system for some prostheses and implants. To use it, you need a can of spray paint. If you paint a prosthesis or implant with spray paint, its texture will be saved and the next time you spawn that item, it will have that skin. This can be seen in the category with items. The thumbnail will change to the skin you have set. You can see how to use a spray paint can in the other button below.=<b><size%3D25>说明</size></b>\n适用于部分义肢和植入物的通用皮肤系统. 要使用它，您需要一罐喷漆. 如果您用喷漆喷涂义肢或植入物，其纹理将被保存，下次您生成该物品时将带有该皮肤. 这可以在物品分类中看到. 缩略图将更改为您设置的皮肤. 您可以在下方的其他按钮中查看如何使用喷漆罐. 
+
+Template=模板
+
+Dismemberer=断肢器
+<b><size%3D25>Description</size></b>\nIf you want to separate the limb from the entity, use this tool. Switch to pause mode and spawn this object on the limb you want.\n\n<b><size%3D25>Option</size></b>\n=<b><size%3D25>说明</size></b>\n如果你想将肢体从实体上分离，请使用此工具. 切换到暂停模式，将此物品生成在你想要的肢体上. \n\n<b><size%3D25>选项</size></b>\n
+
+Spray Paint=喷漆
+<b><size%3D25>Description</size></b>\nThis item allows you to paint some prosthetics. This mod has a skin system. We did this to make references to our other mods, as well as for those who wanted prosthetics with textures of vanilla entities from the game, namely Human and Android. This system allows you to change the skin of prosthetics and implants. Functional prosthetics do not have skins, but maybe in the future they will appear.\n\n<b><size%3D25>Usage</size></b>\nPoint spray paint at the prosthesis and activate. This will open the MPW menu where you can select the skin you want.=<b><size%3D25>说明</size></b>\n此物品允许你喷涂部分义肢. 本模组拥有皮肤系统. 我们这样做是为了致敬我们的其他模组，同时也为了那些希望义肢拥有游戏内原版实体（即人类和安卓）纹理的玩家. 此系统允许你更改义肢和植入物的皮肤. 功能性义肢没有皮肤，但也许将来会添加. \n\n<b><size%3D25>用法</size></b>\n将喷漆对准义肢并激活. 这将打开MPW菜单，你可以在其中选择所需的皮肤. 
+
+Accumulators=蓄电池
+<b><size%3D25>Description</size></b>\nThis item is used to power some prosthetics. Without this item, some prosthetics will not be able to work!\n\n<b><size%3D25>Usage</size></b>\nInsert it into the special black-colored slot for prosthesis to start working. You can disconnect it using the context menu. The context menu also has an infinite charge option.\n\n<b><size%3D25>Accumulator</size></b>\nA small accumulator that has a small charge.\n<size%3D5> </size>\n<b>Charge:</b> 100\n\n<b><size%3D25>Big Accumulator</size></b>\nA larger version of the accumulator that has a big charge. Better to use for highly required prostheses.\n<size%3D5> </size>\n<b>Charge:</b> 300=<b><size%3D25>说明</size></b>\n此物品用于为部分义肢供电. 没有此物品，某些义肢将无法工作！\n\n<b><size%3D25>用法</size></b>\n将其插入义肢专用的黑色插槽即可开始工作. 你可以使用上下文菜单断开连接. 上下文菜单中也有无限电量选项. \n\n<b><size%3D25>蓄电池</size></b>\n电量较小的蓄电池. \n<size%3D5> </size>\n<b>电量：</b> 100\n\n<b><size%3D25>大型蓄电池</size></b>\n电量较大的大型蓄电池. 更适合用于高需求的义肢. \n<size%3D5> </size>\n<b>电量：</b> 300
+
+Repair kits=修理包
+<b><size%3D25>Description</size></b>\nYou need this kit to fix prosthetic limbs. We created this item so that you can repair prosthetic limbs by rp.\n\n<b><size%3D25>Usage</size></b>\nIn order for the kit to start repairing, you have to collide the damaged part of the prosthesis with it. Kit will connect the wire to the damaged part and start repairing. The repair points will be removed over time, so it is not infinite. to make the kit infinite, use the context menu. \n\n<b><size%3D25>Repair Kit</size></b>\nA little box that can repair your favorite prosthetic.\n<size%3D5> </size>\n<b>Repair Points:</b> 100\n\n<b><size%3D25>Big Repair Kit</size></b>\nA big box that can repair multiple prostheses parts at once. It has more charge and generally looks cooler.\n<size%3D5> </size>\n<b>Repair Points:</b> 375=<b><size%3D25>说明</size></b>\n你需要此修理包来修复义肢. 我们制作此物品是为了让你可以通过角色扮演来修复义肢. \n\n<b><size%3D25>用法</size></b>\n为了让修理包开始工作，你需要将义肢的受损部分与修理包碰撞. 修理包会将线缆连接到受损部分并开始修复. 修理点数会随时间消耗，因此并非无限. 要使修理包变为无限，请使用上下文菜单. \n\n<b><size%3D25>修理包</size></b>\n一个可以修复你心爱义肢的小盒子. \n<size%3D5> </size>\n<b>修理点数：</b> 100\n\n<b><size%3D25>大型修理包</size></b>\n一个可以同时修复多个义肢部件的大盒子. 它拥有更多电量，而且看起来更酷. \n<size%3D5> </size>\n<b>修理点数：</b> 375
+
+Charging Station=充电站
+<b><size%3D25>Description</size></b>\nYou need this station to charge your accumulators.\n\n<b><size%3D25>Usage</b></size>\nFor it to work, you need to connect it to the included power source using a wire. Or you can enable infinite charge in the content menu. Also insert any accumulator into the slot.=<b><size%3D25>说明</size></b>\n你需要此充电站来为蓄电池充电. \n\n<b><size%3D25>用法</b></size>\n要使其工作，你需要使用线缆将其连接到随附的电源. 或者你也可以在内容菜单中启用无限电量. 此外，将任何蓄电池插入插槽即可. 
+
+Prostheses & Implants=义肢与植入物
+
+• Big accumulator.\n\n• Big repair Kit.\n\n• Settings description.\n\n• Different prostheses durability.\n\nChanged\n\n• Repair kit texture.\n\n• bug #1: prosthetics could not be SAVED as contraption, although copying worked.\n\n• bug #2: BLD blade collider fixed.\n\n• bug #3: BLD blade sound was buggy.\n\n• bug #4: BLD blade backs up on medium contact.=• 大型蓄电池. \n\n• 大型修理包. \n\n• 设置说明. \n\n• 不同义肢的耐久度. \n\n已更改\n\n• 修理包纹理. \n\n• 错误#1：义肢无法作为装置保存，尽管复制功能正常. \n\n• 错误#2：BLD刀刃碰撞体已修复. \n\n• 错误#3：BLD刀刃音效存在问题. \n\n• 错误#4：BLD刀刃在中等力度接触时不会再卡住. 
+
+
+• Big accumulator.=• 大型蓄电池. 
+• Big repair Kit.=• 大型修理包. 
+• Settings description.=• 设置说明. 
+• Different prostheses durability.=• 不同义肢的耐久度. 
+
+Changed=已更改
+
+• Repair kit texture.=• 修理包纹理. 
+• bug #1: prosthetics could not be SAVED as contraption, although copying worked.=• bug #1：义肢无法保存为装置，尽管复制可以工作. 
+• bug #2: BLD blade collider fixed.=• bug #2：修复了BLD刀刃碰撞体. 
+• bug #3: BLD blade sound was buggy.=• bug #3：BLD刀刃音效有bug. 
+• bug #4: BLD blade backs up on medium contact.=• bug #4：BLD刀刃在中度接触时会后退. 
+
+
+//物品注册
+<b>GRAB-2 [Prostheses]</b>\r\nProsthesis for carrying heavy loads. Has a limit on the mass of objects, which is displayed on the indicator on the upper arm.\n<color%3Dgreen>-Limb: </color><color%3Dred>Arm</color>\n<color%3Dgreen>Has SA, Need accumulator</color>.=<b>GRAB-2 [义肢]</b>\r\n用于搬运重物的义肢. 对物体质量有限制，限制值显示在上臂的指示器上. \n<color%3Dgreen>-肢体：</color><color%3Dred>手臂</color>\n<color%3Dgreen>有特殊激活，需要蓄电池</color>. 
+
+<b>CS [Prostheses]</b>\r\nCS - Charge Shooter. A prosthetic that fires a slow projectile that cuts through objects in a small range around it and explodes when it hits 2 objects in its path.\n<color%3Dgreen>-Limb: </color><color%3Dred>Arm</color>\n<color%3Dgreen>Has SA, Need accumulator</color>.=<b>CS [义肢]</b>\r\nCS - 充能射手. 一种发射缓慢弹丸的义肢，弹丸会切割其周围小范围内的物体，并在路径中击中2个物体时爆炸. \n<color%3Dgreen>-肢体：</color><color%3Dred>手臂</color>\n<color%3Dgreen>有特殊激活，需要蓄电池</color>. 
+
+<b>BLD [Prostheses]</b>\r\nProsthesis with built-in blade.\n<color%3Dgreen>-Limb: </color><color%3Dred>Arm</color>\n<color%3Dgreen>-Accumulator: </color><color%3Dred>No needed</color>\n<color%3Dgreen>-Has SA</color>.=<b>BLD [义肢]</b>\r\n内置刀刃的义肢. \n<color%3Dgreen>-肢体：</color><color%3Dred>手臂</color>\n<color%3Dgreen>-蓄电池：</color><color%3Dred>不需要</color>\n<color%3Dgreen>-有特殊激活</color>. 
+
+<b>Acro [Prostheses]</b>\r\nA prosthesis that releases a fist on a cable, which is attached to the object that it touched, is detached when SPA is pressed (in the control settings). To wind the cable, press SPA on the lower arm again.\n<color%3Dgreen>-Limb: </color><color%3Dred>Arm</color>\n<color%3Dgreen>Has SA, Need accumulator</color>.=<b>Acro [义肢]</b>\r\n一种释放线缆拳头的义肢，拳头会附着在触碰到的物体上，按下SPA键（在控制设置中）时脱离. 要卷绕线缆，再次按下前臂上的SPA键. \n<color%3Dgreen>-肢体：</color><color%3Dred>手臂</color>\n<color%3Dgreen>有特殊激活，需要蓄电池</color>. 
+
+<b>RL [Prostheses]</b>\r\nRL - Rope Launcher. Shoots ropes in different forms.\n<color%3Dgreen>-Limb: </color><color%3Dred>Lower arm</color>\n<color%3Dgreen>Has SA, Need consumable</color>.=<b>RL [义肢]</b>\r\nRL - 绳索发射器. 发射不同形态的绳索. \n<color%3Dgreen>-肢体：</color><color%3Dred>前臂</color>\n<color%3Dgreen>有特殊激活，需要消耗品</color>. 
+
+<b>Firework launcher [Prostheses]</b>\r\nFirework launcher.\n<color%3Dgreen>-Limb: </color><color%3Dred>Arm</color>\n<color%3Dgreen>Has SA, Need fireworks</color>.=<b>烟花发射器 [义肢]</b>\r\n烟花发射器. \n<color%3Dgreen>-肢体：</color><color%3Dred>手臂</color>\n<color%3Dgreen>有特殊激活，需要烟花</color>. 
+
+<b>Simple arm prosthesis (for lower arm) [Prostheses]</b>\r\nA simple prosthesis for the lower arm.\n<color%3Dgreen>-Limb: </color><color%3Dred>Lower arm</color>.=<b>简易手臂义肢（前臂） [义肢]</b>\r\n用于前臂的简易义肢. \n<color%3Dgreen>-肢体：</color><color%3Dred>前臂</color>. 
+
+<b>Simple arm prosthesis (for arm) [Prostheses]</b>\r\nA simple prosthesis to replace an entire arm.\n<color%3Dgreen>-Limb: </color><color%3Dred>Arm</color>.=<b>简易手臂义肢（整臂） [义肢]</b>\r\n用于替换整条手臂的简易义肢. \n<color%3Dgreen>-肢体：</color><color%3Dred>手臂</color>. 
+
+<b>Simple leg prosthesis  (for foot) [Prostheses]</b>\r\nSimple foot prosthesis\n<color%3Dgreen>-Limb: </color><color%3Dred>Foot</color>.=<b>简易腿部义肢（足部） [义肢]</b>\r\n简易足部义肢. \n<color%3Dgreen>-肢体：</color><color%3Dred>脚</color>. 
+
+<b>Simple leg prosthesis (for lower leg) [Prostheses]</b>\r\nSimple lower leg prosthesis\n<color%3Dgreen>-Limb: </color><color%3Dred>Lower leg</color>.=<b>简易腿部义肢（小腿） [义肢]</b>\r\n简易小腿义肢. \n<color%3Dgreen>-肢体：</color><color%3Dred>小腿</color>. 
+
+<b>Simple leg prosthesis  (for leg) [Prostheses]</b>\r\nSimple leg prosthesis\n<color%3Dgreen>-Limb: </color><color%3Dred>Leg</color>.=<b>简易腿部义肢（整腿） [义肢]</b>\r\n简易腿部义肢. \n<color%3Dgreen>-肢体：</color><color%3Dred>腿</color>. 
+
+<b>AntiKO [Prostheses]</b>\r\nImplant that brings a person out of a knockout and heals non-fatal wounds a little with a mixture of fluids. If the wound is fatal, then the implant cannot heal it, so its LED turns red and the implant does not activate. It is disposable.\n<color%3Dgreen>-Limb: </color><color%3Dred>Head</color>\n =<b>AntiKO [义肢]</b>\r\n使人员从昏迷中苏醒并用混合液少量治愈非致命伤口的植入物. 如果伤口致命，则植入物无法治愈，其LED灯会变为红色且植入物不会激活. 一次性使用. \n<color%3Dgreen>-肢体：</color><color%3Dred>头部</color>\n 
+
+<b>PV implant [Prostheses]</b>\r\nPV - protective visor. The visor can be closed with SA, it has a durability that is displayed on the green bar.\n<color%3Dgreen>-Limb: </color><color%3Dred>Head</color>\n=<b>PV植入物 [义肢]</b>\r\nPV - 防护面罩. 面罩可通过特殊激活关闭，其耐久度显示在绿色条上. \n<color%3Dgreen>-肢体：</color><color%3Dred>头部</color>\n
+
+<b>Accumulator for prostheses [Prostheses]</b>\r\nAccumulator for prostheses. Used by special prostheses for work. 100 charge units.=<b>义肢蓄电池 [义肢]</b>\r\n用于义肢的蓄电池. 供特殊义肢工作使用. 100电量单位. 
+
+<b>Big accumulator for prostheses [Prostheses]</b>\r\nBig accumulator for prostheses. Used by special prostheses for work. 300 charge units.=<b>大型义肢蓄电池 [义肢]</b>\r\n用于义肢的大型蓄电池. 供特殊义肢工作使用. 300电量单位. 
+
+<b>RL Rope trap container [Prostheses]</b>\r\nContainer with rope traps for RL.=<b>RL绳索陷阱容器 [义肢]</b>\r\n用于RL的绳索陷阱容器. 
+
+<b>RL Rope container [Prostheses]</b>\r\nContainer with ropes for RL.=<b>RL绳索容器 [义肢]</b>\r\n用于RL的绳索容器. 
+
+<b>Accumulator charging station [Prostheses]</b>\r\nAccumulator charging station. Insert the accumulator to charge it. To remove the accumulator, reactivate the station.=<b>蓄电池充电站 [义肢]</b>\r\n蓄电池充电站. 插入蓄电池即可充电. 要取出蓄电池，再次激活充电站. 
+
+<b>Repair kit [Prostheses]</b>\r\nRepair kit for repair prostheses. When touching the prosthesis, it attaches a wire to it for its repair. To unfasten the wire, reactivate the repair kit. 100 repair points.=<b>修理包 [义肢]</b>\r\n用于修理义肢的修理包. 接触义肢时会连接一根线缆进行修理. 要解开线缆，再次激活修理包. 100修理点数. 
+
+<b>Big repair kit [Prostheses]</b>\r\nBig repair kit for repair prostheses. When touching the prosthesis, it attaches a wire to it for its repair (max repair wires %3D 5). To unfasten the wire, reactivate the repair kit. 375 repair points.=<b>大型修理包 [义肢]</b>\r\n用于修理义肢的大型修理包. 接触义肢时会连接一根线缆进行修理（最大修理线缆 %3D 5）. 要解开线缆，再次激活修理包. 375修理点数. 
+
+<b>Spray paint [Prostheses]</b>\r\nChanges the skins of prostheses. Aim at the prosthesis and use to select a skin.=<b>喷漆 [义肢]</b>\r\n更改义肢的皮肤. 瞄准义肢并使用以选择皮肤. 
+
+<b>Dismemberer [Prostheses]</b>\r\nAttaches to the limb and tears it off. Also the entity is healed and there is no bleeding.=<b>断肢器 [义肢]</b>\r\n附着于肢体并将其撕裂. 同时实体会被治愈且不会出血. 
+
+
+//皮肤
+Select prosthesis skin=选择义肢皮肤
+Black=黑色
+Cyber style=赛博风格
+White lines=白色线条
+Octane=辛烷
+
+
+//右键菜单
+Attach to front=安装到前侧
+Attach to back=安装到后侧
+Switch sides for attach prostheses=切换义肢安装侧
+Switch sides for attach prostheses.=切换义肢安装侧.
+Switch sides for attach=切换安装侧
+Enable infinite charge=启用无限电量
+Disaqble infinite charge=禁用无限电量
+Switch infinite charge=切换无限电量
+Switch infinite charge.=切换无限电量.
+
+//通知
+The prosthesis was not found or it does not have skins.=未找到义肢或该义肢没有皮肤.
+Saved skins do not exist.=不存在已保存的皮肤.
+
+
+
 
 
 
