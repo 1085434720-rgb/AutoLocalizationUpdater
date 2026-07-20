@@ -13591,52 +13591,52 @@ Edit Description=编辑说明
 //能力
 Max Cannon=极限加农炮
 Max Cannon  <size%3D70%><color%3D#444>Beam=极限加农炮 <size%3D70%><color%3D#444>光束
-r:"Granted Max Cannon to (.*?)\."="已向 $1 赋予极限加农炮。"
+r:"Granted Max Cannon to (.*?)\."="已向 $1 赋予极限加农炮. "
 
 Wrath of the G.O.D.=破坏神之怒
 Wrath of the G.O.D.  <size%3D70%><color%3D#444>Beerus=破坏神之怒 <size%3D70%><color%3D#444>比鲁斯
-r:"Granted Wrath of the G.O.D. to (.*?)\."="已向 $1 赋予破坏神之怒。"
+r:"Granted Wrath of the G.O.D. to (.*?)\."="已向 $1 赋予破坏神之怒. "
 
 Beerus Ball=比鲁斯之球
 Beerus Ball  <size%3D70%><color%3D#444>Beerus=比鲁斯之球 <size%3D70%><color%3D#444>比鲁斯
-r:"Granted Beerus Ball to (.*?)\."="已向 $1 赋予比鲁斯之球。"
+r:"Granted Beerus Ball to (.*?)\."="已向 $1 赋予比鲁斯之球. "
 
 G.O.D's Wrath=破坏神之怒
-Omni-directional ki blast barrage from the middle body.=从身体中部发出的全方位气功弹幕。
+Omni-directional ki blast barrage from the middle body.=从身体中部发出的全方位气功弹幕. 
 G.O.D's Wrath  <size%3D70%><color%3D#444>Beerus=破坏神之怒 <size%3D70%><color%3D#444>比鲁斯
-r:"Granted G.O.D's Wrath to (.*?)\."="已向 $1 赋予破坏神之怒。"
+r:"Granted G.O.D's Wrath to (.*?)\."="已向 $1 赋予破坏神之怒. "
 
 Cataclysmic Orb=灾厄之球
-Tiny atom-like sphere with a devastating explosion.=带有毁灭性爆炸的微型原子状球体。
+Tiny atom-like sphere with a devastating explosion.=带有毁灭性爆炸的微型原子状球体. 
 Cataclysmic Orb  <size%3D70%><color%3D#444>Beerus=灾厄之球 <size%3D70%><color%3D#444>比鲁斯
-r:"Granted Cataclysmic Orb to (.*?)\."="已向 $1 赋予灾厄之球。"
+r:"Granted Cataclysmic Orb to (.*?)\."="已向 $1 赋予灾厄之球. "
 
 Spirit Bomb=元气弹
 Spirit Bomb  <size%3D70%><color%3D#444>Ball=元气弹 <size%3D70%><color%3D#444>弹丸
-r:"Granted Spirit Bomb to (.*?)\."="已向 $1 赋予元气弹。"
+r:"Granted Spirit Bomb to (.*?)\."="已向 $1 赋予元气弹. "
 
 Super Spirit Bomb=超级元气弹
 Super Spirit Bomb  <size%3D70%><color%3D#444>Ball=超级元气弹 <size%3D70%><color%3D#444>弹丸
-r:"Granted Super Spirit Bomb to (.*?)\."="已向 $1 赋予超级元气弹。"
+r:"Granted Super Spirit Bomb to (.*?)\."="已向 $1 赋予超级元气弹. "
 
 Kaioken=界王拳
-Power boost with strain buildup. Toggle from the powers menu or press K.=力量随负荷积累而提升。可从能力菜单切换或按K键。
+Power boost with strain buildup. Toggle from the powers menu or press K.=力量随负荷积累而提升. 可从能力菜单切换或按K键. 
 Kaioken power multiplier.=界王拳力量倍率.
 Multiplier=倍率
 Kaioken  <size%3D70%><color%3D#444>Special=界王拳 <size%3D70%><color%3D#444>特殊
-r:"Granted Kaioken to (.*?)\."="已向 $1 赋予界王拳。"
+r:"Granted Kaioken to (.*?)\."="已向 $1 赋予界王拳. "
 
 Disaster Ray=灾厄射线
-Black armor spots glow purple and emit destructive lasers in all directions. Activate the head while enabled to unleash.=黑色护甲上的斑点发出紫色光芒，向所有方向发射毁灭性激光。启用时激活头部即可释放。
+Black armor spots glow purple and emit destructive lasers in all directions. Activate the head while enabled to unleash.=黑色护甲上的斑点发出紫色光芒，向所有方向发射毁灭性激光. 启用时激活头部即可释放. 
 
 Disaster Ray  <size%3D70%><color%3D#444>Special=灾厄射线 <size%3D70%><color%3D#444>特殊
-r:"Granted Disaster Ray to (.*?)\."="已向 $1 赋予灾厄射线。"
+r:"Granted Disaster Ray to (.*?)\."="已向 $1 赋予灾厄射线. "
 
 Eye Laser=眼部激光
-Fires a straight yellow eye laser. Activate the head while enabled to fire.=发射一道笔直的黄色眼部激光。启用时激活头部即可发射.
-Fires straight purple lasers from the eyes. Activate the head while enabled to fire.=从双眼发射笔直的紫色激光。启用时激活头部即可发射.
+Fires a straight yellow eye laser. Activate the head while enabled to fire.=发射一道笔直的黄色眼部激光. 启用时激活头部即可发射.
+Fires straight purple lasers from the eyes. Activate the head while enabled to fire.=从双眼发射笔直的紫色激光. 启用时激活头部即可发射.
 Eye Laser  <size%3D70%><color%3D#444>Special=眼部激光 <size%3D70%><color%3D#444>特殊
-r:"Granted Eye Laser to (.*?)\."="已向 $1 赋予眼部激光。"
+r:"Granted Eye Laser to (.*?)\."="已向 $1 赋予眼部激光. "
 
 
 
@@ -13644,13 +13644,13 @@ r:"Granted Eye Laser to (.*?)\."="已向 $1 赋予眼部激光。"
 Ki charge FX: Enable=气充能特效：启用
 Ki charge FX: Disable=气充能特效：禁用
 Enable then hold activation on the head (same as Ki Blast barrage on arms) — debris, Ki, aura=启用后按住头部激活键（与手臂气功弹幕相同）——碎片、气、气场
-Enable then hold activation on the head (same as Ki Blast barrage on arms) — debris, Ki, aura.=启用后按住头部激活键（与手臂气功弹幕相同）——碎片、气、气场。
+Enable then hold activation on the head (same as Ki Blast barrage on arms) — debris, Ki, aura.=启用后按住头部激活键（与手臂气功弹幕相同）——碎片、气、气场. 
 
 Sparking: Activate (or overcharge)=火花：激活（或过载）
-With charge FX on, hold activation on head at full Ki until purple fills. Or start Sparking here=气充能特效开启时，在气满状态下按住头部激活键直至紫色填满。或在此处启动火花。
-With charge FX on, hold activation on head at full Ki until purple fills. Or start Sparking here.=气充能特效开启时，在气满状态下按住头部激活键直至紫色填满。或在此处启动火花。
+With charge FX on, hold activation on head at full Ki until purple fills. Or start Sparking here=气充能特效开启时，在气满状态下按住头部激活键直至紫色填满. 或在此处启动火花. 
+With charge FX on, hold activation on head at full Ki until purple fills. Or start Sparking here.=气充能特效开启时，在气满状态下按住头部激活键直至紫色填满. 或在此处启动火花. 
 
 Tune Aura Scale/Pos=调整气场缩放/位置
 Adjust aura scale and vertical position live=实时调整气场缩放和垂直位置
-Adjust aura scale and vertical position live.=实时调整气场缩放和垂直位置。
+Adjust aura scale and vertical position live.=实时调整气场缩放和垂直位置. 
 
