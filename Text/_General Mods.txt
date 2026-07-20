@@ -13656,3 +13656,28 @@ Tune Aura Scale/Pos=调整气场缩放/位置
 Adjust aura scale and vertical position live=实时调整气场缩放和垂直位置
 Adjust aura scale and vertical position live.=实时调整气场缩放和垂直位置. 
 
+
+
+
+
+
+//331*
+<noparse>Hero Hunter Human</noparse>=<noparse>英雄猎人人类</noparse>
+A human with abilities based on 'Garou' from 'One Punch Man.'=一个拥有基于《一拳超人》中“饿狼”能力的人类。
+<size%3D1.5em>Hero Hunter Human</size>\nA human with abilities based on 'Garou' from 'One Punch Man.'\n<noparse>A mod by Paradigm for game version 1.11</noparse>=<size%3D1.5em>英雄猎人人类</size>\n一个拥有基于《一拳超人》中“饿狼”能力的人类。\n<noparse>由 Paradigm 制作的模组，适用于游戏版本 1.11</noparse>
+<b>Hero Hunter Human</b>\r\nGood? Evil? I reject them both.=<b>英雄猎人人类</b>\r\n善？恶？我两者皆否认.
+<b>Power Giver</b>\r\nGive someone the ability menu of 'Hero-Hunter.'=<b>能力赋予器</b>\r\n给予某人“英雄猎人”的能力菜单.
+Ability Menu.=能力菜单.
+Water-Stream Counter=流水岩碎拳·反制
+A precise martial technique that redirects attacks when hit. The more durable the human, the harder Hero Hunter hits. Activate the upper-body.=一种精密的武术技巧，能在被击中时偏转攻击. 目标越坚韧，英雄猎人的打击就越重。激活上半身.
+Water-Stream Rock Smashing Fist=流水岩碎拳
+Powerful martial-art taught by Bang. Arm must be held to be used.=邦古传授的强大武术. 必须持有手臂才能使用.
+God Slayer Fist=怪害神杀拳
+A martial arts style developed by Garou in his monsterized state. Arm must be held to be used=饿狼在怪人化状态下开发的武术流派。必须持有手臂才能使用.
+Enabled Water-Stream Counter.=已启用流水岩碎拳·反制.
+Disabled Water-Stream Counter.=已禁用流水岩碎拳·反制.
+Enabled Water-Stream Rock Smashing Fist.=已启用流水岩碎拳.
+Disabled Water-Stream Rock Smashing Fist.=已禁用流水岩碎拳.
+Enabled God Slayer Fist.=已启用怪害神杀拳.
+Disabled God Slayer Fist.=已禁用怪害神杀拳.
+
