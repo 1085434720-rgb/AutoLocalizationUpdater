@@ -13633,7 +13633,8 @@ Disaster Ray  <size%3D70%><color%3D#444>Special=灾厄射线 <size%3D70%><color%
 r:"Granted Disaster Ray to (.*?)\."="已向 $1 赋予灾厄射线。"
 
 Eye Laser=眼部激光
-Fires a straight yellow eye laser. Activate the head while enabled to fire.=发射一道笔直的黄色眼部激光。启用时激活头部即可发射。
+Fires a straight yellow eye laser. Activate the head while enabled to fire.=发射一道笔直的黄色眼部激光。启用时激活头部即可发射.
+Fires straight purple lasers from the eyes. Activate the head while enabled to fire.=从双眼发射笔直的紫色激光。启用时激活头部即可发射.
 Eye Laser  <size%3D70%><color%3D#444>Special=眼部激光 <size%3D70%><color%3D#444>特殊
 r:"Granted Eye Laser to (.*?)\."="已向 $1 赋予眼部激光。"
 
@@ -13649,4 +13650,7 @@ Sparking: Activate (or overcharge)=火花：激活（或过载）
 With charge FX on, hold activation on head at full Ki until purple fills. Or start Sparking here=气充能特效开启时，在气满状态下按住头部激活键直至紫色填满。或在此处启动火花。
 With charge FX on, hold activation on head at full Ki until purple fills. Or start Sparking here.=气充能特效开启时，在气满状态下按住头部激活键直至紫色填满。或在此处启动火花。
 
+Tune Aura Scale/Pos=调整气场缩放/位置
+Adjust aura scale and vertical position live=实时调整气场缩放和垂直位置
+Adjust aura scale and vertical position live.=实时调整气场缩放和垂直位置。
 
