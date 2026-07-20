@@ -2,10 +2,13 @@
 Automatic localization patch=自动汉化补丁
 
 //0*本体汉化补漏
+<color%3D#ccc>Sending request</color>=<color%3D#ccc>正在发送请求</color>
+<color%3D#ccc>Waiting for Steam</color>=<color%3D#ccc>正在等待Steam验证</color>
 <color%3D#ccc>Parsing metadata</color>=<color%3D#ccc>解析元数据</color>
 <color%3D#ccc>Reading</color>=<color%3D#ccc>阅读</color>
 <color%3D#ccc>Compiling</color>=<color%3D#ccc>编译中</color>
 <color%3D#ccc>Processing</color>=<color%3D#ccc>数据处理中</color>
+
 <b>people playground</b> (2019) by mestiez (zooi), Studio Minus\nAdditional work by Aspa102 and mishanya=<b>人类游乐场</b> (2019) 由 mestiez (zooi), Studio Minus 制作\n附加工作由 Aspa102 和 mishanya 完成
 r:"running game version <b>(.*?)</b>\nusing Unity version <b>(.*?)</b>"=正在运行的游戏版本 <b>$1</b>\nUnity使用版本 <b>$2</b>
 NAudio by Mark Heath (Ms-PL)=NAudio 由 Mark Heath 提供 (Ms-PL)
@@ -13628,7 +13631,6 @@ r:"Granted Kaioken to (.*?)\."="已向 $1 赋予界王拳. "
 
 Disaster Ray=灾厄射线
 Black armor spots glow purple and emit destructive lasers in all directions. Activate the head while enabled to unleash.=黑色护甲上的斑点发出紫色光芒，向所有方向发射毁灭性激光. 启用时激活头部即可释放. 
-
 Disaster Ray  <size%3D70%><color%3D#444>Special=灾厄射线 <size%3D70%><color%3D#444>特殊
 r:"Granted Disaster Ray to (.*?)\."="已向 $1 赋予灾厄射线. "
 
