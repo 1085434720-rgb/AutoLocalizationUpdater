@@ -60,7 +60,7 @@ RightShift=右Shift
 //1*定制注射器_Customizable Syringe Mod
 Customizable Syringe=定制注射器
 Adds a syringe. Right-click to change color, name and select an effect!=添加一个注射器.右键点击可更改颜色、名称，并选择一种效果！
-<b>Custom Syringe</b>\r\nRight-click to customize! Infinite liquid, 9 mixable effects with adjustable POTENCY.=<b>定制注射器</b>\r\n右键点击进行定制！无限液体，9种可混合效果，效力可调
+<b>Custom Syringe</b>\r\nRight-click to customize! Infinite liquid, 10 mixable effects with adjustable POTENCY.=<b>定制注射器</b>\r\n右键点击进行定制！无限液体，10种可混合效果，效力可调
 Customize Syringe=定制注射器
 Opens the menu to mix effects and customize liquid.=打开菜单以混合效果并自定义液体.
 Syringe Customizer=注射器定制器
@@ -71,14 +71,15 @@ Blue: =蓝:
 Color Preview=颜色预览
 Effect Potencies (0% %3D OFF, 100% %3D MAX)=效果强度（0% %3D 关闭，100% %3D 最大）
 Heal: =治愈: 
-Kill: =死亡:
-Burn: =烧伤: 
+Kill: =致死:
+Burn: =灼烧: 
 Freeze: =冻结: 
-Knockout: =击晕: 
+Knockout: =昏迷: 
 Numb: =麻木: 
 Seizure: =癫痫: 
-Relax: =镇定: 
-Energize: =激励: 
+Relax: =镇静: 
+Energize: =兴奋: 
+Resist: =韧性: 
 Zero All Effects (None)=清空效应
 
 
@@ -13918,3 +13919,19 @@ Enter/Exit Kamui Dimension.=进入/退出神威空间.
 Ignore Collision=忽略碰撞
 Ignore Collision.=忽略碰撞.
 sr:"Disabled Collision with (.*?) for (\d+) seconds\."="已禁用$1碰撞，持续$2秒."
+
+
+
+
+
+
+
+
+
+//336*防空系统_Air defense system
+<noparse>Air defense system</noparse>=<noparse>防空系统</noparse>
+Automatically shoots down incoming missiles.=自动击落来袭导弹.
+<size%3D1.5em>Air defense system</size>\nAutomatically shoots down incoming missiles.\n<noparse>A mod by Xyesosik for game version 1.26+</noparse>=<size%3D1.5em>防空系统</size>\n自动击落来袭导弹.\n<noparse>由 Xyesosik 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>AASystem</b>\r\nAA v4.3 | 1000m scan + separated threat data cells.=<b>防空系统</b>\r\n防空 v4.3 | 1000米扫描范围 + 分离的威胁数据单元.
+
+//登录UI
