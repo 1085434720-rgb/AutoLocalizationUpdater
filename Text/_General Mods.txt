@@ -13935,3 +13935,89 @@ Automatically shoots down incoming missiles.=自动击落来袭导弹.
 <b>AASystem</b>\r\nAA v4.3 | 1000m scan + separated threat data cells.=<b>防空系统</b>\r\n防空 v4.3 | 1000米扫描范围 + 分离的威胁数据单元.
 
 //登录UI
+
+
+
+
+
+
+
+
+
+//336*
+<b>Hair Studio</b>\nSelect the tool, configure physical hair, then click any human or android body part.=<b>发型工作室</b>\n选择工具，配置物理头发，然后点击任何人类或安卓身体部位.
+Hair Studio: click a human or android body part=发型工作室：点击人类或安卓身体部位
+
+//UI
+HAIR PHYSICS STUDIO  v1.4.2=发型物理工作室  v1.4.2
+DEFAULT=默认
+REAPPLY=重新应用
+REMOVE=移除
+CLEAR ALL=全部清除
+NO BODY PART SELECTED=未选择身体部位
+HAIR GENERATED — SETTINGS APPLIED=头发已生成 — 设置已应用
+CHANGE SETTINGS, THEN REAPPLY OR CLICK A BODY PART=更改设置，然后重新应用或点击身体部位
+ALL HAIR REMOVED=全部头发已移除
+DEFAULT PRESET RESTORED=默认预设已恢复
+LAST HAIR REMOVED=最后头发已移除
+Drag the header to move this panel=拖动标题以移动此面板
+
+SHAPE=形状
+DENSITY=密度
+LENGTH=长度
+SEGMENTS=分段数
+THICKNESS=粗细
+TIP TAPER=发梢渐变
+HEAD COVERAGE=头皮覆盖范围
+ROOT ARC=发根弧度
+PARTING / FAN=分发缝 / 扇形分布
+LENGTH VARIATION=长度变化
+CURL=卷曲程度
+WAVE SIZE=波浪尺寸
+
+PHYSICS=物理
+MASS RESPONSE=质量响应
+STIFFNESS=刚度
+LINEAR DRAG=线性阻力
+ANGULAR DRAG=角阻力
+GRAVITY=重力
+WIND FORCE=风力
+WIND SPEED=风速
+MAX SPEED=最大速度
+LENGTH SAFETY=长度安全限制
+
+OPACITY=不透明度
+COLOUR VARIATION=颜色变化
+ROOT SHADOW=发根阴影
+TIP SHADOW=发梢阴影
+SILK SHINE=丝绸光泽
+BLACK=黑色
+BROWN=棕色
+BLONDE=金色
+
+PLACE=放置
+USE CLICK AS ANCHOR=使用点击作为锚点
+ENABLED=已启用
+DISABLED=已关闭
+HORIZONTAL OFFSET=水平偏移
+VERTICAL OFFSET=垂直偏移
+BAND ROTATION=发束旋转
+HAIR FLOW ANGLE=头发流向角度
+BAND WIDTH SCALE=发束宽度缩放
+RESET POS=重置位置
+0.01-unit position steps • 1° rotation steps=0.01单位位置步进 • 1°旋转步进
+
+EXPERIMENT=实验
+LAYERED DEPTH=分层深度
+SILK HIGHLIGHTS=丝绸高光
+FLYAWAY HAIRS=飞散发丝
+ADVANCED SMOOTHING=高级平滑
+ADAPTIVE FPS GUARD=自适应FPS保护
+SIMULATION QUALITY=模拟质量
+CLUMPING=结簇
+FLYAWAY AMOUNT=飞散量
+ROOT LIFT=发根提升
+TIP FLUTTER=发梢飘动
+MICRO MOTION=微动
+Experimental effects increase visual detail.=实验性效果可提升视觉细节.
+
