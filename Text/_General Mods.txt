@@ -13737,7 +13737,7 @@ Piece Playground=海贼王游乐场
 [Piece Playground] Gryphon=[海贼王游乐场] 格里芬
 [Piece Playground] Kikoku=[海贼王游乐场] 鬼哭
 [Piece Playground] <color%3D#ffd663><b>[CUSTOM] </b></color>Plastic Sword=[海贼王游乐场] <color%3D#ffd663><b>[自定义] </b></color>塑料剑
-<b>[Piece Playground] <color%3D#ffd663><b>[CUSTOM] </b></color>Plastic Sword</b>\r\nsword to show off the new custom sword system.=<b>[海贼王游乐场] <color%3D#ffd663><b>[自定义] </b></color>塑料剑</b>\r\n用于展示全新自定义剑系统的剑。
+<b>[Piece Playground] <color%3D#ffd663><b>[CUSTOM] </b></color>Plastic Sword</b>\r\nsword to show off the new custom sword system.=<b>[海贼王游乐场] <color%3D#ffd663><b>[自定义] </b></color>塑料剑</b>\r\n用于展示全新自定义剑系统的剑. 
 [Piece Playground] Gomu Gomu No Mi=[海贼王游乐场] 橡胶果实
 [Piece Playground] Ope Ope No Mi=[海贼王游乐场] 手术果实
 [Piece Playground] Ability Picker=[海贼王游乐场] 能力选择器
@@ -13834,11 +13834,11 @@ Double Fruit Death=双果实死亡
 <noparse>A Wonder of U Mod</noparse>=<noparse>奇迹于你模组</noparse>
  oo doo doo de daa daa daa=嘟 嘟 嘟 滴 哒 哒 哒
 <size%3D1.5em>A Wonder of U Mod</size>\ndoo doo doo de daa daa daa\n<noparse>A mod by Modki for game version 1.11</noparse>=<size%3D1.5em>奇迹于你模组</size>\n嘟 嘟 嘟 滴 哒 哒 哒\n<noparse>由 Modki 制作的模组，适用于游戏版本 1.11</noparse>
-<b><color%3D#EC1A24>A Wonder of U Mod<color%3Dwhite> Tooru</b>\r\nAvid Elvis Presley enjoyer.=<b><color%3D#EC1A24>奇迹于你模组<color%3Dwhite> 透龙</b>\r\n狂热的猫王爱好者。
+<b><color%3D#EC1A24>A Wonder of U Mod<color%3Dwhite> Tooru</b>\r\nAvid Elvis Presley enjoyer.=<b><color%3D#EC1A24>奇迹于你模组<color%3Dwhite> 透龙</b>\r\n狂热的猫王爱好者. 
 
-<b><color%3D#EC1A24>A Wonder of U Mod<color%3Dwhite> Wonder of U</b>\r\nWatashi wa Wonder of U.=<b><color%3D#EC1A24>奇迹于你模组<color%3Dwhite> 奇迹于你</b>\r\n我是奇迹于你。
+<b><color%3D#EC1A24>A Wonder of U Mod<color%3Dwhite> Wonder of U</b>\r\nWatashi wa Wonder of U.=<b><color%3D#EC1A24>奇迹于你模组<color%3Dwhite> 奇迹于你</b>\r\n我是奇迹于你. 
 
-<b><color%3D#EC1A24>A Wonder of U Mod<color%3Dwhite> Wonder of U's Cane</b>\r\nNonchalant Cane.=<b><color%3D#EC1A24>奇迹于你模组<color%3Dwhite> 奇迹于你的手杖</b>\r\n从容的手杖。
+<b><color%3D#EC1A24>A Wonder of U Mod<color%3Dwhite> Wonder of U's Cane</b>\r\nNonchalant Cane.=<b><color%3D#EC1A24>奇迹于你模组<color%3Dwhite> 奇迹于你的手杖</b>\r\n从容的手杖. 
 Calamity - Head - J=灾厄 - 头部 - J
 The Wonder of You - Head - H=奇迹于你 - 头部 - H
 Calamity Protection - UpperBody - Passive=灾厄防护 - 上半身 - 被动
@@ -14025,3 +14025,75 @@ TIP FLUTTER=发梢飘动
 MICRO MOTION=微动
 Experimental effects increase visual detail.=实验性效果可提升视觉细节.
 
+
+
+
+
+
+
+
+
+//337*xFire的超人模组_xFire's Superman's Mod
+<noparse>xFire's Superman's Mod</noparse>=<noparse>xFire的超人模组</noparse>
+This mod adds Superman's powers to the game, allowing players to experience superhuman abilities such as flight, super strength, and heat vision. It also includes a custom UI for managing powers and a Power Giver.=此模组为游戏添加了超人的能力，让玩家体验飞行、超级力量和热视线等超人能力. 它还包含了一个用于管理能力的自定义界面和一个能力赋予器. 
+<size%3D1.5em>xFire's Superman's Mod</size>\nThis mod adds Superman's powers to the game, allowing players to experience superhuman abilities such as flight, super strength, and heat vision. It also includes a custom UI for managing powers and a Power Giver.\n<noparse>A mod by DeVandre for game version 1.27+</noparse>=<size%3D1.5em>xFire的超人模组</size>\n此模组为游戏添加了超人的能力，让玩家体验飞行、超级力量和热视线等超人能力. 它还包含了一个用于管理能力的自定义界面和一个能力赋予器. \n<noparse>由 DeVandre 制作的模组，适用于游戏版本 1.27+</noparse>
+
+<b>[xFire's Superman Mod] </b>\r\nTell me. Do you bleed?=<b>[xFire的超人模组] </b>\r\n告诉我. 你会流血吗？
+<b>[xFire's Superman Mod] <color%3D#e2ff3d>Mod Settings</b>\r\nLets you configure the mod :D.=<b>[xFire的超人模组] <color%3D#e2ff3d>模组设置</b>\r\n让你配置模组 :D. 
+<b>[xFire's Superman Mod] <color%3D#14d8ff>Clark Kent</b>\r\nYour abilities may be of my blood, but it is your time in Smallville, with Jonathan and Martha Kent and all the people there, that made you a hero, Kal-El.=<b>[xFire的超人模组] <color%3D#14d8ff>克拉克·肯特</b>\r\n你的能力或许源于我的血脉，但你在斯莫维尔度过的时光，与乔纳森·肯特、玛莎·肯特以及那里的所有人一起，才造就了你的英雄之路，卡尔-艾尔. 
+<b>[xFire's Superman Mod] <color%3D#b1eefa>Platinum Kryptonite</b>\r\nIt gives you powers. Powers like Superman's.=<b>[xFire的超人模组] <color%3D#b1eefa>铂氪石</b>\r\n它会赋予你力量. 类似于超人的力量. 
+<b>[xFire's Superman Mod] <color%3D#38ff14>Kryptonite</b>\r\nRadioactive substance, it can kill Kryptonians.=<b>[xFire的超人模组] <color%3D#38ff14>氪石</b>\r\n放射性物质，能够杀死氪星人. 
+
+Set Kryptonian Power=设置氪星人力量
+Current default: 75=当前默认值：75
+
+Global Settings=全局设置
+Camera Shake on Laser=激光时镜头震动
+GUI Size=GUI大小
+Punch Requires Drag=拳击需要拖拽
+Kryptonite Kill Time=氪石致死时间
+Laser Crush=激光粉碎
+TimeStop Crush=时停粉碎
+
+Toggle Powers=切换能力
+Enable/Disable special abilities=启用/禁用特殊能力
+Enable/Disable special abilities.=启用/禁用特殊能力.
+
+Restore Cloths=恢复衣物
+Restore Cloths.=恢复衣物.
+Abilities=能力
+Configure limb abilities.=配置肢体能力.
+Shot At Target=射击目标
+Shot At Target.=射击目标.
+Skin Menu=皮肤菜单
+Open Skin Menu.=打开皮肤菜单.
+
+Laser Vision=激光视线
+Output Damage=输出伤害
+Output Temperature=输出温度
+Beam Bloom=光束扩散
+Should Crush?=是否粉碎？
+Laser Color=激光颜色
+Target: None=目标：无
+Ice Breath=冰冻呼吸
+X-Ray=X透视
+Speedster=超级速度
+Crush On Impact?=撞击时粉碎？
+Trail Color=轨迹颜色
+No Abilities=无能力
+Damage Output %=伤害输出 %
+Damage Scale=伤害缩放
+Mode=模式
+Blunt=钝击
+Piercing=穿刺
+
+Tom Welling=汤姆·威灵
+Crown is mine, bitch.=王冠是我的，混蛋. 
+Henry Cavill=亨利·卡维尔
+Man Of Steel.=钢铁之躯. 
+Homelander=祖国人
+Crybaby. (IT'S JUST A SKIN, SO THAT MEANS HE'S STILL A "KRYPTONIAN".=爱哭包.(这只是个皮肤, 所以这仍然意味着他是个"氪星人".
+
+Powers: <color%3D#ff0000>DISABLED</color>=能力: <color%3D#ff0000>已禁用</color>
+<color%3D#ff3c3c>Punch:</color> Disabled=<color%3D#ff3c3c>拳击：</color> 已禁用
+<color%3D#ff3c3c>Punch:</color> Enabled=<color%3D#ff3c3c>拳击：</color> 已启用
