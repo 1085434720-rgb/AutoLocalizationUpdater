@@ -13944,7 +13944,11 @@ Automatically shoots down incoming missiles.=自动击落来袭导弹.
 
 
 
-//336*
+//336*发型物理工作室_Hair Physics Studio
+<noparse>Hair Physics Studio</noparse>=<noparse>发型物理工作室</noparse>
+Hair Physics Studio=发型物理工作室
+<size%3D1.5em>Hair Physics Studio</size>\nHair Physics Studio\n<noparse>A mod by tiptipoktipylya for game version 1.27+</noparse>=<size%3D1.5em>发型物理工作室</size>\n发型物理工作室\n<noparse>由 tiptipoktipylya 制作的模组，适用于游戏版本 1.27+</noparse>
+
 <b>Hair Studio</b>\nSelect the tool, configure physical hair, then click any human or android body part.=<b>发型工作室</b>\n选择工具，配置物理头发，然后点击任何人类或安卓身体部位.
 Hair Studio: click a human or android body part=发型工作室：点击人类或安卓身体部位
 
