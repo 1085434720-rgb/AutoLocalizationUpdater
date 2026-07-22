@@ -14087,6 +14087,7 @@ Mode=模式
 Blunt=钝击
 Piercing=穿刺
 
+No Skin Selected=未选择皮肤
 Tom Welling=汤姆·威灵
 Crown is mine, bitch.=王冠是我的，混蛋. 
 Henry Cavill=亨利·卡维尔
