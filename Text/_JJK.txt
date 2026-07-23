@@ -1469,6 +1469,7 @@ Magma Impale Mode+=岩浆穿刺模式+
 Ember Insects Mode=火砾虫模式
 Place Volcano Mode=设置火山口
 Meteor Mode=极之番「陨」模式
+Set Follow Mouse Mode=设置跟随鼠标模式
 Set Power Multiplier=设置威力倍率
 Set Power Multiplier [0.1 - 10]=设置威力倍率 [0.1 - 10]
 Set Cast Speed Multiplier=设置施法速度倍率
@@ -2174,14 +2175,16 @@ Set Target GW Time=设置G战杖预知时间
 Set Target GW Time.设置G战杖预知时间.
 Set GW Target Time=设置G战杖预知时间
 current: =当前: 
-Disable Sword of Extermination=禁用灭世之剑
+Disable Sword of Extermination=退魔之剑
 Disable Curse Anihilation=禁用咒术湮灭
-Enable Sword of Extermination=开启灭世之剑
+Enable Sword of Extermination=开启退魔之剑
 Enable Curse Anihilation=开启咒术湮灭
-Switch Sword of Extermination=切换灭世之剑
-Switch Sword of Extermination=切换灭世之剑.
+Switch Sword of Extermination=切换退魔之剑
+Switch Sword of Extermination=切换退魔之剑.
 Switch Curse Anihilation=切换咒术湮灭
 Switch Curse Anihilation=切换咒术湮灭.
+Stop Confiscation=停止没收
+Stop Confiscation.=停止没收.
 
 //*领域===================================================================================================
 Domain User=领域使用者
@@ -2354,7 +2357,10 @@ Deadly Sentencing=诛伏赐死
 Deadly=诛伏
 Sentencing=赐死
 Sentencing selection=赐死选择
+Sentence selection=宣判选择
 Death Penalty=死刑
+Confiscation=没收
+Confiscation + Death Penalty=没收 + 死刑
 
 NSS: Simple Domain=新阴流·简易领域
 NEW SHADOW STYLE=新阴流
