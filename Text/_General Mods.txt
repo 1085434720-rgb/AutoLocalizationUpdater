@@ -13496,7 +13496,9 @@ SSJ3=超级赛亚人3
 SSJBlue=超级赛亚人蓝
 SSJBlueEvolution=超级赛亚人蓝进化
 SSJGod=超级赛亚人之神
-UE=自我极意
+UE=UE
+UI=UI
+//UE, UI我是真没法翻译, 这这种寄吧缩写出现太频繁了
 Base *=基础 *
 BeastGohan *=野兽悟饭 *
 BlackFrieza *=黑弗利萨 *
@@ -14098,3 +14100,59 @@ Crybaby. (IT'S JUST A SKIN, SO THAT MEANS HE'S STILL A "KRYPTONIAN".=爱哭包.(
 Powers: <color%3D#ff0000>DISABLED</color>=能力: <color%3D#ff0000>已禁用</color>
 <color%3D#ff3c3c>Punch:</color> Disabled=<color%3D#ff3c3c>拳击：</color> 已禁用
 <color%3D#ff3c3c>Punch:</color> Enabled=<color%3D#ff3c3c>拳击：</color> 已启用
+
+
+
+
+
+
+
+
+
+
+
+
+//338*木偶大师_PuppetMaster
+<noparse>PuppetMaster</noparse>=<noparse>木偶大师</noparse>
+PuppetMaster=木偶大师
+<size%3D1.5em>PuppetMaster</size>\nPuppetMaster\n<noparse>A mod by JohnnyTaco for game version 1.22.x</noparse>=<size%3D1.5em>木偶大师</size>\n木偶大师\nAlt+F7以查看更多信息\n<noparse>由 JohnnyTaco 制作的模组，适用于游戏版本 1.22.x</noparse>
+
+r:"<color%3Dgreen>PuppetMaster (\d+)</color>: New Instance"="<color%3Dgreen>木偶大师$1</color>: 新实例"
+<color%3Dred>Swapping Bindings to:</color> CUSTOM=<color%3Dred>切换绑定至：</color> 自定义
+<color%3Dyellow>VERBOSE LEVEL:</color> Off=<color%3Dyellow>详细级别：</color>关
+<color%3Dyellow>VERBOSE LEVEL:</color> Minimal=<color%3Dyellow>详细级别：</color>最低
+<color%3Dyellow>VERBOSE LEVEL:</color> Full=<color%3Dyellow>详细级别：</color>完全
+<color%3Dred>PM Notifications are set to <color%3Dyellow>FULL<color%3Dred> Press ALT-F7 for less notifications</color>=<color%3Dred>PM通知设为：<color%3Dyellow>完全<color%3Dred> 按ALT-F7以减少通知</color>
+Puppet Master: <color%3Dgreen>On</color>=木偶大师: <color%3Dgreen>开启</color>
+sr:"Puppet set: <color%3Dyellow>(.*?)</color>"="木偶设置为: <color%3Dyellow>$1</color>"
+sr:"^(.*?) <color%3Dorange>stored in position #:</color> (.*?)$"="<color%3Dorange>$1存储于位置 #:</color> $2"
+
+Getting on Bike=正在骑上自行车
+Getting in Car=正在进入汽车
+You have a new <color%3Dyellow>car</color>=你有一辆新的<color%3Dyellow>汽车</color>
+You have a new <color%3Dyellow>bike</color>=你有一辆新的<color%3Dyellow>自行车</color>
+You have a new <color%3Dyellow>hover-car</color>=你有一辆新的<color%3Dyellow>悬浮汽车</color>
+<color%3Dorange>Hold </color>[ I ]<color%3Dorange> and press </color>#[ 1-9 ]<color%3Dorange> to store/retrieve Items</color>=<color%3Dorange>按住 </color>[ I ]<color%3Dorange> 并按 </color>#[ 1-9 ]<color%3Dorange> 以存储/取回物品</color>
+<color%3Dred>A <color%3Dorange>hero<color%3Dred> was found!</color>=<color%3Dred>发现了一名 <color%3Dorange>英雄<color%3Dred>！</color>
+Destroying 2nd PuppetMaster=正在摧毁第二个木偶大师
+
+<color%3Dblue>Hero Mode:<color%3Dyellow> On</color>=<color%3Dblue>英雄模式：<color%3Dyellow> 开</color>
+<color%3Dblue>Hero Mode:<color%3Dyellow> Off</color>=<color%3Dblue>英雄模式：<color%3Dyellow> 关</color>
+<color%3Dred>POINT MODE: </color>ON=<color%3Dred>指向模式：</color>开
+<color%3Dred>POINT MODE: </color>OFF=<color%3Dred>指向模式：</color>关
+<color%3Dred>COMBAT MODE: </color>ON=<color%3Dred>战斗模式：</color>开
+<color%3Dred>COMBAT MODE: </color>OFF=<color%3Dred>战斗模式：</color>关
+
+r:"Damage: ([\d.]+)"="伤害：$1"
+sr:"Your <color%3Dorange>(.*?)</color> set to <color%3Dyellow>Attack #(\d+)</color>"="你的<color%3Dorange>$1</color>设置为<color%3Dyellow>攻击 #$2</color>"
+r:"Transferred <color%3Dyellow>\[(\d+)\] Inventory</color> from past puppet"="从过去的傀儡转移了<color%3Dyellow>[$1]背包物品</color>"
+sr:"Found attached: (.*?)"="发现已附着：$1"
+sr:"Fixed Held Thing: (.*?)"="已固定手持物品：$1"
+sr:"Removed component: (.*?)"="已移除组件：$1"
+sr:"Changing Joint on <color%3Dyellow>(.*?)</color> To use: <color%3Dyellow>(.*?)</color>"="正在更改<color%3Dyellow>$1</color>的关节为：<color%3Dyellow>$2</color>"
+Bob=Bob
+John=约翰
+HingeJoint=铰链关节
+FixedJoint=固定关节
+CharacterJoint=角色关节
+SpringJoint=弹簧关节
