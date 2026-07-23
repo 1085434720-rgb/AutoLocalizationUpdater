@@ -10843,6 +10843,16 @@ Adds a trajectory view when pressing O=按下O键时显示轨迹视图
 Trajectory View: ENABLED=轨迹视图：已启用
 Trajectory View: DISABLED=轨迹视图：已禁用
 r:"SPD: ([\d.]+)\nANG: (\d+)°"="速度: $1 m/s\n角度: $2°"
+Trajectory Settings=轨迹设置
+Transparency=透明度
+Prediction Length=预测长度
+Min Mass to Track=最小追踪质量
+Show Speed/Angle Text=显示速度/角度文本
+Show Impact Ghost=显示冲击鬼影
+Experimental Aero Physics=实验性空气动力学物理
+Toggle Trajectories Key=切换轨迹键
+Open This Menu Key=打开此菜单键
+
 
 
 
