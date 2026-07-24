@@ -14166,3 +14166,178 @@ HingeJoint=铰链关节
 FixedJoint=固定关节
 CharacterJoint=角色关节
 SpringJoint=弹簧关节
+
+[PM] Move Puppet Left=[PM] 木偶左移
+[PM] Move Puppet Right=[PM] 木偶右移
+[PM] Move Up / Jump=[PM] 上移/跳跃
+[PM] Move Down / Duck=[PM] 下移/蹲伏
+[PM] Activate Item=[PM] 激活物品
+[PM] Fire / Attack=[PM] 开火/攻击
+[PM] Quick Attack=[PM] 快速攻击
+[PM] Throw Item=[PM] 投掷物品
+[PM] Aim Weapon=[PM] 瞄准武器
+[PM] Inventory=[PM] 背包
+[PM] Emote (Followed by #)=[PM] 表情（后跟数字）
+[PM] Toggle Puppet Master=[PM] 切换木偶大师
+
+
+
+
+
+
+
+
+
+
+//339*喷涂模组_Spray Mod
+<noparse>Spray Mod</noparse>=<noparse>喷涂模组</noparse>
+Unleash your creativity with our mod! Use the Spray and Rubber tools for realistic paint effects and erasing mistakes. Warning: creativity may ensue! Our mod is like a digital art studio, minus the messy tables and judgmental art teachers. Get ready to unleash your inner artist (or inner mess-maker)!=用我们的模组释放你的创造力！使用喷涂和橡皮工具实现真实的绘画效果和擦除错误。警告：创造力可能会爆发！我们的模组就像一个数字艺术工作室，只是没有凌乱的桌子和爱评判的艺术老师。准备好释放你内心的艺术家（或者内心的小捣蛋鬼）吧！
+<size%3D1.5em>Spray Mod</size>\nUnleash your creativity with our mod! Use the Spray and Rubber tools for realistic paint effects and erasing mistakes. Warning: creativity may ensue! Our mod is like a digital art studio, minus the messy tables and judgmental art teachers. Get ready to unleash your inner artist (or inner mess-maker)!\n<noparse>A mod by Aldrich, Kasztan for game version 1.27+</noparse>=<size%3D1.5em>喷涂模组</size>\n用我们的模组释放你的创造力！使用喷涂和橡皮工具实现真实的绘画效果和擦除错误。警告：创造力可能会爆发！我们的模组就像一个数字艺术工作室，只是没有凌乱的桌子和爱评判的艺术老师。准备好释放你内心的艺术家（或者内心的小捣蛋鬼）吧！\n<noparse>由 Aldrich、Kasztan 制作的模组，适用于游戏版本 1.27+</noparse>
+
+<b>Paint</b>\nPainting - Press J to decrease paint brush size or K to increase paint brush size.=<b>绘画</b>\n绘画 - 按J减小画笔大小，或按K增大画笔大小. L更改颜色
+<b>Eraser</b>\nErasing - Press J to decrease eraser brush size or K to increase eraser brush size.=<b>橡皮擦</b>\n擦除 - 按J减小橡皮擦大小，或按K增大橡皮擦大小.
+
+Set Spray Color=设置喷涂颜色
+r:"Brush size increased to: (\d+)"="画笔大小增加到：$1"
+r:"Brush size decreased to: (\d+)"="画笔大小减少到：$1"
+r:"Eraser size decreased to: (\d+)"="橡皮擦大小减少到：$1"
+r:"Eraser size increased to: (\d+)"="橡皮擦大小增加到：$1"
+
+
+
+
+
+
+
+
+
+
+
+//340*能力复制_Ability Copy
+<noparse>Ability Copy</noparse>=<noparse>能力复制</noparse>
+Copy others' abilities!=复制他人的能力！
+<size%3D1.5em>Ability Copy</size>\nCopy others' abilities!\n<noparse>A mod by Quan for game version 1.26+</noparse>=<size%3D1.5em>能力复制</size>\n复制他人的能力！\n<noparse>由 Quan 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>Ability Copy Giver</b>\r\nGive a human the ability to copy other abilities.=<b>能力复制赋予器</b>\r\n赋予人类复制他人能力的能力.
+Click on someone to give them the ability to copy others' abilities.=点击某人以赋予其复制他人能力的能力.
+sr:"Gave (.*?)<color%3Dwhite> the ability to copy others' abilities"="赋予$1<color%3Dwhite>复制他人能力的能力"
+Choose a target, then touch them physically to copy abilities.=选择一个目标，然后物理接触以复制其能力.
+sr:"Touch (.*?)<color%3Dwhite> physically to copy their abilities\."="触摸$1<color%3Dwhite>以物理方式复制其能力."
+sr:"Copied all abilities of (.*?)<color%3Dwhite>\."="复制了$1<color%3Dwhite>的所有能力."
+Copy Ability=复制能力
+Copy Ability.=复制能力.
+
+
+
+
+//341*咒力攻击_Cursed Energy Attacks
+<noparse>Cursed Energy Attacks</noparse>=<noparse>咒力攻击</noparse>
+Can attack with Cursed Energy=可以使用咒力进行攻击
+<size%3D1.5em>Cursed Energy Attacks</size>\nCan attack with Cursed Energy\n<noparse>A mod by Quan for game version 1.26+</noparse>=<size%3D1.5em>咒力攻击</size>\n可以使用咒力进行攻击\n<noparse>由 Quan 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>Quan's Cursed Energy Giver</b>\r\nCan give Cursed Energy to a human.=<b>Quan的咒力赋予器</b>\r\n可以向人类赋予咒力.
+Click on someone to give them Cursed Energy=点击某人以赋予其咒力.
+Cursed Energy Strength=咒力强度
+Cursed Energy Color=咒力颜色
+Set Cursed Energy Color=设置咒力颜色
+sr:"Gave \"(.*?)<color%3Dwhite>\" Cursed Energy"="赋予“$1”<color%3Dwhite>咒力"
+Change CE Color=更改咒力颜色
+Change CE Color.=更改咒力颜色.
+Change Cursed Energy Color=更改咒力颜色
+Apply CE=应用咒力
+Apply CE.=应用咒力.
+Click on something to apply Cursed Energy=点击某物以赋予咒力
+Enable CE Fist=启用咒力之拳
+Enable CE Fist.=启用咒力之拳.
+Disable CE Fist=禁用咒力之拳
+Disable CE Fist.=禁用咒力之拳.
+sr:"Cursed Energy Applied on \"(.*?)<color%3Dwhite>\""="咒力已应用于“$1<color%3Dwhite>”"
+
+
+
+
+//342*狱门疆模组_Prison Realm Mod
+<noparse>Prison Realm Mod</noparse>=<noparse>狱门疆模组</noparse>
+Better Prison Realm=更好的狱门疆
+<size%3D1.5em>Prison Realm Mod</size>\nBetter Prison Realm\n<noparse>A mod by Quan for game version 1.27+</noparse>=<size%3D1.5em>狱门疆模组</size>\n更好的狱门疆\n<noparse>由 Quan 制作的模组，适用于游戏版本 1.27+</noparse>
+<b>Prison Realm</b>\r\nGate, Close...=<b>狱门疆</b>\r\n门，关闭……
+Prison Realm Controls=狱门疆控制
+Prison Realm Controls.=狱门疆控制.
+Gate Open=开门
+Gate Close=关门
+Toggle Choose=切换选择
+Toggle Choose.=切换选择.
+
+
+
+
+//343*在你梦中_In your dreams
+<noparse>In your dreams</noparse>=<noparse>在你梦中</noparse>
+nothing is real in your mind=你的思想中万物皆虚
+<size%3D1.5em>In your dreams</size>\nnothing is real in your mind\n<noparse>A mod by Quan for game version 1.27+</noparse>=<size%3D1.5em>在你梦中</size>\n你的思想中万物皆虚\n<noparse>由 Quan 制作的模组，适用于游戏版本 1.27+</noparse>
+Deep Sleep=深度睡眠
+Deep Sleep.=深度睡眠.
+Enter Dream=进入梦境
+Enter Dream.=进入梦境.
+Wake Up To Reality=醒来面对现实
+Wake Up To Reality.=醒来面对现实.
+
+
+
+
+//344*武器数值修改器_Weapon Numerical Modifier
+<noparse>Weapon Numerical Modifier</noparse>=<noparse>武器数值修改器</noparse>
+<size%3D1.5em>Weapon Numerical Modifier</size>\n\n<noparse>A mod by EmperorFish for game version 1.26+</noparse>=<size%3D1.5em>武器数值修改器</size>\n\n<noparse>由 EmperorFish 制作的模组，适用于游戏版本 1.26+</noparse>
+Open Weapon Menu=打开武器菜单
+Open Weapon Menu.=打开武器菜单。
+Set Cartridge=设置弹药
+Damage, Recoil, ImpactForce, StartSpeed, PenetrationRandomAngleMultiplier=伤害, 后坐力, 冲击力, 初速, 穿透随机角度倍率
+Set Target Bullets Per Shot=设置每次射击的子弹数
+Set Bullets Per Shot=设置每次射击子弹数
+Bullets Per Shot=每次射击子弹数
+Set Initial Inaccuracy=设置初始散布
+Set Target Initial Inaccuracy=设置初始散布
+Initial Inaccuracy=初始散布
+Full Auto=全自动
+Semi Auto=半自动
+Set Full Auto Fire Rate=设置全自动射速
+Set Target Fire Rate=设置射速
+Fire Rate=射速
+
+
+
+//345*可配置爆炸物_Configurable Explosive
+<noparse>Configurable Explosive</noparse>=<noparse>可配置爆炸物</noparse>
+Adds an explosive which has fully configurable values.=添加了一个具有完全可配置数值的爆炸物。
+<size%3D1.5em>Configurable Explosive</size>\nAdds an explosive which has fully configurable values.\n<noparse>A mod by Frosty for game version 1.15</noparse>=<size%3D1.5em>可配置爆炸物</size>\n添加了一个具有完全可配置数值的爆炸物。\n<noparse>由 Frosty 制作的模组，适用于游戏版本 1.15</noparse>
+<b>Configurable Explosive</b>\r\nAn explosive that you can configure to your liking!=<b>可配置爆炸物</b>\r\n一个可让你按喜好配置的爆炸物！
+
+Set Explosion Range=设置爆炸范围
+Sets Explosion Range.=设置爆炸范围.
+Set Impact Force Threshold=设置冲击力阈值
+Sets Impact Force Threshold.=设置冲击力阈值.
+Set Explosion Delay=设置爆炸延迟
+Sets Explosion Delay.=设置爆炸延迟.
+Set Explode Burn Threshold=设置爆炸燃烧阈值
+Sets Explode Burn Threshold.=设置爆炸燃烧阈值.
+Set Burn Power=设置燃烧强度
+Sets Burn Power.=设置燃烧强度.
+Sets Dismember Chance.=设置断肢几率.
+Set Shot Explode Chance=设置射击爆炸几率
+Sets Shot Explode Chance.=设置射击爆炸几率.
+Set Shockwave Lift Force=设置冲击波抬升力
+Sets Shockwave Lift Force.=设置冲击波抬升力.
+Set Fragment Force=设置碎片力度
+Sets Fragment Force.=设置碎片力度.
+Destroy On Explode: True=爆炸时自毁：是
+Destroy On Explode: False=爆炸时自毁：否
+Toggle if the explosive destroys itself on explosion.=切换爆炸物是否在爆炸时自毁.
+r:"Enter the explosion range\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入爆炸范围\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+r:"Enter the impact force threshold\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入冲击力阈值\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+r:"Enter the explosion delay\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入爆炸延迟\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+r:"Enter the burn threshold\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入燃烧阈值\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+r:"Enter the burn power\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入燃烧强度\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+r:"Enter the dismember chance\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入断肢几率\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+r:"Enter the shot explode chance\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入射击爆炸几率\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+r:"Enter the shockwave lift force\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入冲击波抬升力\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+r:"Enter the fragment force\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入碎片力度\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
+
+
