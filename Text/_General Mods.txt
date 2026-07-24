@@ -11069,15 +11069,21 @@ Strength: Class 1=力量：1级
 Strength: Class 25=力量：25级
 Strength: Class 100=力量：100级
 Strength: Class T=力量：T级
-Durability: Wall (9-B)=耐久度：墙体级（9-B）
-Durability: Building (8-C)=耐久度：建筑级（8-C）
-Durability: City Block (8-B)=耐久度：街区级（8-B）
-Durability: Multi-City Block (8-A)=耐久度：多街区级（8-A）
-Durability: Athlete (10-A)=耐久度：运动员级（10-A）
+Durability: Human (10-B)=耐久度：人类（10-B）
+Durability: Athlete (10-A)=耐久度：运动员（10-A）
+Durability: Street (9-C)=耐久度：街道（9-C）
+Durability: Wall (9-B)=耐久度：墙体（9-B）
+Durability: Small Building (9-A)=耐久度：小型建筑（9-A）
+Durability: Building (8-C)=耐久度：建筑（8-C）
+Durability: Large Building (High 8-C)=耐久度：大型建筑（高8-C）
+Durability: City Block (8-B)=耐久度：街区（8-B）
+Durability: Multi-City Block (8-A)=耐久度：多重街区（8-A）
 Regeneration: none=再生：无
-Regeneration: Leggera=再生：轻度
-Regeneration: Alta=再生：高度
-Regeneration: Totale=再生：完全
+Regeneration: Light=再生：轻度
+Regeneration: Medium=再生：中度
+Regeneration: High=再生：高度
+Regeneration: Near-Instant=再生：近瞬发
+Regeneration: Total=再生：完全
 Heat Vision: OFF=热视线：关
 Heat Vision: ON=热视线：开
 Hemokinesis: OFF=血液控制：关
@@ -11099,6 +11105,19 @@ Mindstorm: OFF=心灵风暴：关
 Mindstorm: ON=心灵风暴：开
 If ON, THIS syringe's next injection gives exactly the chosen powers=如果开启，此注射器的下一次注射将精确赋予所选能力
 If ON, THIS syringe's next injection gives exactly the chosen powers.=如果开启，此注射器的下一次注射将精确赋予所选能力. 
+Intangibility: ON=虚体化：开
+Intangibility: OFF=虚体化：关
+Toggle Intangibility (phase through matter); F on the head=切换虚体化（穿透物质）；头部F键
+Toggle Intangibility (phase through matter); F on the head.=切换虚体化（穿透物质）；头部F键.
+Starlight: ON=星光：开
+Starlight: OFF=星光：关
+Toggle Starlight (hold F on a hand to charge, release to fire)=切换星光（按住手部F键充能，释放发射）
+Lamplighter: ON=点灯人：开
+Lamplighter: OFF=点灯人：关
+Toggle Lamplighter (hold F on a hand near a flame to stream fire)=切换点灯人（靠近火焰按住手部F键引导火焰流）
+Water Breathing: ON=水下呼吸：开
+Water Breathing: OFF=水下呼吸：关
+Toggle Water Breathing (passive - never drowns)=切换水下呼吸（被动 - 永不溺水）
 Click to change the strength level=点击更改力量等级
 Click to change the strength level.=点击更改力量等级. 
 Click to change durability (ext+int)=点击更改耐久度（外部+内部）
@@ -11124,6 +11143,9 @@ Toggle Mindstorm (deep-sleep gaze); F on the head, then click a target.=切换�
 Compound V stats=沃特化合物属性
 Show this Super's Compound V sheet=显示此超能者的沃特化合物属性面板
 Show this Super's Compound V sheet.=显示此超能者的沃特化合物属性面板. 
+Compound HP stats=化合物生命值统计
+Live per-limb HP diagnostic.=实时每肢体生命值诊断.
+Live per-limb HP diagnostic=实时每肢体生命值诊断
 Heat Vision (loop)=热视线（循环）
 Toggle a continuous heat-vision beam=切换持续热视线光束
 Toggle a continuous heat-vision beam.=切换持续热视线光束. 
@@ -11132,13 +11154,25 @@ Switch flight mode. Classic (default) %3D weightless hover, holds still in the a
 Flight mode: FOLLOW MOUSE (flies to the cursor).=飞行模式：跟随鼠标（飞向光标）. 
 Flight mode: CLASSIC (weightless hover - holds still in the air, drag to move).=飞行模式：经典（失重悬停——在空中静止不动，拖拽移动）. 
 
+
+
 //辐射
 r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s$" = "辐射 $1 Sv/s $2 rem/s"
-r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s\nABSORBED ([\d.]+) Sv ([\d.]+) rem$" = "辐射 $1 Sv/s $2 rem/s\n已吸收 $3 Sv $4 rem"
+r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s\nABSORBED   ([\d.]+) Sv   ([\d.]+) rem$" = "辐射 $1 Sv/s $2 rem/s\n已吸收 $3 Sv $4 rem"
 sr:"^ABSORBED   ([\d.]+) Sv   ([\d.]+) rem\n(.*)$" = "已吸收 $1 Sv $2 rem\n$3"
 r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s\nNUCLEAR CHARGE ([\d.]+) / 20 Sv$" = "辐射 $1 Sv/s $2 rem/s\n核电荷 $3 / 20 Sv"
-r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s\nABSORBED ([\d.]+) Sv ([\d.]+) rem\nNUCLEAR CHARGE ([\d.]+) / 20 Sv$" = "辐射 $1 Sv/s $2 rem/s\n已吸收 $3 Sv $4 rem\n核电荷 $5 / 20 Sv"
-r:"^ABSORBED   ([\d.]+) Sv   ([\d.]+) rem\n(.*)\nNUCLEAR CHARGE ([\d.]+) / 20 Sv$" = "已吸收 $1 Sv $2 rem\n$3\n核电荷 $4 / 20 Sv"
+r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s\nABSORBED   ([\d.]+) Sv   ([\d.]+) rem\nNUCLEAR CHARGE   ([\d.]+) / 20 Sv$" = "辐射 $1 Sv/s $2 rem/s\n已吸收 $3 Sv $4 rem\n核电荷 $5 / 20 Sv"
+r:"^ABSORBED   ([\d.]+) Sv   ([\d.]+) rem\n(.*)\nNUCLEAR CHARGE   ([\d.]+) / 20 Sv$" = "已吸收 $1 Sv $2 rem\n$3\n核电荷 $4 / 20 Sv"
+
+
+//生命值面板
+drag header to move=拖动标题以移动
+Arm L=左臂
+Arm R=右臂
+Leg L=左腿
+Leg R=右腿
+Foot L=左脚
+Foot R=右脚
 
 
 //UI面板
@@ -11147,11 +11181,16 @@ COMPOUND V1  -  classic, pure=复合V1 - 经典，纯正
 COMPOUND V1  -  temporary=复合V1 - 临时型
 COMPOUND V1  -  modern=复合V1 - 现代型
 COMPOUND V24  -  temporary=复合V24 - 临时型
-sr:"RAGE (\d+)%  -  lvl (\d+)  \((.*?)\)" = "怒气$1% - 等级$2（$3）"
+sr:"RAGE (\d+)%  -  lvl (\d+) \((.*?)\)" = "怒气$1% - 等级$2（$3）"
 250 kg TNT=250公斤TNT
 500 kg TNT=500公斤TNT
 1000 kg TNT=1000公斤TNT
 ATOMIC=原子级
+sr:"^PHOTON ([\d.]+)%  -  (.*)$" = "光子 $1%  -  $2"
+Small Building=小型建筑
+Wall=墙体
+Street=街道
+low=低
 PHYSIQUE=体格
 Limb HP=肢体生命值
 r:"(\d+) per limb"="每个肢体$1"
@@ -11204,9 +11243,12 @@ Supersonic+  (spd 176)=超音速+（速度176）
 Hypersonic  (spd 210)=高超音速（速度210）
 Hypersonic+  (spd 250)=高超音速+（速度250）
 Regeneration=再生
-Totale  (3000 HP/s, regrows)=完全（3000 HP/s，再生肢体）
+Light  (25 HP/s)=轻度（25 HP/s）
+Medium  (70 HP/s)=中度（70 HP/s）
+High  (180 HP/s)=高度（180 HP/s）
+Near-Instant  (600 HP/s)=近瞬发（600 HP/s）
+Total  (3000 HP/s, regrows)=完全（3000 HP/s，再生）
 Alta  (180 HP/s)=高度  (180 HP/s)
-
 ABILITIES=能力
 //能力名称
 (none rolled)=(无随机能力)
@@ -11374,11 +11416,6 @@ Unlock every other achievement. Welcome to the Seven.=解锁所有其他成就. 
 
 
 
-
-
-
-
-
 //通知
 //静态字符串
 Compound Playground ready - see the 'Compound V' spawn category. Discord: https:%2F%2Fdiscord.gg/SnSVneq78s=沃特化合物游乐场已就绪——请查看“沃特化合物”生成分类. Discord：https:%2F%2Fdiscord.gg/SnSVneq78s
@@ -11440,7 +11477,7 @@ STRONG virus: exponential replication, fulminant tissue necrosis. Lethal and hig
 Virus: tissue necrosis, the Compound V in the blood is depleted. Lethal to the modern Super.=病毒：组织坏死，血液中的沃特化合物被耗尽. 对现代超能者致命.
 Raw V1: the adult body rejects the serum. A hole tears open in the rear - fulminant hemorrhage.=原始V1：成人体质排斥血清. 后部裂开一个洞——暴发性出血.
 V2 in an adult: the modern serum is too unstable for a formed body. A hole tears open in the rear - it bleeds out.=成人注射V2：现代血清对成型身体来说太不稳定. 后部裂开一个洞——血流不止.
-
+Loadout ON - ACHIEVEMENTS DISABLED for this session (hand-picked powers %3D no challenge). Restart the game to earn them again.=配置已开启 - 本次会话成就已禁用（自选能力 %3D 无挑战）. 重新启动游戏以再次获得成就.
 
 
 //动态字符串
