@@ -11020,11 +11020,20 @@ Overwrite=覆盖
 
 
 
-//202*
-<noparse>Compound Playground</noparse>=<noparse>5号化合物游乐场</noparse>
-Compound V superpowers inspired by The Boys. Inject a syringe to turn a person into a Super with random powers: strength, durability, regeneration, flight, heat vision, hemokinesis, radiation chest blast, electricity, super speed, termite, invisibility, mindstorm. Right-click a V2 syringe -> Options for a custom loadout; powers activate with F on the matching body part. Community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s=受《黑袍纠察队》启发的复合V超能力. 注射注射器可将人转变为拥有随机能力的超能者：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、电力、超级速度、白蚁、隐形、心灵风暴. 右键点击V2注射器 -> 选项可自定义配置；能力通过在对应身体部位按F键激活. 社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s
 
-<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground - inspired by The Boys.\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super rolls\nrandom powers: strength, durability, regeneration, flight, heat vision, hemokinesis,\nradiation chest blast, electricity, super speed, termite, invisibility, mindstorm.\n\n- Right-click a V2 syringe -> Options to pick exact powers and levels (loadout).\n- Powers activate with F on the matching body part of a Super that has them.\n- V1 %3D classic god-formula, V24 %3D temporary, plus anti-Supe viruses and enriched uranium.\n\nJoin the community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s\n\nby ale_diola_\n=<size%3D1.5em>复合V游乐场</size>\n复合V游乐场\n为《People Playground》添加复合V超能力——灵感来自《黑袍纠察队》. \n\n为某人注射复合V注射器可将其转变为超能者. 每个超能者随机获得\n能力：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、\n电力、超级速度、白蚁、隐形、心灵风暴. \n\n- 右键点击V2注射器 -> 选项可选择精确能力和等级（配置）. \n- 能力通过在拥有该能力的超能者的对应身体部位上按F键激活. \n- V1 %3D 经典神之配方，V24 %3D 临时型，还有抗超能病毒和浓缩铀. \n\n加入社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_
+
+
+
+
+
+
+
+
+//202*沃特化合物游乐场_Compound Playground
+<noparse>Compound Playground</noparse>=<noparse>沃特化合物游乐场</noparse>
+Compound V superpowers inspired by The Boys. Inject a syringe to turn a person into a Super with random powers: strength, durability, regeneration, flight, heat vision, hemokinesis, radiation chest blast, electricity, super speed, termite, invisibility, mindstorm. Right-click a V2 syringe -> Options for a custom loadout; powers activate with F on the matching body part. Community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s=受《黑袍纠察队》启发的沃特化合物超能力. 注射注射器可将人转变为拥有随机能力的超能者：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、电力、超级速度、白蚁、隐形、心灵风暴. 右键点击V2注射器 -> 选项可自定义配置；能力通过在对应身体部位按F键激活. 社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s
+
+<size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground - inspired by The Boys.\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super rolls\nrandom powers: strength, durability, regeneration, flight, heat vision, hemokinesis,\nradiation chest blast, electricity, super speed, termite, invisibility, mindstorm.\n\n- Right-click a V2 syringe -> Options to pick exact powers and levels (loadout).\n- Powers activate with F on the matching body part of a Super that has them.\n- V1 %3D classic god-formula, V24 %3D temporary, plus anti-Supe viruses and enriched uranium.\n\nJoin the community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s\n\nby ale_diola_\n=<size%3D1.5em>复合V游乐场</size>\n复合V游乐场\n为《People Playground》添加沃特化合物超能力——灵感来自《黑袍纠察队》. \n\n为某人注射沃特化合物可将其转变为超能者. 每个超能者随机获得\n能力：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、\n电力、超级速度、白蚁、隐形、心灵风暴. \n\n- 右键点击V2注射器 -> 选项可选择精确能力和等级（配置）. \n- 能力通过在拥有该能力的超能者的对应身体部位上按F键激活. \n- V1 %3D 经典神之配方，V24 %3D 临时型，还有抗超能病毒和浓缩铀. \n\n加入社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_
 //通知
 
 //静态
@@ -11095,15 +11104,26 @@ Compound V ready. See the 'Compound V' spawn category. Powers (if unlocked): hol
 Raw V1: the adult body rejects the serum. Fulminant hemorrhage - blood gushing from the rear.=原始V1：成人体内排斥血清. 暴发性出血——血液从后方喷涌而出. 
 V1: external durability Large Building (High 8-C), internal Large Building (High 8-C). Building-level (8-C): shrugs off heavy machine-gun fire (Homelander-type). Super-strength: Class 1. (F while clicking on the character to use powers.)=V1：外部耐久性大型建筑（高8-C），内部大型建筑（高8-C）. 建筑级（8-C）：无视重型机枪火力（祖国人型）. 超级力量：1级. （点击角色时按F键使用能力. ）
 
+
+
+
 //物品注册
-<b>Compound V</b>\r\nLiquid chemicals and other items related to chemistry.=<b>5号化合物</b>\r\n液体化学品及其他与化学相关的物品. 
-<b>Compound V1</b>\r\n- Vought's lost original formula (1940s)\n- ~35% become a god, ~65% die from hemorrhage\n- x10 denser & stronger: near-invulnerable tissue + regen\n- Inject into an extreme V2 Super to fuse into an APEX being.=<b>复合V1</b>\r\n- 沃特公司遗失的原始配方（1940年代）\n- 约35%成为神，约65%死于大出血\n- 密度与强度提升10倍：近乎无敌的组织 + 再生能力\n- 注入极端V2超能者体内可融合成为顶点存在. 
-<b>Compound V2</b>\r\n- Modern commercial formula\n- ~60% gain powers, ~40% die (organ collapse)\n- Unstable Super with a random power loadout\n- Right-click -> Options -> loadout to choose powers.=<b>复合V2</b>\r\n- 现代商业配方\n- 约60%获得能力，约40%死亡（器官衰竭）\n- 不稳定的超能者，拥有随机能力配置\n- 右键 -> 选项 -> 配置以选择能力. 
-<b>Compound V24 (Temp V)</b>\r\n- Hyper-concentrated military variant\n- Temporary powers (~24 min), then they fade\n- No death risk under the 3rd dose\n- 3rd injection is lethal (brain liquefaction)=<b>复合V24（临时V）</b>\r\n- 超浓缩军用变体\n- 临时能力（约24分钟），之后消退\n- 第三次注射前无死亡风险\n- 第三次注射致命（脑液化）
+<b>Compound V</b>\r\nLiquid chemicals and other items related to chemistry.=<b>沃特化合物</b>\r\n液体化学品及其他与化学相关的物品. 
+
+<b>Compound V1</b>\r\n- Vought's lost original formula (1940s)\n- ~35% become a god, ~65% die from hemorrhage\n- x10 denser & stronger: near-invulnerable tissue + regen\n- Inject into an extreme V2 Super to fuse into an APEX being.=<b>沃特化合物 V1</b>\r\n- 沃特公司遗失的原始配方（1940年代）\n- 约35%成为神，约65%死于大出血\n- 密度与强度提升10倍：近乎无敌的组织 + 再生能力\n- 注入极端V2超能者体内可融合成为顶点存在. 
+
+<b>Compound V2</b>\r\n- Modern commercial formula\n- ~60% gain powers, ~40% die (organ collapse)\n- Unstable Super with a random power loadout\n- Right-click -> Options -> loadout to choose powers.=<b>沃特化合物 V2</b>\r\n- 现代商业配方\n- 约60%获得能力，约40%死亡（器官衰竭）\n- 不稳定的超能者，拥有随机能力配置\n- 右键 -> 选项 -> 配置以选择能力. 
+
+<b>Compound V24 (Temp V)</b>\r\n- Hyper-concentrated military variant\n- Temporary powers (~24 min), then they fade\n- No death risk under the 3rd dose\n- 3rd injection is lethal (brain liquefaction)=<b>沃特化合物V24（临时V）</b>\r\n- 超浓缩军用变体\n- 临时能力（约24分钟），之后消退\n- 第三次注射前无死亡风险\n- 第三次注射致命（脑液化）
+
 <b>Supe-Killer Virus (Weak)</b>\r\n- Anti-Supe virus, weak strain (Godolkin U.)\n- Kills modern V2 Supers (tissue necrosis)\n- Normal humans and pure V1: immune\n- Extreme-resistance Supers: just a flu.=<b>超能杀手病毒（弱）</b>\r\n- 抗超能病毒，弱毒株（戈多尔金大学）\n- 杀死现代V2超能者（组织坏死）\n- 普通人类和纯V1：免疫\n- 极端抗性超能者：仅相当于一次流感. 
+
 <b>Supe-Killer Virus (Strong)</b>\r\n- Anti-Supe virus, strong strain (Neuman)\n- Kills ANY modern Super, even total invulnerability\n- Contagious: one touch infects other modern Supers\n- Pure V1: immune but knocked out ~1 min.=<b>超能杀手病毒（强）</b>\r\n- 抗超能病毒，强毒株（诺伊曼）\n- 杀死任何现代超能者，甚至完全无敌者\n- 具有传染性：一次接触即可感染其他现代超能者\n- 纯V1：免疫但昏迷约1分钟. 
+
 <b>Enriched Uranium Syringe</b>\r\n- Liquid enriched uranium, phosphorescent green\n- Burns the Compound V from the inside\n- V2 Supers die; V1 / regenerators only neutralized\n- Lethal to normal humans.=<b>浓缩铀注射器</b>\r\n- 液态浓缩铀，发出磷光绿\n- 从内部灼烧复合V\n- V2超能者死亡；V1/再生者仅被中和\n- 对普通人类致命. 
+
 <b>Enriched Uranium Cube</b>\r\nBig block of green enriched uranium, phosphorescent. Emits a constant saturation of radiation (Vought's 'Uranium Chamber'): nearby V2 Supers die in a short time, V1 / extreme density / regenerators are neutralized (powers off) but survive.=<b>浓缩铀方块</b>\r\n大块绿色浓缩铀，发出磷光. 持续释放饱和辐射（沃特的“铀室”）：附近的V2超能者在短时间内死亡，V1/极端密度/再生者被中和（能力关闭）但存活. 
+
 <b>Novichok Gas Mask</b>\r\nSealed gas mask with a pressurised tank of nerve agent (Novichok). Hold it up to a person's face and it clamps on like a mask; the tank then vents a lethal, sleep-inducing gas into their lungs.=<b>诺维乔克防毒面具</b>\r\n密封防毒面具，配有加压神经毒剂（诺维乔克）罐. 将其对准人脸，它会像面具一样紧扣；然后罐体会向肺部释放致命的诱导睡眠气体. 
 
 
@@ -11266,6 +11286,142 @@ Chest Blast unlock=胸部冲击波解锁
 
 drag header to move  -  right-click head to reopen=拖动标题移动 - 右键点击头部重新打开
 join the Discord=加入Discord
+
+
+
+
+
+//成就
+Achievement Get!=获得成就!
+achievements=成就
+ACHIEVEMENTS=成就
+UNLOCKED=已解锁
+LOCKED=已锁定
+BASIC=基础
+RARE=稀有
+LEGENDARY=传奇
+EXTREME=极限
+Test Subject=测试对象
+Inject Compound V into anyone.=向任何人注射沃特化合物。
+Supe=超能者
+Create a genuine Super.=创造一个真正的超能者。
+Alien Test Subject=外星测试对象
+Inject Compound V into a Gorse.=向一个Gorse注射复合V。
+Spider-Man=蜘蛛侠
+Make a Gorse Super shrug off 20 Sv of radiation.=让一个Gorse超能者承受20 Sv的辐射。
+???=???
+Charge a Gorse's chest beam all the way to the end... and find out what it really does.=将Gorse的胸部光束充能至尽头……并发现它的真正作用。
+Overdose Survived=过量幸存
+Survive a Compound V overdose (+15%).=在沃特化合物过量（+15%）中存活.
+Vought Approved=沃特认证
+Create a Super from a V2 syringe.=使用V2注射器创造一个超能者。
+Temporary Hero=临时英雄
+Use the V24 (temporary powers).=使用V24（临时能力）。
+Class T=T级
+A Super with Class T strength and Multi-City Block durability.=一个拥有T级力量和多重街区级耐久度的超能者。
+The Boys' Nightmare=黑袍们的噩梦
+Create a Super with Wall (9-B) durability or above.=创造一个拥有墙体级（9-B）或以上耐久度的超能者。
+Payback=报复
+A single Super with 3 or more powers.=一个拥有3种或以上能力的超能者。
+Healing Factor=治愈因子
+Create a Super with Regeneration.=创造一个具有再生能力的超能者。
+Godolkin's Gift=戈多尔金的礼物
+Infect a Super with the anti-Supe virus.=用反超能者病毒感染一个超能者。
+Chernobyl=切尔诺贝利
+Make an object radioactive (uranium / source).=使一个物体具有放射性（铀/源）。
+Ascension=升华
+Create an Apex being (V1 fused over V2): x4 everything.=创造一个顶点存在（V1融合于V2之上）：所有属性×4。
+Ragnarök=诸神黄昏
+Kill an Apex being. It is immortal by design - only the most extreme end can fell a god.=杀死一个顶点存在。它设计上是不朽的——只有最极端的方式才能弑神。
+Laser Eyes=激光眼
+Fire the Heat Vision.=发射热视线。
+Genocide=种族灭绝
+Kill a Super with the strong virus.=用强效病毒杀死一个超能者。
+20 Sieverts=20希沃特
+Make a Super absorb 20 Sv (unlocks its Chest Blast).=让一个超能者吸收20 Sv（解锁其胸部冲击波）。
+Trial by Fire=火之试炼
+Kill a Super with Heat Vision by burning it alive - no dismemberment, no other damage.=用热视线将超能者活活烧死——没有断肢，没有其他伤害。
+Up, Up and Away=向上，向上，飞走
+Take off with Flight.=使用飞行能力起飞。
+Impenetrable=坚不可摧
+A Pure V1 shrugs off the strong virus (Soldier Boy).=一个纯V1无视强效病毒（士兵男孩）。
+Vought Potion #9=沃特药剂9号
+With the strong virus overrunning the whole scene, escape through a wormhole with a healthy Super.=在强效病毒肆虐全场时，带着一个健康的超能者通过虫洞逃离。
+Acute Syndrome=急性综合征
+Kill someone with a lethal radiation dose.=用致命辐射剂量杀死某人。
+A-Train=A-Train
+Activate Super Speed.=激活超级速度。
+Mr. Marathon=马拉松先生
+An A-Train slams into something at full super-speed and dies - too fragile to survive its own crash.=一个A-Train以全速撞上某物并死亡——太过脆弱，无法承受自身的撞击。
+Cardiac Arrest=心脏骤停
+Kill a super-speed A-Train by injecting extra Compound V - fatal overdose heart attack.=通过额外注射复合V杀死一个超速A-Train——致命过量的心脏病发作。
+Stormfront=风暴前线
+Discharge Electricity from a hand.=从手部释放电力。
+Blood for Blood=以血换血
+Burst a limb with Hemokinesis.=用血液控制爆裂一个肢体。
+Termite=白蚁
+Shrink and burst an enemy from the inside.=缩小并从内部爆裂一个敌人。
+Bug Squash=碾虫
+With an extreme-tier Super, crush a Termite Super in a single blow.=使用一个极限级超能者，一击粉碎一个白蚁超能者。
+Translucent=隐形人
+Turn a Super invisible.=使一个超能者隐形。
+Silent Bomb=无声炸弹
+Kill an invisible Super by detonating nitroglycerin in its blood.=通过引爆血液中的硝化甘油杀死一个隐形超能者。
+Mind Games=心理游戏
+Put someone to sleep with the Mindstorm gaze.=用心灵风暴凝视使某人入睡。
+Ghost=幽灵
+Phase through solid matter (Intangibility).=穿过固体物质（虚体化）。
+Caught Out of Phase=相位抓捕
+Kill a Super while its Intangibility is active. It ignores every power - there is only one way.=在超能者虚体化激活时杀死它。它能无视所有能力——只有一种方法。
+Starlight=星光
+Fire a photon flashblast.=发射光子闪光爆。
+Lamplighter=点灯人
+Direct a jet of fire onto a target.=将一股火焰射向目标。
+Fully Charged=完全充能
+Charge the Starlight photon bar to 100%.=将星光的光子条充能至100%。
+Fallout=辐射尘
+Fire the Radiation Chest Blast.=发射辐射胸部冲击波。
+Meltdown=熔毁
+Melt metal / incinerate to the bone with fire.=用火焰熔化金属/烧至见骨。
+Small Building Buster=小型建筑破坏者
+Destroy a Small Building (9-A) limb with a full photon blast.=用全功率光子爆炸摧毁一个小型建筑级（9-A）的肢体。
+Singularity=奇点
+Collapse Starlight's photons into a black hole (no generators).=将星光的光子坍缩成一个黑洞（无需发电机）。
+Soldier Boy=士兵男孩
+Fire the Plasma Beam at max level (ATOMIC).=以最大等级（原子）发射等离子光束。
+Boiled Alive=活活煮死
+Kill a normal human by boiling the water they are submerged in (Heat Vision).=通过煮沸所浸没的水杀死一个普通人（热视线）。
+Vought Cocktail=沃特鸡尾酒
+Hit one body with both viruses, enriched uranium and acid, all at once.=用两种病毒、浓缩铀和酸同时击中一个身体。
+Lazarus=拉撒路
+Bring a freshly-dead but intact body back as a Super with Compound V.=将一个刚死但完整的身体用复合V复活为超能者。
+The Seven Must Die=七人必须死
+Kill all Seven (Speed, Starlight, Heat Vision, Chest Beam, Water Breathing, Strength, High Regen) with ONE atomic Chest Blast.=用一次原子级胸部冲击波杀死全部七人（速度、星光、热视线、胸部光束、水下呼吸、力量、高度再生）。
+Full Spectrum=全光谱
+Discover every power and variant: all abilities used + all 3 Heat Vision colours (V1 blue, V2 red, V24 yellow).=发现所有能力和变体：使用所有能力 + 全部3种热视线颜色（V1蓝、V2红、V24黄）。
+Scorched Earth=焦土
+Kill an extreme-tier Super that was reduced to a human by a Chest Blast, by planting a knife in its head.=将一个被胸部冲击波削弱为普通人的极限级超能者，将刀插入其头部杀死。
+The Seven Must Rise Again=七人必须再起
+Revive the SAME seven, restore each one's own power, and reunite them alive - within 10m.=在10分钟内复活相同的七人，恢复各自的力量，并让他们活着重聚。
+The Full Set=全集
+Unlock every other achievement. Welcome to the Seven.=解锁所有其他成就。欢迎加入七人。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -14453,7 +14609,7 @@ Disable Inf. Mass Punch.=禁用无限质量拳击.
 
 
 
-//347*
+//347*Hyperr的布娃娃增强_Hyperr's Ragdoll Enhancements
 <noparse>Hyperr's Ragdoll Enhancements</noparse>=<noparse>Hyperr的布娃娃增强</noparse>
 This mod improves the feel of ragdolls and adds wound grabbing.=这个模组改善了布娃娃的物理手感，并增加了伤口抓取功能。
 <size%3D1.5em>Hyperr's Ragdoll Enhancements</size>\nThis mod improves the feel of ragdolls and adds wound grabbing.\n<noparse>A mod by Hyperr Hydra & Insultifying for game version Any Version</noparse>=<size%3D1.5em>Hyperr的布娃娃增强</size>\n这个模组改善了布娃娃的物理手感，并增加了伤口抓取功能。\n<noparse>由 Hyperr Hydra 和 Insultifying 制作的模组，适用于游戏版本 任意版本</noparse>
