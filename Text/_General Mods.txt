@@ -7988,12 +7988,31 @@ Set rope length in meters=以米为单位设置绳索长度
 //154*高级闪电侠模组_Advanced Flash Mod
 Advanced Flash Mod=高级闪电侠模组
 Run beyond the limits of time.\nFortunately, this mod lets you do it.=超越时间的极限.\n幸运的是，这个模组让你能够做到这一点.
-<size%3D1.5em>Advanced Flash Mod</size>\nRun beyond the limits of time.\nFortunately, this mod lets you do it.\n<noparse>A mod by foxnin4ik for game version Latest</noparse>=<size%3D1.5em>高级闪电侠模组</size>\r\n超越时间的极限.\n幸运的是，这个模组让你能够做到这一点.\n<noparse>由foxnin4ik为最新游戏版本制作的模组</noparse>
+<size%3D1.5em>Advanced Flash Mod</size>\n<align%3Dcenter>The mod adds <color%3D"yellow"><b>Flash</b></color> to the game.\r\n\r\nI will be very happy if you join my discord(where I regularly show sneak-peeks for new updates)\r\n<color%3D"purple"><b>https:%2F%2Fdiscord.com/invite/RHVAFwrajk</b></color>\r\n\r\nCurrent version: <color%3D"green"><b>0.5.0</b></color>\r\nCreated by <b>foxnin4ik</b>=<size%3D1.5em>高级闪电侠模组</size>\n<align%3Dcenter>该模组将<color%3D"yellow"><b>闪电侠</b></color>加入游戏. \r\n\r\n如果你加入我的Discord（我会在那里定期展示新更新的预览），我会非常高兴. \r\n<color%3D"purple"><b>https:%2F%2Fdiscord.com/invite/RHVAFwrajk</b></color>\r\n\r\n当前版本：<color%3D"green"><b>0.5.0</b></color>\r\n创建者：<b>foxnin4ik</b>
+
+//物品栏
 <b>Advanced Flash Mod</b>\r\nUpgraded original Flash mod\nAdds CW series characters and abilities.=<b>高级闪电侠模组</b>\r\n升级了原版闪电侠模组\n添加了CW系列角色和能力.
-<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Speed Force Giver</b>\r\nAdds the Speed Force to any entity, making them able to use Flash's Powers.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>神速力给予者</b>\r\n为任何实体添加神速力，使其能够使用闪电侠的能力.
-<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Velocity 9</b>\r\nA speed drug that temporarily enhances speed. +1 speed level per injection. Lasts 15 minutes.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>极速9号</b>\r\n一种暂时提升速度的加速药物.每次注射+1速度等级.持续15分钟.
-<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Flash</b>\r\nThe Fastest man alive!=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>闪电侠</b>\r\n世上最快的人!
-<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Reverse Flash</b>\r\nFlash Biggest Rival!!!=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>逆闪电</b>\r\n闪电侠最大的宿敌!!!
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Speedforce Giver</b>\r\nAdds the Speed Force to any entity, making them able to use Flash's Powers.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>神速力赋予器</b>\r\n赋予任何实体神速力，使其能够使用闪电侠的能力.
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Vibe Power Giver</b>\r\nGives Vibe abilities to any creature upon contact.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>震波能力赋予器</b>\r\n接触后赋予任何生物震波的能力. 
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Vibe Power Giver</b>\r\nGives Vibe abilities to any creature upon contact.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>震波能力赋予器</b>\r\n接触后赋予任何生物震波的能力. 
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Velocity 9</b>\r\nA speed drug that temporarily enhances speed. +1 speed level per injection. Lasts 15 minutes.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>速度9</b>\r\n一种暂时提升速度的速度药物. 每次注射提升1级速度. 持续15分钟. 
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Tachyon Device</b>\r\nAn advanced device that boosts a speedster's Max Speed Level by 50% when activated. Has no effect on regular humans.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>超光速粒子装置</b>\r\n一种先进装置，激活后可将极速者的最大速度等级提升50%. 对普通人类无效. 
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Flash</b>\r\nThe Fastest man alive!\n-Barry Allen.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>闪电侠</b>\r\n世界上最快的人！\n-巴里·艾伦. 
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Vibe</b>\r\nExpecto Patronum!\n-Cisco Ramon.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>震波</b>\r\n呼神护卫！\n-西斯科·雷蒙. 
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Reverse Flash</b>\r\nFlash Biggest Rival!!!\n-Eobard Thawne.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>逆闪电</b>\r\n闪电侠最大的宿敌！！！\n-艾尔伯德·斯旺. 
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Zoom</b>\r\nNever forget, I am the fastest man alive\n-Hunter Zolomon.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>极速</b>\r\n永远不要忘记，我才是世界上最快的人\n-亨特·佐勒蒙. 
+
+<b><color%3D#FF6200>[Advanced Flash Mod] <color%3Dwhite>Godspeed</b>\r\nYour speed will be mine!\n-August Heart.=<b><color%3D#FF6200>[高级闪电侠模组] <color%3Dwhite>神速</b>\r\n你的速度将会是我的！\n-奥古斯特·哈特. 
+
 Mask: =面具: 
 Toggle Reverse Flash Mask=切换逆闪电面具
 Toggle Reverse Flash Mask.=切换逆闪电面具.
@@ -8007,8 +8026,30 @@ Tornado Arms: =龙卷风双臂：
 Intangibility: =无形化：
 Speed Clones: =速度分身：
 Inf. Mass Punch: =无限质量拳：
+Glasses:=眼镜：
+Toggle Vibe Glasses=切换震波眼镜
+Toggle Vibe Glasses.=切换震波眼镜.
+Vibe Powers:=震波能力：
+Toggle Vibe Powers=切换震波能力
+Toggle Vibe Powers.=切换震波能力.
+Blast:=震波爆裂：
+Blast=震波爆裂
+Toggle Blast Power=切换震波爆裂
+Toggle Blast Power.=切换震波爆裂.
+Breach:=空间裂隙：
+Breach=空间裂隙
+Toggle Breach Power=切换空间裂隙
+Toggle Breach Power.=切换空间裂隙.
 r:"([\d.]+)% Slowmotion"=$1% 慢动作
 r:"<color%3D#00FF00>([\d.]+)% Slowmotion</color>"=<color%3D#00FF00>$1% 慢动作</color>
+Overdose Protection: =药物过量防护：
+r:"Duration: (\d+)m"="持续时间：$1分钟"
+r:"Set Velocity 9 Duration\\n0 %3D infinity, m %3D minutes, s %3D seconds\\nDefault: ([\d.]+)([ms]?)" = "设置速度9持续时间\n0 %3D 无限，m %3D 分钟，s %3D 秒\n默认：$1$2"
+Remove Velocity 9=移除速度9
+Customize Vibe Color=自定义震波颜色
+Customize Vibe Color.=自定义震波颜色.
+Select Vibe Color=选择震波颜色
+Set Vibe Color=设置震波颜色
 
 
 
@@ -8122,6 +8163,9 @@ Random Map: OFF=随机地图: 关闭
 Random Map: ON=随机地图: 开启
 Clear Map: OFF=清除地图: 关闭
 Clear Map: ON=清除地图: 开启
+
+//拆分正则太好用了
+sr:"Selected Map:\\n(.*?)" = "已选地图：\n$1"
 
 
 
@@ -14191,8 +14235,8 @@ SpringJoint=弹簧关节
 
 //339*喷涂模组_Spray Mod
 <noparse>Spray Mod</noparse>=<noparse>喷涂模组</noparse>
-Unleash your creativity with our mod! Use the Spray and Rubber tools for realistic paint effects and erasing mistakes. Warning: creativity may ensue! Our mod is like a digital art studio, minus the messy tables and judgmental art teachers. Get ready to unleash your inner artist (or inner mess-maker)!=用我们的模组释放你的创造力！使用喷涂和橡皮工具实现真实的绘画效果和擦除错误。警告：创造力可能会爆发！我们的模组就像一个数字艺术工作室，只是没有凌乱的桌子和爱评判的艺术老师。准备好释放你内心的艺术家（或者内心的小捣蛋鬼）吧！
-<size%3D1.5em>Spray Mod</size>\nUnleash your creativity with our mod! Use the Spray and Rubber tools for realistic paint effects and erasing mistakes. Warning: creativity may ensue! Our mod is like a digital art studio, minus the messy tables and judgmental art teachers. Get ready to unleash your inner artist (or inner mess-maker)!\n<noparse>A mod by Aldrich, Kasztan for game version 1.27+</noparse>=<size%3D1.5em>喷涂模组</size>\n用我们的模组释放你的创造力！使用喷涂和橡皮工具实现真实的绘画效果和擦除错误。警告：创造力可能会爆发！我们的模组就像一个数字艺术工作室，只是没有凌乱的桌子和爱评判的艺术老师。准备好释放你内心的艺术家（或者内心的小捣蛋鬼）吧！\n<noparse>由 Aldrich、Kasztan 制作的模组，适用于游戏版本 1.27+</noparse>
+Unleash your creativity with our mod! Use the Spray and Rubber tools for realistic paint effects and erasing mistakes. Warning: creativity may ensue! Our mod is like a digital art studio, minus the messy tables and judgmental art teachers. Get ready to unleash your inner artist (or inner mess-maker)!=用我们的模组释放你的创造力！使用喷涂和橡皮工具实现真实的绘画效果和擦除错误. 警告：创造力可能会爆发！我们的模组就像一个数字艺术工作室，只是没有凌乱的桌子和爱评判的艺术老师. 准备好释放你内心的艺术家（或者内心的小捣蛋鬼）吧！
+<size%3D1.5em>Spray Mod</size>\nUnleash your creativity with our mod! Use the Spray and Rubber tools for realistic paint effects and erasing mistakes. Warning: creativity may ensue! Our mod is like a digital art studio, minus the messy tables and judgmental art teachers. Get ready to unleash your inner artist (or inner mess-maker)!\n<noparse>A mod by Aldrich, Kasztan for game version 1.27+</noparse>=<size%3D1.5em>喷涂模组</size>\n用我们的模组释放你的创造力！使用喷涂和橡皮工具实现真实的绘画效果和擦除错误. 警告：创造力可能会爆发！我们的模组就像一个数字艺术工作室，只是没有凌乱的桌子和爱评判的艺术老师. 准备好释放你内心的艺术家（或者内心的小捣蛋鬼）吧！\n<noparse>由 Aldrich、Kasztan 制作的模组，适用于游戏版本 1.27+</noparse>
 
 <b>Paint</b>\nPainting - Press J to decrease paint brush size or K to increase paint brush size.=<b>绘画</b>\n绘画 - 按J减小画笔大小，或按K增大画笔大小. L更改颜色
 <b>Eraser</b>\nErasing - Press J to decrease eraser brush size or K to increase eraser brush size.=<b>橡皮擦</b>\n擦除 - 按J减小橡皮擦大小，或按K增大橡皮擦大小.
@@ -14283,11 +14327,13 @@ Wake Up To Reality.=醒来面对现实.
 
 
 
+
+
 //344*武器数值修改器_Weapon Numerical Modifier
 <noparse>Weapon Numerical Modifier</noparse>=<noparse>武器数值修改器</noparse>
 <size%3D1.5em>Weapon Numerical Modifier</size>\n\n<noparse>A mod by EmperorFish for game version 1.26+</noparse>=<size%3D1.5em>武器数值修改器</size>\n\n<noparse>由 EmperorFish 制作的模组，适用于游戏版本 1.26+</noparse>
 Open Weapon Menu=打开武器菜单
-Open Weapon Menu.=打开武器菜单。
+Open Weapon Menu.=打开武器菜单. 
 Set Cartridge=设置弹药
 Damage, Recoil, ImpactForce, StartSpeed, PenetrationRandomAngleMultiplier=伤害, 后坐力, 冲击力, 初速, 穿透随机角度倍率
 Set Target Bullets Per Shot=设置每次射击的子弹数
@@ -14304,12 +14350,15 @@ Fire Rate=射速
 
 
 
+
+
+
+
 //345*可配置爆炸物_Configurable Explosive
 <noparse>Configurable Explosive</noparse>=<noparse>可配置爆炸物</noparse>
-Adds an explosive which has fully configurable values.=添加了一个具有完全可配置数值的爆炸物。
-<size%3D1.5em>Configurable Explosive</size>\nAdds an explosive which has fully configurable values.\n<noparse>A mod by Frosty for game version 1.15</noparse>=<size%3D1.5em>可配置爆炸物</size>\n添加了一个具有完全可配置数值的爆炸物。\n<noparse>由 Frosty 制作的模组，适用于游戏版本 1.15</noparse>
+Adds an explosive which has fully configurable values.=添加了一个具有完全可配置数值的爆炸物. 
+<size%3D1.5em>Configurable Explosive</size>\nAdds an explosive which has fully configurable values.\n<noparse>A mod by Frosty for game version 1.15</noparse>=<size%3D1.5em>可配置爆炸物</size>\n添加了一个具有完全可配置数值的爆炸物. \n<noparse>由 Frosty 制作的模组，适用于游戏版本 1.15</noparse>
 <b>Configurable Explosive</b>\r\nAn explosive that you can configure to your liking!=<b>可配置爆炸物</b>\r\n一个可让你按喜好配置的爆炸物！
-
 Set Explosion Range=设置爆炸范围
 Sets Explosion Range.=设置爆炸范围.
 Set Impact Force Threshold=设置冲击力阈值
@@ -14341,3 +14390,58 @@ r:"Enter the shockwave lift force\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),
 r:"Enter the fragment force\\n<color%3Dgreen><size%3D26>Default: ([\d.]+),Currently:([\d.]+)</size></color>"="输入碎片力度\n<color%3Dgreen><size%3D26>默认：$1，当前：$2</size></color>"
 
 
+
+
+
+
+
+
+
+
+
+
+//346*闪电侠模组_THE FLASH MOD
+<noparse>THE FLASH MOD</noparse>=<noparse>闪电侠模组</noparse>
+The Fastest Man alive!=世界上最快的男人！
+<size%3D1.5em>THE FLASH MOD</size>\nThe Fastest Man alive!\n<noparse>A mod by MC studios for game version 1.25+</noparse>=<size%3D1.5em>闪电侠模组</size>\n世界上最快的男人！\n<noparse>由 MC studios 制作的模组，适用于游戏版本 1.25+</noparse>
+
+//物品栏
+<b>THE FLASH MOD</b>\r\nTHE FLASH MOD.=<b>闪电侠模组</b>\r\n闪电侠模组
+
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Speed Force Giver</b>\r\nAdds the Speed Force to any entity, making them able to use Flash's Powers.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>神速力赋予器</b>\r\n赋予任何实体神速力，使其能够使用闪电侠的能力
+
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Flash</b>\r\nThe Fastest man alive!\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>闪电侠</b>\r\n世界上最快的人！\n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
+
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Reverse Flash</b>\r\nFlash Biggest Rival!!\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>逆闪电</b>\r\n闪电侠最大的宿敌！！\n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
+
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Zoom</b>\r\nThe days of The Flash protecting the city are over.\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>极速</b>\r\n闪电侠守护城市的日子已经结束了。\n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
+
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Godspeed</b>\r\nThere can only be one god of speed, Flash.\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>神速</b>\r\n速度之神只能有一个，闪电侠。\n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
+
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Black Flash</b>\r\nThe Speedsters version of Death, he comes for you and your speed...\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>黑闪</b>\r\n极速者版本的死神，他会来找你和你速度的麻烦……\n打开头部的上下文菜单以获取慢动作选项
+
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Wally West</b>\r\nThe Real Fastest Man Alive!!\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>沃利·韦斯特</b>\r\n真正的世界上最快的人！！\n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
+
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite><color%3D#FFD500>[Secret] <color%3Dwhite>A-Train</b>\r\n*Starts playing Message From The Stars.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite><color%3D#FFD500>[秘密] <color%3Dwhite>火车头</b>\r\n*开始播放火车头的小曲《Message From The Stars》
+
+//右键菜单
+Enable Speed Effect=启用速度效果
+Enable Speed Effect.=启用速度效果.
+Disable Speed Effect=禁用速度效果
+Disable Speed Effect.=禁用速度效果.
+Enable Hands Phase=启用双手相位
+Enable Hands Phase.=启用双手相位.
+Disable Hands Phase=禁用双手相位
+Disable Hands Phase.=禁用双手相位.
+Enable Intangibility=启用虚体化
+Enable Intangibility.=启用虚体化.
+Disable Intangibility=禁用虚体化
+Disable Intangibility.=禁用虚体化.
+Enable Speed Clones=启用速度分身
+Enable Speed Clones.=启用速度分身.
+Disable Speed Clones=禁用速度分身
+Disable Speed Clones.=禁用速度分身.
+Enable Inf. Mass Punch=启用无限质量拳击
+Enable Inf. Mass Punch.=启用无限质量拳击.
+Disable Inf. Mass Punch=禁用无限质量拳击
+Disable Inf. Mass Punch.=禁用无限质量拳击.
