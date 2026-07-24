@@ -11034,76 +11034,6 @@ Overwrite=覆盖
 Compound V superpowers inspired by The Boys. Inject a syringe to turn a person into a Super with random powers: strength, durability, regeneration, flight, heat vision, hemokinesis, radiation chest blast, electricity, super speed, termite, invisibility, mindstorm. Right-click a V2 syringe -> Options for a custom loadout; powers activate with F on the matching body part. Community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s=受《黑袍纠察队》启发的沃特化合物超能力. 注射注射器可将人转变为拥有随机能力的超能者：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、电力、超级速度、白蚁、隐形、心灵风暴. 右键点击V2注射器 -> 选项可自定义配置；能力通过在对应身体部位按F键激活. 社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s
 
 <size%3D1.5em>Compound Playground</size>\nCOMPOUND PLAYGROUND\nCompound V superpowers for People Playground - inspired by The Boys.\n\nInject a Compound V syringe into a person to turn them into a Super. Each Super rolls\nrandom powers: strength, durability, regeneration, flight, heat vision, hemokinesis,\nradiation chest blast, electricity, super speed, termite, invisibility, mindstorm.\n\n- Right-click a V2 syringe -> Options to pick exact powers and levels (loadout).\n- Powers activate with F on the matching body part of a Super that has them.\n- V1 %3D classic god-formula, V24 %3D temporary, plus anti-Supe viruses and enriched uranium.\n\nJoin the community / help & feedback: https:%2F%2Fdiscord.gg/SnSVneq78s\n\nby ale_diola_\n=<size%3D1.5em>复合V游乐场</size>\n复合V游乐场\n为《People Playground》添加沃特化合物超能力——灵感来自《黑袍纠察队》. \n\n为某人注射沃特化合物可将其转变为超能者. 每个超能者随机获得\n能力：力量、耐久度、再生、飞行、热视线、血液控制、辐射胸部冲击波、\n电力、超级速度、白蚁、隐形、心灵风暴. \n\n- 右键点击V2注射器 -> 选项可选择精确能力和等级（配置）. \n- 能力通过在拥有该能力的超能者的对应身体部位上按F键激活. \n- V1 %3D 经典神之配方，V24 %3D 临时型，还有抗超能病毒和浓缩铀. \n\n加入社区/帮助与反馈：https:%2F%2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_2Fdiscord.gg/SnSVneq78s\n\n作者：ale_diola_
-//通知
-
-//静态
-no human under the mouse=鼠标下没有人类. 
-Radioactive source removed.=放射性源已移除. 
-No human prefab found to spawn.=未找到要生成的人类预制体. 
-APEX: V1 fused onto an extreme-durability V2. Strength, resistance and abilities QUADRUPLED (x4). Immortal (never ages) and fully immune to the anti-Supe virus (weak and strong).=APEX：V1 融合到极端耐久的 V2 上. 力量、抗性和能力翻四倍（x4）. 不朽（永不衰老）并且完全免疫反超能力者病毒（弱和强）. 
-TERMITE: shrunk. Guide yourself (mouse) INTO an enemy, then tap F on your torso again to burst them from within.=TERMITE：缩小. 引导自己（鼠标）进入敌人内部，然后再次点击自己的躯干按 F 从内部炸裂他们. 
-TERMITE: burst them open from the inside.=TERMITE：从内部炸裂他们. 
-This subject doesn't have the flight power.=该对象没有飞行能力. 
-Flight disabled.=飞行已禁用. 
-Flight enabled! Follow the mouse (F on a foot to land).=飞行已启用！跟随鼠标（在脚部按 F 降落）. 
-Compound V restarts the vital functions! The body rises with powers... but the brain is damaged (hypoxia): UNSTABLE subject.=复合 V 重启生命功能！身体带着能力站起...但大脑受损（缺氧）：不稳定对象. 
-V24 injected too many times: brain chemistry collapses - brain liquefaction and fulminant tumors.=V24 注射次数过多：大脑化学崩溃 - 脑液化和暴发性肿瘤. 
-Brain liquefied. Death.=大脑液化. 死亡. 
-Compound V cleared from the blood: powers gone, back to a normal human.=复合 V 从血液中清除：能力消失，变回普通人类. 
-Raw V1: the adult body rejects the serum. Fulminant hemorrhage - blood gushing from the rear.=原始 V1：成人体内排斥血清. 暴发性出血——血液从后方喷涌而出. 
-Bled out. Death.=失血过多. 死亡. 
-Blood vessels start giving way. Convulsions.=血管开始破裂. 抽搐. 
-Organ collapse: widespread hemorrhaging.=器官衰竭：广泛出血. 
-The vessels burst.=血管爆裂. 
-Against all odds the subject survives!=尽管困难重重，对象存活了！
-The subject didn't make it. Death.=对象未能幸免. 死亡. 
-Compound V OVERDOSE. The mitochondria accelerate past the limit: the heart can't meet the ATP demand. Cardiac hypertrophy, unstable bone density, dependency. The body stops producing endogenous V.=复合 V 过量. 线粒体加速超过极限：心脏无法满足 ATP 需求. 心脏肥大，骨密度不稳定，依赖. 身体停止产生内源性 V. 
-Fatal cardiac arrest (like A-Train under strain).=致命心脏骤停（类似压力下的 A-Train）. 
-APEX being: perfect molecular structure, fully immune to any anti-Supe virus.=APEX 存在：完美分子结构，完全免疫任何反超能力者病毒. 
-Normal human: no Compound-V-modified receptors. Fully immune to the anti-Supe virus.=正常人类：没有复合 V 修饰的受体. 完全免疫反超能力者病毒. 
-Pure V1 (Soldier Boy-type): impenetrable molecular structure, nothing binds. Fully immune.=纯 V1（士兵男孩型）：不可穿透的分子结构，无所结合. 完全免疫. 
-Modern Super but extreme internal resistance: the base virus is at most a mild flu. Survives.=现代超能力者但极端内部抗性：基础病毒至多轻微流感. 存活. 
-Strong virus: exponential replication, fulminant tissue necrosis. Lethal and highly contagious (one touch is enough).=强病毒：指数复制，暴发性组织坏死. 致命且高度传染（触碰一下即足）. 
-Virus: tissue necrosis, the Compound V in the blood is depleted. Lethal to the modern Super.=病毒：组织坏死，血液中的复合 V 耗尽. 对现代超能力者致命. 
-Pure V1: the strong virus can't kill it but knocks it out - cough, apnea, blotchy skin and ~1 minute unconscious, then it recovers.=纯 V1：强病毒无法杀死它但会使其昏迷 - 咳嗽、呼吸暂停、皮肤斑驳和约 1 分钟失去知觉，然后恢复. 
-Total necrosis: the subject is dead, the Compound V destroyed.=完全坏死：对象已死，复合 V 被摧毁. 
-The virus didn't take hold: the subject recovers.=病毒未能立足：对象恢复. 
-Lethal radiation dose: acute syndrome, widespread necrosis and multi-organ collapse.=致命辐射剂量：急性综合征，广泛坏死和多器官衰竭. 
-Invisibility: visible again.=隐形：再次可见. 
-Invisibility: turned invisible (the carbon skin stays bulletproof). Tap F on the head to reappear.=隐形：转为隐形（碳皮肤保持防弹）. 点击头部按 F 重新出现. 
-Mindstorm: the mind is released - the subject stirs awake.=心灵风暴：精神被释放 - 对象苏醒. 
-Mindstorm: trapped in an endless memory - deep sleep until a Mindstorm frees them (F on the Mindstorm's head, then click the sleeper).=心灵风暴：被困在无尽的记忆中 - 深度睡眠，直到心灵风暴释放他们（在心灵风暴的头部按 F，然后点击睡眠者）. 
-Mindstorm gaze armed: CLICK a person to put them to sleep or wake them (right-click cancels).=心灵风暴凝视已就绪：点击一个人使其睡眠或唤醒（右键取消）. 
-Hemokinesis active: aim and CLICK a limb to burst it (F or right-click to cancel).=血液控制激活：瞄准并点击一个肢体使其爆裂（F 或右键取消）. 
-Heat Vision: looping OFF.=热视线：循环关闭. 
-Heat Vision: looping ON - right-click the head again to stop.=热视线：循环开启 - 再次右键头部停止. 
-Body too destroyed (decapitated/atomized): Compound V can't restart anything. Permanent death.=身体破坏太严重（斩首/原子化）：复合 V 无法重启任何东西. 永久死亡. 
-Radiation: the Compound V is burned out of the blood. Powers off.=辐射：复合 V 从血液中被烧尽. 能力关闭. 
-The radioactive beam fried and pulverized the Compound V in the blood: powers lost.=辐射光束烧灼并粉碎了血液中的复合 V：能力丧失. 
-Compound V - This subject has no active Compound V in the blood.=复合 V - 该对象血液中没有活跃的复合 V. 
-
-//动态
-r:"Object made radioactive. Level: (.+) \(dose ~([0-9.]+) RAD/s at 1m, radius ([0-9.]+)\). Put a Super nearby."=物体已变为放射性. 等级：$1（剂量约 $2 RAD/s at 1m，半径 $3）. 请将一个超能力者放在附近. 
-
-r:"Spawned MAX V2 SUPER: Class T strength, Multi-City Block durability \(int\+ext\), regeneration, extreme radiation resistance, Chest Blast ready \(hold (.+) on the chest\)."=已生成最大 V2 超能力者：T级力量，多城市街区耐久（内+外），再生，极端抗辐射，胸部冲击波就绪（在胸部按住 $1）. 
-
-r:"OVERDOSE SURVIVED. The body adapts past the limit: \+([0-9]+)% to strength, durability, speed and all abilities \(total \+([0-9]+)%, overdose #([0-9]+)\)."=过量注射存活. 身体超越极限适应：力量、耐久、速度和所有能力 +$1%（总计 +$2%，过量注射 #$3）. 
-
-r:"SUPER SPEED: (.+) - the world slows to ([0-9]+)%, you don't. Tap F on the head to stop."=超级速度：$1 - 世界减速至 $2%，你不受影响. 点击头部按 F 停止. 
-
-r:"PLASMA BEAM! Power level ([0-9]+) \(([^)]+)\)."=等离子光束！力量等级 $1（$2）. 
-
-r:"V24: temporary powers \(use ([0-9]+)/3\). They will drain away."=V24：临时能力（使用 $1/3）. 它们会逐渐消失. 
-
-r:"Enough nuclear energy accumulated: RADIATION CHEST BLAST unlocked! Hold (.+) on the chest ~9s, then release."=累积足够的核能：辐射胸部冲击波已解锁！在胸部按住 $1 约 9 秒，然后释放. 
-
-r:"Charging the beam\.\.\. hold (.+)\."=充能中...按住 $1. 
-
-Compound V ready. See the 'Compound V' spawn category. Powers (if unlocked): hold F on the chest %3D Chest Blast, on the head %3D Heat Vision; F on the head (tap) %3D Hemokinesis; hold F on a hand %3D Electricity; F on a foot %3D Flight; F on the head %3D Invisibility / Mindstorm (sleep gaze).=复合V已就绪. 请查看“复合V”生成分类. 能力（如果已解锁）：按住F键在胸部%3D胸部冲击波，在头部%3D热视线；\n轻按F键在头部%3D血液控制；按住F键在一只手上%3D电力；按F键在脚上%3D飞行；按F键在头部%3D隐形/心灵风暴（睡眠凝视）
-
-Raw V1: the adult body rejects the serum. Fulminant hemorrhage - blood gushing from the rear.=原始V1：成人体内排斥血清. 暴发性出血——血液从后方喷涌而出. 
-V1: external durability Large Building (High 8-C), internal Large Building (High 8-C). Building-level (8-C): shrugs off heavy machine-gun fire (Homelander-type). Super-strength: Class 1. (F while clicking on the character to use powers.)=V1：外部耐久性大型建筑（高8-C），内部大型建筑（高8-C）. 建筑级（8-C）：无视重型机枪火力（祖国人型）. 超级力量：1级. （点击角色时按F键使用能力. ）
-
 
 
 
@@ -11125,6 +11055,8 @@ V1: external durability Large Building (High 8-C), internal Large Building (High
 <b>Enriched Uranium Cube</b>\r\nBig block of green enriched uranium, phosphorescent. Emits a constant saturation of radiation (Vought's 'Uranium Chamber'): nearby V2 Supers die in a short time, V1 / extreme density / regenerators are neutralized (powers off) but survive.=<b>浓缩铀方块</b>\r\n大块绿色浓缩铀，发出磷光. 持续释放饱和辐射（沃特的“铀室”）：附近的V2超能者在短时间内死亡，V1/极端密度/再生者被中和（能力关闭）但存活. 
 
 <b>Novichok Gas Mask</b>\r\nSealed gas mask with a pressurised tank of nerve agent (Novichok). Hold it up to a person's face and it clamps on like a mask; the tank then vents a lethal, sleep-inducing gas into their lungs.=<b>诺维乔克防毒面具</b>\r\n密封防毒面具，配有加压神经毒剂（诺维乔克）罐. 将其对准人脸，它会像面具一样紧扣；然后罐体会向肺部释放致命的诱导睡眠气体. 
+
+
 
 
 //右键菜单
@@ -11189,9 +11121,9 @@ Toggle Invisibility (+ carbon skin); F on the head=切换隐形（+碳化皮肤�
 Toggle Invisibility (+ carbon skin); F on the head.=切换隐形（+碳化皮肤）；按F键在头部. 
 Toggle Mindstorm (deep-sleep gaze); F on the head, then click a target=切换心灵风暴（深度睡眠凝视）；按F键在头部，然后点击目标
 Toggle Mindstorm (deep-sleep gaze); F on the head, then click a target.=切换心灵风暴（深度睡眠凝视）；按F键在头部，然后点击目标. 
-Compound V stats=复合V属性
-Show this Super's Compound V sheet=显示此超能者的复合V属性面板
-Show this Super's Compound V sheet.=显示此超能者的复合V属性面板. 
+Compound V stats=沃特化合物属性
+Show this Super's Compound V sheet=显示此超能者的沃特化合物属性面板
+Show this Super's Compound V sheet.=显示此超能者的沃特化合物属性面板. 
 Heat Vision (loop)=热视线（循环）
 Toggle a continuous heat-vision beam=切换持续热视线光束
 Toggle a continuous heat-vision beam.=切换持续热视线光束. 
@@ -11200,31 +11132,46 @@ Switch flight mode. Classic (default) %3D weightless hover, holds still in the a
 Flight mode: FOLLOW MOUSE (flies to the cursor).=飞行模式：跟随鼠标（飞向光标）. 
 Flight mode: CLASSIC (weightless hover - holds still in the air, drag to move).=飞行模式：经典（失重悬停——在空中静止不动，拖拽移动）. 
 
+//辐射
+r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s$" = "辐射 $1 Sv/s $2 rem/s"
+r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s\nABSORBED ([\d.]+) Sv ([\d.]+) rem$" = "辐射 $1 Sv/s $2 rem/s\n已吸收 $3 Sv $4 rem"
+sr:"^ABSORBED   ([\d.]+) Sv   ([\d.]+) rem\n(.*)$" = "已吸收 $1 Sv $2 rem\n$3"
+r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s\nNUCLEAR CHARGE ([\d.]+) / 20 Sv$" = "辐射 $1 Sv/s $2 rem/s\n核电荷 $3 / 20 Sv"
+r:"^RADIATION   ([\d.]+) Sv/s   ([\d.]+) rem/s\nABSORBED ([\d.]+) Sv ([\d.]+) rem\nNUCLEAR CHARGE ([\d.]+) / 20 Sv$" = "辐射 $1 Sv/s $2 rem/s\n已吸收 $3 Sv $4 rem\n核电荷 $5 / 20 Sv"
+r:"^ABSORBED   ([\d.]+) Sv   ([\d.]+) rem\n(.*)\nNUCLEAR CHARGE ([\d.]+) / 20 Sv$" = "已吸收 $1 Sv $2 rem\n$3\n核电荷 $4 / 20 Sv"
 
-//面板
+
+//UI面板
 COMPOUND V2  -  modern=复合V2 - 现代版
 COMPOUND V1  -  classic, pure=复合V1 - 经典，纯正
 COMPOUND V1  -  temporary=复合V1 - 临时型
 COMPOUND V1  -  modern=复合V1 - 现代型
 COMPOUND V24  -  temporary=复合V24 - 临时型
-r:"RAGE (\d+)%  -  lv(\d+)  \((\d+) kg TNT\)"="愤怒 $1% - 等级$2（$3 公斤 TNT）"
+sr:"RAGE (\d+)%  -  lvl (\d+)  \((.*?)\)" = "怒气$1% - 等级$2（$3）"
+250 kg TNT=250公斤TNT
+500 kg TNT=500公斤TNT
+1000 kg TNT=1000公斤TNT
+ATOMIC=原子级
 PHYSIQUE=体格
-Below Average Human  (hit 0)=低于普通人级（攻击0）
-Average Human  (hit 1)=普通人级（攻击1）
-Above Average Human  (hit 3)=高于普通人级（攻击3）
-Athletic Human  (hit 6)=运动员级（攻击6）
-Peak Human  (hit 12)=人类巅峰级（攻击12）
-Superhuman  (hit 25)=超人类（攻击25）
-Class 1  (hit 50)=1级（攻击50）
-Class 5  (hit 100)=5级（攻击100）
-Class 10  (hit 180)=10级（攻击180）
-Class 25  (hit 320)=25级（攻击320）
-Class 50  (hit 550)=50级（攻击550）
-Class 100  (hit 900)=100级（攻击900）
-Class K  (hit 1800)=K级（攻击1800）
-Class M (hit 3500)=M级（攻击3500）
-Class G  (hit 6500)=G级（攻击6500）
-Class T  (hit 12000)=T级（攻击12000）
+Limb HP=肢体生命值
+r:"(\d+) per limb"="每个肢体$1"
+none (focused mutation)=无（专注突变）
+Below Average Human  (hit 0)=常人以下 (攻击力 0)
+Average Human  (hit 8)=普通人类 (攻击力 8)
+Above Average Human  (hit 14)=强于常人 (攻击力 14)
+Athletic Human  (hit 24)=运动健将 (攻击力 24)
+Peak Human  (hit 40)=极限人类 (攻击力 40)
+Superhuman  (hit 65)=超人类 (攻击力 65)
+Class 1  (hit 100)=1级 (攻击力 100)
+Class 5  (hit 150)=5级 (攻击力 150)
+Class 10  (hit 200)=10级 (攻击力 200)
+Class 25  (hit 320)=25级 (攻击力 320)
+Class 50  (hit 480)=50级 (攻击力 480)
+Class 100  (hit 720)=100级 (攻击力 720)
+Class K  (hit 1100)=K级 (攻击力 1100)
+Class M  (hit 1700)=M级 (攻击力 1700)
+Class G  (hit 2600)=G级 (攻击力 2600)
+Class T  (hit 4000)=T级 (攻击力 4000)
 Toughness=坚韧度
 defense =防御 
 Durability (skin)=耐久度（皮肤）
@@ -11244,7 +11191,7 @@ Time Skipper  (world 1%)=时间跳跃者（世界1%）
 Accelerated  (world 20%)=加速（世界20%）
 Hypervelocity  (world 10%)=超高速（世界10%）
 Mach Rider  (world 5%)=马赫骑手（世界5%）
-one=一
+none=无
 Average Human  (spd 20)=普通人级（速度20）
 Athletic Human  (spd 28)=运动员级（速度28）
 Peak Human  (spd 36)=人类巅峰级（速度36）
@@ -11261,26 +11208,43 @@ Totale  (3000 HP/s, regrows)=完全（3000 HP/s，再生肢体）
 Alta  (180 HP/s)=高度  (180 HP/s)
 
 ABILITIES=能力
-Regeneration (passive)=再生（被动）
-Super Speed (tap F on the head to toggle)=超级速度（轻按头部F键切换）
-Mindstorm=心灵风暴
-Mindstorm (F on the head, then click a target)=心灵风暴 (按头部F键，然后点击目标)
-Invisibility (F on the head to toggle)=隐形（按头部F键切换）
+//能力名称
+(none rolled)=(无随机能力)
+base package only=仅基础包
 Heat Vision=热视线
-Heat Vision (hold F on the head; or right-click the head to loop it)=(按住头部F键;或右键头部以循环持续)
 Radiation Chest Blast=辐射胸部冲击波
-Chest Blast (hold F on the chest, then release)=胸部冲击波 (按住胸部F键，然后释放)
+Hemokinesis=血动术
+Electricity=电力
+Super Speed=超级速度
+Flight=飞行
 Termite=白蚁
-Termite (F on the upper torso)=白蚁（按上躯干F键）
-Electricity (hold F on a hand)=电力（按住手部F键）
-Hemokinesis=血液控制
-Hemokinesis (F on the head, then click a limb)=(按头部F键，然后点击一个肢体)
-Flight (F on a foot to toggle; right-click the head for Follow-Mouse / Classic mode)=(脚部F键切换;右键头部切换跟随鼠标/经典模式)
+Invisibility=隐形
+Intangibility=虚体化
+Starlight=星光
+Lamplighter=点灯人
+Mindstorm=心灵风暴
+Regeneration=再生
+Water Breathing=水下呼吸
+//能力描述
+hold on the head; or right-click head to loop=按住头部；或右键头部循环持续
+hold on the chest, then release=按住胸部，然后释放
+on the head, then click a limb=在头部，然后点击肢体
+hold on a hand=按住手部
+tap on the head to toggle=点击头部切换
+on a foot to toggle; right-click head for mode=在脚部切换；右键头部切换模式
+on the upper torso=在上半身躯干
+on the head to toggle=在头部切换
+on the head to phase (pass through matter)=在头部相位化（穿透物质）
+hold on a hand to charge, release to fire=按住手部充能，释放以发射
+hold on a hand near a flame to stream fire=靠近火焰按住手部引导火焰流
+on the head, then click a target=在头部，然后点击目标
+passive=被动
 
 RADIATION=辐射
 Absorbed=已吸收
 Band=频段
 Negligible=可忽略
+Lethal=致命	
 Resistance=抗性
 Chest Blast unlock=胸部冲击波解锁
 
@@ -11302,113 +11266,293 @@ RARE=稀有
 LEGENDARY=传奇
 EXTREME=极限
 Test Subject=测试对象
-Inject Compound V into anyone.=向任何人注射沃特化合物。
+Inject Compound V into anyone.=向任何人注射沃特化合物. 
 Supe=超能者
-Create a genuine Super.=创造一个真正的超能者。
+Create a genuine Super.=创造一个真正的超能者. 
 Alien Test Subject=外星测试对象
-Inject Compound V into a Gorse.=向一个Gorse注射复合V。
+Inject Compound V into a Gorse.=向一个Gorse注射复合V. 
 Spider-Man=蜘蛛侠
-Make a Gorse Super shrug off 20 Sv of radiation.=让一个Gorse超能者承受20 Sv的辐射。
+Make a Gorse Super shrug off 20 Sv of radiation.=让一只格洛斯超能者承受20 Sv的辐射. 
 ???=???
-Charge a Gorse's chest beam all the way to the end... and find out what it really does.=将Gorse的胸部光束充能至尽头……并发现它的真正作用。
+Charge a Gorse's chest beam all the way to the end... and find out what it really does.=将格洛斯的胸部光束充能至尽头……并发现它的真正作用. 
 Overdose Survived=过量幸存
 Survive a Compound V overdose (+15%).=在沃特化合物过量（+15%）中存活.
 Vought Approved=沃特认证
-Create a Super from a V2 syringe.=使用V2注射器创造一个超能者。
+Create a Super from a V2 syringe.=使用V2注射器创造一个超能者. 
 Temporary Hero=临时英雄
-Use the V24 (temporary powers).=使用V24（临时能力）。
+Use the V24 (temporary powers).=使用V24（临时能力）. 
 Class T=T级
-A Super with Class T strength and Multi-City Block durability.=一个拥有T级力量和多重街区级耐久度的超能者。
+A Super with Class T strength and Multi-City Block durability.=一个拥有T级力量和多重街区级耐久度的超能者. 
 The Boys' Nightmare=黑袍们的噩梦
-Create a Super with Wall (9-B) durability or above.=创造一个拥有墙体级（9-B）或以上耐久度的超能者。
+Create a Super with Wall (9-B) durability or above.=创造一个拥有墙体级（9-B）或以上耐久度的超能者. 
 Payback=报复
-A single Super with 3 or more powers.=一个拥有3种或以上能力的超能者。
+A single Super with 3 or more powers.=一个拥有3种或以上能力的超能者. 
 Healing Factor=治愈因子
-Create a Super with Regeneration.=创造一个具有再生能力的超能者。
+Create a Super with Regeneration.=创造一个具有再生能力的超能者. 
 Godolkin's Gift=戈多尔金的礼物
-Infect a Super with the anti-Supe virus.=用反超能者病毒感染一个超能者。
+Infect a Super with the anti-Supe virus.=用反超能者病毒感染一个超能者. 
 Chernobyl=切尔诺贝利
-Make an object radioactive (uranium / source).=使一个物体具有放射性（铀/源）。
+Make an object radioactive (uranium / source).=使一个物体具有放射性（铀/源）. 
 Ascension=升华
-Create an Apex being (V1 fused over V2): x4 everything.=创造一个顶点存在（V1融合于V2之上）：所有属性×4。
+Create an Apex being (V1 fused over V2): x4 everything.=创造一个顶点存在（V1融合于V2之上）：所有属性×4. 
 Ragnarök=诸神黄昏
-Kill an Apex being. It is immortal by design - only the most extreme end can fell a god.=杀死一个顶点存在。它设计上是不朽的——只有最极端的方式才能弑神。
+Kill an Apex being. It is immortal by design - only the most extreme end can fell a god.=杀死一个顶点存在. 它设计上是不朽的——只有最极端的方式才能弑神. 
 Laser Eyes=激光眼
-Fire the Heat Vision.=发射热视线。
+Fire the Heat Vision.=发射热视线. 
 Genocide=种族灭绝
-Kill a Super with the strong virus.=用强效病毒杀死一个超能者。
+Kill a Super with the strong virus.=用强效病毒杀死一个超能者. 
 20 Sieverts=20希沃特
-Make a Super absorb 20 Sv (unlocks its Chest Blast).=让一个超能者吸收20 Sv（解锁其胸部冲击波）。
+Make a Super absorb 20 Sv (unlocks its Chest Blast).=让一个超能者吸收20 Sv（解锁其胸部冲击波）. 
 Trial by Fire=火之试炼
-Kill a Super with Heat Vision by burning it alive - no dismemberment, no other damage.=用热视线将超能者活活烧死——没有断肢，没有其他伤害。
+Kill a Super with Heat Vision by burning it alive - no dismemberment, no other damage.=用热视线将超能者活活烧死——没有断肢，没有其他伤害. 
 Up, Up and Away=向上，向上，飞走
-Take off with Flight.=使用飞行能力起飞。
+Take off with Flight.=使用飞行能力起飞. 
 Impenetrable=坚不可摧
-A Pure V1 shrugs off the strong virus (Soldier Boy).=一个纯V1无视强效病毒（士兵男孩）。
+A Pure V1 shrugs off the strong virus (Soldier Boy).=一个纯V1无视强效病毒（士兵男孩）. 
 Vought Potion #9=沃特药剂9号
-With the strong virus overrunning the whole scene, escape through a wormhole with a healthy Super.=在强效病毒肆虐全场时，带着一个健康的超能者通过虫洞逃离。
+With the strong virus overrunning the whole scene, escape through a wormhole with a healthy Super.=在强效病毒肆虐全场时，带着一个健康的超能者通过虫洞逃离. 
 Acute Syndrome=急性综合征
-Kill someone with a lethal radiation dose.=用致命辐射剂量杀死某人。
+Kill someone with a lethal radiation dose.=用致命辐射剂量杀死某人. 
 A-Train=A-Train
-Activate Super Speed.=激活超级速度。
+Activate Super Speed.=激活超级速度. 
 Mr. Marathon=马拉松先生
-An A-Train slams into something at full super-speed and dies - too fragile to survive its own crash.=一个A-Train以全速撞上某物并死亡——太过脆弱，无法承受自身的撞击。
+An A-Train slams into something at full super-speed and dies - too fragile to survive its own crash.=一个A-Train以全速撞上某物并死亡——太过脆弱，无法承受自身的撞击. 
 Cardiac Arrest=心脏骤停
-Kill a super-speed A-Train by injecting extra Compound V - fatal overdose heart attack.=通过额外注射复合V杀死一个超速A-Train——致命过量的心脏病发作。
+Kill a super-speed A-Train by injecting extra Compound V - fatal overdose heart attack.=通过额外注射复合V杀死一个超速A-Train——致命过量的心脏病发作. 
 Stormfront=风暴前线
-Discharge Electricity from a hand.=从手部释放电力。
+Discharge Electricity from a hand.=从手部释放电力. 
 Blood for Blood=以血换血
-Burst a limb with Hemokinesis.=用血液控制爆裂一个肢体。
+Burst a limb with Hemokinesis.=用血液控制爆裂一个肢体. 
 Termite=白蚁
-Shrink and burst an enemy from the inside.=缩小并从内部爆裂一个敌人。
+Shrink and burst an enemy from the inside.=缩小并从内部爆裂一个敌人. 
 Bug Squash=碾虫
-With an extreme-tier Super, crush a Termite Super in a single blow.=使用一个极限级超能者，一击粉碎一个白蚁超能者。
+With an extreme-tier Super, crush a Termite Super in a single blow.=使用一个极限级超能者，一击粉碎一个白蚁超能者. 
 Translucent=隐形人
-Turn a Super invisible.=使一个超能者隐形。
+Turn a Super invisible.=使一个超能者隐形. 
 Silent Bomb=无声炸弹
-Kill an invisible Super by detonating nitroglycerin in its blood.=通过引爆血液中的硝化甘油杀死一个隐形超能者。
+Kill an invisible Super by detonating nitroglycerin in its blood.=通过引爆血液中的硝化甘油杀死一个隐形超能者. 
 Mind Games=心理游戏
-Put someone to sleep with the Mindstorm gaze.=用心灵风暴凝视使某人入睡。
+Put someone to sleep with the Mindstorm gaze.=用心灵风暴凝视使某人入睡. 
 Ghost=幽灵
-Phase through solid matter (Intangibility).=穿过固体物质（虚体化）。
+Phase through solid matter (Intangibility).=穿过固体物质（虚体化）. 
 Caught Out of Phase=相位抓捕
-Kill a Super while its Intangibility is active. It ignores every power - there is only one way.=在超能者虚体化激活时杀死它。它能无视所有能力——只有一种方法。
+Kill a Super while its Intangibility is active. It ignores every power - there is only one way.=在超能者虚体化激活时杀死它. 它能无视所有能力——只有一种方法. 
 Starlight=星光
-Fire a photon flashblast.=发射光子闪光爆。
+Fire a photon flashblast.=发射光子闪光爆. 
 Lamplighter=点灯人
-Direct a jet of fire onto a target.=将一股火焰射向目标。
+Direct a jet of fire onto a target.=将一股火焰射向目标. 
 Fully Charged=完全充能
-Charge the Starlight photon bar to 100%.=将星光的光子条充能至100%。
+Charge the Starlight photon bar to 100%.=将星光的光子条充能至100%. 
 Fallout=辐射尘
-Fire the Radiation Chest Blast.=发射辐射胸部冲击波。
+Fire the Radiation Chest Blast.=发射辐射胸部冲击波. 
 Meltdown=熔毁
-Melt metal / incinerate to the bone with fire.=用火焰熔化金属/烧至见骨。
+Melt metal / incinerate to the bone with fire.=用火焰熔化金属/烧至见骨. 
 Small Building Buster=小型建筑破坏者
-Destroy a Small Building (9-A) limb with a full photon blast.=用全功率光子爆炸摧毁一个小型建筑级（9-A）的肢体。
+Destroy a Small Building (9-A) limb with a full photon blast.=用全功率光子爆炸摧毁一个小型建筑级（9-A）的肢体. 
 Singularity=奇点
-Collapse Starlight's photons into a black hole (no generators).=将星光的光子坍缩成一个黑洞（无需发电机）。
+Collapse Starlight's photons into a black hole (no generators).=将星光的光子坍缩成一个黑洞（无需发电机）. 
 Soldier Boy=士兵男孩
-Fire the Plasma Beam at max level (ATOMIC).=以最大等级（原子）发射等离子光束。
+Fire the Plasma Beam at max level (ATOMIC).=以最大等级（原子）发射等离子光束. 
 Boiled Alive=活活煮死
-Kill a normal human by boiling the water they are submerged in (Heat Vision).=通过煮沸所浸没的水杀死一个普通人（热视线）。
+Kill a normal human by boiling the water they are submerged in (Heat Vision).=通过煮沸所浸没的水杀死一个普通人（热视线）. 
 Vought Cocktail=沃特鸡尾酒
-Hit one body with both viruses, enriched uranium and acid, all at once.=用两种病毒、浓缩铀和酸同时击中一个身体。
+Hit one body with both viruses, enriched uranium and acid, all at once.=用两种病毒、浓缩铀和酸同时击中一个身体. 
 Lazarus=拉撒路
-Bring a freshly-dead but intact body back as a Super with Compound V.=将一个刚死但完整的身体用复合V复活为超能者。
+Bring a freshly-dead but intact body back as a Super with Compound V.=将一个刚死但完整的身体用复合V复活为超能者. 
 The Seven Must Die=七人必须死
-Kill all Seven (Speed, Starlight, Heat Vision, Chest Beam, Water Breathing, Strength, High Regen) with ONE atomic Chest Blast.=用一次原子级胸部冲击波杀死全部七人（速度、星光、热视线、胸部光束、水下呼吸、力量、高度再生）。
+Kill all Seven (Speed, Starlight, Heat Vision, Chest Beam, Water Breathing, Strength, High Regen) with ONE atomic Chest Blast.=用一次原子级胸部冲击波杀死全部七人（速度、星光、热视线、胸部光束、水下呼吸、力量、高度再生）. 
 Full Spectrum=全光谱
-Discover every power and variant: all abilities used + all 3 Heat Vision colours (V1 blue, V2 red, V24 yellow).=发现所有能力和变体：使用所有能力 + 全部3种热视线颜色（V1蓝、V2红、V24黄）。
+Discover every power and variant: all abilities used + all 3 Heat Vision colours (V1 blue, V2 red, V24 yellow).=发现所有能力和变体：使用所有能力 + 全部3种热视线颜色（V1蓝、V2红、V24黄）. 
 Scorched Earth=焦土
-Kill an extreme-tier Super that was reduced to a human by a Chest Blast, by planting a knife in its head.=将一个被胸部冲击波削弱为普通人的极限级超能者，将刀插入其头部杀死。
-The Seven Must Rise Again=七人必须再起
-Revive the SAME seven, restore each one's own power, and reunite them alive - within 10m.=在10分钟内复活相同的七人，恢复各自的力量，并让他们活着重聚。
+Kill an extreme-tier Super that was reduced to a human by a Chest Blast, by planting a knife in its head.=将一个被胸部冲击波削弱为普通人的极限级超能者，将刀插入其头部杀死. 
+The Seven Must Rise Again=七人队必须再起
+Revive the SAME seven, restore each one's own power, and reunite them alive - within 10m.=在10分钟内复活相同的七人队，恢复各自的力量，并让他们活着重聚. 
 The Full Set=全集
-Unlock every other achievement. Welcome to the Seven.=解锁所有其他成就。欢迎加入七人。
+Unlock every other achievement. Welcome to the Seven.=解锁所有其他成就. 欢迎加入七人队. 
 
 
 
 
+
+
+
+
+
+
+//通知
+//静态字符串
+Compound Playground ready - see the 'Compound V' spawn category. Discord: https:%2F%2Fdiscord.gg/SnSVneq78s=沃特化合物游乐场已就绪——请查看“沃特化合物”生成分类. Discord：https:%2F%2Fdiscord.gg/SnSVneq78s
+Loadout ON - ACHIEVEMENTS DISABLED for this session (hand-picked powers = no challenge). Restart the game to earn them again.=配置已开启——本次会话成就已禁用（自选能力=无挑战）. 重新启动游戏以再次获得成就. 
+Re-solidified.=已重新固化. 
+PHASED: intangible - matter and bullets pass through. Tap again to solidify (careful what you're inside).=相位化：虚体——物质和子弹会穿透. 再次点击以固化（注意你所在的位置）. 
+Lamplighter: no flame nearby - he needs an existing fire (a lighter, a burning object) to control.=点灯人：附近没有火焰——他需要现有的火源（打火机、燃烧的物体）来控制. 
+Body too destroyed (decapitated/atomized): Compound V can't restart anything. Permanent death.=身体损毁过重（斩首/原子化）：沃特化合物无法重启任何机能. 永久死亡. 
+Compound V restarts the vital functions! The body rises with powers... but the brain is damaged (hypoxia): UNSTABLE subject.=沃特化合物重启了生命机能！身体携带着能力复活……但大脑已受损（缺氧）：不稳定的个体. 
+V24 injected too many times: brain chemistry collapses - brain liquefaction and fulminant tumors.=V24注射次数过多：脑内化学平衡崩溃——脑液化和爆发性肿瘤. 
+Brain liquefied. Death.=脑液化. 死亡. 
+no human under the mouse=鼠标下没有人类
+Radioactive source removed.=放射源已移除. 
+no object under the mouse=鼠标下没有物体
+No human prefab found to spawn.=未找到可生成的人类预制体. 
+COMPOUND V - no active Compound V in the blood.=沃特化合物——血液中没有活跃的沃特化合物. 
+COMPOUND V - This subject has no active Compound V in the blood.=沃特化合物——该个体血液中没有活跃的沃特化合物. 
+...pfffft. The Gorse's glowing chest sac deflates. Absolutely nothing happens.=……噗. 格洛斯发光的胸部气囊泄气了. 什么都没有发生. 
+APEX: V1 fused onto an extreme-durability V2. Strength, resistance and abilities QUADRUPLED (x4). Immortal (never ages) and fully immune to the anti-Supe virus (weak and strong).=顶点：V1融合于极端耐久度的V2之上. 力量、抗性和能力变为四倍（×4）. 不朽（永不衰老）且完全免疫反超能者病毒（弱毒株和强毒株）. 
+Heat Vision: looping OFF.=热视线：循环关闭. 
+Heat Vision: looping ON - right-click the head again to stop.=热视线：循环开启——再次右键点击头部以停止. 
+Hemokinesis active: aim and CLICK a limb to burst it (F or right-click to cancel).=血液控制已激活：瞄准并点击一个肢体以引爆它（按F或右键取消）. 
+Invisibility: visible again.=隐形：重新可见. 
+Invisibility: turned invisible (the carbon skin stays bulletproof). Tap F on the head to reappear.=隐形：已变为隐形（碳化皮肤仍保持防弹）. 点击头部F键以重新出现. 
+Mindstorm: the mind is released - the subject stirs awake.=心灵风暴：心灵被释放——个体逐渐苏醒. 
+Mindstorm: trapped in an endless memory - deep sleep until a Mindstorm frees them (F on the Mindstorm's head, then click the sleeper).=心灵风暴：被困在无尽的记忆中——深度睡眠，直到心灵风暴将其释放（点击心灵风暴的头部F键，然后点击睡眠者）. 
+Mindstorm gaze armed: CLICK a person to put them to sleep or wake them (right-click cancels).=心灵风暴凝视已就绪：点击一个人以使其入睡或唤醒（右键取消）. 
+Electricity active: forward lightning from this hand.=电力已激活：从这只手向前释放闪电. 
+TERMITE: shrinking. Drag yourself INTO an enemy, then tap F on your torso again to burst them from within.=白蚁：缩小中. 将自己拖入敌人体内，然后再次点击躯干F键以从内部爆裂敌人. 
+TERMITE: burst them open from the inside.=白蚁：从内部将其爆裂. 
+Flight mode: CLASSIC (weightless hover - holds still in the air, drag to move).=飞行模式：经典（失重悬停——在空中静止不动，拖拽移动）. 
+Flight mode: FOLLOW MOUSE (flies to the cursor).=飞行模式：跟随鼠标（飞向光标）. 
+This subject doesn't have the flight power.=该个体没有飞行能力. 
+Flight disabled.=飞行已禁用. 
+Lethal radiation dose: acute syndrome, widespread necrosis and multi-organ collapse.=致命辐射剂量：急性综合征、广泛性坏死和多器官衰竭. 
+APEX being: perfect molecular structure, fully immune to any anti-Supe virus.=顶点存在：完美的分子结构，完全免疫任何反超能者病毒. 
+Normal human: no Compound-V-modified receptors. Fully immune to the anti-Supe virus.=普通人类：没有沃特化合物修饰的受体. 完全免疫反超能者病毒. 
+Pure V1: the strong virus can't kill it but knocks it out - cough, apnea, blotchy skin and ~1 minute unconscious, then it recovers.=纯V1：强效病毒无法杀死它，但会使其失去意识——咳嗽、呼吸暂停、皮肤出现斑点，约1分钟昏迷后恢复. 
+Pure V1 (Soldier Boy-type): impenetrable molecular structure, nothing binds. Fully immune.=纯V1（士兵男孩型）：坚不可摧的分子结构，无物可附着. 完全免疫. 
+Modern Super but extreme internal resistance: the base virus is at most a mild flu. Survives.=现代超能者但具有极端内部抗性：基础病毒最多相当于轻微流感. 存活. 
+Total necrosis: the subject is dead, the Compound V destroyed.=完全坏死：个体已死亡，沃特化合物已被破坏. 
+The virus didn't take hold: the subject recovers.=病毒未能附着：个体已恢复. 
+Bled dry through the rupture. Death.=通过破裂处失血过多. 死亡. 
+Compound V OVERDOSE. The mitochondria accelerate past the limit: the heart can't meet the ATP demand. Cardiac hypertrophy, unstable bone density, dependency. The body stops producing endogenous V.=沃特化合物过量. 线粒体加速超过极限：心脏无法满足ATP需求. 心脏肥大、骨骼密度不稳定、依赖性. 身体停止产生内源性V. 
+Fatal cardiac arrest (like A-Train under strain).=致命心脏骤停（如同负荷下的火车头）. 
+Spawned MAX V2 SUPER: Class T strength, Multi-City Block durability (int+ext), regeneration, extreme radiation resistance, Chest Blast ready (hold F on the chest).=已生成最大等级V2超能者：T级力量、多重街区级耐久度（内+外）、再生、极端辐射抗性、胸部冲击波就绪（按住胸部F键）. 
+//你已被剥夺力量! (能力消失提示文本)
+V24 has drained away...=V24已耗竭……
+The radioactive beam fried...=放射性光束烧毁了……
+The virus binds to the receptors...=病毒已结合受体……
+Radiation: the Compound V is burned...=辐射：沃特化合物被灼烧……
+Compound V cleared from the blood...=沃特化合物已从血液中清除……
+V24 has drained away: the temporary powers are gone.=V24已耗竭：临时能力已消失。
+The radioactive beam fried and pulverized the Compound V in the blood: powers lost.=放射性光束烧毁并粉碎了血液中的沃特化合物：能力已丧失.
+The virus binds to the receptors and destroys the Compound V in the blood: powers lost.=病毒结合受体并破坏血液中的沃特化合物：能力已丧失.
+Radiation: the Compound V is burned out of the blood. Powers off.=辐射：沃特化合物已从血液中烧尽. 能力关闭.
+Compound V cleared from the blood: powers gone, back to a normal human.=沃特化合物已从血液中清除：能力消失，变回普通人.
+STRONG virus: exponential replication, fulminant tissue necrosis. Lethal and highly contagious (one touch is enough).=强效病毒：指数级复制，暴发性组织坏死。致死且具有高度传染性（只需一次接触即可）.
+Virus: tissue necrosis, the Compound V in the blood is depleted. Lethal to the modern Super.=病毒：组织坏死，血液中的沃特化合物被耗尽. 对现代超能者致命.
+Raw V1: the adult body rejects the serum. A hole tears open in the rear - fulminant hemorrhage.=原始V1：成人体质排斥血清. 后部裂开一个洞——暴发性出血.
+V2 in an adult: the modern serum is too unstable for a formed body. A hole tears open in the rear - it bleeds out.=成人注射V2：现代血清对成型身体来说太不稳定. 后部裂开一个洞——血流不止.
+
+
+
+//动态字符串
+//正则
+//V24注射提示
+r:"V24: temporary powers \(use (\d+)/3\)\. They will drain away\."="V24：临时能力（使用 $1/3）. 它们会逐渐消退."
+//格洛斯等离子光束解锁
+r:"20 Sv absorbed - the Gorse's irradiated chest sac is primed\. Hold (.*?) on its BODY to charge it\.\.\." = "吸收20 Sv - 格洛斯的辐射胸部囊已就绪。按住$1键在其身体上充能..."
+//等离子光束蓄力
+r:"^Charging the beam\.\.\. hold (.*?)\.$" = "正在充能光束……按住$1键."
+//等离子光束解锁
+r:"^20 Sv absorbed - RADIATION CHEST BLAST unlocked! Hold (.*?) on the chest ~9s, then release\.$" = "吸收20 Sv - 辐射胸部冲击波已解锁！按住$1键在胸部约9秒，然后释放。"
+//过量注射化合物
+r:"^OVERDOSE SURVIVED\. The body adapts past the limit: \+15% to strength, durability, speed and all abilities \(total \+(\d+)%, overdose #(\d+)\)\.$" = "过量存活. 身体超越极限适应：力量、耐久、速度及所有能力+15%（总计+$1%，过量次数#$2）."
+
+
+//拆分正则
+//这一条备用成就通知, 如果原有成就通知弹出失败就会弹出左下角Notify通知
+sr:"Achievement Get! (.*?)" = "成就已解锁！$1"
+
+//呃呃, 根据代码这个触发, 它依靠开发者的某个调用, 所以正常不会出现
+sr:"Object made radioactive\. Level: (.*?) \(dose ~([\d.]+) RAD/s at 1m, radius 6\)\. Put a Super nearby\." = "物体已具有放射性. 等级：$1（剂量约$2 RAD/s，1m处，半径6）. 把超能者放在附近."
+
+//这条没有, 因为又是他妈的文本块, 而且这依旧是个备用通知(沃特化合物属性), 正常不会出现, 所以就不翻译了
+
+//主要能力给予提升(没有生效, 我懒得调试了, 太他妈折磨了)
+sr:"^(V1|V2|V24): external durability (.*?), internal (.*?)\.(.*?)( Super-strength: .*| Focused mutation: no super-strength)\.(?: Extra powers - (.*))?$" = "$1：外部耐久 $2，内部 $3. $4$5$6"
+
+//浓缩铀方块生成提示
+sr:"^Enriched Uranium Cube: (.*?) source \(radius (.*?)\), phosphorescent green\. Radiation chamber\.$" = "浓缩铀方块： 源$1（半径$2），磷光绿色. 辐射室."
+
+//使用超级速度
+sr:"^SUPER SPEED: (.*?) - the world slows to (.*?)%, you don't\. Tap (.*?) on the head to stop\.$" = "超级速度：$1 - 世界减速至 $2%，你除外。点击 $3 键在头部以停止。"
+
+//使用飞行
+sr:"^Flight enabled \((.*?)\)\. (.*?) on a foot to land; right-click the head to change mode\.$" = "飞行已启用（$1）。$2键在脚部着陆；右键头部切换模式。"
+
+//等离子光束
+sr:"^PLASMA BEAM! Power level (\d+) \((.*?)\)\.$" = "等离子光束！功率等级 $1（$2）."
+
+
+
+
+//拆分正则使用标签
+//等离子光束
+250 kg TNT (naval mine)=250公斤TNT（水雷级）
+500 kg TNT (naval mine)=500公斤TNT（水雷级）
+1000 kg TNT (naval mine)=1000公斤TNT（水雷级）
+ATOMIC=原子级
+//飞行模式
+Follow Mouse=跟随鼠标
+Classic hover=经典悬停
+//速度
+Accelerated=加速
+Hypervelocity=超高速
+Mach Rider=马赫骑手
+Time Skipper=时间跳跃者
+//辐射
+Background=背景
+Low=低
+Moderate=中等
+High=高
+Severe=严重
+Extreme=极端
+//耐久等级名称
+Human (10-B)=人类（10-B）
+Athlete (10-A)=运动员（10-A）
+Street (9-C)=街道（9-C）
+Wall (9-B)=墙体（9-B）
+Small Building (9-A)=小型建筑（9-A）
+Building (8-C)=建筑（8-C）
+Large Building (High 8-C)=大型建筑（高8-C）
+City Block (8-B)=街区（8-B）
+Multi-City Block (8-A)=多重街区（8-A）
+//风味描述
+Practically invulnerable (City-Block+ / god-tier)=几乎无敌（街区级以上/神级）
+Building-level (8-C): shrugs off heavy machine-gun fire (Homelander-type)=建筑级（8-C）：无视重型机枪火力（祖国人型）
+Armored skin but fragile inside (Translucent-type)=外表坚硬但内部脆弱（隐形人型）
+Bulletproof to standard firearms (9-C+)=防弹（标准枪械，9-C+）
+//力量信息
+Super-strength: Below Average Human.=超级力量：常人以下. 
+Super-strength: Average Human.=超级力量：普通人类. 
+Super-strength: Above Average Human.=超级力量：强于常人. 
+Super-strength: Athletic Human.=超级力量：运动健将. 
+Super-strength: Peak Human.=超级力量：极限人类. 
+Super-strength: Superhuman.=超级力量：超人类. 
+Super-strength: Class 1.=超级力量：1级. 
+Super-strength: Class 5.=超级力量：5级. 
+Super-strength: Class 10.=超级力量：10级. 
+Super-strength: Class 25.=超级力量：25级. 
+Super-strength: Class 50.=超级力量：50级. 
+Super-strength: Class 100.=超级力量：100级. 
+Super-strength: Class K.=超级力量：K级. 
+Super-strength: Class M.=超级力量：M级. 
+Super-strength: Class G.=超级力量：G级. 
+Super-strength: Class T.=超级力量：T级. 
+Focused mutation: no super-strength.=专注突变：无超级力量. 
+//能力提示
+Lamplighter (hold F on a hand near a live flame to pour a directable fire stream)=点灯人（靠近火焰时按住手部F键可引导火焰流）
+Regeneration (passive)=再生（被动）
+r:"^Heat Vision \(hold (.*?) on the head; or right-click the head to loop it\)$" = "热视线（按住$1键在头部；或右键头部循环持续）"
+r:"^Flight \((.*?) on a foot to toggle; right-click the head for Follow-Mouse / Classic mode\)$" = "飞行（$1键在脚部切换；右键头部切换跟随鼠标/经典模式）"
+r:"^Chest Blast \(hold (.*?) on the chest, then release\)$" = "胸部冲击波（按住$1键在胸部，然后释放）"
+r:"^Super Speed \(tap (.*?) on the head to toggle\)$" = "超级速度（点击$1键在头部切换）"
+r:"^Invisibility \((.*?) on the head to toggle\)$" = "隐形（$1键在头部切换）"
+r:"^Starlight \(hold (.*?) on a hand to charge, release to fire a photon flashblast\)$" = "星光（按住$1键在手部充能，释放以发射光子闪光爆）"
+r:"^Lamplighter \(hold (.*?) on a hand near a live flame to pour a directable fire stream\)$" = "点灯人（靠近火焰时按住$1键在手部可引导火焰流）"
+r:"^Hemokinesis \((.*?) on the head, then click a limb\)$" = "血动术（$1键在头部，然后点击肢体）"
+r:"^Termite \((.*?) on the upper torso\)$" = "白蚁（$1键在上半身躯干）"
+r:"^Intangibility \((.*?) on the head to phase; solid matter & bullets pass through\)$" = "无形体（$1键在头部相位化；固态物质与子弹穿透）"
+r:"^Mindstorm \((.*?) on the head, then click a target\)$" = "心灵风暴（$1键在头部，然后点击目标）"
+r:"^Electricity \(hold (.*?) on a hand\)$" = "电力（按住$1键在手部）"
 
 
 
@@ -14570,9 +14714,9 @@ The Fastest Man alive!=世界上最快的男人！
 
 <b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Reverse Flash</b>\r\nFlash Biggest Rival!!\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>逆闪电</b>\r\n闪电侠最大的宿敌！！\n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
 
-<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Zoom</b>\r\nThe days of The Flash protecting the city are over.\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>极速</b>\r\n闪电侠守护城市的日子已经结束了。\n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Zoom</b>\r\nThe days of The Flash protecting the city are over.\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>极速</b>\r\n闪电侠守护城市的日子已经结束了. \n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
 
-<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Godspeed</b>\r\nThere can only be one god of speed, Flash.\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>神速</b>\r\n速度之神只能有一个，闪电侠。\n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
+<b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Godspeed</b>\r\nThere can only be one god of speed, Flash.\nPress F on his Head to activate Slowmotion\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>神速</b>\r\n速度之神只能有一个，闪电侠. \n按头部F键激活慢动作\n打开头部的上下文菜单以获取慢动作选项
 
 <b><color%3D#FF6200>[FLASH MOD] <color%3Dwhite>Black Flash</b>\r\nThe Speedsters version of Death, he comes for you and your speed...\nOpen the Conext Menu on the Head for Slowmotion options.=<b><color%3D#FF6200>[闪电侠模组] <color%3Dwhite>黑闪</b>\r\n极速者版本的死神，他会来找你和你速度的麻烦……\n打开头部的上下文菜单以获取慢动作选项
 
@@ -14611,8 +14755,8 @@ Disable Inf. Mass Punch.=禁用无限质量拳击.
 
 //347*Hyperr的布娃娃增强_Hyperr's Ragdoll Enhancements
 <noparse>Hyperr's Ragdoll Enhancements</noparse>=<noparse>Hyperr的布娃娃增强</noparse>
-This mod improves the feel of ragdolls and adds wound grabbing.=这个模组改善了布娃娃的物理手感，并增加了伤口抓取功能。
-<size%3D1.5em>Hyperr's Ragdoll Enhancements</size>\nThis mod improves the feel of ragdolls and adds wound grabbing.\n<noparse>A mod by Hyperr Hydra & Insultifying for game version Any Version</noparse>=<size%3D1.5em>Hyperr的布娃娃增强</size>\n这个模组改善了布娃娃的物理手感，并增加了伤口抓取功能。\n<noparse>由 Hyperr Hydra 和 Insultifying 制作的模组，适用于游戏版本 任意版本</noparse>
+This mod improves the feel of ragdolls and adds wound grabbing.=这个模组改善了布娃娃的物理手感，并增加了伤口抓取功能. 
+<size%3D1.5em>Hyperr's Ragdoll Enhancements</size>\nThis mod improves the feel of ragdolls and adds wound grabbing.\n<noparse>A mod by Hyperr Hydra & Insultifying for game version Any Version</noparse>=<size%3D1.5em>Hyperr的布娃娃增强</size>\n这个模组改善了布娃娃的物理手感，并增加了伤口抓取功能. \n<noparse>由 Hyperr Hydra 和 Insultifying 制作的模组，适用于游戏版本 任意版本</noparse>
 <b>Ragdoll Enhancements [RAG]</b>\r\nToggles ragdoll enhancements. Spawn to toggle.=<b>布娃娃增强 [RAG]</b>\r\n切换布娃娃增强. 生成以切换.
 Ragdoll Enhancements De-Activated!=布娃娃增强已禁用！
 Ragdoll Enhancements Activated!=布娃娃增强已启用！
