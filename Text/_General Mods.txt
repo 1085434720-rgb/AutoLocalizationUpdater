@@ -14445,3 +14445,18 @@ Enable Inf. Mass Punch=启用无限质量拳击
 Enable Inf. Mass Punch.=启用无限质量拳击.
 Disable Inf. Mass Punch=禁用无限质量拳击
 Disable Inf. Mass Punch.=禁用无限质量拳击.
+
+
+
+
+
+
+
+
+//347*
+<noparse>Hyperr's Ragdoll Enhancements</noparse>=<noparse>Hyperr的布娃娃增强</noparse>
+This mod improves the feel of ragdolls and adds wound grabbing.=这个模组改善了布娃娃的物理手感，并增加了伤口抓取功能。
+<size%3D1.5em>Hyperr's Ragdoll Enhancements</size>\nThis mod improves the feel of ragdolls and adds wound grabbing.\n<noparse>A mod by Hyperr Hydra & Insultifying for game version Any Version</noparse>=<size%3D1.5em>Hyperr的布娃娃增强</size>\n这个模组改善了布娃娃的物理手感，并增加了伤口抓取功能。\n<noparse>由 Hyperr Hydra 和 Insultifying 制作的模组，适用于游戏版本 任意版本</noparse>
+<b>Ragdoll Enhancements [RAG]</b>\r\nToggles ragdoll enhancements. Spawn to toggle.=<b>布娃娃增强 [RAG]</b>\r\n切换布娃娃增强. 生成以切换.
+Ragdoll Enhancements De-Activated!=布娃娃增强已禁用！
+Ragdoll Enhancements Activated!=布娃娃增强已启用！
