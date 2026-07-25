@@ -11409,10 +11409,10 @@ Scorched Earth=焦土
 Kill an extreme-tier Super that was reduced to a human by a Chest Blast, by planting a knife in its head.=将一个被胸部冲击波削弱为普通人的极限级超能者，将刀插入其头部杀死. 
 The Seven Must Rise Again=七人队必须再起
 Revive the SAME seven, restore each one's own power, and reunite them alive - within 10m.=在10分钟内复活相同的七人队，恢复各自的力量，并让他们活着重聚. 
-The Full Set=全集
+The Full Set=全收集
 Unlock every other achievement. Welcome to the Seven.=解锁所有其他成就. 欢迎加入七人队. 
-
-
+Locked - unlock every achievement to earn the COLLECTOR role.=已锁定 - 解锁所有成就以获得“收藏家”头衔.
+COLLECTOR code copied - paste it in the Discord.=“收藏家”代码已复制 - 请将其粘贴到Discord中.
 
 
 
@@ -14797,3 +14797,55 @@ This mod improves the feel of ragdolls and adds wound grabbing.=这个模组改�
 <b>Ragdoll Enhancements [RAG]</b>\r\nToggles ragdoll enhancements. Spawn to toggle.=<b>布娃娃增强 [RAG]</b>\r\n切换布娃娃增强. 生成以切换.
 Ragdoll Enhancements De-Activated!=布娃娃增强已禁用！
 Ragdoll Enhancements Activated!=布娃娃增强已启用！
+
+
+
+
+
+
+
+//348*酷炫的01工作室成员_Cool 01 Studio People
+<noparse>Cool 01 people</noparse>=<noparse>酷炫的01成员</noparse>
+<size%3D1.5em>Cool 01 people</size>\nidk\n<noparse>A mod by QuanGPT for game version 1.26+</noparse>=<size%3D1.5em>酷炫的01成员</size>\n隐藏内容:\n找一个可燃烧的物品, 旁边放两个尸体, 燃烧那个物体开始献祭仪式\n解锁"所有Patreon的合法所有者"\n激活头部打开金钱光环\n<noparse>由 QuanGPT 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>Cool 01 Studio People</b>\r\nye.=<b>酷炫的01工作室成员</b>\r\n耶.
+<b><color%3Dred>Drachenklein666</b>\r\nlegit owner of all patreon.=<b><color%3Dred>Drachenklein666</b>\r\n所有Patreon的合法所有者.
+<b>Anonumoise</b>\r\ncat.=<b>Anonumoise</b>\r\n猫.
+<b>Azurro</b>\r\nbest mute hammer.=<b>Azurro</b>\r\n最好的静音锤.
+<b>Bouble</b>\r\nbest administrator in 01.=<b>Bouble</b>\r\n01最佳管理员.
+<b>Dyadyushka</b>\r\ncoolest mod creator.=<b>Dyadyushka</b>\r\n最酷的模组创作者.
+<b>Lean</b>\r\ncoolest giga.=<b>Lean</b>\r\n最最最最酷的.
+<b>Turtlelord</b>\r\nwho is this guy though.=<b>Turtlelord</b>\r\n这家伙到底是谁.
+stop spamming ;barbar in the chat, i need to rest like humans :(=别在聊天里刷 ;barbar 了，我需要像人类一样休息 :(
+avada kedavra!!=阿瓦达索命！！
+crucio!!=钻心剜骨！！
+imperio!!=魂魄出窍！！
+ping for help btw, imma go read harry potter=顺便打个信号求助，我去读《哈利·波特》了
+Oh my god, is that the legal owner of all Patreon?=哦我的天，那是所有Patreon的合法所有者吗？
+Enable Sword Dance=启用剑舞
+Enable Sword Dance.=启用剑舞.
+Disable Sword Dance=禁用剑舞
+Disable Sword Dance.=禁用剑舞.
+Enable Divine Punishment=启用神圣惩罚
+Enable Divine Punishment.=启用神圣惩罚.
+Disable Divine Punishment=禁用神圣惩罚
+Disable Divine Punishment.=禁用神圣惩罚.
+Enable Ascendant Rapture=启用升天狂喜
+Enable Ascendant Rapture.=启用升天狂喜.
+Disable Ascendant Rapture=禁用升天狂喜
+Disable Ascendant Rapture.=禁用升天狂喜.
+Enable Ground Smash=启用地面猛击
+Enable Ground Smash.=启用地面猛击.
+Disable Ground Smash=禁用地面猛击
+Disable Ground Smash.=禁用地面猛击.
+Enable Expensive Patreon=启用昂贵的Patreon
+Enable Expensive Patreon.=启用昂贵的Patreon.
+Disable Expensive Patreon=禁用昂贵的Patreon
+Disable Expensive Patreon.=禁用昂贵的Patreon.
+Enable Star Money=启用星光货币
+Enable Star Money.=启用星光货币。
+Disable Star Money=禁用星光货币
+Disable Star Money.=禁用星光货币。
+Enable Super Nova=启用超新星
+Enable Super Nova.=启用超新星。
+Disable Super Nova=禁用超新星
+Disable Super Nova.=禁用超新星。
