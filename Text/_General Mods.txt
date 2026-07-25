@@ -11178,8 +11178,6 @@ Foot R=右脚
 //UI面板
 COMPOUND V2  -  modern=化合物V2 - 现代版
 COMPOUND V1  -  classic, pure=化合物V1 - 经典，纯正
-COMPOUND V1  -  temporary=化合物V1 - 临时型
-COMPOUND V1  -  modern=化合物V1 - 现代型
 COMPOUND V24  -  temporary=化合物V24 - 临时型
 COMPOUND APEX  -  V1 fused onto V2 - immortal=化合物顶点 - V1融合于V2 - 不朽
 sr:"RAGE (\d+)%  -  lvl (\d+) \((.*?)\)" = "怒气$1% - 等级$2（$3）"
@@ -14853,3 +14851,23 @@ Enable Super Nova=启用超新星
 Enable Super Nova.=启用超新星。
 Disable Super Nova=禁用超新星
 Disable Super Nova.=禁用超新星。
+
+
+
+
+
+
+//349*药物_drugs
+<noparse>drugs</noparse>=<noparse>药物</noparse>
+<size%3D1.5em>drugs</size>\n\n<noparse>A mod by Kodirus for game version 1.8.1</noparse>=<size%3D1.5em>药物</size>\n\n<noparse>由 Kodirus 制作的模组，适用于游戏版本 1.8.1</noparse>
+<b>Drugs</b>\r\nInjectable drugs with body and screen effects.=<b>药物</b>\r\n具有身体和屏幕效果的注射型药物
+Amphetamine Syringe [drugs]=安非他命注射器 [drugs]
+Cocaine Syringe [drugs]=可卡因注射器 [drugs]
+Ecstasy Syringe [drugs]=摇头丸注射器 [drugs]
+Fentanyl Syringe [drugs]=芬太尼注射器 [drugs]
+Heroin Syringe [drugs]=海洛因注射器 [drugs]
+Ketamine Syringe [drugs]=氯胺酮注射器 [drugs]
+LSD Syringe [drugs]=LSD注射器 [drugs]
+Meth Syringe [drugs]=甲基苯丙胺注射器 [drugs]
+Shrooms Syringe [drugs]=迷幻蘑菇注射器 [drugs]
+Xanax Syringe [drugs]=阿普唑仑注射器 [drugs]
