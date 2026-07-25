@@ -37,6 +37,12 @@ Enter Power=输入力量
 Telekinesis Ability=念力能力
 Strong Punch Ability=强力打击能力
 Shot Ability=射击能力
+Сalm Down=冷静下来
+Сalm Down.=冷静下来.
+Enable Repulsive Aura=启用排斥气场
+Enable Repulsive Aura.=启用排斥气场.
+Disable Repulsive Aura=禁用排斥气场
+Disable Repulsive Aura.=禁用排斥气场.
 
 
 

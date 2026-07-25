@@ -11470,12 +11470,12 @@ The radioactive beam fried...=放射性光束烧毁了……
 The virus binds to the receptors...=病毒已结合受体……
 Radiation: the Compound V is burned...=辐射：沃特化合物被灼烧……
 Compound V cleared from the blood...=沃特化合物已从血液中清除……
-V24 has drained away: the temporary powers are gone.=V24已耗竭：临时能力已消失。
+V24 has drained away: the temporary powers are gone.=V24已耗竭：临时能力已消失. 
 The radioactive beam fried and pulverized the Compound V in the blood: powers lost.=放射性光束烧毁并粉碎了血液中的沃特化合物：能力已丧失.
 The virus binds to the receptors and destroys the Compound V in the blood: powers lost.=病毒结合受体并破坏血液中的沃特化合物：能力已丧失.
 Radiation: the Compound V is burned out of the blood. Powers off.=辐射：沃特化合物已从血液中烧尽. 能力关闭.
 Compound V cleared from the blood: powers gone, back to a normal human.=沃特化合物已从血液中清除：能力消失，变回普通人.
-STRONG virus: exponential replication, fulminant tissue necrosis. Lethal and highly contagious (one touch is enough).=强效病毒：指数级复制，暴发性组织坏死。致死且具有高度传染性（只需一次接触即可）.
+STRONG virus: exponential replication, fulminant tissue necrosis. Lethal and highly contagious (one touch is enough).=强效病毒：指数级复制，暴发性组织坏死. 致死且具有高度传染性（只需一次接触即可）.
 Virus: tissue necrosis, the Compound V in the blood is depleted. Lethal to the modern Super.=病毒：组织坏死，血液中的沃特化合物被耗尽. 对现代超能者致命.
 Raw V1: the adult body rejects the serum. A hole tears open in the rear - fulminant hemorrhage.=原始V1：成人体质排斥血清. 后部裂开一个洞——暴发性出血.
 V2 in an adult: the modern serum is too unstable for a formed body. A hole tears open in the rear - it bleeds out.=成人注射V2：现代血清对成型身体来说太不稳定. 后部裂开一个洞——血流不止.
@@ -11487,11 +11487,11 @@ Loadout ON - ACHIEVEMENTS DISABLED for this session (hand-picked powers %3D no c
 //V24注射提示
 r:"V24: temporary powers \(use (\d+)/3\)\. They will drain away\."="V24：临时能力（使用 $1/3）. 它们会逐渐消退."
 //格洛斯等离子光束解锁
-r:"20 Sv absorbed - the Gorse's irradiated chest sac is primed\. Hold (.*?) on its BODY to charge it\.\.\." = "吸收20 Sv - 格洛斯的辐射胸部囊已就绪。按住$1键在其身体上充能..."
+r:"20 Sv absorbed - the Gorse's irradiated chest sac is primed\. Hold (.*?) on its BODY to charge it\.\.\." = "吸收20 Sv - 格洛斯的辐射胸部囊已就绪. 按住$1键在其身体上充能..."
 //等离子光束蓄力
 r:"^Charging the beam\.\.\. hold (.*?)\.$" = "正在充能光束……按住$1键."
 //等离子光束解锁
-r:"^20 Sv absorbed - RADIATION CHEST BLAST unlocked! Hold (.*?) on the chest ~9s, then release\.$" = "吸收20 Sv - 辐射胸部冲击波已解锁！按住$1键在胸部约9秒，然后释放。"
+r:"^20 Sv absorbed - RADIATION CHEST BLAST unlocked! Hold (.*?) on the chest ~9s, then release\.$" = "吸收20 Sv - 辐射胸部冲击波已解锁！按住$1键在胸部约9秒，然后释放. "
 //过量注射化合物
 r:"^OVERDOSE SURVIVED\. The body adapts past the limit: \+15% to strength, durability, speed and all abilities \(total \+(\d+)%, overdose #(\d+)\)\.$" = "过量存活. 身体超越极限适应：力量、耐久、速度及所有能力+15%（总计+$1%，过量次数#$2）."
 
@@ -11512,10 +11512,10 @@ sr:"^(V1|V2|V24): external durability (.*?), internal (.*?)\.(.*?)( Super-streng
 sr:"^Enriched Uranium Cube: (.*?) source \(radius (.*?)\), phosphorescent green\. Radiation chamber\.$" = "浓缩铀方块： 源$1（半径$2），磷光绿色. 辐射室."
 
 //使用超级速度
-sr:"^SUPER SPEED: (.*?) - the world slows to (.*?)%, you don't\. Tap (.*?) on the head to stop\.$" = "超级速度：$1 - 世界减速至 $2%，你除外。点击 $3 键在头部以停止。"
+sr:"^SUPER SPEED: (.*?) - the world slows to (.*?)%, you don't\. Tap (.*?) on the head to stop\.$" = "超级速度：$1 - 世界减速至 $2%，你除外. 点击 $3 键在头部以停止. "
 
 //使用飞行
-sr:"^Flight enabled \((.*?)\)\. (.*?) on a foot to land; right-click the head to change mode\.$" = "飞行已启用（$1）。$2键在脚部着陆；右键头部切换模式。"
+sr:"^Flight enabled \((.*?)\)\. (.*?) on a foot to land; right-click the head to change mode\.$" = "飞行已启用（$1）. $2键在脚部着陆；右键头部切换模式. "
 
 //等离子光束
 sr:"^PLASMA BEAM! Power level (\d+) \((.*?)\)\.$" = "等离子光束！功率等级 $1（$2）."
@@ -14844,13 +14844,13 @@ Enable Expensive Patreon.=启用昂贵的Patreon.
 Disable Expensive Patreon=禁用昂贵的Patreon
 Disable Expensive Patreon.=禁用昂贵的Patreon.
 Enable Star Money=启用星光货币
-Enable Star Money.=启用星光货币。
+Enable Star Money.=启用星光货币. 
 Disable Star Money=禁用星光货币
-Disable Star Money.=禁用星光货币。
+Disable Star Money.=禁用星光货币. 
 Enable Super Nova=启用超新星
-Enable Super Nova.=启用超新星。
+Enable Super Nova.=启用超新星. 
 Disable Super Nova=禁用超新星
-Disable Super Nova.=禁用超新星。
+Disable Super Nova.=禁用超新星. 
 
 
 
@@ -14871,3 +14871,48 @@ LSD Syringe [drugs]=LSD注射器 [drugs]
 Meth Syringe [drugs]=甲基苯丙胺注射器 [drugs]
 Shrooms Syringe [drugs]=迷幻蘑菇注射器 [drugs]
 Xanax Syringe [drugs]=阿普唑仑注射器 [drugs]
+
+
+
+
+
+
+
+//350*灵能百分百游乐场_Mob Psycho Playground
+<noparse>Mob Psycho Playground</noparse>=<noparse>灵能百分百游乐场</noparse>
+<size%3D1.5em>Mob Psycho Playground</size>\n\n<noparse>A mod by Cpuid for game version 1.25+</noparse>=<size%3D1.5em>灵能百分百游乐场</size>\n\n<noparse>由 Cpuid 制作的模组，适用于游戏版本 1.25+</noparse>
+<b>Mob Psycho Playground</b>.\r\n=<b>灵能百分百游乐场</b>.\r\n
+<b>[MPP] Config</b>\r\nMod Configurations.=<b>[MPP] 配置</b>\r\n模组配置.
+<b>Characters</b>\r\nMob Psycho Characters.=<b>角色</b>\r\n灵能百分百角色.
+This item belongs to: Characters.=此物品属于：角色.
+<b>[MPP] Mob</b>\r\nDescription idk.=<b>[MPP] 龙套</b>\r\n描述未知.
+Telekinesis Configs=念力配置
+Telekinesis Options=念力选项
+Counter Configs=计数器配置
+Counter Options=计数器选项
+Explosion Requires 100%=爆发需要100%
+Counter Detail View=计数器详细视图
+Counter Volume=计数器音量
+Set Counter Volume (from 0 to 1)=设置计数器音量（0到1）
+Enable Body Enhancement=启用肉体强化
+Disable Body Enhancement=禁用肉体强化
+Toggle Body Enhancement=切换肉体强化
+Toggle Body Enhancement.=切换肉体强化. 
+Casual State=日常状态
+Casual State.=日常状态. 
+100% Sadness=100% 悲伤
+100% Sadness.=100% 悲伤. 
+100% Animosity=100% 敌意
+100% Animosity.=100% 敌意. 
+100% Rage=100% 愤怒
+100% Rage.=100% 愤怒. 
+???% State=???% 状态
+???% State.=???% 状态. 
+Set Percentage=设置百分比
+Set Percentage.=设置百分比. 
+Uniform Skin=制服皮肤
+Uniform Skin.=制服皮肤. 
+Gym Skin=运动服皮肤
+Gym Skin.=运动服皮肤. 
+White-T Poison Skin=白T毒皮肤
+White-T Poison Skin.=白T毒皮肤. 
