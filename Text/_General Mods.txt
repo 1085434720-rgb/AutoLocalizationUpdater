@@ -11176,11 +11176,12 @@ Foot R=右脚
 
 
 //UI面板
-COMPOUND V2  -  modern=复合V2 - 现代版
-COMPOUND V1  -  classic, pure=复合V1 - 经典，纯正
-COMPOUND V1  -  temporary=复合V1 - 临时型
-COMPOUND V1  -  modern=复合V1 - 现代型
-COMPOUND V24  -  temporary=复合V24 - 临时型
+COMPOUND V2  -  modern=化合物V2 - 现代版
+COMPOUND V1  -  classic, pure=化合物V1 - 经典，纯正
+COMPOUND V1  -  temporary=化合物V1 - 临时型
+COMPOUND V1  -  modern=化合物V1 - 现代型
+COMPOUND V24  -  temporary=化合物V24 - 临时型
+COMPOUND APEX  -  V1 fused onto V2 - immortal=化合物顶点 - V1融合于V2 - 不朽
 sr:"RAGE (\d+)%  -  lvl (\d+) \((.*?)\)" = "怒气$1% - 等级$2（$3）"
 250 kg TNT=250公斤TNT
 500 kg TNT=500公斤TNT
@@ -11289,6 +11290,9 @@ Negligible=可忽略
 Lethal=致命	
 Resistance=抗性
 Chest Blast unlock=胸部冲击波解锁
+Apex=顶点
+immortal, virus-immune (x4)=不朽，病毒免疫（x4）
+Overdose adaptation=过量适应
 
 drag header to move  -  right-click head to reopen=拖动标题移动 - 右键点击头部重新打开
 join the Discord=加入Discord
