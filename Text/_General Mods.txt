@@ -15131,3 +15131,62 @@ Disable Diable/Ifrit Jambe.=禁用恶魔/魔神风脚.
 
 
 
+
+
+
+
+
+
+//353*拾取增强：自定义快捷键_Pickup Advanced: Custom Hotkey
+<noparse>Pickup Advanced: Custom Hotkey</noparse>=<noparse>拾取增强：自定义快捷键</noparse>
+Adds a separate rebindable hotkey to Pickup Advanced and prevents conflicts with normal object holding.=为拾取增强添加了一个独立的可重新绑定快捷键，并防止与普通物体抓取发生冲突。
+<size%3D1.5em>Pickup Advanced: Custom Hotkey</size>\nAdds a separate rebindable hotkey to Pickup Advanced and prevents conflicts with normal object holding.\n<noparse>A mod by Dyadyushka Dyadya, ibiglaser, winter_actual for game version 1.25+</noparse>=<size%3D1.5em>拾取增强：自定义快捷键</size>\n为拾取增强添加了一个独立的可重新绑定快捷键，并防止与普通物体抓取发生冲突。\n<noparse>由 Dyadyushka Dyadya、ibiglaser、winter_actual 制作的模组，适用于游戏版本 1.25+</noparse>
+Pick Up Everything: Attach / Drop=抓住任何：拿起/丢弃
+
+
+
+
+
+
+
+
+//354*无人机
+<noparse>FPV DRONE MOD</noparse>=<noparse>FPV无人机模组</noparse>
+FPV Drone | AI Autopilot • Draw routes. Hunt targets. Drop payloads.=FPV无人机 | AI自动驾驶 • 绘制路线。猎杀目标。投放载荷。
+<size%3D1.5em>FPV DRONE MOD</size>\nFPV Drone | AI Autopilot • Draw routes. Hunt targets. Drop payloads.\n<noparse>A mod by DEBCHIK for game version 1.26+</noparse>=<size%3D1.5em>FPV无人机模组</size>\nFPV无人机 | AI自动驾驶 • 绘制路线。猎杀目标。投放载荷。\n<noparse>由 DEBCHIK 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>FPV DRONE MOD</b>\r\nFPV Drone | AI Autopilot • Draw routes. Hunt targets. Drop payloads.=<b>FPV无人机模组</b>\r\nFPV无人机 | AI自动驾驶 • 绘制路线。猎杀目标。投放载荷.
+REFERENCE=参考资料
+A COMPACT GUIDE TO CONTROLS AND SYSTEMS=紧凑的控制与系统指南
+Find flight, weapons, routes, autopilot, bomber, and mission controls here.\n\nPress F1 later to reopen this reference while a drone is active.=在此查找飞行、武器、路线、自动驾驶、轰炸机和任务控制。\n\n稍后，在无人机激活时按F1重新打开此参考资料.
+LATER=稍后
+FPV DRONE: REFERENCE=FPV 无人机：参考
+FLIGHT CONTROLS=飞行控制
+COMBAT SYSTEM=战斗系统
+ROUTE & AUTOPILOT=路线与自动驾驶
+BOMBER MODE=轰炸机模式
+THERMAL VISION=热成像视觉
+MISSIONS & SETTINGS=任务与设置
+A QUICK GUIDE TO THE CORE SYSTEMS=核心系统快速指南
+LINK, MOVEMENT, AND CAMERA=连接、移动和相机
+ARMING, WARHEADS, AND TARGETS=武装、弹头和目标
+DRAWN ROUTES AND AI NAVIGATION=绘制路线与 AI 导航
+PAYLOAD RELEASE=载荷投掷
+NIGHT VIEW AND TARGET SPOTTING=夜视与目标发现
+COMMAND CENTRE AND PROFILES=指挥中心与配置
+Open this reference at any time with <color%3D#ffd27a><b>F1</b></color>.\n\nLink to the nearest drone, learn the flight controls, then move on to routes, autopilot, and operations. <color%3D#ffd27a><b>M</b></color> opens settings for the active drone.=随时按<color%3D#ffd27a><b>F1</b></color>打开此参考资料。\n\n链接至最近的无人机，学习飞行控制，然后继续学习路线、自动驾驶和任务操作。<color%3D#ffd27a><b>M</b></color>打开当前无人机的设置。
+
+<color%3D#ffd27a><b>T</b></color> — link to the drone | leave manual control.\n\n<color%3D#ffd27a><b>WASD</b></color> — movement     <color%3D#ffd27a><b>Q / E</b></color> — turn\n<color%3D#ffd27a><b>SHIFT</b></color> — boost        <color%3D#ffd27a><b>CTRL</b></color> — precision mode\n<color%3D#ffd27a><b>SPACE</b></color> — brake        <color%3D#ffd27a><b>H</b></color> — altitude hold\n<color%3D#ffd27a><b>F7</b></color> — camera follows the drone=<color%3D#ffd27a><b>T</b></color> — 链接至无人机 | 离开手动控制\n\n<color%3D#ffd27a><b>WASD</b></color> — 移动     <color%3D#ffd27a><b>Q / E</b></color> — 转向\n<color%3D#ffd27a><b>SHIFT</b></color> — 加速        <color%3D#ffd27a><b>CTRL</b></color> — 精确模式\n<color%3D#ffd27a><b>SPACE</b></color> — 刹车        <color%3D#ffd27a><b>H</b></color> — 高度保持\n<color%3D#ffd27a><b>F7</b></color> — 摄像机跟随无人机
+
+<color%3D#ffd27a><b>X</b></color> — arm or safe the warhead.\n<color%3D#ffd27a><b>V</b></color> — cycle 11 warheads: FRAG-M, HE-HEAVY, EMP-PULSE, TERMIT-F, STUN-NL, MOLOT-TB, CRYO-Z (freeze), CLUSTER-K, VACUUM-V (implosion), ACID-X, SMOKE-D.\n<color%3D#ffd27a><b>B</b></color> — manually detonate an armed drone.\n<color%3D#ffd27a><b>C</b></color> — grab manipulator: latch / release cargo.\n<color%3D#ffd27a><b>R</b></color> — toggle ESP target markers.\n\nAn armed drone may detonate on impact.=<color%3D#ffd27a><b>X</b></color> — 激活或解除弹头保险。\n<color%3D#ffd27a><b>V</b></color> — 循环切换11种弹头：FRAG-M（破片）、HE-HEAVY（高爆重弹）、EMP-PULSE（电磁脉冲）、TERMIT-F（燃烧弹）、STUN-NL（眩晕非致命）、MOLOT-TB（莫洛托夫）、CRYO-Z（冷冻）、CLUSTER-K（集束）、VACUUM-V（真空内爆）、ACID-X（酸液）、SMOKE-D（烟雾）。\n<color%3D#ffd27a><b>B</b></color> — 手动引爆已激活的无人机。\n<color%3D#ffd27a><b>C</b></color> — 抓取机械臂：锁定/释放货物。\n<color%3D#ffd27a><b>R</b></color> — 切换ESP目标标记。\n\n已激活的无人机可能在撞击时爆炸。
+
+<color%3D#ffd27a><b>G</b></color> — start drawing a route with the mouse.\n<color%3D#ffd27a><b>G</b></color> again — start route flight.\n<color%3D#ffd27a><b>WASD</b></color> during route flight — cancel it.\n\n<color%3D#ffd27a><b>F6</b></color> — toggle autopilot. It finds a target, plans a route, and avoids obstacles. <color%3D#ffd27a><b>P</b></color> — tactical navigation view.=<color%3D#ffd27a><b>G</b></color> — 用鼠标开始绘制路线。\n再次按<color%3D#ffd27a><b>G</b></color> — 开始路线飞行。\n路线飞行中按<color%3D#ffd27a><b>WASD</b></color> — 取消路线飞行。\n\n<color%3D#ffd27a><b>F6</b></color> — 切换自动驾驶。它会寻找目标、规划路线并避开障碍物。<color%3D#ffd27a><b>P</b></color> — 战术导航视图。
+
+<color%3D#ffd27a><b>N</b></color> — switch Kamikaze / Bomber.\n<color%3D#ffd27a><b>J</b></color> — single release.     <color%3D#ffd27a><b>K</b></color> — auto release.\n\nUse <color%3D#ffd27a><b>M → BMB</b></color> for payload, interval, run altitude, accuracy, and arm delay. The bomber calculates its release window automatically.=<color%3D#ffd27a><b>N</b></color> — 切换神风/轰炸机模式。\n<color%3D#ffd27a><b>J</b></color> — 单次投弹。     <color%3D#ffd27a><b>K</b></color> — 自动投弹。\n\n使用<color%3D#ffd27a><b>M → BMB</b></color>设置载荷、投弹间隔、飞行高度、精度和引信延迟。轰炸机会自动计算投弹窗口。
+
+<color%3D#ffd27a><b>I</b></color> — toggle thermal vision (while piloting).\n\nHot targets glow through the dark: people, fire, machinery. The centre reticle turns amber over a hot target, and the SPOT meter reads its temperature.\n\n<color%3D#ffd27a><b>WHEEL</b></color> — zoom works in thermal view too.=<color%3D#ffd27a><b>I</b></color> — 切换热成像（驾驶时）。\n\n热目标在黑暗中发光：人类、火焰、机械。中心准星对准热目标时会变为琥珀色，SPOT仪表会显示其温度。\n\n<color%3D#ffd27a><b>滚轮</b></color> — 缩放功能在热成像模式下同样有效。
+
+<color%3D#ffd27a><b>F8</b></color> first press — place the launch point with the mouse.\n<color%3D#ffd27a><b>F8</b></color> again — open the command centre.\n\nSet the operation radius, active-drone cap, and target type. <color%3D#ffd27a><b>ABORT</b></color> ends the current mission. <color%3D#ffd27a><b>M</b></color> opens settings and profiles for the active drone.=<color%3D#ffd27a><b>F8</b></color> 首次按下 — 用鼠标放置发射点。\n再次按<color%3D#ffd27a><b>F8</b></color> — 打开指挥中心。\n\n设置行动半径、无人机数量上限和目标类型。<color%3D#ffd27a><b>终止任务</b></color>结束当前任务。<color%3D#ffd27a><b>M</b></color>打开当前无人机的设置和配置文件。
+
+NEXT=下一个
+EXIT=退出
+FINISH=完成
