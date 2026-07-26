@@ -15,8 +15,7 @@ Normal windows size=正常窗口尺寸
 Special activation enabled=特殊激活已启用
 MPW Library Patch Notification.\n\nYou may notice a terminal opening. This is <color%3Dred>required</color> to patch the game compiler\nso the MPW Library <color%3Dyellow>mod compiles before other mods</color>.\nFor more details, check the mod description on workshop page.\nIf you want to revert the patch, use Verify integrity of game files on steam.\n\nThe patch was applied successfully. Please <color%3Dyellow>restart</color> People Playground.=MPW库补丁通知.\n\n你可能会注意到一个终端窗口打开. 这是<color%3Dred>必需</color>的，用于修补游戏编译器\n以便MPW库<color%3Dyellow>模组在其他模组之前编译</color>.\n更多详情请查看创意工坊页面的模组描述.\n如果你想还原补丁，请在Steam上使用验证游戏文件完整性.\n\n补丁已成功应用. 请<color%3Dyellow>重启</color>人类游乐场.
 I understand and will restart=我明白了，我会重启
-
-
+MPWSettings: Settings reset=MPW设置：设置已重置
 
 
 
