@@ -11907,6 +11907,7 @@ The sequel to a very large miscellaneous item pack.=一个非常庞大的杂项�
 <b>Explosive Knife [GBI]</b>\r\nThe pinnacle of war. A weapon to surpass metal gear.=<b>爆炸匕首 [GBI]</b>\r\n战争的巅峰之作. 一把超越合金装备的武器. 
 <b>Greenbrick [GBI]</b>\r\nGreenbrick.=<b>绿砖 [GBI]</b>\r\n绿砖. 
 <b>Toy Greenbrick [GBI]</b>\r\nDon't step on it.=<b>乐高绿砖 [GBI]</b>\r\n别踩到它. 
+<b>Funny Stick [GBI]</b>\r\nA funny stick cursed by a funny wizard. Randomly transmutates objects when whacked.=<b>搞笑棍棒 [GBI]</b>\r\n被一位滑稽巫师诅咒的有趣棍棒. 敲击时会随机转化物体.
 
 
 
