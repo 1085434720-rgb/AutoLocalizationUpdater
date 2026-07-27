@@ -4203,7 +4203,7 @@ Set the speed of the day night cycle.=设置昼夜循环的速度.
 
 
 
-//30*Nova的JOJO的奇妙冒险模组_Nova的JOJO的奇妙冒险模组
+//30*Nova的JOJO的奇妙冒险模组_Nova's Jojo's Bizarre Adventure Mod
 <noparse>Nova's Jojo's Bizarre Adventure Mod</noparse>=<noparse>Nova的JOJO的奇妙冒险模组</noparse>
 Adds many characters and other concepts from the popular anime and manga series JoJo's Bizarre Adventure by Hirohiko Araki to People Playground=为《People Playground》添加了大量来自荒木飞吕彦的人气动漫与漫画系列《JOJO的奇妙冒险》中的角色及其他概念。
 <size%3D1.5em>Nova's Jojo's Bizarre Adventure Mod</size>\nAdds many characters and other concepts from the popular anime and manga series JoJo's Bizarre Adventure by Hirohiko Araki to People Playground\n<noparse>A mod by Nova Interactive + Mega & Env for game version Latest</noparse>=<size%3D1.5em>Nova的JOJO的奇妙冒险模组</size>\n为《People Playground》添加了大量来自荒木飞吕彦的人气动漫与漫画系列《JOJO的奇妙冒险》中的角色及其他概念。\n<noparse>由 Nova Interactive + Mega & Env 制作的模组，适用于游戏版本 Latest</noparse>
@@ -4415,3 +4415,68 @@ Young Dio=年轻迪奥
 OVA Dio=OVA版迪奥
 
 Human Stroheim=人类修特罗海姆
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//31*高级物品编辑器_Item Editor Advanced
+<noparse>Item Editor Advanced</noparse>=<noparse>高级物品编辑器</noparse>
+Adds the ability to edit an item's properties so it keeps them when you spawn it (but way better)!=添加了编辑物品属性的功能，使其在生成时保留这些属性（而且效果更好）！
+<size%3D1.5em>Item Editor Advanced</size>\nAdds the ability to edit an item's properties so it keeps them when you spawn it (but way better)!\n<noparse>A mod by Timtam for game version Latest</noparse>=<size%3D1.5em>高级物品编辑器</size>\n添加了编辑物品属性的功能，使其在生成时保留这些属性（而且效果更好）！\n<noparse>由 Timtam 制作的模组，适用于游戏版本 Latest</noparse>
+Save & Close=保存并关闭
+Hierarchy=层级结构
+sr:"^(.*?)\(Clone\)$"="$1(克隆)"
+//常见组件名
+tag=标签
+name=名称
+hideFlags=隐藏标志
+Person=人
+FrontLeg=前腿
+BackLeg=后腿
+FrontArm=前臂
+BackArm=后臂
+SpriteRenderer=贴图渲染器
+BoxCollider2D=盒子碰撞体2D
+ConstantForce2D=恒定力2D
+Rigidbody2D=刚体2D
+PhysicalBehaviour=物理行为
+LimbBehaviour=肢体行为
+HingeJoint2D=铰链关节2D
+SkinMaterialHandler=皮肤材质处理器
+CirculationBehaviour=循环行为
+AndroidSparkCreator=机器人火花创建器
+ConnectedNodeBehaviour=连接节点行为
+NodeBehaviour=节点行为
+ContextMenuOptionComponent=上下文菜单选项组件
+LimbLoggerBehaviour=肢体日志记录器行为
+AudioSource=音频源
+GForceMeasureBehaviour=G力测量行为
+ExplosiveBehaviour=爆炸行为
+UseEventTrigger=使用事件触发器
+CrushChecker=挤压检查器
+AudioSourceTimeScaleBehaviour=音频源时间缩放行为
+position=位置
+localPosition=本地位置
+eulerAngles=欧拉角
+localEulerAngles=本地欧拉角
+right=右方向
+up=上方向
+forward=前方向
+rotationOrder=旋转顺序
+localScale=本地缩放
+hasChanged=已更改
+hierarchyCapacity=层级容量
+Untagged=未标记
+useGUILayout=使用GUILayout
+inertia=惯性
+

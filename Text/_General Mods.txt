@@ -15190,3 +15190,23 @@ Open this reference at any time with <color%3D#ffd27a><b>F1</b></color>.\n\nLink
 NEXT=下一个
 EXIT=退出
 FINISH=完成
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//355*ZeroOne核心_ZeroOne Core
+<noparse>ZeroOne Core</noparse>=<noparse>ZeroOne核心</noparse>
+It includes the Union and ZeroOne UI libraries, ensures that these libraries load correctly, and minimizes bugs related to their loading.=它包含了Union和ZeroOne UI库，确保这些库正确加载，并最大限度地减少与其加载相关的错误。
+<size%3D1.5em>ZeroOne Core</size>\nIt includes the Union and ZeroOne UI libraries, ensures that these libraries load correctly, and minimizes bugs related to their loading.\n<noparse>A mod by 01 STUDIO for game version 1.28+</noparse>=<size%3D1.5em>ZeroOne核心</size>\n它包含了Union和ZeroOne UI库，确保这些库正确加载，并最大限度地减少与其加载相关的错误。\n<noparse>由 01 STUDIO 制作的模组，适用于游戏版本 1.28+</noparse>
