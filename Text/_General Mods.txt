@@ -1,5 +1,6 @@
 //*B站TF_RC汉化
 Automatic localization patch=自动汉化补丁
+<b>TFRC</b>\r\nSaved in version 1.27.12.=<b>TFRC</b>\r\n<color%3Dyellow>史上最帅之人</color>\nSaved in version 1.27.12.
 
 //0*本体汉化补漏
 <color%3D#ccc>Sending request</color>=<color%3D#ccc>正在发送请求</color>
