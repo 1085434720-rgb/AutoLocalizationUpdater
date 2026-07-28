@@ -9306,7 +9306,7 @@ r:"^Petelgeuse menu error: (.*?)$"=培提其乌斯菜单错误：$1
 <noparse>A Subaru Mod</noparse>=<noparse>菜月·昴模组</noparse>
 May Possibly Be Subaru From The Hit Anime RE:ZERO=可能来自热门动漫《从零开始的异世界生活》中的菜月·昴. 
 <size%3D1.5em>A Subaru Mod</size>\nMay Possibly Be Subaru From The Hit Anime RE:ZERO\n<noparse>A mod by Modki for game version 1.11</noparse>=<size%3D1.5em>菜月·昴模组</size>\n可能来自热门动漫《从零开始的异世界生活》中的菜月·昴. \n<noparse>由 Modki 制作的模组，适用于游戏版本 1.11</noparse>
-<b>Random Wilki Characters</b>\r\nRandom Characters I Came Up With Fr.=<b>随机 Wilki 角色</b>\r\n我自己随机整的角色，真的. 
+<b>Random Wilki Characters</b>\r\nRandom Characters I Came Up With Fr.=<b>Wilki的随机角色</b>\r\n我自己随机整的角色，真的. 
 <b><color%3D#DBB361>[A Subaru Mod]<color%3Dwhite> Subaru Natsuki</b>\r\n'I'm no hero. Never was, never will be.'=<b><color%3D#DBB361>[菜月·昴模组]<color%3Dwhite> 菜月·昴</b>\r\n“我不是英雄. 从来不是，也永远不会是. ”
 Set Return By Death Save Point=设置死亡回归存档点
 Set Return By Death Save Point.=设置死亡回归存档点. 
@@ -15211,3 +15211,140 @@ FINISH=完成
 <noparse>ZeroOne Core</noparse>=<noparse>ZeroOne核心</noparse>
 It includes the Union and ZeroOne UI libraries, ensures that these libraries load correctly, and minimizes bugs related to their loading.=它包含了Union和ZeroOne UI库，确保这些库正确加载，并最大限度地减少与其加载相关的错误。
 <size%3D1.5em>ZeroOne Core</size>\nIt includes the Union and ZeroOne UI libraries, ensures that these libraries load correctly, and minimizes bugs related to their loading.\n<noparse>A mod by 01 STUDIO for game version 1.28+</noparse>=<size%3D1.5em>ZeroOne核心</size>\n它包含了Union和ZeroOne UI库，确保这些库正确加载，并最大限度地减少与其加载相关的错误。\n<noparse>由 01 STUDIO 制作的模组，适用于游戏版本 1.28+</noparse>
+
+
+
+
+
+
+
+
+
+
+
+//356*远野志贵模组_A Tohno Shiki Mod
+<noparse>A Tohno Shiki Mod</noparse>=<noparse>远野志贵模组</noparse>
+Totally Normal High School Student=完全正常的高中生
+<size%3D1.5em>A Tohno Shiki Mod</size>\nTotally Normal High School Student\n<noparse>A mod by Modki for game version 1.11</noparse>=<size%3D1.5em>远野志贵模组</size>\n完全普通的高中生\n<noparse>由 Modki 制作的模组，适用于游戏版本 1.11</noparse>
+<b><color%3D#EC1A24>A Shiki Tohno Mod<color%3Dwhite> Shiki Tohno</b>\r\nTotally normal highschool student.=<b><color%3D#EC1A24>远野志贵模组<color%3Dwhite> 远野志贵</b>\r\n完全普通的高中生.
+<b><color%3D#EC1A24>A Shiki Tohno Mod<color%3Dwhite> Shiki's Knife</b>\r\nPeak gift from Kohaku (best girl)=<b><color%3D#EC1A24>远野志贵模组<color%3Dwhite> 志贵的小刀</b>\r\n来自琥珀（最好的女孩）的极品礼物
+Mystic Eyes of Death Perception - Head - H=直死之魔眼 - 头部 - H
+Flash Sheath - UpperBody - H=闪鞘 - 上半身 - H
+Seventeen Dissection - MiddleBody - H=十七分割 - 中躯干 - H
+You need to hold a sword to use this move=你需要手持一把剑才能使用此招式
+
+
+
+//357*晓美焰模组_A Homura Mod
+<noparse>A Homura Mod</noparse>=<noparse>晓美焰模组</noparse>
+Super awesome timestop emo girl=超棒的时间停止emo女孩
+<size%3D1.5em>A Homura Mod</size>\nSuper awesome timestop emo girl\n<noparse>A mod by Modki for game version 1.11</noparse>=<size%3D1.5em>晓美焰模组</size>\n超棒的时间停止emo女孩\n<noparse>由 Modki 制作的模组，适用于游戏版本 1.11</noparse>
+<b><color%3D#EC1A24>A Homura Mod<color%3Dwhite> Homura Akemi</b>\r\nSuper awesome timestop emo girl.=<b><color%3D#EC1A24>晓美焰模组<color%3Dwhite> 晓美焰</b>\r\n超棒的时间停止emo女孩.
+Time Stop - LowerArmFront - H=时停 - 前臂 - H
+Shield Storage Adder - LowerArm - H=盾牌存储添加 - 后臂 - H
+Shield Storage Retrieval - LowerArm - J=盾牌存储取出 - 后臂 - J
+Open Item Menu=打开物品菜单
+Open Item Menu.=打开物品菜单.
+Store Random Weapons=存储随机武器
+Store Random Weapons.=存储随机武器.
+Type the number of random weapons you want to store=输入要存储的随机武器数量
+Selected=已选择
+
+
+
+//358*惠惠模组_A Megumin Mod
+<noparse>A Megumin Mod</noparse>=<noparse>惠惠模组</noparse>
+Weird Explosion Girl=奇怪的爆炸女孩
+<size%3D1.5em>A Megumin Mod</size>\nWeird Explosion Girl\n<noparse>A mod by Modki for game version 1.11</noparse>=<size%3D1.5em>惠惠模组</size>\n奇怪的爆炸女孩\n<noparse>由 Modki 制作的模组，适用于游戏版本 1.11</noparse>
+<b><color%3D#C24448>[A Megumin Mod]<color%3Dwhite> Megumin</b>\r\n'EX-PLO~SION~!'=<b><color%3D#C24448>[惠惠模组]<color%3Dwhite> 惠惠</b>\r\n“爆~裂~魔~法~！”
+<b><color%3D#C24448>[A Megumin Mod]<color%3Dwhite> Megumin's Staff</b>\r\nEpic Explosion Staff fr.=<b><color%3D#C24448>[惠惠模组]<color%3Dwhite> 惠惠的法杖</b>\r\n史诗级爆炸法杖，真的.
+
+
+
+//359*雷古勒斯模组 重制版_A Regulus Mod: Remastered
+<noparse>A Regulus Mod: Remastered</noparse>=<noparse>雷古勒斯模组 重制版</noparse>
+My Favourite Cave Diver=我最喜欢的洞穴潜水员
+<size%3D1.5em>A Regulus Mod: Remastered</size>\nMy Favourite Cave Diver\n<noparse>A mod by Modki for game version 1.11</noparse>=<size%3D1.5em>雷古勒斯模组 重制版</size>\n我最喜欢的洞穴潜水员\n<noparse>由 Modki 制作的模组，适用于游戏版本 1.11</noparse>
+<b><color%3D#DBB361>[A Regulus Mod: Remastered]<color%3Dwhite> Regulus Corneas</b>\r\n<color%3D#6174C7>'Free Up My Cave Diving Goat He Aint Do Nun Wrong'=<b><color%3D#DBB361>[雷古勒斯模组：重制版]<color%3Dwhite> 雷古勒斯·科尼亚斯</b>\r\n<color%3D#6174C7>“放了我那洞穴潜水的兄弟，他啥也没做错”
+Little King - Head - H=小国王 - 头部 - H
+Lion's Heart - UpperBody - H=狮子之心 - 上半身 - H
+Stillness of an Object's Time - All Limbs - Hold J=物体时间静止 - 所有肢体 - 按住J
+Stillness of an Object's Time On Regulus - UpperBody - J=物体时间静止（雷古勒斯） - 上半身 - J
+Air Slice - LowerArmFront - H=空气斩 - 前臂 - H
+Air Slice - LowerArm - H=空气斩 - 后臂 - H
+Select Your Subject=选择目标
+The person needs to be asleep=目标需要处于睡眠状态
+That isn't even a human you're lost=那甚至不是人类，你搞错了
+sr:"(.*?) is now a subject of your kingdom"="$1现在是你王国的子民"
+
+
+
+
+//360*雷利模组_A Rayleigh Mod
+<noparse>A Rayleigh Mod</noparse>=<noparse>雷利模组</noparse>
+Sick ass old man (No actual old man ingame yet but wait till tommorrow trust)=超屌的老头（游戏中还没有实际的老头，但等到明天相信我）
+<size%3D1.5em>A Rayleigh Mod</size>\nSick ass old man (No actual old man ingame yet but wait till tommorrow trust)\n<noparse>A mod by Modki for game version 1.11</noparse>=<size%3D1.5em>雷利模组</size>\n超屌的老头（游戏中还没有实际的老头，但等到明天相信我）\n<noparse>由 Modki 制作的模组，适用于游戏版本 1.11</noparse>
+<b><color%3D#EC1A24>A Rayleigh Mod<color%3Dwhite> Prime Rayleigh</b>\r\n'Sick ass old dude when he wasnt old'=<b><color%3D#EC1A24>雷利模组<color%3Dwhite> 巅峰雷利</b>\r\n“还没老时的超屌老头”
+<b><color%3D#EC1A24>A Rayleigh Mod<color%3Dwhite> Rayleigh's Sword</b>\r\nCool unnamed sword.=<b><color%3D#EC1A24>雷利模组<color%3Dwhite> 雷利的剑</b>\r\n很酷的无名剑。
+Haoshoku Haki - Head - H=霸王色霸气 - 头部 - K
+Kenbunshoku Haki - Head - H=见闻色霸气 - 头部 - H
+Kenbunshoku Haki: Future Sight - Head - H=见闻色霸气：预见未来 - 头部 - J
+Busoshoku Haki - LowerArmFront - H=武装色霸气 - 前臂 - H
+Busoshoku Haki: Internal Destruction - LowerArmFront - H=武装色霸气：内部破坏 - 前臂 - J
+Haoshoku Infusion - LowerArmFront - H=霸王色缠绕 - 前臂 - K
+Busoshoku Haki - LowerArm - H=武装色霸气 - 后臂 - H
+Busoshoku Haki: Internal Destruction - LowerArm - H=武装色霸气：内部破坏 - 后臂 - J
+Haoshoku Infusion - LowerArm - H=霸王色缠绕 - 后臂 - K
+
+
+
+//361*火影忍者模组 公开测试版_A Naruto Mod Public Beta
+<noparse>A Naruto Mod Public Beta</noparse>=<noparse>火影忍者模组 公开测试版</noparse>
+Epic Ninja Thing Fr=史诗级忍者玩意的说
+<size%3D1.5em>A Naruto Mod Public Beta</size>\nEpic Ninja Thing Fr\n<noparse>A mod by Modki for game version 1.27+</noparse>=<size%3D1.5em>火影忍者模组 公开测试版</size>\n史诗级忍者玩意的说\n<noparse>由 Modki 制作的模组，适用于游戏版本 1.27+</noparse>
+<b>A Naruto Mod</b>\r\nA Naruto Mod.=<b>火影忍者模组</b>\r\n火影忍者模组。
+<b><color%3D#EC1A24>A Naruto Mod<color%3Dwhite> <color%3D#0094FF><color%3Dwhite> Kakashi</b>\r\nWannabe Gojo.=<b><color%3D#EC1A24>火影忍者模组<color%3Dwhite> <color%3D#0094FF><color%3Dwhite> 卡卡西</b>\r\n五条悟模仿者.
+<b><color%3D#EC1A24>A Naruto Mod<color%3Dwhite> <color%3D#0094FF><color%3Dwhite> Naruto</b>\r\nLoner lol.=<b><color%3D#EC1A24>火影忍者模组<color%3Dwhite> <color%3D#0094FF><color%3Dwhite> 鸣人</b>\r\n孤僻的家伙哈哈.
+<b><color%3D#EC1A24>A Naruto Mod<color%3Dwhite> <color%3D#0094FF><color%3Dwhite> Sakura</b>\r\nSasuke's N1 D-Rider.=<b><color%3D#EC1A24>火影忍者模组<color%3Dwhite> <color%3D#0094FF><color%3Dwhite> 小樱</b>\r\n佐助的头号跟屁虫.
+<b><color%3D#EC1A24>A Naruto Mod<color%3Dwhite> <color%3D#0094FF><color%3Dwhite> Sasuke</b>\r\nThe rizzler of the leaf village.=<b><color%3D#EC1A24>火影忍者模组<color%3Dwhite> <color%3D#0094FF><color%3Dwhite> 佐助</b>\r\n木叶村的魅魔.
+Chakra=查克拉
+
+3 Tomoe Sharingan - Head - J=三勾玉写轮眼 - 头部 - J
+Sharingan Jutsu Copy - Head - H=写轮眼忍术复制 - 头部 - H
+Clone Jutsu - UpperBody - H=分身术 - 上半身 - H
+Substitution Jutsu - UpperBody - H=替身术 - 上半身 - H
+Transformation Jutsu - UpperBody - H=变身术 - 上半身 - H
+Shadow Clone Jutsu - UpperBody - H=影分身之术 - 上半身 - H
+Chidori - LowerArmFront - H=千鸟 - 前臂 - H
+Chidori - LowerArm - H=千鸟 - 下臂 - H
+Chidori - LowerArmFront - H=千鸟 - 前臂 - H
+Talk no Jutsu - Head - H=嘴遁 - 头部 - H
+Rasengan - LowerArmFront - H=螺旋丸 - 前臂 - H
+Rasengan - LowerArm - H=螺旋丸 - 下臂 - H
+1 Tomoe Sharingan - Head - J=一勾玉写轮眼 - 头部 - J
+2 Tomoe Sharingan - Head - J=二勾玉写轮眼 - 头部 - J
+Fireball Jutsu - Head - H=火球术 - 头部 - H
+
+
+
+//362*高远夜雾模组_A Yogiri Takatou Mod
+<noparse>A Yogiri Takatou Mod</noparse>=<noparse>高远夜雾模组</noparse>
+Totally balanced=完全平衡
+<size%3D1.5em>A Yogiri Takatou Mod</size>\nTotally balanced\n<noparse>A mod by Modki for game version 1.11</noparse>=<size%3D1.5em>高远夜雾模组</size>\n完全平衡\n<noparse>由 Modki 制作的模组，适用于游戏版本 1.11</noparse>
+<b><color%3D#EC1A24>A 'My Instant Death Ability is Overpowered' Mod<color%3Dwhite> Yogiri Takatou</b>\r\n<color%3D#8B0000>'Shinei'=<b><color%3D#EC1A24>我的瞬间死亡能力过于强大模组<color%3Dwhite> 高远夜雾</b>\r\n<color%3D#8B0000>“去死吧”
+Instant Death - Head=即死 - 头部\nH激活 - J切换模式
+Current Mode: Idle=当前模式：待机
+Current Mode: Half-Death=当前模式：半死
+Current Mode: Instant Death=当前模式：即死
+Current Mode: Soul Death=当前模式：魂死
+Current Mode: Kill Momentum=当前模式：抹消动量
+Current Mode: Kill Gravity=当前模式：抹消重力
+Current Mode: Kill Heat=当前模式：抹消热量
+Current Mode: Kill Cold=当前模式：抹消寒冷
+Current Mode: Kill Pain=当前模式：抹消痛苦
+Current Mode: Kill Friction=当前模式：抹消摩擦
+Current Mode: Kill Charge=当前模式：抹消电荷
+Current Mode: Kill Bleeding=当前模式：抹消流血
+Current Mode: Kill Everything=当前模式：抹消一切
+No Thumbnail Yet=暂无缩略图
+
