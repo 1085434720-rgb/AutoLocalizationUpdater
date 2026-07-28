@@ -15211,7 +15211,7 @@ FINISH=完成
 <noparse>ZeroOne Core</noparse>=<noparse>ZeroOne核心</noparse>
 It includes the Union and ZeroOne UI libraries, ensures that these libraries load correctly, and minimizes bugs related to their loading.=它包含了Union和ZeroOne UI库，确保这些库正确加载，并最大限度地减少与其加载相关的错误。
 <size%3D1.5em>ZeroOne Core</size>\nIt includes the Union and ZeroOne UI libraries, ensures that these libraries load correctly, and minimizes bugs related to their loading.\n<noparse>A mod by 01 STUDIO for game version 1.28+</noparse>=<size%3D1.5em>ZeroOne核心</size>\n它包含了Union和ZeroOne UI库，确保这些库正确加载，并最大限度地减少与其加载相关的错误。\n<noparse>由 01 STUDIO 制作的模组，适用于游戏版本 1.28+</noparse>
-
+<color%3D#55AAFF><b>01CORE</b></color> <color%3D#55FF55><b>Core Installed Successfully!</b></color>\n\nZeroOne Core has been successfully injected into the game.\nTo ensure all mods work correctly and to prevent crashes, please restart the game.=<color%3D#55AAFF><b>01CORE</b></color> <color%3D#55FF55><b>核心安装成功！</b></color>\n\nZeroOne核心已成功注入游戏。\n为确保所有模组正常工作并防止崩溃，请重启游戏.
 
 
 
