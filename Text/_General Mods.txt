@@ -1,6 +1,5 @@
 //*B站TF_RC汉化
 Automatic localization patch=自动汉化补丁
-<b>TFRC</b>\r\nSaved in version 1.27.12.=<b>TFRC</b>\r\n<color%3Dyellow>史上最帅之人</color>\nSaved in version 1.27.12.
 
 //0*本体汉化补漏
 <color%3D#ccc>Sending request</color>=<color%3D#ccc>正在发送请求</color>
@@ -15348,4 +15347,204 @@ Current Mode: Kill Charge=当前模式：抹消电荷
 Current Mode: Kill Bleeding=当前模式：抹消流血
 Current Mode: Kill Everything=当前模式：抹消一切
 No Thumbnail Yet=暂无缩略图
+
+
+
+
+
+//363*[Atom Projects] 蝙蝠侠模组_[Atom Projects] Batman Mod
+<noparse>[Atom Projects] Batman Mod</noparse>=<noparse>[Atom Projects] 蝙蝠侠模组</noparse>
+This is our Batman Mod.\n it took us a lot of time and dedication, so we really hope u guys enjoy it \nFeel free to join us on discord, we hope u like our mod and thanks to everyone who its supporting us. : D =这是我们制作的蝙蝠侠模组。\n我们投入了大量的时间和心血，所以真心希望你们会喜欢。\n欢迎加入我们的Discord，希望你们喜欢我们的模组，感谢所有支持我们的人。: D
+<size%3D1.5em>[Atom Projects] Batman Mod</size>\nThis is our Batman Mod.\n it took us a lot of time and dedication, so we really hope u guys enjoy it \nFeel free to join us on discord, we hope u like our mod and thanks to everyone who its supporting us. : D \n<noparse>A mod by [Atom Projects] for game version 1.27</noparse>=<size%3D1.5em>[Atom Projects] 蝙蝠侠模组</size>\n这是我们制作的蝙蝠侠模组。\n我们投入了大量的时间和心血，所以真心希望你们会喜欢。\n欢迎加入我们的Discord，希望你们喜欢我们的模组，感谢所有支持我们的人。: D \n<noparse>由 [Atom Projects] 制作的模组，适用于游戏版本 1.27</noparse>
+
+//物品栏
+<b>[Atom Projects] Batman</b>\r\nThe Batman mod made by [ATOM PROJECT]=<b>[Atom Projects] 蝙蝠侠</b>\r\n由 [ATOM PROJECT] 制作的蝙蝠侠模组
+
+
+//物品
+<b>[Atom Projects] Batarang</b>\r\nA steel throwing blade. Sharp enough to lodge into whatever it hits.=<b>[Atom Projects] 蝙蝠镖</b>\r\n一种钢制投掷刃。锋利到足以嵌入任何被击中的物体.
+
+<b>[Atom Projects] REC Gun</b>\r\nFires a charge that electrifies.=<b>[Atom Projects] 遥控电击枪</b>\r\n发射可造成电击的电荷.
+
+<b>[Atom Projects] Explosive Gel</b>\r\nPress J to detonate.=<b>[Atom Projects] 爆炸凝胶</b>\r\n按 J 引爆.
+
+<b>[Atom Projects] Grappling Hook</b>.\r\n=<b>[Atom Projects] 抓钩枪</b>.\r\n
+
+<b>[Atom Projects] Freeze Grenade</b>\r\nActivate it and throw it.=<b>[Atom Projects] 冰冻手雷</b>\r\n激活后投掷.
+
+<b>[Atom Projects] Smoke Bomb</b>\r\nActivate it and drop it.=<b>[Atom Projects] 烟雾弹</b>\r\n激活后投下.
+
+<b>[Atom Projects] Nightwing Sticks</b>.\r\n=<b>[Atom Projects] 夜翼卡里棍</b>.\r\n
+
+<b>[Atom Projects] Robin Staff</b>.\r\n =<b>[Atom Projects] 罗宾长棍</b>.\r\n
+
+<b>[Atom Projects]  Harley's Hammer</b>.\r\n=<b>[Atom Projects] 哈莉的锤子</b>.\r\n
+
+//人物
+<b>[Atom Project's] Batman </b>\r\nAKA The Dark Knight.=<b>[Atom Projects] 蝙蝠侠</b>\r\n又名黑暗骑士。
+
+<b>[Atom Projects]  Robin Dick Grayson</b>\r\nThe first Robin, later to become nightwing.=<b>[Atom Projects] 罗宾·迪克·格雷森</b>\r\n第一代罗宾，后来成为夜翼。
+
+<b>[Atom Projects] Robin Jason Todd</b>\r\nThe second robin, later to become the Red Hood.=<b>[Atom Projects] 罗宾·杰森·托德</b>\r\n第二代罗宾，后来成为红头罩。
+
+<b>[Atom Projects]  Robin Tim Drake</b>\r\nThe third robin, later to become the Red Robin.=<b>[Atom Projects] 罗宾·提姆·德雷克</b>\r\n第三代罗宾，后来成为红罗宾。
+
+<b>[Atom Projects]  Robin Damian Wayne</b>\r\nThe first Robin, later to become nightwing.=<b>[Atom Projects] 罗宾·达米安·韦恩</b>\r\n第一代罗宾，后来成为夜翼。
+
+<b>[Atom Projects]  BatGirl</b>\r\nBarbs.=<b>[Atom Projects] 蝙蝠女</b>\r\n芭布斯。
+
+<b>[Atom Projects] Alfred</b>.\r\n=<b>[Atom Projects] 阿尔弗雷德</b>.\r\n
+
+<b>[Atom Projects] NigtWing</b>\r\nBatman's best friend, and allie.=<b>[Atom Projects] 夜翼</b>\r\n蝙蝠侠最好的朋友和盟友。
+
+<b>[Atom Projects]  Red Hood</b>\r\nThe result of the jokers torture.=<b>[Atom Projects] 红头罩</b>\r\n小丑酷刑的产物。
+
+<b>[Atom Projects]  Red Robin</b>\r\nThe third robin, later to become the Red Robin.=<b>[Atom Projects] 红罗宾</b>\r\n第三代罗宾，后来成为红罗宾。
+
+<b>[Atom Projects] CatWoman</b>.\r\n=<b>[Atom Projects] 猫女</b>.\r\n
+
+<b>[Atom Projects] Bruce Wayne</b>\r\nAKA The Batman.=<b>[Atom Projects] 布鲁斯·韦恩</b>\r\n又名蝙蝠侠。
+
+<b>[Atom Projects] James Gordon</b>\r\nBatman's best friend, and allie.=<b>[Atom Projects] 詹姆斯·戈登</b>\r\n蝙蝠侠最好的朋友和盟友。
+
+<b>[Atom Projects]  Joker</b>\r\nThe Crown Prince Of Crime.=<b>[Atom Projects] 小丑</b>\r\n犯罪王子。
+
+<b>[Atom Projects] Harley</b>\r\nNotorious bank robber.=<b>[Atom Projects] 哈莉</b>\r\n臭名昭著的银行劫匪。
+
+<b>[Atom Projects] Two Face</b>\r\nNotorious bank robber.=<b>[Atom Projects] 双面人</b>\r\n臭名昭著的银行劫匪。
+
+<b>[Atom Projects]  Penguin</b>\r\nThe biggest mob boss in Gotham.=<b>[Atom Projects] 企鹅人</b>\r\n哥谭最大的黑帮头目。
+
+<b>[Atom Projects]  Hush</b>.\r\n=<b>[Atom Projects] 缄默</b>.\r\n
+
+<b>[Atom Projects] Riddler</b>\r\nThe king of Riddles.=<b>[Atom Projects] 谜语人</b>\r\n谜语之王。
+
+<b>[Atom Projects] Mr Freeze</b>\r\nThe Signature Suit for The agent 47.=<b>[Atom Projects] 急冻人</b>\r\n47号特工的标志性套装。
+
+<b>[Atom Projects] DeathStroke</b>.\r\n=<b>[Atom Projects] 丧钟</b>.\r\n
+
+<b>[Atom Projects] BlackMask</b>.\r\n=<b>[Atom Projects] 黑面具</b>.\r\n
+
+<b>[Atom Projects] Hugo Strange</b>.\r\n=<b>[Atom Projects] 雨果·斯特兰奇</b>.\r\n
+
+<b>[Atom Projects] Dr Pig</b>.\r\n=<b>[Atom Projects] 猪面博士</b>.\r\n
+
+<b>[Atom Projects] DeadSHot</b>.\r\n=<b>[Atom Projects] 死亡射手</b>.\r\n
+
+<b>[Atom Projects] Bane</b>\r\nThe strongest batman villian.=<b>[Atom Projects] 贝恩</b>\r\n最强大的蝙蝠侠反派。
+
+<b>[Atom Projects] KillerCrock</b>.\r\n=<b>[Atom Projects] 杀手鳄</b>.\r\n
+
+<b>[Atom Projects] Poison Ivy</b>.\r\n=<b>[Atom Projects] 毒藤女</b>.\r\n
+
+<b>[Atom Projects] Scare Crow</b>\r\nBatman's best friend, and allie.=<b>[Atom Projects] 稻草人</b>\r\n蝙蝠侠最好的朋友和盟友。
+
+<b>[Atom Projects] Victor Zsazs</b>\r\nA physcotic murderer.=<b>[Atom Projects] 维克多·扎斯</b>\r\n一个精神病杀手。
+
+<b>[Atom Projects] Azrael</b>.\r\n=<b>[Atom Projects] 阿兹瑞尔</b>.\r\n
+
+<b>[Atom Projects] Ra's Al Ghul</b>.\r\n=<b>[Atom Projects] 拉斯·艾尔·古尔</b>.\r\n
+
+<b>[Atom Projects]  Killer Moth</b>\r\nAKA The Dark Knight.=<b>[Atom Projects] 杀手蛾</b>\r\n又名黑暗骑士。
+
+<b>[Atom Projects] Falcone</b>\r\nAnother Mob Boss.=<b>[Atom Projects] 法尔科内</b>\r\n另一个黑帮头目。
+
+<b>[Atom Projects] Maroni</b>\r\nAnother Mob Boss.=<b>[Atom Projects] 马罗尼</b>\r\n另一个黑帮头目。
+
+<b>[Atom Projects] Talon</b>\r\nAnother Mob Boss.=<b>[Atom Projects] 利爪</b>\r\n另一个黑帮头目。
+
+<b>[Atom Projects] Court of Owls</b>\r\nYou never know who is under the mask. Random skin every spawn.=<b>[Atom Projects] 猫头鹰法庭</b>\r\n你永远不知道面具下是谁。每次生成随机皮肤。
+
+<b>[Atom Projects] Mafia Goons</b>\r\nRandom skin every spawn.=<b>[Atom Projects] 黑帮打手</b>\r\n每次生成随机皮肤。
+
+<b>[Atom Projects]  Joker Goons</b>\r\nRandom skin every spawn.=<b>[Atom Projects] 小丑打手</b>\r\n每次生成随机皮肤。
+
+<b>[Atom Projects] GCPD</b>\r\nRandom skin every spawn.=<b>[Atom Projects] GCPD（哥谭警局）</b>\r\n每次生成随机皮肤。
+
+<b>[Atom Projects] ninja</b>\r\nYou never know who is under the mask. Random skin every spawn.=<b>[Atom Projects] 忍者</b>\r\n你永远不知道面具下是谁。每次生成随机皮肤。
+
+<b>[Atom Projects] Clayface</b>\r\nTouch someone with his hand, then press F on his chest. Press F again to turn back.=<b>[Atom Projects] 泥面</b>\r\n用手触碰某人来复制形态，然后在胸口按F键. 再次按F键恢复原状.
+
+
+//右键菜单
+Set rope length=设置绳索长度
+Change skin=更换皮肤
+Pick another look=选择另一种外观
+Pick another look.=选择另一种外观.
+Toggle cape=切换斗篷
+Show or hide the cape=显示或隐藏斗篷
+Show or hide the cape.=显示或隐藏斗篷.
+Toggle this character's powers=切换此角色的能力
+Toggle this character's powers.=切换此角色的能力.
+
+//能力
+Enhanced Health=增强生命值
+Metal Body=金属身躯
+Coldproof=耐寒
+Shapeshift=变形
+Fireproof=防火
+Hard Hitter=强力打击者
+
+//皮肤
+APPLY=应用
+Alt Head=备用头部
+Alt Suit=备用战衣
+Arkham City=阿卡姆之城
+batfleck=大本蝙蝠侠
+Black Shirt=黑色衬衫
+Classic=经典
+Classic Blue Suit=经典蓝色战衣
+Cop 1=警察1
+Cop 2=警察2
+Cop 3=警察3
+Cop 4=警察4
+Cop 5=警察5
+Cop 6=警察6
+Damaged Mask=破损面具
+Dark Knight Returns=黑暗骑士归来
+Default=默认
+first appearance=初版造型
+Gang Member 1=帮派成员1
+Gang Member 2=帮派成员2
+Gang Member 3=帮派成员3
+Gang Member 4=帮派成员4
+Gang Member 5=帮派成员5
+Gang Member 6=帮派成员6
+Glasses=眼镜
+Glasses Off=无眼镜
+Hat=帽子
+Jacketless=无夹克
+Mafia Goon 1=黑帮打手1
+Mafia Goon 2=黑帮打手2
+Mafia Goon 3=黑帮打手3
+Mafia Goon 4=黑帮打手4
+Mafia Goon 5=黑帮打手5
+Mafia Goon 6=黑帮打手6
+Mafia Goon 7=黑帮打手7
+Mask=面具
+Maskless=无面具
+Ninja 1=忍者1
+Ninja 2=忍者2
+Ninja 3=忍者3
+Ninja 4=忍者4
+Ninja 5=忍者5
+Ninja 6=忍者6
+No Hat=无帽子
+Owl 1=猫头鹰1
+Owl 2=猫头鹰2
+Owl 3=猫头鹰3
+Owl 4=猫头鹰4
+Owl 5=猫头鹰5
+Owl 6=猫头鹰6
+Reaper Suit Fan Suit=收割者战衣·粉丝同人
+Red Suit=红色战衣
+Shirt=衬衫
+Sixties=60年代版
+The Batman=新蝙蝠侠
+Unmasked=露脸
+Unmasked Alt=露脸备用
+Unwrapped=未包扎
+
+//通知
+Clayface copied a new form=泥面复制了一个新形态.
 
