@@ -95,9 +95,11 @@ LOCK ALL=全部锁定
 <b>Star Prophet, The [Star] Rage conduit <color%3D#f7fffe>[BN]</color></b>\r\n<color%3D#ffC0cb>Charity</color> has dulled their sight, making them blind to the truth. I alone remember what they truly are, and the [Stars] whisper their fury through my hands..."=<b>星辰先知，[星辰]狂怒的引导者 <color%3D#f7fffe>[BN]</color></b>\r\n<color%3D#ffC0cb>慈善</color>蒙蔽了他们的双眼，使他们无法看清真相.唯有我记得他们真正的本质，而[星辰]通过我的双手低语着它们的愤怒...
 
 //小丑一阶段
-r:"Jester[\s\S]*?the voice"=小丑\n这些世界太无聊了. 它们灰暗而充满悲伤，甚至没有一丝[乐趣]的火花. 这就是我在此的原因. 是时候<s>吞噬</s>开始[绝对派对]了！\n\n我仍然能听到…那声音
-r:"Shut'nyara[\s\S]*?the voice"=舒特'尼亚拉\n这些世界太无聊了. 它们灰暗而充满悲伤，甚至没有一丝[乐趣]的火花. 这就是我在此的原因. 是时候<s>吞噬</s>开始[绝对派对]了！\n\n我仍然能听到…那声音
-r:"S'hut'nyara[\s\S]*?the voice"=斯'胡特'尼亚拉\n这些世界太无聊了. 它们灰暗而充满悲伤，甚至没有一丝[乐趣]的火花. 这就是我在此的原因. 是时候<s>吞噬</s>开始[绝对派对]了！\n\n我仍然能听到…那声音
+Jester\r\nThese worlds are so boring. They are gray and full of sadness, they were without even a spark of [fun]. And it is why i am here. It is my time to <s>consume</s>  begin [ABSOLUTE PARTY]! \r\n\r\nI still can hear... the voice=<b>小丑</b>\r\n这些世界太无聊了. 它们灰暗而充满悲伤，连一丝[乐趣]的火花都没有. 这就是我在此的原因. 是时候该我<s>吞噬</s> 开始[绝对狂欢]了！\r\n\r\n我仍能听见……那声音
+
+Shut'nyara\r\nThese worlds are so boring. They are gray and full of sadness, they were without even a spark of [fun]. And it is why i am here. It is my time to <s>consume</s>  begin [ABSOLUTE PARTY]! \r\n\r\nI still can hear... the voice=<b>舒特尼亚拉</b>\r\n这些世界太无聊了. 它们灰暗而充满悲伤，连一丝[乐趣]的火花都没有. 这就是我在此的原因. 是时候该我<s>吞噬</s> 开始[绝对狂欢]了！\r\n\r\n我仍能听见……那声音
+
+S'hut'nyara\r\nThese worlds are so boring. They are gray and full of sadness, they were without even a spark of [fun]. And it is why i am here. It is my time to <s>consume</s>  begin [ABSOLUTE PARTY]! \r\n\r\nI still can hear... the voice=<b>什特尼亚拉</b>\r\n这些世界太无聊了. 它们灰暗而充满悲伤，连一丝[乐趣]的火花都没有. 这就是我在此的原因. 是时候该我<s>吞噬</s> 开始[绝对狂欢]了！\r\n\r\n我仍能听见……那声音
 
 //*小丑二阶段
 Jester\r\nP3rh@ps y0u c0uld h3lp r3st0r3 what was l--l--l0st=小丑\r\n也讠午你Ä以邦芒忙恢<size%3D70%>复</size>那亠止--亠止--失<color%3D#ff0000>去</color>的东⻄...
@@ -143,34 +145,34 @@ Im tired\r\nP3rh@ps y0u c0uld h3lp r3st0r3 what was l--l--l0st=我累了\r\n也�
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\r\nP3rh@ps y0u c0uld h3lp r3st0r3 what was l--l--l0st=啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\r\n也讠午你Ä以邦芒忙恢<size%3D70%>复</size>那亠止--亠止--失<color%3D#ff0000>去</color>的东⻄...
 
 //*小丑三阶段
-<color%3D#ffC0cb>rCyathi</color%3D>=<color%3D#ffC0cb>爱慈济仁惠善恩</color%3D>
-<color%3D#ffC0cb>ityhraC</color%3D>=<color%3D#ffC0cb>恩惠善济仁爱慈</color%3D>
-<color%3D#ffC0cb>atChiyr</color%3D>=<color%3D#ffC0cb>仁惠慈慈善爱恩济</color%3D>
-<color%3D#ffC0cb>itaChyr</color%3D>=<color%3D#ffC0cb>恩仁慈慈善济爱</color%3D>
-<color%3D#ffC0cb>Charity</color%3D>=<color%3D#ffC0cb>慈善仁爱恩惠济</color%3D>
-<color%3D#ffC0cb>ayirCht</color%3D>=<color%3D#ffC0cb>仁济恩慈善惠</color%3D>
-<color%3D#ffC0cb>hiCrtya</color%3D>=<color%3D#ffC0cb>善恩慈善惠济仁</color%3D>
-<color%3D#ffC0cb>hitCyar</color%3D>=<color%3D#ffC0cb>善恩惠慈济仁</color%3D>
-<color%3D#ffC0cb>ithryaC</color%3D>=<color%3D#ffC0cb>恩惠善济仁慈</color%3D>
-<color%3D#ffC0cb>itaChyr</color%3D>=<color%3D#ffC0cb>恩仁慈善济爱</color%3D>
-<color%3D#ffC0cb>aCtihyr</color%3D>=<color%3D#ffC0cb>仁慈善恩惠济</color%3D>
-<color%3D#ffC0cb>ayrhCti</color%3D>=<color%3D#ffC0cb>仁济善慈善惠恩</color%3D>
-<color%3D#ffC0cb>iatyCrh</color%3D>=<color%3D#ffC0cb>恩仁惠济慈善</color%3D>
-<color%3D#ffC0cb>rCyathi</color%3D>=<color%3D#ffC0cb>爱慈济仁惠善恩</color%3D>
-<color%3D#ffC0cb>ityhraC</color%3D>=<color%3D#ffC0cb>恩惠善济仁爱慈</color%3D>
-<color%3D#ffC0cb>atChiyr</color%3D>=<color%3D#ffC0cb>仁惠慈慈善爱恩济</color%3D>
-<color%3D#ffC0cb>tairhyC</color%3D>=<color%3D#ffC0cb>惠仁恩济善爱慈</color%3D>
+<color%3D#ffC0cb>Charity</color>\r\n=<color%3D#ffC0cb>慈善仁爱恩惠济</color>\r\n
+<color%3D#ffC0cb>rCyathi</color>\r\n=<color%3D#ffC0cb>爱慈济仁惠善恩</color>\r\n
+<color%3D#ffC0cb>ityhraC</color>\r\n=<color%3D#ffC0cb>恩惠济善爱仁慈</color>\r\n
+<color%3D#ffC0cb>atChiyr</color>\r\n=<color%3D#ffC0cb>仁惠慈善恩济爱</color>\r\n
+<color%3D#ffC0cb>itaChyr</color>\r\n=<color%3D#ffC0cb>恩惠仁慈善济爱</color>\r\n
+<color%3D#ffC0cb>ayirCht</color>\r\n=<color%3D#ffC0cb>仁济恩爱慈善惠</color>\r\n
+<color%3D#ffC0cb>hiCrtya</color>\r\n=<color%3D#ffC0cb>善恩慈爱惠济仁</color>\r\n
+<color%3D#ffC0cb>hitCyar</color>\r\n=<color%3D#ffC0cb>善恩惠慈济仁爱</color>\r\n
+<color%3D#ffC0cb>ithryaC</color>\r\n=<color%3D#ffC0cb>恩惠善爱济仁慈</color>\r\n
+<color%3D#ffC0cb>itaChyr</color>\r\n=<color%3D#ffC0cb>恩惠仁慈善济爱</color>\r\n
+<color%3D#ffC0cb>aCtihyr</color>\r\n=<color%3D#ffC0cb>仁慈惠恩善济爱</color>\r\n
+<color%3D#ffC0cb>ayrhCti</color>\r\n=<color%3D#ffC0cb>仁济爱善慈惠恩</color>\r\n
+<color%3D#ffC0cb>iatyCrh</color>\r\n=<color%3D#ffC0cb>恩仁惠济慈爱善</color>\r\n
+<color%3D#ffC0cb>rCyathi</color>\r\n=<color%3D#ffC0cb>爱慈济仁惠善恩</color>\r\n
+<color%3D#ffC0cb>ityhraC</color>\r\n=<color%3D#ffC0cb>恩惠济善爱仁慈</color>\r\n
+<color%3D#ffC0cb>atChiyr</color>\r\n=<color%3D#ffC0cb>仁惠慈善恩济爱</color>\r\n
+<color%3D#ffC0cb>tairhyC</color>\r\n=<color%3D#ffC0cb>惠仁恩爱善济慈</color>\r\n
+
+
 
 
 <b>The Nobody [?] <color%3D#f7fffe>[BN]</color></b>\r\n<s>DEEP DREAM?</s> Can't take the power of the local [angel?]. What is that? <s>[DEEP DREAM?]</s>. \n<s><color%3D#2fde2f>\n[Tier 6]</color></s>.=<b>无名者 [?] <color%3D#f7fffe>[BN]</color></b>\r\n<s>深层梦境？</s>无法获取当地[天使？]的力量.那是什么？<s>[深层梦境？]</s>. \r\n<s><color%3D#2fde2f>\n[等级 6]</color></s>.
 
 <b>Adam <color%3D#f7fffe>[BN]</color></b>\r\n[real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real][real]=<b>亚当 <color%3D#f7fffe>[BN]</color></b>\r\n[真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实][真实]
 
-<b>Real Human [1] <color%3D#f7fffe>[BN]</color></b>=<b>真实人类 [1] <color%3D#f7fffe>[BN]</color></b>
-
-<b>Real Human [2] <color%3D#f7fffe>[BN]</color></b>=<b>真实人类 [2] <color%3D#f7fffe>[BN]</color></b>
-
-<b>Real Human [3] <color%3D#f7fffe>[BN]</color></b>=<b>真实人类 [3] <color%3D#f7fffe>[BN]</color></b>
+<b>Real Human [1] <color%3D#f7fffe>[BN]</color></b>.\r\n=<b>真实人类 [1] <color%3D#f7fffe>[BN]</color></b>.\r\n
+<b>Real Human [2] <color%3D#f7fffe>[BN]</color></b>.\r\n=<b>真实人类 [2] <color%3D#f7fffe>[BN]</color></b>.\r\n
+<b>Real Human [3] <color%3D#f7fffe>[BN]</color></b>.\r\n=<b>真实人类 [3] <color%3D#f7fffe>[BN]</color></b>.\r\n
 
 
 //*升级------------------------------------------------------------------------------------------------
