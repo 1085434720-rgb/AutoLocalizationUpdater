@@ -460,6 +460,11 @@ Upgrade Curse Devil Contract.=升级诅咒恶魔契约.
 Toggle Chain Detailed view mode=切换锁链详细视图模式
 Toggle Chain Detailed view mode.=切换锁链详细视图模式.
 
+Change Power weapon=更换能力武器
+Change Power weapon.=更换能力武器.
+Big Hammer=大锤
+Scythe=镰刀
+
 Change Force Shot Power=改变力道射击威力
 Change Force Shot Power.=改变力道射击威力.
 
@@ -493,6 +498,8 @@ Transform to Full Beam Devil Form=转变为毕姆恶魔完全体形态
 Transform to Full Beam Devil Form.=转变为毕姆恶魔完全体形态.
 Revert to Beam human form=恢复为毕姆人类形态
 Revert to Beam human form.=恢复为毕姆人类形态.
+
+
 
 //*对话
 Come out=出来
