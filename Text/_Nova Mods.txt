@@ -2158,31 +2158,31 @@ r:"<b>\[Nova's Invincible Mod\] Debbie Grayson</b>"=<b>[Nova的无敌少侠模�
 
 
 //V2新增注册
-<b>[Nova's Invincible Mod] Kid Thor's Hammer</b>\r\nknocks back enemies with lethal force.=<b>[Nova的无敌少侠模组] 雷神之锤</b>\r\n以致命力量击退敌人。
+<b>[Nova's Invincible Mod] Kid Thor's Hammer</b>\r\nknocks back enemies with lethal force.=<b>[Nova的无敌少侠模组] 雷神之锤</b>\r\n以致命力量击退敌人. 
 
-<b>[Nova's Invincible Mod] Infinity Ray</b>\r\nThe gun used by Space Racer.=<b>[Nova的无敌少侠模组] 无限射线枪</b>\r\n太空赛车手使用的枪。
+<b>[Nova's Invincible Mod] Infinity Ray</b>\r\nThe gun used by Space Racer.=<b>[Nova的无敌少侠模组] 无限射线枪</b>\r\n太空赛车手使用的枪. 
 
-<b>[Nova's Invincible Mod] Argall's Skull</b>\r\nThragg's Teddy Bear.=<b>[Nova的无敌少侠模组] 阿加尔头骨</b>\r\n特雷格的泰迪熊。
+<b>[Nova's Invincible Mod] Argall's Skull</b>\r\nThragg's Teddy Bear.=<b>[Nova的无敌少侠模组] 阿加尔头骨</b>\r\n特雷格的泰迪熊. 
 
-<b>[Nova's Invincible Mod] Rexsplodes Rods</b>\r\nboom.=<b>[Nova的无敌少侠模组] 雷克斯爆炸棒</b>\r\n轰。
+<b>[Nova's Invincible Mod] Rexsplodes Rods</b>\r\nboom.=<b>[Nova的无敌少侠模组] 雷克斯爆炸棒</b>\r\n轰. 
 
-<b>[Nova's Invincible Mod] Sound Emitter</b>\r\nTemporarily removes a Viltrimites's abilities.=<b>[Nova的无敌少侠模组] 声波发射器</b>\r\n暂时消除维特鲁姆人的能力。
+<b>[Nova's Invincible Mod] Sound Emitter</b>\r\nTemporarily removes a Viltrimites's abilities.=<b>[Nova的无敌少侠模组] 声波发射器</b>\r\n暂时消除维特鲁姆人的能力. 
 
-<b>[Nova's Invincible Mod] Magnattacks Projectile</b>\r\nShanky.=<b>[Nova的无敌少侠模组] 磁力攻击弹丸</b>\r\n刺击。
+<b>[Nova's Invincible Mod] Magnattacks Projectile</b>\r\nShanky.=<b>[Nova的无敌少侠模组] 磁力攻击弹丸</b>\r\n刺击. 
 
-<b>[Nova's Invincible Mod] Invincible</b>\r\n"You might as well give up, I'm.. [title card]" \n\n H to Toggle Mask.=<b>[Nova的无敌少侠模组] 无敌少侠</b>\r\n“你还是放弃吧，我是……[标题]”\n\n按H切换面具。
+<b>[Nova's Invincible Mod] Invincible</b>\r\n"You might as well give up, I'm.. [title card]" \n\n H to Toggle Mask.=<b>[Nova的无敌少侠模组] 无敌少侠</b>\r\n“你还是放弃吧，我是……[标题]”\n\n按H切换面具. 
 
-<b>[Nova's Invincible Mod] Omni-Man</b>\r\nWhy did you make me do this? You're fighting so you can watch everyone around you die. Think, Mark! You'll outlast every fragile, insignificant being on this planet. You'll live to see this world crumble to dust and blow away! Everyone and everything you know will be gone! What will you have after five hundred years?=<b>[Nova的无敌少侠模组] 全能人</b>\r\n你为什么要逼我这么做？你战斗是为了看着身边所有人死去。想想吧，马克！你会比这颗星球上每一个脆弱、渺小的生物都活得更久。你会活着看到这个世界化为尘土、被风吹散！你所认识的每一个人、每一件事都会消失！五百年后你还会剩下什么？
+<b>[Nova's Invincible Mod] Omni-Man</b>\r\nWhy did you make me do this? You're fighting so you can watch everyone around you die. Think, Mark! You'll outlast every fragile, insignificant being on this planet. You'll live to see this world crumble to dust and blow away! Everyone and everything you know will be gone! What will you have after five hundred years?=<b>[Nova的无敌少侠模组] 全能人</b>\r\n你为什么要逼我这么做？你战斗是为了看着身边所有人死去. 想想吧，马克！你会比这颗星球上每一个脆弱、渺小的生物都活得更久. 你会活着看到这个世界化为尘土、被风吹散！你所认识的每一个人、每一件事都会消失！五百年后你还会剩下什么？
 
-<b>[Nova's Invincible Mod] Atom Eve</b>\r\nI see it all now. Every single molecule around us. I can touch them, taste them, control them.=<b>[Nova的无敌少侠模组] 原子伊娃</b>\r\n我现在全看清了。我们周围的每一个分子。我能触摸它们、品尝它们、控制它们。
+<b>[Nova's Invincible Mod] Atom Eve</b>\r\nI see it all now. Every single molecule around us. I can touch them, taste them, control them.=<b>[Nova的无敌少侠模组] 原子伊娃</b>\r\n我现在全看清了. 我们周围的每一个分子. 我能触摸它们、品尝它们、控制它们. 
 
-<b>[Nova's Invincible Mod] Rexsplode</b>\r\n"My entire god damn skeleton, dickhead." \n\n H to Toggle Mask.=<b>[Nova的无敌少侠模组] 雷克斯爆炸</b>\r\n“我他妈的整副骨架，混蛋。”\n\n按H切换面具。
+<b>[Nova's Invincible Mod] Rexsplode</b>\r\n"My entire god damn skeleton, dickhead." \n\n H to Toggle Mask.=<b>[Nova的无敌少侠模组] 雷克斯爆炸</b>\r\n“我他妈的整副骨架，混蛋. ”\n\n按H切换面具. 
 
-<b>[Nova's Invincible Mod] Dupli-Kate</b>\r\nI went through worse.=<b>[Nova的无敌少侠模组] 复制凯特</b>\r\n我经历过更糟的。
+<b>[Nova's Invincible Mod] Dupli-Kate</b>\r\nI went through worse.=<b>[Nova的无敌少侠模组] 复制凯特</b>\r\n我经历过更糟的. 
 
-<b>[Nova's Invincible Mod] Robot</b>\r\n"To honor my friend and everything he meant to me, I am changing my name from Rudy to Rex... so that much of him, at least, will survive. I only hope that I can live up to his courage and sacrifice. He will be deeply missed." \n\n H to Toggle Helmet.=<b>[Nova的无敌少侠模组] 机器人</b>\r\n“为了纪念我的朋友以及他对我的一切意义，我将名字从鲁迪改为雷克斯……这样至少他的部分能够留存。我只希望我能不负他的勇气和牺牲。他将被深深怀念。”\n\n按H切换头盔。
+<b>[Nova's Invincible Mod] Robot</b>\r\n"To honor my friend and everything he meant to me, I am changing my name from Rudy to Rex... so that much of him, at least, will survive. I only hope that I can live up to his courage and sacrifice. He will be deeply missed." \n\n H to Toggle Helmet.=<b>[Nova的无敌少侠模组] 机器人</b>\r\n“为了纪念我的朋友以及他对我的一切意义，我将名字从鲁迪改为雷克斯……这样至少他的部分能够留存. 我只希望我能不负他的勇气和牺牲. 他将被深深怀念. ”\n\n按H切换头盔. 
 
-<b>[Nova's Invincible Mod] Armoured Robot</b>\r\n"Its nothing personal, I'm sorry." \n\n H to Toggle Helmet.=<b>[Nova的无敌少侠模组] 装甲机器人</b>\r\n“这不是针对你，抱歉。”\n\n按H切换头盔。
+<b>[Nova's Invincible Mod] Armoured Robot</b>\r\n"Its nothing personal, I'm sorry." \n\n H to Toggle Helmet.=<b>[Nova的无敌少侠模组] 装甲机器人</b>\r\n“这不是针对你，抱歉. ”\n\n按H切换头盔. 
 
 <b>[Nova's Invincible Mod] Oliver Grayson</b>\r\nYou act like you know everything, but do you ever think Dad was right?=<b>[Nova的无敌少侠模组] 奥利弗·格雷森</b>\r\n你表现得好像什么都知道，但你有没有想过爸爸可能是对的？
 
@@ -2192,17 +2192,17 @@ r:"<b>\[Nova's Invincible Mod\] Debbie Grayson</b>"=<b>[Nova的无敌少侠模�
 
 <b>[Nova's Invincible Mod] Allen The Alien</b>\r\nBecause sometimes, to save the entire universe, you have to be Allen The Alien!=<b>[Nova的无敌少侠模组] 艾伦外星人</b>\r\n因为有时候，要拯救整个宇宙，你就得成为艾伦外星人！
 
-<b>[Nova's Invincible Mod] Thaedus</b>\r\n"I was the first to turn my back on our people's cruelty. The first to reject Argall and his rule of strength. And the first to risk everything for my beliefs." \n\n H to Toggle Beard.=<b>[Nova的无敌少侠模组] 赛德斯</b>\r\n“我是第一个背离我们族人暴行的人。第一个拒绝阿加尔及其力量统治的人。也是第一个为信仰赌上一切的人。”\n\n按H切换胡须。
+<b>[Nova's Invincible Mod] Thaedus</b>\r\n"I was the first to turn my back on our people's cruelty. The first to reject Argall and his rule of strength. And the first to risk everything for my beliefs." \n\n H to Toggle Beard.=<b>[Nova的无敌少侠模组] 赛德斯</b>\r\n“我是第一个背离我们族人暴行的人. 第一个拒绝阿加尔及其力量统治的人. 也是第一个为信仰赌上一切的人. ”\n\n按H切换胡须. 
 
-<b>[Nova's Invincible Mod] Battle Beast</b>\r\nDo you know how long I waited for such a worthy challenge. I will savor this. And if this conflict brings about the end of my life, I will savor it all the more.=<b>[Nova的无敌少侠模组] 狂战兽</b>\r\n你知道我为了这样一个有价值的挑战等了多久吗。我会好好品味。如果这场战斗带来我生命的终结，我将更加珍惜。
+<b>[Nova's Invincible Mod] Battle Beast</b>\r\nDo you know how long I waited for such a worthy challenge. I will savor this. And if this conflict brings about the end of my life, I will savor it all the more.=<b>[Nova的无敌少侠模组] 狂战兽</b>\r\n你知道我为了这样一个有价值的挑战等了多久吗. 我会好好品味. 如果这场战斗带来我生命的终结，我将更加珍惜. 
 
-<b>[Nova's Invincible Mod] Rognarr</b>\r\nRAAAHHHgnarr.=<b>[Nova的无敌少侠模组] 罗格纳兽</b>\r\n嗷嗷嗷嗷嗷。
+<b>[Nova's Invincible Mod] Rognarr</b>\r\nRAAAHHHgnarr.=<b>[Nova的无敌少侠模组] 罗格纳兽</b>\r\n嗷嗷嗷嗷嗷. 
 
-<b>[Nova's Invincible Mod] Conquest</b>\r\nI don't even get a real name, only a purpose. I am capable of so much more and no one sees it. Some days I feel so alone I could cry, but I don't. I never do. Because what would be the point? Not a single person in the entire universe would care. Take it to your grave.=<b>[Nova的无敌少侠模组] 征服者</b>\r\n我甚至没有一个真正的名字，只有一个使命。我本可以成就更多，却没人看见。有时我孤独到想哭，但我不哭。我从不哭。因为那有什么意义？全宇宙没有一个人会在意。把这个带进坟墓去吧。
+<b>[Nova's Invincible Mod] Conquest</b>\r\nI don't even get a real name, only a purpose. I am capable of so much more and no one sees it. Some days I feel so alone I could cry, but I don't. I never do. Because what would be the point? Not a single person in the entire universe would care. Take it to your grave.=<b>[Nova的无敌少侠模组] 征服者</b>\r\n我甚至没有一个真正的名字，只有一个使命. 我本可以成就更多，却没人看见. 有时我孤独到想哭，但我不哭. 我从不哭. 因为那有什么意义？全宇宙没有一个人会在意. 把这个带进坟墓去吧. 
 
 <b>[Nova's Invincible Mod] Thragg</b>\r\nI deserve to lead! I'm what our people need! I don't care what is decreed--what your bloodline earns you!=<b>[Nova的无敌少侠模组] 特雷格</b>\r\n我理应领导！我们族人需要的是我！我不在乎什么法令——不在乎你的血统能给你带来什么！
 
-<b>[Nova's Invincible Mod] Anissa</b>\r\nDon't move. I'm stronger than you. I'm faster that you. And you better know I'm smarter than you. So don't move. You so much as touch me and it'll set me off.=<b>[Nova的无敌少侠模组] 安妮莎</b>\r\n别动。我比你强。我比你快。你最好知道我也比你聪明。所以别动。你只要碰我一下，我就会爆发。
+<b>[Nova's Invincible Mod] Anissa</b>\r\nDon't move. I'm stronger than you. I'm faster that you. And you better know I'm smarter than you. So don't move. You so much as touch me and it'll set me off.=<b>[Nova的无敌少侠模组] 安妮莎</b>\r\n别动. 我比你强. 我比你快. 你最好知道我也比你聪明. 所以别动. 你只要碰我一下，我就会爆发. 
 
 <b>[Nova's Invincible Mod] Thula</b>.\r\n=<b>[Nova的无敌少侠模组] 苏拉</b>.\r\n
 
@@ -2216,17 +2216,17 @@ r:"<b>\[Nova's Invincible Mod\] Debbie Grayson</b>"=<b>[Nova的无敌少侠模�
 
 <b>[Nova's Invincible Mod] Ursaal</b>.\r\n=<b>[Nova的无敌少侠模组] 乌尔萨尔</b>.\r\n
 
-<b>[Nova's Invincible Mod] Bulletproof</b>\r\nCome on, man, I know your type. Be better.=<b>[Nova的无敌少侠模组] 防弹侠</b>\r\n拜托，伙计，我了解你这种人。做得更好吧。
+<b>[Nova's Invincible Mod] Bulletproof</b>\r\nCome on, man, I know your type. Be better.=<b>[Nova的无敌少侠模组] 防弹侠</b>\r\n拜托，伙计，我了解你这种人. 做得更好吧. 
 
 <b>[Nova's Invincible Mod] Monster Girl</b>\r\nStill think I'm adorable?=<b>[Nova的无敌少侠模组] 怪物女孩</b>\r\n还觉得我可爱吗？
 
-<b>[Nova's Invincible Mod] Shrinking Ray</b>\r\nhe was only in 37 issues.=<b>[Nova的无敌少侠模组] 收缩射线</b>\r\n他只出场了37期。
+<b>[Nova's Invincible Mod] Shrinking Ray</b>\r\nhe was only in 37 issues.=<b>[Nova的无敌少侠模组] 收缩射线</b>\r\n他只出场了37期. 
 
-<b>[Nova's Invincible Mod] Shrinking Rae</b>\r\n"When my parents discovered I had powers, they went all in on it. Suddenly, instead of soccer in the backyard, I'm learning chokeholds and bomb defusals." \n\n H to Toggle Mask.=<b>[Nova的无敌少侠模组] 收缩雷</b>\r\n“当我父母发现我有超能力时，他们全力投入其中。突然间，我不再在后院踢足球，而是学习锁喉和拆弹。”\n\n按H切换面具。
+<b>[Nova's Invincible Mod] Shrinking Rae</b>\r\n"When my parents discovered I had powers, they went all in on it. Suddenly, instead of soccer in the backyard, I'm learning chokeholds and bomb defusals." \n\n H to Toggle Mask.=<b>[Nova的无敌少侠模组] 收缩雷</b>\r\n“当我父母发现我有超能力时，他们全力投入其中. 突然间，我不再在后院踢足球，而是学习锁喉和拆弹. ”\n\n按H切换面具. 
 
 <b>[Nova's Invincible Mod] Black Samson</b>.\r\n=<b>[Nova的无敌少侠模组] 黑色参孙</b>.\r\n
 
-<b>[Nova's Invincible Mod] Shapesmith</b>\r\nBecause I am a normal, human, superhero.=<b>[Nova的无敌少侠模组] 变形史密斯</b>\r\n因为我是一个普通的、人类的、超级英雄。
+<b>[Nova's Invincible Mod] Shapesmith</b>\r\nBecause I am a normal, human, superhero.=<b>[Nova的无敌少侠模组] 变形史密斯</b>\r\n因为我是一个普通的、人类的、超级英雄. 
 
 <b>[Nova's Invincible Mod] Darkwing II</b>.\r\n=<b>[Nova的无敌少侠模组] 暗夜翼二代</b>.\r\n
 
@@ -2234,25 +2234,25 @@ r:"<b>\[Nova's Invincible Mod\] Debbie Grayson</b>"=<b>[Nova的无敌少侠模�
 
 <b>[Nova's Invincible Mod] Angstrom Levy</b>\r\nGo! Destroy everything in your path! Make them see Invincible! Make them fear Invincible! Make them hate...!=<b>[Nova的无敌少侠模组] 安斯特朗·利维</b>\r\n去吧！摧毁你路上的一切！让他们看到无敌少侠！让他们畏惧无敌少侠！让他们憎恨……！
 
-<b>[Nova's Invincible Mod] Powerplex</b>\r\n"What's wrong with all of you?! He caused this. Every dead body you find is a person he killed. This is all Invincible's fault!" \n\n H to Toggle Mask.=<b>[Nova的无敌少侠模组] 能量plex</b>\r\n“你们都有什么毛病？！是他造成的这一切。你们找到的每一具尸体都是他杀死的人。这都是无敌少侠的错！”\n\n按H切换面具。
+<b>[Nova's Invincible Mod] Powerplex</b>\r\n"What's wrong with all of you?! He caused this. Every dead body you find is a person he killed. This is all Invincible's fault!" \n\n H to Toggle Mask.=<b>[Nova的无敌少侠模组] 能量plex</b>\r\n“你们都有什么毛病？！是他造成的这一切. 你们找到的每一具尸体都是他杀死的人. 这都是无敌少侠的错！”\n\n按H切换面具. 
 
-<b>[Nova's Invincible Mod] Multi-Paul</b>\r\nArguably cooler sibling.=<b>[Nova的无敌少侠模组] 多重保罗</b>\r\n堪称更酷的兄弟姐妹。
+<b>[Nova's Invincible Mod] Multi-Paul</b>\r\nArguably cooler sibling.=<b>[Nova的无敌少侠模组] 多重保罗</b>\r\n堪称更酷的兄弟姐妹. 
 
 <b>[Nova's Invincible Mod] Killcannon</b>.\r\n=<b>[Nova的无敌少侠模组] 杀戮加农</b>.\r\n
 
-<b>[Nova's Invincible Mod] Mauler Twins</b>\r\nI'd say id miss you brother, but i can always make a new one.=<b>[Nova的无敌少侠模组] 莫勒双子</b>\r\n我会说我会想念你兄弟，但我随时可以再做一个。
+<b>[Nova's Invincible Mod] Mauler Twins</b>\r\nI'd say id miss you brother, but i can always make a new one.=<b>[Nova的无敌少侠模组] 莫勒双子</b>\r\n我会说我会想念你兄弟，但我随时可以再做一个. 
 
 <b>[Nova's Invincible Mod] Machine Head</b>.\r\n=<b>[Nova的无敌少侠模组] 机械头</b>.\r\n
 
 <b>[Nova's Invincible Mod] Isotope</b>\r\n""=<b>[Nova的无敌少侠模组] 同位素</b>\r\n“”
 
-<b>[Nova's Invincible Mod] Kursk</b>\r\ni am electric.=<b>[Nova的无敌少侠模组] 库尔斯克</b>\r\n我即是电力。
+<b>[Nova's Invincible Mod] Kursk</b>\r\ni am electric.=<b>[Nova的无敌少侠模组] 库尔斯克</b>\r\n我即是电力. 
 
 <b>[Nova's Invincible Mod] Tether Tyrant</b>.\r\n=<b>[Nova的无敌少侠模组] 束缚暴君</b>.\r\n
 
 <b>[Nova's Invincible Mod] Magmaniac</b>.\r\n=<b>[Nova的无敌少侠模组] 岩浆狂人</b>.\r\n
 
-<b>[Nova's Invincible Mod] Titan</b>\r\nI'm gonna make this city better for a lot of people... but some people come first.=<b>[Nova的无敌少侠模组] 泰坦</b>\r\n我会让这座城市对很多人变得更好……但有些人优先。
+<b>[Nova's Invincible Mod] Titan</b>\r\nI'm gonna make this city better for a lot of people... but some people come first.=<b>[Nova的无敌少侠模组] 泰坦</b>\r\n我会让这座城市对很多人变得更好……但有些人优先. 
 
 <b>[Nova's Invincible Mod] Magnattack</b>.\r\n=<b>[Nova的无敌少侠模组] 磁力攻击</b>.\r\n
 
@@ -2264,13 +2264,13 @@ r:"<b>\[Nova's Invincible Mod\] Debbie Grayson</b>"=<b>[Nova的无敌少侠模�
 
 <b>[Nova's Invincible Mod] Aquarius</b>\r\nFinally, some action!=<b>[Nova的无敌少侠模组] 水瓶座</b>\r\n终于有行动了！
 
-<b>[Nova's Invincible Mod] Green Ghost</b>\r\nOh no.=<b>[Nova的无敌少侠模组] 绿色幽灵</b>\r\n哦不。
+<b>[Nova's Invincible Mod] Green Ghost</b>\r\nOh no.=<b>[Nova的无敌少侠模组] 绿色幽灵</b>\r\n哦不. 
 
 <b>[Nova's Invincible Mod] Red Rush</b>\r\nOlga please, you can't see things how I do, my perception is just as fast as I am, the briefest conversation with anyone seems like hours to me, it's agony!=<b>[Nova的无敌少侠模组] 红色疾速</b>\r\n奥尔加求你了，你无法像我一样看事物，我的感知和我一样快，哪怕是最简短的对话对我来说都像几个小时，那是一种折磨！
 
-<b>[Nova's Invincible Mod] Cecil</b>\r\nWe can be the good guys, or we can be the guys that save the world. We can't be both.=<b>[Nova的无敌少侠模组] 塞西尔</b>\r\n我们可以做好人，也可以做拯救世界的人。我们不能两者兼顾。
+<b>[Nova's Invincible Mod] Cecil</b>\r\nWe can be the good guys, or we can be the guys that save the world. We can't be both.=<b>[Nova的无敌少侠模组] 塞西尔</b>\r\n我们可以做好人，也可以做拯救世界的人. 我们不能两者兼顾. 
 
-<b>[Nova's Invincible Mod] Donald</b>\r\nEach time I died, each time I was put back together, it was because I helped make this world a little better. You did the same when you fought back against Sinclair, when you saved Invincible and William's lives. We're not our bodies. We're the decisions we make, the lives we change, the people we love. Or who love us. I don't need to forget that, and neither do you.=<b>[Nova的无敌少侠模组] 唐纳德</b>\r\n每一次我死去，每一次我被重组，都是因为我帮助让这个世界变得更好了一点。你对抗辛克莱时、你拯救无敌少侠和威廉的生命时，也做了同样的事。我们不是我们的身体。我们是我们的选择、我们改变的生命、我们爱的人，或是爱我们的人。我不需要忘记这些，你也不需要。
+<b>[Nova's Invincible Mod] Donald</b>\r\nEach time I died, each time I was put back together, it was because I helped make this world a little better. You did the same when you fought back against Sinclair, when you saved Invincible and William's lives. We're not our bodies. We're the decisions we make, the lives we change, the people we love. Or who love us. I don't need to forget that, and neither do you.=<b>[Nova的无敌少侠模组] 唐纳德</b>\r\n每一次我死去，每一次我被重组，都是因为我帮助让这个世界变得更好了一点. 你对抗辛克莱时、你拯救无敌少侠和威廉的生命时，也做了同样的事. 我们不是我们的身体. 我们是我们的选择、我们改变的生命、我们爱的人，或是爱我们的人. 我不需要忘记这些，你也不需要. 
 
 <b>[Nova's Invincible Mod] Upgraded Reanimen</b>.\r\n=<b>[Nova的无敌少侠模组] 升级版活死人军团</b>.\r\n
 
@@ -2288,11 +2288,11 @@ r:"<b>\[Nova's Invincible Mod\] Debbie Grayson</b>"=<b>[Nova的无敌少侠模�
 
 <b>[Nova's Invincible Mod] Terra</b>.\r\n=<b>[Nova的无敌少侠模组] 泰拉</b>.\r\n
 
-<b>[Nova's Invincible Mod] Paul</b>\r\ngenuinely goated.=<b>[Nova的无敌少侠模组] 保罗</b>\r\n真正的传奇。
+<b>[Nova's Invincible Mod] Paul</b>\r\ngenuinely goated.=<b>[Nova的无敌少侠模组] 保罗</b>\r\n真正的传奇. 
 
 <b>[Nova's Invincible Mod] William</b>\r\n"Wheres Mark, William?"=<b>[Nova的无敌少侠模组] 威廉</b>\r\n“马克在哪，威廉？”
 
-<b>[Nova's Invincible Mod] Spawn</b>\r\nCrossover character yay.=<b>[Nova的无敌少侠模组] 再生侠</b>\r\n联动角色，耶。
+<b>[Nova's Invincible Mod] Spawn</b>\r\nCrossover character yay.=<b>[Nova的无敌少侠模组] 再生侠</b>\r\n联动角色，耶. 
 
 
 //皮肤
@@ -2412,8 +2412,6 @@ makes the user transform into the something, greatly increasing their strength a
 
 When the head is activated the user will become enveloped in an electrical yellow aura<color%3D\"yellow\">\nThis power also makes the user impervious to electricity, and charges anything touching it.=当头部被激活时，使用者会被包裹在带电的黄色光环中<color%3D\"yellow\">\n该能力也使使用者免疫电流，并为任何触碰它的东西充电</color>
 
-Hold the activation key to make any object in from of the user's arm float\n<color%3D"yellow">This power also charges any object held with telekinesis=按住激活键使使用者手臂前的任何物体漂浮\n<color%3D"yellow">该能力也会为用念力持有的任何物体充电</color>
-
 Activate to fly with lightning bolts. \n<color%3D\"yellow\">Activate to start flying \nActivate again to stop flying=激活以借助闪电飞行. \n<color%3D\"yellow\">激活开始飞行\n再次激活停止飞行</color>
 
 Allows the user to shoot a shockwave out of their arms on impact with any object\n<color%3D\"yellow\">The shockwave will knock back any object in front of the user, and charge them briefly=允许使用者在手臂撞击任何物体时发射冲击波\n<color%3D\"yellow\">冲击波会击退使用者面前的任何物体，并短暂为其充能</color>
@@ -2532,7 +2530,6 @@ Forcefield=力场
 Allows the user to create a forcefield when their upper body is activated=激活上半身时允许使用者创造一个力场
 
 Electric Telekinesis=电念力
-Hold the activation key to make any object in from of the user's arm float\n<color%3D"yellow">This power also charges any object held with telekinesis=按住激活键使使用者手臂前的任何物体漂浮\n<color%3D"yellow">该能力也会为用念力持有的任何物体充电</color>
 
 Telekinesis=念力
 Hold the activation key to make any object in from of the user's arm float\n<color%3D"yellow">This power also suffocates any object held with telekinesis=按住激活键使使用者手臂前的任何物体漂浮\n<color%3D"yellow">该能力也会使念力持有的任何物体窒息</color>
@@ -4151,7 +4148,7 @@ EXPORT SETTINGS=导出设置
 <noparse>Nova's Destructable Tatooine Map</noparse>=<noparse>Nova的可摧毁塔图因地图</noparse>
 Adds a fully destructable tatooine map to people playground, with added easter eggs and settings!=为《People Playground》添加了一张完全可摧毁的塔图因地图，并加入了彩蛋和设置！
 <size%3D1.5em>Nova's Destructable Tatooine Map</size>\nAdds a fully destructable tatooine map to people playground, with added easter eggs and settings!\n<noparse>A mod by Nova Interactive for game version Latest</noparse>=<size%3D1.5em>Nova的可摧毁塔图因地图</size>\n为《People Playground》添加了一张完全可摧毁的塔图因地图，并加入了彩蛋和设置！\n<noparse>由 Nova Interactive 制作的模组，适用于游戏版本 Latest</noparse>
-Welcome to Tatooine!\nThis is a custom map with a day night cycle and destructible terrain. Use the settings in the environment options to customize your experience further. Enjoy!=欢迎来到塔图因！\n这是一张带有昼夜循环和可摧毁地形的自定义地图。使用环境选项中的设置来进一步自定义您的体验。祝您玩得开心！
+Welcome to Tatooine!\nThis is a custom map with a day night cycle and destructible terrain. Use the settings in the environment options to customize your experience further. Enjoy!=欢迎来到塔图因！\n这是一张带有昼夜循环和可摧毁地形的自定义地图. 使用环境选项中的设置来进一步自定义您的体验. 祝您玩得开心！
 Tatooine=塔图因
 Enter Tatooine=进入塔图因
 Time of day=时间
@@ -4205,8 +4202,8 @@ Set the speed of the day night cycle.=设置昼夜循环的速度.
 
 //30*Nova的JOJO的奇妙冒险模组_Nova's Jojo's Bizarre Adventure Mod
 <noparse>Nova's Jojo's Bizarre Adventure Mod</noparse>=<noparse>Nova的JOJO的奇妙冒险模组</noparse>
-Adds many characters and other concepts from the popular anime and manga series JoJo's Bizarre Adventure by Hirohiko Araki to People Playground=为《People Playground》添加了大量来自荒木飞吕彦的人气动漫与漫画系列《JOJO的奇妙冒险》中的角色及其他概念。
-<size%3D1.5em>Nova's Jojo's Bizarre Adventure Mod</size>\nAdds many characters and other concepts from the popular anime and manga series JoJo's Bizarre Adventure by Hirohiko Araki to People Playground\n<noparse>A mod by Nova Interactive + Mega & Env for game version Latest</noparse>=<size%3D1.5em>Nova的JOJO的奇妙冒险模组</size>\n为《People Playground》添加了大量来自荒木飞吕彦的人气动漫与漫画系列《JOJO的奇妙冒险》中的角色及其他概念。\n<noparse>由 Nova Interactive + Mega & Env 制作的模组，适用于游戏版本 Latest</noparse>
+Adds many characters and other concepts from the popular anime and manga series JoJo's Bizarre Adventure by Hirohiko Araki to People Playground=为《People Playground》添加了大量来自荒木飞吕彦的人气动漫与漫画系列《JOJO的奇妙冒险》中的角色及其他概念. 
+<size%3D1.5em>Nova's Jojo's Bizarre Adventure Mod</size>\nAdds many characters and other concepts from the popular anime and manga series JoJo's Bizarre Adventure by Hirohiko Araki to People Playground\n<noparse>A mod by Nova Interactive + Mega & Env for game version Latest</noparse>=<size%3D1.5em>Nova的JOJO的奇妙冒险模组</size>\n为《People Playground》添加了大量来自荒木飞吕彦的人气动漫与漫画系列《JOJO的奇妙冒险》中的角色及其他概念. \n<noparse>由 Nova Interactive + Mega & Env 制作的模组，适用于游戏版本 Latest</noparse>
 
 
 //物品栏
@@ -4217,7 +4214,7 @@ Adds many characters and other concepts from the popular anime and manga series 
 <b>[Nova's JJBA Mod]<color%3D"yellow"> Mod Settings</b>\r\nOpens the settings menu for the mod.=<b>[Nova的JOJO模组]<color%3D"yellow"> 模组设置</b>\r\n打开模组的设置菜单.
 Voicelines=语音台词
 
-Toggles whether voicelines should play for some character abilities or not.=切换是否对某些角色能力播放语音台词。
+Toggles whether voicelines should play for some character abilities or not.=切换是否对某些角色能力播放语音台词. 
 
 Hamon Limits=波纹限制
 
@@ -4229,20 +4226,20 @@ Toggles whether the blood bar should effect a user's vampire abilities or not=�
 
 Stand Range=替身射程
 
-Whether short range stands should be effected by their range or not.=切换近距离替身是否受其射程影响。
+Whether short range stands should be effected by their range or not.=切换近距离替身是否受其射程影响. 
 
 Simplified Timestop=简化时停
 
-When enabled it will remove some features from timestop, like freezing blaster bolts, trails, audio, and particles. This will not effect any physics based interactions during timestop.=启用后将移除时停中的部分效果，如冻结冲击波、轨迹、音频和粒子。这不会影响时停期间任何基于物理的互动。
+When enabled it will remove some features from timestop, like freezing blaster bolts, trails, audio, and particles. This will not effect any physics based interactions during timestop.=启用后将移除时停中的部分效果，如冻结冲击波、轨迹、音频和粒子. 这不会影响时停期间任何基于物理的互动. 
 
 
 //第一部
-<b>JoJo's Bizarre Adventure Part 1</b>\r\nContains characters and items from JJBA Part 1: Phantom Blood.=<b>JOJO的奇妙冒险 第一部</b>\r\n包含来自JOJO第一部《幻影之血》的角色和物品。
-This item belongs to: JoJo's Bizarre Adventure Part 1.=此物品属于：JOJO的奇妙冒险 第一部。
+<b>JoJo's Bizarre Adventure Part 1</b>\r\nContains characters and items from JJBA Part 1: Phantom Blood.=<b>JOJO的奇妙冒险 第一部</b>\r\n包含来自JOJO第一部《幻影之血》的角色和物品. 
+This item belongs to: JoJo's Bizarre Adventure Part 1.=此物品属于：JOJO的奇妙冒险 第一部. 
 
-<b>[Nova's JJBA Mod] Sword of Pluck</b>\r\nThe sword of luck and pluck.=<b>[Nova的JOJO模组] 勇气之剑</b>\r\n运气与勇气的剑。
+<b>[Nova's JJBA Mod] Sword of Pluck</b>\r\nThe sword of luck and pluck.=<b>[Nova的JOJO模组] 勇气之剑</b>\r\n运气与勇气的剑. 
 
-<b>[Nova's JJBA Mod] Stone Mask</b>\r\nGives the wearer the abilities of a vampire.=<b>[Nova的JOJO模组] 石鬼面</b>\r\n赋予佩戴者吸血鬼的能力。
+<b>[Nova's JJBA Mod] Stone Mask</b>\r\nGives the wearer the abilities of a vampire.=<b>[Nova的JOJO模组] 石鬼面</b>\r\n赋予佩戴者吸血鬼的能力. 
 
 <b>[Nova's JJBA Mod] Johnathan Joestar</b>\r\n"Sunlight Yellow Overdrive!"=<b>[Nova的JOJO模组] 乔纳森·乔斯达</b>\r\n“山吹色波纹疾走！”
 
@@ -4260,21 +4257,21 @@ This item belongs to: JoJo's Bizarre Adventure Part 1.=此物品属于：JOJO的
 
 <b>[Nova's JJBA Mod] Tarkus</b>\r\n"I respected that long-haired swordsman Bruford, but it turns out he was just a magician... On the other hand, I am an elite at slaughter! I create death and destruction by force!"=<b>[Nova的JOJO模组] 塔卡斯</b>\r\n“我曾敬重那个长发剑士布拉霍，但他原来只是个戏法师……另一方面，我可是屠杀的精英！我用力量创造死亡与破坏！”
 
-<b>[Nova's JJBA Mod] Bruford</b>\r\n"Heheh... this pain is proof of life. If you feel pain, you can feel joy. That's what humanity means."=<b>[Nova的JOJO模组] 布拉霍</b>\r\n“呵呵……这痛苦就是生命的证明。能感受到痛苦，就能感受到喜悦。这就是为人的意义。”
+<b>[Nova's JJBA Mod] Bruford</b>\r\n"Heheh... this pain is proof of life. If you feel pain, you can feel joy. That's what humanity means."=<b>[Nova的JOJO模组] 布拉霍</b>\r\n“呵呵……这痛苦就是生命的证明. 能感受到痛苦，就能感受到喜悦. 这就是为人的意义. ”
 
-<b>[Nova's JJBA Mod] Wang Chan</b>\r\n"He... won't be caught here... So says his fortune... Not only those three moles on his ear, but the attributes of his face. He is born with impenetrable luck!"=<b>[Nova的JOJO模组] 王青</b>\r\n“他……不会在这里被抓住……这是他的命运所示……不仅是耳朵上的三颗痣，还有他面相的诸多特征。他生来就拥有牢不可破的运气！”
+<b>[Nova's JJBA Mod] Wang Chan</b>\r\n"He... won't be caught here... So says his fortune... Not only those three moles on his ear, but the attributes of his face. He is born with impenetrable luck!"=<b>[Nova的JOJO模组] 王青</b>\r\n“他……不会在这里被抓住……这是他的命运所示……不仅是耳朵上的三颗痣，还有他面相的诸多特征. 他生来就拥有牢不可破的运气！”
 
 <b>[Nova's JJBA Mod] Jack the Ripper</b>\r\n"You are like mice trapped underwater... I will warm my pale flesh with your fresh blood! Prepare to despair, insects!"=<b>[Nova的JOJO模组] 开膛手杰克</b>\r\n“你们就像被困在水下的老鼠……我要用你们的新鲜血液来温暖我这苍白的肉体！准备好绝望吧，虫子们！”
 
 <b>[Nova's JJBA Mod] Erina Pendalton</b>\r\n"I'm happy that the noble Jonathan Joestar is here in my arms!"=<b>[Nova的JOJO模组] 艾莉娜·班德鲁顿</b>\r\n“高贵的乔纳森·乔斯达就在我的怀中，我好幸福！”
 
-<b>[Nova's JJBA Mod] George Joestar</b>\r\n"The name is Joestar. I'd like to repay you for saving my life."=<b>[Nova的JOJO模组] 乔治·乔斯达</b>\r\n“我姓乔斯达。我想报答您的救命之恩。”
+<b>[Nova's JJBA Mod] George Joestar</b>\r\n"The name is Joestar. I'd like to repay you for saving my life."=<b>[Nova的JOJO模组] 乔治·乔斯达</b>\r\n“我姓乔斯达. 我想报答您的救命之恩. ”
 
 
 //第二部
-<b>JoJo's Bizarre Adventure Part 2</b>\r\nContains characters and items from JJBA Part 2: Battle Tendency.=<b>JOJO的奇妙冒险 第二部</b>\r\n包含来自JOJO第二部《战斗潮流》的角色和物品。
+<b>JoJo's Bizarre Adventure Part 2</b>\r\nContains characters and items from JJBA Part 2: Battle Tendency.=<b>JOJO的奇妙冒险 第二部</b>\r\n包含来自JOJO第二部《战斗潮流》的角色和物品. 
 
-This item belongs to: JoJo's Bizarre Adventure Part 2.=此物品属于：JOJO的奇妙冒险 第二部。
+This item belongs to: JoJo's Bizarre Adventure Part 2.=此物品属于：JOJO的奇妙冒险 第二部. 
 
 <b>[Nova's JJBA Mod] Clackers</b>\r\nA toy that consists of two balls on a string that make a clacking sound when swung, strong when imbued with hamon!=<b>[Nova的JOJO模组] 响板</b>\r\n一种由绳子连接两个球体组成的玩具，摆动时会发出咔哒声，注入波纹后威力强大！
 
@@ -4286,9 +4283,9 @@ This item belongs to: JoJo's Bizarre Adventure Part 2.=此物品属于：JOJO的
 
 <b>[Nova's JJBA Mod] Kars</b>\r\n"beep beep vroom vroom"=<b>[Nova的JOJO模组] 卡兹</b>\r\n“哔哔 呜呜”
 
-<b>[Nova's JJBA Mod] Wamuu</b>\r\n"I have no regrets... from the bottom of my heart, I am grateful to have witnessed your growth. Perhaps the reason I wandered through these 12,000 years was just to have met you..."=<b>[Nova的JOJO模组] 瓦姆乌</b>\r\n“我毫无遗憾……发自内心地感激能见证你的成长。或许我流浪这12000年的意义，就是为了与你相遇……”
+<b>[Nova's JJBA Mod] Wamuu</b>\r\n"I have no regrets... from the bottom of my heart, I am grateful to have witnessed your growth. Perhaps the reason I wandered through these 12,000 years was just to have met you..."=<b>[Nova的JOJO模组] 瓦姆乌</b>\r\n“我毫无遗憾……发自内心地感激能见证你的成长. 或许我流浪这12000年的意义，就是为了与你相遇……”
 
-<b>[Nova's JJBA Mod] Esidisi</b>\r\n"Hmm... that gaze of yours, it has become piercing! But men with a look like that in their eyes die quickly when they run into me."=<b>[Nova的JOJO模组] 艾西迪西</b>\r\n“哼……你那眼神，变得锐利了啊！不过，眼中带有那种光芒的男人，遇到我都会死得很快。”
+<b>[Nova's JJBA Mod] Esidisi</b>\r\n"Hmm... that gaze of yours, it has become piercing! But men with a look like that in their eyes die quickly when they run into me."=<b>[Nova的JOJO模组] 艾西迪西</b>\r\n“哼……你那眼神，变得锐利了啊！不过，眼中带有那种光芒的男人，遇到我都会死得很快. ”
 
 <b>[Nova's JJBA Mod] Santana</b>\r\n"Cease this foolishness, primitive..."=<b>[Nova的JOJO模组] 桑塔纳</b>\r\n“停止这愚蠢的行为吧，原始人……”
 
@@ -4298,17 +4295,17 @@ This item belongs to: JoJo's Bizarre Adventure Part 2.=此物品属于：JOJO的
 
 <b>[Nova's JJBA Mod] Smokey Brown</b>\r\n"What kind of guy is this? He does this to the cops and yet he's afraid of some person named Grandma Erina yelling at him?"=<b>[Nova的JOJO模组] 史摩基·布朗</b>\r\n“这家伙到底是什么人啊？对警察都敢那样做，却会怕一个叫艾莉娜奶奶的人骂他？”
 
-<b>[Nova's JJBA Mod] Erina Joestar (Old)</b>\r\n"JoJo! People are free to have their opinions. But I cannot allow him to publicly insult our friend. Take him down, but mind other customers."=<b>[Nova的JOJO模组] 艾莉娜·乔斯达（老年）</b>\r\n“JOJO！人们有发表意见的自由。但我不能允许他公开侮辱我们的朋友。教训他吧，但注意其他客人。”
+<b>[Nova's JJBA Mod] Erina Joestar (Old)</b>\r\n"JoJo! People are free to have their opinions. But I cannot allow him to publicly insult our friend. Take him down, but mind other customers."=<b>[Nova的JOJO模组] 艾莉娜·乔斯达（老年）</b>\r\n“JOJO！人们有发表意见的自由. 但我不能允许他公开侮辱我们的朋友. 教训他吧，但注意其他客人. ”
 
 <b>[Nova's JJBA Mod] Old Robert E. O. Speedwagon</b>\r\n"I'm the meddling Speedwagon!"=<b>[Nova的JOJO模组] 老年罗伯特·E·O·史比特瓦根</b>\r\n“我就是爱管闲事的史比特瓦根！”
 
 
 //第三部
-<b>JoJo's Bizarre Adventure Part 3</b>\r\nContains characters and items from JJBA Part 3: Stardust Crusaders.=<b>JOJO的奇妙冒险 第三部</b>\r\n包含来自JOJO第三部《星尘十字军》的角色和物品。
+<b>JoJo's Bizarre Adventure Part 3</b>\r\nContains characters and items from JJBA Part 3: Stardust Crusaders.=<b>JOJO的奇妙冒险 第三部</b>\r\n包含来自JOJO第三部《星尘十字军》的角色和物品. 
 
-This item belongs to: JoJo's Bizarre Adventure Part 3.=此物品属于：JOJO的奇妙冒险 第三部。
+This item belongs to: JoJo's Bizarre Adventure Part 3.=此物品属于：JOJO的奇妙冒险 第三部. 
 
-<b>[Nova's JJBA Mod] Throwing Knife</b>\r\nknife that you can throw.=<b>[Nova的JOJO模组] 投掷小刀</b>\r\n可以投掷的小刀。
+<b>[Nova's JJBA Mod] Throwing Knife</b>\r\nknife that you can throw.=<b>[Nova的JOJO模组] 投掷小刀</b>\r\n可以投掷的小刀. 
 
 <b>[Nova's JJBA Mod] Jotaro Kujo</b>\r\n"Good Grief..."=<b>[Nova的JOJO模组] 空条承太郎</b>\r\n“真是够了……”
 
@@ -4326,18 +4323,18 @@ This item belongs to: JoJo's Bizarre Adventure Part 3.=此物品属于：JOJO的
 
 
 //第四部
-<b>JoJo's Bizarre Adventure Part 4</b>\r\nContains characters and items from JJBA Part 4: Diamond is Unbreakable.=<b>JOJO的奇妙冒险 第四部</b>\r\n包含来自JOJO第四部《不灭钻石》的角色和物品。
+<b>JoJo's Bizarre Adventure Part 4</b>\r\nContains characters and items from JJBA Part 4: Diamond is Unbreakable.=<b>JOJO的奇妙冒险 第四部</b>\r\n包含来自JOJO第四部《不灭钻石》的角色和物品. 
 
 
 //第五部
-<b>JoJo's Bizarre Adventure Part 5</b>\r\nContains characters and items from JJBA Part 5: Vento Aureo / Golden Wind.=<b>JOJO的奇妙冒险 第五部</b>\r\n包含来自JOJO第五部《黄金之风》的角色和物品。
-This item belongs to: JoJo's Bizarre Adventure Part 5.=此物品属于：JOJO的奇妙冒险 第五部。
+<b>JoJo's Bizarre Adventure Part 5</b>\r\nContains characters and items from JJBA Part 5: Vento Aureo / Golden Wind.=<b>JOJO的奇妙冒险 第五部</b>\r\n包含来自JOJO第五部《黄金之风》的角色和物品. 
+This item belongs to: JoJo's Bizarre Adventure Part 5.=此物品属于：JOJO的奇妙冒险 第五部. 
 
 <b>[Nova's JJBA Mod] Diavolo</b>\r\n"YOU IMPUDENT WRETCH!"=<b>[Nova的JOJO模组] 迪亚波罗</b>\r\n“你这无礼的混蛋！”
 
 
 //第六部
-<b>JoJo's Bizarre Adventure Part 6</b>\r\nContains characters and items from JJBA Part 6: Stone Ocean.=<b>JOJO的奇妙冒险 第六部</b>\r\n包含来自JOJO第六部《石之海》的角色和物品。
+<b>JoJo's Bizarre Adventure Part 6</b>\r\nContains characters and items from JJBA Part 6: Stone Ocean.=<b>JOJO的奇妙冒险 第六部</b>\r\n包含来自JOJO第六部《石之海》的角色和物品. 
 
 
 
@@ -4347,30 +4344,30 @@ This item belongs to: JoJo's Bizarre Adventure Part 5.=此物品属于：JOJO的
 //内部
 <align%3Dcenter>Vampirism</align>=<align%3Dcenter>吸血鬼化</align>
 Vampirism=吸血鬼化
-I state of life form that allows for complete immortality, at the cost of weakness to sunlight and sun energy.\n<color%3D"yellow">Use alternate activation key (typically H) on Arms to enable blood sucking (strike anyone not using a hamon technique with the arm to suck their blood)\nIf a vampire attempts to suck blood from an individual with little to no blood, the individual will become a zombie.\n<color%3D"yellow">Use alternate activation key (typically H) on the Upper Body of the user to enable freeze touch, which will freeze anything that the effected limbs touch.\n<color%3D"yellow">Open ability menus for arms to toggle the Claw ability\n<color%3D"red">If a vampire is attacked with Hamon to their Head, it can cause a fatal attack if the user's blood is low enough, causing the user to desintegrate.=一种生命形态，以对阳光和太阳能量产生弱点为代价，换取完全的不朽。\n<color%3D"yellow">对双臂使用替代激活键（通常为H）以启用吸血（用该手臂攻击任何未使用波纹技巧的人以吸取其血液）\n如果吸血鬼试图从一个几乎没有血液的个体身上吸血，该个体将变成僵尸。\n<color%3D"yellow">对使用者的上半身使用替代激活键（通常为H）以启用冰冻触摸，这将冻结被受影响肢体触碰到的任何物体。\n<color%3D"yellow">打开双臂的能力菜单以切换利爪能力\n<color%3D"red">如果吸血鬼的头部被波纹攻击击中，且使用者的血液量足够低，则可能造成致命一击，导致使用者灰飞烟灭。
+I state of life form that allows for complete immortality, at the cost of weakness to sunlight and sun energy.\n<color%3D"yellow">Use alternate activation key (typically H) on Arms to enable blood sucking (strike anyone not using a hamon technique with the arm to suck their blood)\nIf a vampire attempts to suck blood from an individual with little to no blood, the individual will become a zombie.\n<color%3D"yellow">Use alternate activation key (typically H) on the Upper Body of the user to enable freeze touch, which will freeze anything that the effected limbs touch.\n<color%3D"yellow">Open ability menus for arms to toggle the Claw ability\n<color%3D"red">If a vampire is attacked with Hamon to their Head, it can cause a fatal attack if the user's blood is low enough, causing the user to desintegrate.=一种生命形态，以对阳光和太阳能量产生弱点为代价，换取完全的不朽. \n<color%3D"yellow">对双臂使用替代激活键（通常为H）以启用吸血（用该手臂攻击任何未使用波纹技巧的人以吸取其血液）\n如果吸血鬼试图从一个几乎没有血液的个体身上吸血，该个体将变成僵尸. \n<color%3D"yellow">对使用者的上半身使用替代激活键（通常为H）以启用冰冻触摸，这将冻结被受影响肢体触碰到的任何物体. \n<color%3D"yellow">打开双臂的能力菜单以切换利爪能力\n<color%3D"red">如果吸血鬼的头部被波纹攻击击中，且使用者的血液量足够低，则可能造成致命一击，导致使用者灰飞烟灭. 
 
 <align%3Dcenter>Hamon</align>=<align%3Dcenter>波纹</align>
 Hamon=波纹
-Allows the user to use Hamon, powerful sun energy used for defense and offense.\n<color%3D"yellow">Use alternate activation key (typically H) on feet, and lower arms to charge limbs with hamon, which will charge any object it hits with hamon (also channels to held objects)\nUse alternate activation key (typically H) on the user's Head to enable Hamon Breathing (Heals the user and regens Hamon if the user is healthy enough, otherwise it will drain Hamon to heal the user)\n<color%3D"red">Hamon is one of the only ways to end a vampire or zombie, attacking them with Hamon to their Head can cause a fatal attack if their blood is low enough, causing them to desintegrate.=允许使用者使用波纹，一种强大的太阳能，用于防御和进攻。\n<color%3D"yellow">在双脚和前臂上使用替代激活键（通常为H）为肢体充入波纹，这会使被击中的任何物体充入波纹（也会传导至持有的物体）\n在使用者的头部使用替代激活键（通常为H）以启用波纹呼吸（如果使用者足够健康，会治疗使用者并恢复波纹，否则会消耗波纹来治疗使用者）\n<color%3D"red">波纹是终结吸血鬼或僵尸的少数方法之一，用波纹攻击它们的头部，如果它们的血液量足够低，可能造成致命一击，导致它们灰飞烟灭。
+Allows the user to use Hamon, powerful sun energy used for defense and offense.\n<color%3D"yellow">Use alternate activation key (typically H) on feet, and lower arms to charge limbs with hamon, which will charge any object it hits with hamon (also channels to held objects)\nUse alternate activation key (typically H) on the user's Head to enable Hamon Breathing (Heals the user and regens Hamon if the user is healthy enough, otherwise it will drain Hamon to heal the user)\n<color%3D"red">Hamon is one of the only ways to end a vampire or zombie, attacking them with Hamon to their Head can cause a fatal attack if their blood is low enough, causing them to desintegrate.=允许使用者使用波纹，一种强大的太阳能，用于防御和进攻. \n<color%3D"yellow">在双脚和前臂上使用替代激活键（通常为H）为肢体充入波纹，这会使被击中的任何物体充入波纹（也会传导至持有的物体）\n在使用者的头部使用替代激活键（通常为H）以启用波纹呼吸（如果使用者足够健康，会治疗使用者并恢复波纹，否则会消耗波纹来治疗使用者）\n<color%3D"red">波纹是终结吸血鬼或僵尸的少数方法之一，用波纹攻击它们的头部，如果它们的血液量足够低，可能造成致命一击，导致它们灰飞烟灭. 
 
-A state of life form which grants the user basic immortality, but not completely\n<color%3D"yellow">Use alternate activation key (typically H) on lower arms to use the Claw ability (Toggle in arm ability menus)\n<color%3D"red">If a vampire is attacked with Hamon to their Head, it can cause a fatal attack if the user's blood is low enough, causing the user to desintegrate.=一种生命形态，赋予使用者基本的不朽，但并非完全不朽。\n<color%3D"yellow">在前臂上使用替代激活键（通常为H）以使用利爪能力（在手臂能力菜单中切换）\n<color%3D"red">如果吸血鬼的头部被波纹攻击击中，且使用者的血液量足够低，则可能造成致命一击，导致使用者灰飞烟灭。
+A state of life form which grants the user basic immortality, but not completely\n<color%3D"yellow">Use alternate activation key (typically H) on lower arms to use the Claw ability (Toggle in arm ability menus)\n<color%3D"red">If a vampire is attacked with Hamon to their Head, it can cause a fatal attack if the user's blood is low enough, causing the user to desintegrate.=一种生命形态，赋予使用者基本的不朽，但并非完全不朽. \n<color%3D"yellow">在前臂上使用替代激活键（通常为H）以使用利爪能力（在手臂能力菜单中切换）\n<color%3D"red">如果吸血鬼的头部被波纹攻击击中，且使用者的血液量足够低，则可能造成致命一击，导致使用者灰飞烟灭. 
 
 <align%3Dcenter>Pillar Men</align>=<align%3Dcenter>柱之男</align>
-Life forms which have survived countless centuries on earth.\n<color%3D"yellow">Use alternate activation key (typically H) on head to enable absorption\n<color%3D"red">If a pillar man is attacked with Hamon to their Head, it can cause a fatal attack if the user's blood is low enough, causing the user to desintegrate.=在地球上生存了无数世纪的生命形态。\n<color%3D"yellow">在头部使用备用激活键（通常为H）以启用吸收\n<color%3D"red">如果柱之男的头部被波纹攻击击中，且使用者的血液量足够低，则可能造成致命一击，导致使用者灰飞烟灭。
+Life forms which have survived countless centuries on earth.\n<color%3D"yellow">Use alternate activation key (typically H) on head to enable absorption\n<color%3D"red">If a pillar man is attacked with Hamon to their Head, it can cause a fatal attack if the user's blood is low enough, causing the user to desintegrate.=在地球上生存了无数世纪的生命形态. \n<color%3D"yellow">在头部使用备用激活键（通常为H）以启用吸收\n<color%3D"red">如果柱之男的头部被波纹攻击击中，且使用者的血液量足够低，则可能造成致命一击，导致使用者灰飞烟灭. 
 
 
 
 //头
 <align%3Dcenter>Space Ripper Stingy Eyes</align>=<align%3Dcenter>空间撕裂者·刺眼</align>
 Space Ripper Stingy Eyes=空间撕裂者·刺眼
-A powerful laser beam that can cut through almost anything. Can be toggled on and off with the activation key (typically F). The beam can reflect off of certain surfaces, allowing for creative use in combat and puzzle-solving.=<align%3Dcenter>一种强大的激光束，几乎可以切割任何物体。可以使用激活键（通常为F）开关。光束可以在某些表面反射，从而在战斗和解谜中发挥创意用途。
+A powerful laser beam that can cut through almost anything. Can be toggled on and off with the activation key (typically F). The beam can reflect off of certain surfaces, allowing for creative use in combat and puzzle-solving.=<align%3Dcenter>一种强大的激光束，几乎可以切割任何物体. 可以使用激活键（通常为F）开关. 光束可以在某些表面反射，从而在战斗和解谜中发挥创意用途. 
 
 <align%3Dcenter>Time stop</align>=<align%3Dcenter>时停</align>
 Allows the user to pause time at will=允许使用者随意暂停时间
 
 <align%3Dcenter>Epitaph</align>=<align%3Dcenter>墓志铭</align>
 Epitaph=墓志铭
-Allows the user to view future locations of an object, predicting its trajectory. Disabling this ability will force any objects to move to their predicted location as a form of quick timeskip.=允许使用者查看物体的未来位置，预测其轨迹。禁用此能力将强制任何物体移动到其预测位置，作为一种快速时间跳跃。
+Allows the user to view future locations of an object, predicting its trajectory. Disabling this ability will force any objects to move to their predicted location as a form of quick timeskip.=允许使用者查看物体的未来位置，预测其轨迹. 禁用此能力将强制任何物体移动到其预测位置，作为一种快速时间跳跃. 
 
 
 //身体
@@ -4380,30 +4377,30 @@ Creates a machine gun in the user's chest that does lethal damage!!=在使用者
 <align%3Dcenter>Time Reflex</align>=<align%3Dcenter>时间反射</align>
 Activate the upper body of the target with the alternate activation key (typically H) to activate time reflexes, which will automatically pause time whenever the user=使用备用激活键（通常为H）激活目标的上半身以启用时之反射，\n这将使暂停者恢复时间后, 如果在被暂停者的时间反射范围那么暂停者将被暂停时间
 
-Allows the user to skip a brief moment in time, effectively erasing their actions from the timeline.=允许使用者跳过短暂的时间片段，有效地将他们的行动从时间线上抹除。
+Allows the user to skip a brief moment in time, effectively erasing their actions from the timeline.=允许使用者跳过短暂的时间片段，有效地将他们的行动从时间线上抹除. 
 
 
 //手臂
 <align%3Dcenter>Blood Sucking</align>=<align%3Dcenter>吸血</align>
 Blood Sucking=吸血
-Toggle to enable blood draining on impact. While enabled the arm latches onto targets and siphons blood.\nDisable to retract claws and stop sucking.=切换以在命中时启用吸血。启用时，手臂会锁定目标并吸取血液。\n禁用以收回利爪并停止吸血.
+Toggle to enable blood draining on impact. While enabled the arm latches onto targets and siphons blood.\nDisable to retract claws and stop sucking.=切换以在命中时启用吸血. 启用时，手臂会锁定目标并吸取血液. \n禁用以收回利爪并停止吸血.
 
 <align%3Dcenter>Flame Blast</align>=<align%3Dcenter>火焰爆裂</align>
 Flame Blast=火焰爆裂
 
 <align%3Dcenter>Fire Ball</align>=<align%3Dcenter>火球</align>
 Fire Ball=火球
-A blast of fire that can burn enemies in a wide area.=能够在大范围内烧伤敌人的火焰冲击。
+A blast of fire that can burn enemies in a wide area.=能够在大范围内烧伤敌人的火焰冲击. 
 
 <align%3Dcenter>Hermit Purple Grapple</align>=<align%3Dcenter>隐者之紫·抓取</align>
 Hermit Purple Grapple=隐者之紫·抓取
-Shoots hermit purple out of the user's arm to latch onto targets to grab them.=从使用者手臂射出隐者之紫以抓取目标。
+Shoots hermit purple out of the user's arm to latch onto targets to grab them.=从使用者手臂射出隐者之紫以抓取目标. 
 
 <align%3Dcenter>Hermit Purple Tenticle</align>=<align%3Dcenter>隐者之紫·触手</align>
 Hermit Purple Tenticle=隐者之紫·触手
-Creates a tendril of hermit purple extending from the user's arm=从使用者手臂延伸出隐者之紫的触手。
+Creates a tendril of hermit purple extending from the user's arm=从使用者手臂延伸出隐者之紫的触手. 
 
-Allows the user to impale any victim gruesomly, with a small chance to dismember and or crush the user's abdomine when impaled! Also has a separate move to chop off any limb of the user.=允许使用者残忍地刺穿任何受害者，有一定几率在刺穿时肢解或压碎使用者的腹部！此外还有一个单独的招式可以砍掉使用者的任何肢体。
+Allows the user to impale any victim gruesomly, with a small chance to dismember and or crush the user's abdomine when impaled! Also has a separate move to chop off any limb of the user.=允许使用者残忍地刺穿任何受害者，有一定几率在刺穿时肢解或压碎使用者的腹部！此外还有一个单独的招式可以砍掉使用者的任何肢体. 
 
 
 //皮肤
@@ -4480,3 +4477,90 @@ Untagged=未标记
 useGUILayout=使用GUILayout
 inertia=惯性
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//32*Nova的守望者模组_Nova's Watchmen Mod
+<noparse>Nova's Watchmen Mod</noparse>=<noparse>Nova的守望者模组</noparse>
+Adds The Watchmen to PPG=将守望者添加到PPG中
+<size%3D1.5em>Nova's Watchmen Mod</size>\nAdds The Watchmen to PPG\n<noparse>A mod by Nova Interactive for game version Latest</noparse>=<size%3D1.5em>Nova的守望者模组</size>\n将守望者添加到PPG中\n<noparse>由 Nova Interactive 制作的模组，适用于游戏版本 Latest</noparse>
+
+//物品栏
+<b>Nova's Watchmen Mod</b>\r\nCategory for Nova's Watchmen Mod.=<b>Nova的守望者模组</b>\r\nNova的守望者模组的分类. 
+
+
+//物品
+<b>[Nova's Watchmen Mod]<color%3D"yellow"> Mod Settings</b>\r\nOpens the settings menu for the mod.=<b>[Nova的守望者模组]<color%3D"yellow"> 模组设置</b>\r\n打开模组的设置菜单. 
+
+<b>[Nova's Watchmen Mod] Comedian's Pistols</b>\r\nThe pistols used by The Comedian.=<b>[Nova的守望者模组] 笑匠的手枪</b>\r\n笑匠使用的手枪. 
+
+<b>[Nova's Watchmen Mod] Grappling Gun</b>\r\nRorschach's Grappling Gun.=<b>[Nova的守望者模组] 抓钩枪</b>\r\n罗夏的抓钩枪. 
+
+
+//人物
+<b>[Nova's Watchmen Mod] Dr. Manhattan</b>\r\nThere Is No Future. There Is No Past.=<b>[Nova的守望者模组] 曼哈顿博士</b>\r\n没有未来. 没有过去. 
+
+<b>[Nova's Watchmen Mod] Rorschach</b>\r\nHurm.=<b>[Nova的守望者模组] 罗夏</b>\r\n哼. 
+
+<b>[Nova's Watchmen Mod] Nite Owl II</b>\r\nWhat happened to us? What happened to the American Dream?=<b>[Nova的守望者模组] 夜枭二世</b>\r\n我们发生了什么？美国梦发生了什么？
+
+<b>[Nova's Watchmen Mod] The Comedian</b>\r\nOnce you realize what a joke everything is, being the Comedian is the only thing that makes sense.=<b>[Nova的守望者模组] 笑匠</b>\r\n一旦你意识到一切都是一场笑话，成为笑匠才是唯一有意义的事. 
+
+<b>[Nova's Watchmen Mod] Silk Spectre II</b>\r\nI never wanted to be a hero… it was just something I was expected to be.=<b>[Nova的守望者模组] 丝魂二世</b>\r\n我从没想过要成为英雄……那只是别人期待我成为的样子. 
+
+<b>[Nova's Watchmen Mod] Ozymandias</b>\r\nI did the right thing, didn't I? It all worked out in the end.=<b>[Nova的守望者模组] 法老王</b>\r\n我做了对的事，不是吗？一切最终都得到了解决. 
+
+
+//能力
+Charge Explosion=充能爆炸
+Hold the activation trigger to charge an explosion.\n<color%3D"yellow">Release to unleash a blast that scales with charge time. At full charge, targets are completely disintegrated.=按住激活键以充能爆炸. \n<color%3D"yellow">释放以引发随充能时间增强的爆炸. 完全充能时，目标将被完全瓦解.
+
+Object Modifier=物体修改器
+Aiming the user's arm at any object and activating it will select it for modification.=将使用者的手臂对准任何物体并激活，即可将其选定以进行修改.
+OBJECT MODIFIER=物体修改器
+PROPERTIES=属性
+MASS=质量
+SIZE=大小
+FRICTION=摩擦力
+BOUNCINESS=弹性
+PHYSICAL PROPERTY=物理属性
+AndroidArmour=机器人装甲
+Bottle=瓶子
+BowlingBall=保龄球
+BowlingPin=保龄球瓶
+FlammableMetal=可燃金属
+HollowMetal=空心金属
+Incredible=不可思议
+TemperedGlass=钢化玻璃
+DELETE OBJECT=删除物体
+
+Disintegration=瓦解
+Explodes anything the user points at when activated=激活时，引爆使用者指向的任何物体.
+
+Hold the activation key to make any object in from of the user's arm float\n<color %3D"yellow">This power also suffocates any object held with telekinesis=按住激活键使使用者手臂前的任何物体漂浮\n<color%3D"yellow">该能力也会使念力持有的任何物体窒息
