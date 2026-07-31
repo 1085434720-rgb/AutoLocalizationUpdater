@@ -9486,6 +9486,14 @@ Like This Mod=点赞这个模组
 Click to open the workshop suggestions page.=点击打开创意工坊建议页面.
 This will automatically like the mod — please be aware.=这会自动给模组点赞 — 请注意.
 Close this window and goodbye.=关闭此窗口，再见.
+
+7.31 - What's New=7.31 - 更新内容
+Weapon Customization — right-click firearm -> Object Menu -> "Weapon".=武器自定义 —— 右键枪械 -> 物体菜单 -> “武器”。
+Adjust per-value:\nDamage, Recoil, Impact, Speed, Pen. Angle, Bullets/Shot,\nInaccuracy, Fire Rate, Auto/Semi, Flare Color.\nPen. Resist, Speed Decay, Ricochet, Max Iter, Bullet Drop.=调整各项数值：\n伤害、后坐力、冲击力、速度、穿透角度、每次射击子弹数、\n散布、射速、自动/半自动、枪口火焰颜色。\n穿透抗性、速度衰减、跳弹、最大迭代次数、子弹下坠。
+All changes persist across save / load.=所有更改在保存/加载时都会保留。
+Got it=收到
+Close this window.=关闭窗口.
+
 //生命
 Stats=状态
 Life Menu=<b><i>生命菜单</b></i>
