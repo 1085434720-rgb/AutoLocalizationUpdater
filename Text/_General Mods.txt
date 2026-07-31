@@ -12722,6 +12722,7 @@ Knock Knock. Who's there? Not the Dragon!=咚咚. 谁呀？不是神龙！
 I must agree, activating the Dragon Ball over an over again it's the best feature of this mod!=我必须承认，一遍又一遍地激活龙珠是这个模组最棒的功能！
 Well, this didn't work, maybe another try could solve it?=嗯，这个没成功，也许再试一次能解决？
 What does a Dragon Ball say to the another when activated? It says 'WHERE THE HECK IS THAT DRAGON??'=一颗龙珠被激活时会对另一颗说什么？它会说“那条龙到底在哪？？”
+You've already found all the Dragon Balls!=你已经找到了所有龙珠！
 
 
 //龙珠超
@@ -12798,7 +12799,7 @@ This item belongs to: DBSSH.=此物品属于：龙珠超：超级人造人.
 
 
 
-//218*
+//218*Cam的SCP模组_Cam's SCP Mod
 <noparse>Cam's SCP Mod</noparse>=<noparse>Cam的SCP模组</noparse>
 Adds many scps with different abilities=添加了许多具有不同能力的SCP
 <size%3D1.5em>Cam's SCP Mod</size>\n<align%3D"center"><color%3D#6e747d>Ca<color%3D#a1a9b5>m's <color%3D#c3cbd6>SCP <color%3D#a1a9b5>M<color%3D#6e747d>od<color%3D"white">\r\n\r\nV1.0 beta\r\n\r\nAdds many scps\r\n\r\nWell, not that many yet\r\n=<size%3D1.5em>Cam的SCP模组</size>\n<align%3D"center"><color%3D#6e747d>Ca<color%3D#a1a9b5>m的<color%3D#c3cbd6>SCP<color%3D#a1a9b5>模<color%3D#6e747d>组<color%3D"white">\r\n\r\nV1.0 beta\r\n\r\n添加了许多SCP\r\n\r\n嗯，其实还没有那么多\r\n
@@ -13859,7 +13860,9 @@ Toggle Goggles.=切换护目镜.
 <noparse>Dragonball Impact</noparse>=<noparse>龙珠冲击</noparse>
 Dragonball Impact=龙珠冲击
 <size%3D1.5em>Dragonball Impact</size>\nDragonball Impact\n<noparse>A mod by Impact Studios for game version 1.25+</noparse>=<size%3D1.5em>龙珠冲击</size>\n龙珠冲击\n<noparse>由 Impact Studios 制作的模组，适用于游戏版本 1.25+</noparse>
+
 //物品栏
+<b>Dragonball <color%3Dyellow>Impact<color%3Dwhite></b>.\r\n=<b>龙珠<color%3Dyellow>冲击<color%3Dwhite></b>.\r\n
 <b>[DBPU] Transformation Maker</b>\r\nCreate and edit custom transformations. Pick a character, then a form, then edit sprites and properties with a live preview.=<b>[DBPU] 变身制作器</b>\r\n创建和编辑自定义变身. 选择角色，然后选择形态，再通过实时预览编辑贴图和属性. 
 <b>[DBPU] Skin Maker</b>\r\nCreate and edit custom skin packs. Pick a character, edit limbs by category, auto-generate damage variants, and preview live.=<b>[DBPU] 皮肤制作器</b>\r\n创建和编辑自定义皮肤包. 选择角色，按分类编辑肢体，自动生成损伤变体，并实时预览. 
 
@@ -14144,6 +14147,109 @@ With charge FX on, hold activation on head at full Ki until purple fills. Or sta
 Tune Aura Scale/Pos=调整气场缩放/位置
 Adjust aura scale and vertical position live=实时调整气场缩放和垂直位置
 Adjust aura scale and vertical position live.=实时调整气场缩放和垂直位置. 
+
+
+//模组配置
+Auto Punch/Kick =自动拳击/踢击 
+Tune Character Aura=调整角色气场
+Click a character to tune their aura.=点击角色以调整其气场.
+That character has no aura handler.=该角色没有气场处理器.
+Aura Scale & Position=气场缩放与位置
+Y Offset=Y轴偏移
+Reset Defaults=重置默认值
+Notify Values=通知数值
+r:"Aura Scale%3D([\d.-]+)  Y%3D([\d.-]+)" = "气场缩放：$1  Y：$2"
+Type Scale...=类型缩放...
+Aura Scale=气场缩放
+Type Y Offset...=类型Y轴偏移...
+Aura Y Offset=气场Y轴偏移
+Custom Ki Color=自定义气颜色
+Pick Ki Color=选择气颜色
+Ki Blast Color=气功波颜色
+Pick a ki blast color and press Apply.=选择气功波颜色，然后点击应用。
+Ki Deflect=气弹偏转
+Ki Deflect Options=气弹偏转选项
+Deflect=偏转
+Hybrid Threshold=混合阈值
+Blast Threshold Mul=爆炸阈值倍率
+Beam Threshold Mul=光束阈值倍率
+Catch Then Aim=捕获后瞄准
+Catch Window Seconds=捕获窗口（秒）
+Beam Split=光束分裂
+Split Threshold Mul=分裂阈值倍率
+Split Ray Count=分裂射线数量
+Split Wrap Distance=分裂环绕距离
+Split Forward Length=分裂前向长度
+Ki Charge & Sparking=气充能与爆气
+Split Arc Degrees=分裂弧度角度
+Split VFX Lifetime=分裂特效持续时间
+Quick Transform=快速变身
+Set Ki Drain=设置气消耗
+Set Ki Regen=设置气恢复
+Set Ki Cost Multiplier=设置气消耗倍率
+Set Ki Explosion Size=设置气爆炸大小
+Set Deflect Hybrid Threshold=设置偏转混合阈值
+Set Deflect Blast Threshold=设置偏转爆炸阈值
+Set Deflect Beam Threshold=设置偏转光束阈值
+Set Catch Window (seconds)=设置捕获窗口（秒）
+Beam Split Threshold Mul=光束分裂阈值倍率
+Beam Split Ray Count=光束分裂射线数量
+Beam Split Wrap Distance=光束分裂环绕距离
+Beam Split Forward Length=光束分裂前向长度
+Beam Split Arc Degrees=光束分裂弧度角度
+Beam Split VFX Lifetime=光束分裂特效持续时间
+r:"Ki Charge Hold: (.*)" = "气充能保持：$1"
+r:"Ki Output Cycle: (.*)" = "气输出循环：$1"
+Regen & Aura=恢复与气场
+Debris=碎片
+Sparking & Overload=爆气与过载
+Ki Overdrive (hand)=气超载（手部）
+Charge Transform=充能变身
+Reset Ki Charge Defaults=重置气充能默认值
+Change keybinds in Pause > Controls > Dragonball Impact=在暂停菜单 > 控制设置 > 龙珠冲击 中更改按键绑定。
+Ki Charge: Regen & Aura=气充能：恢复与气场
+Charge Regen / sec=充能恢复 / 秒
+Aura Particle Speed=气场粒子速度
+Ki Charge: Debris=气充能：碎片
+Max Active=最大活跃数量
+Max Session=最大会话数量
+Spawn Interval=生成间隔
+Ring Min=环最小值
+Ring Max=环最大值
+Spawn Y Offset=生成Y轴偏移
+Aura Particle Speed=气场粒子速度
+Ki Charge: Sparking=气充能：爆气
+Sparking=爆气
+Overload Seconds=过载秒数
+Exhaust Seconds=衰竭秒数
+Cooldown Seconds=冷却秒数
+Overcharge Hold Seconds=过载保持秒数
+Overcharge Trigger=过载触发
+Ki Overdrive=气超载
+Overdrive=超载
+r:"Hotkey: (.*)"="热键：$1"
+Max Output % (100-250)=最大输出 %（100-250）
+Seconds Before Exhaust=衰竭前秒数
+Ki Charge: Transform=气充能：变身
+Auto Transform=自动变身
+Auto Transform Seconds / Tier=自动变身秒数 / 等级
+Kaioken Strain=界王拳负荷
+Kaioken Max Multiplier=界王拳最大倍率
+Kaioken Strain Damage=界王拳负荷伤害
+Beam Assist=光束辅助
+Clash Shockwave=冲击波碰撞
+Zenkai Boost=赛亚人提升增幅
+Zenkai Scale=赛亚人提升倍率
+Zenkai Max=赛亚人提升上限
+Set Exponential Growth %=设置指数增长 %
+Glowing Eyes =发光眼睛 
+Glowing Hair =发光头发 
+Glow Brightness=发光亮度
+Change Power Level=更改力量等级
+Reset Character Powers=重置角色能力
+
+
+
 
 
 
