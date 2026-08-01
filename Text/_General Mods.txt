@@ -9488,9 +9488,9 @@ This will automatically like the mod — please be aware.=这会自动给模组�
 Close this window and goodbye.=关闭此窗口，再见.
 
 7.31 - What's New=7.31 - 更新内容
-Weapon Customization — right-click firearm -> Object Menu -> "Weapon".=武器自定义 —— 右键枪械 -> 物体菜单 -> “武器”。
-Adjust per-value:\nDamage, Recoil, Impact, Speed, Pen. Angle, Bullets/Shot,\nInaccuracy, Fire Rate, Auto/Semi, Flare Color.\nPen. Resist, Speed Decay, Ricochet, Max Iter, Bullet Drop.=调整各项数值：\n伤害、后坐力、冲击力、速度、穿透角度、每次射击子弹数、\n散布、射速、自动/半自动、枪口火焰颜色。\n穿透抗性、速度衰减、跳弹、最大迭代次数、子弹下坠。
-All changes persist across save / load.=所有更改在保存/加载时都会保留。
+Weapon Customization — right-click firearm -> Object Menu -> "Weapon".=武器自定义 —— 右键枪械 -> 物体菜单 -> “武器”. 
+Adjust per-value:\nDamage, Recoil, Impact, Speed, Pen. Angle, Bullets/Shot,\nInaccuracy, Fire Rate, Auto/Semi, Flare Color.\nPen. Resist, Speed Decay, Ricochet, Max Iter, Bullet Drop.=调整各项数值：\n伤害、后坐力、冲击力、速度、穿透角度、每次射击子弹数、\n散布、射速、自动/半自动、枪口火焰颜色. \n穿透抗性、速度衰减、跳弹、最大迭代次数、子弹下坠. 
+All changes persist across save / load.=所有更改在保存/加载时都会保留. 
 Got it=收到
 Close this window.=关闭窗口.
 
@@ -9584,31 +9584,31 @@ r:"Pen\. Angle: ([\d.]+)" = "穿透角度：$1"
 Set the penetration random angle multiplier of the cartridge.=设置弹药的穿透随机角度倍率.
 Pen. Resist=穿透抗性
 Pen. Resist: def=穿透抗性：默认
-Override penetration hardness. 0 %3D no resistance, penetrates everything. Higher %3D harder to penetrate.=覆盖穿透硬度。0 %3D 无抗性，可穿透一切。数值越高越难穿透。
+Override penetration hardness. 0 %3D no resistance, penetrates everything. Higher %3D harder to penetrate.=覆盖穿透硬度. 0 %3D 无抗性，可穿透一切. 数值越高越难穿透. 
 Speed Decay: def=速度衰减：默认
-Override bullet speed decay over distance. 1 %3D constant velocity, 0.5 %3D half speed.=覆盖子弹随距离的速度衰减。1 %3D 恒定速度，0.5 %3D 半速。
+Override bullet speed decay over distance. 1 %3D constant velocity, 0.5 %3D half speed.=覆盖子弹随距离的速度衰减. 1 %3D 恒定速度，0.5 %3D 半速. 
 Set Speed Decay=设置速度衰减
 Ricochet: ON=跳弹：开
 Ricochet: OFF=跳弹：关
-Toggle bullet ricochet. OFF %3D bullets never ricochet.=切换子弹跳弹。关 %3D 子弹永不跳弹。
+Toggle bullet ricochet. OFF %3D bullets never ricochet.=切换子弹跳弹. 关 %3D 子弹永不跳弹. 
 r:"Max Iter: ([\d.]+)" = "最大迭代次数：$1"
 Set Max Iterations=设置最大迭代次数
-Set max ballistics iterations (penetration count). Higher %3D more objects penetrated.=设置最大弹道迭代次数（穿透数量）。数值越高，可穿透的物体越多。
+Set max ballistics iterations (penetration count). Higher %3D more objects penetrated.=设置最大弹道迭代次数（穿透数量）. 数值越高，可穿透的物体越多. 
 r:"Bullet Drop: ([\d.]+)" = "子弹下坠：$1"
 Set Bullet Drop=设置子弹下坠
-Set bullet drop multiplier. 0 %3D no gravity drop.=设置子弹下坠倍率。0 %3D 无重力下坠。
+Set bullet drop multiplier. 0 %3D no gravity drop.=设置子弹下坠倍率. 0 %3D 无重力下坠. 
 r:"Bullets/Shot: ([\d.]+)" = "每次射击子弹数：$1"
-Set the number of bullets fired per shot.=设置每次射击发射的子弹数量。
+Set the number of bullets fired per shot.=设置每次射击发射的子弹数量. 
 Set Bullets/Shot=设置每次射击子弹数
 r:"Inaccuracy: ([\d.]+)" = "散布：$1"
-Set the initial inaccuracy of the firearm.=设置武器的初始散布。
+Set the initial inaccuracy of the firearm.=设置武器的初始散布. 
 Set Inaccuracy=设置散布
 Semi=半自动
 Auto=自动
 Toggle between full auto and semi auto fire modes.=在全自动和半自动射击模式之间切换.
 r:"Fire Rate: ([\d.]+)" = "射速：$1"
 Set Flare Color=设置枪口火焰颜色
-Change the muzzle flash color.=更改枪口火焰的颜色。
+Change the muzzle flash color.=更改枪口火焰的颜色. 
 Set New Color=设置新颜色
 Set Recoil=设置后坐力
 Set Impact Force=设置冲击力
@@ -14166,7 +14166,7 @@ Aura Y Offset=气场Y轴偏移
 Custom Ki Color=自定义气颜色
 Pick Ki Color=选择气颜色
 Ki Blast Color=气功波颜色
-Pick a ki blast color and press Apply.=选择气功波颜色，然后点击应用。
+Pick a ki blast color and press Apply.=选择气功波颜色，然后点击应用. 
 Ki Deflect=气弹偏转
 Ki Deflect Options=气弹偏转选项
 Deflect=偏转
@@ -14206,7 +14206,7 @@ Sparking & Overload=爆气与过载
 Ki Overdrive (hand)=气超载（手部）
 Charge Transform=充能变身
 Reset Ki Charge Defaults=重置气充能默认值
-Change keybinds in Pause > Controls > Dragonball Impact=在暂停菜单 > 控制设置 > 龙珠冲击 中更改按键绑定。
+Change keybinds in Pause > Controls > Dragonball Impact=在暂停菜单 > 控制设置 > 龙珠冲击 中更改按键绑定. 
 Ki Charge: Regen & Aura=气充能：恢复与气场
 Charge Regen / sec=充能恢复 / 秒
 Aura Particle Speed=气场粒子速度
@@ -15784,3 +15784,44 @@ A syringe that grants ultra regeneration ability. Heals limbs extremely fast and
 Set regeneration rate.=设置再生速率.
 Regenerate from here=从这里再生
 Regenerate from here.=从这里再生.
+
+
+
+
+
+
+
+
+
+
+//365*
+<noparse>Werewolf Mod</noparse>=<noparse>狼人模组</noparse>
+Werewolf transformation items and cures=狼人变身物品与解药\n为了你, 我变成狼人摸样~
+<size%3D1.5em>Werewolf Mod</size>\nWerewolf transformation items and cures\n<noparse>A mod by ezclan-_- for game version 1.26+</noparse>=<size%3D1.5em>狼人模组</size>\n狼人变身物品与解药\n<noparse>由 ezclan-_- 制作的模组，适用于游戏版本 1.26+</noparse>
+<b>Werewolf Mod</b>\r\nWerewolf transformation items, cures, and weapons.=<b>狼人模组</b>\r\n狼人变身物品、解药和武器. 
+<b>Cure Totem</b>\r\nHold near an infected person and press F, or strike them with it to cure them.=<b>治愈图腾</b>\r\n靠近感染者按住F键，或用其击打感染者以治愈他们. 
+<b>Lycan Totem</b>\r\nRight-click to select form. Hold near a human and press F, or strike them with it to infect them.=<b>狼人图腾</b>\r\n右键选择形态. 靠近人类按住F键，或用其击打人类以感染他们. \n下臂K键攻击, 头部H键咬伤, J键切换形态
+<b>Silver Revolver</b>\r\nClick on the gun with your mouse to fire a silver bullet. Extremely lethal to werewolves.=<b>银制左轮</b>\r\n用鼠标点击枪以发射银制子弹. 对狼人极其致命. 
+Set Form: Normal Wolf=设置形态：普通狼
+Lycan Totem: Set to Normal Wolf=狼人图腾：设置为普通狼
+Set Form: Alpha Wolf=设置形态：阿尔法狼
+Lycan Totem: Set to Alpha Wolf=狼人图腾：设置为阿尔法狼
+Set Form: Blood Moon Wolf=设置形态：血月狼
+Lycan Totem: Set to Blood Moon Wolf=狼人图腾：设置为血月狼
+The victim was bitten... infected with Normal strain.=受害者被咬伤……感染了普通毒株. 
+The victim was bitten... infected with Alpha strain.=受害者被咬伤……感染了阿尔法毒株. 
+The victim was bitten... infected with BloodMoon strain.=受害者被咬伤……感染了血月毒株. 
+Transforms humans into a standard Lycan form=将人类转变为标准狼人形态
+Transforms humans into a standard Lycan form.=将人类转变为标准狼人形态. 
+Transforms humans into a powerful Alpha Lycan form=将人类转变为强大的阿尔法狼人形态
+Transforms humans into a powerful Alpha Lycan form.=将人类转变为强大的阿尔法狼人形态. 
+Transforms humans into an ultimate Blood Moon Lycan form=将人类转变为终极血月狼人形态
+Transforms humans into an ultimate Blood Moon Lycan form.=将人类转变为终极血月狼人形态. 
+A dark energy surges... transforming into a Werewolf!=一股黑暗能量涌起……正在变身为狼人！
+The mystical curse grips the victim's soul!=神秘的诅咒攫住了受害者的灵魂！
+The werewolf curse has been completely cured!=狼人诅咒已被完全治愈！
+Shifting back to human form...=正在变回人类形态……
+Unleashing the beast transformation...=释放野兽变身之力……
+The victim was bitten... the curse takes hold.=受害者被咬伤……诅咒开始生效.
+A fierce claw slash tears through the flesh with absolute precision!=一次凶猛的爪击以绝对精准之势撕裂了血肉！
+
