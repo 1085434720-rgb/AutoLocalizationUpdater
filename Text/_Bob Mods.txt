@@ -118,7 +118,7 @@ all the other viltrumites are scared of me...=其他所有的维特鲁姆人都�
 
 <b>[Bobs Invincible Collection] Thragg</b>\r\nthe strongest.=<b>[Bob的无敌少侠合集] 崔格</b>\r\n最强的.
 
-<b>[Bobs Invincible Collection] Anissa</b>\r\nweaker than omni man but faster (has barrage power)=<b>[Bob的无敌少侠合集] 安妮莎</b>\r\n比全能人弱但更快（有弹幕能力）
+<b>[Bobs Invincible Collection] Anissa</b>\r\nweaker than omni man but faster (has barrage power)=<b>[Bob的无敌少侠合集] 安妮莎</b>\r\n比全能侠弱但更快（有弹幕能力）
 
 <b>[Bobs Invincible Collection] Kregg</b>\r\nthe general ig.=<b>[Bob的无敌少侠合集] 克雷格</b>\r\n大概是将军吧.
 
@@ -126,7 +126,7 @@ all the other viltrumites are scared of me...=其他所有的维特鲁姆人都�
 
 <b>[Bobs Invincible Collection] Lucan</b>\r\ngot the drip in the comics.=<b>[Bob的无敌少侠合集] 卢坎</b>\r\n在漫画里很有派头.
 
-<b>[Bobs Invincible Collection] Young Omni Man</b>\r\nAm I sure?=<b>[Bob的无敌少侠合集] 年轻全能人</b>\r\n我确定吗？
+<b>[Bobs Invincible Collection] Young Omni Man</b>\r\nAm I sure?=<b>[Bob的无敌少侠合集] 年轻全能侠</b>\r\n我确定吗？
 
 <b>[Bobs Invincible Collection] Reanimen V1</b>\r\nbeep boop cyborg thing idk.=<b>[Bob的无敌少侠合集] 再生人 V1</b>\r\n哔哔，机器人什么的，我不确定.
 
@@ -160,11 +160,11 @@ all the other viltrumites are scared of me...=其他所有的维特鲁姆人都�
 
 <b>[Bobs Invincible Collection] Green Ghost</b>\r\nI sure do hope my power can stop a fist going through my face!=<b>[Bob的无敌少侠合集] 绿幽灵</b>\r\n我当然希望我的能力能阻止一只拳头穿过我的脸！
 
-<b>[Bobs Invincible Collection] Immortal</b>\r\nWhere is he! Where is omni man! Where is he! Omni man! You bastard! Murderer! We trusted you! You betrayed us!=<b>[Bob的无敌少侠合集] 永生侠</b>\r\n他在哪里！全能人在哪里！他在哪里！全能人！你这个混蛋！刽子手！我们信任你！你背叛了我们！
+<b>[Bobs Invincible Collection] Immortal</b>\r\nWhere is he! Where is omni man! Where is he! Omni man! You bastard! Murderer! We trusted you! You betrayed us!=<b>[Bob的无敌少侠合集] 永生侠</b>\r\n他在哪里！全能侠在哪里！他在哪里！全能侠！你这个混蛋！刽子手！我们信任你！你背叛了我们！
 
-<b>[Bobs Invincible Collection] Omni Man</b>\r\nAre you sure?=<b>[Bob的无敌少侠合集] 全能人</b>\r\nAre you sure？
+<b>[Bobs Invincible Collection] Omni Man</b>\r\nAre you sure?=<b>[Bob的无敌少侠合集] 全能侠</b>\r\nAre you sure？
 
-<b>[Bobs Invincible Collection] Emperor Omni Man</b>\r\nI am sure.=<b>[Bob的无敌少侠合集] 皇帝全能人</b>\r\n我确定.
+<b>[Bobs Invincible Collection] Emperor Omni Man</b>\r\nI am sure.=<b>[Bob的无敌少侠合集] 皇帝全能侠</b>\r\n我确定.
 
 <b>[Bobs Invincible Collection] Invincible</b>\r\nill still have you ah.=<b>[Bob的无敌少侠合集] 无敌少侠小子</b>\r\n我还是会抓住你的.
 
@@ -206,6 +206,71 @@ all the other viltrumites are scared of me...=其他所有的维特鲁姆人都�
 
 <b>[Bobs Invincible Collection] PPG invincible</b>\r\nshowing off the invincible character maker.=<b>[Bob的无敌少侠合集] PPG 无敌少侠</b>\r\n展示无敌少侠角色制作器.
 
+
+//UP15新增
+<b>[Bobs Invincible Collection] Flaxan Invincible</b>\r\nfreaky.=<b>[Bob的无敌少侠合集] 弗拉克森无敌少侠</b>\r\n怪胎. 
+
+<b>[Bobs Invincible Collection] Purge Conquest</b>\r\nbro stood on business during the viltrumite purge.=<b>[Bob的无敌少侠合集] 清洗征服者</b>\r\nbro在维特鲁姆清洗期间可是认真办事的. 
+
+<b>[Bobs Invincible Collection] Robot</b>\r\nmy plan was not to hurt you yet here we are.=<b>[Bob的无敌少侠合集] 机器人</b>\r\n我的计划本不是伤害你，但事已至此. 
+
+<b>[Bobs Invincible Collection] Rudy</b>\r\nbro is rexplodes skinwalker ah.=<b>[Bob的无敌少侠合集] 鲁迪</b>\r\nbro简直是雷克斯爆炸的皮行者啊. 
+
+<b>[Bobs Invincible Collection] Thaedus</b>\r\nVILTRUMITES, ROLL OUT!=<b>[Bob的无敌少侠合集] 塔迪斯</b>\r\n维特鲁姆人，出发！
+
+<b>[Bobs Invincible Collection] Paul</b>\r\nPAUL THE GOAT, EVEN THRAGG IS TOO SCARED TO FACE HIM AAAAAHAHAHAA.=<b>[Bob的无敌少侠合集] 保罗</b>\r\n保罗是最佳，就连崔格都怕他怕得要命，啊啊啊哈哈哈. 
+
+<b>[Bobs Invincible Collection] Omni Mug</b>\r\nm-mark, turn me over mark.=<b>[Bob的无敌少侠合集] 全能杯</b>\r\n马——马克，把我翻过来，马克. 
+
+<b>[Bobs Invincible Collection] Jake the Demon Lord</b>\r\nbro truly deserves this, actually impressive what he pulled off.=<b>[Bob的无敌少侠合集] 魔王杰克</b>\r\n兄弟确实配得上这个，他做到的事确实令人印象深刻. 
+
+<b>[Bobs Invincible Collection] Jayvincible</b>\r\nlegit such a kind goat, go check out his mods if you can.=<b>[Bob的无敌少侠合集] 杰伊无敌少侠</b>\r\n真是个善良的家伙，如果可以的话去康康他的模组. 
+
+<b>[Bobs Invincible Collection] Inv1ncible</b>\r\ngoofy ah roblox dude smh.=<b>[Bob的无敌少侠合集] 无敌少侠（Roblox版）</b>\r\n沙雕Roblox老哥，摇头. 
+
+<b>[Bobs Invincible Collection] Slyvincible</b>\r\nYIPEE, weeeee. flying sounds!=<b>[Bob的无敌少侠合集] 斯莱无敌少侠</b>\r\n耶比，weeeee——！飞行音效！
+
+<b>[Bobs Invincible Collection] Sopvincible</b>\r\nWILL turn you into a punching bag.=<b>[Bob的无敌少侠合集] 索普无敌少侠</b>\r\n绝对会把你揍成沙包. 
+
+<b>[Bobs Invincible Collection] Exquitor invincible</b>\r\ntuff ah variant, can change goggles with context menu.=<b>[Bob的无敌少侠合集] 处刑者无敌少侠</b>\r\n硬核变体，可通过上下文菜单更换护目镜. 
+
+<b>[Bobs Invincible Collection] Sigmavincible</b>\r\nerm what the sigma.=<b>[Bob的无敌少侠合集] 西格玛无敌少侠</b>\r\n呃，什么西格玛. 
+
+<b>[Bobs Invincible Collection] Tomervincible</b>\r\nbro looking a lil GREEEEEEEEEEEEEN.=<b>[Bob的无敌少侠合集] 托默无敌少侠</b>\r\n兄弟看起来有点绿——. 
+
+<b>[Bobs Invincible Collection] Ollievincible</b>\r\nThey let him bring some of his outfit into prison.=<b>[Bob的无敌少侠合集] 奥利无敌少侠</b>\r\n他们让他带了一些装备进监狱. 
+
+<b>[Bobs Invincible Collection] GDA Mark Training</b>\r\nkinda op?=<b>[Bob的无敌少侠合集] GDA马克训练服</b>\r\n有点OP？
+
+<b>[Bobs Invincible Collection] Omni Gyat</b>\r\nGYAAAAAAAAAAAAAAT DAUUUUUUUM.=<b>[Bob的无敌少侠合集] 全能给</b>\r\n给————————！
+
+<b>[Bobs Invincible Collection] Kindquest</b>\r\nall of the other viltrumites love me...=<b>[Bob的无敌少侠合集] 友善征服</b>\r\n其他所有维特鲁姆人都爱我……
+
+<b>[Bobs Invincible Collection] Prisoner Conquest</b>\r\nunc got caught by the viltrupolice.=<b>[Bob的无敌少侠合集] 囚犯征服者</b>\r\n老哥被维特鲁姆警察抓住了. 
+
+<b>[Bobs Invincible Collection] Viltrumite Debbie</b>\r\neven thragg is scared of her.=<b>[Bob的无敌少侠合集] 维特鲁姆人黛比</b>\r\n就连崔格都怕她. 
+
+<b>[Bobs Invincible Collection] Buff Debbie</b>\r\nshe ATE conquest ah build.=<b>[Bob的无敌少侠合集] 大只佬黛比</b>\r\n她完全碾压征服者的身材啊. 
+
+
+//全能杯台词, (这里有个神奇Bug, 翻译为中文后, 长度变短会导致游戏里句子不正常消失, 所以需要在译文加空格凑数)
+Ahhhhh=啊啊啊啊啊
+Mark its okay=马克，没关系的，没关系的 
+look in my final moments=看看在我的生命最后时刻吧             
+buhhh=呃...         
+in my final moments=在我生命的最后时刻里           
+your gonna be the true heir to the iron throne=你将成为铁王座真正的继承人                                 
+your gonna be the true its gon its gonna be you!=你将会是真正的，那一定会是你的！                                
+your gonna em om thragg not gon have nothing on you!=你……呃，崔格不会拿你怎样的！                                     
+thragg not gonna have nothing on you okay?!!=崔格不会拿你怎样，好吗？！                               
+cecil cecil!! is this gonna work?=塞西尔！塞西尔！！这能行吗？                   
+are you sure im gonna be able to turn good?=你真的确定我能变成好人吗？                              
+I cant wait to surprise mark in the in the in his room!=我已经等不及要去马克房间给他惊喜了！                                     
+im gonna turn human=我要变成人类了            
+im gonna turn gooood!!=我马上就要变成好人了！！          
+and im gonna be recharging right heeeeeeere!!=而且我就要在这里进行充能了！！                              
+
+
 //无敌少侠角色制造器
 What would you like to do?=你想做什么？
 Make a New Character=创建新角色
@@ -238,6 +303,11 @@ Set Constant Energy=设置恒定能量
 auto enable punch and kick power?=自动启用拳击和踢击能力？
 Enables Stone Form=启用石像形态
 Disables Stone Form=禁用石像形态
+beard/no beard=有胡子/无胡子
+beard/no beard.=有胡子/无胡子.
+Robe Torn=破损长袍
+Battle Suit=战斗服
+Change Goggles=切换护目镜
 
 
 //能力菜单
@@ -264,6 +334,7 @@ beard=胡须
 invincible=无敌
 naked=裸体
 prison=监狱
+Enhanced=强化
 
 
 
