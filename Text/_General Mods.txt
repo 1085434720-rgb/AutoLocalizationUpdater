@@ -1425,8 +1425,6 @@ Random Slice=随机斩击
 Fire Punch=火焰拳
 Slice Domain=斩击领域
 Lightning=闪电
-r:"<b><size%3D300%><color%3D[^>]+>S</color><color%3D[^>]+>a</color><color%3D[^>]+>i</color><color%3D[^>]+>t</color><color%3D[^>]+>a</color><color%3D[^>]+>m</color><color%3D[^>]+>a</color></size></b>"=<b><size%3D300%>琦玉</size></b>\r\n\n<size%3D200%>“我只是个为了乐趣而当英雄的家伙”</size>\n\n一个未知的B级英雄
-r:"<b><size%3D300%>(?:<color%3D[^>]+>U</color><color%3D[^>]+>l</color><color%3D[^>]+>t</color><color%3D[^>]+>r</color><color%3D[^>]+>a</color>) <color%3D[^>]+>S</color><color%3D[^>]+>l</color><color%3D[^>]+>i</color><color%3D[^>]+>c</color><color%3D[^>]+>e</color> <color%3D[^>]+>H</color><color%3D[^>]+>u</color><color%3D[^>]+>m</color><color%3D[^>]+>a</color><color%3D[^>]+>n</color></size></b>"=<b><size%3D300%>终极切片人类</size></b>\r\n有趣的测试，来看看吧
 
 
 
@@ -15794,7 +15792,7 @@ Regenerate from here.=从这里再生.
 
 
 
-//365*
+//365*狼人模组_Werewolf Mod
 <noparse>Werewolf Mod</noparse>=<noparse>狼人模组</noparse>
 Werewolf transformation items and cures=狼人变身物品与解药\n为了你, 我变成狼人摸样~
 <size%3D1.5em>Werewolf Mod</size>\nWerewolf transformation items and cures\n<noparse>A mod by ezclan-_- for game version 1.26+</noparse>=<size%3D1.5em>狼人模组</size>\n狼人变身物品与解药\n<noparse>由 ezclan-_- 制作的模组，适用于游戏版本 1.26+</noparse>
