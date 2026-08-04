@@ -144,6 +144,7 @@ Anomaly\r\nP3rh@ps y0u c0uld h3lp r3st0r3 what was l--l--l0st=异常\r\n也讠�
 Im tired\r\nP3rh@ps y0u c0uld h3lp r3st0r3 what was l--l--l0st=我累了\r\n也讠午你Ä以邦芒忙恢<size%3D70%>复</size>那亠止--亠止--失<color%3D#ff0000>去</color>的东⻄...
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\r\nP3rh@ps y0u c0uld h3lp r3st0r3 what was l--l--l0st=啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\r\n也讠午你Ä以邦芒忙恢<size%3D70%>复</size>那亠止--亠止--失<color%3D#ff0000>去</color>的东⻄...
 
+
 //*小丑三阶段
 <color%3D#ffC0cb>Charity</color>\r\n=<color%3D#ffC0cb>慈善仁爱恩惠济</color>\r\n
 <color%3D#ffC0cb>rCyathi</color>\r\n=<color%3D#ffC0cb>爱慈济仁惠善恩</color>\r\n
@@ -280,11 +281,16 @@ Faith=信仰
 Star-Blessing=星辰祝福
 Infection=感染
 Determination=决心
+Determination???=决心???
 Inspiration=灵感
 r:"Insanity\. (\d+)"=疯狂 $1
 r:"Joy\. \(([^/]+)/([^)]+)\)"=乐趣. ($1/$2)
-
-
+WARP=扭曲
+INSANITY=疯狂
+REALITY=现实
+DISTORTION=畸变
+FATE=命运
+JOY=欢愉
 
 
 
@@ -693,11 +699,16 @@ Fly...=飞起来...
 Wake up!=起来！
 Pew=砰
 
-//伽马
+//*伽马
 [ERROR]=[错误]
+[Feel]=[感受]
+[ALIVE]=[活着]
+[Brighter]=[生气勃勃]
+[ADAM]=[亚当]
 
 //*亚当
 I wish I could suffer=但愿我能承受痛苦
+
 
 //*和谐
 [Changed]=[已更改]

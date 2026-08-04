@@ -253,6 +253,8 @@ all the other viltrumites are scared of me...=其他所有的维特鲁姆人都�
 <b>[Bobs Invincible Collection] Buff Debbie</b>\r\nshe ATE conquest ah build.=<b>[Bob的无敌少侠合集] 大只佬黛比</b>\r\n她完全碾压征服者的身材啊. 
 
 
+
+
 //全能杯台词, (这里有个神奇Bug, 翻译为中文后, 长度变短会导致游戏里句子不正常消失, 所以需要在译文加空格凑数)
 Ahhhhh=啊啊啊啊啊
 Mark its okay=马克，没关系的，没关系的 
