@@ -573,9 +573,9 @@ Unique energy system abstract concept\n[-] :=独特的能量系统抽象概念\n
 
 Unique energy system abstract concept\nUnique Passive : This creature have Unique energy pattern, allowing it to break [level] limiter. This creature can't feel pain and lose consciousness.\nExperience received is greatly reduced. Experience can be gained from various actions, such as seeing corpses or interacting with other characters.=独特的能量系统抽象概念\n独特被动：该生物拥有独特的能量模式，使其能够突破[等级]限制器.该生物无法感到疼痛和失去意识.\n获得的经验值大幅减少.经验值可以通过多种行动获得，例如目睹尸体或与其他角色互动.
 
-Changed body and soul structure\nUnique Passive: Allows character to float freely and regenerates damaged limbs by consuming energy. Higher character level reduces energy cost of regeneration. When energy drops too low, the character dies.=改变身体与灵魂结构\n独特被动：允许角色自由漂浮，并通过消耗能量再生受损肢体。更高的角色等级会减少再生的能量消耗。当能量降得太低时，角色会死亡。
+Changed body and soul structure\nUnique Passive: Allows character to float freely and regenerates damaged limbs by consuming energy. Higher character level reduces energy cost of regeneration. When energy drops too low, the character dies.=改变身体与灵魂结构\n独特被动：允许角色自由漂浮，并通过消耗能量再生受损肢体. 更高的角色等级会减少再生的能量消耗. 当能量降得太低时，角色会死亡. 
 
-Anchor\nUnique Passive: Maintains the character's orientation against external forces, preventing unwanted rotation.=锚点\n独特被动：维持角色在外部力作用下的朝向，防止不必要的旋转。
+Anchor\nUnique Passive: Maintains the character's orientation against external forces, preventing unwanted rotation.=锚点\n独特被动：维持角色在外部力作用下的朝向，防止不必要的旋转. 
 
 
 
@@ -682,18 +682,18 @@ Body Recreation: ENABLED=身体重建：启用
 <size%3D150%> Select power in the context menu=<size%3D150%> 在上下文菜单中选择能力
 Change Right Arm Power=更改右臂能力
 Select active right arm power=选择激活的右臂能力
-Select active right arm power.=选择激活的右臂能力。
+Select active right arm power.=选择激活的右臂能力. 
 Outdated Technique\nRemains...=过时技术\n残留……
 Bang!\n...=砰！\n……
-Madness Spheres\nSpawn areas that bends reality inside them.\nEnergy System users are more resilient to this effect=疯狂领域\n生成扭曲其中现实的范围。\n能量体系使用者对这一效果具有更强的抗性。
+Madness Spheres\nSpawn areas that bends reality inside them.\nEnergy System users are more resilient to this effect=疯狂领域\n生成扭曲其中现实的范围. \n能量体系使用者对这一效果具有更强的抗性. 
 None\nDisable all right arm powers=无\n禁用所有右臂能力
 
 Change Gravity Well power=更改重力井能力
-Change Gravity Well power.=更改重力井能力。
+Change Gravity Well power.=更改重力井能力. 
 Enter gravity power amount=输入重力能力数值
 Change Left Arm Power=更改左臂能力
 Select active left arm power=选择激活的左臂能力
-Select active left arm power.=选择激活的左臂能力。
+Select active left arm power.=选择激活的左臂能力. 
 Spotlight[s]?\nShoot multiple laser beams=聚光光束\n发射多道激光束
 Bane\nClick on target to strip them of all [Aspects]\nEnergy System users are more resilient to this effect=贝恩\n点击目标以剥夺其所有[方面]\n能量体系使用者对此效果具有更强的抗性
 Omega Gravity Well\nUse continuously to create gravity well effect in direction of the arm=欧米伽重力井\n持续使用以在手臂方向上产生重力井效果
