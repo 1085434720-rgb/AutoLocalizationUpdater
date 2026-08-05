@@ -1888,14 +1888,27 @@ How many times will physics update in a second. Higher value %3D better accuracy
 
 
 //56*联机模组_PPGT
+<noparse>PPGT: Revived</noparse>=<noparse>PPGT: 复活</noparse>
+<size%3D1.5em>PPGT: Revived</size>\nThis is a fix of Morzzics 'PPGT', which was broken after the virus incident. Link to the Github Release: https:%2F%2Fgithub.com/Crustav0IndexTeam/PPGTRevived/releases\n<noparse>A mod by Morzzic for game version </noparse>=<size%3D1.5em>PPGT: 打赢复活赛</size>\n这是对Morzzic的'PPGT'模组的修复版本，该模组在病毒事件后损坏了. Github发布链接：https:%2F%2Fgithub.com/Crustav0IndexTeam/PPGTRevived/releases\n<noparse>由 Morzzic 制作的模组，适用于游戏版本 </noparse>
 This is a fix of Morzzics 'PPGT', which was broken after the virus incident. Link to the Github Release: https:%2F%2Fgithub.com/Crustav0IndexTeam/PPGTRevived/releases=这是对Morzzics的“PPGT”模组的修复版本，该模组在病毒事件后损坏. GitHub发布页链接：https:%2F%2Fgithub.com/Crustav0IndexTeam/PPGTRevived/releases
 
+//报错提示
 Unfortunately, I made a mistake. The mod has been leaked. This is an unfinished version of the mod with many bugs. You can get a bad game experience. The final version will look different and without critical bugs. I'm reworking the mod, the final version will also include: new user interface, public lobbies, chat, permission system, finished synchronization and rewritten optimized source code. If you don't want to be disappointed, wait for the final version and don't play with this version.=很遗憾，我犯了一个错误. 该模组已经被泄露了. 这是一个未完成的版本，包含许多Bug. 你可能会获得糟糕的游戏体验. 最终版本看起来会有所不同，并且不会有严重的错误. 我正在重做这个模组，最终版本还将包括：新的用户界面、公共大厅、聊天功能、权限系统、完成的同步和重写优化后的源代码. 如果你不想感到失望，请等待最终版本，不要游玩这个版本.
-
 JOIN THE DISCORD SERVER TO FOLLOW THE DEVELOPMENT OF PPGT=加入Discord服务器以关注PPGT的开发进程.
-
 SUPPORT THE DEVELOPMENT ON BOOSTY=在Boosty上支持开发进程. 
 
+Failed to patch!=补丁失败！
+Failed to create a lobby!=创建大厅失败！
+Failed to enter the lobby!=进入大厅失败！
+Failed to load the map!=加载地图失败！
+Not all members are loaded.=并非所有成员都已加载. 
+Deserialisation error! This contraption is incompatible.=反序列化错误！此装置不兼容. 
+This may be a version mismatch or a missing mod.=这可能是因为版本不匹配或模组缺失.
+
+
+
+
+//*主菜单
 INFO=信息
 <b><color%3Dorange>People Playground Together (0.0.7-alpha)\n</color><color%3Dpurple>Made by morzz1c %3D)</color></b>=<b><color%3Dorange>人类游乐场联机 (0.0.7-alpha)\n</color><color%3Dpurple>作者 morzz1c %3D)</color></b>
 
@@ -1912,22 +1925,30 @@ r:"(.*) \(Host\) \(You\)"=$1 (主机) (你)
 
 Invite=邀请
 
-设置
+waiting for host=正在等待主机
+
+//设置
 COPY LOBBY ID=复制大厅ID
-
 Show player cursors?=显示玩家光标？
-
 Can clients spawn objects?=客户端能否生成物体？
-
 Can clients drag objects?=客户端能否拖拽物体？
-
 Can clients switch pause and slowmode?=客户端能否切换暂停和慢动作模式？
-
 Number of object packets per second (position, rotation, etc.)=每秒物体数据包数量（位置、旋转等）
-
 Number of physical properties packets per second (temperature, charge)=每秒物理属性数据包数量（温度、电荷）
-
 Number of entity packets per second (health, consciousness, pain, etc.)=每秒实体数据包数量（生命值、意识、疼痛等）
+
+
+//游戏内
+Loading contraptions...=正在加载装置……
+Waiting for members...=正在等待成员……
+
+Invitation=邀请
+r:"^(.*?) invited you to the lobby\.$" = "$1邀请你加入大厅."
+
+Failed to enter the lobby!=无法进入大厅！
+The map is already running.=地图已在运行中.
+
+
 
 
 
@@ -9381,8 +9402,8 @@ Here you can go to our other sources, as well as join the INT TEAM discord serve
 
 //175*瘦长鬼影_Slenderman
 <noparse>Slenderman [UR]</noparse>=<noparse>瘦长鬼影 [UR]</noparse>
-Always Watching, No Eyes.=始终注视，无眼。
-<size%3D1.5em>Slenderman [UR]</size>\nAlways Watching, No Eyes.\n<noparse>A mod by Uranium Reactor for game version 1.28</noparse>=<size%3D1.5em>瘦长鬼影 [UR]</size>\n特点\r\n\r\n页面系统\r\n8页系统\r\n无限页面模式\r\n动态页面计数器\r\n\r\n触手系统\r\n可配置触手计数\r\n可调触手长度\r\n拉直目标\r\n八种攻击模式：\r\n拉\r\n摆动抛掷\r\n提升下降\r\n发射\r\n大满贯\r\n穿刺\r\n切片\r\n自动\r\n\r\n能力\r\n传送——点击任意位置即可传送。\r\n静电场——伤害实体并与灯光和电子设备相互作用。\r\n绑架系统——接受较弱的实体。下手按J键切换。按下下臂的K键可打开受害者菜单以管理受害者\r\n受害者管理系统\r\n手触须\r\n可配置长度\r\n可配置计数\r\n可配置厚度\r\n目标选择（人员/对象/全部）\r\n八种模式：\r\n扫除\r\n发射\r\n大满贯\r\n穿刺\r\n抓住\r\n切片\r\n罢工\r\n自动\r\n打孔开关（上下文菜单）\r\n锐利之手\r\n近乎刀枪不入\r\n能力管理器（切换单个能力）\r\n\r\n控制\r\n上半身\r\nF - 切换触手\r\nH - 触手模式周期\r\nJ - 打开触手菜单\r\n\r\n首领\r\nF - 传送\r\nH - 切换静电病\r\nJ - 开放细长设置\r\nK - 开放静态强度设置\r\n\r\n上臂\r\nF - 切换手触须\r\nH - 循环手触手模式\r\n\r\n下臂\r\nH - 切换锐手\r\nJ - 切换溯因模式\r\nK - 打开受害者菜单\r\nL - 切换臂伤害（代理武器是H）\r\n\r\n小腿\r\nL - 切换踢\r\n\r\n附加内容\r\n黑领结 纤细的权力给予者\r\n收藏页面\r\n代理（可生成角色）\r\n五种代理皮肤变体\r\n可配置模组设置\r\n保存配置系统\r\n3 隐藏角色（爆炸物、实体）\r\n\r\n游戏玩法\r\n\r\n每一页收集起来的页面都永久强化了瘦长人。\r\n你收集\r\n的页数越多，他就越危险。
+Always Watching, No Eyes.=始终注视，无眼. 
+<size%3D1.5em>Slenderman [UR]</size>\nAlways Watching, No Eyes.\n<noparse>A mod by Uranium Reactor for game version 1.28</noparse>=<size%3D1.5em>瘦长鬼影 [UR]</size>\n特点\r\n\r\n页面系统\r\n8页系统\r\n无限页面模式\r\n动态页面计数器\r\n\r\n触手系统\r\n可配置触手计数\r\n可调触手长度\r\n拉直目标\r\n八种攻击模式：\r\n拉\r\n摆动抛掷\r\n提升下降\r\n发射\r\n大满贯\r\n穿刺\r\n切片\r\n自动\r\n\r\n能力\r\n传送——点击任意位置即可传送. \r\n静电场——伤害实体并与灯光和电子设备相互作用. \r\n绑架系统——接受较弱的实体. 下手按J键切换. 按下下臂的K键可打开受害者菜单以管理受害者\r\n受害者管理系统\r\n手触须\r\n可配置长度\r\n可配置计数\r\n可配置厚度\r\n目标选择（人员/对象/全部）\r\n八种模式：\r\n扫除\r\n发射\r\n大满贯\r\n穿刺\r\n抓住\r\n切片\r\n罢工\r\n自动\r\n打孔开关（上下文菜单）\r\n锐利之手\r\n近乎刀枪不入\r\n能力管理器（切换单个能力）\r\n\r\n控制\r\n上半身\r\nF - 切换触手\r\nH - 触手模式周期\r\nJ - 打开触手菜单\r\n\r\n首领\r\nF - 传送\r\nH - 切换静电病\r\nJ - 开放细长设置\r\nK - 开放静态强度设置\r\n\r\n上臂\r\nF - 切换手触须\r\nH - 循环手触手模式\r\n\r\n下臂\r\nH - 切换锐手\r\nJ - 切换溯因模式\r\nK - 打开受害者菜单\r\nL - 切换臂伤害（代理武器是H）\r\n\r\n小腿\r\nL - 切换踢\r\n\r\n附加内容\r\n黑领结 纤细的权力给予者\r\n收藏页面\r\n代理（可生成角色）\r\n五种代理皮肤变体\r\n可配置模组设置\r\n保存配置系统\r\n3 隐藏角色（爆炸物、实体）\r\n\r\n游戏玩法\r\n\r\n每一页收集起来的页面都永久强化了瘦长人. \r\n你收集\r\n的页数越多，他就越危险. 
 
 {Uranium Reactor Slenderman Mod} EPILEPSY WARNING\n\nThis mod is not intended to be played by photosensitive users.={Uranium Reactor的瘦长鬼影模组} 癫痫警告\n\n本模组不适合光敏感性用户游玩.
 Do not show again=不再显示
@@ -9486,13 +9507,13 @@ Enter page count (1-8):=输入页数（1-8）：
 //*v1.5新增
 
 //物品注册
-<b>Proxy <b><color%3Dpurple>U</color><color%3Dred>R</color></b></b>\r\nSlenderman's workers.=<b>代理人 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></b>\r\n瘦长鬼影的工人。
+<b>Proxy <b><color%3Dpurple>U</color><color%3Dred>R</color></b></b>\r\nSlenderman's workers.=<b>代理人 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></b>\r\n瘦长鬼影的工人. 
 
-<b>Slender Mod Settings</b>\r\nSpawn to open the Slender settings menu.=<b>瘦长鬼影模组设置</b>\r\n生成以打开瘦长鬼影设置菜单。
+<b>Slender Mod Settings</b>\r\nSpawn to open the Slender settings menu.=<b>瘦长鬼影模组设置</b>\r\n生成以打开瘦长鬼影设置菜单. 
 
-<b>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></b>\r\nCollect all eight pages.=<b>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></b>\r\n收集全部八页。
+<b>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></b>\r\nCollect all eight pages.=<b>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></b>\r\n收集全部八页. 
 
-<color%3Dyellow>Proxies</color>\n<size%3D100%>MC Lauren's Childhood friend. Side Antagonist of Slender The Arrival\n<color%3Dgreen>Currently Selected: Kate the Chaser</color></size>.=<color%3Dyellow>代理人</color>\n<size%3D100%>MC Lauren的童年好友。《瘦长鬼影：降临》的次要反派\n<color%3Dgreen>当前选定变体：追逐者凯特</color></size>.
+<color%3Dyellow>Proxies</color>\n<size%3D100%>MC Lauren's Childhood friend. Side Antagonist of Slender The Arrival\n<color%3Dgreen>Currently Selected: Kate the Chaser</color></size>.=<color%3Dyellow>代理人</color>\n<size%3D100%>MC Lauren的童年好友. 《瘦长鬼影：降临》的次要反派\n<color%3Dgreen>当前选定变体：追逐者凯特</color></size>.
 
 <color%3Dyellow>Proxies</color>\n<size%3D100%>Missing Poster Kid from Slender The Arrival\n<color%3Dgreen>Currently Selected: Charlie</color></size>.=<color%3Dyellow>代理人</color>\n<size%3D100%>《瘦长鬼影：降临》中的失踪海报男孩\n<color%3Dgreen>当前选定变体：查理</color></size>.
 
@@ -9512,15 +9533,15 @@ Enter page count (1-8):=输入页数（1-8）：
 
 <color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>probably the most known slenderman iteration\n<color%3Dgreen>Currently Selected: Slenderman - Creepypasta</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>可能是最广为人知的瘦长鬼影版本\n<color%3Dgreen>当前选定变体：瘦长鬼影 - Creepypasta</color></size>.
 
-<color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>"If I look at him he'll take me." - Morley Man from Morley Grove.\n<color%3Dgreen>Currently Selected: Morley Man - Morley Grove</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>“如果我看他，他就会带走我。”——莫利树林的莫利人。\n<color%3Dgreen>当前选定变体：莫利人 - 莫利树林</color></size>.
+<color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>"If I look at him he'll take me." - Morley Man from Morley Grove.\n<color%3Dgreen>Currently Selected: Morley Man - Morley Grove</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>“如果我看他，他就会带走我. ”——莫利树林的莫利人. \n<color%3Dgreen>当前选定变体：莫利人 - 莫利树林</color></size>.
 
-<color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>He gets in your head like a virus.\n<color%3Dgreen>Currently Selected: Slenderman - 2018 Film</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>他像病毒一样侵入你的大脑。\n<color%3Dgreen>当前选定变体：瘦长鬼影 - 2018电影版</color></size>.
+<color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>He gets in your head like a virus.\n<color%3Dgreen>Currently Selected: Slenderman - 2018 Film</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>他像病毒一样侵入你的大脑. \n<color%3Dgreen>当前选定变体：瘦长鬼影 - 2018电影版</color></size>.
 
 <color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>"we didn't want to go, we didn't want to kill them, but its persistent silence and outstretched arms horrified and comforted us at the same time..."\n<color%3Dgreen>Currently Selected: Slenderman - Something Awful</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>“我们不想去，我们不想杀死他们，但它持续的沉默和伸出的双臂同时令我们恐惧和安慰……”\n<color%3Dgreen>当前选定变体：瘦长鬼影 - Something Awful起源</color></size>.
 
 <color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>Kinderfresser\n<color%3Dgreen>Currently Selected: Slender - Slender Rising</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>食童者\n<color%3Dgreen>当前选定变体：瘦长鬼影 - 崛起</color></size>.
 
-<color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>"They found people in the woods. These victims, Their organs were taken out. Put into plastic bags. " - Description on what Slender and his Proxies does.\n<color%3Dgreen>Currently Selected: Slenderman - Proxy BlackboxTV Film</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>“他们在树林里发现了人。这些受害者，他们的器官被取了出来。装进了塑料袋里。”——对瘦长鬼影及其代理人所作所为的描述。\n<color%3Dgreen>当前选定变体：瘦长鬼影 - BlackboxTV代理电影版</color></size>.
+<color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>"They found people in the woods. These victims, Their organs were taken out. Put into plastic bags. " - Description on what Slender and his Proxies does.\n<color%3Dgreen>Currently Selected: Slenderman - Proxy BlackboxTV Film</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>“他们在树林里发现了人. 这些受害者，他们的器官被取了出来. 装进了塑料袋里. ”——对瘦长鬼影及其代理人所作所为的描述. \n<color%3Dgreen>当前选定变体：瘦长鬼影 - BlackboxTV代理电影版</color></size>.
 
 <color%3Dyellow>Slendermen <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>Remodeled Design of Slender from Slender The Arrival\n<color%3Dgreen>Currently Selected: Slender The Arrival Remake</color></size>.=<color%3Dyellow>瘦长鬼影们 <b><color%3Dpurple>U</color><color%3Dred>R</color></b></color>\n<size%3D100%>瘦长鬼影：降临的重制版设计\n<color%3Dgreen>当前选定变体：瘦长鬼影：降临 重制版</color></size>.
 
@@ -9570,15 +9591,15 @@ SLAM=猛击
 IMPALE=穿刺
 SLICE=切割
 AUTO=自动
-DESCRIPTION:\nGRABS TARGETS AND PULLS THEM TOWARDS SLENDER.=描述：\n抓住目标并将其拉向瘦长鬼影。
-DESCRIPTION:\nLIFTS TARGETS AND TOSSES THEM IN A SWING MOTION WITH VARYING POWER.=描述：\n举起目标并以不同的力量以摆动方式投掷它们。
-DESCRIPTION:\nLIFTS TARGETS HIGH INTO THE AIR AND DROPS THEM.=描述：\n将目标高举至空中然后抛落。
-DESCRIPTION:\nVIOLENTLY LAUNCHES TARGETS AWAY WITH A RANDOM IMPULSE.=描述：\n以随机冲力猛烈发射目标。
-DESCRIPTION:\nLIFTS TARGETS AND VIOLENTLY SLAMS THEM INTO THE GROUND.=描述：\n举起目标并猛烈砸向地面。
-DESCRIPTION:\nINFLICTS STAB WOUNDS THAT DEAL CATASTROPHIC DAMAGE TO ALIVE TARGETS.=描述：\n造成刺伤，对活体目标造成灾难性伤害。
-DESCRIPTION:\nSWIFTLY SLICES THROUGH TARGETS, SEVERING LIMBS.=描述：\n迅速切割目标，切断肢体。
-DESCRIPTION:\nRANDOMLY PICKS A TENTACLE MODE AND CYCLES RANDOMLY.=描述：\n随机选择一种触手模式并随机循环切换。
-DESCRIPTION:\nTENTACLES IDLY SWAY AROUND SLENDER.=描述：\n触手在瘦长鬼影周围悠然摆动。
+DESCRIPTION:\nGRABS TARGETS AND PULLS THEM TOWARDS SLENDER.=描述：\n抓住目标并将其拉向瘦长鬼影. 
+DESCRIPTION:\nLIFTS TARGETS AND TOSSES THEM IN A SWING MOTION WITH VARYING POWER.=描述：\n举起目标并以不同的力量以摆动方式投掷它们. 
+DESCRIPTION:\nLIFTS TARGETS HIGH INTO THE AIR AND DROPS THEM.=描述：\n将目标高举至空中然后抛落. 
+DESCRIPTION:\nVIOLENTLY LAUNCHES TARGETS AWAY WITH A RANDOM IMPULSE.=描述：\n以随机冲力猛烈发射目标. 
+DESCRIPTION:\nLIFTS TARGETS AND VIOLENTLY SLAMS THEM INTO THE GROUND.=描述：\n举起目标并猛烈砸向地面. 
+DESCRIPTION:\nINFLICTS STAB WOUNDS THAT DEAL CATASTROPHIC DAMAGE TO ALIVE TARGETS.=描述：\n造成刺伤，对活体目标造成灾难性伤害. 
+DESCRIPTION:\nSWIFTLY SLICES THROUGH TARGETS, SEVERING LIMBS.=描述：\n迅速切割目标，切断肢体. 
+DESCRIPTION:\nRANDOMLY PICKS A TENTACLE MODE AND CYCLES RANDOMLY.=描述：\n随机选择一种触手模式并随机循环切换. 
+DESCRIPTION:\nTENTACLES IDLY SWAY AROUND SLENDER.=描述：\n触手在瘦长鬼影周围悠然摆动. 
 OPEN ALL TENTACLE MODES MENU=打开所有触手模式菜单
 ALL TENTACLE MODES=所有触手模式
 sr:"^SELECTED: (.*?)$" = "已选：$1"
@@ -9633,7 +9654,7 @@ Weiner Shooter:=热狗发射器：
 Set Explosion Radius=设置爆炸半径
 Set Force Multiplier=设置力度倍率
 <b>Projectile Speed Multiplier</b>=<b>弹丸速度倍率</b>
-<b>Explosion Radius</b>\n(Not a multiplier. Default 25)=<b>爆炸半径</b>\n（非倍率。默认25）
+<b>Explosion Radius</b>\n(Not a multiplier. Default 25)=<b>爆炸半径</b>\n（非倍率. 默认25）
 <b>Force Multiplier</b>=<b>力度倍率</b>
 sr:"^Tendril Arms mode: (.*?)$" = "卷须手臂模式：$1"
 Sweep=横扫
@@ -16033,9 +16054,9 @@ A fierce claw slash tears through the flesh with absolute precision!=一次凶�
 //366*背面肢体更暗_Back Limbs Are Darker
 
 <noparse>Back Limbs Are Darker</noparse>=<noparse>背面肢体更暗</noparse>
-Makes Back Limbs Darker.=使背面肢体更暗。
+Makes Back Limbs Darker.=使背面肢体更暗. 
 
-<size%3D1.5em>Back Limbs Are Darker</size>\n<size%3D140%><color%3D#FFD700><b>Back Limbs Are <color%3D#000000>Darker</color> (BARD)</b></color></size>\r\n\r\n<color%3D#DCDCDC>Back Limbs Are <color%3D#000000>Darker</color> (BARD) enhances the appearance of characters by making their back-facing limbs slightly darker, creating a sense of depth and improving the visual style.</color>\r\n\r\n<color%3D#00E5FF><b>Back Limb Darkness Settings Controller</b></color>\r\n\r\nSpawn the <color%3D#7CFF00><b>Settings Controller</b></color> from the <color%3D#FFA726><b>Entities</b></color> category to customize the mod.\r\n\r\n<color%3D#FF5252><b>Features</b></color>\r\n\r\n\r\n• <color%3D#FFB300><b>Adjust Darkness Level</b></color> to achieve the perfect amount of shading.\r\n\r\n\r\n\r\n• <color%3D#40C4FF><b>Simple & Lightweight</b></color> with no impact on gameplay.\r\n\r\n————————————————————————————\r\n\r\n<color%3D#FFD700><b>Support My Work</b></color>\r\n\r\n<u>Patreon:</u> <color%3D#FF6E40>patreon.com/c/uranium255</color>\r\n\r\n<u>Ko-fi:</u> <color%3D#29B6F6>ko-fi.com/uraniumreactor</color>\r\n\r\n<color%3D#9C27B0><b>Uranium's Reactor</b></color>\r\n\r\n<u>Discord:</u> <color%3D#64B5F6>discord.gg/YSb8YhX8Dh</color>\r\n=<size%3D1.5em>背面肢体更暗</size>\n<size%3D140%><color%3D#FFD700><b>背面肢体更<color%3D#000000>暗</color> (BARD)</b></color></size>\r\n\r\n<color%3D#DCDCDC>背面肢体更<color%3D#000000>暗</color> (BARD) 通过使角色背向的肢体略微变暗来增强角色的外观，营造深度感并改善视觉风格。</color>\r\n\r\n<color%3D#00E5FF><b>背面肢体暗度设置控制器</b></color>\r\n\r\n从<color%3D#FFA726><b>实体</b></color>分类中生成<color%3D#7CFF00><b>设置控制器</b></color>以自定义模组。\r\n\r\n<color%3D#FF5252><b>特性</b></color>\r\n\r\n\r\n• <color%3D#FFB300><b>调整暗度等级</b></color>以达到完美的阴影效果。\r\n\r\n\r\n\r\n• <color%3D#40C4FF><b>简单轻量</b></color>，对游戏玩法无影响。\r\n\r\n————————————————————————————\r\n\r\n<color%3D#FFD700><b>支持我的作品</b></color>\r\n\r\n<u>Patreon:</u> <color%3D#FF6E40>patreon.com/c/uranium255</color>\r\n\r\n<u>Ko-fi:</u> <color%3D#29B6F6>ko-fi.com/uraniumreactor</color>\r\n\r\n<color%3D#9C27B0><b>Uranium's Reactor</b></color>\r\n\r\n<u>Discord:</u> <color%3D#64B5F6>discord.gg/YSb8YhX8Dh</color>
+<size%3D1.5em>Back Limbs Are Darker</size>\n<size%3D140%><color%3D#FFD700><b>Back Limbs Are <color%3D#000000>Darker</color> (BARD)</b></color></size>\r\n\r\n<color%3D#DCDCDC>Back Limbs Are <color%3D#000000>Darker</color> (BARD) enhances the appearance of characters by making their back-facing limbs slightly darker, creating a sense of depth and improving the visual style.</color>\r\n\r\n<color%3D#00E5FF><b>Back Limb Darkness Settings Controller</b></color>\r\n\r\nSpawn the <color%3D#7CFF00><b>Settings Controller</b></color> from the <color%3D#FFA726><b>Entities</b></color> category to customize the mod.\r\n\r\n<color%3D#FF5252><b>Features</b></color>\r\n\r\n\r\n• <color%3D#FFB300><b>Adjust Darkness Level</b></color> to achieve the perfect amount of shading.\r\n\r\n\r\n\r\n• <color%3D#40C4FF><b>Simple & Lightweight</b></color> with no impact on gameplay.\r\n\r\n————————————————————————————\r\n\r\n<color%3D#FFD700><b>Support My Work</b></color>\r\n\r\n<u>Patreon:</u> <color%3D#FF6E40>patreon.com/c/uranium255</color>\r\n\r\n<u>Ko-fi:</u> <color%3D#29B6F6>ko-fi.com/uraniumreactor</color>\r\n\r\n<color%3D#9C27B0><b>Uranium's Reactor</b></color>\r\n\r\n<u>Discord:</u> <color%3D#64B5F6>discord.gg/YSb8YhX8Dh</color>\r\n=<size%3D1.5em>背面肢体更暗</size>\n<size%3D140%><color%3D#FFD700><b>背面肢体更<color%3D#000000>暗</color> (BARD)</b></color></size>\r\n\r\n<color%3D#DCDCDC>背面肢体更<color%3D#000000>暗</color> (BARD) 通过使角色背向的肢体略微变暗来增强角色的外观，营造深度感并改善视觉风格. </color>\r\n\r\n<color%3D#00E5FF><b>背面肢体暗度设置控制器</b></color>\r\n\r\n从<color%3D#FFA726><b>实体</b></color>分类中生成<color%3D#7CFF00><b>设置控制器</b></color>以自定义模组. \r\n\r\n<color%3D#FF5252><b>特性</b></color>\r\n\r\n\r\n• <color%3D#FFB300><b>调整暗度等级</b></color>以达到完美的阴影效果. \r\n\r\n\r\n\r\n• <color%3D#40C4FF><b>简单轻量</b></color>，对游戏玩法无影响. \r\n\r\n————————————————————————————\r\n\r\n<color%3D#FFD700><b>支持我的作品</b></color>\r\n\r\n<u>Patreon:</u> <color%3D#FF6E40>patreon.com/c/uranium255</color>\r\n\r\n<u>Ko-fi:</u> <color%3D#29B6F6>ko-fi.com/uraniumreactor</color>\r\n\r\n<color%3D#9C27B0><b>Uranium's Reactor</b></color>\r\n\r\n<u>Discord:</u> <color%3D#64B5F6>discord.gg/YSb8YhX8Dh</color>
 
 <b>Back Limb Darkness Settings Controller</b>\r\nSpawn to open the darkness settings menu.=<b>背面肢体暗度设置控制器</b>\r\n生成以打开暗度设置菜单.
 Mod Status: =模组状态：
@@ -16057,7 +16078,7 @@ adds the Midnight sons=添加了午夜之子
 
 <b>Elsa Bloodstone's Rifle</b>\r\nA rifle used by elsa bloodstone.=<b>艾尔莎·血石的步枪</b>\r\n艾尔莎·血石使用的步枪.
 
-<b>Scarab  </b>\r\nGrants the powers of moonknight. (not yet)=<b>圣甲虫</b>\r\n赋予月光骑士的力量。（尚未实装）
+<b>Scarab  </b>\r\nGrants the powers of moonknight. (not yet)=<b>圣甲虫</b>\r\n赋予月光骑士的力量. （尚未实装）
 
 <b>Blades Blade</b>\r\nBlade to slay vampires.=<b>刀锋战士之刃</b>\r\n用于斩杀吸血鬼的利刃.
 
@@ -16071,21 +16092,21 @@ adds the Midnight sons=添加了午夜之子
 
 <b>iron Fist</b>\r\n<color%3D#ffffff> I've been doing this for 15 years.=<b>铁拳</b>\r\n<color%3D#ffffff>这活儿我已经干了15年了.
 
-<b>Vlad Dracula</b>\r\n<color%3D#ffffff> I am Dracula... Prince of Evil... Master of the Undead! ... I am evil incarnate-- the King of Terrors personified. And more-- I am your deliverer of death.=<b>弗拉德·德古拉</b>\r\n<color%3D#ffffff>我是德古拉……邪恶王子……亡灵之主！……我是邪恶的化身——恐怖之王的人格化。不仅如此——我是你的死亡使者.
+<b>Vlad Dracula</b>\r\n<color%3D#ffffff> I am Dracula... Prince of Evil... Master of the Undead! ... I am evil incarnate-- the King of Terrors personified. And more-- I am your deliverer of death.=<b>弗拉德·德古拉</b>\r\n<color%3D#ffffff>我是德古拉……邪恶王子……亡灵之主！……我是邪恶的化身——恐怖之王的人格化. 不仅如此——我是你的死亡使者.
 
 <b>Blade</b>\r\n<color%3D#ffffff> Open season on all suckheads.=<b>刀锋战士</b>\r\n<color%3D#ffffff>对所有吸血的家伙大开杀戒.
 
 <b>Khonshu</b>\r\n<color%3D#ffffff> Rise and live again, as my Fist of Vengeance, as my Moon Knight!=<b>孔苏</b>\r\n<color%3D#ffffff>起身，重生吧，作为我的复仇之拳，作为我的月光骑士！
 
-<b>Elsa Bloodstone</b>\r\n<color%3D#ffffff> Well, I always say, you made your bed -- now die in it! Get it? That's fearless monster hunter humor for you.=<b>艾尔莎·血石</b>\r\n<color%3D#ffffff>嗯，我总说，你自掘坟墓——那就死在里面吧！懂吗？这就是无畏怪物猎人的幽默。
+<b>Elsa Bloodstone</b>\r\n<color%3D#ffffff> Well, I always say, you made your bed -- now die in it! Get it? That's fearless monster hunter humor for you.=<b>艾尔莎·血石</b>\r\n<color%3D#ffffff>嗯，我总说，你自掘坟墓——那就死在里面吧！懂吗？这就是无畏怪物猎人的幽默. 
 
 <b>Dr (Steven) Strange</b>\r\n<color%3D#ffffff> The name is strange.=<b>史蒂芬·斯特兰奇博士</b>\r\n<color%3D#ffffff>名字就是奇异.
 
-<b>Wong </b>\r\n<color%3D#ffffff> Choose your weapon wisely. No one steps foot in this Sanctum. No one.=<b>王</b>\r\n<color%3D#ffffff>明智地选择你的武器。没人能踏进这座圣所。没人。
+<b>Wong </b>\r\n<color%3D#ffffff> Choose your weapon wisely. No one steps foot in this Sanctum. No one.=<b>王</b>\r\n<color%3D#ffffff>明智地选择你的武器. 没人能踏进这座圣所. 没人. 
 
-<b>Scarlet Spider (Ben Reilly)</b>\r\n<color%3D#ffffff> Walked a mile in his shoes, got the T-shirt. Wasn't all that. The only me I wanna be is Ben Reilly.=<b>猩红蜘蛛（本·莱利）</b>\r\n<color%3D#ffffff>穿过他的鞋走了一英里，得了件T恤。也就那样。我只想做本·莱利。
+<b>Scarlet Spider (Ben Reilly)</b>\r\n<color%3D#ffffff> Walked a mile in his shoes, got the T-shirt. Wasn't all that. The only me I wanna be is Ben Reilly.=<b>猩红蜘蛛（本·莱利）</b>\r\n<color%3D#ffffff>穿过他的鞋走了一英里，得了件T恤. 也就那样. 我只想做本·莱利. 
 
-<b>Hellstorm</b>\r\n<color%3D#ffffff> I am a creature of evil just as my father was. But I am also a man. And men can change. \n\n<#FFFF00>F on hands for fire thrower.=<b>地狱风暴</b>\r\n<color%3D#ffffff>我和我父亲一样是邪恶的生物。但我也是一个人。人是可以改变的。\n\n<#FFFF00>按手部F键发射火焰.
+<b>Hellstorm</b>\r\n<color%3D#ffffff> I am a creature of evil just as my father was. But I am also a man. And men can change. \n\n<#FFFF00>F on hands for fire thrower.=<b>地狱风暴</b>\r\n<color%3D#ffffff>我和我父亲一样是邪恶的生物. 但我也是一个人. 人是可以改变的. \n\n<#FFFF00>按手部F键发射火焰.
 
 <b>Moon Knight (Marc Spector)</b>\r\n<color%3D#ffffff> THE MOON HAUNTS YOU!\n\n<#FFFF00>Press F on the head to change into Moon Knight \nRight Click on the head To change suit \nRight Click on the head to change standard ego (Wich he spawns as)=<b>月光骑士（马克·斯佩克特）</b>\r\n<color%3D#ffffff>月光萦绕着你！\n\n<#FFFF00>按头部F键变身为月光骑士\n右键点击头部更换战衣\n右键点击头部更换标准自我（他生成时的形态）
 
