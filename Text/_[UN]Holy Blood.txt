@@ -130,7 +130,7 @@ Explode The Osiris.=引爆奥西里斯.
 
 Tear=撕裂
 Tear.=撕裂.
-Bur =灼伤 
+Burn=灼伤 
 Burn.=灼伤.
 Skip to location=跳转到位置
 Skip to location.=跳转到位置.
