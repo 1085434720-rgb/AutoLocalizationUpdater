@@ -16041,3 +16041,54 @@ Makes Back Limbs Darker.=使背面肢体更暗。
 Mod Status: =模组状态：
 Set Darkness Level=设置暗度等级
 Set Back Limb Darkness=设置背面肢体暗度
+
+
+
+
+
+
+
+
+//367*Ace的午夜之子模组_Ace's Midnight Sons Mod
+<noparse>Ace's Midnight Sons Mod</noparse>=<noparse>Ace的午夜之子模组</noparse>
+adds the Midnight sons=添加了午夜之子
+<size%3D1.5em>Ace's Midnight Sons Mod</size>\nadds the Midnight sons\n<noparse>A mod by Aces Studios' for game version 1.11</noparse>=<size%3D1.5em>Ace的午夜之子模组</size>\n添加了午夜之子\n<noparse>由 Aces Studios' 制作的模组，适用于游戏版本 1.11</noparse>
+<b>Aces MidnightSuns Mod</b>.\r\n =<b>Aces午夜之子模组</b>.\r\n
+
+<b>Elsa Bloodstone's Rifle</b>\r\nA rifle used by elsa bloodstone.=<b>艾尔莎·血石的步枪</b>\r\n艾尔莎·血石使用的步枪.
+
+<b>Scarab  </b>\r\nGrants the powers of moonknight. (not yet)=<b>圣甲虫</b>\r\n赋予月光骑士的力量。（尚未实装）
+
+<b>Blades Blade</b>\r\nBlade to slay vampires.=<b>刀锋战士之刃</b>\r\n用于斩杀吸血鬼的利刃.
+
+<b>Khonshu's staff</b>\r\nKhonsu Staff.=<b>孔苏之杖</b>\r\n孔苏之杖.
+
+<b>Cresent Dart</b>\r\nA Cresent dart used by Moon Knight.=<b>新月飞镖</b>\r\n月光骑士使用的新月形飞镖.
+
+<b>Mr. Knights Baton</b>\r\nThe batons used by Mr Knight.=<b>骑士先生的短棍</b>\r\n骑士先生使用的短棍.
+
+<b>Mephisto</b>\r\n<color%3D#ffffff> Well may you tremble! For you gaze upon... Mephisto! \n\n<#FFFF00>Press F on upper body to fly \nF on hands for fire thrower.=<b>梅菲斯特</b>\r\n<color%3D#ffffff>颤抖吧！因为你注视的是……梅菲斯特！\n\n<#FFFF00>按上半身F键飞行\n按手部F键发射火焰.
+
+<b>iron Fist</b>\r\n<color%3D#ffffff> I've been doing this for 15 years.=<b>铁拳</b>\r\n<color%3D#ffffff>这活儿我已经干了15年了.
+
+<b>Vlad Dracula</b>\r\n<color%3D#ffffff> I am Dracula... Prince of Evil... Master of the Undead! ... I am evil incarnate-- the King of Terrors personified. And more-- I am your deliverer of death.=<b>弗拉德·德古拉</b>\r\n<color%3D#ffffff>我是德古拉……邪恶王子……亡灵之主！……我是邪恶的化身——恐怖之王的人格化。不仅如此——我是你的死亡使者.
+
+<b>Blade</b>\r\n<color%3D#ffffff> Open season on all suckheads.=<b>刀锋战士</b>\r\n<color%3D#ffffff>对所有吸血的家伙大开杀戒.
+
+<b>Khonshu</b>\r\n<color%3D#ffffff> Rise and live again, as my Fist of Vengeance, as my Moon Knight!=<b>孔苏</b>\r\n<color%3D#ffffff>起身，重生吧，作为我的复仇之拳，作为我的月光骑士！
+
+<b>Elsa Bloodstone</b>\r\n<color%3D#ffffff> Well, I always say, you made your bed -- now die in it! Get it? That's fearless monster hunter humor for you.=<b>艾尔莎·血石</b>\r\n<color%3D#ffffff>嗯，我总说，你自掘坟墓——那就死在里面吧！懂吗？这就是无畏怪物猎人的幽默。
+
+<b>Dr (Steven) Strange</b>\r\n<color%3D#ffffff> The name is strange.=<b>史蒂芬·斯特兰奇博士</b>\r\n<color%3D#ffffff>名字就是奇异.
+
+<b>Wong </b>\r\n<color%3D#ffffff> Choose your weapon wisely. No one steps foot in this Sanctum. No one.=<b>王</b>\r\n<color%3D#ffffff>明智地选择你的武器。没人能踏进这座圣所。没人。
+
+<b>Scarlet Spider (Ben Reilly)</b>\r\n<color%3D#ffffff> Walked a mile in his shoes, got the T-shirt. Wasn't all that. The only me I wanna be is Ben Reilly.=<b>猩红蜘蛛（本·莱利）</b>\r\n<color%3D#ffffff>穿过他的鞋走了一英里，得了件T恤。也就那样。我只想做本·莱利。
+
+<b>Hellstorm</b>\r\n<color%3D#ffffff> I am a creature of evil just as my father was. But I am also a man. And men can change. \n\n<#FFFF00>F on hands for fire thrower.=<b>地狱风暴</b>\r\n<color%3D#ffffff>我和我父亲一样是邪恶的生物。但我也是一个人。人是可以改变的。\n\n<#FFFF00>按手部F键发射火焰.
+
+<b>Moon Knight (Marc Spector)</b>\r\n<color%3D#ffffff> THE MOON HAUNTS YOU!\n\n<#FFFF00>Press F on the head to change into Moon Knight \nRight Click on the head To change suit \nRight Click on the head to change standard ego (Wich he spawns as)=<b>月光骑士（马克·斯佩克特）</b>\r\n<color%3D#ffffff>月光萦绕着你！\n\n<#FFFF00>按头部F键变身为月光骑士\n右键点击头部更换战衣\n右键点击头部更换标准自我（他生成时的形态）
+
+<b>Robbie Reyes</b>\r\n<color%3D#ffffff> THE GHOST HAUNTS YOU \n\n <#FFFF00>F on head to transform into the ghost rider.=<b>罗比·雷耶斯</b>\r\n<color%3D#ffffff>恶灵萦绕着你！\n\n<#FFFF00>按头部F键变身为恶灵骑士.
+
+<b><color%3D#ffffff> Jack Russell (Wererewolf by night)</b>\r\n<color%3D#ffffff> IM WEREWOLFING OUT!! \n\n<#FFFF00>F on head to transform into Werewolf.=<b><color%3D#ffffff>杰克·罗素（暗夜狼人）</b>\r\n<color%3D#ffffff>我要狼人化了！！\n\n<#FFFF00>按头部F键变身为狼人.
