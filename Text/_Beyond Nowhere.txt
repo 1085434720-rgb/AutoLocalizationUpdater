@@ -206,8 +206,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\r\nP3rh@ps y0u c0uld h3lp r3st0r3 what was l-
 
 r:"<size%3D107%>Seeker <color%3D#f7fffe>\[BN\]</color> has raised its level \[(\d+)\]"=<size%3D107%>追寻者 <color%3D#f7fffe>[BN]</color> 已提升至等级 [$1]
 r:"<size%3D107%>Dweller <color%3D#f7fffe>\[BN\]</color> has raised its level \[(\d+)\]"=<size%3D107%>栖居者 <color%3D#f7fffe>[BN]</color> 已提升至等级 [$1]
+r:"^<size%3D107%>Dweller has raised its level \[(\d+)\]$" = "<size%3D107%>栖居者已提升其等级 [$1]"
 r:"<size%3D107%>The Sun <color%3D#f7fffe>\[BN\]</color> has raised its level \[(\d+)\]"=<size%3D107%>太阳 <color%3D#f7fffe>[BN]</color> 已提升至等级 [$1]
 r:"<size%3D107%>The Monarch <color%3D#f7fffe>\[BN\]</color> has raised its level \[(\d+)\]"=<size%3D107%>君主 <color%3D#f7fffe>[BN]</color> 已提升至等级 [$1]
+r:"<size%3D107%>The Monarch has raised its level \[(\d+)\]" = "<size%3D107%>君主已提升其等级 [$1]"
 r:"<size%3D107%>The Hollow <color%3D#f7fffe>\[BN\]</color> has raised its level \[(\d+)\]"=<size%3D107%>空洞 <color%3D#f7fffe>[BN]</color> 已提升至等级 [$1]
 r:"<size%3D107%>Blitz <color%3D#f7fffe>\[BN\]</color> has raised its level \[(\d+)\]"=<size%3D107%>闪电 <color%3D#f7fffe>[BN]</color> 已提升至等级 [$1]
 r:"<size%3D107%>Skull-X-3-6 <color%3D#f7fffe>\[BN\]</color> has raised its level \[(\d+)\]"=<size%3D107%>骷髅-X-3-6 <color%3D#f7fffe>[BN]</color> 已提升至等级 [$1]
@@ -251,6 +253,7 @@ r:"<size%3D107%>The Harmony <color%3D#f7fffe>\[BN\]</color> has raised its level
 <size%3D115%>[??? tricks multiply]=<size%3D115%>[??? 的把戏在增多]
 <size%3D115%>[JE?S?T??ER's madness intensifies]=<size%3D115%>[小?S?|??丑的疯狂加剧了]
 <size%3D115%>[In the distance you can hear the a happy tune and the sound of the spotlights flashing, The Circus is open!]=<size%3D115%>[在远处你能听到快乐的曲调和聚光灯闪烁的声音，马戏团开张了！]
+<size%3D115%>[WARNING] Jester internal energy system image mutates...=<size%3D115%>[警告] 小丑内部能量系统图像发生变异……
 
 //*主权
 <size%3D115%>[The Sovereign's connection to Section 3 grows stronger]=<size%3D115%>[主权与第3节的联系日益增强]
@@ -380,6 +383,8 @@ The Shining\nUnique Passive : The higher the Body temperature, the faster this c
 Hunger of The Void\nBites can consume dead flesh to restore energy and grant a small boost to max energy. Can also damage living tissues when used offensively=\n虚空之饥\n撕咬可吞噬死肉以恢复能量并小幅提升最大能量. 用于攻击时也能伤害活体组织.
 
 Legendary Durability\nIncreases creature strength and durability when applied.\nOnly creatures of great level or those touched by [NULL] essence have this durability level\nDurability Tier 5=\n传说耐久\n应用时增加生物强度和耐久. \n只有等级很高的生物或受到[NULL]本质影响的生物才具有此耐久等级\n耐久等级5
+
+
 
 //*上半身------------------------------------------------------------------------------------------------
 
@@ -568,6 +573,10 @@ Unique energy system abstract concept\n[-] :=独特的能量系统抽象概念\n
 
 Unique energy system abstract concept\nUnique Passive : This creature have Unique energy pattern, allowing it to break [level] limiter. This creature can't feel pain and lose consciousness.\nExperience received is greatly reduced. Experience can be gained from various actions, such as seeing corpses or interacting with other characters.=独特的能量系统抽象概念\n独特被动：该生物拥有独特的能量模式，使其能够突破[等级]限制器.该生物无法感到疼痛和失去意识.\n获得的经验值大幅减少.经验值可以通过多种行动获得，例如目睹尸体或与其他角色互动.
 
+Changed body and soul structure\nUnique Passive: Allows character to float freely and regenerates damaged limbs by consuming energy. Higher character level reduces energy cost of regeneration. When energy drops too low, the character dies.=改变身体与灵魂结构\n独特被动：允许角色自由漂浮，并通过消耗能量再生受损肢体。更高的角色等级会减少再生的能量消耗。当能量降得太低时，角色会死亡。
+
+Anchor\nUnique Passive: Maintains the character's orientation against external forces, preventing unwanted rotation.=锚点\n独特被动：维持角色在外部力作用下的朝向，防止不必要的旋转。
+
 
 
 
@@ -670,6 +679,29 @@ Body Recreation: ENABLED=身体重建：启用
 <size%3D130%>TO DESTROY ENTITY YOU MUST DISABLE Toggle Reality distortion immunity IN THE CONTEXT MENU OF THE BODY!=<size%3D130%>要摧毁实体，你必须在身体的右键菜单中禁用“切换现实扭曲免疫”！
 <size%3D130%>TO PREVENT ENTITY DEATH YOU CAN ENABLE Toggle Reality distortion immunity IN THE CONTEXT MENU OF THE BODY!=<size%3D130%>要防止实体死亡，你可以在身体的右键菜单中启用“切换现实扭曲免疫”！
 
+<size%3D150%> Select power in the context menu=<size%3D150%> 在上下文菜单中选择能力
+Change Right Arm Power=更改右臂能力
+Select active right arm power=选择激活的右臂能力
+Select active right arm power.=选择激活的右臂能力。
+Outdated Technique\nRemains...=过时技术\n残留……
+Bang!\n...=砰！\n……
+Madness Spheres\nSpawn areas that bends reality inside them.\nEnergy System users are more resilient to this effect=疯狂领域\n生成扭曲其中现实的范围。\n能量体系使用者对这一效果具有更强的抗性。
+None\nDisable all right arm powers=无\n禁用所有右臂能力
+
+Change Gravity Well power=更改重力井能力
+Change Gravity Well power.=更改重力井能力。
+Enter gravity power amount=输入重力能力数值
+Change Left Arm Power=更改左臂能力
+Select active left arm power=选择激活的左臂能力
+Select active left arm power.=选择激活的左臂能力。
+Spotlight[s]?\nShoot multiple laser beams=聚光光束\n发射多道激光束
+Bane\nClick on target to strip them of all [Aspects]\nEnergy System users are more resilient to this effect=贝恩\n点击目标以剥夺其所有[方面]\n能量体系使用者对此效果具有更强的抗性
+Omega Gravity Well\nUse continuously to create gravity well effect in direction of the arm=欧米伽重力井\n持续使用以在手臂方向上产生重力井效果
+Power of the Cain\nTargeted Death Ray from above\n<size%3D85%>Good teachers learn as much from their students as their students learn from them=该隐之力\n来自上方的定向死亡射线\n<size%3D85%>优秀的老师从学生那里学到的，不亚于学生从他们那里学到的
+None\nDisable all left arm powers=无\n禁用所有左臂能力
+
+
+
 
 
 
@@ -699,6 +731,10 @@ Fly...=飞起来...
 Wake up!=起来！
 Pew=砰
 
+//*小丑三阶段
+UNABLE TO CONSUME! BURNING ENERGY OUT INSTEAD=无法消耗！改为燃烧能量
+sr:"^\[Aspect\] (.*?) was \[Stripped\]$" = "[方面] $1 已被 [剥离]"
+
 //*伽马
 [ERROR]=[错误]
 [Feel]=[感受]
@@ -712,6 +748,11 @@ I wish I could suffer=但愿我能承受痛苦
 
 //*和谐
 [Changed]=[已更改]
+
+
+//*太阳
+r:"Internal power : ([+-]?[\d.]+)" = "内部能量：$1"
+r:"内部 power : ([+-]?[\d.]+)" = "内部能量：$1"
 
 
 
