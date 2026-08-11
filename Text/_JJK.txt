@@ -3161,3 +3161,150 @@ To attach, hold F :)=要附着，请按住F键 :)
 <b>[SPG 01] Firework I Sword Form</b>\r\n=<b>[SPG 01] 焰刃 I</b>.\r\n
 Firework I=焰刃 I
 
+
+
+
+
+//工具栏
+<b>Slice Eraser Tool</b>.\n=<b>斩击橡皮擦工具</b>.\n
+<b>World Slice Tool</b>.\n=<b>世界斩击工具</b>.\n
+
+
+
+
+
+
+
+//能力
+
+//头部
+Hood: <color%3D#00FF00FF>Enabled</color>=兜帽：<color%3D#00FF00FF>已启用</color>
+Hood: <color%3D#FF0000FF>Disabled</color>=兜帽：<color%3D#FF0000FF>已禁用</color>
+Switch Hood=切换兜帽
+Switch Hood.=切换兜帽.
+
+Simple Domain (SPG)=简易领域 (SPG)
+Simple Domain Stand=简易领域立场
+Simple Domain Stand.=简易领域立场.
+Simple Domain (SPG) <color%3D#00FF00>[Closed]=简易领域 (SPG) <color%3D#00FF00>\n[封闭]
+Simple=简易
+Domain (SPG)=领域 (SPG)
+Configure Menu=配置菜单
+r:"Energy Take Percent Mult: ([\d.]+)"="能量获取百分比倍率：$1"
+r:"Global Energy Take Percent Mult: ([\d.]+)"="全局能量获取百分比倍率：$1"
+Energy Take Percent Mult [0.1 - 10]=能量获取百分比倍率 [0.1 - 10]
+Global Take Percent Mult [0.1 - 10]=全局获取百分比倍率 [0.1 - 10]
+Flip Domain: <color%3D#FF0000FF>Disabled</color>=翻转领域：<color%3D#FF0000FF>已禁用</color>
+Flip Domain: <color%3D#00FF00FF>Enabled</color>=翻转领域：<color%3D#00FF00FF>已启用</color>
+Open Domain=打开领域
+r:"Charge ([\d.]+) energy" = "充能 $1 点能量"
+
+Hometown Domain (SPG)=家乡领域 (SPG)
+Absolute Destruction=绝对毁灭
+Absolute Destruction.=绝对毁灭.
+Hometown Domain Settings=家乡领域设置
+Open Menu=打开菜单
+Open Menu.=打开菜单.
+Slices Type=切片类型
+Damage Type=伤害类型
+Damage Type Selection=伤害类型选择
+DamageOnly=仅伤害
+Cleave=捌
+Dismantle=解
+Slice Damage Energy=切片伤害能量
+Slice Speed [0.1 - 8]=切片速度 [0.1 - 8]
+Damage Mult [1 - 100]=伤害倍率 [1 - 100]
+Train: <color%3D#00FF00FF>Enabled</color>=训练: <color%3D#00FF00FF>已启用</color>
+Train: <color%3D#FF0000FF>Disabled</color>=训练: <color%3D#FF0000FF>已禁用</color>
+Lights: <color%3D#00FF00FF>Enabled</color>=灯光: <color%3D#00FF00FF>已启用</color>
+Lights: <color%3D#FF0000FF>Disabled</color>=灯光: <color%3D#FF0000FF>已禁用</color>
+
+Winter Forest Domain (SPG)=冬日森林领域 (SPG)
+Winter Forest=冬日森林
+Winter Forest Domain Settings=冬日森林领域设置
+
+Boxing Ring Domain (SPG)=拳击擂台领域（SPG）
+Boxing Ring=拳击擂台
+Boxing Ring Domain Settings=拳击擂台领域设置
+
+Berserk Boost=狂暴强化
+Damage taken increases physical stats=受到伤害时提升物理属性
+sr:"^Damage taken increases physical stats\n\nTarget: (.*?)$" = "受到伤害时提升物理属性\n\n目标：$1"
+Disable Berserk Boost=<color%3D#FF0000FF>禁用狂暴强化
+Enable Berserk Boost=<color%3D#00FF00FF>启用狂暴强化
+Toggle Berserk Boost=切换狂暴强化
+Toggle Berserk Boost.=切换狂暴强化.
+
+
+//上半身
+[M] Blood Barrage=[M] 血之弹幕
+Holding Activa delivers a series of blood punches. Press H for strong barrage. Press J to blow up all affected objects.=按住激活键可发动一连串血之拳击。按H键进行强力弹幕攻击。按J键引爆所有受影响的物体.
+sr:"^Holding Activa delivers a series of blood punches\. Press H for strong barrage\. Press J to blow up all affected objects\.\n\nTarget: (.*?)$" = "按住激活键可发动一连串血之拳击。按H键进行强力弹幕攻击。按J键引爆所有受影响的物体。\n\n目标：$1"
+Enable [M] Blood Barrage=<color%3D#00FF00FF>启用 [M] 血之弹幕
+Disable [M] Blood Barrage=<color%3D#FF0000FF>禁用 [M] 血之弹幕
+[M] Blood Barrage Open Menu=<color%3D#FFD800>[M] 血之弹幕打开菜单
+Toggle [M] Blood Barrage=切换 [M] 血之弹幕
+Toggle [M] Blood Barrage.=切换 [M] 血之弹幕。
+
+[C] Passive Blood Manipulation=[C] 被动血术
+Full-body ability that allows to equipt reinforced armor, emit bleeding aura, and restore lost blood=全身能力，可装备强化护甲、释放流血气场并恢复流失的血液.
+sr:"^Full-body ability that allows to equipt reinforced armor, emit bleeding aura, and restore lost blood\n\nTarget: (.*?)$" = "全身能力，可装备强化护甲、释放流血气场并恢复流失的血液。\n\n目标：$1"
+[M] Blood Barrage Options=[M] 血之弹幕选项
+[C] Passive Blood Manipulation Options=[C] 被动血术选项
+Blood Aura <color%3D#FF0000FF>Disabled</color>=血之气场 <color%3D#FF0000FF>已禁用</color>
+Blood Aura <color%3D#00FF00FF>Enabled</color>=血之气场 <color%3D#00FF00FF>已启用</color>
+Regen Blood <color%3D#FF0000FF>Disabled</color>=血液再生 <color%3D#FF0000FF>已禁用</color>
+Regen Blood <color%3D#00FF00FF>Enabled</color>=血液再生 <color%3D#00FF00FF>已启用</color>
+Enable [C] Passive Blood Manipulation=<color%3D#00FF00FF>启用 [C] 被动血术
+Disable [C] Passive Blood Manipulation=<color%3D#FF0000FF>禁用 [C] 被动血术
+[C] Passive Blood Manipulation Open Menu=<color%3D#FFD800>[C] 被动血术打开菜单
+Toggle [C] Passive Blood Manipulation=切换 [C] 被动血术
+Toggle [C] Passive Blood Manipulation.=切换 [C] 被动血术。
+
+[M] Slice Active=[M] 斩击主动
+Slice on contact. H for slice area. J for ultimate area slices=接触时进行斩击。按H键进行区域切片。按J键进行终极区域切片.
+sr:"^Slice on contact\. H for slice area\. J for ultimate area slices\n\nTarget: (.*?)$" = "接触时进行斩击。按H键进行区域斩击。按J键进行终极区域斩击。\n\n目标：$1"
+[M] Slice Active Options=[M] 斩击主动选项
+Passive Protection <color%3D#00FF00FF>Enabled</color>=被动防护 <color%3D#00FF00FF>已启用</color>
+Passive Protection <color%3D#FF0000FF>Disabled</color>=被动防护 <color%3D#FF0000FF>已禁用</color>
+r:"Count Mult: ([\d.]+)" = "数量倍率：$1"
+Enable [M] Slice Active=<color%3D#00FF00FF>启用 [M] 斩击主动
+Disable [M] Slice Active=<color%3D#FF0000FF>禁用 [M] 斩击主动
+[M] Slice Active Open Menu=<color%3D#FFD800>[M] 斩击主动打开菜单
+Toggle [M] Slice Active=切换 [M] 斩击主动
+Toggle [M] Slice Active.=切换 [M] 斩击主动。
+
+
+
+//中半身
+[M] Slice Dash=[M] 斩击冲刺
+Slice everything in your path. Draw your own path by moving the mouse.\nMove the mouse back to undo a segment.=斩击路径上的一切。通过移动鼠标绘制你自己的路径。\n向后移动鼠标可撤销一段路径。
+sr:"^Slice everything in your path\. Draw your own path by moving the mouse\.\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "斩击路径上的一切。通过移动鼠标绘制你自己的路径。\n向后移动鼠标可撤销一段路径。\n\n目标：$1"
+[M] Slice Dash Options=[M] 斩击冲刺选项
+Disable [M] Slice Dash=<color%3D#FF0000FF>禁用 [M] 斩击冲刺
+Enable [M] Slice Dash=<color%3D#00FF00FF>启用 [M] 斩击冲刺
+Toggle [M] Slice Dash=切换 [M] 斩击冲刺
+Toggle [M] Slice Dash.=切换 [M] 斩击冲刺.
+[M] Slice Dash Open Menu=<color%3D#FFD800>[M] 斩击冲刺 打开菜单
+
+
+
+//下半身
+[M] Blood Cascade=[M] 血之瀑布
+F to turn into Blop. H to full heal. In blop form H to move (Shift to speed up), J to strong Dash, H to release back to human form=按F变身为血块。按H完全治愈。在血块形态下按H移动（Shift加速），按J强力冲刺，按K释放变回人类形态。
+sr:"^F to turn into Blop\. H to full heal\. In blop form H to move \(Shift to speed up\), J to strong Dash, H to release back to human form\n\nTarget: (.*?)$" = "按F变身为血块。按H完全治愈。在血块形态下按H移动（Shift加速），按J强力冲刺，按K释放变回人类形态。\n\n目标：$1"
+Enable [M] Blood Cascade=<color%3D#00FF00FF>启用 [M] 血之瀑布
+Disable [M] Blood Cascade=<color%3D#FF0000FF>禁用 [M] 血之瀑布
+[M] Blood Cascade Open Menu=<color%3D#FFD800>[M] 血之瀑布打开菜单
+Toggle [M] Blood Cascade=切换 [M] 血之瀑布
+Toggle [M] Blood Cascade.=切换 [M] 血之瀑布。
+[M] Blood Cascade Options=[M] 血之瀑布选项
+r:"Shift Speed Mult: ([\d.]+)" = "移速倍率：$1"
+Disable Energy Punishment <color%3D#FF0000FF>Disabled</color>=禁用能量惩罚 <color%3D#FF0000FF>已禁用</color>
+Disable Energy Punishment <color%3D#00FF00FF>Enabled</color>=禁用能量惩罚 <color%3D#00FF00FF>已启用</color>
+
+
+
+
+//手部
+

@@ -485,6 +485,21 @@ Toggle Tiger Ground Punch.=切换豹王之爪.
 Tiger Ground Punch Open Menu=<color%3D#FFD800>打开豹王之爪设置菜单
 Tiger Ground Punch Open Menu.=打开豹王之爪设置菜单.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //*灵魂状态
 
 Soul Status=灵魂状态
@@ -492,7 +507,8 @@ r:"Max Energy: (.*)"=最大能量: $1
 Set Custom Max Energy\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义最大能量</b>\n<size%3D70%>使用默认值时设为 -1
 r:"Energy Throughput:\s*(.*)"=能量吞吐量: $1
 Set Custom Energy Throughput\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义能量吞吐量</b>\n<size%3D70%>使用默认值时设为 -1
-r:"Physical:\s*(.*)"=物理: $1
+sr:"^Physical:\s*(.*)$" = "物理: $1"
+<color%3D"red"><b>LOCKED=<color%3D"red"><b>已锁定
 Set Custom Physical\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义物理</b>\n<size%3D70%>使用默认值时设为 -1
 r:"Speed:\s*(.*)"=速度: $1
 Set Custom Speed\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义速度</b>\n<size%3D70%>使用默认值时设为 -1
@@ -2046,10 +2062,15 @@ Saturate=增加饱和度
 Base Evasion=基础闪避
 Base dodge from most attacks with cooldown=基础闪避，可躲避大多数攻击，有冷却时间
 Base dodge from most attacks with cooldown\n\n Target: Head=基础闪避，可躲避大多数攻击，有冷却时间\n\n目标: 头
-
 Base Evasion Options=基础闪避选项
 r:"Wait Time Lenght Mult: ([\d.]+)" = "等待时间长度倍率：$1"
 Set Wait Time Lenght Mult [0.1 - 10]=设置等待时间长度倍率 [0.1 - 10]
+Enable Base Evasion=<color%3D#00FF00FF>启用基础闪避
+Disable Base Evasion=<color%3D#FF0000FF>禁用基础闪避
+Base Evasion Open Menu=<color%3D#FFD800>基础闪避打开菜单
+Toggle Base Evasion=切换基础闪避
+Toggle Base Evasion.=切换基础闪避.
+
 
 Enable Edit Mode=启用编辑模式
 Are you sure?\nThis character (its current instance on the scene) is being disconnected from the centralized Stages system.\nThis means that all current stages will be copied locally for this character, and it will no longer use Stages from add-on files.\nThis allows you to delete or modify them, perform any actions, and then save them as a contraption.=你确定吗？\n此角色（其在场景中的当前实例）正在从集中的Stages系统中断开连接。\n这意味着该角色的所有当前Stages将被复制到本地，并且它将不再使用附加文件中的Stages。\n这样你就可以删除或修改它们，执行任何操作，然后将其保存为装置。

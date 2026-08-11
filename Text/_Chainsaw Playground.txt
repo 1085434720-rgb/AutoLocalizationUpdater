@@ -21,6 +21,9 @@
 //物品
 [C] Curse I=[C] 诅咒 I
 <b>[SPG 01] [C] Curse Sword</b>.\r\n=<b>[SPG 01] [C] 诅咒之钉</b>.\r\n
+SF: [C] Curse I=剑形: 诅咒 I
+Sword Form: [C] Curse I=剑形: 诅咒 I
+
 
 
 
