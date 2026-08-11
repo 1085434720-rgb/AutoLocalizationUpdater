@@ -3148,3 +3148,16 @@ Biggest Jogo rework, Final Sukuna rework, Geto rework with new curses, Yuta with
 
 <b>[SPG 01] Yuka</b>\r\nEnergy : <color%3D#EE1100FF>10000</color>  |  Energy Throughput : <color%3D#9384B2FF>1437.5</color>\nPhysical : <color%3D#9384B2FF>1437.5</color>  |  Speed : <color%3D#808000FF>500</color>\n[MP] : <color%3D#30CF00FF>812.5</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Soul]  |  [AC] : <color%3D#B76EC0FF>COLOR</color>.=<b>[SPG 01] 乙骨忧花</b>\r\n能量：<color%3D#EE1100FF>10000</color>  |  能量吞吐量：<color%3D#9384B2FF>1437.5</color>\n物理：<color%3D#9384B2FF>1437.5</color>  |  速度：<color%3D#808000FF>500</color>\n[MP]：<color%3D#30CF00FF>812.5</color> | [AM]：<color%3D#FF0000FF>0</color> | [DM]：<color%3D#FF0000FF>0</color> | [HM]：<color%3D#FF0000FF>0</color>\n状态：[灵魂]  |  [AC]：<color%3D#B76EC0FF>颜色</color>.
 
+
+
+
+
+
+//物品
+<b>[SPG] Cursed Ring</b>\r\nHold F to attach.=<b>[SPG] 咒术戒指</b>\r\n按住F键以附着.
+To attach, hold F :)=要附着，请按住F键 :)
+
+<b>[SPG 01] Firework Sword</b>.\r\n=<b>[SPG 01] 焰刃</b>.\r\n
+<b>[SPG 01] Firework I Sword Form</b>\r\n=<b>[SPG 01] 焰刃 I</b>.\r\n
+Firework I=焰刃 I
+

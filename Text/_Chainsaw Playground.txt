@@ -14,6 +14,20 @@
 
 <b>[SPG 01] Reze</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#4CB200FF>700</color>\nPhysical : <color%3D#8C87B1FF>1400</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#33CC00FF>800</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#996600FF>400</color>\nState : [Soul]  |  [AC] : <color%3D#13248CFF>COLOR</color>=<b>[SPG 01] 蕾塞</b>\r\n能量：<color%3D#E61A00FF>15000</color>  |  能量吞吐量：<color%3D#4CB200FF>700</color>\n物理：<color%3D#8C87B1FF>1400</color>  |  速度：<color%3D#33CC00FF>800</color>\n[MP]：<color%3D#33CC00FF>800</color> | [AM]：<color%3D#669900FF>600</color> | [DM]：<color%3D#40BF00FF>750</color> | [HM]：<color%3D#996600FF>400</color>\n状态：[灵魂]  |  [AC]：<color%3D#13248CFF>颜色</color>
 
+<b>[SPG 01] Helldog</b>\r\n=<b>[SPG 01] 波奇塔</b>\r\n
+
+
+
+//物品
+[C] Curse I=[C] 诅咒 I
+<b>[SPG 01] [C] Curse Sword</b>.\r\n=<b>[SPG 01] [C] 诅咒之钉</b>.\r\n
+
+
+
+//右键菜单
+<color%3D"red">Transform to heart=<color%3D"red">变身为心脏
+<color%3D"red">Transform to heart.=<color%3D"red">变身为心脏.
+
 
 
 //能力

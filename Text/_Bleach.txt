@@ -1,9 +1,11 @@
 ﻿//*TF_RC汉化
 Bleach Playground=死神游乐场
 Souls Playground Patreon 2.0 KitKat Edition!=灵魂游乐场框架Patreon2.0破解版
+Souls Playground Patreon=灵魂游乐场框架 Patreon
 no yamamoto bankai, very sad=没有山本八幡, 我无疑是悲伤的
 
 <b>Souls Playground 01</b>.=<b>灵魂游乐场[TF_RC汉化]</b>
+<color%3D"green">[SPG] Loaded without errors=<color%3D"green">[SPG] 加载成功，无错误
 
 //*地图
 
@@ -21,7 +23,7 @@ Max Floors=最大楼层
 
 <b>[SPG 01] Power Ball</b>.=<b>[SPG 01] 崩玉</b>.
 
-<b>[SPG 01]  Ability Picker</b>\r\nFor advanced users. Can cause bugs.<b>=[SPG 01] 能力选择器</b>\r\n适用于高级用户,可能引发错误.
+<b>[SPG 01]  Ability Picker</b>\r\nFor advanced users. Can cause bugs.=<b>[SPG 01] 能力选择器</b>\r\n适用于高级用户,可能引发错误.
 
 <b>[SPG 01]  Souls Playground Settings</b>\r\nVarious mod settings.=<b>[SPG 01] 死神游乐场设置</b>\r\n各种模组设置
 
@@ -31,59 +33,59 @@ Max Floors=最大楼层
 
 <b>Monster Giganto [Tier 3]</b>.=<b>大虚 [等级3].</b>
 
-<b>[SPG 01] Aizen Sosuke</b>\r\nEnergy : <color%3D#FF59C2FF>300000</color>  |  Energy Throughput : <color%3D#FF59C2FF>2000</color>\nPhysical : <color%3D#FF59C2FF>3000</color>  |  Speed : <color%3D#FF59C2FF>2000</color>\n[MP] : <color%3D#FF59C2FF>2000</color> | [AM] : <color%3D#00FF00FF>999</color> | [DM] : <color%3D#00FF00FF>999</color> | [HM] : <color%3D#00FF00FF>999</color>\nState : [Soul]  |  [AC] : <color%3D#41138CFF>COLOR</color>.=<b>[SPG 01] 蓝染惣右介</b>\n能量 : <color%3D#FF59C2FF>300000</color> | 能量吞吐量 : <color%3D#FF59C2FF>2000</color>\n肉体 : <color%3D#FF59C2FF>3000</color> | 速度 : <color%3D#FF59C2FF>2000</color>\n[MP] : <color%3D#FF59C2FF>2000</color> | [AM] : <color%3D#00FF00FF>999</color> | [DM] : <color%3D#00FF00FF>999</color> | [HM] : <color%3D#00FF00FF>999</color>\n状态 : [灵魂] | [AC] : <color%3D#41138CFF>COLOR</color>.
+<b>[SPG 01] Aizen Sosuke</b>\r\nEnergy : <color%3D#FF59C2FF>300000</color>  |  Energy Throughput : <color%3D#FF59C2FF>2000</color>\nPhysical : <color%3D#FF59C2FF>3000</color>  |  Speed : <color%3D#FF59C2FF>2000</color>\n[MP] : <color%3D#FF59C2FF>2000</color> | [AM] : <color%3D#00FF00FF>999</color> | [DM] : <color%3D#00FF00FF>999</color> | [HM] : <color%3D#00FF00FF>999</color>\nState : [Soul]  |  [AC] : <color%3D#41138CFF>COLOR</color>.=<b>[SPG 01] 蓝染惣右介</b>\n能量 : <color%3D#FF59C2FF>300000</color> | 能量吞吐量 : <color%3D#FF59C2FF>2000</color>\n物理 : <color%3D#FF59C2FF>3000</color> | 速度 : <color%3D#FF59C2FF>2000</color>\n[MP] : <color%3D#FF59C2FF>2000</color> | [AM] : <color%3D#00FF00FF>999</color> | [DM] : <color%3D#00FF00FF>999</color> | [HM] : <color%3D#00FF00FF>999</color>\n状态 : [灵魂] | [AC] : <color%3D#41138CFF>COLOR</color>.
 
-<b>[SPG 01] Baraggan Louisenbairn</b>\r\nEnergy : <color%3D#6E9000FF>85000</color>  |  Energy Throughput : <color%3D#49A2A7FF>1050</color>\nPhysical : <color%3D#C670B9FF>1700</color>  |  Speed : <color%3D#38C700FF>780</color>\n[MP] : <color%3D#40BF00FF>750</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#990D0DFF>COLOR</color>.=<b>[SPG 01] 拜勒岗·鲁伊森邦</b>\r\n能量 : <color%3D#6E9000FF>85000</color> | 能量吞吐量 : <color%3D#49A2A7FF>1050</color>\n肉体 : <color%3D#C670B9FF>1700</color> | 速度 : <color%3D#38C700FF>780</color>\n[MP] : <color%3D#40BF00FF>750</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#990D0DFF>COLOR</color>.
+<b>[SPG 01] Baraggan Louisenbairn</b>\r\nEnergy : <color%3D#6E9000FF>85000</color>  |  Energy Throughput : <color%3D#49A2A7FF>1050</color>\nPhysical : <color%3D#C670B9FF>1700</color>  |  Speed : <color%3D#38C700FF>780</color>\n[MP] : <color%3D#40BF00FF>750</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#990D0DFF>COLOR</color>.=<b>[SPG 01] 拜勒岗·鲁伊森邦</b>\r\n能量 : <color%3D#6E9000FF>85000</color> | 能量吞吐量 : <color%3D#49A2A7FF>1050</color>\n物理 : <color%3D#C670B9FF>1700</color> | 速度 : <color%3D#38C700FF>780</color>\n[MP] : <color%3D#40BF00FF>750</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#990D0DFF>COLOR</color>.
 
-<b>[SPG 01] Byakuya Kuchiki</b>\r\nEnergy : <color%3D#AA5500FF>50000</color>  |  Energy Throughput : <color%3D#33CC00FF>800</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#3A3F44FF>COLOR</color>.=<b>[SPG 01] 朽木白哉</b>\r\n能量 : <color%3D#AA5500FF>50000</color> | 能量吞吐量 : <color%3D#33CC00FF>800</color>\n肉体 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#3A3F44FF>COLOR</color>.
+<b>[SPG 01] Byakuya Kuchiki</b>\r\nEnergy : <color%3D#AA5500FF>50000</color>  |  Energy Throughput : <color%3D#33CC00FF>800</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#3A3F44FF>COLOR</color>.=<b>[SPG 01] 朽木白哉</b>\r\n能量 : <color%3D#AA5500FF>50000</color> | 能量吞吐量 : <color%3D#33CC00FF>800</color>\n物理 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#3A3F44FF>COLOR</color>.
 
-<b>[SPG 01] Gin Ichimaru</b>\r\nEnergy : <color%3D#996600FF>60000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#554070FF>COLOR</color>.=<b>[SPG 01] 市丸银</b>\r\n能量 : <color%3D#996600FF>60000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#554070FF>COLOR</color>.
+<b>[SPG 01] Gin Ichimaru</b>\r\nEnergy : <color%3D#996600FF>60000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#554070FF>COLOR</color>.=<b>[SPG 01] 市丸银</b>\r\n能量 : <color%3D#996600FF>60000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n物理 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#3BC400FF>770</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#554070FF>COLOR</color>.
 
-<b>[SPG 01] Grimmjow Jaegerjaquez</b>\r\nEnergy : <color%3D#AA5500FF>50000</color>  |  Energy Throughput : <color%3D#5DA200FF>635</color>\nPhysical : <color%3D#838BB0FF>1350</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#59A600FF>650</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#004FA4FF>COLOR</color>.=<b>[SPG 01] 葛力姆乔·贾卡杰克</b>\r\n能量 : <color%3D#AA5500FF>50000</color> | 能量吞吐量 : <color%3D#5DA200FF>635</color>\n肉体 : <color%3D#838BB0FF>1350</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#59A600FF>650</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#004FA4FF>COLOR</color>.
+<b>[SPG 01] Grimmjow Jaegerjaquez</b>\r\nEnergy : <color%3D#AA5500FF>50000</color>  |  Energy Throughput : <color%3D#5DA200FF>635</color>\nPhysical : <color%3D#838BB0FF>1350</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#59A600FF>650</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#004FA4FF>COLOR</color>.=<b>[SPG 01] 葛力姆乔·贾卡杰克</b>\r\n能量 : <color%3D#AA5500FF>50000</color> | 能量吞吐量 : <color%3D#5DA200FF>635</color>\n物理 : <color%3D#838BB0FF>1350</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#59A600FF>650</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#004FA4FF>COLOR</color>.
 
-<b>[SPG 01] Hichigo</b>\r\nEnergy : <color%3D#CC3300FF>30000</color>  |  Energy Throughput : <color%3D#669900FF>600</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 虚白</b>\r\n能量 : <color%3D#CC3300FF>30000</color> | 能量吞吐量 : <color%3D#669900FF>600</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#4D0000FF>COLOR</color>.
+<b>[SPG 01] Hichigo</b>\r\nEnergy : <color%3D#CC3300FF>30000</color>  |  Energy Throughput : <color%3D#669900FF>600</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 虚白</b>\r\n能量 : <color%3D#CC3300FF>30000</color> | 能量吞吐量 : <color%3D#669900FF>600</color>\n物理 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#4D0000FF>COLOR</color>.
 
-<b>[SPG 01] Hitsugaya Toshiro</b>\r\nEnergy : <color%3D#BB4400FF>40000</color>  |  Energy Throughput : <color%3D#619E00FF>620</color>\nPhysical : <color%3D#838BB0FF>1350</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#4CB200FF>700</color> | [AM] : <color%3D#40BF00FF>750</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#B04F00FF>310</color>\nState : [Soul]  |  [AC] : <color%3D#416181FF>COLOR</color>.=<b>[SPG 01] 日番谷冬狮郎</b>\r\n能量 : <color%3D#BB4400FF>40000</color> | 能量吞吐量 : <color%3D#619E00FF>620</color>\n肉体 : <color%3D#838BB0FF>1350</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#4CB200FF>700</color> | [AM] : <color%3D#40BF00FF>750</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#B04F00FF>310</color>\n状态 : [灵魂] | [AC] : <color%3D#416181FF>COLOR</color>.
+<b>[SPG 01] Hitsugaya Toshiro</b>\r\nEnergy : <color%3D#BB4400FF>40000</color>  |  Energy Throughput : <color%3D#619E00FF>620</color>\nPhysical : <color%3D#838BB0FF>1350</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#4CB200FF>700</color> | [AM] : <color%3D#40BF00FF>750</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#B04F00FF>310</color>\nState : [Soul]  |  [AC] : <color%3D#416181FF>COLOR</color>.=<b>[SPG 01] 日番谷冬狮郎</b>\r\n能量 : <color%3D#BB4400FF>40000</color> | 能量吞吐量 : <color%3D#619E00FF>620</color>\n物理 : <color%3D#838BB0FF>1350</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#4CB200FF>700</color> | [AM] : <color%3D#40BF00FF>750</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#B04F00FF>310</color>\n状态 : [灵魂] | [AC] : <color%3D#416181FF>COLOR</color>.
 
-<b>[SPG 01] Ichigo</b>\r\nEnergy : <color%3D#D42A00FF>25000</color>  |  Energy Throughput : <color%3D#669900FF>600</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#2D4E61FF>COLOR</color>.=<b>[SPG 01] 黑崎一护</b>\r\n能量 : <color%3D#D42A00FF>25000</color> | 能量吞吐量 : <color%3D#669900FF>600</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#2D4E61FF>COLOR</color>.
+<b>[SPG 01] Ichigo</b>\r\nEnergy : <color%3D#D42A00FF>25000</color>  |  Energy Throughput : <color%3D#669900FF>600</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#2D4E61FF>COLOR</color>.=<b>[SPG 01] 黑崎一护</b>\r\n能量 : <color%3D#D42A00FF>25000</color> | 能量吞吐量 : <color%3D#669900FF>600</color>\n物理 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#2D4E61FF>COLOR</color>.
 
-<b>[SPG 01] Kaname Tousen</b>\r\nEnergy : <color%3D#808000FF>75000</color>  |  Energy Throughput : <color%3D#798FAEFF>1300</color>\nPhysical : <color%3D#9086B2FF>1420</color>  |  Speed : <color%3D#539EA9FF>1100</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#619E00FF>620</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\nState : [Soul]  |  [AC] : <color%3D#B266B2FF>COLOR</color>.=<b>[SPG 01] 东仙要</b>\r\n能量 : <color%3D#808000FF>75000</color> | 能量吞吐量 : <color%3D#798FAEFF>1300</color>\n肉体 : <color%3D#9086B2FF>1420</color> | 速度 : <color%3D#539EA9FF>1100</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#619E00FF>620</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\n状态 : [灵魂] | [AC] : <color%3D#B266B2FF>COLOR</color>.
+<b>[SPG 01] Kaname Tousen</b>\r\nEnergy : <color%3D#808000FF>75000</color>  |  Energy Throughput : <color%3D#798FAEFF>1300</color>\nPhysical : <color%3D#9086B2FF>1420</color>  |  Speed : <color%3D#539EA9FF>1100</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#619E00FF>620</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\nState : [Soul]  |  [AC] : <color%3D#B266B2FF>COLOR</color>.=<b>[SPG 01] 东仙要</b>\r\n能量 : <color%3D#808000FF>75000</color> | 能量吞吐量 : <color%3D#798FAEFF>1300</color>\n物理 : <color%3D#9086B2FF>1420</color> | 速度 : <color%3D#539EA9FF>1100</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#619E00FF>620</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\n状态 : [灵魂] | [AC] : <color%3D#B266B2FF>COLOR</color>.
 
-<b>[SPG 01] Kenpachi Zaraki</b>\r\nEnergy : <color%3D#669900FF>90000</color>  |  Energy Throughput : <color%3D#9F7FB4FF>1500</color>\nPhysical : <color%3D#FF59C2FF>2125</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#E61A00FF>100</color> | [DM] : <color%3D#D92600FF>150</color> | [HM] : <color%3D#E61A00FF>100</color>\nState : [Soul]  |  [AC] : <color%3D#FFB41AFF>COLOR</color>.=<b>[SPG 01] 更木剑八</b>\r\n能量 : <color%3D#669900FF>90000</color> | 能量吞吐量 : <color%3D#9F7FB4FF>1500</color>\n肉体 : <color%3D#FF59C2FF>2125</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#E61A00FF>100</color> | [DM] : <color%3D#D92600FF>150</color> | [HM] : <color%3D#E61A00FF>100</color>\n状态 : [灵魂] | [AC] : <color%3D#FFB41AFF>COLOR</color>.
+<b>[SPG 01] Kenpachi Zaraki</b>\r\nEnergy : <color%3D#669900FF>90000</color>  |  Energy Throughput : <color%3D#9F7FB4FF>1500</color>\nPhysical : <color%3D#FF59C2FF>2125</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#E61A00FF>100</color> | [DM] : <color%3D#D92600FF>150</color> | [HM] : <color%3D#E61A00FF>100</color>\nState : [Soul]  |  [AC] : <color%3D#FFB41AFF>COLOR</color>.=<b>[SPG 01] 更木剑八</b>\r\n能量 : <color%3D#669900FF>90000</color> | 能量吞吐量 : <color%3D#9F7FB4FF>1500</color>\n物理 : <color%3D#FF59C2FF>2125</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#E61A00FF>100</color> | [DM] : <color%3D#D92600FF>150</color> | [HM] : <color%3D#E61A00FF>100</color>\n状态 : [灵魂] | [AC] : <color%3D#FFB41AFF>COLOR</color>.
 
-<b>[SPG 01] Kira Izuru</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 吉良伊鹤</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
+<b>[SPG 01] Kira Izuru</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 吉良伊鹤</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n物理 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
 
-<b>[SPG 01] Kisuke Urahara</b>\r\nEnergy : <color%3D#778800FF>80000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#B378B7FF>1600</color>  |  Speed : <color%3D#1AE600FF>900</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#40A6A6FF>1000</color> | [DM] : <color%3D#40A6A6FF>1000</color> | [HM] : <color%3D#40A6A6FF>1000</color>\nState : [Soul]  |  [AC] : <color%3D#3D0600FF>COLOR</color>.=<b>[SPG 01] 浦原喜助</b>\r\n能量 : <color%3D#778800FF>80000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n肉体 : <color%3D#B378B7FF>1600</color> | 速度 : <color%3D#1AE600FF>900</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#40A6A6FF>1000</color> | [DM] : <color%3D#40A6A6FF>1000</color> | [HM] : <color%3D#40A6A6FF>1000</color>\n状态 : [灵魂] | [AC] : <color%3D#3D0600FF>COLOR</color>.
+<b>[SPG 01] Kisuke Urahara</b>\r\nEnergy : <color%3D#778800FF>80000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#B378B7FF>1600</color>  |  Speed : <color%3D#1AE600FF>900</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#40A6A6FF>1000</color> | [DM] : <color%3D#40A6A6FF>1000</color> | [HM] : <color%3D#40A6A6FF>1000</color>\nState : [Soul]  |  [AC] : <color%3D#3D0600FF>COLOR</color>.=<b>[SPG 01] 浦原喜助</b>\r\n能量 : <color%3D#778800FF>80000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n物理 : <color%3D#B378B7FF>1600</color> | 速度 : <color%3D#1AE600FF>900</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#40A6A6FF>1000</color> | [DM] : <color%3D#40A6A6FF>1000</color> | [HM] : <color%3D#40A6A6FF>1000</color>\n状态 : [灵魂] | [AC] : <color%3D#3D0600FF>COLOR</color>.
 
-<b>[SPG 01] Kyoraku Shunsui</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#941A7BFF>COLOR</color>.=<b>[SPG 01] 京乐春水</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#941A7BFF>COLOR</color>.
+<b>[SPG 01] Kyoraku Shunsui</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#941A7BFF>COLOR</color>.=<b>[SPG 01] 京乐春水</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n物理 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#941A7BFF>COLOR</color>.
 
-<b>[SPG 01] Mayuri Kurotsuchi</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#924273FF>COLOR</color>.=<b>[SPG 01] 涅茧利</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#924273FF>COLOR</color>.
+<b>[SPG 01] Mayuri Kurotsuchi</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\nState : [Soul]  |  [AC] : <color%3D#924273FF>COLOR</color>.=<b>[SPG 01] 涅茧利</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n物理 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#20DF00FF>875</color> | [DM] : <color%3D#26D900FF>850</color> | [HM] : <color%3D#4AB500FF>710</color>\n状态 : [灵魂] | [AC] : <color%3D#924273FF>COLOR</color>.
 
-<b>[SPG 01] Orihime Inoue</b>\r\nEnergy : <color%3D#FA0500FF>3000</color>  |  Energy Throughput : <color%3D#CC3300FF>200</color>\nPhysical : <color%3D#808000FF>500</color>  |  Speed : <color%3D#F20D00FF>50</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#3D3900FF>COLOR</color>.=<b>[SPG 01] 井上织姬</b>\r\n能量 : <color%3D#FA0500FF>3000</color> | 能量吞吐量 : <color%3D#CC3300FF>200</color>\n肉体 : <color%3D#808000FF>500</color> | 速度 : <color%3D#F20D00FF>50</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#3D3900FF>COLOR</color>.
+<b>[SPG 01] Orihime Inoue</b>\r\nEnergy : <color%3D#FA0500FF>3000</color>  |  Energy Throughput : <color%3D#CC3300FF>200</color>\nPhysical : <color%3D#808000FF>500</color>  |  Speed : <color%3D#F20D00FF>50</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#3D3900FF>COLOR</color>.=<b>[SPG 01] 井上织姬</b>\r\n能量 : <color%3D#FA0500FF>3000</color> | 能量吞吐量 : <color%3D#CC3300FF>200</color>\n物理 : <color%3D#808000FF>500</color> | 速度 : <color%3D#F20D00FF>50</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#3D3900FF>COLOR</color>.
 
-<b>[SPG 01] Rangiku Matsumoto</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 松本乱菊</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
+<b>[SPG 01] Rangiku Matsumoto</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 松本乱菊</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n物理 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
 
-<b>[SPG 01] Renji Abarai</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 阿散井恋次</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
+<b>[SPG 01] Renji Abarai</b>\r\nEnergy : <color%3D#E01F00FF>18000</color>  |  Energy Throughput : <color%3D#8C7300FF>450</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\nState : [Soul]  |  [AC] : <color%3D#4D0000FF>COLOR</color>.=<b>[SPG 01] 阿散井恋次</b>\r\n能量 : <color%3D#E01F00FF>18000</color> | 能量吞吐量 : <color%3D#8C7300FF>450</color>\n物理 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#8C7300FF>450</color>\n[MP] : <color%3D#738C00FF>550</color> | [AM] : <color%3D#996600FF>400</color> | [DM] : <color%3D#B24C00FF>300</color> | [HM] : <color%3D#FA0500FF>20</color>\n状态 : [灵魂] | [AC] : <color%3D#4D0000FF>COLOR</color>.
 
-<b>[SPG 01] Rukia Kuchiki</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#40A6A6FF>1000</color>  |  Speed : <color%3D#B24C00FF>300</color>\n[MP] : <color%3D#6B9400FF>580</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\nState : [Soul]  |  [AC] : <color%3D#3A3F44FF>COLOR</color>.=<b>[SPG 01] 朽木露琪亚</b>\r\n能量 : <color%3D#E61A00FF>15000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n肉体 : <color%3D#40A6A6FF>1000</color> | 速度 : <color%3D#B24C00FF>300</color>\n[MP] : <color%3D#6B9400FF>580</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\n状态 : [灵魂] | [AC] : <color%3D#3A3F44FF>COLOR</color>.
+<b>[SPG 01] Rukia Kuchiki</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#40A6A6FF>1000</color>  |  Speed : <color%3D#B24C00FF>300</color>\n[MP] : <color%3D#6B9400FF>580</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\nState : [Soul]  |  [AC] : <color%3D#3A3F44FF>COLOR</color>.=<b>[SPG 01] 朽木露琪亚</b>\r\n能量 : <color%3D#E61A00FF>15000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n物理 : <color%3D#40A6A6FF>1000</color> | 速度 : <color%3D#B24C00FF>300</color>\n[MP] : <color%3D#6B9400FF>580</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#59A600FF>650</color> | [HM] : <color%3D#CC3300FF>200</color>\n状态 : [灵魂] | [AC] : <color%3D#3A3F44FF>COLOR</color>.
 
-<b>[SPG 01] Shinji Hirako</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#9683B2FF>1450</color>  |  Speed : <color%3D#7093ADFF>1250</color>\n[MP] : <color%3D#2ED100FF>820</color> | [AM] : <color%3D#26D900FF>850</color> | [DM] : <color%3D#2ED100FF>820</color> | [HM] : <color%3D#40BF00FF>750</color>\nState : [Soul]  |  [AC] : <color%3D#917131FF>COLOR</color>.=<b>[SPG 01] 平子真子</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n肉体 : <color%3D#9683B2FF>1450</color> | 速度 : <color%3D#7093ADFF>1250</color>\n[MP] : <color%3D#2ED100FF>820</color> | [AM] : <color%3D#26D900FF>850</color> | [DM] : <color%3D#2ED100FF>820</color> | [HM] : <color%3D#40BF00FF>750</color>\n状态 : [灵魂] | [AC] : <color%3D#917131FF>COLOR</color>.
+<b>[SPG 01] Shinji Hirako</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#9683B2FF>1450</color>  |  Speed : <color%3D#7093ADFF>1250</color>\n[MP] : <color%3D#2ED100FF>820</color> | [AM] : <color%3D#26D900FF>850</color> | [DM] : <color%3D#2ED100FF>820</color> | [HM] : <color%3D#40BF00FF>750</color>\nState : [Soul]  |  [AC] : <color%3D#917131FF>COLOR</color>.=<b>[SPG 01] 平子真子</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n物理 : <color%3D#9683B2FF>1450</color> | 速度 : <color%3D#7093ADFF>1250</color>\n[MP] : <color%3D#2ED100FF>820</color> | [AM] : <color%3D#26D900FF>850</color> | [DM] : <color%3D#2ED100FF>820</color> | [HM] : <color%3D#40BF00FF>750</color>\n状态 : [灵魂] | [AC] : <color%3D#917131FF>COLOR</color>.
 
-<b>[SPG 01] Stark Coyote</b>\r\nEnergy : <color%3D#669900FF>90000</color>  |  Energy Throughput : <color%3D#7093ADFF>1250</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#2ED100FF>820</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#002485FF>COLOR</color>.=<b>[SPG 01] 史塔克·柯雅泰</b>\r\n能量 : <color%3D#669900FF>90000</color> | 能量吞吐量 : <color%3D#7093ADFF>1250</color>\n肉体 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#2ED100FF>820</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#002485FF>COLOR</color>.
+<b>[SPG 01] Stark Coyote</b>\r\nEnergy : <color%3D#669900FF>90000</color>  |  Energy Throughput : <color%3D#7093ADFF>1250</color>\nPhysical : <color%3D#BC74B8FF>1650</color>  |  Speed : <color%3D#2ED100FF>820</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#002485FF>COLOR</color>.=<b>[SPG 01] 史塔克·柯雅泰</b>\r\n能量 : <color%3D#669900FF>90000</color> | 能量吞吐量 : <color%3D#7093ADFF>1250</color>\n物理 : <color%3D#BC74B8FF>1650</color> | 速度 : <color%3D#2ED100FF>820</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#002485FF>COLOR</color>.
 
-<b>[SPG 01] Tier Harribel</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#25DA00FF>855</color>\nPhysical : <color%3D#9683B2FF>1450</color>  |  Speed : <color%3D#50AF00FF>685</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#EABE2CFF>COLOR</color>.=<b>[SPG 01] 蒂雅·赫丽贝尔</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#25DA00FF>855</color>\n肉体 : <color%3D#9683B2FF>1450</color> | 速度 : <color%3D#50AF00FF>685</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#EABE2CFF>COLOR</color>.
+<b>[SPG 01] Tier Harribel</b>\r\nEnergy : <color%3D#887700FF>70000</color>  |  Energy Throughput : <color%3D#25DA00FF>855</color>\nPhysical : <color%3D#9683B2FF>1450</color>  |  Speed : <color%3D#50AF00FF>685</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#EABE2CFF>COLOR</color>.=<b>[SPG 01] 蒂雅·赫丽贝尔</b>\r\n能量 : <color%3D#887700FF>70000</color> | 能量吞吐量 : <color%3D#25DA00FF>855</color>\n物理 : <color%3D#9683B2FF>1450</color> | 速度 : <color%3D#50AF00FF>685</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#EABE2CFF>COLOR</color>.
 
-<b>[SPG 01] Ukitake Jushiro</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#39C600FF>775</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#639C00FF>610</color>\nState : [Soul]  |  [AC] : <color%3D#8A8A8AFF>COLOR</color>.=<b>[SPG 01] 浮竹十四郎</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#39C600FF>775</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#639C00FF>610</color>\n状态 : [灵魂] | [AC] : <color%3D#8A8A8AFF>COLOR</color>.
+<b>[SPG 01] Ukitake Jushiro</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#39C600FF>775</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#639C00FF>610</color>\nState : [Soul]  |  [AC] : <color%3D#8A8A8AFF>COLOR</color>.=<b>[SPG 01] 浮竹十四郎</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n物理 : <color%3D#798FAEFF>1300</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#1AE600FF>900</color> | [AM] : <color%3D#39C600FF>775</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#639C00FF>610</color>\n状态 : [灵魂] | [AC] : <color%3D#8A8A8AFF>COLOR</color>.
 
-<b>[SPG 01] Ulquiorra Cifer</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#25DA00FF>855</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#00A66AFF>COLOR</color>.=<b>[SPG 01] 乌尔奇奥拉·西法</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#25DA00FF>855</color>\n肉体 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#00A66AFF>COLOR</color>.
+<b>[SPG 01] Ulquiorra Cifer</b>\r\nEnergy : <color%3D#906E00FF>65000</color>  |  Energy Throughput : <color%3D#25DA00FF>855</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Soul]  |  [AC] : <color%3D#00A66AFF>COLOR</color>.=<b>[SPG 01] 乌尔奇奥拉·西法</b>\r\n能量 : <color%3D#906E00FF>65000</color> | 能量吞吐量 : <color%3D#25DA00FF>855</color>\n物理 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#4CB200FF>700</color>\n[MP] : <color%3D#26D900FF>850</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\n状态 : [灵魂] | [AC] : <color%3D#00A66AFF>COLOR</color>.
 
-<b>[SPG 01] Uryu Ishida</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#7093ADFF>1250</color>  |  Speed : <color%3D#808000FF>500</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#001F39FF>COLOR</color>.=<b>[SPG 01] 石田雨龙</b>\r\n能量 : <color%3D#E61A00FF>15000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n肉体 : <color%3D#7093ADFF>1250</color> | 速度 : <color%3D#808000FF>500</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#001F39FF>COLOR</color>.
+<b>[SPG 01] Uryu Ishida</b>\r\nEnergy : <color%3D#E61A00FF>15000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#7093ADFF>1250</color>  |  Speed : <color%3D#808000FF>500</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#001F39FF>COLOR</color>.=<b>[SPG 01] 石田雨龙</b>\r\n能量 : <color%3D#E61A00FF>15000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n物理 : <color%3D#7093ADFF>1250</color> | 速度 : <color%3D#808000FF>500</color>\n[MP] : <color%3D#996600FF>400</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#001F39FF>COLOR</color>.
 
-<b>[SPG 01] Yamamoto Genryuusai</b>\r\nEnergy : <color%3D#8C87B1FF>210000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#FF59C2FF>5500</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#0DF200FF>950</color> | [AM] : <color%3D#06F900FF>975</color> | [DM] : <color%3D#0DF200FF>950</color> | [HM] : <color%3D#17E800FF>910</color>\nState : [Soul]  |  [AC] : <color%3D#E64C1FFF>COLOR</color>.=<b>[SPG 01] 山本元柳斋</b>\r\n能量 : <color%3D#8C87B1FF>210000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n肉体 : <color%3D#FF59C2FF>5500</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#0DF200FF>950</color> | [AM] : <color%3D#06F900FF>975</color> | [DM] : <color%3D#0DF200FF>950</color> | [HM] : <color%3D#17E800FF>910</color>\n状态 : [灵魂] | [AC] : <color%3D#E64C1FFF>COLOR</color>.
+<b>[SPG 01] Yamamoto Genryuusai</b>\r\nEnergy : <color%3D#8C87B1FF>210000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#FF59C2FF>5500</color>  |  Speed : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#0DF200FF>950</color> | [AM] : <color%3D#06F900FF>975</color> | [DM] : <color%3D#0DF200FF>950</color> | [HM] : <color%3D#17E800FF>910</color>\nState : [Soul]  |  [AC] : <color%3D#E64C1FFF>COLOR</color>.=<b>[SPG 01] 山本元柳斋</b>\r\n能量 : <color%3D#8C87B1FF>210000</color> | 能量吞吐量 : <color%3D#40A6A6FF>1000</color>\n物理 : <color%3D#FF59C2FF>5500</color> | 速度 : <color%3D#33CC00FF>800</color>\n[MP] : <color%3D#0DF200FF>950</color> | [AM] : <color%3D#06F900FF>975</color> | [DM] : <color%3D#0DF200FF>950</color> | [HM] : <color%3D#17E800FF>910</color>\n状态 : [灵魂] | [AC] : <color%3D#E64C1FFF>COLOR</color>.
 
-<b>[SPG 01] Yasutora Sado</b>\r\nEnergy : <color%3D#F00F00FF>9000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#7D8DAFFF>1320</color>  |  Speed : <color%3D#A65900FF>350</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#2D4E61FF>COLOR</color>.=<b>[SPG 01] 茶渡泰虎</b>\r\n能量 : <color%3D#F00F00FF>9000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n肉体 : <color%3D#7D8DAFFF>1320</color> | 速度 : <color%3D#A65900FF>350</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#2D4E61FF>COLOR</color>.
+<b>[SPG 01] Yasutora Sado</b>\r\nEnergy : <color%3D#F00F00FF>9000</color>  |  Energy Throughput : <color%3D#A65900FF>350</color>\nPhysical : <color%3D#7D8DAFFF>1320</color>  |  Speed : <color%3D#A65900FF>350</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#2D4E61FF>COLOR</color>.=<b>[SPG 01] 茶渡泰虎</b>\r\n能量 : <color%3D#F00F00FF>9000</color> | 能量吞吐量 : <color%3D#A65900FF>350</color>\n物理 : <color%3D#7D8DAFFF>1320</color> | 速度 : <color%3D#A65900FF>350</color>\n[MP] : <color%3D#E61A00FF>100</color> | [AM] : <color%3D#FF0000FF>0</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\n状态 : [人类] | [AC] : <color%3D#2D4E61FF>COLOR</color>.
 
-<b>[SPG 01] Yoruichi Shihoin</b>\r\nEnergy : <color%3D#996600FF>60000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#D968BCFF>1800</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#33CC00FF>800</color> | [DM] : <color%3D#33CC00FF>800</color> | [HM] : <color%3D#33CC00FF>800</color>\nState : [Human]  |  [AC] : <color%3D#3D3900FF>COLOR</color>.=<b>[SPG 01] 四枫院夜一</b>\r\n能量 : <color%3D#996600FF>60000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n肉体 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#D968BCFF>1800</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#33CC00FF>800</color> | [DM] : <color%3D#33CC00FF>800</color> | [HM] : <color%3D#33CC00FF>800</color>\n状态 : [人类] | [AC] : <color%3D#3D3900FF>COLOR</color>.
+<b>[SPG 01] Yoruichi Shihoin</b>\r\nEnergy : <color%3D#996600FF>60000</color>  |  Energy Throughput : <color%3D#6696ABFF>1200</color>\nPhysical : <color%3D#A97CB5FF>1550</color>  |  Speed : <color%3D#D968BCFF>1800</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#33CC00FF>800</color> | [DM] : <color%3D#33CC00FF>800</color> | [HM] : <color%3D#33CC00FF>800</color>\nState : [Human]  |  [AC] : <color%3D#3D3900FF>COLOR</color>.=<b>[SPG 01] 四枫院夜一</b>\r\n能量 : <color%3D#996600FF>60000</color> | 能量吞吐量 : <color%3D#6696ABFF>1200</color>\n物理 : <color%3D#A97CB5FF>1550</color> | 速度 : <color%3D#D968BCFF>1800</color>\n[MP] : <color%3D#40A6A6FF>1000</color> | [AM] : <color%3D#33CC00FF>800</color> | [DM] : <color%3D#33CC00FF>800</color> | [HM] : <color%3D#33CC00FF>800</color>\n状态 : [人类] | [AC] : <color%3D#3D3900FF>COLOR</color>.
 
 //*右键菜单
 
@@ -490,8 +492,8 @@ r:"Max Energy: (.*)"=最大能量: $1
 Set Custom Max Energy\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义最大能量</b>\n<size%3D70%>使用默认值时设为 -1
 r:"Energy Throughput:\s*(.*)"=能量吞吐量: $1
 Set Custom Energy Throughput\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义能量吞吐量</b>\n<size%3D70%>使用默认值时设为 -1
-r:"Physical:\s*(.*)"=肉体: $1
-Set Custom Physical\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义肉体</b>\n<size%3D70%>使用默认值时设为 -1
+r:"Physical:\s*(.*)"=物理: $1
+Set Custom Physical\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义物理</b>\n<size%3D70%>使用默认值时设为 -1
 r:"Speed:\s*(.*)"=速度: $1
 Set Custom Speed\n<size%3D70%>Set -1 for use Stage value=<b>设置自定义速度</b>\n<size%3D70%>使用默认值时设为 -1
 r:"Sword Mastery:\s*(.*)"=剑术精通: $1
@@ -509,6 +511,16 @@ Force Collision: <color%3D#FF0000FF>Disabled</color>=强制碰撞: <color%3D#FF0
 Magic Skills: <color%3D#00FF00FF>Enabled</color>=魔法技能: <color%3D#00FF00FF>开启</color>
 Magic Skills: <color%3D#FF0000FF>Disabled</color>=魔法技能: <color%3D#FF0000FF>关闭</color>
 
+
+
+
+
+
+
+
+
+
+
 //*能力选择
 
 Ability Picker=能力选择器
@@ -520,7 +532,7 @@ Infinity Energy=无限能量
 God Hand=神之手
 RealMaxEnergy:=实际最大能量:
 EnergyThroughput:=能量吞吐量:
-Physical:=肉体:
+Physical:=物理:
 Speed:=速度:
 SwordMastery:=剑术精通:
 MagicPower:=[MP]魔力:
@@ -551,86 +563,125 @@ All characters can punch and kick Enabled by default\r\n Target: AnyLimb=所有�
 
 Strong Punch Ability=强力打击能力
 If the strength parameter is greater than 350 - you can enable strong punches Pressing "H" instantly charges a punch, and the next hit deals area damage, knocking back Radius, damage, and knockback increase with strength\r\n Target: AnyLimb=如果力量参数大于350，你可以解锁强力拳击. 按下“H”键会立即充能一拳，下一次攻击会造成范围伤害，击退半径、伤害和击退效果都会随着力量的增加而增强\n\n目标: 任意肢体
+If the strength parameter is greater than 350 - you can enable strong punches Pressing "H" instantly charges a punch, and the next hit deals area damage, knocking back Radius, damage, and knockback increase with strength=如果力量参数大于350，你可以解锁强力拳击. 按下“H”键会立即充能一拳，下一次攻击会造成范围伤害，击退半径、伤害和击退效果都会随着力量的增加而增强
 
 Stops Swords Objects and Some Attacks upon contact\n\n Target: AnyGripBehaviour=接触时能阻止剑类物体和一些攻击\n\n目标: 任何有抓握行为肢体
+Stops Swords Objects and Some Attacks upon contact=接触时能阻止剑类物体和一些攻击
 
 When the H button is pressed, the sword is no longer fixed in the hand. Now you can spin it in a circle. Pressing H again stops the sword. Pressing K makes the sword spin automatically\r\n Target: AnyGripBehaviour=按下H键后物品不再固定在手中.现在你可以旋转它.再次按下H键可停止物品旋转.按H松开再按住K键则可使物品自动旋转\n\n目标: 任何有抓握行为肢体
+When the H button is pressed, the sword is no longer fixed in the hand. Now you can spin it in a circle. Pressing H again stops the sword. Pressing K makes the sword spin automatically=按下H键后物品不再固定在手中.现在你可以旋转它.再次按下H键可停止物品旋转.按H松开再按住K键则可使物品自动旋转
 
 Throws an item and returns it X / Additonal Four Button\n\n Target: AnyGripBehaviour=按X投掷一个物品再按X收回/附加四个按钮\r\n 目标：任何抓取行为肢体
+Throws an item and returns it X / Additonal Four Button=按X投掷一个物品再按X收回/附加四个按钮
 
 When the H button is pressed, the grip loosens and the weapon automatically aims at the nearest enemy.\n\n Target: AnyGripBehaviour=按下H键后松手，武器会自动指向最近的敌人\n\n 目标：任何抓取行为肢体
+When the H button is pressed, the grip loosens and the weapon automatically aims at the nearest enemy.=按下H键后松手，武器会自动指向最近的敌人
 
 Holding the F button accumulates energy and releases a small projectile that deals area damage\n\n Target: AnyGripBehaviour=按住F键会积蓄能量，并释放一枚小型投射物，造成范围伤害\n\n 目标：任何抓取行为肢体
+Holding the F button accumulates energy and releases a small projectile that deals area damage=按住F键会积蓄能量，并释放一枚小型投射物，造成范围伤害
 
 Pressing F starts accumulating energy and fires a low-power energy beam in an area\n\n Target: AnyGripBehaviour=按下F键开始积聚能量，并在一定区域内发射低功率能量束\n\n 目标：任何抓取行为肢体
+Pressing F starts accumulating energy and fires a low-power energy beam in an area=按下F键开始积聚能量，并在一定区域内发射低功率能量束
 
 Enhances holded weapon with energy\n\n Target: AnyGripBehaviour=为持有的武器充能\n\n 目标：任何抓取行为肢体
+Enhances holded weapon with energy=为持有的武器充能
 
 A stronger version of Blast 4\n\n Target: AnyGripBehaviour=\n破道之四·白雷的增强版\n\n 目标：任何抓取行为肢体
+A stronger version of Blast 4=破道之四·白雷的增强版
 
 Activate to create Aura then Activate to Explode Aura Require 750 Defend Magic\n\n Target: MiddleBody=激活以生成光环，再激活以引爆光环，需750点[DM]防御魔法解锁\n\n目标: 中半身
+Activate to create Aura then Activate to Explode Aura Require 750 Defend Magic=激活以生成光环，再激活以引爆光环，需750点[DM]防御魔法解锁
 
 Activate to create Big Black Box Require 930 Attack Magic\n\n Target: AnyGripBehaviour=激活以创造大黑盒，需要930点[AM]攻击魔法解锁\n\n 目标：任何抓取行为肢体
+Activate to create Big Black Box Require 930 Attack Magic=激活以创造大黑盒，需要930点[AM]攻击魔法解锁
 
 While holding the F button, the target the hand is aimed at is paralyzed\n\n Target: AnyGripBehaviour=按住F键时，手部瞄准的敌人的手会被锁住\n\n 目标：任何抓取行为肢体
+While holding the F button, the target the hand is aimed at is paralyzed=按住F键时，手部瞄准的敌人的手会被锁住
 
 When the ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds\n\n Target: UpperBody=当该能力被激活时，如果有什么东西接触到用户，每隔几秒就会在接触点产生一次小型排斥爆炸\n\n 目标：上半身
+When the ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds=当该能力被激活时，如果有什么东西接触到用户，每隔几秒就会在接触点产生一次小型排斥爆炸
 
 Upon activation - the ability creates a projectile, then upon further activation in the direction of the hand, the projectile disappears and the target is bound indefinitely. Pressing F again releases the target\n\n Target: AnyGripBehaviour=激活后，该能力会生成一个投射物，然后再次朝手的方向激活时，投射物会消失，目标会被无限期绑定.再次按下F键可释放目标\n\n 目标：任何抓取行为肢体
+Upon activation - the ability creates a projectile, then upon further activation in the direction of the hand, the projectile disappears and the target is bound indefinitely. Pressing F again releases the target=激活后，该能力会生成一个投射物，然后再次朝手的方向激活时，投射物会消失，目标会被无限期绑定.再次按下F键可释放目标
 
 Pressing F creates smoke in an area with a size varying depending on Defend Magic, after which there is a short delay before the next use\n\n Target: MiddleBody=按下F键会在一个区域内产生烟雾，烟雾的大小取决于[DM]防御魔法数值，之后会有短暂的延迟才能再次使用\n\n 目标: 中半身
+Pressing F creates smoke in an area with a size varying depending on Defend Magic, after which there is a short delay before the next use=按下F键会在一个区域内产生烟雾，烟雾的大小取决于[DM]防御魔法数值，之后会有短暂的延迟才能再次使用
 
-Pressing F creates a shield that absorbs damage until it is destroyed. Pressing F again can disable it.\r\n Target: AnyGripBehaviour=按F键会生成一个护盾，该护盾能吸收伤害，直至被摧毁.再次按F键可将其禁用\n\n 目标：任何抓取行为肢体
+Pressing F creates a shield that absorbs damage until it is destroyed. Pressing F again can disable it.\r\n Target: AnyGripBehaviour=按F键会生成一个护盾，该护盾能吸收伤害，直至被摧毁. 再次按F键可将其禁用.\n\n 目标：任何抓取行为肢体
+Pressing F creates a shield that absorbs damage until it is destroyed. Pressing F again can disable it.=按F键会生成一个护盾，该护盾能吸收伤害，直至被摧毁. 再次按F键可将其禁用.
 
 Pressing F fires a ray of light from the hand that forms a prison restricting movement on hit.\n\n Target: AnyGripBehaviour=按下F键，手部会发射出一道光线，击中目标后形成一道限制其移动的囚牢\n\n 目标：任何抓取行为肢体
+Pressing F fires a ray of light from the hand that forms a prison restricting movement on hit.=按下F键，手部会发射出一道光线，击中目标后形成一道限制其移动的囚牢
 
 When activated, his arm is strengthened. Pressing F builds up a charge that explodes on contact, knocking back and dealing high damage\n\n Target: AnyGripBehaviour=当被激活时，他的手臂会获得强化.按下F键会积聚能量，一旦接触就会爆炸，击退敌人并造成高额伤害\n\n 目标：任何抓取行为肢体
+When activated, his arm is strengthened. Pressing F builds up a charge that explodes on contact, knocking back and dealing high damage=当被激活时，他的手臂会获得强化.按下F键会积聚能量，一旦接触就会爆炸，击退敌人并造成高额伤害
 
 Upon activation and touch - heals the target.\n\nTarget: AnyGripBehaviour=激活并触摸目标-治疗目标\n\n 目标：任何抓取行为肢体
+Upon activation and touch - heals the target.=激活并触摸目标-治疗目标
 
-Barrage Ability=连续拳击能力
-When strength and speed parameters are above 350 - can be enabled on the upperbody Holding F delivers a series of blows\r\n Target: UpperBody=当肉体和速度数值超过350时，可以对上半身按F进行连续拳击(按H使用加强版)\n\n 目标：上半身
+Barrage Ability=弹幕拳击能力
+When strength and speed parameters are above 350 - can be enabled on the upperbody\r\nHolding F delivers a series of blows. Press H for strong barrage\n\nTarget: UpperBody=当力量和速度参数高于350时——可在上半身启用\r\n按住F键可发动一连串打击。按H键进行强力弹幕攻击\n\n目标：上半身
+When strength and speed parameters are above 350 - can be enabled on the upperbody\r\nHolding F delivers a series of blows. Press H for strong barrage=当力量和速度参数高于350时 - 可在上半身启用\r\n按住F键可发动一连串打击。按H键进行强力弹幕攻击
 
 When the speed parameter is above 350 - can be enabled on the middlebody Pressing F launches forward and deals damage to everything it passes through Pressing H allows you to choose the direction and approximate distance where the user should land\n\n Target: MiddleBody=当速度数值超过350时，可在中半体上启用.按F键可向前发射并对所经过的一切造成伤害.按H键用户可选择冲刺的方向和大致距离\n\n 目标: 中半身
+When the speed parameter is above 350 - can be enabled on the middlebody Pressing F launches forward and deals damage to everything it passes through Pressing H allows you to choose the direction and approximate distance where the user should land=当速度数值超过350时，可在中半体上启用.按F键可向前发射并对所经过的一切造成伤害.按H键用户可选择冲刺的方向和大致距离
 
 When speed and sword mastery parameters are above 700 - spark dash can be enabled on the middle body Pressing F, if there is a target a few meters ahead, teleports behind it with an effect, draining 25% of the target's total energy and dealing high damage to random limbs\r\n Target: Head=当速度和剑术精通数值超过700时，可在中半身启用火花冲刺. 若前方几米内有敌人，则可以按F键冲刺至目标后方并产生效果，吸取目标25%的总能量，并对随机肢体造成高额伤害\n\n 目标: 中半身&头
+When speed and sword mastery parameters are above 700 - spark dash can be enabled on the middle body Pressing F, if there is a target a few meters ahead, teleports behind it with an effect, draining 25% of the target's total energy and dealing high damage to random limbs=当速度和剑术精通数值超过700时，可在中半身启用火花冲刺. 若前方几米内有敌人，则可以按F键冲刺至目标后方并产生效果，吸取目标25%的总能量，并对随机肢体造成高额伤害
 
 Draw your own ricochet path by moving the mouse. Move the mouse back to undo a segment.\n\n Target: MiddleBody=按H通过移动鼠标来绘制自己的冲刺路径(鼠标经过物体和地面来绘制),将鼠标移回原处可撤销一段路径\n\n 目标: 中半身
+Draw your own ricochet path by moving the mouse. Move the mouse back to undo a segment.=按H通过移动鼠标来绘制自己的冲刺路径(鼠标经过物体和地面来绘制),将鼠标移回原处可撤销一段路径
 
 When the speed parameter is above 700 - can be enabled on the head Pressing J or in the context menu - shows a projection of where the user will end up. Clicking on a location teleports there and deals damage to everything passed through.\r\n Target: Head=当速度数值超过700时，可以在头部按下J键或在上下文菜单中使用该功能，该功能会显示用户最终位置的投影.点击这个位置即可传送至该处，并对经过的一切造成伤害\n\n 目标: 头
+When the speed parameter is above 700 - can be enabled on the head Pressing J or in the context menu - shows a projection of where the user will end up. Clicking on a location teleports there and deals damage to everything passed through.=当速度数值超过700时，可以在头部按下J键或在上下文菜单中使用该功能，该功能会显示用户最终位置的投影.点击这个位置即可传送至该处，并对经过的一切造成伤害
 
 An instant dodge from most attacks\n\n Target: Head=能对大多数攻击进行瞬间闪避\n\n目标: 头
+An instant dodge from most attacks=能对大多数攻击进行瞬间闪避
 
 Grants Fly When Enabled\n\n Target: Head=开启飞行\n\n目标: 头
+Grants Fly When Enabled=开启飞行
 
 Allows the user to create a virtual floor beneath them. In Detail View Mode you can see him.\n\n Target: LowerBody=允许用户在自身下方创建一个空气地板.在S详细视图模式下你可以看到这个空气地板\n\n目标: 下半身
+Allows the user to create a virtual floor beneath them. In Detail View Mode you can see him.=允许用户在自身下方创建一个空气地板.在S详细视图模式下你可以看到这个空气地板
 
 Slowes time by 5X Mult\n\n Target: Head=时间减慢5倍\n\n目标: 头
+Slowes time by 5X Mult=时间减慢5倍
 
 Any owner of the energy system can enable an aura\n\n Target: Head=任何灵魂系统的拥有者都能激发出这种气场\n\n目标: 头
+Any owner of the energy system can enable an aura=任何灵魂系统的拥有者都能激发出这种气场
 
 Redistributes damage across the entire body\n\n Target: Head=将伤害分散到全身\n\n目标: 头
+Redistributes damage across the entire body=将伤害分散到全身
 
 Provides immunity to unusual damage types\n\n Target: Head=对异常伤害类型提供免疫\n\n目标: 头
+Provides immunity to unusual damage types=对异常伤害类型提供免疫
 
 Activate To Hide\n\n Target: Head=激活以隐藏\n\n目标: 头
+Activate To Hide=激活以隐藏
 
 Passive Heal=被动治愈
 Passively heals user with low speed\n\n Target: Head=以较低的速度被动地治疗用户\n\n目标: 头
+Passively heals user with low speed=以较低的速度被动地治疗用户
 
 Passive Regrowth=被动再生
 
 Keeps the user alive\n\n Target: Head=让用户保持存活\n\n目标: 头
+Keeps the user alive=让用户保持存活
 
 Any energy system owner with Energy Throughput above 500 can enable spiritual pressure It has several modes and settings If a target within the ability's area of effect is weaker than the user, then pressure of the selected type is successfully applied to them\r\n Target: UpperBody=任何灵魂系统拥有者只要其能量吞吐量超过500就能解锁灵压,该能力有多种模式和设置.如果能力作用范围内的目标比使用者弱，则所选类型的压力就能成功施加于其身上\n\n 目标：上半身
+Any energy system owner with Energy Throughput above 500 can enable spiritual pressure It has several modes and settings If a target within the ability's area of effect is weaker than the user, then pressure of the selected type is successfully applied to them=任何灵魂系统拥有者只要其能量吞吐量超过500就能解锁灵压,该能力有多种模式和设置.如果能力作用范围内的目标比使用者弱，则所选类型的压力就能成功施加于其身上
 
 Fire a powerful beam\n\n Target: Head=发射强力光束\n\n目标: 头
+Fire a powerful beam=发射强力光束
 
 Holding the F button accumulates energy and releases a projectile that deals area damage\n\n Target: AnyLimb=按住F键会积蓄能量，并释放一个造成范围伤害的投射物\n\n 目标: 任何肢体
+Holding the F button accumulates energy and releases a projectile that deals area damage=按住F键会积蓄能量，并释放一个造成范围伤害的投射物
 
 Gives passive protection against all damage\n\n Target: Head=提供对所有伤害的被动保护\n\n目标: 头
+Gives passive protection against all damage=提供对所有伤害的被动保护
 
 The creature accelerates so fast that the space around it distorts, creating a vortex with a radius of damage that will harm any target caught in it. It also allows you to significantly increase the speed parameter in exchange for energy.\n\n Target: MiddleBody=该生物速度极快，以至于其周围的空间都发生了扭曲，形成了一个具有伤害半径的漩涡，任何被卷入其中的目标都会受到伤害.此外它还能以消耗能量为代价，显著提高速度参数\n\n 目标: 中半身
+The creature accelerates so fast that the space around it distorts, creating a vortex with a radius of damage that will harm any target caught in it. It also allows you to significantly increase the speed parameter in exchange for energy.=该生物速度极快，以至于其周围的空间都发生了扭曲，形成了一个具有伤害半径的漩涡，任何被卷入其中的目标都会受到伤害.此外它还能以消耗能量为代价，显著提高速度参数
 
 Tiger Ground Punch Ability=豹王之爪能力
 Tiger Strong Punch Ability=豹王之爪能力
@@ -640,8 +691,10 @@ Fire Fist=火拳
 \n\n Target: AnyGripBehaviour=\n\n 目标：任何抓取行为肢体
 
 Activate to detach the hand\n\n Target: UpperArm=激活以分离手部\n\n 目标: 上臂
+Activate to detach the hand=激活以分离手部
 
 Multifunctional capability. Use menu to provide various scientific technologies\n\n Target: AnyGripBehaviour=多功能性.通过上下文菜单提供各种科学技术\n\n 目标：任何抓取行为肢体
+Multifunctional capability. Use menu to provide various scientific technologies=多功能性.通过上下文菜单提供各种科学技术
 
 Lightning Manipulation=操控闪电
 
@@ -653,6 +706,19 @@ Limb can't grab items=这个肢体无法抓取物品
 Is not a UpperBody=这不是上半身
 Is not a MiddleBody=这不是中半身
 Is not a LowerBody=这不是下半身
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //*灵魂游乐场设置
@@ -668,10 +734,11 @@ Cross Sword Colliders: <color%3D#FF0000FF>Disabled</color>=刀剑交叉碰撞箱
 Cross Sword Colliders: <color%3D#00FF00FF>Enabled</color>=刀剑交叉碰撞箱: <color%3D#00FF00FF>已开启</color>
 Cross Sword Colliders are colliders that interfere with other colliders of the same type, so swords can block other swords' strikes and behave more logically.=刀剑交叉碰撞箱是一种会干扰其他同类碰撞箱的碰撞箱，因此剑可以阻挡其他剑的攻击，并使行为更加符合逻辑.
 
-Auto Physical Parameter=自动解锁肉体参数
-Auto Physical Parameter: <color%3D#FF0000FF>Disabled</color>=自动解锁肉体参数: <color%3D#FF0000FF>已禁用</color>
-Auto Physical Parameter: <color%3D#00FF00FF>Enabled</color>=自动解锁肉体参数: <color%3D#00FF00FF>已开启</color>
-When enabled, all mod characters will automatically unlock the Physical parameter upon spawning. Most of the mod's features depend on this parameter. Disable this if you want to manually control when the Physical parameter is unlocked for mod characters.=启用后，所有其他模组角色生成时将自动解锁肉体属性.模组的大部分功能都依赖于这一属性.如果您想手动控制其他模组角色何时解锁物理属性，请禁用此功能
+Auto Physical Parameter=自动解锁物理参数
+<color%3D"green">Auto Physical Parameter Enabled=<color%3D"green">自动物理参数已启用
+<color%3D"red">Auto Physical Parameter Disabled=<color%3D"red">自动物理参数已禁用
+Auto Physical Parameter: <color%3D#00FF00FF>Enabled</color>\n\n<size%3D70%>When enabled, all mod characters will automatically unlock the Physical parameter upon spawning. Most of the mod's features depend on this parameter. Disable this if you want to manually control when the Physical parameter is unlocked for mod characters.=自动物理参数：<color%3D#00FF00FF>已启用</color>\n\n<size%3D70%>启用后，所有模组角色在生成时会自动解锁物理参数。模组的大部分功能都依赖于此参数。如果你想手动控制模组角色的物理参数何时解锁，请禁用此选项。
+Auto Physical Parameter: <color%3D#FF0000FF>Disabled</color>\n\n<size%3D70%>When enabled, all mod characters will automatically unlock the Physical parameter upon spawning. Most of the mod's features depend on this parameter. Disable this if you want to manually control when the Physical parameter is unlocked for mod characters.=自动物理参数：<color%3D#FF0000FF>已禁用</color>\n\n<size%3D70%>启用后，所有模组角色在生成时会自动解锁物理参数。模组的大部分功能都依赖于此参数。如果你想手动控制模组角色的物理参数何时解锁，请禁用此选项。
 
 Cell in Raw UI=原生UI单元格
 
@@ -735,8 +802,8 @@ Global Max Energy Mult=设置全局最大能量倍数
 Set Global Max Energy Mult [0.1 - 10]=全局最大能量倍数 [0.1 - 10]
 Global Energy Throughput Mult=全局能量吞吐倍数
 Set Global Energy Throughput Mult [0.1 - 10]=设置全局能量吞吐倍数 [0.1 - 10]
-Global Physical Mult=全局肉体倍数
-Set Global Physical Mult [0.1 - 10]=设置全局肉体倍数 [0.1 - 10]
+Global Physical Mult=全局物理倍数
+Set Global Physical Mult [0.1 - 10]=设置全局物理倍数 [0.1 - 10]
 Global Speed Mult=全局速度倍数
 Set Global Speed Mult [0.1 - 10]=设置全局速度倍数 [0.1 - 10]
 Global Sword Mastery Mult=全局剑术精通倍数
@@ -758,6 +825,20 @@ Fun Menu!=趣味菜单!
 Christmas Mode: =圣诞模式: 
 Everyone is wearing Christmas hats :D=大家都戴着圣诞帽呢:D
 Back to General Settings=返回通用设置
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //*能力菜单
 
@@ -1138,6 +1219,12 @@ Scale Mult: =缩放倍数：
 Tiger Ground Punch=豹王之爪
 Tiger Ground Punch Options=豹王之爪编辑器
 
+
+
+
+
+
+
 //*武器
 
 <b>[SPG 01] Hypnosis Sword</b>.=<b>[SPG 01] 镜花水月</b>.
@@ -1188,8 +1275,8 @@ MaxEnergy=最大能量
 Current: MaxEnergy=当前: 最大能量
 EnergyThroughput=能量吞吐
 Current: EnergyThroughput=当前: 能量吞吐
-Physical=肉体
-Current: Physical=当前: 肉体
+Physical=物理
+Current: Physical=当前: 物理
 SwordMastery=剑术精通
 Current: SwordMastery=当前: 剑术精通
 MagicPower=魔力
@@ -1686,53 +1773,53 @@ The target not found=未找到目标
 
 
 //*物品翻译补充
-<b>[SPG 01] Alter Butcher IItem </b>.\r\n=<b>[SPG 01] 白斩月 I</b>.\r\n
-<b>[SPG 01] Alter Butcher IIItem </b>.\r\n=<b>[SPG 01] 白斩月 II</b>.\r\n
-<b>[SPG 01] Alter Butcher IIIItem </b>.\r\n=<b>[SPG 01] 白斩月 III</b>.\r\n
-<b>[SPG 01] Ash IItem </b>.\r\n=<b>[SPG 01] 灰猫 I</b>.\r\n
-<b>[SPG 01] Ash IIItem </b>.\r\n=<b>[SPG 01] 灰猫 II</b>.\r\n
-<b>[SPG 01] Bat IItem </b>.\r\n=<b>[SPG 01] 黑翼大魔 I</b>.\r\n
-<b>[SPG 01] Bat IIItem </b>.\r\n=<b>[SPG 01] 黑翼大魔 II</b>.\r\n
-<b>[SPG 01] Bat IIIItem </b>.\r\n=<b>[SPG 01] 黑翼大魔 III</b>.\r\n
-<b>[SPG 01] Berserk IItem </b>.\r\n=<b>[SPG 01] 野晒 I</b>.\r\n
-<b>[SPG 01] Blind IItem </b>.\r\n=<b>[SPG 01] 清虫 I</b>.\r\n
-<b>[SPG 01] Blind IIItem </b>.\r\n=<b>[SPG 01] 清虫 II</b>.\r\n
-<b>[SPG 01] Bow IItem </b>.\r\n=<b>[SPG 01] 弧雀 I</b>.\r\n
-<b>[SPG 01] Butcher IItem </b>\r\nWho even use it lol??\r\n=<b>[SPG 01] 斩月 I</b>\r\n这玩意儿谁还用啊哈哈??\r\n
-<b>[SPG 01] Butcher IIItem </b>\r\nIS A BUTCHER KNIFE!\r\n=<b>[SPG 01] 斩月 II</b>\r\n这是一把屠刀!\r\n
-<b>[SPG 01] Butcher IIIItem </b>\r\nFull power of butcher knife.\r\n=<b>[SPG 01] 斩月 III</b>\r\n杀鸡焉用牛刀.\r\n
-<b>[SPG 01] Death IItem </b>.\r\n=<b>[SPG 01] 灭亡之斧 I</b>.\r\n
-<b>[SPG 01] Death IIItem </b>.\r\n=<b>[SPG 01] 灭亡之斧 II</b>.\r\n
-<b>[SPG 01] Delusion IItem </b>.\r\n=<b>[SPG 01] 逆抚 I</b>.\r\n
-<b>[SPG 01] Delusion IIItem </b>.\r\n=<b>[SPG 01] 逆抚 II</b>.\r\n
-<b>[SPG 01] Fire IItem </b>.\r\n=<b>[SPG 01] 流刃若火 I</b>.\r\n
-<b>[SPG 01] Fire IIItem </b>.\r\n=<b>[SPG 01] 流刃若火 II</b>.\r\n
-<b>[SPG 01] Green IItem </b>.\r\n=<b>[SPG 01] 红姬 I</b>.\r\n
-<b>[SPG 01] Green IIItem </b>.\r\n=<b>[SPG 01] 红姬 II</b>.\r\n
-<b>[SPG 01] Hypnosis IItem </b>.\r\n=<b>[SPG 01] 镜花水月 I</b>.\r\n
-<b>[SPG 01] Hypnosis IIItem </b>.\r\n=<b>[SPG 01] 镜花水月 II</b>.\r\n
-<b>[SPG 01] Ice IItem </b>.\r\n=<b>[SPG 01] 冰轮丸 I</b>.\r\n
-<b>[SPG 01] Ice IIItem </b>.\r\n=<b>[SPG 01] 冰轮丸 II</b>.\r\n
-<b>[SPG 01] Long IItem </b>.\r\n=<b>[SPG 01] 神枪 I</b>.\r\n
-<b>[SPG 01] Long IIItem </b>.\r\n=<b>[SPG 01] 神杀枪 II</b>.\r\n
-<b>[SPG 01] Reverse IItem </b>.\r\n=<b>[SPG 01] 双鱼理 I</b>.\r\n
-<b>[SPG 01] Reverse IIItem </b>\r\nTechnically cannot exist without an owner. Use Ability Picker or a sword instead of a form to give it.\r\n=<b>[SPG 01] 双鱼理 II</b>\r\n技术上没有所有者便无法存在. 请使用能力拾取器或剑来赋予它，而非通过形态.\r\n
-<b>[SPG 01] Sakura IItem </b>.\r\n=<b>[SPG 01] 千本樱 I</b>.\r\n
-<b>[SPG 01] Sakura IIItem </b>.\r\n=<b>[SPG 01] 千本樱 II</b>.\r\n
-<b>[SPG 01] Science IItem </b>.\r\n=<b>[SPG 01] 疋杀地藏 I</b>.\r\n
-<b>[SPG 01] Science IIItem </b>.\r\n=<b>[SPG 01] 疋杀地藏 II</b>.\r\n
-<b>[SPG 01] Shark IItem </b>.\r\n=<b>[SPG 01] 皇鲛后 I</b>.\r\n
-<b>[SPG 01] Shark IIItem </b>.\r\n=<b>[SPG 01] 皇鲛后 II</b>.\r\n
-<b>[SPG 01] Snake IItem </b>.\r\n=<b>[SPG 01] 蛇尾丸 I</b>.\r\n
-<b>[SPG 01] Snake IIItem </b>.\r\n=<b>[SPG 01] 蛇尾丸 II</b>.\r\n
-<b>[SPG 01] Snow IItem </b>.\r\n=<b>[SPG 01] 袖白雪 I</b>.\r\n
-<b>[SPG 01] Snow IIItem </b>.\r\n=<b>[SPG 01] 袖白雪 II</b>.\r\n
-<b>[SPG 01] Tricky IItem </b>.\r\n=<b>[SPG 01] 花天狂骨 I</b>.\r\n
-<b>[SPG 01] Tricky IIItem </b>\r\nTechnically cannot exist without an owner. Use Ability Picker or a sword instead of a form to give it.\r\n=<b>[SPG 01] 花天狂骨 II</b>\r\n技术上没有所有者便无法存在. 请使用能力拾取器或剑来赋予它，而非通过形态.\r\n
-<b>[SPG 01] Weight IItem </b>.\r\n=<b>[SPG 01] 侘助 I</b>.\r\n
-<b>[SPG 01] Weight IIItem </b>.\r\n=<b>[SPG 01] 侘助 II</b>.\r\n
-<b>[SPG 01] Wolf IItem </b>.\r\n=<b>[SPG 01] 孤狼 I</b>.\r\n
-<b>[SPG 01] Wolf IIItem </b>.\r\n=<b>[SPG 01] 孤狼 II</b>.\r\n
+<b>[SPG 01] Alter Butcher I Sword Form</b>.\r\n=<b>[SPG 01] 白斩月 I</b>.\r\n
+<b>[SPG 01] Alter Butcher II Sword Form</b>.\r\n=<b>[SPG 01] 白斩月 II</b>.\r\n
+<b>[SPG 01] Alter Butcher III Sword Form</b>.\r\n=<b>[SPG 01] 白斩月 III</b>.\r\n
+<b>[SPG 01] Ash I Sword Form</b>.\r\n=<b>[SPG 01] 灰猫 I</b>.\r\n
+<b>[SPG 01] Ash II Sword Form</b>.\r\n=<b>[SPG 01] 灰猫 II</b>.\r\n
+<b>[SPG 01] Bat I Sword Form</b>.\r\n=<b>[SPG 01] 黑翼大魔 I</b>.\r\n
+<b>[SPG 01] Bat II Sword Form</b>.\r\n=<b>[SPG 01] 黑翼大魔 II</b>.\r\n
+<b>[SPG 01] Bat III Sword Form</b>.\r\n=<b>[SPG 01] 黑翼大魔 III</b>.\r\n
+<b>[SPG 01] Berserk I Sword Form</b>.\r\n=<b>[SPG 01] 野晒 I</b>.\r\n
+<b>[SPG 01] Blind I Sword Form</b>.\r\n=<b>[SPG 01] 清虫 I</b>.\r\n
+<b>[SPG 01] Blind II Sword Form</b>.\r\n=<b>[SPG 01] 清虫 II</b>.\r\n
+<b>[SPG 01] Bow I Sword Form</b>.\r\n=<b>[SPG 01] 弧雀 I</b>.\r\n
+<b>[SPG 01] Butcher I Sword Form</b>\r\nWho even use it lol??\r\n=<b>[SPG 01] 斩月 I</b>\r\n这玩意儿谁还用啊哈哈??\r\n
+<b>[SPG 01] Butcher II Sword Form</b>\r\nIS A BUTCHER KNIFE!\r\n=<b>[SPG 01] 斩月 II</b>\r\n这是一把屠刀!\r\n
+<b>[SPG 01] Butcher III Sword Form</b>\r\nFull power of butcher knife.\r\n=<b>[SPG 01] 斩月 III</b>\r\n杀鸡焉用牛刀.\r\n
+<b>[SPG 01] Death I Sword Form</b>.\r\n=<b>[SPG 01] 灭亡之斧 I</b>.\r\n
+<b>[SPG 01] Death II Sword Form</b>.\r\n=<b>[SPG 01] 灭亡之斧 II</b>.\r\n
+<b>[SPG 01] Delusion I Sword Form</b>.\r\n=<b>[SPG 01] 逆抚 I</b>.\r\n
+<b>[SPG 01] Delusion II Sword Form</b>.\r\n=<b>[SPG 01] 逆抚 II</b>.\r\n
+<b>[SPG 01] Fire I Sword Form</b>.\r\n=<b>[SPG 01] 流刃若火 I</b>.\r\n
+<b>[SPG 01] Fire II Sword Form</b>.\r\n=<b>[SPG 01] 流刃若火 II</b>.\r\n
+<b>[SPG 01] Green I Sword Form</b>.\r\n=<b>[SPG 01] 红姬 I</b>.\r\n
+<b>[SPG 01] Green II Sword Form</b>.\r\n=<b>[SPG 01] 红姬 II</b>.\r\n
+<b>[SPG 01] Hypnosis I Sword Form</b>.\r\n=<b>[SPG 01] 镜花水月 I</b>.\r\n
+<b>[SPG 01] Hypnosis II Sword Form</b>.\r\n=<b>[SPG 01] 镜花水月 II</b>.\r\n
+<b>[SPG 01] Ice I Sword Form</b>.\r\n=<b>[SPG 01] 冰轮丸 I</b>.\r\n
+<b>[SPG 01] Ice II Sword Form</b>.\r\n=<b>[SPG 01] 冰轮丸 II</b>.\r\n
+<b>[SPG 01] Long I Sword Form</b>.\r\n=<b>[SPG 01] 神枪 I</b>.\r\n
+<b>[SPG 01] Long II Sword Form</b>.\r\n=<b>[SPG 01] 神杀枪 II</b>.\r\n
+<b>[SPG 01] Reverse I Sword Form</b>.\r\n=<b>[SPG 01] 双鱼理 I</b>.\r\n
+<b>[SPG 01] Reverse II Sword Form</b>\r\nTechnically cannot exist without an owner. Use Ability Picker or a sword instead of a form to give it.\r\n=<b>[SPG 01] 双鱼理 II</b>\r\n技术上没有所有者便无法存在. 请使用能力拾取器或剑来赋予它，而非通过形态.\r\n
+<b>[SPG 01] Sakura I Sword Form</b>.\r\n=<b>[SPG 01] 千本樱 I</b>.\r\n
+<b>[SPG 01] Sakura II Sword Form</b>.\r\n=<b>[SPG 01] 千本樱 II</b>.\r\n
+<b>[SPG 01] Science I Sword Form</b>.\r\n=<b>[SPG 01] 疋杀地藏 I</b>.\r\n
+<b>[SPG 01] Science II Sword Form</b>.\r\n=<b>[SPG 01] 疋杀地藏 II</b>.\r\n
+<b>[SPG 01] Shark I Sword Form</b>.\r\n=<b>[SPG 01] 皇鲛后 I</b>.\r\n
+<b>[SPG 01] Shark II Sword Form</b>.\r\n=<b>[SPG 01] 皇鲛后 II</b>.\r\n
+<b>[SPG 01] Snake I Sword Form</b>.\r\n=<b>[SPG 01] 蛇尾丸 I</b>.\r\n
+<b>[SPG 01] Snake II Sword Form</b>.\r\n=<b>[SPG 01] 蛇尾丸 II</b>.\r\n
+<b>[SPG 01] Snow I Sword Form</b>.\r\n=<b>[SPG 01] 袖白雪 I</b>.\r\n
+<b>[SPG 01] Snow II Sword Form</b>.\r\n=<b>[SPG 01] 袖白雪 II</b>.\r\n
+<b>[SPG 01] Tricky I Sword Form</b>.\r\n=<b>[SPG 01] 花天狂骨 I</b>.\r\n
+<b>[SPG 01] Tricky II Sword Form</b>\r\nTechnically cannot exist without an owner. Use Ability Picker or a sword instead of a form to give it.\r\n=<b>[SPG 01] 花天狂骨 II</b>\r\n技术上没有所有者便无法存在. 请使用能力拾取器或剑来赋予它，而非通过形态.\r\n
+<b>[SPG 01] Weight I Sword Form</b>.\r\n=<b>[SPG 01] 侘助 I</b>.\r\n
+<b>[SPG 01] Weight II Sword Form</b>.\r\n=<b>[SPG 01] 侘助 II</b>.\r\n
+<b>[SPG 01] Wolf I Sword Form</b>.\r\n=<b>[SPG 01] 孤狼 I</b>.\r\n
+<b>[SPG 01] Wolf II Sword Form</b>.\r\n=<b>[SPG 01] 孤狼 II</b>.\r\n
 
 SF: Alter Butcher I=剑形: 白斩月 I
 Sword Form: Alter Butcher I=剑形: 白斩月 I
@@ -1839,6 +1926,8 @@ Sword Form: Tiger II=剑形: 豹王 II
 
 
 
+
+
 //*右下角通知
 
 <color%3D"green">Anyone can use this powerball now=<color%3D"green">现在，任何人都可以使用这个崩玉
@@ -1864,7 +1953,7 @@ r:"Cloned Skin From (.*?)"="克隆皮肤来自$1"
 Soul System required!=需要灵魂系统！
 Soul System not found=灵魂系统未找到
 Add and continue=添加并继续
-<align%3Dcenter><b><size%3D120%>Attention!</size></b></align>\n\n<align%3Dleft>Unlocking the <b>Physical</b> parameter will activate <b>DurabilitySystem</b>, which\nwill constantly modify physical parameters. This may:\n• Break characters from other mods\n• Cause bugs\n\n<color%3D#FF4444><b>This action cannot be undone!</b></color>\n<size%3D80%><color%3D#808080>Note: Some abilities and items can dynamically affect this parameter of the owner.\nIf this parameter is locked, those effects will not work.</color></size></align>=<align%3Dcenter><b><size%3D120%>注意！</size></b></align>\n\n<align%3Dleft>解锁 <b>肉体</b> 参数将激活 <b>耐久度系统</b>，该系统\n会持续修改物理参数。这可能导致：\n• 破坏其他模组的角色\n• 引发错误\n\n<color%3D#FF4444><b>此操作不可撤销！</b></color>\n<size%3D80%><color%3D#808080>注意：某些能力和物品可以动态影响拥有者的此参数。\n如果此参数被锁定，这些效果将无法生效。</color></size></align>
+<align%3Dcenter><b><size%3D120%>Attention!</size></b></align>\n\n<align%3Dleft>Unlocking the <b>Physical</b> parameter will activate <b>DurabilitySystem</b>, which\nwill constantly modify physical parameters. This may:\n• Break characters from other mods\n• Cause bugs\n\n<color%3D#FF4444><b>This action cannot be undone!</b></color>\n<size%3D80%><color%3D#808080>Note: Some abilities and items can dynamically affect this parameter of the owner.\nIf this parameter is locked, those effects will not work.</color></size></align>=<align%3Dcenter><b><size%3D120%>注意！</size></b></align>\n\n<align%3Dleft>解锁 <b>物理</b> 参数将激活 <b>耐久度系统</b>，该系统\n会持续修改物理参数。这可能导致：\n• 破坏其他模组的角色\n• 引发错误\n\n<color%3D#FF4444><b>此操作不可撤销！</b></color>\n<size%3D80%><color%3D#808080>注意：某些能力和物品可以动态影响拥有者的此参数。\n如果此参数被锁定，这些效果将无法生效。</color></size></align>
 
 //*血腥设置
 
@@ -1913,3 +2002,59 @@ Remove Feature=移除功能
 [UDBG] Remove Feature=[UDBG]移除功能
 [U] Clear Cloth Damage=[U] 清除布料损坏
 [U] Clear Cloth Damage.=[U] 清除布料损坏.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//3.0新东西
+
+//人物
+<b>[SPG 01] Generic Soul</b>\r\nEnergy : <color%3D#FF59C2FF>1600000</color>  |  Energy Throughput : <color%3D#FF59C2FF>2500</color>\nPhysical : <color%3D#FF59C2FF>20000</color>  |  Speed : <color%3D#FF59C2FF>6000</color>\n[MP] : <color%3D#FF59C2FF>20000</color> | [AM] : <color%3D#FF59C2FF>6000</color> | [DM] : <color%3D#FF59C2FF>6000</color> | [HM] : <color%3D#FF59C2FF>6000</color>\nState : [Soul]  |  [AC] : <color%3D#808080FF>COLOR</color>.=<b>[SPG 01] 通用灵魂</b>\r\n能量：<color%3D#FF59C2FF>1600000</color>  |  能量吞吐量：<color%3D#FF59C2FF>2500</color>\n物理：<color%3D#FF59C2FF>20000</color>  |  速度：<color%3D#FF59C2FF>6000</color>\n[MP]：<color%3D#FF59C2FF>20000</color> | [AM]：<color%3D#FF59C2FF>6000</color> | [DM]：<color%3D#FF59C2FF>6000</color> | [HM]：<color%3D#FF59C2FF>6000</color>\n状态：[灵魂]  |  [AC]：<color%3D#808080FF>颜色</color>.
+
+//能力
+Character Randomizer=角色随机化器
+Reroll All Clothes=重新随机所有服装
+Specific Layers:=特定层：
+Reroll=重新随机
+Pick Color=选择颜色
+Cloth Color=布料颜色
+sr:"^Select color for (.*?)$" = "选择$1的颜色"
+Desaturate=降低饱和度
+Saturate=增加饱和度
+
+Base Evasion=基础闪避
+Base dodge from most attacks with cooldown=基础闪避，可躲避大多数攻击，有冷却时间
+Base dodge from most attacks with cooldown\n\n Target: Head=基础闪避，可躲避大多数攻击，有冷却时间\n\n目标: 头
+
+Base Evasion Options=基础闪避选项
+r:"Wait Time Lenght Mult: ([\d.]+)" = "等待时间长度倍率：$1"
+Set Wait Time Lenght Mult [0.1 - 10]=设置等待时间长度倍率 [0.1 - 10]
+
+Enable Edit Mode=启用编辑模式
+Are you sure?\nThis character (its current instance on the scene) is being disconnected from the centralized Stages system.\nThis means that all current stages will be copied locally for this character, and it will no longer use Stages from add-on files.\nThis allows you to delete or modify them, perform any actions, and then save them as a contraption.=你确定吗？\n此角色（其在场景中的当前实例）正在从集中的Stages系统中断开连接。\n这意味着该角色的所有当前Stages将被复制到本地，并且它将不再使用附加文件中的Stages。\n这样你就可以删除或修改它们，执行任何操作，然后将其保存为装置。
+
+All characters can punch and kick\r\nEnabled by default\r\n=所有角色都可以拳击和踢击\r\n默认启用\r\n
+
+
+

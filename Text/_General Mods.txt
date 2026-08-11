@@ -35,7 +35,7 @@ Semicolon=; :
 Quote=' "
 Period=. >
 Comma=, <
-Slash=/ ?
+Slash=斜杠
 BackQuote=` ~
 Numlock=数字锁定键
 KeypadDivide=小键盘/
@@ -59,6 +59,11 @@ Minus=- _
 Equals=%3D +
 Backslash=\ |
 RightShift=右Shift
+
+//纠正, 我不得不这样, 番茄对本体做的字典, 某些词条过于意译了
+general=通用
+control=控制
+General=通用
 
 
 
@@ -2314,6 +2319,8 @@ Adds 5 new poses into the game=添加5个新姿势到游戏里
 Reset Poses=重置姿势
 Show Poses=显示姿势
 Hide Poses=隐藏姿势
+> Show Pose Buttons=> 显示姿势按钮
+v Hide Pose Buttons=v  隐藏姿势按钮
 Toggle Poses=切换姿势
 Pose overrides for the human.=姿态强制调整.
  • SearchPoses= • 搜索姿势
@@ -16113,3 +16120,87 @@ adds the Midnight sons=添加了午夜之子
 <b>Robbie Reyes</b>\r\n<color%3D#ffffff> THE GHOST HAUNTS YOU \n\n <#FFFF00>F on head to transform into the ghost rider.=<b>罗比·雷耶斯</b>\r\n<color%3D#ffffff>恶灵萦绕着你！\n\n<#FFFF00>按头部F键变身为恶灵骑士.
 
 <b><color%3D#ffffff> Jack Russell (Wererewolf by night)</b>\r\n<color%3D#ffffff> IM WEREWOLFING OUT!! \n\n<#FFFF00>F on head to transform into Werewolf.=<b><color%3D#ffffff>杰克·罗素（暗夜狼人）</b>\r\n<color%3D#ffffff>我要狼人化了！！\n\n<#FFFF00>按头部F键变身为狼人.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//368*02吴迪少侠模组_Imbecible mod
+<noparse>Imbecible mod</noparse>=<noparse>吴迪少侠模组</noparse>
+Ordered from 02 STUDIOS=由02 STUDIOS委托制作
+<size%3D1.5em>Imbecible mod</size>\nOrdered from 02 STUDIOS\n<noparse>A mod by 02 STUDIO for game version 1.27</noparse>=<size%3D1.5em>吴迪少侠模组</size>\n由02 STUDIOS委托制作\n<noparse>由02 STUDIO制作的模组，适用于游戏版本1.27</noparse>
+<b>02 Invincible</b>\r\n02 Invincible mod.=<b>02无敌少侠</b>\r\n02无敌少侠模组。
+
+//人物
+<b>Conquest</b>.\r\n=<b>征服者</b>.\r\n
+
+<b>Omni Man</b>.\r\n=<b>全能人</b>.\r\n
+
+<b>Thragg</b>.\r\n=<b>特雷格</b>.\r\n
+
+<b>Mark</b>.\r\n=<b>马克</b>.\r\n
+
+<b>Omni-Mark</b>.\r\n=<b>全能马克</b>.\r\n
+
+<b>Sinster Mark</b>.\r\n=<b>极恶马克</b>.\r\n
+
+<b>Viltrumite Mark</b>.\r\n=<b>维特鲁姆人马克</b>.\r\n
+
+<b>Sheisty Mark</b>.\r\n=<b>蒙面马克</b>.\r\n
+
+<b>Mohawk Mark</b>.\r\n=<b>莫西干头马克</b>.\r\n
+
+<b>LightNyan Mark</b>.\r\n=<b>LightNyan马克</b>.\r\n
+
+<b>Kuma Mark</b>.\r\n=<b>熊马克</b>.\r\n
+
+<b>GDA Mark</b>.\r\n=<b>GDA马克</b>.\r\n
+
+<b>Flaxan Mark</b>.\r\n=<b>弗拉克森人马克</b>.\r\n
+
+<b>Emperor Mark</b>.\r\n=<b>帝王马克</b>.\r\n
+
+<b>Burger Mark</b>.\r\n=<b>汉堡王马克</b>.\r\n
+
+
+
+//能力
+Stages=阶段
+
+Punch Settings=拳击设置
+r:"Need Velocity To PUNCH\\n<color%3Dyellow>([\d.]+)" = "出拳所需速度\n<color%3Dyellow>$1"
+r:"Punch Multiply\\n<color%3Dyellow>([\d.]+)" = "拳击倍率\n<color%3Dyellow>$1"
+Punch Multiply=拳击倍率
+
+Advanced Grip=高级抓取
+Grip Strength=握力
+r:"Grip Strength\\n<color%3Dyellow>([\d.]+)" = "握力\n<color%3Dyellow>$1"
+
+Mouse Target\n<color%3Dred>No=鼠标目标\n<color%3Dred>否
+Mouse Target\n<color%3Dgreen>Yes=鼠标目标\n<color%3Dgreen>是
+Has Dash\n<color%3Dred>No=有冲刺\n<color%3Dred>否
+Has Dash\n<color%3Dgreen>Yes=有冲刺\n<color%3Dgreen>是
+r:"Following Speed\n<color%3Dyellow>([\d.]+)" = "跟随速度\n<color%3Dyellow>$1"
+Following Speed=跟随速度
+
+Dodge=闪避
+
+
+
+
+
+
+
+
+
