@@ -16148,7 +16148,7 @@ Ordered from 02 STUDIOS=由02 STUDIOS委托制作
 
 <b>Omni Man</b>.\r\n=<b>全能人</b>.\r\n
 
-<b>Thragg</b>.\r\n=<b>特雷格</b>.\r\n
+<b>Thragg</b>.\r\n=<b>崔格</b>.\r\n
 
 <b>Mark</b>.\r\n=<b>马克</b>.\r\n
 
