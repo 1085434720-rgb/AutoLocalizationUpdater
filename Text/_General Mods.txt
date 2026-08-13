@@ -16146,7 +16146,7 @@ Ordered from 02 STUDIOS=由02 STUDIOS委托制作
 //人物
 <b>Conquest</b>.\r\n=<b>征服者</b>.\r\n
 
-<b>Omni Man</b>.\r\n=<b>全能人</b>.\r\n
+<b>Omni Man</b>.\r\n=<b>全能侠</b>.\r\n
 
 <b>Thragg</b>.\r\n=<b>崔格</b>.\r\n
 
@@ -16160,7 +16160,7 @@ Ordered from 02 STUDIOS=由02 STUDIOS委托制作
 
 <b>Sheisty Mark</b>.\r\n=<b>蒙面马克</b>.\r\n
 
-<b>Mohawk Mark</b>.\r\n=<b>莫西干头马克</b>.\r\n
+<b>Mohawk Mark</b>.\r\n=<b>莫西干马克</b>.\r\n
 
 <b>LightNyan Mark</b>.\r\n=<b>LightNyan马克</b>.\r\n
 
