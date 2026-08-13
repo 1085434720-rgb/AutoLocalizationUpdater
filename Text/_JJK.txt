@@ -3307,4 +3307,110 @@ Disable Energy Punishment <color%3D#00FF00FF>Enabled</color>=禁用能量惩罚 
 
 
 //手部
+[M] Flash=[M] 黑闪
+Enable [M] Flash=<color%3D#00FF00FF>启用 [M] 黑闪
+Disable [M] Flash=<color%3D#FF0000FF>禁用 [M] 黑闪
+[M] Flash Open Menu=<color%3D#FFD800>打开[M] 黑闪菜单
+[M] Flash Open Menu.=打开[M] 黑闪菜单.
+Toggle [M] Flash=切换 [M] 黑闪
+Toggle [M] Flash.=切换 [M] 黑闪.
+[M] Flash Options=[M] 黑闪选项
+r:"Random Chance: ([\d.]+)" = "随机几率：$1"
+Impact Frames: <color%3D#00FF00FF>Enabled</color>=撞击帧：<color%3D#00FF00FF>已启用</color>
+Impact Frames: <color%3D#FF0000FF>Disabled</color>=撞击帧：<color%3D#FF0000FF>已禁用</color>
+
+[M] Divergent=[M] 径庭
+Enable [M] Divergent=<color%3D#00FF00FF>启用 [M] 径庭
+Disable [M] Divergent=<color%3D#FF0000FF>禁用 [M] 径庭
+[M] Divergent Open Menu=<color%3D#FFD800>打开[M] 径庭菜单
+[M] Divergent Open Menu.=打开[M] 径庭菜单
+Toggle [M] Divergent=切换 [M] 径庭
+Toggle [M] Divergent.=切换 [M] 径庭.
+[M] Divergent Options=[M] 径庭选项
+
+[M] Claws=[M] 爪臂
+Enable [M] Claws=<color%3D#00FF00FF>启用 [M] 爪臂
+Disable [M] Claws=<color%3D#FF0000FF>禁用 [M] 爪臂
+[M] Claws Open Menu=<color%3D#FFD800>打开[M] 爪臂菜单
+Toggle [M] Claws=切换 [M] 爪臂
+Toggle [M] Claws.=切换 [M] 爪臂.
+[M] Claws Options=[M] 爪臂选项
+
+[M] Slice Punch=[M] 斩击拳
+Punches with slices. Pressing "H" instantly charges a punch, and the next hit deals area damage, knocking back\r\nRadius, damage, and knockback increase with strength\r\n=用斩击进行拳击。按住"H"可瞬间蓄力一拳，下一次命中造成范围伤害并击退\n半径、伤害和击退随力量提升\n
+sr:"^Punches with slices\. Pressing \"H\" instantly charges a punch, and the next hit deals area damage, knocking back\\r\\nRadius, damage, and knockback increase with strength\\r\\n\n\nTarget: (.*?)$" = "用斩击进行拳击。按住\"H\"可瞬间蓄力一拳，下一次命中造成范围伤害并击退\n半径、伤害和击退随力量提升\n\n目标：$1"
+Enable [M] Slice Punch=<color%3D#00FF00FF>启用 [M] 斩击拳
+Disable [M] Slice Punch=<color%3D#FF0000FF>禁用 [M] 斩击拳
+[M] Slice Punch Open Menu=<color%3D#FFD800>打开[M] 斩击拳菜单
+[M] Slice Punch Open Menu.=打开[M] 斩击拳菜单.
+Toggle [M] Slice Punch=切换 [M] 斩击拳
+Toggle [M] Slice Punch.=切换 [M] 斩击拳.
+[M] Slice Punch Options=[M] 斩击拳选项
+
+[M] Slice User=[M] 斩击使用者
+Base Hit=基础攻击
+Strong=强力
+Close (ESC)=关闭 (ESC)
+Scroll: Mouse Wheel / W S / Up Down\nSelect: Click / Space / Enter / Shift=滚动：鼠标滚轮 / W S / 上下方向键\n选择：点击 / 空格 / 回车 / Shift
+Enable [M] Slice User=<color%3D#00FF00FF>启用 [M] 斩击使用者
+Disable [M] Slice User=<color%3D#FF0000FF>禁用 [M] 斩击使用者
+[M] Slice User Open Menu=<color%3D#FFD800>打开[M] 斩击使用者菜单
+[M] Slice User Open Menu=<color%3D#FFD800>打开[M] 斩击使用者菜单
+Toggle [M] Slice User=切换 [M] 斩击使用者
+Toggle [M] Slice User.=切换 [M] 斩击使用者.
+[M] Slice User Options=[M] 斩击使用者选项
+Active Slice Mode=斩击使用模式
+Active Slice Mode Selection=斩击使用模式选择
+sr:"^Selected: (.*?)$" = "已选：$1"
+BaseHit=基础攻击
+r:"Area Size Mult: ([\d.]+)" = "区域大小倍率：$1"
+Random Crits: <color%3D#00FF00FF>Enabled</color>=随机暴击：<color%3D#00FF00FF>已启用</color>
+Random Crits: <color%3D#FF0000FF>Disabled</color>=随机暴击：<color%3D#FF0000FF>已禁用</color>
+
+[C] Active Blood Manipulation=[C] 赤血操术
+Manipulate consumed blood with diffetent options, like summoning weapons and etc.=用不同的选项操控消耗的血液，例如召唤武器等。
+sr:"^Manipulate consumed blood with diffetent options, like summoning weapons and etc.\n\nTarget: (.*?)$" = "用不同的选项操控消耗的血液，例如召唤武器等。\n\n目标：$1"
+Enable [C] Active Blood Manipulation=<color%3D#00FF00FF>启用 [C] 赤血操术
+Disable [C] Active Blood Manipulation=<color%3D#FF0000FF>禁用 [C] 赤血操术
+[C] Active Blood Manipulation Open Menu=<color%3D#FFD800>打开[C] 赤血操术菜单
+[C] Active Blood Manipulation Open Menu.=打开[C] 赤血操术菜单.
+Toggle [C] Active Blood Manipulation=切换 [C] 赤血操术
+Toggle [C] Active Blood Manipulation.=切换 [C] 赤血操术.
+[C] Active Blood Manipulation Options=[C] 赤血操术选项
+Equip Blood Weapon=装备赤血操术武器
+Equip Blood Weapon Selection=装备赤血操术武器选择
+Blood Manipulation Type=赤血操术类型
+Blood Manipulation Type Selection=赤血操术类型选择
+BloodPunch=血拳
+BloodThrower=血液射击
+CastBloodSpikes=召唤血刺
+HealTouch=治疗之触
+Explode Not Gripped Weapons <color%3D#00FF00FF>Enabled</color>=引爆丢弃武器 <color%3D#00FF00FF>已启用</color>
+Explode Not Gripped Weapons <color%3D#FF0000FF>Disabled</color>=引爆丢弃武器 <color%3D#FF0000FF>已禁用</color>
+
+[M] Advanced Blood User=[M] 高级赤血操术使用者
+Enable [M] Advanced Blood User=<color%3D#00FF00FF>启用 [M] 高级赤血操术使用者
+Disable [M] Advanced Blood User=<color%3D#FF0000FF>禁用 [M] 高级赤血操术使用者
+[M] Advanced Blood User Open Menu=<color%3D#FFD800>[M] 打开高级赤血操术使用者菜单
+[M] Advanced Blood User Open Menu.=[M] 打开高级赤血操术使用者菜单
+Toggle [M] Advanced Blood User=切换 [M] 高级赤血操术使用者
+Toggle [M] Advanced Blood User.=切换 [M] 高级赤血操术使用者.
+[M] Advanced Blood User Options=[M] 高级赤血操术使用者选项
+Active Blood Manipulation=赤血操术
+Active Blood Manipulation Selection=赤血操术选择
+Hydra=水螅
+Beam=光束
+Orbs=能量球
+Auto Target <color%3D#00FF00FF>Enabled</color>=自动瞄准 <color%3D#00FF00FF>已启用</color>
+Auto Target <color%3D#FF0000FF>Disabled</color>=自动瞄准 <color%3D#FF0000FF>已禁用</color>
+
+[M] Blood Spear=[M] 血矛
+Enable [M] Blood Spear=<color%3D#00FF00FF>启用 [M] 血矛
+Disable [M] Blood Spear=<color%3D#FF0000FF>禁用 [M] 血矛
+[M] Blood Spear Open Menu=<color%3D#FFD800>[M] 打开血矛菜单
+[M] Blood Spear Open Menu.=[M] 打开血矛菜单.
+Toggle [M] Blood Spear=切换 [M] 血矛
+Toggle [M] Blood Spear.=切换 [M] 血矛.
+[M] Blood Spear Options=[M] 血矛选项
+
 
