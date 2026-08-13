@@ -559,6 +559,15 @@ Max Out=榨干性能
 
 Open cloth editor=打开布料编辑器
 
+Abilities Copy=复制能力
+sr:"^Copied All Abilities From (.*?) To (.*?)$" = "已从 $1 复制所有属性到 $2"
+
+Stats Copy=复制属性
+sr:"^Copied All Stats From (.*?) To (.*?)$" = "已从 $1 复制所有属性到 $2"
+
+Clothes Copy=复制服装
+sr:"^Copied All Clothes From (.*?) To (.*?)$" = "已从 $1 复制所有属性到 $2"
+
 Make Soul=塑造灵魂
 User of Soul System become free soul=灵魂系统的使用者成为自由灵魂
 
@@ -1753,12 +1762,16 @@ MF: Tiger Mask I=MF: 老虎面具 I
 Tiger Mask II=老虎面具 II
 MF: Tiger Mask II=MF: 老虎面具 II
 
-//*状态
 
+
+//*状态
 Arancar=破面
 Doofy=舞台
 Invasion=侵入
 Revealed=掀开
+
+
+
 
 //*皮肤
 Skeleton=骷髅
@@ -1769,8 +1782,9 @@ Young=青年
 Smile (dyad ver)=微笑"(二重奏版")
 Smile (quames ver)=微笑("这是真的")
 
-//*对话
 
+
+//*对话
 Beh断nd=背后
 上边 is Lava=地板是熔岩
 Game Over=游戏结束
@@ -1968,6 +1982,7 @@ r:"Cloned Skin From (.*?)"="克隆皮肤来自$1"
 //*提示框
 Soul System required!=需要灵魂系统！
 Soul System not found=灵魂系统未找到
+Soul System To Copy Not Found=未找到要复制的灵魂系统
 Add and continue=添加并继续
 <align%3Dcenter><b><size%3D120%>Attention!</size></b></align>\n\n<align%3Dleft>Unlocking the <b>Physical</b> parameter will activate <b>DurabilitySystem</b>, which\nwill constantly modify physical parameters. This may:\n• Break characters from other mods\n• Cause bugs\n\n<color%3D#FF4444><b>This action cannot be undone!</b></color>\n<size%3D80%><color%3D#808080>Note: Some abilities and items can dynamically affect this parameter of the owner.\nIf this parameter is locked, those effects will not work.</color></size></align>=<align%3Dcenter><b><size%3D120%>注意！</size></b></align>\n\n<align%3Dleft>解锁 <b>物理</b> 参数将激活 <b>耐久度系统</b>，该系统\n会持续修改物理参数。这可能导致：\n• 破坏其他模组的角色\n• 引发错误\n\n<color%3D#FF4444><b>此操作不可撤销！</b></color>\n<size%3D80%><color%3D#808080>注意：某些能力和物品可以动态影响拥有者的此参数。\n如果此参数被锁定，这些效果将无法生效。</color></size></align>
 

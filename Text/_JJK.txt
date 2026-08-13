@@ -3160,6 +3160,7 @@ To attach, hold F :)=要附着，请按住F键 :)
 <b>[SPG 01] Firework Sword</b>.\r\n=<b>[SPG 01] 焰刃</b>.\r\n
 <b>[SPG 01] Firework I Sword Form</b>\r\n=<b>[SPG 01] 焰刃 I</b>.\r\n
 Firework I=焰刃 I
+Spots=圆点
 
 
 
@@ -3235,6 +3236,71 @@ Enable Berserk Boost=<color%3D#00FF00FF>启用狂暴强化
 Toggle Berserk Boost=切换狂暴强化
 Toggle Berserk Boost.=切换狂暴强化.
 
+[M] Restriction=[M] 限制
+Converts power and energy according to a certain ratio.=根据一定比例转换力量和能量。
+sr:"^Converts power and energy according to a certain ratio\.\n\nTarget: (.*?)$" = "根据一定比例转换力量和能量。\n\n目标：$1"
+Enable [M] Restriction=<color%3D#00FF00FF>启用 [M] 限制
+Disable [M] Restriction=<color%3D#FF0000FF>禁用 [M] 限制
+[M] Restriction Open Menu=<color%3D#FFD800>打开 [M] 限制菜单
+[M] Restriction Open Menu.=打开 [M] 限制菜单.
+Toggle [M] Restriction=切换 [M] 限制
+Toggle [M] Restriction.=切换 [M] 限制.
+[M] Restriction Options=[M] 限制选项
+Energy To Power Ratio: 2=能量转力量比率：2
+r:"Energy To Power Ratio: ([\d.]+)" = "能量转力量比率：$1"
+
+[M] Speech=[M] 咒言术
+Enable [M] Speech=<color%3D#00FF00FF>启用 [M] 咒言术
+Disable [M] Speech=<color%3D#FF0000FF>禁用 [M] 咒言术
+[M] Speech Open Menu=<color%3D#FFD800>打开 [M] 咒言术菜单
+[M] Speech Open Menu.=打开 [M] 咒言术菜单.
+Toggle [M] Speech=切换 [M] 咒言术
+Toggle [M] Speech.=切换 [M] 咒言术.
+Speech Menu=咒言术菜单
+sr:"^Command: (.*?)$" = "指令：$1"
+Command Selector=指令选择器
+Break apart=分裂
+Look At Me=看着我
+Reveal=揭露
+Dodge it=闪避它
+r:"Explode \((\d+)\)"="爆炸吧 ($1)"
+r:"Get Crushed \((\d+)\)"="碾碎吧 ($1)"
+r:"Crumble Away \((\d+)\)"="崩塌吧 ($1)"
+r:"Blast Away \((\d+)\)"="炸飞吧 ($1)"
+r:"Don't Move \((\d+)\)"="不许动 ($1)"
+r:"Sleep \((\d+)\)"="睡吧 ($1)"
+r:"Break apart \((\d+)\)"="分裂 ($1)"
+r:"Look At Me \((\d+)\)"="看着我 ($1)"
+r:"Reveal \((\d+)\)"="揭露 ($1)"
+r:"Dodge it \((\d+)\)"="闪避它 ($1)"
+Balance Mode=平衡模式
+sr:"^current: (.*?)$" = "当前：$1"
+Balance Mode Selection=平衡模式选择
+OnlyEnergy=仅能量
+EnergyAndPhysical=能量与物理
+
+[M] Shadow Step=[M] 影步
+Enable [M] Shadow Step=<color%3D#00FF00FF>启用 [M] 影步
+Disable [M] Shadow Step=<color%3D#FF0000FF>禁用 [M] 影步
+[M] Shadow Step Open Menu=<color%3D#FFD800>打开 [M] 影步菜单
+[M] Shadow Step Open Menu.=打开 [M] 影步菜单.
+Toggle [M] Shadow Step=切换 [M] 影步
+Toggle [M] Shadow Step.=切换 [M] 影步.
+[M] Shadow Step Options=[M] 影步选项
+r:"Jump Mult: ([\d.]+)" = "跳跃倍率：$1"
+
+[M] Cancer=[M] 癌症
+Applies multiple debuffs like cancer.=施加多种减益效果，类似癌症。
+sr:"^Applies multiple debuffs like cancer\.\n\nTarget: (.*?)$" = "施加多种减益效果，类似癌症。\n\n目标：$1"
+Enable [M] Cancer=<color%3D#00FF00FF>启用 [M] 癌症
+Disable [M] Cancer=<color%3D#FF0000FF>禁用 [M] 癌症
+[M] Cancer Open Menu=<color%3D#FFD800>打开 [M] 癌症菜单
+[M] Cancer Open Menu.=打开 [M] 癌症菜单.
+Toggle [M] Cancer=切换 [M] 癌症
+Toggle [M] Cancer.=切换 [M] 癌症.
+
+
+
 
 //上半身
 [M] Blood Barrage=[M] 血之弹幕
@@ -3279,7 +3345,7 @@ Toggle [M] Slice Active.=切换 [M] 斩击主动。
 //中半身
 [M] Slice Dash=[M] 斩击冲刺
 Slice everything in your path. Draw your own path by moving the mouse.\nMove the mouse back to undo a segment.=斩击路径上的一切。通过移动鼠标绘制你自己的路径。\n向后移动鼠标可撤销一段路径。
-sr:"^Slice everything in your path\. Draw your own path by moving the mouse\.\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "斩击路径上的一切。通过移动鼠标绘制你自己的路径。\n向后移动鼠标可撤销一段路径。\n\n目标：$1"
+sr:"^Slice everything in your path\. Draw your own path by moving the mouse\.\\r\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "斩击路径上的一切。通过移动鼠标绘制你自己的路径。\r\n向后移动鼠标可撤销一段路径。\n\n目标：$1"
 [M] Slice Dash Options=[M] 斩击冲刺选项
 Disable [M] Slice Dash=<color%3D#FF0000FF>禁用 [M] 斩击冲刺
 Enable [M] Slice Dash=<color%3D#00FF00FF>启用 [M] 斩击冲刺
@@ -3303,11 +3369,24 @@ r:"Shift Speed Mult: ([\d.]+)" = "移速倍率：$1"
 Disable Energy Punishment <color%3D#FF0000FF>Disabled</color>=禁用能量惩罚 <color%3D#FF0000FF>已禁用</color>
 Disable Energy Punishment <color%3D#00FF00FF>Enabled</color>=禁用能量惩罚 <color%3D#00FF00FF>已启用</color>
 
+[M] Shadow Evasion=[M] 影遁
+Hide in the shadows and avoid damage. Press F to toggle.=躲入阴影并规避伤害。按F键切换。
+sr:"^Hide in the shadows and avoid damage\. Press F to toggle\.\n\nTarget: (.*?)$" = "躲入阴影并规避伤害。按F键切换。\n\n目标：$1"
+Enable [M] Shadow Evasion=<color%3D#00FF00FF>启用 [M] 影遁
+Disable [M] Shadow Evasion=<color%3D#FF0000FF>禁用 [M] 影遁
+[M] Shadow Evasion Open Menu=<color%3D#FFD800>打开 [M] 影遁菜单
+[M] Shadow Evasion Open Menu.=打开 [M] 影遁菜单.
+Toggle [M] Shadow Evasion=切换 [M] 影遁
+Toggle [M] Shadow Evasion.=切换 [M] 影遁.
+
 
 
 
 //手部
 [M] Flash=[M] 黑闪
+sr:"^If the strength parameter is greater than 350 - you can enable strong punches\\r\\nPressing \"H\" instantly charges a punch, and the next hit deals area damage, knocking back\\r\\nRadius, damage, and knockback increase with strength\\r\\n\\n\\nTarget: (.*?)$" = "如果力量参数大于350 - 你可以启用强力拳击\n按\"H\"键可瞬间蓄力一拳，下一次命中造成范围伤害并击退\n半径、伤害和击退随力量提升\n\n\n目标：$1"
+AnyGripBehaviour=任何抓握行为
+If the strength parameter is greater than 350 - you can enable strong punches\r\nPressing "H" instantly charges a punch, and the next hit deals area damage, knocking back\r\nRadius, damage, and knockback increase with strength\r\n\n\nTarget: AnyGripBehaviour=
 Enable [M] Flash=<color%3D#00FF00FF>启用 [M] 黑闪
 Disable [M] Flash=<color%3D#FF0000FF>禁用 [M] 黑闪
 [M] Flash Open Menu=<color%3D#FFD800>打开[M] 黑闪菜单
@@ -3405,6 +3484,8 @@ Auto Target <color%3D#00FF00FF>Enabled</color>=自动瞄准 <color%3D#00FF00FF>�
 Auto Target <color%3D#FF0000FF>Disabled</color>=自动瞄准 <color%3D#FF0000FF>已禁用</color>
 
 [M] Blood Spear=[M] 血矛
+Holding the F button accumulates energy and releases a projectile that deals area damage=按住F键积累能量并释放一枚投射物，造成范围伤害
+sr:"^Holding the F button accumulates energy and releases a projectile that deals area damage\n\nTarget: (.*?)$" = "按住F键积累能量并释放一枚投射物，造成范围伤害\n\n目标：$1"
 Enable [M] Blood Spear=<color%3D#00FF00FF>启用 [M] 血矛
 Disable [M] Blood Spear=<color%3D#FF0000FF>禁用 [M] 血矛
 [M] Blood Spear Open Menu=<color%3D#FFD800>[M] 打开血矛菜单
@@ -3413,4 +3494,37 @@ Toggle [M] Blood Spear=切换 [M] 血矛
 Toggle [M] Blood Spear.=切换 [M] 血矛.
 [M] Blood Spear Options=[M] 血矛选项
 
+[M] Speech Tattoo=[M] 咒言术纹身
+Enable [M] Speech Tattoo=<color%3D#00FF00FF>启用 [M] 咒言术纹身
+Disable [M] Speech Tattoo=<color%3D#FF0000FF>禁用 [M] 咒言术纹身
+[M] Speech Tattoo Open Menu=<color%3D#FFD800>打开 [M] 咒言术纹身菜单
+[M] Speech Tattoo Open Menu.=打开 [M] 咒言术纹身菜单.
+Toggle [M] Speech Tattoo=切换 [M] 咒言术纹身
+Toggle [M] Speech Tattoo.=切换 [M] 咒言术纹身.
+[M] Speech Tattoo Options=[M] 咒言术纹身选项
+
+[M] Shadow Claw=[M] 影爪
+Pierce the flesh upon contact with sufficient force=接触时以足够力量刺穿血肉。
+sr:"^Pierce the flesh upon contact with sufficient force\n\nTarget: (.*?)$" = "接触时以足够力量刺穿血肉。\n\n目标：$1"
+Enable [M] Shadow Claw=<color%3D#00FF00FF>启用 [M] 影爪
+Disable [M] Shadow Claw=<color%3D#FF0000FF>禁用 [M] 影爪
+[M] Shadow Claw Open Menu=<color%3D#FFD800>打开 [M] 影爪菜单
+[M] Shadow Claw Open Menu.=打开 [M] 影爪菜单.
+Toggle [M] Shadow Claw=切换 [M] 影爪
+Toggle [M] Shadow Claw.=切换 [M] 影爪.
+[M] Shadow Claw Options=[M] 影爪选项
+Should Slice: <color%3D#FF0000FF>Disabled</color>=是否斩击：<color%3D#FF0000FF>已禁用</color>
+Should Slice: <color%3D#00FF00FF>Enabled</color>=是否斩击：<color%3D#00FF00FF>已启用</color>
+Trail Should Damage: <color%3D#00FF00FF>Enabled</color>=轨迹是否造成伤害：<color%3D#00FF00FF>已启用</color>
+Trail Should Damage: <color%3D#FF0000FF>Disabled</color>=轨迹是否造成伤害：<color%3D#FF0000FF>已禁用</color>
+
+[M] Shadow Grip=[M] 影握
+Press K to hide holded objects (max 5). Press X to retrieve=按K隐藏持有的物体（最多5个）。按X取回。
+sr:"^Press K to hide holded objects \(max 5\)\. Press X to retrieve\n\nTarget: (.*?)$" = "按K隐藏持有的物体（最多5个）。按X取回。\n\n目标：$1"
+Enable [M] Shadow Grip=<color%3D#00FF00FF>启用 [M] 影握
+Disable [M] Shadow Grip=<color%3D#FF0000FF>禁用 [M] 影握
+[M] Shadow Grip Open Menu=<color%3D#FFD800>打开 [M] 影握菜单
+[M] Shadow Grip Open Menu.=打开 [M] 影握菜单.
+Toggle [M] Shadow Grip=切换 [M] 影握
+Toggle [M] Shadow Grip.=切换 [M] 影握.
 

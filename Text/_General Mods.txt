@@ -2322,6 +2322,7 @@ Hide Poses=隐藏姿势
 > Show Pose Buttons=> 显示姿势按钮
 v Hide Pose Buttons=v  隐藏姿势按钮
 Toggle Poses=切换姿势
+%3D Toggle Pose Buttons=%3D 切换姿势按钮
 Pose overrides for the human.=姿态强制调整.
  • SearchPoses= • 搜索姿势
 Search for specific poses by Name or Index.=按名称或索引搜索特定姿势.
