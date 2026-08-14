@@ -9724,6 +9724,7 @@ Close this window.=关闭窗口.
 Stats=状态
 Life Menu=<b><i>生命菜单</b></i>
 Hide Life Menu=<b><i>隐藏生命菜单</b></i>
+sr:"^(.*?) Settings$" = "$1设置"
 Shortcut Key=快捷键
 Set the health of the selected limbs.=设置选定肢体的生命值.
 Set the max health of the selected limbs.=设置选定肢体的最大生命值.
@@ -9907,6 +9908,9 @@ Save regen state: OFF=保存再生状态：关
 Save regen state: ON=保存再生状态：开
 Toggle saving regeneration state for all selected=切换是否保存所有所选对象的再生状态
 
+//设置
+Show Debug Console=显示调试控制台
+Show or hide the real-time RuntimeDebug log window.=显示或隐藏实时运行时调试日志窗口.
 
 
 
@@ -16141,7 +16145,7 @@ adds the Midnight sons=添加了午夜之子
 <noparse>Imbecible mod</noparse>=<noparse>吴迪少侠模组</noparse>
 Ordered from 02 STUDIOS=由02 STUDIOS委托制作
 <size%3D1.5em>Imbecible mod</size>\nOrdered from 02 STUDIOS\n<noparse>A mod by 02 STUDIO for game version 1.27</noparse>=<size%3D1.5em>吴迪少侠模组</size>\n由02 STUDIOS委托制作\n<noparse>由02 STUDIO制作的模组，适用于游戏版本1.27</noparse>
-<b>02 Invincible</b>\r\n02 Invincible mod.=<b>02无敌少侠</b>\r\n02无敌少侠模组。
+<b>02 Invincible</b>\r\n02 Invincible mod.=<b>02无敌少侠</b>\r\n02无敌少侠模组. 
 
 //人物
 <b>Conquest</b>.\r\n=<b>征服者</b>.\r\n
@@ -16205,3 +16209,291 @@ Dodge=闪避
 
 
 
+//369*OneEyedLord_独眼领主
+OneEyedLord is here=独眼领主在此
+<size%3D1.5em>OneEyedLord</size>\nOneEyedLord (People Playground mod)\n---------------------------------\nThe OneEyedLord is a hooded, one-eyed dark lord with a growing arsenal of abilities.\nOpen the Power Menu: right-click any of the Lord's limbs -> Power Menu -> pick a\ncategory (Offensive / Special / Defense) -> pick an ability. Use Back to go back,\nClose to exit.\n\nLink buttons (in the OneEyedLord spawn category):\n- "Support Me" - opens the Boosty donation page (giveaways and custom mods for supporters).\n- "Like This Mod?" - opens the Steam Workshop page (leave a like!).\nClick the item in the spawn menu and the link opens automatically.=<size%3D1.5em>独眼领主</size>\n独眼领主（People Playground 模组）\n---------------------------------\n独眼领主是一位兜帽独眼黑暗领主，拥有不断增长的能力库。\n打开能力菜单：右键点击领主的任意肢体 -> 能力菜单 -> 选择\n分类（进攻 / 特殊 / 防御） -> 选择一项能力。使用返回按钮返回，\n关闭按钮退出。\n\n链接按钮（位于独眼领主生成分类中）：\n- “支持我” - 打开 Boosty 捐赠页面（支持者可获得抽奖机会和定制模组）。\n- “喜欢这个模组？” - 打开 Steam 创意工坊页面（点个赞吧！）。\n点击生成菜单中的物品即可自动打开链接。
+
+<b>Do you like the mod?</b>=<b>你喜欢这个模组吗？</b>
+<b>Nah, I'm Lord</b>=<b>不，我是领主</b>
+
+//物品栏
+<b>OneEyedLord</b>\r\nOneEyedLord Items.=<b>独眼领主</b>\r\n独眼领主物品. 
+
+<b>OneEyedLord</b>\r\n<color%3D#ff4444><b>OneEyedLord</b></color><br>The One-Eyed Lord.<br><color%3D#aaaaaa>Colossal durability, near-total invulnerability and rapid regeneration.</color>.=<b>独眼领主</b>\r\n<color%3D#ff4444><b>独眼领主</b></color><br>独眼领主.<br><color%3D#aaaaaa>巨大的耐久度、近乎完全的无敌和快速再生. </color>.
+
+<b>Lord's Eye</b>\r\n<color%3D#ff4444><b>Lord's Eye</b></color><br>The crimson eye of the One-Eyed Lord.<br><color%3D#aaaaaa>Touch a living creature to grant it the Lord's durability and all of his abilities.</color>.=<b>领主之眼</b>\r\n<color%3D#ff4444><b>领主之眼</b></color><br>独眼领主的深红之眼. <br><color%3D#aaaaaa>触碰活物，即可赋予其领主的耐久度及其所有能力. </color>.
+
+<b>Support Me</b>\r\n<color%3D#ff4444><b>Support Me</b></color><br>Support the One-Eyed Lord on Boosty!<br><color%3D#aaaaaa>It is the best way to help this mod grow. Supporters get access to giveaways and a chance to get your very own custom One-Eyed Lord mod!</color>.=<b>Support Me</b>\r\n<color%3D#ff4444><b>Support Me</b></color><br>在 Boosty 上支持独眼领主！<br><color%3D#aaaaaa>这是帮助本模组成长的最佳方式. 支持者可以参与抽奖，并有机会获得专属于你自己的独眼领主自定义模组！</color>.
+
+<b>Like This Mod?</b>\r\n<color%3D#ff4444><b>Like This Mod?</b></color><br>Enjoying the One-Eyed Lord?<br><color%3D#aaaaaa>Leave a like on the Steam Workshop page - one click, and it helps the mod reach more players!</color>.=<b>Like This Mod?</b>\r\n<color%3D#ff4444><b>Like This Mod?</b></color><br>喜欢独眼领主吗？<br><color%3D#aaaaaa>在 Steam 创意工坊页面点个赞吧——只需一键，就能帮助模组触及更多玩家！</color>.
+
+
+//右键菜单
+Open OneEyedLord ability menu=打开独眼领主能力菜单
+Open OneEyedLord ability menu.=打开独眼领主能力菜单. 
+
+Offensive=进攻
+Red Fist=赤红之拳
+Doom Fist=毁灭之拳
+Blade Arms=刀锋双臂
+Hell Wave=地狱之波
+Red Lightning=赤红闪电
+
+Awakening=觉醒
+Final Charge=最终冲锋
+Bloody Gaze=血瞳凝视
+Judgment=审判
+Void Gaze=虚空凝视
+
+Destroy Limbs=摧毁肢体
+Eye Pet=眼球宠物
+
+
+//通知
+<color%3D#ff4444><b>Like This Mod?</b></color>: opening link...=<color%3D#ff4444><b>喜欢这个模组？</b></color>：正在打开链接...
+<color%3D#ff4444><b>Support Me</b></color>: opening link...=<color%3D#ff4444><b>支持我</b></color>：正在打开链接...
+<color%3D#ff4444><b>OneEyedLord:</b></color> The eye recognised a new soul! All powers granted!=<color%3D#ff4444><b>独眼领主：</b></color> 眼睛认出了新灵魂！所有能力已授予！
+<color%3D#ff4444><b>OneEyedLord</b></color> has awakened!=<color%3D#ff4444><b>独眼领主</b></color> 已苏醒！
+<color%3D#ff4444><b>BARRAGE!</b></color> phantom fists strike in a storm!=<color%3D#ff4444><b>弹幕拳！</b></color> 幻影之拳如风暴般袭来！
+r:"<color%3Dred>OneEyedLord virus released - victim heavily infected \((\d+)% HP\)!</color>" = "<color%3Dred>独眼领主病毒释放 - 受害者严重感染（$1% HP）！</color>"
+r:"<color%3D#7fff00>POISON WEAKENING: victim takes x([\d.]+) damage!</color>" = "<color%3D#7fff00>毒素削弱：受害者受到 x$1 倍伤害！</color>"
+r:"Poison weakening: x([\d.]+) damage, combo (\d+)/(\d+)" = "毒素削弱：x$1 倍伤害，连击 $2/$3"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//370*Rems Random Character Pack_Rems随机角色包
+<noparse>Rems Random Character Pack</noparse>=<noparse>Rems随机角色包</noparse>
+A collection of random characters and powers.=随机角色与能力的合集。
+<size%3D1.5em>Rems Random Character Pack</size>\nA collection of random characters and powers.\n<noparse>A mod by Rems for game version 1.27+</noparse>=<size%3D1.5em>Rems随机角色包</size>\n随机角色与能力的合集。\n<noparse>由 Rems 制作的模组，适用于游戏版本 1.27+</noparse>
+
+//物品栏
+<b>Random Character Pack</b>\r\nRandom characters made by Rems.=<b>随机角色包</b>\r\n由Rems制作的随机角色。
+<b>Bambietta Basterbine</b>\r\nA Sternritter with the power of The Explode.=<b>邦比爱塔·芭丝塔拜因</b>\r\n拥有“爆炸”力量的星十字骑士团成员。
+<b>Dimple</b>\r\nA mischievous spirit.=<b>小酒窝</b>\r\n一个爱恶作剧的灵体。
+<b>Giselle Gewelle</b>\r\nA Sternritter with the power of The Zombie.=<b>吉赛尔·茱艾尔</b>\r\n拥有“僵尸”力量的星十字骑士团成员。
+<b>Zombie Blood Syringe</b>\r\nA syringe filled with Giselle Gewelle's blood. Injecting someone transforms them into one of her zombies.=<b>僵尸血液注射器</b>\r\n一支装有吉赛尔·茱艾尔血液的注射器。注射后会将目标变为她的僵尸。
+<b>Ken Kaneki</b>\r\nA young man whose life changed after becoming a one-eyed ghoul.=<b>金木研</b>\r\n一个因成为独眼喰种而改变人生的青年。
+<b>Mob</b>\r\nShigeo Kageyama, a tremendously powerful esper who suppresses his emotions.=<b>龙套</b>\r\n影山茂夫，一个压抑情感的强大超能力者。
+<b>Perona</b>\r\nThe Ghost Princess.=<b>佩罗娜</b>\r\n幽灵公主。
+<b>Perona Hollow</b>\r\nA ghost created by Perona's Horo Horo no Mi.=<b>佩罗娜的灵体</b>\r\n由佩罗娜的灵灵果实创造出的幽灵。
+<b>Perona Umbrella</b>\r\nPerona's umbrella.=<b>佩罗娜的伞</b>\r\n佩罗娜的伞。
+<b>Power Giver</b>\r\nGrant character powers to any person.=<b>能力赋予器</b>\r\n将角色能力赋予给任何人。
+<b>Rize Kamishiro</b>\r\nA powerful ghoul with a rinkaku kagune.=<b>神代利世</b>\r\n拥有鳞赫的强大的喰种。
+<b>Yhwach</b>\r\nThe Father of the Quincy and ruler of the Wandenreich.=<b>友哈巴赫</b>\r\n灭却师之父，无形帝国的统治者。
+<b>Yhwach Reishi Sword</b>\r\nA sword formed from concentrated Reishi.=<b>友哈巴赫的灵子之剑</b>\r\n由高浓度灵子形成的剑。
+<b>Yhwach's Sword</b>\r\nThe sword wielded by Yhwach, Emperor of the Wandenreich.=<b>友哈巴赫的佩剑</b>\r\n无形帝国皇帝友哈巴赫所持的剑。
+
+//能力
+Open Bambi's power menu=打开邦比的能力菜单
+Open Bambi's power menu.=打开邦比的能力菜单.
+Bambi Powers=邦比能力
+r:"Reiatsu Intensity: ([\d.]+)%" = "灵压强度：$1%"
+Toggle Reiatsu=切换灵压
+Bambi Reiatsu enabled.=邦比灵压已启用.
+Bambi Reiatsu disabled.=邦比灵压已禁用.
+Enable The Explode=启用爆炸
+The Explode: ON — touch targets, hold one of Bambi's hands, then press J.=“爆炸”：开 — 接触目标，握住邦比的一只手，然后按J键。
+The Explode: OFF=“爆炸”：关
+r:"Explode target marked\. Total: (\d+)" = "已标记爆炸目标。总计：$1"
+r:"The Explode detonating (\d+) target\(s\)\." = "“爆炸”引爆 $1 个目标。"Vollstandig=完圣体
+Vollstandig=完圣体
+Bambi Vollstandig enabled=邦比完圣体已启用
+Bambi Vollstandig disabled=邦比完圣体已禁用
+Dash=冲刺
+Dash ready — click somewhere to dash.=冲刺就绪 — 点击某处以冲刺.
+Enable Swordsmanship=启用剑术
+Disable Swordsmanship=禁用剑术
+Bambi Swordsmanship: ON=邦比剑术：开
+Bambi Swordsmanship: OFF=邦比剑术：关
+Enable Reishi Bomb=启用灵子炸弹
+Disable Reishi Bomb=禁用灵子炸弹
+Reishi Bomb enabled.=灵子炸弹已启用。
+Reishi Bomb disabled.=灵子炸弹已禁用。
+Enable Bombardment Barrage=启用轰炸弹幕
+Disable Bombardment Barrage=禁用轰炸弹幕
+Bombardment Barrage enabled.=轰炸弹幕已启用。
+Bombardment Barrage disabled.=轰炸弹幕已禁用。
+Enable Omnidirectional Bombardment=启用全方位轰炸
+Disable Omnidirectional Bombardment=禁用全方位轰炸
+Omnidirectional Bombardment enabled.=全方位轰炸已启用。
+Omnidirectional Bombardment disabled.=全方位轰炸已禁用。
+Enable Delayed Minefield=启用延迟雷区
+Disable Delayed Minefield=禁用延迟雷区
+Delayed Minefield enabled. Hold F to plant mines and press M to detonate.=延迟雷区已启用。按住F键埋雷，按M键引爆。
+Bomb powers disabled.=炸弹能力已禁用。
+Secret Move....=秘密招式....
+
+Open Giselle's power menu=打开吉赛尔的能力菜单
+Open Giselle's power menu.=打开吉赛尔的能力菜单.
+Giselle Powers=吉赛尔的能力
+Enable Vollstandig=启用完圣体
+Disable Vollstandig=禁用完圣体
+Giselle Vollstandig enabled.=吉赛尔完圣体已启用。
+Giselle Vollstandig disabled.=吉赛尔完圣体已禁用。
+Spill Zombie Blood=洒出僵尸血液
+Stop Zombie Blood=停止僵尸血液
+Giselle began spilling Zombie Blood.=吉赛尔开始洒出僵尸血液。
+Blood Injection=血液注射
+sr:"^(.*?) was transformed into Giselle's zombie\.$" = "$1 已被转变为吉赛尔的僵尸。"
+Test Blood Healing=测试血液治疗
+Click a person to heal them. Right-click to cancel.=点击一个人以治疗他们. 右键取消.
+
+Open Ken's power menu=打开金木的能力菜单
+Open Ken's power menu.=打开金木的能力菜单.
+Ken Powers=金木的能力
+r:"Tentacle Count: ([\d.]+)x" = "触手数量：$1x"
+r:"Kagune Length: ([\d.]+)%" = "赫子长度：$1%"
+Transform into Ghoul Form=变身为喰种形态
+Return to Human Form=返回人类形态
+Ken transformed into his ghoul form.=金木已变身为喰种形态.
+Enable Kakugan=启用赫眼
+Disable Kakugan=禁用赫眼
+Ken's Kakugan activated.=金木的赫眼已激活.
+Ken's Kakugan deactivated.=金木的赫眼已停用.
+Enable Kagune=启用赫子
+Disable Kagune=禁用赫子
+Ken's kagune enabled.=金木的赫子已启用.
+Ken's kagune disabled.=金木的赫子已禁用.
+Enable Eating=启用进食
+Disable Eating=禁用进食
+Ken's eating enabled.=金木的进食已启用.
+Ken's eating disabled.=金木的进食已禁用.
+
+Open Mob's psychic power menu=打开龙套的超能力菜单
+Open Mob's psychic power menu.=打开龙套的超能力菜单.
+Mob Psychic Powers=龙套的超能力
+Mob has reached 100%.=龙套已达到100%.
+Enable Telekinesis=启用念力
+Disable Telekinesis=禁用念力
+Mob Telekinesis: ENABLED=龙套念力：已启用
+Mob Telekinesis: DISABLED=龙套念力：已禁用
+Enable Psychic Float=启用精神悬浮
+Disable Psychic Float=禁用精神悬浮
+Mob Psychic Float: ENABLED=龙套精神悬浮：已启用
+Mob Psychic Float: DISABLED=龙套精神悬浮：已禁用
+Return to Normal=返回正常状态
+Psychic Energy Transference=精神能量转移
+Click a person to transfer psychic energy.=点击一个人以转移精神能量。
+No person selected.=未选择任何人.
+sr:"^Psychic energy transferred to (.*?)\.$" = "精神能量已转移至$1."
+Enable Psychic Barrier=启用精神屏障
+Disable Psychic Barrier=禁用精神屏障
+Mob Psychic Barrier: ENABLED=龙套精神屏障：已启用
+Mob Psychic Barrier: DISABLED=龙套精神屏障：已禁用
+Enable Psychic Punch=启用精神拳击
+Disable Psychic Punch=禁用精神拳击
+Psychic Punch: ON=精神拳击：开
+Psychic Punch: OFF=精神拳击：关
+Activate 100%=激活100%
+r:"Mob is only at (\d+)%\." = "龙套目前只有 $1%."
+Mob Psychic Protection: ON=龙套精神防护：开
+Mob Psychic Protection: OFF=龙套精神防护：关
+Mob Psychic Aura: ON=龙套精神气场：开
+Mob Psychic Aura: OFF=龙套精神气场：关
+Mob 100% Aura: ON=龙套100%气场：开
+Mob 100% Aura: OFF=龙套100%气场：关
+
+Open Perona's ghost power menu=打开佩罗娜的幽灵能力菜单
+Open Perona's ghost power menu.=打开佩罗娜的幽灵能力菜单.
+Perona Ghost Powers=佩罗娜幽灵能力
+Mini Hollow Swarm=迷你灵体群
+星体投射=星体投射
+Summon Normal Hollows=召唤普通灵体
+Dismiss Normal Hollows=遣散普通灵体
+Ghost Rap=幽灵说唱
+Negative Hollow=消极幽灵
+Mini Hollow Swarm selected — hover an arm and press J.=已选迷你灵体群 — 将手臂悬停并按下J键。
+Perona entered astral form.=佩罗娜已进入星体投射状态。
+Perona returned to her body.=佩罗娜已回到她的身体。
+Normal Hollows summoned.=已召唤普通灵体。
+Normal Hollows dismissed.=已遣散普通灵体。
+There are no Mini Hollows to detonate.=没有迷你灵体可引爆。
+Negative Hollow selected — hover an arm and press J.=已选消极幽灵 — 将手臂悬停并按下J键。
+
+Rize Powers=利世的能力
+Rize's Kakugan activated.=利世的赫眼已激活.
+Rize's Kakugan deactivated.=利世的赫眼已停用.
+Rize's eating enabled.=利世的进食已启用.
+Rize's eating disabled.=利世的进食已禁用.
+Rize's kagune enabled.=利世的赫子已启用.
+Rize's kagune disabled.=利世的赫子已禁用.
+
+Open Yhwach's power menu=打开友哈巴赫的能力菜单
+Open Yhwach's power menu.=打开友哈巴赫的能力菜单。
+Yhwach Powers=友哈巴赫的能力
+r:"^Reiatsu Intensity: ([\d.]+)%$" = "灵压强度：$1%"
+Normal Sword=普通之剑
+Reishi Sword=灵子之剑
+Hirenkyaku=飞镰脚
+Blut Vene=静血装
+Black Goop=黑液
+The Almighty=全知全能
+Enable Concussive Force=启用冲击力
+Enable Concussive Force=启用冲击力
+Disable Concussive Force=禁用冲击力
+Enable Blue Flames=启用蓝色火焰
+Enable Blue Flames=启用蓝色火焰
+Disable Blue Flames=禁用蓝色火焰
+Enable Reishi Steps=启用灵子步
+Enable Reishi Steps=启用灵子步
+Disable Reishi Steps=禁用灵子步
+Shadow Teleport=暗影传送
+Almighty Dodge=全知闪避
+Rewrite My Future=改写我的未来
+
+//右键菜单
+Toggle Perona's umbrella=切换佩罗娜的伞
+Toggle Perona's umbrella.=切换佩罗娜的伞。
+Open/Close Umbrella=打开/关闭伞
+
+Bambi: Normal Outfit=邦比：普通服装
+Bambi outfit: Normal=邦比服装：普通
+Bambi: Cozy Outfit=邦比：舒适服装
+Bambi outfit: Cozy=邦比服装：舒适
+Bambi: Swimsuit=邦比：泳装
+Bambi outfit: Swimsuit=邦比服装：泳装
+Bambi: Zombie=邦比：僵尸
+Bambi outfit: Zombie=邦比服装：僵尸
+
+Giselle: Normal Outfit=吉赛尔：普通服装
+Giselle outfit: Normal=吉赛尔服装：普通
+Giselle: Cozy Outfit=吉赛尔：舒适服装
+Giselle outfit: Cozy=吉赛尔服装：舒适
+Giselle: Summer Outfit=吉赛尔：夏日服装
+Giselle outfit: Summer=吉赛尔服装：夏日
+
+//能力给予
+Yhwach - Concussive Force=友哈巴赫 - 冲击力
+Yhwach - Blue Flames=友哈巴赫 - 蓝色火焰
+Yhwach - Hirenkyaku=友哈巴赫 - 飞镰脚
+Yhwach - Reishi Steps=友哈巴赫 - 灵子步
+Yhwach - Shadow Teleport=友哈巴赫 - 暗影传送
+Yhwach - Vene=友哈巴赫 - 静血装
+Yhwach - Blut Black Goop=友哈巴赫 - 血装黑液
+Yhwach - The Almighty=友哈巴赫 - 全知全能
+Yhwach - Durability=友哈巴赫 - 耐久度
+Yhwach - Reiatsu=友哈巴赫 - 灵压
+Bambi - The Explode=邦比 - “爆炸”
+Bambi - Reishi Bombs=邦比 - 灵子炸弹
+Bambi - Swordsmanship=邦比 - 剑术
+Bambi - Durability=邦比 - 耐久度
+Giselle - The Zombie=吉赛尔 - “僵尸”
+Mob - Telekinesis=龙套 - 念力
+Mob - Psychic Barrier=龙套 - 精神屏障
+Mob - Psychic Punch=龙套 - 精神拳击
+Mob - Psychic Float=龙套 - 精神悬浮
+Perona - Horo Horo no Mi=佩罗娜 - 灵灵果实
+Yhwach - Blut Vene=友哈巴赫 - 血装·静血装
+Yhwach - Black Goop=友哈巴赫 - 黑液
+Swordsmanship=剑术

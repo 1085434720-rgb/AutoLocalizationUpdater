@@ -49,8 +49,8 @@ Restore Energy.=恢复能量.
 //能力
 //头部
 [C] See Future=[C] 预见未来
-Records the world's actions, allowing you to see the future while the world repeats its actions and you are free=记录世界的行动，让你在世界重复行动时看到未来，而你是自由的。
-sr:"^Records the world's actions, allowing you to see the future while the world repeats its actions and you are free\n\nTarget: (.*?)$" = "记录世界的行动，让你在世界重复行动时看到未来，而你是自由的。\n\n目标：$1"
+Records the world's actions, allowing you to see the future while the world repeats its actions and you are free=记录世界的行动，让你在世界重复行动时看到未来，而你是自由的. 
+sr:"^Records the world's actions, allowing you to see the future while the world repeats its actions and you are free\n\nTarget: (.*?)$" = "记录世界的行动，让你在世界重复行动时看到未来，而你是自由的. \n\n目标：$1"
 Enable [C] See Future=<color%3D#00FF00FF>启用 [C] 预见未来
 Disable [C] See Future=<color%3D#FF0000FF>禁用 [C] 预见未来
 [C] See Future Open Menu=<color%3D#FFD800>打开 [C] 预见未来菜单
@@ -62,8 +62,8 @@ Target Time: 5=目标时间：5
 r:"Target Time: ([\d.]+)" = "目标时间：$1"
 
 [C] Blood consumption=[C] 鲜血消耗
-Consume blood to increase strength, energy and also regenerate health=消耗血液以提升力量、能量，并恢复生命值。
-sr:"^Consume blood to increase strength, energy and also regenerate health\n\nTarget: (.*?)$" = "消耗血液以提升力量、能量，并恢复生命值。\n\n目标：$1"
+Consume blood to increase strength, energy and also regenerate health=消耗血液以提升力量、能量，并恢复生命值. 
+sr:"^Consume blood to increase strength, energy and also regenerate health\n\nTarget: (.*?)$" = "消耗血液以提升力量、能量，并恢复生命值. \n\n目标：$1"
 [C] Blood consumption=[C] 鲜血消耗
 Enable [C] Blood consumption=<color%3D#00FF00FF>启用 [C] 鲜血消耗
 Disable [C] Blood consumption=<color%3D#FF0000FF>禁用 [C] 鲜血消耗
@@ -136,7 +136,7 @@ Black Background: <color%3D#FF0000FF>Disabled</color>=黑色背景：<color%3D#F
 Hide background on full charge=在完全充能时隐藏背景
 
 Explosion Fly Ability=爆炸飞行能力
-Grants Explosive Fly When Enabled. Requires 2 healthy legs or arms to be used.=启用时获得爆炸飞行能力。需要2条健康的腿或手臂才能使用。
+Grants Explosive Fly When Enabled. Requires 2 healthy legs or arms to be used.=启用时获得爆炸飞行能力. 需要2条健康的腿或手臂才能使用. 
 Enable Explosion Fly Ability=<color%3D#00FF00FF>启用爆炸飞行能力
 Disable Explosion Fly Ability=<color%3D#FF0000FF>禁用爆炸飞行能力
 Explosion Fly Ability Open Menu=<color%3D#FFD800>打开爆炸飞行能力菜单
@@ -146,7 +146,7 @@ Toggle Explosion Fly Ability.=切换爆炸飞行能力.
 Explosion Fly Ability Options=爆炸飞行能力选项
 
 [C] Explosion Self=[C] 自爆
-Tear off any limb and blow it up using the context menu. Or blow up all dead limbs on H=使用上下文菜单撕下任何肢体并引爆。或按H引爆所有已死的肢体。
+Tear off any limb and blow it up using the context menu. Or blow up all dead limbs on H=使用上下文菜单撕下任何肢体并引爆. 或按H引爆所有已死的肢体. 
 Enable [C] Explosion Self=<color%3D#00FF00FF>启用 [C] 自爆
 Disable [C] Explosion Self=<color%3D#FF0000FF>禁用 [C] 自爆
 [C] Explosion Self Open Menu=<color%3D#FFD800>打开 [C] 自爆菜单
@@ -171,7 +171,7 @@ Missile Auto Target <color%3D#FF0000FF>Disabled</color>=导弹自动瞄准 <colo
 
 //上半身
 [C] Chainsaw Barrage=[C] 电锯弹幕拳
-Holding Activa delivers a series of slashes. Press H for strong barrage=按住激活键可发动一连串斩击。按H键进行强力弹幕攻击。
+Holding Activa delivers a series of slashes. Press H for strong barrage=按住激活键可发动一连串斩击. 按H键进行强力弹幕攻击. 
 Enable [C] Chainsaw Barrage=<color%3D#00FF00FF>启用 [C] 电锯弹幕
 Disable [C] Chainsaw Barrage=<color%3D#FF0000FF>禁用 [C] 电锯弹幕
 [C] Chainsaw Barrage Open Menu=<color%3D#FFD800>打开 [C] 电锯弹幕菜单
@@ -181,7 +181,7 @@ Toggle [C] Chainsaw Barrage.=切换 [C] 电锯弹幕.
 [C] Chainsaw Barrage Options=[C] 电锯弹幕拳选项
 
 [C] Chainsaw Heart=[C] 电锯之心
-The heart, literally. The heart can be successfully detached if user has more than 50% max energy=就是心脏。如果使用者拥有超过50%的最大能量，心脏可以被成功摘除。
+The heart, literally. The heart can be successfully detached if user has more than 50% max energy=就是心脏. 如果使用者拥有超过50%的最大能量，心脏可以被成功摘除. 
 Enable [C] Chainsaw Heart=<color%3D#00FF00FF>启用 [C] 电锯之心
 Disable [C] Chainsaw Heart=<color%3D#FF0000FF>禁用 [C] 电锯之心
 [C] Chainsaw Heart Open Menu=<color%3D#FFD800>打开 [C] 电锯之心菜单
@@ -193,7 +193,7 @@ Detach Always: <color%3D#FF0000FF>Disabled</color>=始终分离：<color%3D#FF00
 Detach Always: <color%3D#00FF00FF>Enabled</color>=始终分离：<color%3D#00FF00FF>已启用</color>
 
 [C] Explosion Barrage=[C] 爆炸弹幕
-Holding Activa delivers a series of explosions. Press H for strong barrage=按住激活键可发动一连串爆炸。按H键进行强力弹幕攻击。
+Holding Activa delivers a series of explosions. Press H for strong barrage=按住激活键可发动一连串爆炸. 按H键进行强力弹幕攻击. 
 Enable [C] Explosion Barrage=<color%3D#00FF00FF>启用 [C] 爆炸弹幕
 Disable [C] Explosion Barrage=<color%3D#FF0000FF>禁用 [C] 爆炸弹幕
 [C] Explosion Barrage Open Menu=<color%3D#FFD800>打开 [C] 爆炸弹幕菜单
@@ -203,7 +203,7 @@ Toggle [C] Explosion Barrage.=切换 [C] 爆炸弹幕.
 [C] Explosion Barrage Options=[C] 爆炸弹幕选项
 
 [C] Explosion Repulse=[C] 爆炸斥力
-When ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds. Press J for many explosions near=当能力激活时，如果有东西触碰到使用者，会在接触点每几秒产生一次小型排斥爆炸。按J键在附近产生多次爆炸。
+When ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds. Press J for many explosions near=当能力激活时，如果有东西触碰到使用者，会在接触点每几秒产生一次小型排斥爆炸. 按J键在附近产生多次爆炸. 
 Enable [C] Explosion Repulse=<color%3D#00FF00FF>启用 [C] 爆炸斥力
 Disable [C] Explosion Repulse=<color%3D#FF0000FF>禁用 [C] 爆炸斥力
 [C] Explosion Repulse Open Menu=<color%3D#FFD800>打开 [C] 爆炸斥力菜单
@@ -220,7 +220,7 @@ Toggle [C] Explosion Repulse.=切换 [C] 爆炸斥力.
 
 //中半身
 [C] Chainsaw Dash=[C] 电锯冲刺
-Saw everything in your path. Draw your own path by moving the mouse.\r\nMove the mouse back to undo a segment.=锯断路径上的一切。通过移动鼠标绘制你自己的路径。\r\n向后移动鼠标可撤销一段路径.
+Saw everything in your path. Draw your own path by moving the mouse.\r\nMove the mouse back to undo a segment.=锯断路径上的一切. 通过移动鼠标绘制你自己的路径. \r\n向后移动鼠标可撤销一段路径.
 Enable [C] Chainsaw Dash=<color%3D#00FF00FF>启用 [C] 电锯冲刺
 Disable [C] Chainsaw Dash=<color%3D#FF0000FF>禁用 [C] 电锯冲刺
 [C] Chainsaw Dash Open Menu=<color%3D#FFD800>打开 [C] 电锯冲刺菜单
@@ -230,7 +230,7 @@ Toggle [C] Chainsaw Dash.=切换 [C] 电锯冲刺.
 [C] Chainsaw Dash Options=[C] 电锯冲刺选项
 
 [C] Explosion Dash=[C] 爆炸冲刺
-Explode everything in your path. Draw your own path by moving the mouse.\r\nMove the mouse back to undo a segment.=爆炸路径上的一切。通过移动鼠标绘制你自己的路径。\r\n向后移动鼠标可撤销一段路径。
+Explode everything in your path. Draw your own path by moving the mouse.\r\nMove the mouse back to undo a segment.=爆炸路径上的一切. 通过移动鼠标绘制你自己的路径. \r\n向后移动鼠标可撤销一段路径. 
 Enable [C] Explosion Dash=<color%3D#00FF00FF>启用 [C] 爆炸冲刺
 Disable [C] Explosion Dash=<color%3D#FF0000FF>禁用 [C] 爆炸冲刺
 [C] Explosion Dash Open Menu=<color%3D#FFD800>打开 [C] 爆炸冲刺菜单
@@ -243,7 +243,7 @@ Toggle [C] Explosion Dash.=切换 [C] 爆炸冲刺.
 
 //前臂
 [C] Fox Summon=[C] 狐灵召唤
-A contract that summons a fox that dashes toward its target and strikes=一份契约，召唤一只冲向目标并进行攻击的狐狸。
+A contract that summons a fox that dashes toward its target and strikes=一份契约，召唤一只冲向目标并进行攻击的狐狸. 
 Enable [C] Fox Summon=<color%3D#00FF00FF>启用 [C] 狐灵召唤
 Disable [C] Fox Summon=<color%3D#FF0000FF>禁用 [C] 狐灵召唤
 [C] Fox Summon Open Menu=<color%3D#FFD800>打开 [C] 狐灵召唤菜单
@@ -253,7 +253,7 @@ Toggle [C] Fox Summon.=切换 [C] 狐灵召唤.
 [C] Fox Summon Options=[C] 狐灵召唤选项
 
 [C] Chainsaw Single=[C] 电锯单刃
-One limb - one saw. Activate to saw in a variety of ways=单肢——单锯。激活以各种方式进行切割。
+One limb - one saw. Activate to saw in a variety of ways=单肢——单锯. 激活以各种方式进行切割. 
 Enable [C] Chainsaw Single=<color%3D#00FF00FF>启用 [C] 电锯单刃
 Disable [C] Chainsaw Single=<color%3D#FF0000FF>禁用 [C] 电锯单刃
 [C] Chainsaw Single Open Menu=<color%3D#FFD800>打开 [C] 电锯单刃菜单
@@ -268,7 +268,7 @@ Blade Sharp: <color%3D#FF0000FF>Disabled</color>=刀刃锋利：<color%3D#FF0000
 r:"Attack Power Mult: ([\d.]+)" = "攻击力倍率：$1"
 
 [C] Bang=[C] 砰
-Direct Force Manipulation \nHold To Charge More Power=直接力操纵 \n按住蓄力以增强威力。
+Direct Force Manipulation \nHold To Charge More Power=直接力操纵 \n按住蓄力以增强威力. 
 Enable [C] Bang=<color%3D#00FF00FF>启用 [C] 砰
 Disable [C] Bang=<color%3D#FF0000FF>禁用 [C] 砰
 [C] Bang Open Menu=<color%3D#FFD800>打开 [C] 砰菜单
@@ -285,13 +285,13 @@ Bang Text: <color%3D#FF0000FF>Disabled</color>=砰文本：<color%3D#FF0000FF>�
 BANG=砰
 
 [C] Chains Manipulation=[C] 锁链操控
-Control of chains with different types of manipulation of the affected objects=对受影响目标进行不同类型操控的锁链控制。
+Control of chains with different types of manipulation of the affected objects=对受影响目标进行不同类型操控的锁链控制. 
 Enable [C] Chains Manipulation=<color%3D#00FF00FF>启用 [C] 锁链操控
 Disable [C] Chains Manipulation=<color%3D#FF0000FF>禁用 [C] 锁链操控
 Toggle [C] Chains Manipulation=切换 [C] 锁链操控
-Toggle [C] Chains Manipulation.=切换 [C] 锁链操控。
+Toggle [C] Chains Manipulation.=切换 [C] 锁链操控. 
 [C] Chains Manipulation Open Menu=<color%3D#FFD800>[C] 锁链操控打开菜单
-[C] Chains Manipulation Open Menu.=[C] 锁链操控打开菜单。
+[C] Chains Manipulation Open Menu.=[C] 锁链操控打开菜单. 
 [C] Chains Manipulation Options=[C] 锁链操控选项
 Select Manipulation Type=选择操控类型
 Select Manipulation Type Selection=选择操控类型选择
@@ -308,7 +308,7 @@ Toggle Flesh Piercer.=切换血肉穿刺者.
 Flesh Piercer Options=血肉穿刺者选项
 
 [C] Explosion User=[C] 爆炸使用者
-Cast Various Explosions with your hand. Hold for more power by default.=用手施放各种爆炸。默认按住可增强威力。
+Cast Various Explosions with your hand. Hold for more power by default.=用手施放各种爆炸. 默认按住可增强威力. 
 Enable [C] Explosion User=<color%3D#00FF00FF>启用 [C] 爆炸使用者
 Disable [C] Explosion User=<color%3D#FF0000FF>禁用 [C] 爆炸使用者
 [C] Explosion User Open Menu=<color%3D#FFD800>打开 [C] 爆炸使用者菜单
@@ -324,46 +324,46 @@ Toggle [C] Explosion User.=切换 [C] 爆炸使用者.
 
 
 //能力给予肢体目标描述
-Cast Various Explosions with your hand. Hold for more power by default.=用手施放各种爆炸。默认按住可增强威力。
-sr:"^Cast Various Explosions with your hand\. Hold for more power by default\.\n\nTarget: (.*?)$" = "用手施放各种爆炸。默认按住可增强威力。\n\n目标：$1"
+Cast Various Explosions with your hand. Hold for more power by default.=用手施放各种爆炸. 默认按住可增强威力. 
+sr:"^Cast Various Explosions with your hand\. Hold for more power by default\.\n\nTarget: (.*?)$" = "用手施放各种爆炸. 默认按住可增强威力. \n\n目标：$1"
 
-Grants Explosive Fly When Enabled. Requires 2 healthy legs or arms to be used.=启用时获得爆炸飞行能力。需要2条健康的腿或手臂才能使用。
-sr:"^Grants Explosive Fly When Enabled\. Requires 2 healthy legs or arms to be used\.\n\nTarget: (.*?)$" = "启用时获得爆炸飞行能力。需要2条健康的腿或手臂才能使用。\n\n目标：$1"
+Grants Explosive Fly When Enabled. Requires 2 healthy legs or arms to be used.=启用时获得爆炸飞行能力. 需要2条健康的腿或手臂才能使用. 
+sr:"^Grants Explosive Fly When Enabled\. Requires 2 healthy legs or arms to be used\.\n\nTarget: (.*?)$" = "启用时获得爆炸飞行能力. 需要2条健康的腿或手臂才能使用. \n\n目标：$1"
 
-Tear off any limb and blow it up using the context menu. Or blow up all dead limbs on H=使用上下文菜单撕下任何肢体并引爆。或按H引爆所有已死的肢体。
-sr:"^Tear off any limb and blow it up using the context menu\. Or blow up all dead limbs on H\n\nTarget: (.*?)$" = "使用上下文菜单撕下任何肢体并引爆。或按H引爆所有已死的肢体。\n\n目标：$1"
+Tear off any limb and blow it up using the context menu. Or blow up all dead limbs on H=使用上下文菜单撕下任何肢体并引爆. 或按H引爆所有已死的肢体. 
+sr:"^Tear off any limb and blow it up using the context menu\. Or blow up all dead limbs on H\n\nTarget: (.*?)$" = "使用上下文菜单撕下任何肢体并引爆. 或按H引爆所有已死的肢体. \n\n目标：$1"
 
-Holding Activa delivers a series of explosions. Press H for strong barrage=按住激活键可发动一连串爆炸。按H键进行强力弹幕攻击。
-sr:"^Holding Activa delivers a series of explosions\. Press H for strong barrage\n\nTarget: (.*?)$" = "按住激活键可发动一连串爆炸。按H键进行强力弹幕攻击。\n\n目标：$1"
+Holding Activa delivers a series of explosions. Press H for strong barrage=按住激活键可发动一连串爆炸. 按H键进行强力弹幕攻击. 
+sr:"^Holding Activa delivers a series of explosions\. Press H for strong barrage\n\nTarget: (.*?)$" = "按住激活键可发动一连串爆炸. 按H键进行强力弹幕攻击. \n\n目标：$1"
 
-When ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds. Press J for many explosions near=当能力激活时，如果有东西触碰到使用者，会在接触点每几秒产生一次小型排斥爆炸。按J键在附近产生多次爆炸。
-sr:"^When ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds\. Press J for many explosions near\n\nTarget: (.*?)$" = "当能力激活时，如果有东西触碰到使用者，会在接触点每几秒产生一次小型排斥爆炸。按J键在附近产生多次爆炸。\n\n目标：$1"
+When ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds. Press J for many explosions near=当能力激活时，如果有东西触碰到使用者，会在接触点每几秒产生一次小型排斥爆炸. 按J键在附近产生多次爆炸. 
+sr:"^When ability is activated, if something touches the user, a small repulsion explosion is created at the point of contact every few seconds\. Press J for many explosions near\n\nTarget: (.*?)$" = "当能力激活时，如果有东西触碰到使用者，会在接触点每几秒产生一次小型排斥爆炸. 按J键在附近产生多次爆炸. \n\n目标：$1"
 
-Explode everything in your path. Draw your own path by moving the mouse.\r\nMove the mouse back to undo a segment.=爆炸路径上的一切。通过移动鼠标绘制你自己的路径。\r\n向后移动鼠标可撤销一段路径。
-sr:"^Explode everything in your path\. Draw your own path by moving the mouse\.\\r\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "爆炸路径上的一切。通过移动鼠标绘制你自己的路径。\r\n向后移动鼠标可撤销一段路径。\n\n目标：$1"
+Explode everything in your path. Draw your own path by moving the mouse.\r\nMove the mouse back to undo a segment.=爆炸路径上的一切. 通过移动鼠标绘制你自己的路径. \r\n向后移动鼠标可撤销一段路径. 
+sr:"^Explode everything in your path\. Draw your own path by moving the mouse\.\\r\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "爆炸路径上的一切. 通过移动鼠标绘制你自己的路径. \r\n向后移动鼠标可撤销一段路径. \n\n目标：$1"
 
-The heart, literally. The heart can be successfully detached if user has more than 50% max energy=就是心脏。如果使用者拥有超过50%的最大能量，心脏可以被成功摘除。
-sr:"^The heart, literally\. The heart can be successfully detached if user has more than 50% max energy\n\nTarget: (.*?)$" = "就是心脏。如果使用者拥有超过50%的最大能量，心脏可以被成功摘除。\n\n目标：$1"
+The heart, literally. The heart can be successfully detached if user has more than 50% max energy=就是心脏. 如果使用者拥有超过50%的最大能量，心脏可以被成功摘除. 
+sr:"^The heart, literally\. The heart can be successfully detached if user has more than 50% max energy\n\nTarget: (.*?)$" = "就是心脏. 如果使用者拥有超过50%的最大能量，心脏可以被成功摘除. \n\n目标：$1"
 
-Holding Activa delivers a series of slashes. Press H for strong barrage=按住激活键可发动一连串斩击。按H键进行强力弹幕攻击。
-sr:"^Holding Activa delivers a series of slashes\. Press H for strong barrage\n\nTarget: (.*?)$" = "按住激活键可发动一连串斩击。按H键进行强力弹幕攻击。\n\n目标：$1"
+Holding Activa delivers a series of slashes. Press H for strong barrage=按住激活键可发动一连串斩击. 按H键进行强力弹幕攻击. 
+sr:"^Holding Activa delivers a series of slashes\. Press H for strong barrage\n\nTarget: (.*?)$" = "按住激活键可发动一连串斩击. 按H键进行强力弹幕攻击. \n\n目标：$1"
 
-Saw everything in your path. Draw your own path by moving the mouse.\r\nMove the mouse back to undo a segment.=锯断路径上的一切。通过移动鼠标绘制你自己的路径。\r\n向后移动鼠标可撤销一段路径。
-sr:"^Saw everything in your path\. Draw your own path by moving the mouse\.\\r\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "锯断路径上的一切。通过移动鼠标绘制你自己的路径。\r\n向后移动鼠标可撤销一段路径。\n\n目标：$1"
+Saw everything in your path. Draw your own path by moving the mouse.\r\nMove the mouse back to undo a segment.=锯断路径上的一切. 通过移动鼠标绘制你自己的路径. \r\n向后移动鼠标可撤销一段路径. 
+sr:"^Saw everything in your path\. Draw your own path by moving the mouse\.\\r\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "锯断路径上的一切. 通过移动鼠标绘制你自己的路径. \r\n向后移动鼠标可撤销一段路径. \n\n目标：$1"
 
-One limb - one saw. Activate to saw in a variety of ways=单肢——单锯。激活以各种方式进行切割。
-sr:"^One limb - one saw\. Activate to saw in a variety of ways\n\nTarget: (.*?)$" = "单肢——单锯。激活以各种方式进行切割。\n\n目标：$1"
+One limb - one saw. Activate to saw in a variety of ways=单肢——单锯. 激活以各种方式进行切割. 
+sr:"^One limb - one saw\. Activate to saw in a variety of ways\n\nTarget: (.*?)$" = "单肢——单锯. 激活以各种方式进行切割. \n\n目标：$1"
 
-A contract that summons a fox that dashes toward its target and strikes=一份契约，召唤一只冲向目标并进行攻击的狐狸。
-sr:"^A contract that summons a fox that dashes toward its target and strikes\n\nTarget: (.*?)$" = "一份契约，召唤一只冲向目标并进行攻击的狐狸。\n\n目标：$1"
+A contract that summons a fox that dashes toward its target and strikes=一份契约，召唤一只冲向目标并进行攻击的狐狸. 
+sr:"^A contract that summons a fox that dashes toward its target and strikes\n\nTarget: (.*?)$" = "一份契约，召唤一只冲向目标并进行攻击的狐狸. \n\n目标：$1"
 
-Allows to manipulate creatures and their will=允许操控生物及其意志。
-sr:"^Allows to manipulate creatures and their will\n\nTarget: (.*?)$" = "允许操控生物及其意志。\n\n目标：$1"
+Allows to manipulate creatures and their will=允许操控生物及其意志. 
+sr:"^Allows to manipulate creatures and their will\n\nTarget: (.*?)$" = "允许操控生物及其意志. \n\n目标：$1"
 
-Direct Force Manipulation \nHold To Charge More Power=直接力操纵 \n按住蓄力以增强威力。
-sr:"^Direct Force Manipulation \nHold To Charge More Power\n\nTarget: (.*?)$" = "直接力操纵 \n按住蓄力以增强威力。\n\n目标：$1"
+Direct Force Manipulation \nHold To Charge More Power=直接力操纵 \n按住蓄力以增强威力. 
+sr:"^Direct Force Manipulation \nHold To Charge More Power\n\nTarget: (.*?)$" = "直接力操纵 \n按住蓄力以增强威力. \n\n目标：$1"
 
-Control of chains with different types of manipulation of the affected objects=对受影响目标进行不同类型操控的锁链控制。
-sr:"^Control of chains with different types of manipulation of the affected objects\n\nTarget: (.*?)$" = "对受影响目标进行不同类型操控的锁链控制。\n\n目标：$1"
+Control of chains with different types of manipulation of the affected objects=对受影响目标进行不同类型操控的锁链控制. 
+sr:"^Control of chains with different types of manipulation of the affected objects\n\nTarget: (.*?)$" = "对受影响目标进行不同类型操控的锁链控制. \n\n目标：$1"
 
 AnyLimb=任意肢体

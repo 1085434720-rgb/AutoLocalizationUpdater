@@ -3237,8 +3237,8 @@ Toggle Berserk Boost=切换狂暴强化
 Toggle Berserk Boost.=切换狂暴强化.
 
 [M] Restriction=[M] 限制
-Converts power and energy according to a certain ratio.=根据一定比例转换力量和能量。
-sr:"^Converts power and energy according to a certain ratio\.\n\nTarget: (.*?)$" = "根据一定比例转换力量和能量。\n\n目标：$1"
+Converts power and energy according to a certain ratio.=根据一定比例转换力量和能量. 
+sr:"^Converts power and energy according to a certain ratio\.\n\nTarget: (.*?)$" = "根据一定比例转换力量和能量. \n\n目标：$1"
 Enable [M] Restriction=<color%3D#00FF00FF>启用 [M] 限制
 Disable [M] Restriction=<color%3D#FF0000FF>禁用 [M] 限制
 [M] Restriction Open Menu=<color%3D#FFD800>打开 [M] 限制菜单
@@ -3290,8 +3290,8 @@ Toggle [M] Shadow Step.=切换 [M] 影步.
 r:"Jump Mult: ([\d.]+)" = "跳跃倍率：$1"
 
 [M] Cancer=[M] 癌症
-Applies multiple debuffs like cancer.=施加多种减益效果，类似癌症。
-sr:"^Applies multiple debuffs like cancer\.\n\nTarget: (.*?)$" = "施加多种减益效果，类似癌症。\n\n目标：$1"
+Applies multiple debuffs like cancer.=施加多种减益效果，类似癌症. 
+sr:"^Applies multiple debuffs like cancer\.\n\nTarget: (.*?)$" = "施加多种减益效果，类似癌症. \n\n目标：$1"
 Enable [M] Cancer=<color%3D#00FF00FF>启用 [M] 癌症
 Disable [M] Cancer=<color%3D#FF0000FF>禁用 [M] 癌症
 [M] Cancer Open Menu=<color%3D#FFD800>打开 [M] 癌症菜单
@@ -3304,17 +3304,17 @@ Toggle [M] Cancer.=切换 [M] 癌症.
 
 //上半身
 [M] Blood Barrage=[M] 血之弹幕
-Holding Activa delivers a series of blood punches. Press H for strong barrage. Press J to blow up all affected objects.=按住激活键可发动一连串血之拳击。按H键进行强力弹幕攻击。按J键引爆所有受影响的物体.
-sr:"^Holding Activa delivers a series of blood punches\. Press H for strong barrage\. Press J to blow up all affected objects\.\n\nTarget: (.*?)$" = "按住激活键可发动一连串血之拳击。按H键进行强力弹幕攻击。按J键引爆所有受影响的物体。\n\n目标：$1"
+Holding Activa delivers a series of blood punches. Press H for strong barrage. Press J to blow up all affected objects.=按住激活键可发动一连串血之拳击. 按H键进行强力弹幕攻击. 按J键引爆所有受影响的物体.
+sr:"^Holding Activa delivers a series of blood punches\. Press H for strong barrage\. Press J to blow up all affected objects\.\n\nTarget: (.*?)$" = "按住激活键可发动一连串血之拳击. 按H键进行强力弹幕攻击. 按J键引爆所有受影响的物体. \n\n目标：$1"
 Enable [M] Blood Barrage=<color%3D#00FF00FF>启用 [M] 血之弹幕
 Disable [M] Blood Barrage=<color%3D#FF0000FF>禁用 [M] 血之弹幕
 [M] Blood Barrage Open Menu=<color%3D#FFD800>[M] 血之弹幕打开菜单
 Toggle [M] Blood Barrage=切换 [M] 血之弹幕
-Toggle [M] Blood Barrage.=切换 [M] 血之弹幕。
+Toggle [M] Blood Barrage.=切换 [M] 血之弹幕. 
 
 [C] Passive Blood Manipulation=[C] 被动血术
 Full-body ability that allows to equipt reinforced armor, emit bleeding aura, and restore lost blood=全身能力，可装备强化护甲、释放流血气场并恢复流失的血液.
-sr:"^Full-body ability that allows to equipt reinforced armor, emit bleeding aura, and restore lost blood\n\nTarget: (.*?)$" = "全身能力，可装备强化护甲、释放流血气场并恢复流失的血液。\n\n目标：$1"
+sr:"^Full-body ability that allows to equipt reinforced armor, emit bleeding aura, and restore lost blood\n\nTarget: (.*?)$" = "全身能力，可装备强化护甲、释放流血气场并恢复流失的血液. \n\n目标：$1"
 [M] Blood Barrage Options=[M] 血之弹幕选项
 [C] Passive Blood Manipulation Options=[C] 被动血术选项
 Blood Aura <color%3D#FF0000FF>Disabled</color>=血之气场 <color%3D#FF0000FF>已禁用</color>
@@ -3325,11 +3325,11 @@ Enable [C] Passive Blood Manipulation=<color%3D#00FF00FF>启用 [C] 被动血术
 Disable [C] Passive Blood Manipulation=<color%3D#FF0000FF>禁用 [C] 被动血术
 [C] Passive Blood Manipulation Open Menu=<color%3D#FFD800>[C] 被动血术打开菜单
 Toggle [C] Passive Blood Manipulation=切换 [C] 被动血术
-Toggle [C] Passive Blood Manipulation.=切换 [C] 被动血术。
+Toggle [C] Passive Blood Manipulation.=切换 [C] 被动血术. 
 
 [M] Slice Active=[M] 斩击主动
-Slice on contact. H for slice area. J for ultimate area slices=接触时进行斩击。按H键进行区域切片。按J键进行终极区域切片.
-sr:"^Slice on contact\. H for slice area\. J for ultimate area slices\n\nTarget: (.*?)$" = "接触时进行斩击。按H键进行区域斩击。按J键进行终极区域斩击。\n\n目标：$1"
+Slice on contact. H for slice area. J for ultimate area slices=接触时进行斩击. 按H键进行区域切片. 按J键进行终极区域切片.
+sr:"^Slice on contact\. H for slice area\. J for ultimate area slices\n\nTarget: (.*?)$" = "接触时进行斩击. 按H键进行区域斩击. 按J键进行终极区域斩击. \n\n目标：$1"
 [M] Slice Active Options=[M] 斩击主动选项
 Passive Protection <color%3D#00FF00FF>Enabled</color>=被动防护 <color%3D#00FF00FF>已启用</color>
 Passive Protection <color%3D#FF0000FF>Disabled</color>=被动防护 <color%3D#FF0000FF>已禁用</color>
@@ -3338,14 +3338,14 @@ Enable [M] Slice Active=<color%3D#00FF00FF>启用 [M] 斩击主动
 Disable [M] Slice Active=<color%3D#FF0000FF>禁用 [M] 斩击主动
 [M] Slice Active Open Menu=<color%3D#FFD800>[M] 斩击主动打开菜单
 Toggle [M] Slice Active=切换 [M] 斩击主动
-Toggle [M] Slice Active.=切换 [M] 斩击主动。
+Toggle [M] Slice Active.=切换 [M] 斩击主动. 
 
 
 
 //中半身
 [M] Slice Dash=[M] 斩击冲刺
-Slice everything in your path. Draw your own path by moving the mouse.\nMove the mouse back to undo a segment.=斩击路径上的一切。通过移动鼠标绘制你自己的路径。\n向后移动鼠标可撤销一段路径。
-sr:"^Slice everything in your path\. Draw your own path by moving the mouse\.\\r\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "斩击路径上的一切。通过移动鼠标绘制你自己的路径。\r\n向后移动鼠标可撤销一段路径。\n\n目标：$1"
+Slice everything in your path. Draw your own path by moving the mouse.\nMove the mouse back to undo a segment.=斩击路径上的一切. 通过移动鼠标绘制你自己的路径. \n向后移动鼠标可撤销一段路径. 
+sr:"^Slice everything in your path\. Draw your own path by moving the mouse\.\\r\\nMove the mouse back to undo a segment\.\n\nTarget: (.*?)$" = "斩击路径上的一切. 通过移动鼠标绘制你自己的路径. \r\n向后移动鼠标可撤销一段路径. \n\n目标：$1"
 [M] Slice Dash Options=[M] 斩击冲刺选项
 Disable [M] Slice Dash=<color%3D#FF0000FF>禁用 [M] 斩击冲刺
 Enable [M] Slice Dash=<color%3D#00FF00FF>启用 [M] 斩击冲刺
@@ -3357,21 +3357,21 @@ Toggle [M] Slice Dash.=切换 [M] 斩击冲刺.
 
 //下半身
 [M] Blood Cascade=[M] 血之瀑布
-F to turn into Blop. H to full heal. In blop form H to move (Shift to speed up), J to strong Dash, H to release back to human form=按F变身为血块。按H完全治愈。在血块形态下按H移动（Shift加速），按J强力冲刺，按K释放变回人类形态。
-sr:"^F to turn into Blop\. H to full heal\. In blop form H to move \(Shift to speed up\), J to strong Dash, H to release back to human form\n\nTarget: (.*?)$" = "按F变身为血块。按H完全治愈。在血块形态下按H移动（Shift加速），按J强力冲刺，按K释放变回人类形态。\n\n目标：$1"
+F to turn into Blop. H to full heal. In blop form H to move (Shift to speed up), J to strong Dash, H to release back to human form=按F变身为血块. 按H完全治愈. 在血块形态下按H移动（Shift加速），按J强力冲刺，按K释放变回人类形态. 
+sr:"^F to turn into Blop\. H to full heal\. In blop form H to move \(Shift to speed up\), J to strong Dash, H to release back to human form\n\nTarget: (.*?)$" = "按F变身为血块. 按H完全治愈. 在血块形态下按H移动（Shift加速），按J强力冲刺，按K释放变回人类形态. \n\n目标：$1"
 Enable [M] Blood Cascade=<color%3D#00FF00FF>启用 [M] 血之瀑布
 Disable [M] Blood Cascade=<color%3D#FF0000FF>禁用 [M] 血之瀑布
 [M] Blood Cascade Open Menu=<color%3D#FFD800>[M] 血之瀑布打开菜单
 Toggle [M] Blood Cascade=切换 [M] 血之瀑布
-Toggle [M] Blood Cascade.=切换 [M] 血之瀑布。
+Toggle [M] Blood Cascade.=切换 [M] 血之瀑布. 
 [M] Blood Cascade Options=[M] 血之瀑布选项
 r:"Shift Speed Mult: ([\d.]+)" = "移速倍率：$1"
 Disable Energy Punishment <color%3D#FF0000FF>Disabled</color>=禁用能量惩罚 <color%3D#FF0000FF>已禁用</color>
 Disable Energy Punishment <color%3D#00FF00FF>Enabled</color>=禁用能量惩罚 <color%3D#00FF00FF>已启用</color>
 
 [M] Shadow Evasion=[M] 影遁
-Hide in the shadows and avoid damage. Press F to toggle.=躲入阴影并规避伤害。按F键切换。
-sr:"^Hide in the shadows and avoid damage\. Press F to toggle\.\n\nTarget: (.*?)$" = "躲入阴影并规避伤害。按F键切换。\n\n目标：$1"
+Hide in the shadows and avoid damage. Press F to toggle.=躲入阴影并规避伤害. 按F键切换. 
+sr:"^Hide in the shadows and avoid damage\. Press F to toggle\.\n\nTarget: (.*?)$" = "躲入阴影并规避伤害. 按F键切换. \n\n目标：$1"
 Enable [M] Shadow Evasion=<color%3D#00FF00FF>启用 [M] 影遁
 Disable [M] Shadow Evasion=<color%3D#FF0000FF>禁用 [M] 影遁
 [M] Shadow Evasion Open Menu=<color%3D#FFD800>打开 [M] 影遁菜单
@@ -3395,8 +3395,8 @@ Toggle [M] Flash=切换 [M] 黑闪
 Toggle [M] Flash.=切换 [M] 黑闪.
 [M] Flash Options=[M] 黑闪选项
 r:"Random Chance: ([\d.]+)" = "随机几率：$1"
-Impact Frames: <color%3D#00FF00FF>Enabled</color>=撞击帧：<color%3D#00FF00FF>已启用</color>
-Impact Frames: <color%3D#FF0000FF>Disabled</color>=撞击帧：<color%3D#FF0000FF>已禁用</color>
+Impact Frames: <color%3D#00FF00FF>Enabled</color>=冲击帧：<color%3D#00FF00FF>已启用</color>
+Impact Frames: <color%3D#FF0000FF>Disabled</color>=冲击帧：<color%3D#FF0000FF>已禁用</color>
 
 [M] Divergent=[M] 径庭
 Enable [M] Divergent=<color%3D#00FF00FF>启用 [M] 径庭
@@ -3416,8 +3416,8 @@ Toggle [M] Claws.=切换 [M] 爪臂.
 [M] Claws Options=[M] 爪臂选项
 
 [M] Slice Punch=[M] 斩击拳
-Punches with slices. Pressing "H" instantly charges a punch, and the next hit deals area damage, knocking back\r\nRadius, damage, and knockback increase with strength\r\n=用斩击进行拳击。按住"H"可瞬间蓄力一拳，下一次命中造成范围伤害并击退\n半径、伤害和击退随力量提升\n
-sr:"^Punches with slices\. Pressing \"H\" instantly charges a punch, and the next hit deals area damage, knocking back\\r\\nRadius, damage, and knockback increase with strength\\r\\n\n\nTarget: (.*?)$" = "用斩击进行拳击。按住\"H\"可瞬间蓄力一拳，下一次命中造成范围伤害并击退\n半径、伤害和击退随力量提升\n\n目标：$1"
+Punches with slices. Pressing "H" instantly charges a punch, and the next hit deals area damage, knocking back\r\nRadius, damage, and knockback increase with strength\r\n=用斩击进行拳击. 按住"H"可瞬间蓄力一拳，下一次命中造成范围伤害并击退\n半径、伤害和击退随力量提升\n
+sr:"^Punches with slices\. Pressing \"H\" instantly charges a punch, and the next hit deals area damage, knocking back\\r\\nRadius, damage, and knockback increase with strength\\r\\n\n\nTarget: (.*?)$" = "用斩击进行拳击. 按住\"H\"可瞬间蓄力一拳，下一次命中造成范围伤害并击退\n半径、伤害和击退随力量提升\n\n目标：$1"
 Enable [M] Slice Punch=<color%3D#00FF00FF>启用 [M] 斩击拳
 Disable [M] Slice Punch=<color%3D#FF0000FF>禁用 [M] 斩击拳
 [M] Slice Punch Open Menu=<color%3D#FFD800>打开[M] 斩击拳菜单
@@ -3447,8 +3447,8 @@ Random Crits: <color%3D#00FF00FF>Enabled</color>=随机暴击：<color%3D#00FF00
 Random Crits: <color%3D#FF0000FF>Disabled</color>=随机暴击：<color%3D#FF0000FF>已禁用</color>
 
 [C] Active Blood Manipulation=[C] 血术
-Manipulate consumed blood with diffetent options, like summoning weapons and etc.=用不同的选项操控消耗的血液，例如召唤武器等。
-sr:"^Manipulate consumed blood with diffetent options, like summoning weapons and etc.\n\nTarget: (.*?)$" = "用不同的选项操控消耗的血液，例如召唤武器等。\n\n目标：$1"
+Manipulate consumed blood with diffetent options, like summoning weapons and etc.=用不同的选项操控消耗的血液，例如召唤武器等. 
+sr:"^Manipulate consumed blood with diffetent options, like summoning weapons and etc.\n\nTarget: (.*?)$" = "用不同的选项操控消耗的血液，例如召唤武器等. \n\n目标：$1"
 Enable [C] Active Blood Manipulation=<color%3D#00FF00FF>启用 [C] 血术
 Disable [C] Active Blood Manipulation=<color%3D#FF0000FF>禁用 [C] 血术
 [C] Active Blood Manipulation Open Menu=<color%3D#FFD800>打开[C] 血术菜单
@@ -3504,8 +3504,8 @@ Toggle [M] Speech Tattoo.=切换 [M] 咒言术纹身.
 [M] Speech Tattoo Options=[M] 咒言术纹身选项
 
 [M] Shadow Claw=[M] 影爪
-Pierce the flesh upon contact with sufficient force=接触时以足够力量刺穿血肉。
-sr:"^Pierce the flesh upon contact with sufficient force\n\nTarget: (.*?)$" = "接触时以足够力量刺穿血肉。\n\n目标：$1"
+Pierce the flesh upon contact with sufficient force=接触时以足够力量刺穿血肉. 
+sr:"^Pierce the flesh upon contact with sufficient force\n\nTarget: (.*?)$" = "接触时以足够力量刺穿血肉. \n\n目标：$1"
 Enable [M] Shadow Claw=<color%3D#00FF00FF>启用 [M] 影爪
 Disable [M] Shadow Claw=<color%3D#FF0000FF>禁用 [M] 影爪
 [M] Shadow Claw Open Menu=<color%3D#FFD800>打开 [M] 影爪菜单
@@ -3519,8 +3519,8 @@ Trail Should Damage: <color%3D#00FF00FF>Enabled</color>=轨迹是否造成伤害
 Trail Should Damage: <color%3D#FF0000FF>Disabled</color>=轨迹是否造成伤害：<color%3D#FF0000FF>已禁用</color>
 
 [M] Shadow Grip=[M] 影握
-Press K to hide holded objects (max 5). Press X to retrieve=按K隐藏持有的物体（最多5个）。按X取回。
-sr:"^Press K to hide holded objects \(max 5\)\. Press X to retrieve\n\nTarget: (.*?)$" = "按K隐藏持有的物体（最多5个）。按X取回。\n\n目标：$1"
+Press K to hide holded objects (max 5). Press X to retrieve=按K隐藏持有的物体（最多5个）. 按X取回. 
+sr:"^Press K to hide holded objects \(max 5\)\. Press X to retrieve\n\nTarget: (.*?)$" = "按K隐藏持有的物体（最多5个）. 按X取回. \n\n目标：$1"
 Enable [M] Shadow Grip=<color%3D#00FF00FF>启用 [M] 影握
 Disable [M] Shadow Grip=<color%3D#FF0000FF>禁用 [M] 影握
 [M] Shadow Grip Open Menu=<color%3D#FFD800>打开 [M] 影握菜单

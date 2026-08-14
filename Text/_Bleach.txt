@@ -560,13 +560,13 @@ Max Out=榨干性能
 Open cloth editor=打开布料编辑器
 
 Abilities Copy=复制能力
-sr:"^Copied All Abilities From (.*?) To (.*?)$" = "已从 $1 复制所有属性到 $2"
+sr:"^Copied All Abilities From (.*?) To (.*?)$" = "已从 $1 复制所有能力到 $2"
 
 Stats Copy=复制属性
 sr:"^Copied All Stats From (.*?) To (.*?)$" = "已从 $1 复制所有属性到 $2"
 
 Clothes Copy=复制服装
-sr:"^Copied All Clothes From (.*?) To (.*?)$" = "已从 $1 复制所有属性到 $2"
+sr:"^Copied All Clothes From (.*?) To (.*?)$" = "已从 $1 复制所有服装到 $2"
 
 Make Soul=塑造灵魂
 User of Soul System become free soul=灵魂系统的使用者成为自由灵魂
@@ -645,8 +645,8 @@ Upon activation and touch - heals the target.\n\nTarget: AnyGripBehaviour=激活
 Upon activation and touch - heals the target.=激活并触摸目标-治疗目标
 
 Barrage Ability=弹幕拳击能力
-When strength and speed parameters are above 350 - can be enabled on the upperbody\r\nHolding F delivers a series of blows. Press H for strong barrage\n\nTarget: UpperBody=当力量和速度参数高于350时——可在上半身启用\r\n按住F键可发动一连串打击。按H键进行强力弹幕攻击\n\n目标：上半身
-When strength and speed parameters are above 350 - can be enabled on the upperbody\r\nHolding F delivers a series of blows. Press H for strong barrage=当力量和速度参数高于350时 - 可在上半身启用\r\n按住F键可发动一连串打击。按H键进行强力弹幕攻击
+When strength and speed parameters are above 350 - can be enabled on the upperbody\r\nHolding F delivers a series of blows. Press H for strong barrage\n\nTarget: UpperBody=当力量和速度参数高于350时——可在上半身启用\r\n按住F键可发动一连串打击. 按H键进行强力弹幕攻击\n\n目标：上半身
+When strength and speed parameters are above 350 - can be enabled on the upperbody\r\nHolding F delivers a series of blows. Press H for strong barrage=当力量和速度参数高于350时 - 可在上半身启用\r\n按住F键可发动一连串打击. 按H键进行强力弹幕攻击
 
 When the speed parameter is above 350 - can be enabled on the middlebody Pressing F launches forward and deals damage to everything it passes through Pressing H allows you to choose the direction and approximate distance where the user should land\n\n Target: MiddleBody=当速度数值超过350时，可在中半体上启用.按F键可向前发射并对所经过的一切造成伤害.按H键用户可选择冲刺的方向和大致距离\n\n 目标: 中半身
 When the speed parameter is above 350 - can be enabled on the middlebody Pressing F launches forward and deals damage to everything it passes through Pressing H allows you to choose the direction and approximate distance where the user should land=当速度数值超过350时，可在中半体上启用.按F键可向前发射并对所经过的一切造成伤害.按H键用户可选择冲刺的方向和大致距离
@@ -747,7 +747,6 @@ Is not a LowerBody=这不是下半身
 
 
 //*灵魂游乐场设置
-
 Souls Playground Settings=灵魂游乐场设置
 
 Toggle Height Randomization=切换身高随机化
@@ -762,8 +761,8 @@ Cross Sword Colliders are colliders that interfere with other colliders of the s
 Auto Physical Parameter=自动解锁物理参数
 <color%3D"green">Auto Physical Parameter Enabled=<color%3D"green">自动物理参数已启用
 <color%3D"red">Auto Physical Parameter Disabled=<color%3D"red">自动物理参数已禁用
-Auto Physical Parameter: <color%3D#00FF00FF>Enabled</color>\n\n<size%3D70%>When enabled, all mod characters will automatically unlock the Physical parameter upon spawning. Most of the mod's features depend on this parameter. Disable this if you want to manually control when the Physical parameter is unlocked for mod characters.=自动物理参数：<color%3D#00FF00FF>已启用</color>\n\n<size%3D70%>启用后，所有模组角色在生成时会自动解锁物理参数。模组的大部分功能都依赖于此参数。如果你想手动控制模组角色的物理参数何时解锁，请禁用此选项。
-Auto Physical Parameter: <color%3D#FF0000FF>Disabled</color>\n\n<size%3D70%>When enabled, all mod characters will automatically unlock the Physical parameter upon spawning. Most of the mod's features depend on this parameter. Disable this if you want to manually control when the Physical parameter is unlocked for mod characters.=自动物理参数：<color%3D#FF0000FF>已禁用</color>\n\n<size%3D70%>启用后，所有模组角色在生成时会自动解锁物理参数。模组的大部分功能都依赖于此参数。如果你想手动控制模组角色的物理参数何时解锁，请禁用此选项。
+Auto Physical Parameter: <color%3D#00FF00FF>Enabled</color>\n\n<size%3D70%>When enabled, all mod characters will automatically unlock the Physical parameter upon spawning. Most of the mod's features depend on this parameter. Disable this if you want to manually control when the Physical parameter is unlocked for mod characters.=自动物理参数：<color%3D#00FF00FF>已启用</color>\n\n<size%3D70%>启用后，所有模组角色在生成时会自动解锁物理参数. 模组的大部分功能都依赖于此参数. 如果你想手动控制模组角色的物理参数何时解锁，请禁用此选项. 
+Auto Physical Parameter: <color%3D#FF0000FF>Disabled</color>\n\n<size%3D70%>When enabled, all mod characters will automatically unlock the Physical parameter upon spawning. Most of the mod's features depend on this parameter. Disable this if you want to manually control when the Physical parameter is unlocked for mod characters.=自动物理参数：<color%3D#FF0000FF>已禁用</color>\n\n<size%3D70%>启用后，所有模组角色在生成时会自动解锁物理参数. 模组的大部分功能都依赖于此参数. 如果你想手动控制模组角色的物理参数何时解锁，请禁用此选项. 
 
 Cell in Raw UI=原生UI单元格
 
@@ -851,8 +850,36 @@ Christmas Mode: =圣诞模式:
 Everyone is wearing Christmas hats :D=大家都戴着圣诞帽呢:D
 Back to General Settings=返回通用设置
 
+Domain Plates=领域板块特效
+Domain Plates: <color%3D#FF0000FF>Disabled</color>=领域板块：<color%3D#FF0000FF>已禁用</color>
+Domain Plates: <color%3D#00FF00FF>Enabled</color>=领域板块：<color%3D#00FF00FF>已启用</color>
 
+Multipliers for all parameters in SoulSystem=灵魂系统中所有参数的倍率
 
+Impact Frame Settings=冲击帧设置
+Impact Frames <color%3D#00FF00FF>Enabled</color>=冲击帧 <color%3D#00FF00FF>已启用</color>
+Impact Frames <color%3D#FF0000FF>Disabled</color>=冲击帧 <color%3D#FF0000FF>已禁用</color>
+Impact Frame Slow Mode <color%3D#00FF00FF>Enabled</color>=冲击帧慢动作模式 <color%3D#00FF00FF>已启用</color>
+Impact Frame Slow Mode <color%3D#FF0000FF>Disabled</color>=冲击帧慢动作模式 <color%3D#FF0000FF>已禁用</color>
+Impact Frame Lenght Mult=冲击帧长度倍率
+Slow Mode Lenght Mult=慢动作模式长度倍率
+Slow Mode Mult=慢动作模式倍率
+More detailed configuration of HotKey Impact Frames  (you can change the HotKey itself from the control settings by pressing F1)=冲击帧快捷键的更详细配置\n（你可以通过按F1在控制设置中更改热键本身）
+
+Slice Eraser Settings=斩击橡皮擦设置
+Enable Effect <color%3D#00FF00FF>Enabled</color>=启用效果 <color%3D#00FF00FF>已启用</color>
+Enable Effect <color%3D#FF0000FF>Disabled</color>=启用效果 <color%3D#FF0000FF>已禁用</color>
+Draw Slice Area <color%3D#00FF00FF>Enabled</color>=绘制斩击区域 <color%3D#00FF00FF>已启用</color>
+Draw Slice Area <color%3D#FF0000FF>Disabled</color>=绘制斩击区域 <color%3D#FF0000FF>已禁用</color>
+Anti Lag Optimization <color%3D#00FF00FF>Enabled</color>=抗延迟优化 <color%3D#00FF00FF>已启用</color>
+Anti Lag Optimization <color%3D#FF0000FF>Disabled</color>=抗延迟优化 <color%3D#FF0000FF>已禁用</color>
+Slice Sounds <color%3D#00FF00FF>Enabled</color>=斩击音效 <color%3D#00FF00FF>已启用</color>
+Slice Sounds <color%3D#FF0000FF>Disabled</color>=斩击音效 <color%3D#FF0000FF>已禁用</color>
+Slice Radius=斩击半径
+Person Slice Quality=人物斩击质量
+First Slice Quality=首次斩击质量
+Other Slices Quality=其他斩击质量
+A Few Useful Settings for the Slice Eraser Tool=斩击橡皮擦工具的一些有用设置
 
 
 
@@ -866,7 +893,6 @@ Back to General Settings=返回通用设置
 
 
 //*能力菜单
-
 Abilities Menu=能力菜单
 search...=搜索...
 OFF=关闭
@@ -1250,8 +1276,10 @@ Tiger Ground Punch Options=豹王之爪编辑器
 
 
 
-//*武器
 
+
+
+//*武器
 <b>[SPG 01] Hypnosis Sword</b>.=<b>[SPG 01] 镜花水月</b>.
 Hypnosis I=镜花水月 I
 Hypnosis II=镜花水月 II
@@ -1743,8 +1771,13 @@ Default Sharp Open Menu.=打开高锋利度菜单.
 
 Caster Settings=施法者设置
 
-//*面罩切换栏
 
+
+
+
+
+
+//*面罩切换栏
 Butcher Mask I=屠夫面具 I
 MF: Butcher Mask I=MF: 屠夫面具 I
 Butcher Mask II=屠夫面具 II
@@ -1880,7 +1913,7 @@ SF: Butcher I=剑形: 斩月 I
 SF: Butcher II=剑形: 斩月 II
 <size%3D60%><b>Sword Form: Butcher II</b></size>\nIS A BUTCHER KNIFE!=<size%3D60%><b>剑形：屠夫 II</b></size>\n这是一把屠夫刀！
 SF: Butcher III=剑形: 斩月 III
-<size%3D60%><b>Sword Form: Butcher III</b></size>\nFull power of butcher knife.=<size%3D60%><b>剑形：屠夫 III</b></size>\n杀鸡焉用牛刀。
+<size%3D60%><b>Sword Form: Butcher III</b></size>\nFull power of butcher knife.=<size%3D60%><b>剑形：屠夫 III</b></size>\n杀鸡焉用牛刀. 
 SF: Death I=剑形: 灭亡之斧 I
 Sword Form: Death I=剑形: 灭亡之斧 I
 SF: Death II=剑形: 灭亡之斧 II
@@ -1959,7 +1992,6 @@ Sword Form: Tiger II=剑形: 豹王 II
 
 
 //*右下角通知
-
 <color%3D"green">Anyone can use this powerball now=<color%3D"green">现在，任何人都可以使用这个崩玉
 
 <color%3D"red">No SoulSystem Was Found=<color%3D"red">未找到灵魂系统
@@ -1979,15 +2011,26 @@ r:"Cloned Skin From (.*?)"="克隆皮肤来自$1"
 
 
 
+
+
+
+
+
+
+
+
 //*提示框
 Soul System required!=需要灵魂系统！
 Soul System not found=灵魂系统未找到
 Soul System To Copy Not Found=未找到要复制的灵魂系统
 Add and continue=添加并继续
-<align%3Dcenter><b><size%3D120%>Attention!</size></b></align>\n\n<align%3Dleft>Unlocking the <b>Physical</b> parameter will activate <b>DurabilitySystem</b>, which\nwill constantly modify physical parameters. This may:\n• Break characters from other mods\n• Cause bugs\n\n<color%3D#FF4444><b>This action cannot be undone!</b></color>\n<size%3D80%><color%3D#808080>Note: Some abilities and items can dynamically affect this parameter of the owner.\nIf this parameter is locked, those effects will not work.</color></size></align>=<align%3Dcenter><b><size%3D120%>注意！</size></b></align>\n\n<align%3Dleft>解锁 <b>物理</b> 参数将激活 <b>耐久度系统</b>，该系统\n会持续修改物理参数。这可能导致：\n• 破坏其他模组的角色\n• 引发错误\n\n<color%3D#FF4444><b>此操作不可撤销！</b></color>\n<size%3D80%><color%3D#808080>注意：某些能力和物品可以动态影响拥有者的此参数。\n如果此参数被锁定，这些效果将无法生效。</color></size></align>
+<align%3Dcenter><b><size%3D120%>Attention!</size></b></align>\n\n<align%3Dleft>Unlocking the <b>Physical</b> parameter will activate <b>DurabilitySystem</b>, which\nwill constantly modify physical parameters. This may:\n• Break characters from other mods\n• Cause bugs\n\n<color%3D#FF4444><b>This action cannot be undone!</b></color>\n<size%3D80%><color%3D#808080>Note: Some abilities and items can dynamically affect this parameter of the owner.\nIf this parameter is locked, those effects will not work.</color></size></align>=<align%3Dcenter><b><size%3D120%>注意！</size></b></align>\n\n<align%3Dleft>解锁 <b>物理</b> 参数将激活 <b>耐久度系统</b>，该系统\n会持续修改物理参数. 这可能导致：\n• 破坏其他模组的角色\n• 引发错误\n\n<color%3D#FF4444><b>此操作不可撤销！</b></color>\n<size%3D80%><color%3D#808080>注意：某些能力和物品可以动态影响拥有者的此参数. \n如果此参数被锁定，这些效果将无法生效. </color></size></align>
+
+
+
+
 
 //*血腥设置
-
 [UNION] Cloth Physical Damage=[UNION] 布料物理伤害
 Only Skin Reference=仅影响皮肤
 Fully Enabled=全部启用
@@ -2011,6 +2054,10 @@ You can disable physical clothing if you wish. This may be useful if you have a 
 [UNION] Cloth Heal Sync=[UNION] 布料修复同步
 Allows you to “heal” clothing like a character's skin.=让你能够像修复角色皮肤一样“修复”衣物
 
+
+
+
+
 //*键位设置
 [UNION] Refresh Assets=[UNION] 刷新资产
 Alternative Power Button (ENSYS, HTR, BN, CSM, etc)=备用能力按钮 (ENSYS, HTR, BN, CSM, etc)
@@ -2018,6 +2065,10 @@ Alternative Power Button (ENSYS, HTR, BN, CSM, etc)=备用能力按钮 (ENSYS, H
 [UNION] Additional Third Button=[UNION] 附加的第三个按钮
 [UNION] Additional Fourth Button=[UNION] 附加的第四个按钮
 [UNION] Open Abilities Menu=[UNION] 打开能力菜单
+Impact Frame HotKey=冲击帧框架快捷键
+
+
+
 
 
 //*特殊功能按钮补充                                       //不知为何我没有出现这些按钮, 所以这些是群友提供给我的
@@ -2088,7 +2139,7 @@ Toggle Base Evasion.=切换基础闪避.
 
 
 Enable Edit Mode=启用编辑模式
-Are you sure?\nThis character (its current instance on the scene) is being disconnected from the centralized Stages system.\nThis means that all current stages will be copied locally for this character, and it will no longer use Stages from add-on files.\nThis allows you to delete or modify them, perform any actions, and then save them as a contraption.=你确定吗？\n此角色（其在场景中的当前实例）正在从集中的Stages系统中断开连接。\n这意味着该角色的所有当前Stages将被复制到本地，并且它将不再使用附加文件中的Stages。\n这样你就可以删除或修改它们，执行任何操作，然后将其保存为装置。
+Are you sure?\nThis character (its current instance on the scene) is being disconnected from the centralized Stages system.\nThis means that all current stages will be copied locally for this character, and it will no longer use Stages from add-on files.\nThis allows you to delete or modify them, perform any actions, and then save them as a contraption.=你确定吗？\n此角色（其在场景中的当前实例）正在从集中的Stages系统中断开连接. \n这意味着该角色的所有当前Stages将被复制到本地，并且它将不再使用附加文件中的Stages. \n这样你就可以删除或修改它们，执行任何操作，然后将其保存为装置. 
 
 All characters can punch and kick\r\nEnabled by default\r\n=所有角色都可以拳击和踢击\r\n默认启用\r\n
 
