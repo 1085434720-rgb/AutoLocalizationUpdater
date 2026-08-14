@@ -16432,7 +16432,6 @@ Rize's kagune disabled.=利世的赫子已禁用.
 Open Yhwach's power menu=打开友哈巴赫的能力菜单
 Open Yhwach's power menu.=打开友哈巴赫的能力菜单。
 Yhwach Powers=友哈巴赫的能力
-r:"^Reiatsu Intensity: ([\d.]+)%$" = "灵压强度：$1%"
 Normal Sword=普通之剑
 Reishi Sword=灵子之剑
 Hirenkyaku=飞镰脚
@@ -16497,3 +16496,70 @@ Perona - Horo Horo no Mi=佩罗娜 - 灵灵果实
 Yhwach - Blut Vene=友哈巴赫 - 血装·静血装
 Yhwach - Black Goop=友哈巴赫 - 黑液
 Swordsmanship=剑术
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//371*Portal Gun_传送枪
+<noparse>Portal Gun</noparse>=<noparse>传送枪</noparse>
+It's a portal gun. Pretty self-explanatory.=这是一把传送枪。不言自明。
+<size%3D1.5em>Portal Gun</size>\nIt's a portal gun. Pretty self-explanatory.\n<noparse>A mod by brokeiscool for game version 1.27+</noparse>=<size%3D1.5em>传送枪</size>\n这是一把传送枪。不言自明。\n<noparse>由 brokeiscool 制作的模组，适用于游戏版本 1.27+</noparse>
+
+<b><color%3D#228B4E>P<color%3D#28A840>o<color%3D#2EC531>r<color%3D#33E222>t<color%3D#39FF14>a<color%3D#4AFF0F>l <color%3D#5CFF0A>G<color%3D#6EFF05>u<color%3D#7FFF00>n</b>\r\nIt's a portal gun. Pretty self-explanatory.=<b><color%3D#228B4E>传</color><color%3D#28A840>送</color><color%3D#2EC531>枪</color></b>\r\n这是一把传送枪。不言自明。
+
+<b><color%3D#39FF14>Portal Gun Settings</color></b>=<b><color%3D#39FF14>传送枪设置</color></b>
+<b><color%3D#7FFF00>Teleport Item</color></b>=<b><color%3D#7FFF00>传送物品</color></b>
+<b><color%3D#2EC531>Choose Dimension</color></b>=<b><color%3D#2EC531>选择维度</color></b>
+Configure the portal gun=配置传送枪
+Configure the portal gun.=配置传送枪。
+Fires a bolt that opens a mini portal to deliver an item=发射一枚可开启迷你传送门以传送物品的射弹
+Fires a bolt that opens a mini portal to deliver an item.=发射一枚可开启迷你传送门以传送物品的射弹。
+Pick which dimension to jump to (or Random). Press K to cycle into Dimension mode, then fire the gun normally=选择要跳转的维度（或随机）。按K键切换至维度模式，然后正常射击传送枪
+Pick which dimension to jump to (or Random). Press K to cycle into Dimension mode, then fire the gun normally.=选择要跳转的维度（或随机）。按K键切换至维度模式，然后正常射击传送枪。
+
+Hijacked Mode Settings=劫持模式设置
+Arrow: ON=箭矢：开
+Arrow: OFF=箭矢：关
+Acid: ON=酸液：开
+Acid: OFF=酸液：关
+Weight Drop: ON=坠物：开
+Weight Drop: OFF=坠物：关
+Special Delivery: ON=特快投送：开
+Special Delivery: OFF=特快投送：关
+Space Squid: ON=太空鱿鱼：开
+Space Squid: OFF=太空鱿鱼：关
+Counterpart: ON=对应体：开
+Counterpart: OFF=对应体：关
+Shredder: ON=粉碎器：开
+Shredder: OFF=粉碎器：关
+Ignore Gun Holder: OFF=忽略持枪者：关
+Ignore Gun Holder: ON=忽略持枪者：开
+Manual Portals: OFF=手动传送门：关
+Manual Portals: ON=手动传送门：开
+Portal Gun Skin=传送枪皮肤
+Evil=邪恶
+
+Teleport Item=传送物品
+Portable Omega Device=便携式欧米茄装置
+Rick Potion #9=瑞克药剂 #9
+Evil Morty Powerset=邪恶莫蒂能力集
+
+Choose Dimension=选择维度
+Pick a dimension, then press K to cycle into Dimension mode and fire normally.=选择一个维度，然后按K键切换至维度模式并正常射击.
+
+Mode: <color%3Dred>Hijacked</color>=模式: <color%3Dred>劫持</color>
+Mode: <color%3D#00BFFF>Dimension Hop</color>=模式: <color%3D#00BFFF>维度跳跃</color>
+Mode: <color%3D#39FF14>Teleportation</color>=模式: <color%3D#39FF14>传送</color>
+r:"Arrived at dimension <color%3D#38FF14>(.*?)</color>" = "已到达维度 <color%3D#38FF14>$1</color>"
