@@ -4,6 +4,10 @@ Souls Playground Patreon 2.0 KitKat Edition!=灵魂游乐场框架Patreon2.0破�
 Souls Playground Patreon=灵魂游乐场框架 Patreon
 no yamamoto bankai, very sad=没有山本八幡, 我无疑是悲伤的
 
+<noparse>Souls Playground Patreon 3.0 KitKat Edition!</noparse>=<noparse>灵魂游乐场 Patreon 3.0 KitKat版！</noparse>
+I CAN DO ANYTHING!!!=我无所不能！！！
+<size%3D1.5em>Souls Playground Patreon 3.0 KitKat Edition!</size>\nI CAN DO ANYTHING!!!\n<noparse>A mod by nocss, ud2, Sanserror01 for game version 1.26+</noparse>=<size%3D1.5em>灵魂游乐场 Patreon 3.0 KitKat版！</size>\n我无所不能！！！\n<noparse>由 nocss、ud2、Sanserror01 制作的模组，适用于游戏版本 1.26+</noparse>
+
 <b>Souls Playground 01</b>.=<b>灵魂游乐场[TF_RC汉化]</b>
 <color%3D"green">[SPG] Loaded without errors=<color%3D"green">[SPG] 加载成功，无错误
 

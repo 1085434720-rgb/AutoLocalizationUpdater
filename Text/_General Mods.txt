@@ -16207,6 +16207,9 @@ r:"Need Velocity To PUNCH\\n<color%3Dyellow>([\d.]+)" = "出拳所需速度\n<co
 r:"Punch Multiply\\n<color%3Dyellow>([\d.]+)" = "拳击倍率\n<color%3Dyellow>$1"
 Punch Multiply=拳击倍率
 
+Stabbing ENABLED=刺击 已启用
+Stabbing DISABLED=刺击 已禁用
+
 Advanced Grip=高级抓取
 Grip Strength=握力
 r:"Grip Strength\\n<color%3Dyellow>([\d.]+)" = "握力\n<color%3Dyellow>$1"
@@ -16236,6 +16239,24 @@ r:"Emp Range\n<color%3Dyellow>([\d.]+)" = "电磁脉冲范围\n<color%3Dyellow>$
 
 Hand Gun Ability=手枪能力
 r:"Automatic Fire Interval\\n<color%3Dyellow>([\d.]+)%" = "自动射击间隔\n<color%3Dyellow>$1%"
+
+Eve Armor Ability=伊娃护甲能力
+
+Hammer Ability=锤击能力
+
+Laser Ability=激光能力
+r:"Laser Damage\n<color%3Dyellow>([\d.]+)" = "激光伤害\n<color%3Dyellow>$1"
+
+Eve Walls Ability=伊娃墙壁能力
+Smashing Walls Settings=粉碎墙壁设置
+Shield Mode\n<color%3Dred>No=护盾模式\n<color%3Dred>否
+Shield Mode\n<color%3Dgreen>Yes=护盾模式\n<color%3Dgreen>是
+
+Eve Spike Ability=伊娃尖刺能力
+Eve Spikes Ability=伊娃尖刺能力
+
+
+
 
 <color%3Dred>Disable<color%3Dwhite> Helmet Swap Mode=<color%3Dred>禁用<color%3Dwhite> 头盔切换模式
 <color%3Dgreen>Enable<color%3Dwhite> Helmet Swap Mode=<color%3Dgreen>启用<color%3Dwhite> 头盔切换模式

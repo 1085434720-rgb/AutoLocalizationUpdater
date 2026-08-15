@@ -384,6 +384,7 @@ Enhanced=强化
 <noparse>Bobs Jujutsu Kaisen</noparse>=<noparse>Bob的咒术回战</noparse>
 gojo is cool!=五条好帅！
 <size%3D1.5em>Bobs Jujutsu Kaisen</size>\ngojo is cool!\n<noparse>A mod by bob1245 for game version 1.8.1+</noparse>=<size%3D1.5em>Bob的咒术回战</size>\n五条好帅！\n<noparse>由 bob1245 制作的模组，适用于游戏版本 1.8.1+</noparse>
+<color%3D#FF0000>Outdated. Incompatible with HTR/BN/JJK/CSM mods.</color> 五条好帅！=<color%3D#FF0000>已过时. 与HTR/BN/JJK/CSM模组不兼容.</color> 五条好帅！
 
 
 //物品
