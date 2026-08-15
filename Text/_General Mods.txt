@@ -16141,11 +16141,11 @@ adds the Midnight sons=添加了午夜之子
 
 
 
-//368*02吴迪少侠模组_Imbecible mod
-<noparse>Imbecible mod</noparse>=<noparse>吴迪少侠模组</noparse>
+//368*02无敌少侠模组_Invincible mod
 Ordered from 02 STUDIOS=由02 STUDIOS委托制作
-<size%3D1.5em>Imbecible mod</size>\nOrdered from 02 STUDIOS\n<noparse>A mod by 02 STUDIO for game version 1.27</noparse>=<size%3D1.5em>吴迪少侠模组</size>\n由02 STUDIOS委托制作\n<noparse>由02 STUDIO制作的模组，适用于游戏版本1.27</noparse>
+<size%3D1.5em>Invincible mod</size>\nOrdered from 02 STUDIOS\n<noparse>A mod by 02 STUDIO for game version 1.27</noparse>=<size%3D1.5em>无敌少侠模组</size>\n由02 STUDIOS委托制作\n<noparse>由02 STUDIO制作的模组，适用于游戏版本1.27</noparse
 <b>02 Invincible</b>\r\n02 Invincible mod.=<b>02无敌少侠</b>\r\n02无敌少侠模组. 
+
 
 //人物
 <b>Conquest</b>.\r\n=<b>征服者</b>.\r\n
@@ -16178,10 +16178,29 @@ Ordered from 02 STUDIOS=由02 STUDIOS委托制作
 
 <b>Burger Mark</b>.\r\n=<b>汉堡王马克</b>.\r\n
 
+<b>Prisoner Mark</b>.\r\n=<b>囚犯马克</b>.\r\n
+
+<b>Tracksuit Mark</b>.\r\n=<b>运动服马克</b>.\r\n
+
+<b>Fullmask Mark</b>.\r\n=<b>全脸面具马克</b>.\r\n
+
+<b>Oliver</b>.\r\n=<b>奥利弗</b>.\r\n
+
+<b>Rex</b>.\r\n=<b>雷克斯</b>.\r\n
+
+<b>AtomEve</b>.\r\n=<b>原子伊娃</b>.\r\n
+
+<b>Orange Robot Suit</b>\r\n-GM.=<b>橙色机器人套装</b>\r\n-GM.
+
+<b>Black Robot Suit</b>\r\n-GM.=<b>黑色机器人套装</b>\r\n-GM.
+
 
 
 //能力
 Stages=阶段
+Stage\n1=阶段\n1
+Stages Picker=阶段选择器
+r:"Stage\n(\d+)\n<color%3Dorange>Selected" = "阶段\n$1\n<color%3Dorange>已选"
 
 Punch Settings=拳击设置
 r:"Need Velocity To PUNCH\\n<color%3Dyellow>([\d.]+)" = "出拳所需速度\n<color%3Dyellow>$1"
@@ -16201,8 +16220,27 @@ Following Speed=跟随速度
 
 Dodge=闪避
 
+Blaster Ability=冲击波能力
+Robot Blaster Ability=机器人冲击波能力
+Weapon Mode\n<color%3Dorange>Laser=武器模式\n<color%3Dorange>激光
+Weapon Mode\n<color%3Dyellow>Blaster=武器模式\n<color%3Dyellow>冲击波
 
+Hook Ability=钩爪能力
+Robot Hook Settings=机器人钩爪设置
+r:"Maximum Distance\n<color%3Dyellow>([\d.]+)" = "最大距离\n<color%3Dyellow>$1"
+r:"Retraction Time\n<color%3Dyellow>([\d.]+)" = "收回时间\n<color%3Dyellow>$1"
 
+Emp Ability=电磁脉冲能力
+Emp Settings=电磁脉冲设置
+r:"Emp Range\n<color%3Dyellow>([\d.]+)" = "电磁脉冲范围\n<color%3Dyellow>$1"
+
+Hand Gun Ability=手枪能力
+r:"Automatic Fire Interval\\n<color%3Dyellow>([\d.]+)%" = "自动射击间隔\n<color%3Dyellow>$1%"
+
+<color%3Dred>Disable<color%3Dwhite> Helmet Swap Mode=<color%3Dred>禁用<color%3Dwhite> 头盔切换模式
+<color%3Dgreen>Enable<color%3Dwhite> Helmet Swap Mode=<color%3Dgreen>启用<color%3Dwhite> 头盔切换模式
+Desuit=脱去套装
+Desuit.=脱去套装.
 
 
 
