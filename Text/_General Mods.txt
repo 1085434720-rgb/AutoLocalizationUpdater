@@ -10108,51 +10108,194 @@ Adds a few fluids.=添加了几种流体.
 
 //185*东京喰种:re_Tokyo:re
 <noparse>Tokyo:re</noparse>=<noparse>东京喰种:re</noparse>
-<b>[A Rank] Doujima 1/2</b>\r\nA koukaku quinque originally owned by Harima and later wielded by Amon. It is most suitable for physically powerful attacks.=<b>[A级] 堂岛1/2</b>\r\n原为真户晓所有、后由亚门使用的甲赫库因克. 最适合用于强力物理攻击. 
-<b>[A Rank] Kura</b>\r\nA heavy koukaku quinque from Mado's collection. Press F to split into dual blades or merge back together.=<b>[A级] 仓</b>\r\n真户收藏中的重型甲赫库因克. 按F键可分离为双刃或合并恢复. 
-<b>[A Rank] Nagomi 1/3</b>\r\nNagomi 1/3  is a rinkaku quinque wielded by Take Hirako. It is a sword with 3 rectangular segments embedded on its blade, with what appears to no point at the end of the blade.=<b>[A级] 和1/3</b>\r\n平子丈所使用的鳞赫库因克. 剑刃上嵌有三段长方形结构，剑尖似乎没有锋刃. 
-<b>[A+ Rank] Taruhi</b>\r\nTaruhi is a koukaku-type quinque used in the battle against Yoshimura, the Non-Killing Owl, during the Owl Suppression Operation. Taruhi vaguely resembles a halberd, and its head is capable of functioning as an effective whip.=<b>[A+级] 垂飞</b>\r\n枭讨伐战中对抗不杀之枭——芳村时使用的甲赫库因克. 外形略似长戟，头部可作有效鞭刃使用. 
-<b>[Arata] Arata</b>\r\nArata Full.=<b>[新] 新</b>\r\n新·完全体. 
-<b>[Arata] Arata Proto</b>\r\nArata Proto.=<b>[新] 新·试作型</b>\r\n新·试作型. 
-<b>[Arata] Arata Random</b>\r\nRandom armor - each spawn is unique!=<b>[新] 新·随机</b>\r\n随机铠甲——每次生成都独一无二！
-<b>[B Rank] Yukimura 1/3</b>\r\nYukimura 1/3 now opens into a guitar case that deploys two handles. Press F on each handle to transform it into a full koukaku blade.=<b>[B级] 雪村1/3</b>\r\n雪村1/3可展开为吉他箱，展开后露出两个握柄. 对每个握柄按F键，可将其完全变形为甲赫刀刃. 
-<b>[C Rank] Tsunagi</b>\r\nA mass-produced quinque. Shaped like a long sword without a guard.=<b>[C级] 纲木</b>\r\n量产型库因克. 形似无护手的长剑. 
-<b>[S Rank] Demon Yamada</b>\r\nDemon Yamada is a bikaku-type quinque that takes the form of a long butcher knife. It is made from Demon Yamada's kagune.=<b>[S级] 鬼·山田</b>\r\n鬼·山田为尾赫库因克，形似长屠刀. 由鬼·山田的赫子制成. 
-<b>[S Rank] Kuroiwa Special</b>\r\nKuroiwa Special is a rinkaku-type quinque wielded by Iwao Kuroiwa. Press F to create a protective shield.=<b>[S级] 黑岩特制</b>\r\n黑岩特制为黑岩岩所持有的鳞赫库因克. 按F键可生成防护盾. 
-<b>[S+ Rank] Hollow</b>\r\nHollow is an Ukaku-type Quinque, which is wrapped around the arm and thus obtains the possibility of firing high-power projectiles that embed themselves in their target and detonate after a chorus in a powerful explosion after a few moments.=<b>[S+级] 虚空</b>\r\n虚空为羽赫库因克，缠绕于手臂上，可发射高威力弹丸嵌入目标，经过短暂延迟后引发强力爆炸. 
-<b>[S+ Rank] IXA</b>\r\nA powerful koukaku quinque wielded by Arima.\nMode 1 (Spikes): Press F to summon ground spikes.\nMode 2 (Shield): Creates a pixel-shield nearby.\nUse 'Switch IXA Mode' to change modes.=<b>[S+级] IXA</b>\r\n有马所持有的强力甲赫库因克. \n模式1（尖刺）：按F键召唤地刺. \n模式2（护盾）：在附近生成像素护盾. \n使用“切换IXA模式”来切换模式. 
-<b>[Serum] Half-Human Serum</b>\r\nA serum containing genetic material from the Sunlit Garden experiments. Select the desired Half-Human type on the spawned syringe before injection.=<b>[血清] 半人类血清</b>\r\n含有“向阳庭”实验遗传物质的血清. 注射前，在生成的注射器上选择所需的半人类类型. 
-<b>[SS Rank] Chi She</b>\r\nA koukaku-type quinque that has a large straight blade and a curved guard, somewhat resembling a pole axe.=<b>[SS级] 赤蛇</b>\r\n甲赫库因克，带有宽大直刃和弯曲护手，外形略似钺戟. 
-<b>[SS Rank] Doujima</b>\r\nDoujima 1/2 was repaired by Akira Mado and Kouitsu Chigyou using the Bin brothers' kagune, taking the form of a spear with a conical lance-like head. For additional offensive power, the bikaku kagune of the Bin brothers can be projected from the spearhead, spiraling around it in a drill-like manner.=<b>[SS级] 堂岛</b>\r\n堂岛1/2经由真户晓和地行甲乙使用“瓶”兄弟的赫子修复，呈锥形枪头长矛形态. 可额外从枪尖释放“瓶”兄弟的尾赫，如钻头般螺旋缠绕增强攻击力. 
-<b>[SS Rank] Jason13</b>\r\nRinkaku quinque that takes the form of a square and jagged scythe and has an L-shaped blade with a sharp tip. It was created from Yamori's kakuhou and its final form was designed by Kouitsu Chigyou of the CCG Laboratory Division.=<b>[SS级] 杰森13</b>\r\n鳞赫库因克，呈方形锯齿镰刀形态，带有L型利刃和尖锐尖端. 由“壁虎”的赫包制成，最终形态由CCG实验课的地行甲乙设计. 
-<b>[SS Rank] Kajiri</b>\r\nA unique quinque with a double-bladed design. Press F to shoot crystals.=<b>[SS级] 梶理</b>\r\n独特的双刃型库因克. 按F键发射结晶. 
-<b>[SSS Rank] Narukami</b>\r\nNarukami is an ukaku-type quinque with a firing rate of four firing patterns. It has a great range but only limited ammunition capacity. Created from the kakuhou of an SSS rated ghoul.=<b>[SSS级] 鸣神</b>\r\n鸣神为羽赫库因克，拥有四种射击模式. 射程极远但弹容量有限. 由SSS级喰种的赫包制成. 
-<b>[SSS Rank] Owl Quinque</b>\r\nA quinque owned by Arima and created from a kakuhou torn out during his battle with the Non-Killing Owl. It is the only known example of an SSS-rated quinque, and the only one known to be created from a living ghoul.=<b>[SSS级] 枭·库因克</b>\r\n有马所持有的库因克，由与“不杀之枭”战斗中夺取的赫包制成. 是已知唯一的SSS级库因克，也是唯一已知由活体喰种制成的库因克. 
-<b><color%3D#6F1C1C>RC Cell [Owl]</color></b>\r\nYoshimura preset. Starts at rank SSS with Owl full kakuja available.=<b><color%3D#6F1C1C>RC细胞 [枭]</color></b>\r\n芳村预设. 初始SSS级，可使用枭·完整赫者形态. 
-<b><color%3D#9966CC>RC Cell [Tsukiyama]</color></b>\r\nShuu Tsukiyama preset. Starts at rank S with a Koukaku ghoul kagune.=<b><color%3D#9966CC>RC细胞 [月山]</color></b>\r\n月山习预设. 初始S级，甲赫喰种赫子. 
-<b><color%3D#9B111E>RC Cell [Noro]</color></b>\r\nNoro preset. Starts at rank SSS with extreme durability and Noro bikaku.=<b><color%3D#9B111E>RC细胞 [诺罗]</color></b>\r\n诺罗预设. 初始SSS级，拥有极高耐久度与诺罗式尾赫. 
-<b><color%3D#9FB7B8>CRC Gas Grenade</color></b>\r\nDeploys a CRC cloud. Ghouls inside cannot regenerate or activate Kagune.=<b><color%3D#9FB7B8>CRC瓦斯手雷</color></b>\r\n释放CRC气体云. 处于其中的喰种无法再生或激活赫子. 
-<b><color%3D#A54CFF>RC Cell [Ayato]</color></b>\r\nAyato Kirishima preset. Starts at rank S with anime-colored ukaku wings and crystal attacks.=<b><color%3D#A54CFF>RC细胞 [绫人]</color></b>\r\n雾岛绫人预设. 初始S级，动画配色羽赫双翼，可进行结晶攻击. 
-<b><color%3D#B08A62>Anteiku Coffee</color></b>\r\nA bitter cup from Anteiku. Calms Madness and memory pressure.=<b><color%3D#B08A62>古董咖啡</color></b>\r\n来自古董的一杯苦咖啡. 可安抚疯狂与记忆压力. 
-<b><color%3D#B14B32>Ghoul Meat</color></b>\r\nA compact meat source for ghouls. Touch a ghoul to fully restore hunger.=<b><color%3D#B14B32>喰种肉</color></b>\r\n便携式喰种肉源. 触碰喰种即可完全恢复饥饿值. 
-<b><color%3D#B8B8B8>RC Suppressant Syringe</color></b>\r\nSuppresses ghoul regeneration, Kagune, and Kakuja for 30 seconds.=<b><color%3D#B8B8B8>RC抑制注射器</color></b>\r\n30秒内抑制喰种的再生、赫子与赫者化能力. 
-<b><color%3D#C43A3A>RC Cell [Jason]</color></b>\r\nRinkaku preset of Yamori. Starts at rank S with two oversized tentacles and Jason half-kakuja lineage.=<b><color%3D#C43A3A>RC细胞 [杰森]</color></b>\r\n“壁虎”鳞赫预设. 初始S级，拥有两根巨大触手及杰森半赫者谱系. 
-<b><color%3D#CC6633>RC Cell [Bin]</color></b>\r\nBin brothers preset. Starts at rank S with Bin bikaku and no kakuja forms.=<b><color%3D#CC6633>RC细胞 [瓶]</color></b>\r\n“瓶”兄弟预设. 初始S级，持有“瓶”式尾赫，无赫者形态. 
-<b><color%3D#D8D8D8>Enable/Disable Hunger</color></b>\r\nUse to toggle ghoul hunger globally. Press F to toggle.=<b><color%3D#D8D8D8>启用/禁用饥饿</color></b>\r\n用于全局切换喰种饥饿状态. 按F键切换. 
-<b><color%3D#D95B5B>RC Cell [Nishio]</color></b>\r\nNishio preset. Starts at rank A with Nishio bikaku.=<b><color%3D#D95B5B>RC细胞 [西尾]</color></b>\r\n西尾预设. 初始A级，持有西尾式尾赫. 
-<b><color%3D#D9D3C3>CCG Application</color></b>\r\nTurns a human into a Rank 3 CCG investigator on contact.=<b><color%3D#D9D3C3>CCG入职申请书</color></b>\r\n触碰后使人类成为三等CCG搜查官. 
-<b><color%3D#E44747>Kakuja Unlock Pill</color></b>\r\nA capsule containing highly concentrated RC cells and mutation catalysts. Upon ingestion, it triggers a sharp RC surge and activates Kakuja mode.=<b><color%3D#E44747>赫者解锁药丸</color></b>\r\n含有高浓度RC细胞与变异催化剂的胶囊. 服用后将引发RC剧烈激增，激活赫者模式. 
-<b><color%3D#E6DFC9>Promotion Document</color></b>\r\nPromotes a CCG investigator by one rank on contact.=<b><color%3D#E6DFC9>晋升文件</color></b>\r\n触碰后使CCG搜查官晋升一级. 
-<b><color%3D#F25AA8>RC Cell [Rize]</color></b>\r\nRize Kamishiro preset. Starts at rank SS with Ken-style rinkaku and Kaneki kakuja lineage.=<b><color%3D#F25AA8>RC细胞 [利世]</color></b>\r\n神代利世预设. 初始SS级，拥有金木式鳞赫及金木赫者谱系. 
-<b><color%3D#FF6A4A>RC Cell [Tatara]</color></b>\r\nTatara preset. Starts at rank SSS with Tatara bikaku.=<b><color%3D#FF6A4A>RC细胞 [多多良]</color></b>\r\n多多良预设. 初始SSS级，多多良式尾赫. 
-<b><color%3D#FF7042>RC Cell [Touka]</color></b>\r\nTouka Kirishima preset. Starts at rank A with crimson ukaku wings.=<b><color%3D#FF7042>RC细胞 [董香]</color></b>\r\n雾岛董香预设. 初始A级，深红羽赫双翼. 
-<b><color%3D#FF92C2>RC Cell [Kosatka]</color></b>\r\nKosatka preset. Starts at rank SS with reinforced body proportions and tougher limbs.=<b><color%3D#FF92C2>RC细胞 [虎鲸]</color></b>\r\n虎鲸预设. 初始SS级，强化体魄与更坚韧的四肢. 
-<b><color%3D#FFB347>RC Booster</color></b>\r\nAdds 1000 RC cells to a ghoul or half-ghoul on contact.=<b><color%3D#FFB347>RC增幅剂</color></b>\r\n触碰后为喰种或半喰种增加1000个RC细胞. 
-<b><color%3Dblue>RC Cell [Koukaku]</color></b>\r\nA living RC cell cluster of the Koukaku type. Touch it to a human to transform them into a Koukaku ghoul.=<b><color%3Dblue>RC细胞 [甲赫]</color></b>\r\n甲赫型活体RC细胞集群. 触碰人类可将其转化为甲赫喰种. 
-<b><color%3Dgreen>RC Cell [Bikaku]</color></b>\r\nA living RC cell cluster of the Bikaku type. Touch it to a human to transform them into a Bikaku ghoul.=<b><color%3Dgreen>RC细胞 [尾赫]</color></b>\r\n尾赫型活体RC细胞集群. 触碰人类可将其转化为尾赫喰种. 
-<b><color%3Dorange>RC Cell [Ukaku]</color></b>\r\nA living RC cell cluster of the Ukaku type. Touch it to a human to transform them into an Ukaku ghoul.=<b><color%3Dorange>RC细胞 [羽赫]</color></b>\r\n羽赫型活体RC细胞集群. 触碰人类可将其转化为羽赫喰种. 
-<b><color%3Dred>RC Cell [Rinkaku]</color></b>\r\nA living RC cell cluster of the Rinkaku type. Touch it to a human to transform them into a Rinkaku ghoul.=<b><color%3Dred>RC细胞 [鳞赫]</color></b>\r\n鳞赫型活体RC细胞集群. 触碰人类可将其转化为鳞赫喰种. 
-<b><color%3Dsilver>Scalpel</color></b>\r\nA CCG surgical scalpel. Hit a ghoul to extract their Kakuho organ.=<b><color%3Dsilver>手术刀</color></b>\r\nCCG手术刀. 击中喰种可提取其赫包器官. 
+
+//物品栏
+<b><color%3D#00000000>A</color><color%3D#5865F2>Ghoul Playground</color></b>\r\n<color%3D#5865F2><b>[ Official Community Server ]</b></color>\n\n<color%3D#72767d>Something stirs beneath the 20th Ward.\nRC levels are spiking. Investigators are going missing.\nThe next chapter has already begun.\n\nPress <b>F</b> to step through the door.</color>.=<b><color%3D#00000000>A</color><color%3D#5865F2>喰种游乐场</color></b>\r\n<color%3D#5865F2><b>[ 官方社区服务器 ]</b></color>\n\n<color%3D#72767d>第20区的地下有什么东西在骚动。\nRC值正在飙升。调查员接连失踪。\n下一章已经开始。\n\n按<b>F</b>键踏入这扇门。</color>.
+
+<b><color%3D#00000000>A</color><color%3D#C72E3D>Enable/Disable Kakuho Damage</color></b>\r\nUse to toggle kagune lockout from kakuho-area damage globally. Press F to toggle.=<b><color%3D#00000000>A</color><color%3D#C72E3D>启用/禁用赫包伤害</color></b>\r\n用于全局切换因赫包区域伤害导致的赫子锁定。按F键切换。
+
+<b><color%3D#00000000>A</color><color%3D#D8D8D8>Enable/Disable Dialogues</color></b>\r\nUse to toggle all Tokyo:re character dialogue globally. Press F to toggle.=<b><color%3D#00000000>A</color><color%3D#D8D8D8>启用/禁用对话</color></b>\r\n用于全局切换所有东京：re角色对话。按F键切换。
+
+<b><color%3D#00000000>A</color><color%3D#D8D8D8>Enable/Disable Hunger</color></b>\r\nUse to toggle ghoul hunger globally. Press F to toggle.=<b><color%3D#00000000>A</color><color%3D#D8D8D8>启用/禁用饥饿</color></b>\r\n用于全局切换喰种饥饿状态。按F键切换。
+
+
+
+//物品
+<b><color%3D#00000000>B</color>[A Rank] Doujima 1/2</b>\r\nA koukaku quinque originally owned by Harima and later wielded by Amon. It is most suitable for physically powerful attacks.=<b><color%3D#00000000>B</color>[A级] 堂岛1/2</b>\r\n原为真户晓所有、后由亚门使用的甲赫库因克。最适合用于强力物理攻击。
+
+<b><color%3D#00000000>B</color>[A Rank] Kura</b>\r\nA heavy koukaku quinque from Mado's collection. Press F to split into dual blades or merge back together.=<b><color%3D#00000000>B</color>[A级] 仓</b>\r\n真户收藏中的重型甲赫库因克。按F键可分离为双刃或合并恢复。
+
+<b><color%3D#00000000>B</color>[A Rank] Nagomi 1/3</b>\r\nNagomi 1/3  is a rinkaku quinque wielded by Take Hirako. It is a sword with 3 rectangular segments embedded on its blade, with what appears to no point at the end of the blade.=<b><color%3D#00000000>B</color>[A级] 和1/3</b>\r\n平子丈所使用的鳞赫库因克。剑刃上嵌有三段长方形结构，剑尖似乎没有锋刃。
+
+<b><color%3D#00000000>B</color>[A+ Rank] Taruhi</b>\r\nTaruhi is a koukaku-type quinque used in the battle against Yoshimura, the Non-Killing Owl, during the Owl Suppression Operation. Taruhi vaguely resembles a halberd, and its head is capable of functioning as an effective whip.=<b><color%3D#00000000>B</color>[A+级] 垂飞</b>\r\n枭讨伐战中对抗不杀之枭——芳村时使用的甲赫库因克。外形略似长戟，头部可作有效鞭刃使用。
+
+<b><color%3D#00000000>B</color>[Arata] Arata</b>\r\nArata Full.=<b><color%3D#00000000>B</color>[新] 新</b>\r\n新·完全体。
+
+<b><color%3D#00000000>B</color>[Arata] Arata Proto</b>\r\nArata Proto.=<b><color%3D#00000000>B</color>[新] 新·试作型</b>\r\n新·试作型。
+
+<b><color%3D#00000000>B</color>[Arata] Arata Random</b>\r\nRandom armor - each spawn is unique!=<b><color%3D#00000000>B</color>[新] 新·随机</b>\r\n随机铠甲——每次生成都独一无二！
+
+<b><color%3D#00000000>B</color>[B Rank] Scorpion 1/56</b>\r\nB-rated mass-produced bikaku quinque used by Juuzou Suzuya. Spawns directly as a thin piercing knife without a case.=<b><color%3D#00000000>B</color>[B级] 蝎子1/56</b>\r\n铃屋什造使用的B级量产尾赫库因克。直接以无鞘细刺刀形态生成。
+
+<b><color%3D#00000000>B</color>[B Rank] Yukimura 1/3</b>\r\nYukimura 1/3 now opens into a guitar case that deploys two handles. Press F on each handle to transform it into a full koukaku blade.=<b><color%3D#00000000>B</color>[B级] 雪村1/3</b>\r\n雪村1/3可展开为吉他箱，展开后露出两个握柄。对每个握柄按F键，可将其完全变形为甲赫刀刃。
+
+<b><color%3D#00000000>B</color>[C Rank] Tsunagi</b>\r\nA mass-produced quinque. Shaped like a long sword without a guard.=<b><color%3D#00000000>B</color>[C级] 纲木</b>\r\n量产型库因克。形似无护手的长剑。
+
+<b><color%3D#00000000>B</color>[S Rank] Demon Yamada</b>\r\nDemon Yamada is a bikaku-type quinque that takes the form of a long butcher knife. It is made from Demon Yamada's kagune.=<b><color%3D#00000000>B</color>[S级] 鬼·山田</b>\r\n鬼·山田为尾赫库因克，形似长屠刀。由鬼·山田的赫子制成。
+
+<b><color%3D#00000000>B</color>[S Rank] Kuroiwa Special</b>\r\nKuroiwa Special is a rinkaku-type quinque wielded by Iwao Kuroiwa. Press F to create a protective shield.=<b><color%3D#00000000>B</color>[S级] 黑岩特制</b>\r\n黑岩特制为黑岩岩所持有的鳞赫库因克。按F键可生成防护盾。
+
+<b><color%3D#00000000>B</color>[S Rank] Raikō</b>\r\nRaikō is a long-bladed quinque configured for deep full-length penetration and strong lodging inside a target.=<b><color%3D#00000000>B</color>[S级] 雷光</b>\r\n雷光是一种长刃库因克，配置为可进行深度的全长贯穿并牢固嵌入目标体内。
+
+<b><color%3D#00000000>B</color>[S Rank] Silver Skull</b>\r\nHanbee Abara's S-rank koukaku quinque. Press F while deployed, then click a limb to pin it inside a breakable freezing construct.=<b><color%3D#00000000>B</color>[S级] 银骷髅</b>\r\n安原半兵的S级甲赫库因克。展开时按F键，然后点击肢体，将其钉入可破坏的冻结构造中。
+
+<b><color%3D#00000000>B</color>[S+ Rank] Hollow</b>\r\nHollow is an Ukaku-type Quinque, which is wrapped around the arm and thus obtains the possibility of firing high-power projectiles that embed themselves in their target and detonate after a chorus in a powerful explosion after a few moments.=<b><color%3D#00000000>B</color>[S+级] 虚空</b>\r\n虚空为羽赫库因克，缠绕于手臂上，可发射高威力弹丸嵌入目标，经过短暂延迟后引发强力爆炸。
+
+<b><color%3D#00000000>B</color>[S+ Rank] IXA</b>\r\nA powerful koukaku quinque wielded by Arima.\nMode 1 (Spikes): Press F to summon ground spikes.\nMode 2 (Shield): Creates a pixel-shield nearby.\nUse 'Switch IXA Mode' to change modes.=<b><color%3D#00000000>B</color>[S+级] IXA</b>\r\n有马所持有的强力甲赫库因克。\n模式1（尖刺）：按F键召唤地刺。\n模式2（护盾）：在附近生成像素护盾。\n使用“切换IXA模式”来切换模式。
+
+<b><color%3D#00000000>B</color>[S+ Rank] Shien</b>\r\nShien is a long-bladed quinque configured for deep full-length penetration and strong lodging inside a target.=<b><color%3D#00000000>B</color>[S+级] 紫苑</b>\r\n紫苑是一种长刃库因克，配置为可进行深度的全长贯穿并牢固嵌入目标体内。
+
+<b><color%3D#00000000>B</color>[SS Rank] Chi She</b>\r\nA koukaku-type quinque that has a large straight blade and a curved guard, somewhat resembling a pole axe.=<b><color%3D#00000000>B</color>[SS级] 赤蛇</b>\r\n甲赫库因克，带有宽大直刃和弯曲护手，外形略似钺戟。
+
+<b><color%3D#00000000>B</color>[SS Rank] Doujima</b>\r\nDoujima 1/2 was repaired by Akira Mado and Kouitsu Chigyou using the Bin brothers' kagune, taking the form of a spear with a conical lance-like head. For additional offensive power, the bikaku kagune of the Bin brothers can be projected from the spearhead, spiraling around it in a drill-like manner.=<b><color%3D#00000000>B</color>[SS级] 堂岛</b>\r\n堂岛1/2经由真户晓和地行甲乙使用“瓶”兄弟的赫子修复，呈锥形枪头长矛形态。可额外从枪尖释放“瓶”兄弟的尾赫，如钻头般螺旋缠绕增强攻击力。
+
+<b><color%3D#00000000>B</color>[SS Rank] Ginkui</b>\r\nSS-rated bikaku kakuja quinque made from Noro. Enable it, then press F to form or retract a widening nine-segment Noro V2 kagune from the blade tip.=<b><color%3D#00000000>B</color>[SS级] 银喰</b>\r\n由诺罗制成的SS级尾赫赫者库因克。启用后，按F键从刀尖形成或收回逐渐展开的九段诺罗V2赫子。
+
+<b><color%3D#00000000>B</color>[SS Rank] Higher Mind</b>\r\nSS ukaku quinque wielded by Mougan Tanakamaru. F charges and fires condensed blue RC plasma. Hover the quinque and press H for Compress; the shield repels everyone except the wielder, and the next F consumes it with Diffuse.=<b><color%3D#00000000>B</color>[SS级] 高等智慧</b>\r\n田中丸望元使用的SS级羽赫库因克。按F键充能并发射浓缩蓝色RC等离子体。将库因克悬空并按住H键进行压缩；护盾会排斥持有者以外的所有人，下一次F键会以扩散模式消耗护盾。
+
+<b><color%3D#00000000>B</color>[SS Rank] Jason13</b>\r\nRinkaku quinque that takes the form of a square and jagged scythe and has an L-shaped blade with a sharp tip. It was created from Yamori's kakuhou and its final form was designed by Kouitsu Chigyou of the CCG Laboratory Division.=<b><color%3D#00000000>B</color>[SS级] 杰森13</b>\r\n鳞赫库因克，呈方形锯齿镰刀形态，带有L型利刃和尖锐尖端。由“壁虎”的赫包制成，最终形态由CCG实验课的地行甲乙设计。
+
+<b><color%3D#00000000>B</color>[SS Rank] Kajiri</b>\r\nA unique quinque with a double-bladed design. Press F to shoot crystals.=<b><color%3D#00000000>B</color>[SS级] 梶理</b>\r\n独特的双刃型库因克。按F键发射结晶。
+
+<b><color%3D#00000000>B</color>[SSS Rank] Narukami</b>\r\nNarukami is an ukaku-type quinque with a firing rate of four firing patterns. It has a great range but only limited ammunition capacity. Created from the kakuhou of an SSS rated ghoul.=<b><color%3D#00000000>B</color>[SSS级] 鸣神</b>\r\n鸣神为羽赫库因克，拥有四种射击模式。射程极远但弹容量有限。由SSS级喰种的赫包制成。
+
+<b><color%3D#00000000>B</color>[SSS Rank] Owl Quinque</b>\r\nA quinque owned by Arima and created from a kakuhou torn out during his battle with the Non-Killing Owl. It is the only known example of an SSS-rated quinque, and the only one known to be created from a living ghoul.=<b><color%3D#00000000>B</color>[SSS级] 枭·库因克</b>\r\n有马所持有的库因克，由与“不杀之枭”战斗中夺取的赫包制成。是已知唯一的SSS级库因克，也是唯一已知由活体喰种制成的库因克。
+
+<b><color%3D#00000000>B</color>[Unrated] Emelio</b>\r\nUkaku quinque used by Misato Gori. Its official rating is unknown. Enable it, then press F for a dense luminous crystal barrage; embedded crystals remain in the target for one second.=<b><color%3D#00000000>B</color>[未评级] 埃梅利奥</b>\r\n五里美乡使用的羽赫库因克。官方评级未知。启用后，按F键释放密集的发光水晶弹幕；嵌入的水晶会在目标体内停留一秒。
+
+<b><color%3D#00000000>B</color><color%3D#9FB7B8>CRC Gas Grenade</color></b>\r\nDeploys a CRC cloud. Ghouls inside cannot regenerate or activate Kagune.=<b><color%3D#00000000>B</color><color%3D#9FB7B8>CRC瓦斯手雷</color></b>\r\n释放CRC气体云。处于其中的喰种无法再生或激活赫子。
+
+<b><color%3D#00000000>B</color><color%3D#B8B8B8>RC Suppressant Syringe</color></b>\r\nSuppresses ghoul regeneration, Kagune, and Kakuja for 30 seconds.=<b><color%3D#00000000>B</color><color%3D#B8B8B8>RC抑制注射器</color></b>\r\n30秒内抑制喰种的再生、赫子与赫者化能力。
+
+<b><color%3D#00000000>I</color><color%3D#B14B32>Ghoul Meat</color></b>\r\nA compact meat source for ghouls. Touch a ghoul to fully restore hunger.=<b><color%3D#00000000>I</color><color%3D#B14B32>喰种肉</color></b>\r\n便携式喰种肉源。触碰喰种以完全恢复饥饿值。
+
+<b><color%3D#00000000>I</color><color%3D#D9D3C3>CCG's Combat Outfit</color></b>\r\nTouch it to a person to dress them in the available CCG combat outfit parts.=<b><color%3D#00000000>I</color><color%3D#D9D3C3>CCG战斗装束</color></b>\r\n触碰某人以为其穿上可用的CCG战斗装束部件。
+
+<b><color%3D#00000000>I</color><color%3D#E6DFC9>Promotion Document</color></b>\r\nPromotes a CCG investigator by one rank on contact.=<b><color%3D#00000000>I</color><color%3D#E6DFC9>晋升文件</color></b>\r\n触碰后使CCG搜查官晋升一级。
+
+<b><color%3D#00000000>I</color><color%3D#F1F3F7>Special Class White Cloak</color></b>\r\nWhite cloak worn by Special Class investigators. Touch it to a person to equip every available cloak part.=<b><color%3D#00000000>I</color><color%3D#F1F3F7>特等白色斗篷</color></b>\r\n特等搜查官所穿的白色斗篷。触碰某人以装备所有可用的斗篷部件。
+
+<b><color%3D#00000000>I</color><color%3D#FFB347>RC Booster</color></b>\r\nAdds 1000 RC cells to a ghoul or half-ghoul on contact.=<b><color%3D#00000000>I</color><color%3D#FFB347>RC增幅剂</color></b>\r\n触碰后为喰种或半喰种增加1000个RC细胞。
+
+<b><color%3D#00000000>I</color><color%3Dsilver>Scalpel</color></b>\r\nA CCG surgical scalpel. Hit a ghoul to extract their Kakuho organ.=<b><color%3D#00000000>I</color><color%3Dsilver>手术刀</color></b>\r\nCCG外科手术刀。击中喰种以提取其赫包器官。
+
+<b><color%3D#56C8DC>Kakuhou Storage</color></b>\r\nA CCG containment unit for extracted kakuhou organs.\n1) Touch it to an extracted Kakuho to fill it.\n2) Touch it to a human to create a Quinx investigator (90% success).\nDoes not work on ghouls or half-ghouls.=<b><color%3D#56C8DC>赫包储存装置</color></b>\r\n用于存放已提取赫包的CCG收容装置。\n1) 触碰已提取的赫包以将其装入。\n2) 触碰人类以创造Qs班搜查官（成功率90%）。\n对喰种或半喰种无效。
+
+
+
+//人物
+<b><color%3D#00000000>C</color><color%3D#339FFF>Tatara</color></b>\r\nA survivor of Chi She Lian who became Aogiri's severe field commander and carried his hatred of the CCG to Japan.=<b><color%3D#00000000>C</color><color%3D#339FFF>多多良</color></b>\r\n赤舌连的幸存者，成为青桐树严苛的战场指挥官，将对CCG的仇恨带到了日本。
+
+<b><color%3D#00000000>C</color><color%3D#3B6DB8>Matasaka Kamishiro</color></b>\r\nA master martial artist and Rize's foster father, better known to the CCG as the powerful ghoul Shachi.=<b><color%3D#00000000>C</color><color%3D#3B6DB8>神代又左</color></b>\r\n一位武术大师，利世的养父，在CCG中更以强大的喰种“鲨鱼”而闻名。
+
+<b><color%3D#00000000>C</color><color%3D#453A58>Kurona Yasuhisa</color></b>\r\nOne of the Yasuhisa twins, an artificial one-eyed ghoul who fights to keep Nashiro at her side.=<b><color%3D#00000000>C</color><color%3D#453A58>安久黑奈</color></b>\r\n安久双胞胎之一，人工独眼喰种，为了将奈白留在身边而战斗。
+
+<b><color%3D#00000000>C</color><color%3D#6550A5>Older Bin</color></b>\r\nOne of two inseparable Aogiri leaders who joined the uprising in pursuit of a better world for ghouls.=<b><color%3D#00000000>C</color><color%3D#6550A5>瓶兄弟·兄</color></b>\r\n形影不离的青桐树领导者之一，为了追求喰种更美好的世界而加入起义。
+
+<b><color%3D#00000000>C</color><color%3D#7959B8>Younger Bin</color></b>\r\nThe younger of Aogiri's Bin brothers, fighting beside his elder brother for the future they chose together.=<b><color%3D#00000000>C</color><color%3D#7959B8>瓶兄弟·弟</color></b>\r\n青桐树瓶兄弟中的弟弟，与兄长并肩作战，为了共同选择的未来而战。
+
+<b><color%3D#00000000>C</color><color%3D#8577EB>Touka Kirishima</color></b>\r\nAn Anteiku waitress and student who balances ordinary human life with the need to protect her ghoul family.=<b><color%3D#00000000>C</color><color%3D#8577EB>雾岛董香</color></b>\r\n古董的店员兼学生，在普通人类生活与保护喰种家人的需求之间取得平衡。
+
+<b><color%3D#00000000>C</color><color%3D#9E1628>Aogiri Fighter</color></b>\r\nA militant ghoul who joined Aogiri Tree's violent struggle against the CCG and the existing order.=<b><color%3D#00000000>C</color><color%3D#9E1628>青桐树战斗员</color></b>\r\n加入青桐树暴力反抗CCG和现有秩序的军事化喰种。
+
+<b><color%3D#00000000>C</color><color%3D#9EA0A6>Renji Yomo</color></b>\r\nTouka and Ayato's uncle, a quiet and formidable ghoul who serves as Yoshimura's trusted right hand.=<b><color%3D#00000000>C</color><color%3D#9EA0A6>四方莲示</color></b>\r\n董香和绫人的叔父，一位沉默而强大的喰种，是芳村信赖的左右手。
+
+<b><color%3D#00000000>C</color><color%3D#B03AEC>Noro</color></b>\r\nA silent Aogiri executive once known as Noroi, entrusted by Kuzen with the care of his infant daughter.=<b><color%3D#00000000>C</color><color%3D#B03AEC>诺罗</color></b>\r\n沉默的青桐树干部，曾被称为“咒”，受库森之托照顾其幼女。
+
+<b><color%3D#00000000>C</color><color%3D#C69AEF>Shuu Tsukiyama</color></b>\r\nThe Gourmet, an eccentric predator whose obsession with Kaneki slowly grows into genuine loyalty.=<b><color%3D#00000000>C</color><color%3D#C69AEF>月山习</color></b>\r\n美食家，一位古怪的捕食者，对金木的执着逐渐转变为真正的忠诚。
+
+<b><color%3D#00000000>C</color><color%3D#C9B58A>Kuzen Yoshimura</color></b>\r\nA former V operative who founded Anteiku and chose to protect both ghouls and humans beneath the quiet life of a cafe manager.=<b><color%3D#00000000>C</color><color%3D#C9B58A>芳村功善</color></b>\r\n前V组织成员，创立了古董，选择在咖啡馆经理的平静生活下保护喰种与人类双方。
+
+<b><color%3D#00000000>C</color><color%3D#CFCFCF>Yakumo Oomori (Yamori)</color></b>\r\nA sadistic Aogiri enforcer who turned the torture once inflicted on him into a ritual imposed on his victims.=<b><color%3D#00000000>C</color><color%3D#CFCFCF>大守八云（壁虎）</color></b>\r\n一位施虐成性的青桐树执行者，将曾经施加于自身的酷刑变为加诸于受害者的仪式。
+
+<b><color%3D#00000000>C</color><color%3D#D18A36>Nishio Nishiki</color></b>\r\nA sharp-tongued university student whose devotion to Kimi gradually draws him into Anteiku's circle.=<b><color%3D#00000000>C</color><color%3D#D18A36>西尾锦</color></b>\r\n一位言辞刻薄的大学生，对贵未的忠诚逐渐将他拉入古董的圈子。
+
+<b><color%3D#00000000>C</color><color%3D#D64536>Enji Koma — Devil Ape</color></b>\r\nFormer leader of the Devil Apes who abandoned bloodshed and found a gentler purpose working at Anteiku.=<b><color%3D#00000000>C</color><color%3D#D64536>古间圆儿 — 猿面</color></b>\r\n猿面集团的前首领，放弃了流血生涯，在古董找到了更温和的使命。
+
+<b><color%3D#00000000>C</color><color%3D#D86FA4>Ayato Kirishima</color></b>\r\nTouka's rebellious younger brother, an Aogiri executive who seeks strength after losing faith in Anteiku's pacifism.=<b><color%3D#00000000>C</color><color%3D#D86FA4>雾岛绫人</color></b>\r\n董香叛逆的弟弟，青桐树干部，在对古董的和平主义失去信心后寻求力量。
+
+<b><color%3D#00000000>C</color><color%3D#D8D8D8>Uta</color></b>\r\nA mask maker from the 4th Ward whose relaxed manner conceals his identity as a dangerous member of the Clowns.=<b><color%3D#00000000>C</color><color%3D#D8D8D8>诗</color></b>\r\n第四区的面具制作师，其轻松的外表掩盖了他作为小丑组织危险成员的身份。
+
+<b><color%3D#00000000>C</color><color%3D#D9B26F>Kazuichi Banjou</color></b>\r\nA compassionate leader from the 11th Ward whose remarkable regeneration makes him a protector rather than a hunter.=<b><color%3D#00000000>C</color><color%3D#D9B26F>万丈数一</color></b>\r\n第11区富有同情心的领导者，其卓越的再生能力使他成为保护者而非猎手。
+
+<b><color%3D#00000000>C</color><color%3D#DADADA>Ken Kaneki (After Yamori)</color></b>\r\nA torture survivor who accepts his ghoul side and resolves to become strong enough to protect those close to him.=<b><color%3D#00000000>C</color><color%3D#DADADA>金木研（壁虎事件后）</color></b>\r\n经受酷刑后幸存下来，接受了自己喰种的一面，决心变得足够强大以保护身边之人。
+
+<b><color%3D#00000000>C</color><color%3D#DADADA>Ken Kaneki (Combat Outfit)</color></b>\r\nKaneki as leader of his own group, pursuing Kanou and the truth while trying to keep Anteiku out of danger.=<b><color%3D#00000000>C</color><color%3D#DADADA>金木研（战斗装束）</color></b>\r\n作为自己团队领导者的金木，追查嘉纳与真相，同时努力让古董远离危险。
+
+<b><color%3D#00000000>C</color><color%3D#DDE4FF>Nashiro Yasuhisa</color></b>\r\nOne of the Yasuhisa twins, transformed into an artificial one-eyed ghoul and bound completely to her sister Kurona.=<b><color%3D#00000000>C</color><color%3D#DDE4FF>安久奈白</color></b>\r\n安久双胞胎之一，转变为人工独眼喰种，与姐姐黑奈完全绑定在一起。
+
+<b><color%3D#00000000>C</color><color%3D#E6A0D7>Hinami Fueguchi</color></b>\r\nA kind orphan sheltered by Anteiku, whose unusual gifts and devotion to Touka make her far stronger than she first appears.=<b><color%3D#00000000>C</color><color%3D#E6A0D7>笛口雏实</color></b>\r\n被古董收留的善良孤儿，其非凡的天赋和对董香的忠诚使她远比表面看起来更强大。
+
+<b><color%3D#00000000>C</color><color%3D#E7E7E7>Gagi</color></b>\r\nOne of Naki's towering bodyguards, inseparable from Guge and devoted to protecting the White Suits.=<b><color%3D#00000000>C</color><color%3D#E7E7E7>我牙</color></b>\r\n纳基的高大保镖之一，与具牙形影不离，致力于保护白西服。
+
+<b><color%3D#00000000>C</color><color%3D#E7E7E7>Guge</color></b>\r\nOne of Naki's towering bodyguards, inseparable from Gagi and devoted to protecting the White Suits.=<b><color%3D#00000000>C</color><color%3D#E7E7E7>具牙</color></b>\r\n纳基的高大保镖之一，与我牙形影不离，致力于保护白西服。
+
+<b><color%3D#00000000>C</color><color%3D#F07AC5>Uruka Minami</color></b>\r\nThe ghoul called Lantern, whose killings drew Taishi Fura and the young Kishou Arima into their first shared investigation.=<b><color%3D#00000000>C</color><color%3D#F07AC5>南浦</color></b>\r\n被称为“灯笼”的喰种，她的杀戮让太史不二与年轻的有马贵将展开了首次共同调查。
+
+<b><color%3D#00000000>C</color><color%3D#F261B0>Rize Kamishiro</color></b>\r\nThe Binge Eater whose appetite and hidden past set Kaneki's transformation and the story's central conflict in motion.=<b><color%3D#00000000>C</color><color%3D#F261B0>神代利世</color></b>\r\n暴食者，其食欲与隐藏的过去引发了金木的转变和故事的核心冲突。
+
+<b><color%3D#00000000>C</color><color%3D#F2E8A8>Naki</color></b>\r\nYamori's fiercely loyal successor, childish in speech but devoted to the White Suits he considers family.=<b><color%3D#00000000>C</color><color%3D#F2E8A8>纳基</color></b>\r\n壁虎的忠诚继任者，言语幼稚但深爱着视为家人的白西服。
+
+<b><color%3D#00000000>C</color><color%3D#F2F2F2>White Suits</color></b>\r\nA loyal member of Naki's White Suits, treating the group less like a gang and more like a family.=<b><color%3D#00000000>C</color><color%3D#F2F2F2>白西服成员</color></b>\r\n纳基白西服的忠实成员，将这个组织视为家庭而非帮派。
+
+<b><color%3D#00000000>C</color><color%3D#FF77CC>????</color></b>\r\nAn eccentric young author concealing her identity, her lineage and her command of Aogiri Tree behind a playful smile.=<b><color%3D#00000000>C</color><color%3D#FF77CC>????</color></b>\r\n一位古怪的年轻作家，将她的身份、血统以及对青桐树的掌控隐藏在顽皮的笑容背后。
+
+<b><color%3D#00000000>D</color><color%3D#44CCFF>Tooru Mutsuki</color></b>\r\nA timid Quinx investigator placed under Haise's care, hiding trauma and a far more dangerous inner self.=<b><color%3D#00000000>D</color><color%3D#44CCFF>六月透</color></b>\r\n一位胆小的Qs班搜查官，由佐佐木琲世指导，隐藏着创伤与远为危险的内心。
+
+<b><color%3D#00000000>D</color><color%3D#44FF88>Ginshi Shirazu</color></b>\r\nThe rough-edged first captain of the Quinx Squad, fighting to support his sister and hold his teammates together.=<b><color%3D#00000000>D</color><color%3D#44FF88>不知吟士</color></b>\r\n粗犷的Qs班第一队长，为供养妹妹和团结队友而战斗。
+
+<b><color%3D#00000000>D</color><color%3D#5D82A8>Koutarou Amon (Half-Ghoul)</color></b>\r\nA missing investigator remade as an artificial one-eyed ghoul, struggling between CCG ideals and a body he never chose.=<b><color%3D#00000000>D</color><color%3D#5D82A8>亚门钢太朗（半喰种）</color></b>\r\n一名失踪的搜查官被改造为人工独眼喰种，在CCG的理想与无法选择的躯体之间挣扎。
+
+<b><color%3D#00000000>D</color><color%3D#8AA4F2>Kishou Arima (Rank 2)</color></b>\r\nA prodigious teenage investigator who joins Taishi Fura in hunting Lantern during the events of Tokyo Ghoul: Jack.=<b><color%3D#00000000>D</color><color%3D#8AA4F2>有马贵将（二等搜查官）</color></b>\r\n一位天才少年搜查官，在《东京喰种：Jack》事件中与太史不二一同追捕“灯笼”。
+
+<b><color%3D#00000000>D</color><color%3D#AA66FF>Kuki Urie</color></b>\r\nAn ambitious Quinx investigator whose hunger for promotion slowly gives way to responsibility for his squad.=<b><color%3D#00000000>D</color><color%3D#AA66FF>瓜江久生</color></b>\r\n一位雄心勃勃的Qs班搜查官，对晋升的渴望逐渐让位于对班组的责任感。
+
+<b><color%3D#00000000>D</color><color%3D#AEB6C4>Hanbee Abara</color></b>\r\nA 190 cm First Class investigator and Suzuya Squad veteran whose timid manner hides absolute loyalty and endurance.=<b><color%3D#00000000>D</color><color%3D#AEB6C4>安原半兵</color></b>\r\n身高190cm的一等搜查官，铃屋班的资深成员，其胆怯的外表下隐藏着绝对的忠诚与坚韧。
+
+<b><color%3D#00000000>D</color><color%3D#AEB9ED>Koori Ui</color></b>\r\nAn elite investigator shaped by Arima's example, disciplined in battle and fiercely protective of the CCG.=<b><color%3D#00000000>D</color><color%3D#AEB9ED>宇井郡</color></b>\r\n以有马贵将为榜样的精英搜查官，战斗中纪律严明，对CCG极为忠诚。
+
+<b><color%3D#00000000>D</color><color%3D#B8D1B8>Seidou Takizawa</color></b>\r\nAn earnest investigator whose insecurity drives him to compete with Akira and prove he belongs beside stronger peers.=<b><color%3D#00000000>D</color><color%3D#B8D1B8>泷泽政道</color></b>\r\n一位认真的搜查官，其不安全感驱使他与晓竞争，证明自己有资格与更强的同僚并肩。
+
+<b><color%3D#00000000>D</color><color%3D#BFCAD4>CCG Investigator</color></b>\r\nA field investigator assigned to protect civilians and confront the ghouls operating throughout Tokyo.=<b><color%3D#00000000>D</color><color%3D#BFCAD4>CCG搜查官</color></b>\r\n负责保护平民并与活跃于东京的喰种对抗的外勤搜查官。
+
+<b><color%3D#00000000>D</color><color%3D#BFD6EA>Koutarou Amon</color></b>\r\nAn orphan raised by Donato who becomes a principled investigator determined to understand justice through his battles with ghouls.=<b><color%3D#00000000>D</color><color%3D#BFD6EA>亚门钢太朗</color></b>\r\n由多纳托抚养长大的孤儿，成长为一位有原则的搜查官，决心通过与喰种的战斗理解正义。
+
+<b><color%3D#00000000>D</color><color%3D#C2D5D8>Kousuke Houji</color></b>\r\nA calm veteran investigator known for overseas operations and for mentoring Seidou Takizawa.=<b><color%3D#00000000>D</color><color%3D#C2D5D8>法寺项介</color></b>\r\n一位冷静的资深搜查官，以海外行动和指导泷泽政道而闻名。
+
+<b><color%3D#00000000>D</color><color%3D#C7B9A6>Yukinori Shinohara</color></b>\r\nA veteran investigator and compassionate mentor whose trust gives Juuzou his first real chance at family.=<b><color%3D#00000000>D</color><color%3D#C7B9A6>篠原幸纪</color></b>\r\n一位资深搜查官与富有同情心的导师，他的信任给了铃屋什造第一次真正的家庭机会。
+
+<b><color%3D#00000000>D</color><color%3D#C8D8E8>Oggai Squad</color></b>\r\nA child soldier of the Oggai, mass-produced as an artificial half-ghoul from Rize Kamishiro's kakuhou.=<b><color%3D#00000000>D</color><color%3D#C8D8E8>oggai部队</color></b>\r\noggai的儿童士兵，由神代利世的赫包批量生产的人工半喰种。
+
+<b><color%3D#00000000>D</color><color%3D#C93535>Seidou Takizawa (Half-Ghoul)</color></b>\r\nA captured investigator transformed by Aogiri into a one-eyed ghoul, scarred by torture and desperate to prove his worth.=<b><color%3D#00000000>D</color><color%3D#C93535>泷泽政道（半喰种）</color></b>\r\n一名被俘的搜查官被青桐树转变为独眼喰种，饱受酷刑折磨，急切地想要证明自己的价值。
+
+<b><color%3D#00000000>D</color><color%3D#D1C39D>Kureo Mado</color></b>\r\nA relentless investigator whose wife's death turned the pursuit of ghouls into a deeply personal obsession.=<b><color%3D#00000000>D</color><color%3D#D1C39D>真户吴绪</color></b>\r\n一位不屈不挠的搜查官，妻子的死使他对喰种的追捕变成了一种深切的执念。
+
+<b><color%3D#00000000>D</color><color%3D#DADADA>Haise Sasaki</color></b>\r\nAn amnesiac CCG investigator and mentor of the Quinx Squad, building a new family around a past he cannot remember.=<b><color%3D#00000000>D</color><color%3D#DADADA>佐佐木琲世</color></b>\r\n一位失忆的CCG搜查官和Qs班的导师，围绕着自己无法记住的过去建立新的家庭。
+
+<b><color%3D#00000000>D</color><color%3D#DADADA>Ken Kaneki (Human)</color></b>\r\nA gentle, bookish university student whose meeting with Rize places him at the centre of the ghoul world.=<b><color%3D#00000000>D</color><color%3D#DADADA>金木研（人类）</color></b>\r\n一位温和、书生气的大学青年，与利世的相遇将他置于喰种世界的中心。
+
+<b><color%3D#00000000>D</color><color%3D#E2D2BE>Akira Mado</color></b>\r\nKureo Mado's analytical daughter, a gifted quinque specialist determined to prove herself on her own terms.=<b><color%3D#00000000>D</color><color%3D#E2D2BE>真户晓</color></b>\r\n真户吴绪善于分析的女儿，一位才华横溢的库因克专家，决心以自己的方式证明自己。
+
+<b><color%3D#00000000>D</color><color%3D#E58B54>Taishi Fura</color></b>\r\nA former delinquent who befriended young Arima and entered the CCG after their hunt for Lantern.=<b><color%3D#00000000>D</color><color%3D#E58B54>太史不二</color></b>\r\n一位前不良少年，与年轻的有马贵将成为朋友，在追捕“灯笼”后加入了CCG。
+
+<b><color%3D#00000000>D</color><color%3D#F0BCD8>Juuzou Suzuya</color></b>\r\nA former ghoul scrapper taken in by the CCG, whose brutal talent is tempered by Shinohara's patient mentorship.=<b><color%3D#00000000>D</color><color%3D#F0BCD8>铃屋什造</color></b>\r\n被CCG收留的前喰种猎手，其残酷的天赋在篠原幸纪耐心的指导下得以缓和。
+
+<b><color%3D#00000000>D</color><color%3D#F2E9A6>Kishou Arima</color></b>\r\nThe CCG's unmatched investigator, feared as the White Reaper and burdened by a secret role in the future of ghouls.=<b><color%3D#00000000>D</color><color%3D#F2E9A6>有马贵将</color></b>\r\nCCG无人能及的搜查官，被称为“白色死神”，背负着在喰种未来中的秘密角色。
+
+<b><color%3D#00000000>D</color><color%3D#FF88CC>Saiko Yonebayashi</color></b>\r\nA reluctant but exceptionally gifted Quinx who treats the squad as family and reveals immense power when pushed to act.=<b><color%3D#00000000>D</color><color%3D#FF88CC>米林才子</color></b>\r\n一位不情愿但天赋异禀的Qs班成员，将班组视为家人，在被迫行动时会展现出巨大的力量。
+
+
+
 
 //右键菜单
 Enable Quinque=启用库因克
@@ -10512,7 +10655,9 @@ This one cannot be reconstructed.=此个体无法重构.
 Rebirth is impossible.=重生不可能. 
 Subject already secured.=对象已被收容. 
 
-
+//更新
+<b>The streets of Tokyo are waiting.</b>\n\n<size%3D90%>Ghouls are evolving. The CCG is preparing.\nNew Kagune, Quinque, characters, and hidden experiments are coming.\n\nJoin the official <b>Ghoul Playground</b> Discord server to see exclusive previews,\nfollow development, suggest features, report bugs,\nand become part of the community.\n\n<i>Will you hunt… or be hunted?</i></size>=<b>东京的街道在等待。</b>\n\n<size%3D90%>喰种正在进化。CCG正在准备。\n新的赫子、库因克、角色和隐藏实验即将到来。\n\n加入官方<b>喰种游乐场</b> Discord 服务器以查看独家预览，\n关注开发进程，提出功能建议，报告错误，\n并成为社区的一员。\n\n<i>你将狩猎……还是被狩猎？</i></size>
+Maybe later=也许以后吧
 
 
 
