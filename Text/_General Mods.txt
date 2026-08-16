@@ -16617,11 +16617,16 @@ Evil Morty Powerset=邪恶莫蒂能力合集
 
 Choose Dimension=选择维度
 Pick a dimension, then press K to cycle into Dimension mode and fire normally.=选择一个维度，然后按K键切换至维度模式并正常射击.
+Currently in: Default (naming applies once you leave it)=当前在：默认（离开后将应用命名）
+sr:"^Currently in: (.*?) \(naming applies once you leave it\)$" = "当前在：$1（离开后将应用命名）"
+Save Current Room As...=将当前房间另存为...
+Name this room (Default)=命名此房间（默认）
+Room name...=房间名称...
 
 Mode: <color%3Dred>Hijacked</color>=模式: <color%3Dred>劫持</color>
 Mode: <color%3D#00BFFF>Dimension Hop</color>=模式: <color%3D#00BFFF>维度跳跃</color>
 Mode: <color%3D#39FF14>Teleportation</color>=模式: <color%3D#39FF14>传送</color>
-r:"Arrived at dimension <color%3D#38FF14>(.*?)</color>" = "已到达维度 <color%3D#38FF14>$1</color>"
+sr:"Arrived at dimension <color%3D#38FF14>(.*?)</color>" = "已到达维度 <color%3D#38FF14>$1</color>"
 DNA Collected=DNA 已收集
 
 <b><color%3D#AAAAAA>Forcefield: OFF</color></b>=<b><color%3D#AAAAAA>力场：关</color></b>
@@ -16637,3 +16642,166 @@ Turn the Evil Morty Powerset's cannon beam on or off.=开启或关闭邪恶莫�
 Turn the Evil Morty Powerset's precognitive dodge on or off. While on, this person blinks a short hop out of the way whenever someone lines up a shot on them, and briefly ignores that incoming bullet=开启或关闭邪恶莫蒂能力集的预知闪避。开启时，每当有人瞄准该角色时，此人会短距离瞬移闪避，并短暂无视来袭的子弹
 Turn the Evil Morty Powerset's precognitive dodge on or off. While on, this person blinks a short hop out of the way whenever someone lines up a shot on them, and briefly ignores that incoming bullet.=开启或关闭邪恶莫蒂能力集的预知闪避。开启时，每当有人瞄准该角色时，此人会短距离瞬移闪避，并短暂无视来袭的子弹.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+//372*ranium Reactor's SCP-096_Uranium Reactor的SCP-096
+<noparse>Uranium Reactor's SCP-096</noparse>=<noparse>Uranium Reactor的SCP-096</noparse>
+Class: Euclid : DONT LOOK AT HIS FACE=等级：Euclid : 别看他脸
+<size%3D1.5em>Uranium Reactor's SCP-096</size>\nClass: Euclid : DONT LOOK AT HIS FACE\n<noparse>A mod by Uranium Reactor for game version 1.28</noparse>=<size%3D1.5em>Uranium Reactor的SCP-096</size>\n等级：Euclid : 别看他脸\n<noparse>由 Uranium Reactor 制作的模组，适用于游戏版本 1.28</noparse>
+
+//物品栏
+<b>SCP-096 <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\nThe Shy Guy.=<b>SCP-096 <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\n害羞之人.
+
+<color%3Dyellow>SCP-096 Skins</color>\n<size%3D100%>Bloody Variant\n<color%3Dgreen>Currently Selected: Bloody</color></size>.=<color%3Dyellow>SCP-096 皮肤</color>\n<size%3D100%>血腥变体\n<color%3Dgreen>当前选定变体：血腥</color></size>.
+
+<color%3Dyellow>SCP-096 Skins</color>\n<size%3D100%>The Shy Guy\n<color%3Dgreen>Currently Selected: Normal</color></size>.=<color%3Dyellow>SCP-096 皮肤</color>\n<size%3D100%>害羞之人\n<color%3Dgreen>当前选定变体：普通</color></size>.
+
+<color%3Dyellow>SCP-096 Skins</color>\n<size%3D100%>Bloody skin\n<color%3Dgreen>Currently Selected: Bloody</color></size>.=<color%3Dyellow>SCP-096 皮肤</color>\n<size%3D100%>血腥皮肤\n<color%3Dgreen>当前选定：血腥</color></size>.
+
+<color%3Dyellow>SCP-096 Skins</color>\n<size%3D100%>Standard skin\n<color%3Dgreen>Currently Selected: Normal</color></size>.=<color%3Dyellow>SCP-096 皮肤</color>\n<size%3D100%>标准皮肤\n<color%3Dgreen>当前选定：普通</color></size>.
+
+<b>SCP-096 (Non-AI) <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\njust a dude who looks like <color%3Dpurple>MrLlama</color>.=<b>SCP-096（非AI） <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\n只是一个长得像<color%3Dpurple>MrLlama</color>的家伙。
+
+<b>Scramble Goggles <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\nUtilizes advanced micro-processors to detect and pixelate hostile cognitive hazards in real-time, preventing visual triggering.=<b>Scramble 护目镜 <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\n利用先进的微处理器实时检测并像素化敌对的认知危害，防止视觉触发。
+
+<b>Brown Paper Bag <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\nPut it on his head.=<b>牛皮纸袋 <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\n把它戴在他头上。
+
+<b>Redacted Photo <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\nFour fucking pixels, (F to wipe photo to register individual scp 096 instance, H to restore mountain photo,)=<b>涂黑照片 <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\n该死的四个像素，（按F键擦除照片以注册单独的SCP-096实例，按H键恢复山景照片，）
+
+<b>Censor Giver <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\nclick on humans head to add.=<b>审查赋予器 <b><color%3Dred>Uranium</color> <color%3Dpurple>Reactor's</color> <color%3Dwhite>SCP-096</color></b></b>\r\n点击人类头部以添加。
+
+
+//通知
+<size%3D150%><color%3Dred><b>SCP-096:</b></color> Press <b>K</b> on his body to open settings!</size>=<size%3D150%><color%3Dred><b>SCP-096：</b></color> 按<b>K</b>键在他的身体上打开设置！</size>
+<size%3D150%><color%3Dred><b>SCP-096:</b></color> Press <b>K</b> on his head to open settings!</size>=<size%3D150%><color%3Dred><b>SCP-096：</b></color> 按<b>K</b>键在他的头部上打开设置！</size>
+<size%3D150%><color%3Dgreen><b>CENSOR GIVER:</b></color> Press <b>K</b> on a censored head to open its settings!</size>=<size%3D150%><color%3Dgreen><b>审查赋予器：</b></color> 在已审查的头部上按<b>K</b>键以打开其设置！</size>
+SCP Sub-Items Visible=SCP子物品可见
+SCP Sub-Items Hidden=SCP子物品隐藏
+
+
+
+//菜单
+<b>SCP-096 Settings</b>=<b>SCP-096 设置</b>
+SETTINGS=设置
+USE K OR CONTEXT MENU TO OPEN=使用K键或上下文菜单打开
+
+MOVEMENT=移动
+RUN SPEED=奔跑速度
+WALK SPEED=行走速度
+SWIM SPEED=游泳速度
+JUMP POWER=跳跃力度
+CLIMB SPEED=攀爬速度
+
+AI TIMING=AI时机
+WAIT TIME=等待时间
+LOOK TIME=注视时间
+
+DESTRUCTION=破坏
+PROP DESTRUCTION=道具破坏
+DESTRUCTION CHANCE=破坏几率
+
+CABLE DESTRUCTION=绳索破坏
+SELF BREAK CHANCE=自身破坏几率
+OTHER BREAK CHANCE=他人破坏几率
+
+AI CAPABILITIES=AI能力
+ADAPTATION MODE=适应模式
+CLIMBING ENABLED=攀爬已启用
+JUMPING ENABLED=跳跃已启用
+RUNNING ENABLED=奔跑已启用
+THROW OBSTACLES=投掷障碍物
+THROW CHANCE=投掷几率
+THROW MULTIPLIER=投掷倍率
+LUNGE ENABLED=突进已启用
+LUNGE INTERVAL=突进间隔
+DIGGING ENABLED=挖掘已启用
+FRIENDLY FIRE=友军伤害
+AI ENABLED=AI已启用
+IDLE BEHAVIOR=空闲行为
+IDLE WANDER=空闲游荡
+WANDER RADIUS=游荡半径
+WANDER CHANCE=游荡几率
+RETURN TO HABITAT=返回栖息地
+
+DAMAGE=伤害
+
+DAMAGE CHANCES=伤害几率
+CRUSH CHANCE=碾压几率
+SLICE CHANCE=斩击几率
+HYBRID CHANCE=混合几率
+
+DAMAGE TYPES=伤害类型
+CRUSH ENABLED=碾压已启用
+SLICE ENABLED=斩击已启用
+HYBRID MODE=混合模式
+DAMAGE ENABLED=伤害已启用
+
+MISC=杂项
+BALANCE MULTIPLIER=平衡倍率
+SYSTEM=系统
+CENSOR CONFIG=审查配置
+FACE CENSOR=面部审查
+CENSOR COLOR=审查颜色
+CHANGE COLOR=更改颜色
+He forgot to add a title=他忘记添加标题
+He forgot to add a description text=他忘记添加描述文本
+CENSOR SIZE=审查大小
+OFFSET X=X偏移
+OFFSET Y=Y偏移
+
+HOTKEYS=热键
+DISABLE KEYBINDS=禁用按键绑定
+MENU KEYBIND=菜单按键绑定
+
+OPEN CONFIG FOLDER=打开配置文件夹
+FACTORY RESET SETTINGS=恢复出厂设置
+
+SCP-096 (NON-AI)=SCP-096 (无AI)
+WEAPONS=武器
+
+HANDS=双手
+HANDS DAMAGE=双手伤害
+HANDS SHARPNESS=双手锋利度
+LEGS (KICKING)=双腿（踢击）
+LEGS DAMAGE=双腿伤害
+
+BITE=撕咬
+BITE ENABLED=撕咬已启用
+BITE SHARPNESS=撕咬锋利度
+BITE COOLDOWN=撕咬冷却时间
+
+GLOBAL SETTINGS=全局设置
+DAMAGE PER VELOCITY=每速度伤害
+DAMAGE MULTIPLIER=伤害倍率
+KNOCKBACK FORCE=击退力度
+KNOCKBACK MULTIPLIER=击退倍率
+
+LEG MULTIPLIERS=腿部倍率
+LEG DAMAGE MULT=腿部伤害倍率
+LEG KNOCKBACK MULT=腿部击退倍率
+
+TYPES=类型
+
+<b>Censor Settings</b>=<b>审查设置</b>
+
+CENSOR TYPE=审查类型
+STYLE=样式
+REDACTED=涂黑
+ALT REDACTED=备用涂黑
+
+SCALE=缩放
+SIZE MULTIPLIER=大小倍率
+
+OFFSET=偏移
+LOCAL POSITION=本地位置
