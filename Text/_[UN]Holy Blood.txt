@@ -1,6 +1,11 @@
 //*TF_RC汉化
 [UN]Holy Blood Beta 3.0=[UN]圣血Beta3.0
+[UN]Holy Blood Beta 3.5=[UN]圣血Beta3.5
 <b>[UN]Holy Blood</b>\r\nContains all humans and items related to [UN]Holy Blood.=<b>[UN]圣血TF_RC汉化</b>\r\n包含所有与 [UN]圣血 相关的人类和物品.
+
+
+
+
 
 //*弹窗
 Enjoying [UN]Holy Blood?\nIf you like the mod, please leave a rating on the Steam Workshop, it helps a lot!=喜欢[UN]圣血吗？\n如果你喜欢这个模组，请在Steam创意工坊留下评分，这对我们帮助很大！
@@ -9,6 +14,11 @@ Like=喜欢
 It seems that you have another HB version active, disable it to run mod without errors=看起来你当前有另一个圣血版本处于激活状态，请禁用它以避免运行mod时出错
 
 Batrix UHB\n\nThis Secret character havent been unlocked yet..=Batrix UHB\n\n这个秘密角色尚未被解锁..
+
+
+
+
+
 
 //*设置生成选项
 Power Giver Menu <color%3D#f7fffe>[UHB]</color>=力量给予者菜单 <color%3D#f7fffe>[UHB]</color>
@@ -39,6 +49,11 @@ Enter max lvl amount=输入最大等级数值
 
 <b>Power Menu INFO <color%3D#f7fffe>[UHB]</color></b>\r\n<size%3D200%>Info : All powers descriptions are inside Power menu. You can access power menu by context menu in any human limb.=<b>能力菜单信息 <color%3D#f7fffe>[UHB]</color></b>\r\n<size%3D200%>信息：所有能力的描述都在能力菜单内. 你可以通过在任何人类肢体上使用右键菜单来访问能力菜单.
 
+
+
+
+
+
 //*物品
 <b>Soul Spawner <color%3D#f7fffe>[UHB]</color></b>\r\nNOT ALL CREATURES ARE ABLE TO CONSUME SOULS!=<b>灵魂生成器 <color%3D#f7fffe>[UHB]</color></b>\r\n并非所有生物都能吞噬灵魂!
 
@@ -63,6 +78,13 @@ r:"<b>Virtue's Remnant <color%3D#f7fffe>\[UHB\]</color></b>"=<b>美德残片 <co
 <b>[EC-7] <color%3D#f7fffe>[UHB]</color></b>\r\nPRIMARY FUNCTION: Accelerated adaptive mutation in response to physical/mental trauma.=<b>[EC-7] <color%3D#f7fffe>[UHB]</color></b>\r\n主要功能：响应物理/精神创伤的加速适应性突变.
 
 r:"<b>Ascension Shards <color%3D#f7fffe>\[UHB\]</color></b>"=<b>升维碎片 <color%3D#f7fffe>[UHB]</color></b>\n吸收后获得+1最大等级\n如果说白色碎片是美德的足迹，那么这些就是他们的指纹，只在他们刻意塑造现实的地方留下..
+
+
+
+
+
+
+
 
 //*人物
 <b>The Deadman <color%3D#f7fffe>[UHB]</color></b>\r\n'Three shots left. Rope burn still visible even from here.\nHe's not drawing. Why isn't he drawing?\nMaybe I got lucky and he ran dry. This is it. This is my chance. Just aim, breathe\nHis hand is rising. Empty hand. Except...\n[Bang]'=<b>亡者 <color%3D#f7fffe>[UHB]</color></b>\r\n“还剩三发子弹.从这里甚至还能看到绳索的灼痕.\n他没有拔枪.他为什么还不拔枪?\n也许我走运了,他的弹药耗尽了.就是现在.这是我的机会.瞄准,呼吸...\n他的手抬起来了.空手.除了...\n[砰]”
@@ -119,6 +141,16 @@ r:"<b>Soldier <color%3D#f7fffe>\[UHB\]</color></b>"=<b>士兵 <color%3D#f7fffe>[
 
 <b>The Forgotten Hero <color%3D#f7fffe>[UHB]</color></b>\r\n"The only <b>high ranking soldier</b> in the realm who actually means it when he says he's here to help. Kindness trusts him with her people's lives and unlike everywhere else, that trust isn't misplaced."\n\n[Open Power Menu via context window to check ability descriptions]=<b>被遗忘的英雄 <color%3D#f7fffe>[UHB]</color></b>\r\n“王国里唯一一个说自己是来帮忙时真心实意的<b>高阶士兵</b>.仁慈将她子民的生命托付给他,与其他地方不同,这份信任并未被辜负.”\n\n[通过右键菜单打开能力菜单查看能力描述]
 
+
+
+
+
+
+
+
+
+
+
 //*右键菜单
 Toggle camera follow of Marks Execution=切换镜头跟随标记处决
 Toggle camera follow of Marks Execution.=切换镜头跟随标记处决.
@@ -172,14 +204,24 @@ r:"DEEP WOUNDS : (\d+)\s*\nPIERCING WOUNDS : (\d+)\s*\nBLUNT WOUNDS : (\d+)\s*\n
 r:"DEEP WOUNDS : (\d+)\s*\nPIERCING WOUNDS : (\d+)\s*\nBLUNT WOUNDS : (\d+)\s*\nTOTAL : (\d+)/([\d?]+)$"=深度创伤：$1\n穿刺创伤：$2\n钝器创伤：$3\n总计：$4/$5
 Energy=能量
 Flame=火焰
-Wrath??=怒火??
+Wrath??=<b>怒火??
 r:"WRATH : ([\d\.]+)"=怒火：$1
 Patience??=耐心??
 Discipline=纪律
 Kindness=仁慈
 Chaos=混沌
+JUSTICE!=正义!
+r:"^ORDER\n(\d+) / (\d+)\n\+(\d+)% POWER$" = "命令\n$1 / $2\n+$3% 力量"
+
+
+
+
+
+
+
 
 //*能力菜单
+
 //*头
 r:"The Fool's Scapegoat \[<color%3D\#([0-9A-Fa-f]{6})>(\d+)% POWER</color>\]\nUnique Passive: Incoming damage has a chance to be redirected onto another living entity nearby, preserving the original damage type\. Rederected damage is weaker but scaling with power %\."=<b>愚者替罪 [<color%3D#$1>$2% 力量</color>]</b>\n独特被动：受到伤害时有几率转移给附近其他存活单位，保留原伤害类型.转移伤害会降低，但随%力量提升.
 
@@ -348,10 +390,21 @@ Celestial [Twisted]\nThe race of this creature determines its initial maximum le
 Celestial [Virtue]\nThe race of this creature determines its initial maximum level: 20\nPersonality max level bonus: +0=天界 [美德]\n该生物的种族决定其初始最大等级：20\n个性最大等级加成：+0
 
 Celestial\nThe race of this creature determines its initial maximum level: 15\nPersonality max level bonus: +0=天界\n该生物的种族决定其初始最大等级：15\n个性最大等级加成：+0
+
+
+
+
+
 //*上臂
 Hemorrhage Strike\nOn Hit: Strikes that impact enemies cause severe internal hemorrhaging. Bleeding intensity scales with impact force and power level (scales with %). Each hit applies a 10 second hemorrhage effect that continuously deals internal damage and drastically increases blood loss.=<b>出血打击</b>\n命中时：冲击敌人的打击会造成严重的内出血.出血强度随冲击力和力量等级（随%缩放）.每次命中施加持续10秒的出血效果，持续造成内部伤害并大幅增加失血量.
 
 Unholy punch\nOn Activation : Toggle Unholy punch. Punches burns soul and body on hit.=<b>邪能重拳</b>\n激活方式：切换邪能重拳.拳击命中时灼烧灵魂与肉体.
+
+
+
+
+
+
 //*下臂
 r:"Create : Bottle \[<color%3D#([0-9A-Fa-f]{6})>(\d+)% POWER</color>\]\nOn Alt \('H' Key by default\) Activation : On Activation: Conjures a bottle out of thin air\. MAGIC\!"=<b>创造：瓶子 [<color%3D#$1>$2% 力量</color>]</b>\n按Alt（默认为H键）激活：凭空变出一个瓶子. 魔法！
 
@@ -404,6 +457,14 @@ Wrath: Weapon Infusion\nPassive: Sharp weapons held in these hands become vessel
 Punch [Holy Fight Style]\nRegular punch, damage scales with strength of its user and this ability %=拳击 [神圣战斗风格]\n普通拳击，伤害随使用者的力量及该能力%缩放.
 
 Powerfull Punch [Holy Fight Style]\nPowerfull punch, damage scales with strength of its user and this ability %=强力拳击 [神圣战斗风格]\n强力拳击，伤害随使用者的力量及该能力%缩放.
+
+
+
+
+
+
+
+
 //*上半身
 r:"Decay Aura \[<color%3D#([0-9A-Fa-f]{6})>(\d+)% POWER</color>\]\nOn Activation: Unleashes a decay aura that reduce % and blood amount from all enemies within range for 6 seconds\. Creates a 8m radius field \(scales \+30% per %\)\."=<b>衰败光环 [<color%3D#$1>$2% 力量</color>]</b>\n激活方式：释放衰败光环，在6秒内降低范围内所有敌人的%和血量. 创造一个8米半径的场（每%缩放+30%）. 
 
@@ -440,8 +501,22 @@ Holy Blood grid\nOn Activation: Creates a blood slash grid at the cursor locatio
 
 Wrath: Sphere Barrage\nOn Activation: Target a location to rain down multiple Spheres. Spawns 3-5 Spheres that converge on the targeted area (scales with %). Each Sphere deals piercing damage and tags hit enemies for Wrath: Revenge. Each Sphere consumes 10% of current Wrath.=愤怒：球体弹幕\n激活方式：瞄准一个位置，降下多个球体.生成3-5个球体汇聚到目标区域（随%缩放）.每个球体造成穿刺伤害，并为命中的敌人打上“愤怒：复仇”标记.每个球体消耗当前愤怒的10%.
 <color%3D#FFD700>Cost:</color> 100 Energy\n<color%3D#FF6644>Damage Types:</color>\n  * Piercing Physical Damage: Damage type that ignores most of abilities that is able to block physical damage=<color%3D#FFD700>消耗:</color> 100 能量\n<color%3D#FF6644>伤害类型:</color>\n  * 穿刺物理伤害：能无视大多数可格挡物理伤害的能力的伤害类型
+
+
+
+
+
+
+
 //*脚
 r:"Door Pathway: Blink \[<color%3D#([0-9A-Fa-f]{6})>(\d+)% POWER</color>\]\nOn Activation: Teleport a short distance forward\. 50% chance to leave a trail of detonations along the path\. The blasts can catch the caster, but self-damage and knockback are reduced\."=<b>门径：闪现 [<color%3D#$1>$2% 力量</color>]</b>\n激活方式：向前短距离传送. 有50%几率在路径上留下一串爆炸. 爆炸可能会波及施法者，但自身伤害和击退会降低. 
+
+
+
+
+
+
+
 
 
 //*被动能力
@@ -449,17 +524,36 @@ r:"Regenerator\nThis creature has regeneration ability :\nCost (\d+) Energy per 
 
 r:"Enhanced Durability \[\[UN\]HOLY\]\nPassive : The creature's durability increases, scaling with each level to provide greater resilience\. Can be affected by % type abilities\nApproximate current durability tier : (\d+)"=强化耐久 [[UN]圣]\n被动：生物的耐久度提升，随等级缩放以提供更高的韧性.可受%类型能力影响\n当前近似耐久等级：$1
 
+
+
+
+
+
 //*消耗
 <color%3D#44FF44>Cost:</color> Free=<color%3D#44FF44>消耗：</color> 无
 r:"<color%3D#FFD700>Cost:</color> (\d+) Energy"=<color%3D#FFD700>消耗:</color> $1 能量
+
+
+
+
+
 
 //*右下角提示
 <size%3D115%>Need more space=<size%3D115%>需要更多空间
 <size%3D115%>Need to be on the ground...=<size%3D115%>需要站在地面上...
 
+
+
+
+
+
+
+
 //*对话
 r:"\+(\d+) EXP"=+$1 经验
 SOUL CONSUMED=灵魂已被吞噬
+r:"SOUL RESTORATION (\d+)%" = "灵魂恢复 $1%"
+SOUL REGENERATED=灵魂已再生
 Not Enough Energy=能量不足
 否t Enough Energy=能量不足
 
@@ -531,6 +625,90 @@ P断ck creature to bless: Star=选择要祝福的生物：星星
 
 
 
+
+
+
+
+
+
+
+//3.5新
+
+//3.5新人物
+<b>The Justice <color%3D#f7fffe>[UHB]</color></b>\r\n[The quote has been removed pursuant to Court Order No. 178; please refer to the archive for details.]\n\n[Open Power Menu via context window to check ability descriptions]=<b>正义 <color%3D#f7fffe>[UHB]</color></b>\r\n[根据第178号法庭命令，该引文已被移除；详情请参阅档案. ]\n\n[通过上下文窗口打开能力菜单以查看能力描述]
+
+<b>??? [LOCKED]  ietJiciseiKssJs  <color%3D#f7fffe>[UHB]</color></b>\r\nThis is a Secret Character. Will you find a way to unlock it?=<b>??? [已锁定]  ietJiciseiKssJs  <color%3D#f7fffe>[UHB]</color></b>\r\n这是一个隐藏角色. 你会找到解锁它的方法吗？
+
+<b>??? [LOCKED]  Cdrsuduucssotrie  <color%3D#f7fffe>[UHB]</color></b>\r\nThis is a Secret Character. Will you find a way to unlock it?=<b>??? [已锁定]  Cdrsuduucssotrie  <color%3D#f7fffe>[UHB]</color></b>\r\n这是一个隐藏角色. 你会找到解锁它的方法吗？
+
+<b>Infernal <color%3D#f7fffe>[UHB]</color></b>\r\n'Figured I'd catch the cattle thieves myself last night. Stupid idea. What emerged from that pen wasn't human. The moment I saw that <b>creature</b>, I thought my heart would give out right there.'\n\n[Open Power Menu via context window to check ability descriptions]=<b>地狱 <color%3D#f7fffe>[UHB]</color></b>\r\n“昨晚我想着自己去抓偷牛贼. 真是个蠢主意. 从那个围栏里出来的东西根本不是人. 当我看到那个<b>生物</b>的那一刻，我觉得自己的心脏都要当场停跳了. ”\n\n[通过上下文窗口打开能力菜单以查看能力描述]
+
+<b>Lord of the Flies <color%3D#f7fffe>[UHB]</color></b>\r\nThe buzzing never stopped once, not even the day I stopped being able to tell it apart from my own voice.=<b>苍蝇之王 <color%3D#f7fffe>[UHB]</color></b>\r\n嗡嗡声从未停止过，即使是在我再也无法将它与我自己的声音区分开的那一天. 
+
+<b>The Hierophant <color%3D#f7fffe>[UHB]</color></b>\r\n'Lights up, curtain drawn back, and there he is again, bowing like the whole world showed up just for him. Nobody claps louder than the front row he pays to be there.'\n\n[Open Power Menu via context window to check ability descriptions]=<b>教皇 <color%3D#f7fffe>[UHB]</color></b>\r\n“灯光亮起，帷幕拉开，他又站在那里，鞠躬致意，仿佛整个世界都是为了他而来. 没有人比他花钱雇来的前排观众鼓掌鼓得更响. ”\n\n[通过上下文窗口打开能力菜单以查看能力描述]
+
+<b>The Envy <color%3D#f7fffe>[UHB]</color></b>\r\n'I don't want to be looked at like that. I want to be the one they're looking at.'\n\n[Open Power Menu via context window to check ability descriptions]=<b>嫉妒 <color%3D#f7fffe>[UHB]</color></b>\r\n“我不想被那样看着. 我想成为他们注视的那个人. ”\n\n[通过上下文窗口打开能力菜单以查看能力描述]
+
+<b>The Thaumaturgist <color%3D#f7fffe>[UHB]</color></b>\r\n'They lost a piece of the old machinery years back. Records just say "unrecovered." His tricks look a lot like what's in the drawings.'\n\n[Open Power Menu via context window to check ability descriptions]=<b>奇术师 <color%3D#f7fffe>[UHB]</color></b>\r\n“多年前他们丢失了一件旧机器. 记录上只写着‘未找回’. 他的把戏看起来和图纸上的东西很像. ”\n\n[通过上下文窗口打开能力菜单以查看能力描述]
+
+
+
+
+
+
+
+
+//3.5新物品
+<b>Celestial's Wine <color%3D#f7fffe>[UHB]</color></b>\r\nDistribution: Restricted to Virtues and their direct emissaries. Unauthorized possession: Punishable by immediate execution and familial purging.\n\nRestores a small amount of health on consumption.=<b>天体之酒 <color%3D#f7fffe>[UHB]</color></b>\r\n分发：仅限于美德及其直属使者. 未经授权持有：处以立即处决及家族清洗. \n\n饮用后恢复少量生命值.
+
+<b>B4-G Rifle <color%3D#f7fffe>[UHB]</color></b>\r\n'I got the message that they didn't take me seriously with that pistol.'=<b>B4-G步枪 <color%3D#f7fffe>[UHB]</color></b>\r\n“我明白了，他们根本没把我那把破手枪当回事. ”
+
+<b>Mic <color%3D#f7fffe>[UHB]</color></b>\r\n'You aren't ready? Let's begin!'=<b>麦克风 <color%3D#f7fffe>[UHB]</color></b>\r\n“你还没准备好？那就开始吧！”
+
+<b>Terminal <color%3D#f7fffe>[UHB]</color></b>\r\nActivate it to open the terminal and read the records stored in it.=<b>终端 <color%3D#f7fffe>[UHB]</color></b>\r\n激活它以打开终端并读取其中存储的记录.
+
+
+
+
+
+
+
+//右键菜单
+Open Terminal=打开终端
+Read the records stored in this terminal=读取此终端中存储的记录
+Read the records stored in this terminal.=读取此终端中存储的记录.
+
+
+
+
+
+
+//终端UI
+ARCHIVE TERMINAL v1.0=存档终端 v1.0
+[01]  GREED.log=[01]  贪婪.log
+[02]  PERSONNEL NOTES=[02]  人员笔记
+[03]  SACKMAN.log=[03]  麻袋人.log
+[04]  WRATH.log=[04]  愤怒.log
+READY=就绪
+r:"^(\d+) RECORD\(S\)$" = "$1 条记录(S)"
+r:"^FILE (\d+) / (\d+)$" = "文件 $1 / $2"
+< BACK=< 返回
+
+GREED.log=贪婪.log
+DESIGNATION: HERETIC\nCLASSIFICATION: SIN\nSTATUS: ACTIVE\nTHREAT LEVEL: MODERATE=代号：异端\n分类：罪孽\n状态：活跃\n威胁等级：中等
+-- SUMMARY --\nSubject had a contractual deal with the Church, exchanging necessary information under a 'treaty' where the subject was allowed to continue operations normally without risk of harm. This contract was breached once the information was deemed damaging. \n\nSubject was initially an 'Archivist' of sorts, collecting any and every piece of knowledge they could accumulate. This accumulation of information was inevitably deemed as 'too dangerous' by the \nChurch and its destruction was ordered by Kindness. This order was carried out by the executioner. The information the subject accumulated about the Era before the Celestials was detrimental to the integrity of the Church and the image it upholds. \n\nSubject should now be considered hostile due to their growing animosity. If subject demonstrates any hatred, neutralise immediately. This animosity stems from the burning of their Library. The subject had selflessly given away everything in pursuit of this knowledge, which we inevitably had taken away from them.\n\n-- ABILITY ANALYSIS --\nSubject is able to store all wounds received inside of their 'Vault.' All of the wounds stored are able to be simultaneously inflicted upon targets by 'Inviting' them to the Vault. Wounds are able to passively accumulate with compound interest. This can also be compressed in the Subject's hands, turning half of their accumulated wounds into a projectile. \n\nSubject is able to take photographs of nearby targets and can mirror anything inflicted to the photograph to the targets inside of it, aside from the Subject themselves. \n\n-- RISK ASSESSMENT --\nSubject is mostly docile, although due to this passive nature they should be considered with extreme caution due to the passive accumulation of their wounds. Should the Subject be provoked, the capability for great destruction is highly possible. Subject should be avoided as much as possible, with neutralisation attempts only carried out should their animosity grow beyond a breaking point. \n\nDo not allow the Subject to encounter Kindness.\n\nPERSONNEL NOTES\n-- NOTE 01 --\nReporting Personnel: Unnamed Civilian\n\nEyewitness reports that the Subject initially began by impulsively giving away all of their personal belongings without any named reason. Subject then began to frantically search for garbage off of the ground, Newspapers, old Photographs, worn journals, storing them in an unnamed location. \n\n-- NOTE 02 --\nReporting Personnel: Executioner\nOrder Issued By: Kindness\n\nThe Executioner was allocated as the most suitable for the destruction of the Library under the order issued by Kindness. Subject was still inside the Library when it was set aflame. Eyewitness accounts from the Executioner and nearby Civilians report wailing that echoed throughout the entire duration of the night. This act served to sever the peace treaty between the Sin and the Church.=-- 摘要 --\n目标与教会达成过契约协议，在“条约”下交换必要信息，允许目标正常运作而不受伤害风险。一旦信息被认为具有破坏性，该契约即被违反。\n\n目标最初是某种“档案管理员”，收集他们所能积累的一切知识。这种信息的积累最终被教会视为“过于危险”，仁慈下令将其销毁。此命令由行刑者执行。目标所积累的关于诸天之前时代的信息，损害了教会的完整性和其维护的形象。\n\n由于目标日益增长的敌意，现在应将其视为敌对目标。如果目标表现出任何仇恨，立即予以消灭。这种敌意源于其图书馆被焚毁。目标曾无私地奉献一切以追求这些知识，而我们最终却将这些知识从他们手中夺走。\n\n-- 能力分析 --\n目标能够将所有受到的伤害存储在其“保险库”内。所有存储的伤害可以通过“邀请”目标进入保险库而同时施加于目标。伤害能够以复利方式被动累积。这也可以在目标手中压缩，将所累积伤害的一半转化为射弹。\n\n目标能够拍摄附近目标的照片，并且可以将施加于照片上的任何伤害镜像到照片中的目标身上，但目标自身除外。\n\n-- 风险评估 --\n目标大多温顺，然而由于其被动性质，加之伤口的被动累积，应极其谨慎地对待。若目标被激怒，极有可能具备巨大的破坏能力。应尽可能避免与目标接触，仅当其敌意增长到突破点时，才可尝试进行消灭。\n\n不允许目标与仁慈相遇。\n\n人员记录\n-- 记录 01 --\n报告人员：未具名平民\n\n目击者报告称，目标最初开始冲动地无缘无故赠送其所有个人物品。随后，目标开始疯狂地翻找地上的垃圾、报纸、旧照片、破旧的日记，并将其存放在一个未知地点。\n\n-- 记录 02 --\n报告人员：行刑者\n命令发布者：仁慈\n\n行刑者被认为是最适合执行仁慈发布的销毁图书馆命令的人选。图书馆被点燃时，目标仍在其中。行刑者和附近平民的目击者报告称，整个夜晚都能听到回荡的哀号声。这一行为切断了罪恶与教会之间的和平条约。
+
+PERSONNEL NOTES=人员笔记
+-- NOTE 01 --\nReporting Personnel: Soldier #34201\nRecovered journal from the corpse of the Soldier.\nThe journal reads as follows:=-- 记录 01 --\n报告人员：士兵 #34201\n从士兵尸体上找到的日记。\n日记内容如下。
+DAY 1:\nWe were stationed here to keep an eye out for ☐☐☐☐☐ ☐☐☐☐☐ under rumours of the white-cloaked mercenary collaborating with the Sin. It's been several days. The cold in the north is gradually eating away at us, we are slowly running out of food.\n\nDAY 2:\nStill nothing. The other soldiers are still growing increasingly irritable. I don't know what we can do. I think we should eventually write a letter to request an immediate transfer of our Squadron due to uninhabitable conditions.\n\nDAY 3:\nOh... oh, dear Virtues... he's here, nobody's left. He's coming for me.\n\n[END OF JOURNAL]\n\n-- NOTE 02 --\nReporting Personnel: Security Detail\n\nSecurity Detail observing the Sin report that the subject has made contact with another Sin. The exact details of what had transpired were unknown, although it is safe to assume that it was an exchange of information due to the subject immediately shifting the direction in which they were travelling. Further observation required.=第1天：\n我们被派驻此地，监视☐☐☐☐☐ ☐☐☐☐☐，因为有传言称白衣佣兵与罪恶勾结。已经过去好几天了。北方的寒冷正在逐渐侵蚀我们，我们的食物也快吃完了。\n\n第2天：\n仍然没有任何发现。其他士兵变得越来越烦躁。我不知道我们能做什么。我认为我们应该最终写一封信，请求因不适宜居住的条件立即调离我们的中队。\n\n第3天：\n哦……哦，亲爱的美德们……他来了，所有人都走了。他冲我来了。\n\n[日记结束]\n\n-- 记录 02 --\n报告人员：安保小队\n\n观察罪恶的安保小队报告称，目标已与另一名罪恶取得接触。具体发生了什么事尚不清楚，但可以推测是信息交换，因为目标立即改变了行进方向。需要进一步观察。
+
+SACKMAN.log=麻袋人.log
+DESIGNATION: HERETIC\nCLASSIFICATION: ???\nSTATUS: ALIVE[?] \nTHREAT LEVEL: HIGH=代号：异端\n分类：???\n状态：存活[?]\n威胁等级：高
+-- SUMMARY --\nSubject is a great inconvenience to the Church. Everything the Subject says should not be believed. Subject should be instantaneously neutralised on sight. Squad 12 - Division 4 has been allocated as the personnel to neutralise the Subject. \n\nSubject's whereabouts are unknown, it is believed they are able to 'Teleport' in a sense across distances, so finding the Subject proves to be a difficult task. \n\nPersonal Footnotes:\nWe really don't like them. Nobody does. Everything they say is nonsense. They display human characteristics in personality and speech, yet they take on the appearance of what appears to be a living sandbag or sack of some sorts. We don't know where they came from, yet it is unfortunate that they haven't gone back to that place. If any Security Detail is reading this, I wish you personally take it upon yourself to destroy them if you are able to do so.\n\n-- ABILITY ANALYSIS --\nSubject's abilities are a Joke of some sorts. In combat, the subject simply summoned a beverage containing unknown liquid on the ground, to the amusement of the personnel. That was before explosive bricks and bowling balls hit several personnel on the head. \n\nSubject handed a Handcannon to one of the Personnel, insisting that they fire it at the Subject. They obliged, before it blew up in their hand. The personnel lived, with the loss of that arm. \n\nSubject teleports short distances in combat, leaving behind a trail of explosives.\n\nSubject is able to 'Steal' the abilities of anyone of their choosing, granting the Subject one of the Target's abilities whilst the Target receives one of the Subject's, although the quality of the Subject's abilities are moderately disappointing. \n\n-- RISK ASSESSMENT --\nNeutralise. \n\nPERSONNEL NOTES\n-- NOTE 01 --\nReporting Personnel: Unnamed Contractor\nReceived Transcript:\n\n"I'm not quite sure what it was... a puppet? A sack of talking spuds? But regardless, it just kept talking... and it wouldn't STOP talking. I blinked and suddenly it was in my face, holding my Railgun issued to me before remarking about some... Era of Chaos? Whatever that means... that it was some ancient technology refurbished from its time."\n\n[END OF TRANSCRIPT]\n\n-- NOTE 02 --\nReporting Personnel: Kindness\nIncident Log:\n\nIt knows about the time before the Celestials. It should be neutralised as swiftly and cleanly as possible to prevent any damage to our integrity. The Subject is a Vassal of the Old Deus, Chaos. While 'Chaos' is unable to affect us in any way, it is safe to assume the Subject is acting under its direct influence through some telepathy of sorts. While Chaos is dead, I am assuming their Will on this planet persists through the Subject.\n\n[END OF LOG]\n\n-- NOTE 03 --\nReporting Personnel: The Hero\nReceived Transcript:\n\n"It kept talking about my Kind? Stating that it was interesting that we still exist and that it thought my 'Kind' had all been wiped out in the past, telling me to step aside to which I had refused to do so. It disappeared shortly after. It was... a weird interaction nonetheless. What's that even supposed to mean?"\n\n[END OF TRANSCRIPT]\n\n\n-- NOTE 04 --\nReporting Personnel: A1\nFULL LIVE TRANSMISSION:\n\n[HOSTILE ENTITY DETECTED]\n[I'VE DETERMINED OUR RESPECTIVE COMBAT ABILITIES. MY CHANCES OF WINNING ARE: NIL]\n[YET, IN IMPROBABILITY THEORY, THERE IS NO ABSOLUTE ZERO]\n[INITIATING COMBAT SEQUENCE, ALL ARMAMENTS AND COMBAT POWER WILL BE DEPLOYED. AND YOU WILL BEG FOR YOUR LIFE.]\n\nReceived Retort:\n\n"How precious. It seems you are not completely incapable of intuition despite being a machine. You are much like your predecessors. Goodbye, Scrap."\n\n[END OF LIVE TRANSMISSION]=-- 摘要 --\n目标对教会来说是个极大的麻烦。目标所说的任何话都不应相信。目标应在发现时立即予以消灭。第12小队 - 第4分队已被指派为消灭目标的人员。\n\n目标的下落不明，据信他们能够在一定程度上“传送”跨越距离，因此寻找目标是一项困难的任务。\n\n个人附注：\n我们真的很不喜欢他们。没人喜欢。他们说的每一句话都是胡说八道。他们在性格和言语上表现出人类特征，却有着看起来像活沙袋或某种麻袋的外表。我们不知道他们从何而来，可惜他们还没有回到那个地方去。如果有任何安保小队正在阅读此内容，我希望你们能亲自承担起消灭他们的责任，如果你们能做到的话。\n\n-- 能力分析 --\n目标的能力在某种程度上是个玩笑。在战斗中，目标只是在地上召唤了一杯含有未知液体的饮料，这让人员们觉得好笑。那是爆炸砖块和保龄球击中几名人员头部之前的事。\n\n目标将一把手炮交给其中一名人员，坚持让他们朝目标开火。他们照做了，随后手炮在他们手中爆炸。该人员幸存下来，但失去了那只手臂。\n\n目标在战斗中会进行短距离传送，并留下一串爆炸物。\n\n目标能够“窃取”其选择的任何人的能力，使目标获得目标的一项能力，同时目标获得目标的一项能力，尽管目标能力的质量相当令人失望。\n\n-- 风险评估 --\n消灭。\n\n人员记录\n-- 记录 01 --\n报告人员：未具名承包商\n收到的记录：\n\n“我不太确定那是什么……一个木偶？一袋会说话的土豆？但无论如何，它只是一直在说话……而且它不会停止说话。我眨了一下眼，突然它就出现在我面前，拿着发给我的轨道炮，然后谈论着什么……混沌时代？不管那是什么意思……那是从它的时代翻新的某种古代技术。”\n\n[记录结束]\n\n-- 记录 02 --\n报告人员：仁慈\n事件日志：\n\n它知道诸天之前的时间。应尽可能迅速而干净地将其消灭，以防止对我们完整性的任何损害。目标是旧神混沌的封臣。虽然“混沌”无法以任何方式影响我们，但可以推测目标是通过某种心灵感应在其直接影响下行动的。虽然混沌已死，但我假设他们在这个星球上的意志通过目标持续存在。\n\n[日志结束]\n\n-- 记录 03 --\n报告人员：英雄\n收到的记录：\n\n“它一直谈论我的同类？说我们仍然存在很有趣，并且它认为我的‘同类’在过去都已被消灭，让我让开，我拒绝了。它不久后就消失了。不管怎样，这是一次……奇怪的互动。那到底是什么意思？”\n\n[记录结束]\n\n-- 记录 04 --\n报告人员：A1\n完整实时传输：\n\n[检测到敌对实体]\n[我已确定我们各自的战斗能力。我的胜算为：零]\n[然而，在概率论中，不存在绝对零]\n[开始战斗序列，所有武器和战斗力将被部署。而你，将乞求饶命。]\n\n收到的反驳：\n\n“真有趣。看来你尽管是个机器，也并非完全没有直觉。你很像你的前辈们。再见了，废铁。”\n\n[实时传输结束]
+
+WRATH.log=愤怒.log
+DESIGNATION: HERETIC\nCLASSIFICATION: SIN\nSTATUS: UNKNOWN\nTHREAT LEVEL: HIGH=代号：异端\n分类：罪恶\n状态：未知\n威胁等级：高
+-- SUMMARY --\nSubject originates from an isolated settlement destroyed during an incident involving Patience. Subject was the only survivor. The incident resulted in the complete loss of the subject's family, home, and community.\n\nSubject's subsequent development is characterised by a persistent fixation on retaliation against Patience. This fixation has remained stable despite prolonged inactivity, suggesting that the subject's hostility is foundational instead of situational. This lead to an inevitable showdown where the results of the situation are unknown, suggesting Wrath is either decommissioned or their whereabouts are otherwise inconclusive.\n\n-- ABILITY ANALYSIS --\nSubject can accumulate "Wrath" over prolonged periods of time. An increase in anger corresponds with increased destructive capabilities, suggesting their powers are expressed through emotion.\n\n-- RISK ASSESSMENT --\nSubject possesses(/possessed) significant destructive potential and is incapable to disengage once provoked. The primary concern is that their objective may eventually be fulfilled (assuming the subject is still active) Subject is designed to inevitably be used by Patience to prevent their corruption, as of now, this is the predicted outcome.=-- 摘要 --\n目标来自一个在与“耐心”相关事件中被摧毁的孤立定居点。目标是唯一的幸存者。该事件导致目标失去了全部家庭、家园和社区。\n\n目标此后的发展以对“耐心”进行报复的持续执念为特征。尽管长期没有行动，这种执念仍然稳定，这表明目标的敌意是根基性的而非情境性的。这导致了一场不可避免的对决，其结果未知，暗示着“愤怒”要么已被停用，要么其下落无从得知。\n\n-- 能力分析 --\n目标能够在长时间内积累“愤怒”。愤怒的增加与破坏能力的提升相对应，这表明他们的力量是通过情感表达的。\n\n-- 风险评估 --\n目标拥有（曾拥有）巨大的破坏潜力，一旦被激怒便无法脱离交战。主要担忧的是他们的目标最终可能会实现（假设目标仍然活跃）。目标注定最终会被“耐心”利用以防止其堕落，就目前而言，这是预测的结果。
 
 
 
