@@ -17003,3 +17003,145 @@ SIZE MULTIPLIER=大小倍率
 
 OFFSET=偏移
 LOCAL POSITION=本地位置
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//373*
+<noparse>Stormwall: Severe Weather</noparse>=<noparse>风暴墙：恶劣天气</noparse>
+A cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, progressive destruction, long-range rain, lightning, steering, and original audio.=一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、渐进式破坏、远距离降雨、闪电、引导控制以及原创音效。
+<size%3D1.5em>Stormwall: Severe Weather</size>\nA cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, progressive destruction, long-range rain, lightning, steering, and original audio.\n<noparse>A mod by bobobebra for game version 1.27.15</noparse>=<size%3D1.5em>风暴墙：恶劣天气</size>\n一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、渐进式破坏、远距离降雨、闪电、引导控制以及原创音效。\n<noparse>由 bobobebra 制作的模组，适用于游戏版本 1.27.15</noparse>
+
+
+//物品栏
+<b>Stormwall Severe Weather</b>\r\nEvolving severe thunderstorms and physically inspired tornado encounters.=<b>风暴墙 恶劣天气</b>\r\n动态演变的强雷暴与物理启发的龙卷风遭遇。
+
+<b>Stormwall - Developing Supercell</b>\r\nA complete cinematic supercell and classic tornado lifecycle.=<b>风暴墙 - 发展中的超级单体</b>\r\n完整的电影级超级单体与经典龙卷风生命周期。
+
+<b>Stormwall - Severe Thunderstorm - No Tornado</b>\r\nA full severe storm with rain, lightning and damaging straight-line wind.=<b>风暴墙 - 强雷暴 - 无龙卷风</b>\r\n包含降雨、闪电和破坏性直线风的完整强风暴。
+
+<b>Stormwall - Rope Tornado</b>\r\nA narrow, sinuous but dangerous tornado with a dirty ground circulation.=<b>风暴墙 - 绳状龙卷风</b>\r\n狭窄、蜿蜒但危险的龙卷风，伴有肮脏的地面环流。
+
+<b>Stormwall - Classic Cone Tornado</b>\r\nA balanced complete storm and tornado encounter.=<b>风暴墙 - 经典锥形龙卷风</b>\r\n平衡完整的风暴与龙卷风遭遇。
+
+<b>Stormwall - Stovepipe Tornado</b>\r\nA tall, persistent circulation with strong sustained loading.=<b>风暴墙 - 烟囱状龙卷风</b>\r\n高耸、持久的环流，具有强烈的持续载荷。
+
+<b>Stormwall - Wedge Tornado</b>\r\nA massive broad tornado designed to become an engulfing wall at close range.=<b>风暴墙 - 楔形龙卷风</b>\r\n巨大的宽幅龙卷风，旨在近距离形成吞噬性的风墙。
+
+<b>Stormwall - Rain-Wrapped Wedge</b>\r\nA violent wedge obscured by dense wrapping precipitation.=<b>风暴墙 - 雨幕楔形龙卷风</b>\r\n被密集包裹性降水遮蔽的猛烈楔形龙卷风。
+
+<b>Stormwall - Violent Multi-Vortex</b>\r\nAn extreme broad parent circulation with three bounded transient subvortices.=<b>风暴墙 - 猛烈多涡旋龙卷风</b>\r\n极端的宽幅母体环流，带有三个有界的短暂子涡旋。
+
+<b>Stormwall - Dust Devil</b>\r\nA small, weak dry whirlwind with a compact rotating debris field.=<b>风暴墙 - 尘卷风</b>\r\n小型、微弱的干燥旋风，带有紧凑的旋转碎屑场。
+
+<b>Stormwall - Settings Console</b>\r\nGlobal quality, physics, sound, camera and diagnostics controls for Stormwall.=<b>风暴墙 - 设置控制台</b>\r\n风暴墙的全局画质、物理、音效、视角和诊断控制。
+
+
+Open Stormwall Control Panel [F7]=打开风暴墙控制面板 [F7]
+Open the complete Stormwall control interface=打开完整的风暴墙控制界面
+Open the complete Stormwall control interface.=打开完整的风暴墙控制界面.
+STORM=风暴
+All anchor controls  |  T sets target  |  Y follows cursor  |  F7 closes=所有锚点控制 | T设置目标 | Y跟随光标 | F7关闭
+Start storm=启动风暴
+Start, pause or resume this storm scenario=启动、暂停或恢复此风暴场景
+Start, pause or resume this storm scenario.=启动、暂停或恢复此风暴场景.
+Pause storm=暂停风暴
+Resume storm=恢复风暴
+Lifecycle: Manual=生命周期：手动
+Lifecycle: Automatic=生命周期：自动
+Stormwall lifecycle: Manual.=风暴墙生命周期：手动.
+Stormwall lifecycle: Automatic.=风暴墙生命周期：自动.
+Form tornado=生成龙卷风
+Stormwall tornado formation authorised.=风暴墙龙卷风生成已授权.
+Dissipate tornado=消散龙卷风
+Set target at cursor [T]=在光标处设置目标 [T]
+Cursor following [Y]: off / Automatic=光标跟随 [Y]：关 / 自动
+Cursor following [Y]: off / Stopped=光标跟随 [Y]：关 / 已停止
+Cursor following [Y]: on / FollowCursor=光标跟随 [Y]：开 / 跟随光标
+Cursor following [Y]: off / Target=光标跟随 [Y]：关 / 目标
+Stop movement=停止移动
+Restore automatic drift=恢复自动漂移
+Dissipate storm=消散风暴
+r:"^Intensity: T(\d+) / EF-like \(next start\)$" = "强度：T$1 / 类似EF级（下次启动）"
+r:"^Intensity: T(\d+) / EF-like$" = "强度：T$1 / 类似EF级"
+Stormwall control change applies on the next start.=风暴墙控制更改将在下次启动时生效。
+Morphology: Cone (next start)=形态：锥形（下次启动）
+Morphology: Stovepipe (next start)=形态：烟囱状（下次启动）
+Morphology: Wedge (next start)=形态：楔形（下次启动）
+Morphology: RainWrappedWedge (next start)=形态：雨幕楔形（下次启动）
+Morphology: ViolentBroad (next start)=形态：暴力宽幅（下次启动）
+Morphology: Rope (next start)=形态：绳状（下次启动）
+Morphology: Cone=形态：锥形
+Morphology: Stovepipe=形态：烟囱状
+Morphology: Wedge=形态：楔形
+Morphology: RainWrappedWedge=形态：雨幕楔形
+Morphology: ViolentBroad=形态：暴力宽幅
+Morphology: Rope=形态：绳状
+r:"Storm motion: ([\d.]+)x \(next start\)" = "风暴移动速度：$1x（下次启动）"
+r:"^Storm motion: ([\d.]+)x$" = "风暴移动速度：$1x"
+Direction: right (next start)=方向：右侧（下次启动）
+Direction: left (next start)=方向：左侧（下次启动）
+Direction: right=方向：右侧
+Direction: left=方向：左侧
+r:"Storm phase duration: ([\d.]+)x \(next start\)" = "风暴阶段持续时间：$1x（下次启动）"
+r:"^Storm phase duration: ([\d.]+)x$" = "风暴阶段持续时间：$1x"
+r:"Tornado encounter duration: ([\d.]+)x \(next start\)" = "龙卷风遭遇持续时间：$1x（下次启动）"
+r:"^Tornado encounter duration: ([\d.]+)x$" = "龙卷风遭遇持续时间：$1x"
+r:"Destruction: ([\d.]+)x \(next start\)" = "破坏力：$1x（下次启动）"
+r:"^Destruction: ([\d.]+)x$" = "破坏力：$1x"
+Diagnostics: Off=诊断：关
+Diagnostics: Summary=诊断：摘要
+Diagnostics: Visual=诊断：可视化
+Stormwall diagnostics: Off=风暴墙诊断：关
+Stormwall diagnostics: Summary=风暴墙诊断：摘要
+Stormwall diagnostics: Visual=风暴墙诊断：可视化
+Advance stage=推进阶段
+
+Open the complete Stormwall settings interface.=打开完整的风暴墙设置界面.
+Open the complete Stormwall settings interface=打开完整的风暴墙设置界面
+Global settings and safety controls  |  F7 closes this panel=全局设置与安全控制 | F7关闭此面板
+Graphics: Balanced=画质：平衡
+Graphics: Performance=画质：性能
+Graphics: Cinematic=画质：电影级
+Graphics: High=画质：高
+Physics budget: Standard=物理预算：标准
+Physics budget: Low=物理预算：低
+Physics budget: Extreme=物理预算：极限
+Physics budget: High=物理预算：高
+r:"Master volume: ([\d.]+)" = "主音量：$1"
+r:"Camera shake: ([\d.]+)" = "镜头震动：$1"
+Rain wetness: on=雨水湿润度：开
+Rain wetness: off=雨水湿润度：关
+Cosmetic hail: on=装饰性冰雹：开
+Cosmetic hail: off=装饰性冰雹：关
+Dangerous lightning: off=危险闪电：关
+Dangerous lightning: on=危险闪电：开
+EF4/EF5 releases frozen structures: off=EF4/EF5释放冻结结构：关
+EF4/EF5 releases frozen structures: on=EF4/EF5释放冻结结构：开
+r:"Physical wind strength: ([\d.]+)x" = "物理风力强度：$1x"
+Protect spring/distance/hinge joints: off=保护弹簧/距离/铰链关节：关
+Protect spring/distance/hinge joints: on=保护弹簧/距离/铰链关节：开
+Protect fixed/steel joints: off=保护固定/钢制关节：关
+Protect fixed/steel joints: on=保护固定/钢制关节：开
+Protect ground anchors: off=保护地面锚点：关
+Protect ground anchors: on=保护地面锚点：开
+Protect wires/bandages/bindings: off=保护绳索/绷带/绑带：关
+Protect wires/bandages/bindings: on=保护绳索/绷带/绑带：开
