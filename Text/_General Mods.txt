@@ -66,6 +66,11 @@ control=控制
 General=通用
 
 
+//占位
+i=i
+o=o
+
+
 
 
 
@@ -17025,34 +17030,34 @@ LOCAL POSITION=本地位置
 
 
 
-//373*
+//373*Stormwall: Severe Weather_风暴墙：恶劣天气
 <noparse>Stormwall: Severe Weather</noparse>=<noparse>风暴墙：恶劣天气</noparse>
-A cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, progressive destruction, long-range rain, lightning, steering, and original audio.=一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、渐进式破坏、远距离降雨、闪电、引导控制以及原创音效。
-<size%3D1.5em>Stormwall: Severe Weather</size>\nA cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, progressive destruction, long-range rain, lightning, steering, and original audio.\n<noparse>A mod by bobobebra for game version 1.27.15</noparse>=<size%3D1.5em>风暴墙：恶劣天气</size>\n一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、渐进式破坏、远距离降雨、闪电、引导控制以及原创音效。\n<noparse>由 bobobebra 制作的模组，适用于游戏版本 1.27.15</noparse>
+A cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, progressive destruction, long-range rain, lightning, steering, and original audio.=一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、渐进式破坏、远距离降雨、闪电、引导控制以及原创音效. 
+<size%3D1.5em>Stormwall: Severe Weather</size>\nA cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, progressive destruction, long-range rain, lightning, steering, and original audio.\n<noparse>A mod by bobobebra for game version 1.27.15</noparse>=<size%3D1.5em>风暴墙：恶劣天气</size>\n一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、渐进式破坏、远距离降雨、闪电、引导控制以及原创音效. \n<noparse>由 bobobebra 制作的模组，适用于游戏版本 1.27.15</noparse>
 
 
 //物品栏
-<b>Stormwall Severe Weather</b>\r\nEvolving severe thunderstorms and physically inspired tornado encounters.=<b>风暴墙 恶劣天气</b>\r\n动态演变的强雷暴与物理启发的龙卷风遭遇。
+<b>Stormwall Severe Weather</b>\r\nEvolving severe thunderstorms and physically inspired tornado encounters.=<b>风暴墙 恶劣天气</b>\r\n动态演变的强雷暴与物理启发的龙卷风遭遇. 
 
-<b>Stormwall - Developing Supercell</b>\r\nA complete cinematic supercell and classic tornado lifecycle.=<b>风暴墙 - 发展中的超级单体</b>\r\n完整的电影级超级单体与经典龙卷风生命周期。
+<b>Stormwall - Developing Supercell</b>\r\nA complete cinematic supercell and classic tornado lifecycle.=<b>风暴墙 - 发展中的超级单体</b>\r\n完整的电影级超级单体与经典龙卷风生命周期. 
 
-<b>Stormwall - Severe Thunderstorm - No Tornado</b>\r\nA full severe storm with rain, lightning and damaging straight-line wind.=<b>风暴墙 - 强雷暴 - 无龙卷风</b>\r\n包含降雨、闪电和破坏性直线风的完整强风暴。
+<b>Stormwall - Severe Thunderstorm - No Tornado</b>\r\nA full severe storm with rain, lightning and damaging straight-line wind.=<b>风暴墙 - 强雷暴 - 无龙卷风</b>\r\n包含降雨、闪电和破坏性直线风的完整强风暴. 
 
-<b>Stormwall - Rope Tornado</b>\r\nA narrow, sinuous but dangerous tornado with a dirty ground circulation.=<b>风暴墙 - 绳状龙卷风</b>\r\n狭窄、蜿蜒但危险的龙卷风，伴有肮脏的地面环流。
+<b>Stormwall - Rope Tornado</b>\r\nA narrow, sinuous but dangerous tornado with a dirty ground circulation.=<b>风暴墙 - 绳状龙卷风</b>\r\n狭窄、蜿蜒但危险的龙卷风，伴有肮脏的地面环流. 
 
-<b>Stormwall - Classic Cone Tornado</b>\r\nA balanced complete storm and tornado encounter.=<b>风暴墙 - 经典锥形龙卷风</b>\r\n平衡完整的风暴与龙卷风遭遇。
+<b>Stormwall - Classic Cone Tornado</b>\r\nA balanced complete storm and tornado encounter.=<b>风暴墙 - 经典锥形龙卷风</b>\r\n平衡完整的风暴与龙卷风遭遇. 
 
-<b>Stormwall - Stovepipe Tornado</b>\r\nA tall, persistent circulation with strong sustained loading.=<b>风暴墙 - 烟囱状龙卷风</b>\r\n高耸、持久的环流，具有强烈的持续载荷。
+<b>Stormwall - Stovepipe Tornado</b>\r\nA tall, persistent circulation with strong sustained loading.=<b>风暴墙 - 烟囱状龙卷风</b>\r\n高耸、持久的环流，具有强烈的持续载荷. 
 
-<b>Stormwall - Wedge Tornado</b>\r\nA massive broad tornado designed to become an engulfing wall at close range.=<b>风暴墙 - 楔形龙卷风</b>\r\n巨大的宽幅龙卷风，旨在近距离形成吞噬性的风墙。
+<b>Stormwall - Wedge Tornado</b>\r\nA massive broad tornado designed to become an engulfing wall at close range.=<b>风暴墙 - 楔形龙卷风</b>\r\n巨大的宽幅龙卷风，旨在近距离形成吞噬性的风墙. 
 
-<b>Stormwall - Rain-Wrapped Wedge</b>\r\nA violent wedge obscured by dense wrapping precipitation.=<b>风暴墙 - 雨幕楔形龙卷风</b>\r\n被密集包裹性降水遮蔽的猛烈楔形龙卷风。
+<b>Stormwall - Rain-Wrapped Wedge</b>\r\nA violent wedge obscured by dense wrapping precipitation.=<b>风暴墙 - 雨幕楔形龙卷风</b>\r\n被密集包裹性降水遮蔽的猛烈楔形龙卷风. 
 
-<b>Stormwall - Violent Multi-Vortex</b>\r\nAn extreme broad parent circulation with three bounded transient subvortices.=<b>风暴墙 - 猛烈多涡旋龙卷风</b>\r\n极端的宽幅母体环流，带有三个有界的短暂子涡旋。
+<b>Stormwall - Violent Multi-Vortex</b>\r\nAn extreme broad parent circulation with three bounded transient subvortices.=<b>风暴墙 - 猛烈多涡旋龙卷风</b>\r\n极端的宽幅母体环流，带有三个有界的短暂子涡旋. 
 
-<b>Stormwall - Dust Devil</b>\r\nA small, weak dry whirlwind with a compact rotating debris field.=<b>风暴墙 - 尘卷风</b>\r\n小型、微弱的干燥旋风，带有紧凑的旋转碎屑场。
+<b>Stormwall - Dust Devil</b>\r\nA small, weak dry whirlwind with a compact rotating debris field.=<b>风暴墙 - 尘卷风</b>\r\n小型、微弱的干燥旋风，带有紧凑的旋转碎屑场. 
 
-<b>Stormwall - Settings Console</b>\r\nGlobal quality, physics, sound, camera and diagnostics controls for Stormwall.=<b>风暴墙 - 设置控制台</b>\r\n风暴墙的全局画质、物理、音效、视角和诊断控制。
+<b>Stormwall - Settings Console</b>\r\nGlobal quality, physics, sound, camera and diagnostics controls for Stormwall.=<b>风暴墙 - 设置控制台</b>\r\n风暴墙的全局画质、物理、音效、视角和诊断控制. 
 
 
 Open Stormwall Control Panel [F7]=打开风暴墙控制面板 [F7]
@@ -17082,7 +17087,7 @@ Restore automatic drift=恢复自动漂移
 Dissipate storm=消散风暴
 r:"^Intensity: T(\d+) / EF-like \(next start\)$" = "强度：T$1 / 类似EF级（下次启动）"
 r:"^Intensity: T(\d+) / EF-like$" = "强度：T$1 / 类似EF级"
-Stormwall control change applies on the next start.=风暴墙控制更改将在下次启动时生效。
+Stormwall control change applies on the next start.=风暴墙控制更改将在下次启动时生效. 
 Morphology: Cone (next start)=形态：锥形（下次启动）
 Morphology: Stovepipe (next start)=形态：烟囱状（下次启动）
 Morphology: Wedge (next start)=形态：楔形（下次启动）
@@ -17145,3 +17150,85 @@ Protect ground anchors: off=保护地面锚点：关
 Protect ground anchors: on=保护地面锚点：开
 Protect wires/bandages/bindings: off=保护绳索/绷带/绑带：关
 Protect wires/bandages/bindings: on=保护绳索/绷带/绑带：开
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//374*夜间游乐场_Night Time Playground
+<noparse>Night Time Playground</noparse>=<noparse>夜间游乐场</noparse>
+Makes it night.\n\nComes with a moon you can recolour and resize, stars, fireflies over the water, and crickets.\n\nPress N to toggle night. Everything else is in the Environment tab.=将场景变为夜晚. \n\n附带一个月亮（可重新着色和调整大小）、星星、水面上的萤火虫以及蟋蟀声. \n\n按N键切换昼夜. 其余选项均在“环境”选项卡中. 
+<size%3D1.5em>Night Time Playground</size>\nMakes it night.\n\nComes with a moon you can recolour and resize, stars, fireflies over the water, and crickets.\n\nPress N to toggle night. Everything else is in the Environment tab.\n<noparse>A mod by Jayraiya for game version 1.27.7</noparse>=<size%3D1.5em>夜间游乐场</size>\n将场景变为夜晚. \n\n附带一个月亮（可重新着色和调整大小）、星星、水面上的萤火虫以及蟋蟀声. \n\n按N键切换昼夜. 其余选项均在“环境”选项卡中. \n<noparse>由 Jayraiya 制作的模组，适用于游戏版本 1.27.7</noparse>
+
+Nightfall=夜幕降临
+Sunrise=日出
+
+Night=夜晚
+Turn night on. Everything the lights do not reach goes dark, so fires, explosions and lamps start to matter.=开启夜晚. 灯光照不到的一切都会变暗，因此火焰、爆炸和灯具会变得至关重要. 
+Day and night cycle=昼夜循环
+Let time run on its own. The moon rises, crosses the sky and sets, and the light follows it.=让时间自行流逝. 月亮升起、划过天空并落下，光线随之变化. 
+Cycle length (minutes)=循环时长（分钟）
+How long a full day and night takes in real minutes, when the cycle is running.=循环运行时，一个完整的昼夜需要多少现实分钟. 
+Darkness=黑暗程度
+How dark night gets, from 0 to 1. Lower it if you want dusk rather than pitch black.=夜晚的黑暗程度，从0到1. 如果希望黄昏而非漆黑，请降低此值. 
+Moon=月亮
+Show the moon.=显示月亮. 
+Moon colour=月亮颜色
+Pick the moon's colour. The moonlight falling on the world is tinted to match, so this recolours the whole night.=选择月亮的颜色. 落在地面上的月光会匹配此颜色，因此这将改变整个夜晚的色调. 
+Moon size=月亮大小
+How big the moon is, relative to normal.=月亮相对于正常值的大小. 
+Moon height=月亮高度
+How high the moon hangs, from 0 just above the ground to 1 far overhead. It is a real place in the world, so you can pan up to it. Ignored while the cycle is running.=月亮悬挂的高度，从0（刚在地面上方）到1（高悬头顶）. 月亮是实际存在于世界中的实体，你可以将视角向上平移看到它. 循环运行时此设置无效. 
+Moon position=月亮位置
+Where the moon sits across the map, from 0 left to 1 right. Ignored while the cycle is running.=月亮在地图上的位置，从0（左侧）到1（右侧）. 循环运行时此设置无效. 
+Moon phase=月相
+0 is a new moon, 0.5 is full, 1 is new again. A thin crescent gives much less light.=0为新月，0.5为满月，1重新回到新月. 弯月的光线要弱得多. 
+Moonlight=月光
+How much light the moon throws onto the world.=月亮投射到世界上的光线强度. 
+Stars=星星
+Draw a starfield behind the map, with a milky way band.=在地图后方绘制星空，带有银河带. 
+Star size=星星大小
+Scales the stars, relative to normal. Turn it down if they are too loud.=星星相对于正常值的大小. 如果它们太过显眼，可以调低此值. 
+Shooting stars=流星
+Let the occasional meteor cross the sky.=允许偶尔有流星划过天空. 
+Fireflies=萤火虫
+How many fireflies drift over the water at night, relative to normal. 0 turns them off. On maps with no water they gather over the ground instead.=夜晚在水面上漂浮的萤火虫数量，相对于正常值. 0为关闭. 在没有水面的地图上，它们会聚集在地面上方. 
+Floodlight brightness=泛光照明亮度
+What the map's own floodlights fade down to at night, from 0 to 1. They are the brightest thing on most maps, so keep this low. 0 switches them off entirely.=地图自带泛光灯在夜晚的亮度，从0到1. 它们是大多数地图上最亮的光源，因此请保持较低值. 0会完全关闭它们. 
+Night mist=夜间薄雾
+Bring in a low mist once it is properly dark.=在天色足够暗时引入低空薄雾. 
+Night ambience=夜间环境音
+Volume of the crickets, wind and the occasional owl, from 0 to 1. 0 is silent.=蟋蟀、风声和偶尔猫头鹰叫声的音量，从0到1，0为静音. 
+
+
+
+
+
+
+
+
+
+//375*水面反射_Reflective Water
+<noparse>Reflective Water</noparse>=<noparse>水面反射</noparse>
+Adds reflections to water. Settings are in the Environment tab.=为水面添加反射效果。设置位于“环境”选项卡中。
+<size%3D1.5em>Reflective Water</size>\nAdds reflections to water. Settings are in the Environment tab.\n<noparse>A mod by Jayraiya for game version 1.27.7</noparse>=<size%3D1.5em>水面反射</size>\n为水面添加反射效果。设置位于“环境”选项卡中。\n<noparse>由 Jayraiya 制作的模组，适用于游戏版本 1.27.7</noparse>
+Water reflections=水面反射
+On or off.=开启或关闭. 
+Reflection strength=反射强度
+How bright the reflection is.=反射的明亮程度. 
+Reflection depth=反射深度
+How deep the reflection goes.=反射的深度. 
+Water tint=水面颜色
+How much water colour tints the reflection.=水面颜色对反射的着色程度. 
+Reflection quality=反射质量
+Lower this if it tanks your fps.=如果这导致帧数下降，请降低此值. 

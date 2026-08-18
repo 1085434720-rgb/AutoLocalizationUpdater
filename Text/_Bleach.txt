@@ -1294,38 +1294,24 @@ Main Hypnosis Mode=镜花水月主要模式
 Main Hypnosis Mode Selection=镜花水月主要模式选项
 Second Hypnosis Mode=第二镜花水月模式
 Second Hypnosis Mode Selection=第二镜花水月模式选项
-Current: None=当前: 无
+sr:"^Current: (.*?)$" = "当前: $1"
 HealPerson=治愈之人
-Current: HealPerson=当前: 治愈之人
 MakeClone=制造克隆
-Current: MakeClone=当前: 制造克隆
 SkinClone=皮肤克隆
-Current: SkinClone=当前: 皮肤克隆
 DamageExchange=伤害交换
-Current: DamageExchange=当前: 伤害交换
 Weaponless=无武器
-Current: Weaponless=当前: 无武器
 RepulseProjectiles=击退投射物
-Current: RepulseProjectiles=当前: 击退投射物
 MomentSave=瞬间保存
-Current: MomentSave=当前: 瞬间保存
 HideUser=隐藏用户
-Current: HideUser=当前: 隐藏用户
 HideSword=隐藏剑
-Current: HideSword=当前: 隐藏剑
 MoveSelected=移动所选
-Current: MoveSelected=当前: 移动所选
 PositionSwitch=位置切换
-Current: PositionSwitch=当前: 位置切换
 PersonReplacement=人物替换
-Current: PersonReplacement=当前: 人物替换
 SpeedBoost=速度提升
-Current: SpeedBoost=当前: 速度提升
 Passive Revive Mode=被动复活模式
 Passive Revive Mode Selection=被动复活模式选项
 Current: Disabled=当前：已禁用
 QuantumImmortality=量子永生
-Current: QuantumImmortality=当前: 量子永生
 Passive Stat Boost=被动属性提升
 Passive Stat Boost Selection=被动属性提升选项
 MaxEnergy=最大能量
@@ -2145,7 +2131,40 @@ Toggle Base Evasion.=切换基础闪避.
 Enable Edit Mode=启用编辑模式
 Are you sure?\nThis character (its current instance on the scene) is being disconnected from the centralized Stages system.\nThis means that all current stages will be copied locally for this character, and it will no longer use Stages from add-on files.\nThis allows you to delete or modify them, perform any actions, and then save them as a contraption.=你确定吗？\n此角色（其在场景中的当前实例）正在从集中的Stages系统中断开连接. \n这意味着该角色的所有当前Stages将被复制到本地，并且它将不再使用附加文件中的Stages. \n这样你就可以删除或修改它们，执行任何操作，然后将其保存为装置. 
 
+
 All characters can punch and kick\r\nEnabled by default\r\n=所有角色都可以拳击和踢击\r\n默认启用\r\n
+
+
+
+//X快捷
+Back (CTRL)=返回 (CTRL)
+
+Main Mode=主要模式
+否ne=无
+Heal Person=治愈之人
+Make Clone=制造克隆
+Skin Clone=皮肤克隆
+Damage Exchange=伤害交换
+Weaponless=无武器
+Repulse Projectiles=击退投射物
+Moment Save=瞬间保存
+Hide User=隐藏用户
+Hide Sword=隐藏剑
+Move Selected=移动所选
+Position Switch=位置切换
+Person Replacement=人物替换
+Speed Boost=速度提升
+
+Second Mode=次要模式
+
+禁用d=已禁用
+Quantum Immortality=量子永生
+
+Fast Abilities=快速能力
+
+
+
+
 
 
 
