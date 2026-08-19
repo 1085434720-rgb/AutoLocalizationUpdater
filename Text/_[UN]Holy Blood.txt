@@ -1,6 +1,5 @@
 //*TF_RC汉化
-[UN]Holy Blood Beta 3.0=[UN]圣血Beta3.0
-[UN]Holy Blood Beta 3.5=[UN]圣血Beta3.5
+r:"^\[UN\]Holy Blood Beta ([\d.]+)$" = "[UN]圣血Beta $1"
 <b>[UN]Holy Blood</b>\r\nContains all humans and items related to [UN]Holy Blood.=<b>[UN]圣血TF_RC汉化</b>\r\n包含所有与 [UN]圣血 相关的人类和物品.
 
 

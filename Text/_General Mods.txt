@@ -67,8 +67,8 @@ General=通用
 
 
 //占位
-i=i
-o=o
+I=I
+O=O
 
 
 
@@ -16958,7 +16958,7 @@ BALANCE MULTIPLIER=平衡倍率
 SYSTEM=系统
 CENSOR CONFIG=审查配置
 FACE CENSOR=面部审查
-SCRAMBLE=扰码
+SCRAMBLE=加密
 PIXELATED=像素化
 CENSOR COLOR=审查颜色
 CHANGE COLOR=更改颜色
@@ -17237,3 +17237,96 @@ Water tint=水面颜色
 How much water colour tints the reflection.=水面颜色对反射的着色程度. 
 Reflection quality=反射质量
 Lower this if it tanks your fps.=如果这导致帧数下降，请降低此值. 
+
+
+
+
+
+
+
+
+
+
+//376*调试绘制模组_Debug Draw Mod
+<noparse>Debug Draw Mod</noparse>=<noparse>调试绘制模组</noparse>
+Visualizes object colliders and joints. Check the controls menu for how to use it.=可视化物体的碰撞体和关节。查看控制菜单了解使用方法。
+<size%3D1.5em>Debug Draw Mod</size>\nVisualizes object colliders and joints. Check the controls menu for how to use it.\n<noparse>A mod by Amy for game version 1.27</noparse>=<size%3D1.5em>调试绘制模组</size>\n可视化物体的碰撞体和关节。查看控制菜单了解使用方法。\n<noparse>由 Amy 制作的模组，适用于游戏版本 1.27</noparse>
+
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: UI Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：UI已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: UI Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：UI已隐藏
+
+<size%3D1.5em><color%3D#30d87f>Debug Draw Config Menu<color%3D#ffffff><size%3D1em>=<size%3D1.5em><color%3D#30d87f>调试绘制配置菜单<color%3D#ffffff><size%3D1em>
+Colliders=碰撞体
+Enable / Disable <color%3D#00d682>Box<color%3D#ffffff> Colliders.=启用/禁用 <color%3D#00d682>方块<color%3D#ffffff> 碰撞体
+Enable / Disable <color%3D#00d682>Circle<color%3D#ffffff> Colliders.=启用/禁用 <color%3D#00d682>圆形<color%3D#ffffff> 碰撞体
+Enable / Disable <color%3D#00d682>Edge<color%3D#ffffff> Colliders.=启用/禁用 <color%3D#00d682>边缘<color%3D#ffffff> 碰撞体
+Enable / Disable <color%3D#00d682>Polygon<color%3D#ffffff> Colliders.=启用/禁用 <color%3D#00d682>多边形<color%3D#ffffff> 碰撞体
+Enable / Disable <color%3D#00d682>Capsule<color%3D#ffffff> Colliders.=启用/禁用 <color%3D#00d682>胶囊<color%3D#ffffff> 碰撞体
+Enable / Disable <color%3D#00d682>Triggers<color%3D#ffffff>.=启用/禁用 <color%3D#00d682>触发器<color%3D#ffffff>
+Enable / Disable <color%3D#00d682>Grid Points<color%3D#ffffff>.=启用/禁用 <color%3D#00d682>网格点<color%3D#ffffff>
+Joints=关节
+Enable / Disable <color%3D#00d682>Hinge<color%3D#ffffff> Joints.=启用/禁用 <color%3D#00d682>铰链<color%3D#ffffff> 关节
+Enable / Disable <color%3D#00d682>Fixed<color%3D#ffffff> Joints.=启用/禁用 <color%3D#00d682>固定<color%3D#ffffff> 关节
+Enable / Disable <color%3D#00d682>Wheel<color%3D#ffffff> Joints.=启用/禁用 <color%3D#00d682>车轮<color%3D#ffffff> 关节
+Enable / Disable <color%3D#00d682>Spring<color%3D#ffffff> Joints.=启用/禁用 <color%3D#00d682>弹簧<color%3D#ffffff> 关节
+Enable / Disable <color%3D#00d682>Distance<color%3D#ffffff> Joints.=启用/禁用 <color%3D#00d682>距离<color%3D#ffffff> 关节
+Enable / Disable <color%3D#00d682>Relative<color%3D#ffffff> Joints.=启用/禁用 <color%3D#00d682>相对<color%3D#ffffff> 关节
+Enable / Disable <color%3D#00d682>Slider<color%3D#ffffff> Joints.=启用/禁用 <color%3D#00d682>滑动<color%3D#ffffff> 关节
+Enable / Disable <color%3D#00d682>Friction<color%3D#ffffff> Joints.=启用/禁用 <color%3D#00d682>摩擦<color%3D#ffffff> 关节
+Misc.=杂项.
+Enable / Disable <color%3D#00d682>Rainbow Mode<color%3D#ffffff>.=启用/禁用 <color%3D#00d682>彩虹模式<color%3D#ffffff>
+Show / Hide <color%3D#00d682>Vital Parts<color%3D#ffffff> (used for damage calcs)=显示/隐藏 <color%3D#00d682>重要部位<color%3D#ffffff>（用于伤害计算）
+Show / Hide <color%3D#00d682>Arteries<color%3D#ffffff> (used for damage calcs)=显示/隐藏 <color%3D#00d682>动脉<color%3D#ffffff>（用于伤害计算）
+Show / Hide <color%3D#00d682>Invisible Objects<color%3D#ffffff>.=显示/隐藏 <color%3D#00d682>不可见物体<color%3D#ffffff>
+Show / Hide <color%3D#00d682>Transform Objects<color%3D#ffffff>.=显示/隐藏 <color%3D#00d682>变换物体<color%3D#ffffff>
+
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Colliders Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：碰撞体已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Colliders Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：碰撞体已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Box Colliders Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：方块碰撞体已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Box Colliders Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：方块碰撞体已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Circle Colliders Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：圆形碰撞体已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Circle Colliders Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：圆形碰撞体已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Edge Colliders Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：边缘碰撞体已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Edge Colliders Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：边缘碰撞体已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Polygon Colliders Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：多边形碰撞体已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Polygon Colliders Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：多边形碰撞体已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Capsule Colliders Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：胶囊碰撞体已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Capsule Colliders Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：胶囊碰撞体已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Triggers Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：触发器已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Triggers Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：触发器已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Grid Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：网格已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Grid Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：网格已显示
+
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：关节已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Hinge Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：铰链关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Hinge Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：铰链关节已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Fixed Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：固定关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Fixed Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：固定关节已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Wheel Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：车轮关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Wheel Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：车轮关节已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Spring Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：弹簧关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Spring Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：弹簧关节已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Distance Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：距离关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Distance Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：距离关节已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Relative Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：相对关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Relative Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：相对关节已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Slider Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：滑动关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Slider Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：滑动关节已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Friction Joints Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：摩擦关节已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Friction Joints Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：摩擦关节已显示
+
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Rainbow Mode <color%3D#5bd832>Enabled<color%3D#ffffff>=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：彩虹模式 <color%3D#5bd832>已启用<color%3D#ffffff>
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Rainbow Mode <color%3D#d83269>Disabled<color%3D#ffffff>=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：彩虹模式 <color%3D#d83269>已禁用<color%3D#ffffff>
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Rainbow Mode Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：彩虹模式已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Rainbow Mode Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：彩虹模式已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Vital Parts Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：重要部位已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Vital Parts Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：重要部位已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Arteries Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：动脉已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Arteries Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：动脉已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Invisible Objects Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：不可见物体已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Invisible Objects Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：不可见物体已显示
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Transform Objects Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：变换物体已隐藏
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Transform Objects Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：变换物体已显示
+
+[<color%3D#30d87f>Debug Draw<color%3D#ffffff>] Open/Close UI=[<color%3D#30d87f>调试绘制<color%3D#ffffff>] 打开/关闭UI
