@@ -2192,6 +2192,7 @@ Domain Expansion=<b><i>领域展开</i></b>
 Domain Expansion.=领域展开.
 Close Domain=<b><i>关闭领域</i></b>
 Close Domain.=关闭领域.
+Please Wait For Domain=请等待领域
 Set Domain Energy Scale=设置领域能量标度
 Set Domain Scale=设置领域比例
 
@@ -3268,6 +3269,7 @@ r:"Get Crushed \((\d+)\)"="碾碎吧 ($1)"
 r:"Crumble Away \((\d+)\)"="崩塌吧 ($1)"
 r:"Blast Away \((\d+)\)"="炸飞吧 ($1)"
 r:"Don't Move \((\d+)\)"="不许动 ($1)"
+r:"Stop \((\d+)\)"="停下 ($1)"
 r:"Sleep \((\d+)\)"="睡吧 ($1)"
 r:"Break apart \((\d+)\)"="分裂 ($1)"
 r:"Look At Me \((\d+)\)"="看着我 ($1)"
@@ -3278,6 +3280,7 @@ sr:"^current: (.*?)$" = "当前：$1"
 Balance Mode Selection=平衡模式选择
 OnlyEnergy=仅能量
 EnergyAndPhysical=能量与物理
+r:"\[M Speech\] Not enough energy! Need: ([\d.]+)" = "[M 咒言术] 能量不足！需要：$1"
 
 [M] Shadow Step=[M] 影步
 Enable [M] Shadow Step=<color%3D#00FF00FF>启用 [M] 影步
