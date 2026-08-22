@@ -4887,7 +4887,7 @@ Adds Invincible into PPG but different this time!=将无敌少侠加入PPG，但
 
 <b>[Nova's Invincible Mod Revamped] Flaxan Leader</b>.\r\n=<b>[Nova的无敌少侠模组 重制版] 弗拉克森首领</b>.\r\n
 
-<b>[Nova's Invincible Mod Revamped] The Immortal</b>.\r\n=<b>[Nova的无敌少侠模组 重制版] 不朽战神</b>.\r\n
+<b>[Nova's Invincible Mod Revamped] The Immortal</b>.\r\n=<b>[Nova的无敌少侠模组 重制版] 永生侠</b>.\r\n
 
 <b>[Nova's Invincible Mod Revamped] Darkwing</b>.\r\n=<b>[Nova的无敌少侠模组 重制版] 暗夜翼</b>.\r\n
 
@@ -4947,7 +4947,13 @@ Redirects His Belt Through his Arm To Use In Defense=将他的腰带通过手臂
 <align%3Dcenter>Head Cannon</align>=<align%3Dcenter>头部加农炮</align>
 Shoots a powerful energy blast out of the head.=从头部发射强大的能量冲击波。
 
+<align%3Dcenter>Atomic Telekinesis</align>=<align%3Dcenter>原子念力</align>
+Hold the activation key to make any object in front of the user's arm float\n<color%3D"yellow">This power also suffocates any object held with telekinesis</color>=按住激活键使使用者手臂前方的任何物体悬浮\n<color%3D"yellow">此能力还会使被念力抓住的任何物体窒息</color>
 
+<align%3Dcenter>Wall Construct</align>=<align%3Dcenter>墙壁构筑</align>
+Creates a frozen wall in front of the user.\n\n<color%3D"yellow">Activate to place the wall.=在使用者前方生成一堵冰墙。\n\n<color%3D"yellow">激活以放置墙壁。
+
+<align%3Dcenter>Shard Construct</align>=<align%3Dcenter>碎片构筑</align>
 
 
 

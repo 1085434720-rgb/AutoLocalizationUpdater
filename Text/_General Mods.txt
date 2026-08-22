@@ -16905,6 +16905,7 @@ WALK SPEED=行走速度
 SWIM SPEED=游泳速度
 JUMP POWER=跳跃力度
 CLIMB SPEED=攀爬速度
+CLIMB LIMIT=攀爬限制
 
 AI TIMING=AI时机
 WAIT TIME=等待时间
@@ -16928,6 +16929,7 @@ THROW CHANCE=投掷几率
 THROW MULTIPLIER=投掷倍率
 LUNGE ENABLED=突进已启用
 LUNGE INTERVAL=突进间隔
+LUNGE POWER=突进力量
 DIGGING ENABLED=挖掘已启用
 FRIENDLY FIRE=友军伤害
 AI ENABLED=AI已启用
@@ -16954,16 +16956,34 @@ MISC=杂项
 AUDIO SETTINGS=音频设置
 SCP-096 SOUNDS=SCP-096音效
 GLOBAL VOLUME=全局音量
+
+RAGE SHAKING=愤怒震颤
+SHAKE ENABLED=震颤已启用
+SHAKE MULTIPLIER=震颤倍率
+
 BALANCE MULTIPLIER=平衡倍率
+
 SYSTEM=系统
 CENSOR CONFIG=审查配置
 FACE CENSOR=面部审查
 SCRAMBLE=加密
 PIXELATED=像素化
+SCRIBBLE=涂鸦
+AMOUNT=数量
+SPEED=速度
+ROUGHNESS=粗糙度
+SCRIBBLE COLOR=涂鸦颜色
 CENSOR COLOR=审查颜色
 CHANGE COLOR=更改颜色
 He forgot to add a title=他忘记添加标题
 He forgot to add a description text=他忘记添加描述文本
+
+BEHAVIOR=行为
+TRACKING MODE=追踪模式
+EDIT LAYER (Z-INDEX)=编辑层级（Z轴索引）
+RESIZE=调整大小
+ROTATE=旋转
+
 CENSOR SIZE=审查大小
 OFFSET X=X偏移
 OFFSET Y=Y偏移
@@ -17037,9 +17057,8 @@ LOCAL POSITION=本地位置
 
 //373*Stormwall: Severe Weather_风暴墙：恶劣天气
 <noparse>Stormwall: Severe Weather</noparse>=<noparse>风暴墙：恶劣天气</noparse>
-A cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, progressive destruction, long-range rain, lightning, steering, and original audio.=一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、渐进式破坏、远距离降雨、闪电、引导控制以及原创音效. 
-<size%3D1.5em>Stormwall: Severe Weather</size>\nA cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, progressive destruction, long-range rain, lightning, steering, and original audio.\n<noparse>A mod by bobobebra for game version 1.27.15</noparse>=<size%3D1.5em>风暴墙：恶劣天气</size>\n一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、渐进式破坏、远距离降雨、闪电、引导控制以及原创音效. \n<noparse>由 bobobebra 制作的模组，适用于游戏版本 1.27.15</noparse>
-
+A cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, an optional violent structural override, long-range rain, lightning, steering, and original audio.=一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、可选的猛烈结构覆写、远距离降雨、闪电、引导控制以及原创音效。
+<size%3D1.5em>Stormwall: Severe Weather</size>\nA cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, an optional violent structural override, long-range rain, lightning, steering, and original audio.\n<noparse>A mod by bobobebra for game version 1.27.17</noparse>=<size%3D1.5em>风暴墙：恶劣天气</size>\n一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、可选的猛烈结构覆写、远距离降雨、闪电、引导控制以及原创音效。\n<noparse>由 bobobebra 制作的模组，适用于游戏版本 1.27.17</noparse>
 
 //物品栏
 <b>Stormwall Severe Weather</b>\r\nEvolving severe thunderstorms and physically inspired tornado encounters.=<b>风暴墙 恶劣天气</b>\r\n动态演变的强雷暴与物理启发的龙卷风遭遇. 
