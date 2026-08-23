@@ -17034,7 +17034,18 @@ SIZE MULTIPLIER=大小倍率
 OFFSET=偏移
 LOCAL POSITION=本地位置
 
-
+EDIT CENSOR LAYER=编辑审查层
+sr:"^CATEGORY: (.*?)$" = "分类：$1"
+TOP=顶部
+MIDDLE=中间
+DEFAULT=默认
+BACKGROUND=背景
+r:"BRING TO FRONT\(\+32767\)" = "移至最前（+32767）"
+r:"MOVE UP \(\+1\)" = "上移（+1）"
+r:"MOVE DOWN \(-1\)" = "下移（-1）"
+r:"SEND TO BACK \(-32768\)" = "移到最后（-32768）"
+RESET (DEFAULT 15)=重置（默认15）
+CLOSE=关闭
 
 
 
