@@ -17068,8 +17068,8 @@ CLOSE=关闭
 
 //373*Stormwall: Severe Weather_风暴墙：恶劣天气
 <noparse>Stormwall: Severe Weather</noparse>=<noparse>风暴墙：恶劣天气</noparse>
-A cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, an optional violent structural override, long-range rain, lightning, steering, and original audio.=一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、可选的猛烈结构覆写、远距离降雨、闪电、引导控制以及原创音效。
-<size%3D1.5em>Stormwall: Severe Weather</size>\nA cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, an optional violent structural override, long-range rain, lightning, steering, and original audio.\n<noparse>A mod by bobobebra for game version 1.27.17</noparse>=<size%3D1.5em>风暴墙：恶劣天气</size>\n一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、可选的猛烈结构覆写、远距离降雨、闪电、引导控制以及原创音效。\n<noparse>由 bobobebra 制作的模组，适用于游戏版本 1.27.17</noparse>
+A cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, an optional violent structural override, long-range rain, lightning, steering, and original audio.=一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、可选的猛烈结构覆写、远距离降雨、闪电、引导控制以及原创音效. 
+<size%3D1.5em>Stormwall: Severe Weather</size>\nA cinematic severe-weather simulation with enormous rotating tornadoes, a compact dust devil, enclosure-aware wind and breach response, configurable structural protection, an optional violent structural override, long-range rain, lightning, steering, and original audio.\n<noparse>A mod by bobobebra for game version 1.27.17</noparse>=<size%3D1.5em>风暴墙：恶劣天气</size>\n一场电影级的恶劣天气模拟，包含巨大的旋转龙卷风、紧凑的尘卷风、感知封闭空间的风与破口响应、可配置的结构防护、可选的猛烈结构覆写、远距离降雨、闪电、引导控制以及原创音效. \n<noparse>由 bobobebra 制作的模组，适用于游戏版本 1.27.17</noparse>
 
 //物品栏
 <b>Stormwall Severe Weather</b>\r\nEvolving severe thunderstorms and physically inspired tornado encounters.=<b>风暴墙 恶劣天气</b>\r\n动态演变的强雷暴与物理启发的龙卷风遭遇. 
@@ -17255,8 +17255,8 @@ Volume of the crickets, wind and the occasional owl, from 0 to 1. 0 is silent.=�
 
 //375*水面反射_Reflective Water
 <noparse>Reflective Water</noparse>=<noparse>水面反射</noparse>
-Adds reflections to water. Settings are in the Environment tab.=为水面添加反射效果。设置位于“环境”选项卡中。
-<size%3D1.5em>Reflective Water</size>\nAdds reflections to water. Settings are in the Environment tab.\n<noparse>A mod by Jayraiya for game version 1.27.7</noparse>=<size%3D1.5em>水面反射</size>\n为水面添加反射效果。设置位于“环境”选项卡中。\n<noparse>由 Jayraiya 制作的模组，适用于游戏版本 1.27.7</noparse>
+Adds reflections to water. Settings are in the Environment tab.=为水面添加反射效果. 设置位于“环境”选项卡中. 
+<size%3D1.5em>Reflective Water</size>\nAdds reflections to water. Settings are in the Environment tab.\n<noparse>A mod by Jayraiya for game version 1.27.7</noparse>=<size%3D1.5em>水面反射</size>\n为水面添加反射效果. 设置位于“环境”选项卡中. \n<noparse>由 Jayraiya 制作的模组，适用于游戏版本 1.27.7</noparse>
 Water reflections=水面反射
 On or off.=开启或关闭. 
 Reflection strength=反射强度
@@ -17279,8 +17279,8 @@ Lower this if it tanks your fps.=如果这导致帧数下降，请降低此值.
 
 //376*调试绘制模组_Debug Draw Mod
 <noparse>Debug Draw Mod</noparse>=<noparse>调试绘制模组</noparse>
-Visualizes object colliders and joints. Check the controls menu for how to use it.=可视化物体的碰撞体和关节。查看控制菜单了解使用方法。
-<size%3D1.5em>Debug Draw Mod</size>\nVisualizes object colliders and joints. Check the controls menu for how to use it.\n<noparse>A mod by Amy for game version 1.27</noparse>=<size%3D1.5em>调试绘制模组</size>\n可视化物体的碰撞体和关节。查看控制菜单了解使用方法。\n<noparse>由 Amy 制作的模组，适用于游戏版本 1.27</noparse>
+Visualizes object colliders and joints. Check the controls menu for how to use it.=可视化物体的碰撞体和关节. 查看控制菜单了解使用方法. 
+<size%3D1.5em>Debug Draw Mod</size>\nVisualizes object colliders and joints. Check the controls menu for how to use it.\n<noparse>A mod by Amy for game version 1.27</noparse>=<size%3D1.5em>调试绘制模组</size>\n可视化物体的碰撞体和关节. 查看控制菜单了解使用方法. \n<noparse>由 Amy 制作的模组，适用于游戏版本 1.27</noparse>
 
 [<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: UI Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：UI已显示
 [<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: UI Hidden=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：UI已隐藏
@@ -17360,3 +17360,69 @@ Show / Hide <color%3D#00d682>Transform Objects<color%3D#ffffff>.=显示/隐藏 <
 [<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Transform Objects Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：变换物体已显示
 
 [<color%3D#30d87f>Debug Draw<color%3D#ffffff>] Open/Close UI=[<color%3D#30d87f>调试绘制<color%3D#ffffff>] 打开/关闭UI
+
+
+
+
+
+
+
+
+
+//378*终极名称标签赋予器_Ultimate Name Tag Giver
+<noparse>Ultimate Name Tag Giver</noparse>=<noparse>终极名称标签赋予器</noparse>
+you can give things names like nametags from minecraft=你可以像《我的世界》中的命名牌一样为事物命名. 
+<size%3D1.5em>Ultimate Name Tag Giver</size>\n<size%3D140%><color%3D#FFD700><b>Ultimate Name Tag Giver</b></color></size>\r\n\r\n<color%3D#DCDCDC>The <color%3D#00E5FF><b>Ultimate Name Tag Giver</b></color> is a highly customizable nametag system that lets you easily add, edit, and style nametags on characters.</color>\r\n\r\n<color%3D#00E5FF><b>How To Use</b></color>\r\n\r\nSpawn the <color%3D#7CFF00><b>Ultimate Name Tag Giver</b></color> from the <color%3D#FFA726><b>Entities</b></color> category.\r\n\r\n• <color%3D#40C4FF><b>Click a character's head</b></color> to add a nametag.\r\n\r\n• <color%3D#40C4FF><b>Double-click a nametag</b></color> to edit its text.\r\n\r\n• Press <color%3D#FFB300><b>H</b></color> by default while hovering over a nametag or with its character selected to open the settings.\r\n\r\n• You can also open the settings through the character's <color%3D#40C4FF><b>context menu</b></color>.\r\n\r\n————————————————————————————\r\n\r\n<color%3D#FF5252><b>Customization</b></color>\r\n\r\n• <color%3D#FFB300><b>Text</b></color> — Enter any name or text you want.\r\n\r\n• <color%3D#FFB300><b>Colors</b></color> — Customize text colors, including individual selected sections.\r\n\r\n• <color%3D#FFB300><b>Outline</b></color> — Change outline color and thickness.\r\n\r\n• <color%3D#FFB300><b>Typography</b></color> — Change fonts, bold, italic, and other text options.\r\n\r\n• <color%3D#FFB300><b>Transform</b></color> — Change size, stretching, mirroring, rotation, and position.\r\n\r\n• <color%3D#FFB300><b>Opacity</b></color> — Control how transparent the nametag is.\r\n\r\n• <color%3D#FFB300><b>Materials & Shaders</b></color> — Apply different materials or custom shaders.\r\n\r\n• <color%3D#FFB300><b>Keybinds</b></color> — Change or disable the settings keybind.\r\n\r\n• <color%3D#FFB300><b>Random Colors</b></color> — Automatically randomize the color of newly created nametags.\r\n\r\n• <color%3D#FFB300><b>Detail View</b></color> — Choose whether nametags appear in Detail View.\r\n\r\n————————————————————————————\r\n\r\n<color%3D#00E5FF><b>Settings</b></color>\r\n\r\nYour configuration is automatically saved and loaded between sessions.\r\n\r\nYou can also open the configuration folder or reset all settings from the <color%3D#40C4FF><b>SETTINGS</b></color> tab.\r\n\r\n————————————————————————————\r\n\r\n<color%3D#FFD700><b>Support My Work</b></color>\r\n\r\n<u>Patreon:</u> <color%3D#FF6E40>patreon.com/c/uranium255</color>\r\n\r\n<u>Ko-fi:</u> <color%3D#29B6F6>ko-fi.com/uraniumreactor</color>\r\n\r\n<color%3D#9C27B0><b>Uranium's Reactor</b></color>\r\n\r\n<u>Discord:</u> <color%3D#64B5F6>discord.gg/Wnr8HNQMcs</color>\r\n=<size%3D1.5em>终极名称标签赋予器</size>\n<size%3D140%><color%3D#FFD700><b>终极名称标签赋予器</b></color></size>\r\n\r\n<color%3D#DCDCDC><color%3D#00E5FF><b>终极名称标签赋予器</b></color>是一个高度可定制的名称标签系统，让你可以轻松地为角色添加、编辑和样式化名称标签. </color>\r\n\r\n<color%3D#00E5FF><b>使用方法</b></color>\r\n\r\n从<color%3D#FFA726><b>实体</b></color>分类中生成<color%3D#7CFF00><b>终极名称标签赋予器</b></color>. \r\n\r\n• <color%3D#40C4FF><b>点击角色的头部</b></color>以添加名称标签. \r\n\r\n• <color%3D#40C4FF><b>双击名称标签</b></color>以编辑其文本. \r\n\r\n• 默认情况下，在名称标签上悬停或选中其角色时按<color%3D#FFB300><b>H</b></color>键以打开设置. \r\n\r\n• 你也可以通过角色的<color%3D#40C4FF><b>上下文菜单</b></color>打开设置. \r\n\r\n————————————————————————————\r\n\r\n<color%3D#FF5252><b>自定义</b></color>\r\n\r\n• <color%3D#FFB300><b>文本</b></color> — 输入任何你想要的名称或文字. \r\n\r\n• <color%3D#FFB300><b>颜色</b></color> — 自定义文本颜色，包括单独选中的部分. \r\n\r\n• <color%3D#FFB300><b>轮廓</b></color> — 更改轮廓颜色和粗细. \r\n\r\n• <color%3D#FFB300><b>排版</b></color> — 更改字体、粗体、斜体及其他文本选项. \r\n\r\n• <color%3D#FFB300><b>变换</b></color> — 更改大小、拉伸、镜像、旋转和位置. \r\n\r\n• <color%3D#FFB300><b>不透明度</b></color> — 控制名称标签的透明程度. \r\n\r\n• <color%3D#FFB300><b>材质与着色器</b></color> — 应用不同的材质或自定义着色器. \r\n\r\n• <color%3D#FFB300><b>按键绑定</b></color> — 更改或禁用设置按键绑定. \r\n\r\n• <color%3D#FFB300><b>随机颜色</b></color> — 自动随机化新创建名称标签的颜色. \r\n\r\n• <color%3D#FFB300><b>细节视图</b></color> — 选择名称标签是否在细节视图中显示. \r\n\r\n————————————————————————————\r\n\r\n<color%3D#00E5FF><b>设置</b></color>\r\n\r\n你的配置会在会话之间自动保存和加载. \r\n\r\n你也可以从<color%3D#40C4FF><b>设置</b></color>选项卡中打开配置文件夹或重置所有设置. \r\n\r\n————————————————————————————\r\n\r\n<color%3D#FFD700><b>支持我的作品</b></color>\r\n\r\n<u>Patreon:</u> <color%3D#FF6E40>patreon.com/c/uranium255</color>\r\n\r\n<u>Ko-fi:</u> <color%3D#29B6F6>ko-fi.com/uraniumreactor</color>\r\n\r\n<color%3D#9C27B0><b>Uranium's Reactor</b></color>\r\n\r\n<u>Discord:</u> <color%3D#64B5F6>discord.gg/Wnr8HNQMcs</color>
+
+<b>Ultimate Name Tag Giver</b>\r\nClick head to add nametag. Double-click to edit. H for settings.=<b>终极名称标签赋予器</b>\r\n点击头部以添加名称标签. 双击名字以编辑. 在头按H键打开设置. 
+Ultimate Name Tag Giver=终极名称标签赋予器
+
+NAMETAG SETTINGS=名称标签设置
+GENERAL=常规
+INPUT=输入
+TEXT=文本
+RAINBOW SELECTED TEXT=彩虹色选定文本
+COLORS & OUTLINE=颜色与轮廓
+TEXT COLOR=文本颜色
+CHANGE=更改
+[RBW]=[彩虹]
+OUTLINE COLOR=轮廓颜色
+OUTLINE THICKNESS=轮廓粗细
+TRANSFORM=变换
+ROTATION MODE=旋转模式
+FOLLOW=跟随
+MIRROR TEXT=镜像文本
+REMOVE NAMETAG=移除名称标签
+
+TYPOGRAPHY=排版
+FONT FAMILY=字体
+BOLD=粗体
+ITALIC=斜体
+MATERIAL=材质
+
+POSITION=位置
+LAYER OVERRIDE=图层覆盖
+EDIT LAYER=编辑图层
+KEYBINDS=按键绑定
+MENU KEY=菜单键
+GLOBAL PREFS=全局偏好
+DISABLE GIF & ANIMATIONS=禁用 GIF 与动画
+TEXT RAINBOW SPEED=文字彩虹速度
+OUTLINE RAINBOW SPEED=轮廓彩虹速度
+SHOW IN DETAIL VIEW=在细节视图中显示
+RANDOMIZE SPAWN COLOR=随机生成颜色
+SET DEFAULT COLOR=设置默认颜色
+DATA=数据
+RESET CONFIG=重置配置
+
+THEME=主题
+MENU COLORS=菜单颜色
+WINDOW=窗口
+ELEMENTS=元素
+OUTLINES=轮廓
+ACCENT=强调色
+RESET THEME=重置主题
+
+EDIT Z-INDEX=编辑Z轴索引
+r:"^BRING TO FRONT \(\+(\d+)\)$" = "移至最前（+$1）"
+r:"^RESET \(DEFAULT (\d+)\)$" = "重置（默认$1）"
