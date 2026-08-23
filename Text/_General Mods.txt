@@ -9725,6 +9725,15 @@ All changes persist across save / load.=所有更改在保存/加载时都会保
 Got it=收到
 Close this window.=关闭窗口.
 
+Durability Update=耐久度更新
+Advanced durability control for every selected person.=为每个所选人员提供高级耐久度控制。
+HOW TO USE=使用方法
+1. Select one or more people.\n2. Right-click a limb > Advance > Durability Settings.\n3. Edit parameters, then Apply Configuration.=1. 选择一个或多个人物。\n2. 右键点击肢体 > 高级 > 耐久度设置。\n3. 编辑参数，然后应用配置。
+FEATURES=功能
+- 51 controls: health, damage, physics, weapons, and regen.\n- Edits stay staged until Apply Configuration.\n- One click updates every selected person.\n- Settings persist across save and load.=- 51项控制：生命值、伤害、物理、武器和再生。\n- 编辑内容将暂存，直到应用配置。\n- 一键更新每个所选人员。\n- 设置会在保存和加载时持久保留。
+SHARE CONFIGS=分享配置
+Export > share FUI1 text > Import > Apply=导出 > 分享FUI1文本 > 导入 > 应用
+
 //生命
 Stats=状态
 Life Menu=<b><i>生命菜单</b></i>
@@ -9919,6 +9928,7 @@ Show or hide the real-time RuntimeDebug log window.=显示或隐藏实时运行�
 
 //
 Durability Setting=耐久设置
+Edit a staged durability configuration for all selected people.=编辑所有所选人员的暂存耐久度配置.
 Configuration=配置管理
 Parameters=参数配置
 Import Configuration=导入配置
@@ -10047,6 +10057,8 @@ Regeneration Animation Mode=再生动画模式
 Integer enum value of RegenAnimationMode.=RegenAnimationMode 的整数枚举值。
 Severed-Limb Handling Mode=断肢处理模式
 Integer enum value of SeveredLimbHandling.=SeveredLimbHandling 的整数枚举值。
+Convert Destroy to Damage=将“销毁”转换为伤害
+When enabled, external Destroy becomes durability damage. When disabled, Unity destroys directly unless Ignore Destruction is enabled.=启用时，外部“销毁”变为耐久度伤害。禁用时，除非启用了“忽略摧毁”，否则Unity将直接销毁。
 
 
 
