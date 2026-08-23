@@ -9917,6 +9917,150 @@ Toggle saving regeneration state for all selected=切换是否保存所有所选
 Show Debug Console=显示调试控制台
 Show or hide the real-time RuntimeDebug log window.=显示或隐藏实时运行时调试日志窗口.
 
+//
+Durability Setting=耐久设置
+Configuration=配置管理
+Parameters=参数配置
+Import Configuration=导入配置
+Export Configuration=导出配置
+Apply Configuration=应用配置
+r:"^Failed to read the clipboard: (.*?)$" = "读取剪贴板失败：$1"
+Configuration imported into the draft.=配置已导入到草稿。
+r:"^Failed to import configuration: (.*?)$" = "配置导入失败：$1"
+Configuration copied to the clipboard.=配置已导出到剪贴板。
+r:"^Failed to write to the clipboard: (.*?)$" = "写入剪贴板失败：$1"
+r:"^Invalid values: (.*?)$" = "无效值：$1"
+r:"^Applied durability configuration to ([\d.]+) target\(s\)\.$" = "已将耐久配置应用到 $1 个目标。"
+Import an FUI1 configuration string from the system clipboard.=从系统剪贴板导入 FUI1 配置字符串。
+Export the current draft as a string and copy it to the system clipboard.=把当前草稿导出为字符串并复制到系统剪贴板。
+Apply every staged setting to all selected people in one batch.=一次性把所有暂存设置批量应用到全部选中人物。
+Core Stats=核心属性
+Health Multiplier=生命倍率
+Multiplier for initial limb health; values above 1 are allowed.=肢体初始生命值倍率，可大于 1。
+Global Damage Multiplier=全局伤害倍率
+0 grants immunity to normal damage; 1 applies full damage.=0 表示免疫常规伤害，1 表示完整伤害。
+Consciousness Capacity=意识上限倍率
+Consciousness capacity; values above 1 are allowed.=意识容量，可大于 1。
+Hit Reaction Multiplier=受击反应倍率
+Affects shock, numbness, and hit reactions; negative values are allowed.=影响休克、麻木和受击反应，可为负数。
+Ignore Death=忽略死亡
+Prevents the normal death state.=阻止常规死亡状态。
+Frame Limits=帧变化限制
+Health & Status=生命与状态
+Health Loss Fraction Limit=生命损失比例上限
+Maximum fraction of InitialHealth lost per frame; 0 disables it.=每帧最多损失 InitialHealth 的比例；0 表示禁用。
+Absolute Health Loss Limit=生命损失绝对上限
+Maximum absolute Health lost per frame; 0 disables it.=每帧最多损失的绝对 Health；0 表示禁用。
+Consciousness Loss Fraction Limit=意识损失比例上限
+Maximum Consciousness loss fraction per frame; 0 disables it.=每帧 Consciousness 最大损失比例；0 表示禁用。
+Oxygen Loss Fraction Limit=氧气损失比例上限
+Maximum OxygenLevel loss fraction per frame; 0 disables it.=每帧 OxygenLevel 最大损失比例；0 表示禁用。
+Shock Increase Fraction Limit=休克增加比例上限
+Maximum ShockLevel increase fraction per frame; 0 disables it.=每帧 ShockLevel 最大增加比例；0 表示禁用。
+Pain Increase Fraction Limit=疼痛增加比例上限
+Maximum PainLevel increase fraction per frame; 0 disables it.=每帧 PainLevel 最大增加比例；0 表示禁用。
+Blood=血液
+Blood Flow Loss Fraction Limit=血流损失比例上限
+Maximum BloodFlow loss fraction per frame; 0 disables it.=每帧 BloodFlow 最大损失比例；0 表示禁用。
+Blood Volume Loss Fraction Limit=血量损失比例上限
+Maximum blood-volume loss relative to capacity per frame; 0 disables it.=每帧血量相对容量的最大损失比例；0 表示禁用。
+Bleeding Rate Increase Limit=流血速率增加上限
+Maximum BleedingRate increase per frame; 0 disables it.=每帧 BleedingRate 最大增加值；0 表示禁用。
+Internal Bleeding Increase Limit=内出血增加上限
+Maximum InternalBleedingIntensity increase per frame; 0 disables it.=每帧 InternalBleedingIntensity 最大增加值；0 表示禁用。
+Environment=环境
+Absolute Charge Increase Limit=电荷增加绝对上限
+Maximum raw charge increase per frame; 0 disables it.=每帧原始电荷的最大增加值；0 表示禁用。
+Burn Progress Increase Limit=灼烧进度增加比例上限
+Maximum BurnProgress increase fraction per frame; 0 disables it.=每帧 BurnProgress 最大增加比例；0 表示禁用。
+Acid Progress Increase Limit=酸蚀进度增加比例上限
+Maximum AcidProgress increase fraction per frame; 0 disables it.=每帧 AcidProgress 最大增加比例；0 表示禁用。
+Rot Progress Increase Limit=腐烂进度增加比例上限
+Maximum RottenProgress increase fraction per frame; 0 disables it.=每帧 RottenProgress 最大增加比例；0 表示禁用。
+Absolute Temperature Deviation Limit=温差增加绝对上限
+Maximum increase in deviation from safe body temperature per frame; 0 disables it.=每帧温度偏离安全体温的最大增加值；0 表示禁用。
+Physical=物理
+Skin Damage Multiplier=皮肤损伤倍率
+Affects visible skin, burn, and bullet-hole damage.=影响皮肤、灼伤和弹孔损伤表现。
+Collision Damage Multiplier=碰撞伤害倍率
+0 grants immunity to collision damage.=0 表示免疫碰撞伤害。
+Mass Multiplier=质量倍率
+Limb mass multiplier; also participates in strength calculations.=肢体质量倍率，同时参与强度计算。
+Structural Strength Multiplier=结构强度倍率
+Multiplier for base limb strength.=肢体基础强度倍率。
+Breaking Threshold Multiplier=断裂阈值倍率
+Multiplier for the joint breaking threshold.=关节断裂阈值倍率。
+Ignore Slicing=忽略切割
+Blocks normal Slice paths.=阻止常规 Slice 路径。
+Ignore Crushing=忽略粉碎
+Blocks normal Crush and Disintegrate paths.=阻止常规 Crush/Disintegrate 路径。
+Ignore Destruction=忽略销毁
+Prevents external destruction of the limb.=阻止外部销毁该肢体。
+Recovery=恢复
+Allow Bleeding=允许流血
+Enables bleeding and blood-related logic.=是否启用流血和血液相关逻辑。
+Bleeding Multiplier=流血倍率
+0 prevents bleeding increases; 1 applies full bleeding.=0 表示不增加流血，1 表示完整流血。
+Blood Splat Impact Threshold=喷血冲击阈值
+Impact threshold required to trigger blood-splat effects.=触发喷血效果所需的冲击阈值。
+Damage Recovery Rate=伤害恢复速率
+Passive recovery speed for health, oxygen, and related values.=生命、氧气等被动恢复速度。
+Weapon Damage=武器伤害
+Gunshot Damage Multiplier=枪弹伤害倍率
+0 grants immunity to gunshot damage.=0 表示免疫枪弹伤害。
+Gunshot Crush Threshold=枪弹粉碎阈值
+Projectile damage threshold required to trigger crushing.=弹丸触发粉碎所需的伤害阈值。
+Stab Damage Multiplier=穿刺伤害倍率
+0 grants immunity to stab damage.=0 表示免疫刺伤。
+Explosion Damage Multiplier=爆炸伤害倍率
+0 grants immunity to explosion-fragment damage.=0 表示免疫爆炸碎片伤害。
+Vitality Fragment Force=致命碎片力度
+Force threshold at which fragments affect vitality mechanics.=碎片影响生命机制的力度阈值。
+Gunshots Do Not Directly Affect Vitality=枪弹不直接影响生命
+Routes gunshots through local-damage logic first.=枪弹优先走局部损伤逻辑。
+Stabs Do Not Directly Affect Vitality=穿刺不直接影响生命
+Routes stabs through local-damage logic first.=穿刺优先走局部损伤逻辑。
+Ignore Projectiles=忽略弹丸
+Makes multiple projectile and ray paths skip the limb.=让多种弹丸和射线跳过该肢体。
+Ignore Explosions=忽略爆炸
+Ignores explosion fragments and explosion-related destruction.=忽略爆炸碎片和爆炸相关破坏。
+Punch=拳击
+Punch Multiplier=拳击倍率
+Multiplier for punch impulse and damage.=拳击冲量/伤害的乘法倍率。
+Punch Additive=拳击附加值
+Fixed value added to punch calculations.=叠加到拳击计算的固定值。
+Energy=能量
+Charge Effect Multiplier=电荷影响倍率
+0 grants immunity to charge and electrical effects.=0 表示免疫电荷/电击影响。
+Thermal Effect Multiplier=热量影响倍率
+0 grants immunity to burning, acid, and thermal damage.=0 表示免疫燃烧、酸蚀和热伤害。
+Ignore EMP=忽略 EMP
+Makes Android limbs ignore EMP effects.=Android 肢体忽略 EMP 影响。
+Limb Regen=断肢再生
+Enable Limb Regeneration=启用断肢再生
+Registers and enables RegenerationCore.=注册并启用 RegenerationCore。
+Limb Regeneration Rate=肢体再生速率
+HealRate used by the regeneration system.=再生系统的 HealRate。
+Severed-Limb Regeneration Delay=断肢再生延迟
+severedDelay; units are defined by the regeneration system.=severedDelay，单位取决于再生系统。
+Regeneration Animation Mode=再生动画模式
+Integer enum value of RegenAnimationMode.=RegenAnimationMode 的整数枚举值。
+Severed-Limb Handling Mode=断肢处理模式
+Integer enum value of SeveredLimbHandling.=SeveredLimbHandling 的整数枚举值。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

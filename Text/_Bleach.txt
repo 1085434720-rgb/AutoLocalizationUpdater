@@ -2061,7 +2061,7 @@ Impact Frame HotKey=冲击帧框架快捷键
 
 
 
-//*特殊功能按钮补充                                       //不知为何我没有出现这些按钮, 所以这些是群友提供给我的
+//UDBG
 Set 01 standard Layers=设置01标准图层
 [UDBG] Set 01 Standard Layers=[UDBG]01标准图层
 Set Clothes=整理衣服
@@ -2075,6 +2075,25 @@ Remove Feature=移除功能
 [U] Clear Cloth Damage=[U] 清除布料损坏
 [U] Clear Cloth Damage.=[U] 清除布料损坏.
 
+<b>[UNION] Debug Human</b>.\r\n=<b>[UNION] 调试人类</b>.\r\n
+
+Emblem=徽章
+LightSkin=浅色皮肤
+Female=女性
+DarkSkin=深色皮肤
+Flipped=翻转
+Armor=护甲
+Male=男性
+Jacket=夹克
+Hood=兜帽
+Ring_on=戒指_开
+Sleeves_On=袖子_开
+CursedSpeech=咒言
+Element=元素
+Power Ball Evolution=崩玉进化
+Dragon=龙
+Monster_Giant=怪物_巨人
+Helement=元素
 
 
 
