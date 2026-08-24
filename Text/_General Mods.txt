@@ -10072,8 +10072,51 @@ Shares the existing percentage/absolute Health-loss allowance across a timed win
 Health Loss Limit Interval (Seconds)=生命值损失限制间隔（秒）
 Window length for the shared Health-loss allowance; use 1 for a per-second limit.=共享生命值损失额度的窗口长度；使用1表示每秒限制.
 Highest priority: blocks external Destroy regardless of Convert Destroy to Damage.=最高优先级：无论是否启用了“将摧毁转换为伤害”，都会阻止外部摧毁.
-
-
+Ignore Brain Damage=忽略脑损伤
+Prevents lasting brain trauma and seizures. Ordinary head injuries and death from losing all head health are still possible.=防止持久性脑创伤和癫痫发作。普通的头部伤害和因头部生命值归零导致的死亡仍然可能发生。
+Damage Limits=伤害限制
+Maximum share of a limb's normal maximum health that may be lost per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，肢体正常最大生命值可损失的最大比例；0表示禁用。
+Maximum fixed amount of limb health that may be lost per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，肢体生命值可损失的固定最大数值；0表示禁用。
+Maximum loss of consciousness per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，意识的损失上限；0表示禁用。
+Maximum loss of oxygen supply per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，供氧量的损失上限；0表示禁用。
+Maximum increase in shock per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，休克的增加上限；0表示禁用。
+Maximum increase in pain per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，疼痛的增加上限；0表示禁用。
+Maximum loss of circulation effectiveness per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，循环效率的损失上限；0表示禁用。
+Maximum blood-volume loss relative to capacity per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，相对于总容量的血量损失上限；0表示禁用。
+Maximum increase in external bleeding severity per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，外部流血严重程度的增加上限；0表示禁用。
+Maximum increase in internal bleeding severity per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，内部出血严重程度的增加上限；0表示禁用。
+Electrical Charge Increase Limit=电荷增加上限
+Maximum electrical charge accumulated per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，可积累的电荷上限；0表示禁用。
+Burn Damage Buildup Limit=灼伤伤害积累上限
+Maximum increase in burn damage buildup per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，灼伤伤害积累的增加上限；0表示禁用。
+Acid Damage Buildup Limit=酸蚀伤害积累上限
+Maximum increase in acid damage buildup per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，酸蚀伤害积累的增加上限；0表示禁用。
+Rotting Buildup Limit=腐烂积累上限
+Maximum increase in rotting per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，腐烂的增加上限；0表示禁用。
+Maximum increase in deviation from safe body temperature per frame, or per timed window when enabled; 0 disables it.=每帧或启用计时窗口时，偏离安全体温的增加上限；0表示禁用。
+Damage Timing=伤害时机
+After health damage is accepted, temporarily blocks further harm to health and other vital conditions across the whole person.=在生命值伤害生效后，暂时阻止整个人的生命值和其他重要状态受到进一步伤害。
+How long the whole person remains protected from further health and vital-condition damage; values at or below 0 disable it.=整个人保持免受进一步生命值和重要状态伤害的持续时间；数值小于或等于0时禁用。
+Shares all configured health and vital-condition allowances across a timed window instead of resetting them every frame.=在计时窗口内共享所有已配置的生命值和重要状态额度，而不是每帧重置。
+Window length for all configured damage allowances; use 1 for per-second limits.=所有已配置伤害额度的窗口长度；使用1表示每秒限制。
+Prevents limbs from being severed by ordinary cutting effects.=防止肢体被普通切割效果切断。
+Prevents ordinary crushing and disintegration effects.=防止普通的粉碎和瓦解效果。
+Takes priority over destruction-to-damage conversion and prevents external deletion attempts.=优先于销毁到伤害的转换，并阻止外部删除尝试。
+Convert Deletion to Damage=将删除转换为伤害
+Converts external deletion attempts into durability damage. When disabled, objects are deleted normally unless destruction is ignored.=将外部删除尝试转换为耐久度伤害。禁用时，除非忽略销毁，否则物体正常删除。
+Passive recovery speed for health, oxygen, punctured lungs, brain conditions, and related injuries; 0 disables recovery.=生命值、氧气、肺部穿孔、脑部状况及相关伤害的被动恢复速度；0表示禁用恢复。
+Minimum force required before fragments can cause severe internal injury.=碎片造成严重内伤所需的最小力度。
+Makes gunshots primarily damage the struck limb instead of immediately applying severe whole-body effects.=使枪伤主要伤害被击中的肢体，而非立即施加严重的全身效果。
+Makes stabs primarily damage the struck limb instead of immediately applying severe whole-body effects.=使刺伤主要伤害被击中的肢体，而非立即施加严重的全身效果。
+Allows severed, missing, or destroyed limbs to regrow.=允许断裂、缺失或被摧毁的肢体再生。
+Controls how quickly limb regeneration progresses.=控制肢体再生的速度。
+Delay before regeneration begins after a limb is severed.=肢体断裂后再生开始前的延迟时间。
+Selects the visual style used while a limb regrows; enter the corresponding mode number.=选择肢体再生时使用的视觉样式；输入对应的模式编号。
+Selects how severed limbs are handled during regeneration; enter the corresponding mode number.=选择再生期间如何处理断肢；输入对应的模式编号。
+Fragment Force Threshold=碎片力度阈值
+Localize Gunshot Damage=枪伤局部化
+Localize Stab Damage=刺伤局部化
+Limb Regeneration=肢体再生
 
 
 
