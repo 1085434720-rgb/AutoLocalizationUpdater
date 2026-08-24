@@ -10058,7 +10058,20 @@ Integer enum value of RegenAnimationMode.=RegenAnimationMode 的整数枚举值�
 Severed-Limb Handling Mode=断肢处理模式
 Integer enum value of SeveredLimbHandling.=SeveredLimbHandling 的整数枚举值。
 Convert Destroy to Damage=将“销毁”转换为伤害
-When enabled, external Destroy becomes durability damage. When disabled, Unity destroys directly unless Ignore Destruction is enabled.=启用时，外部“销毁”变为耐久度伤害。禁用时，除非启用了“忽略摧毁”，否则Unity将直接销毁。
+When enabled, external Destroy becomes durability damage. When disabled, Unity destroys directly unless Ignore Destruction is enabled.=启用时，外部“销毁”变为耐久度伤害. 禁用时，除非启用了“忽略摧毁”，否则Unity将直接销毁.
+Restore Defaults=恢复默认值
+Reset every staged control to default without applying it.=将所有暂存的控制项重置为默认值，而不进行应用.
+Default configuration restored to the draft.=默认配置已恢复到草稿.
+Health Damage Timing=生命值伤害时机
+Enable Invulnerability Frames=启用无敌帧
+After an accepted Health loss, blocks further Health loss for the configured duration.=在发生一次有效的生命值损失后，在设定的持续时间内阻止进一步的生命值损失。
+Invulnerability Duration (Seconds)=无敌持续时间（秒）
+Duration of Health-loss invulnerability; values at or below 0 disable it.=生命值损失无敌的持续时间；数值小于或等于0时禁用该功能.
+Use Timed Health Loss Limit=使用计时生命值损失限制
+Shares the existing percentage/absolute Health-loss allowance across a timed window instead of resetting it every frame.=在计时窗口内共享现有的百分比/绝对生命值损失额度，而不是每帧重置.
+Health Loss Limit Interval (Seconds)=生命值损失限制间隔（秒）
+Window length for the shared Health-loss allowance; use 1 for a per-second limit.=共享生命值损失额度的窗口长度；使用1表示每秒限制.
+Highest priority: blocks external Destroy regardless of Convert Destroy to Damage.=最高优先级：无论是否启用了“将摧毁转换为伤害”，都会阻止外部摧毁.
 
 
 
