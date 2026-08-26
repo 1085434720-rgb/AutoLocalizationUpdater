@@ -16615,6 +16615,11 @@ Ordered from 02 STUDIOS=由02 STUDIOS委托制作
 
 <b>Black Robot Suit</b>\r\n-GM.=<b>黑色机器人套装</b>\r\n-GM.
 
+Reaniman=复苏人
+<b>Reaniman</b>.\r\n=<b>复苏人</b>.\r\n
+Reaniman Helmet=复苏人头盔
+<b>Reaniman Helmet</b>.\r\n=<b>复苏人头盔</b>.\r\n
+
 
 
 //能力
@@ -17644,6 +17649,20 @@ RESET THEME=重置主题
 EDIT Z-INDEX=编辑Z轴索引
 r:"^BRING TO FRONT \(\+(\d+)\)$" = "移至最前（+$1）"
 r:"^RESET \(DEFAULT (\d+)\)$" = "重置（默认$1）"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 //379*[P.A.R.D.] 额外上下文菜单_[P.A.R.D.] Extra Context Menu
