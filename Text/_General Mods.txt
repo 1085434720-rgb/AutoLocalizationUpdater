@@ -17040,6 +17040,7 @@ Teleport Item=传送物品
 Portable Omega Device=便携式欧米茄装置
 Rick Potion #9=瑞克药剂 #9
 Evil Morty Powerset=邪恶莫蒂能力合集
+Rick Prime's Powerset=瑞克·普莱姆能力集
 
 Choose Dimension=选择维度
 Pick a dimension, then press K to cycle into Dimension mode and fire normally.=选择一个维度，然后按K键切换至维度模式并正常射击.
@@ -17068,7 +17069,25 @@ Turn the Evil Morty Powerset's cannon beam on or off.=开启或关闭邪恶莫�
 Turn the Evil Morty Powerset's precognitive dodge on or off. While on, this person blinks a short hop out of the way whenever someone lines up a shot on them, and briefly ignores that incoming bullet=开启或关闭邪恶莫蒂能力集的预知闪避. 开启时，每当有人瞄准该角色时，此人会短距离瞬移闪避，并短暂无视来袭的子弹
 Turn the Evil Morty Powerset's precognitive dodge on or off. While on, this person blinks a short hop out of the way whenever someone lines up a shot on them, and briefly ignores that incoming bullet.=开启或关闭邪恶莫蒂能力集的预知闪避. 开启时，每当有人瞄准该角色时，此人会短距离瞬移闪避，并短暂无视来袭的子弹.
 
+<b><color%3D#AAAAAA>Regeneration: OFF</color></b>=<b><color%3D#AAAAAA>再生：关</color></b>
+<b><color%3D#39FF6A>Regeneration: ON</color></b>=<b><color%3D#39FF6A>再生：开</color></b>
+Turn Rick Prime's Powerset's Regeneration on or off. While on, wounds, missing limbs, and even being killed outright all heal back gradually on their own.=开启或关闭瑞克·普莱姆能力集的再生能力。开启时，伤口、缺失的肢体，甚至直接被杀死都会逐渐自行恢复。
 
+<b><color%3D#AAAAAA>Telepathy: OFF</color></b>=<b><color%3D#AAAAAA>心灵感应：关</color></b>
+<b><color%3D#39FF6A>Telepathy: ON</color></b>=<b><color%3D#39FF6A>心灵感应：开</color></b>
+Turn Rick Prime's Powerset's Telepathy on or off. While on, press F with the mouse over one of this person's lower arms to psychically grab whatever's under the cursor and drag it around, invisibly.=开启或关闭瑞克·普莱姆能力集的心灵感应。开启时，将鼠标悬停在此人的前臂上并按F键，即可用意念抓取光标下的物体并进行隐形拖拽。
+
+<b><color%3D#AAAAAA>Chronoskip: OFF</color></b>=<b><color%3D#AAAAAA>时跳：关</color></b>
+<b><color%3D#39FF6A>Chronoskip: ON</color></b>=<b><color%3D#39FF6A>时跳：开</color></b>
+Turn Rick Prime's Powerset's Chronoskip on or off. Press F with the mouse over this person's head to turn it on, and again to turn it back off - slows everything else nearby to a crawl while it's on.=开启或关闭瑞克·普莱姆能力集的时跳。将鼠标悬停在此人的头部并按F键开启，再次按F键关闭——开启时会大幅减缓周围一切的速度。
+
+<b><color%3D#39FF6A>Show Boots: ON</color></b>=<b><color%3D#39FF6A>显示靴子：开</color></b>
+<b><color%3D#AAAAAA>Show Boots: OFF</color></b>=<b><color%3D#AAAAAA>显示靴子：关</color></b>
+Toggle Rick Prime's Powerset's boots overlay. Turn this off if the character's own skin already has shoes/boots drawn on, to avoid wearing two pairs at once.=切换瑞克·普莱姆能力集的靴子叠加层。如果角色本身的皮肤上已经画有鞋子/靴子，请关闭此选项，以避免同时穿两双。
+
+<b><color%3D#7CFC9A>Show Eyepatch: ON</color></b>=<b><color%3D#7CFC9A>显示眼罩：开</color></b>
+<b><color%3D#AAAAAA>Show Eyepatch: OFF</color></b>=<b><color%3D#AAAAAA>显示眼罩：关</color></b>
+Toggle the Evil Morty Powerset's eyepatch overlay. Turn this off if the character's own skin already has an eyepatch drawn on, to avoid wearing two at once.=切换邪恶莫蒂能力集的眼罩叠加层。如果角色本身的皮肤上已经画有眼罩，请关闭此选项，以避免同时佩戴两个。
 
 
 
@@ -18129,3 +18148,15 @@ Makes the Explosive completely harmless \n\nThis cannot be undone, at least not 
 Replace the selected lights with a different color. \n\n Will destroy wires, pins, and other kinds of connections=用不同的颜色替换所选灯光. \n\n 会销毁线缆、销钉以及其他类型的连接
 Replaces the selected objects with new ones, with the same scale and settings. \n\n Will destroy wires, pins, and other kinds of connections=用新的物体替换所选物体，保留相同的缩放和设置. \n\n 会销毁线缆、销钉以及其他类型的连接
 Be advised, ExplosiveBehaviour should not be added to androids with \"IsAndroid\" set to false. \nThe limb will not explode, and will end up breaking things due to how zooi coded the game.\nConsider removing ExplosiveBehaviour from the android.=请注意，不应向 \"IsAndroid\" 设置为 false 的安卓添加 ExplosiveBehaviour. \n该肢体不会爆炸，并且会由于 zooi 编写游戏的方式而破坏东西.\n请考虑从该安卓上移除 ExplosiveBehaviour.
+
+
+
+
+
+
+
+
+//380*装置优化器_Contraption Optimizer
+<noparse>Contraption Optimizer</noparse>=<noparse>装置优化器</noparse>
+Optimisations for Contraption save/load.=针对装置保存/加载的优化。
+<size%3D1.5em>Contraption Optimizer</size>\nOptimisations for Contraption save/load.\n<noparse>A mod by EmperorFish for game version 1.27+</noparse>=<size%3D1.5em>装置优化器</size>\n针对装置保存/加载的优化。\n<noparse>由 EmperorFish 制作的模组，适用于游戏版本 1.27+</noparse>
