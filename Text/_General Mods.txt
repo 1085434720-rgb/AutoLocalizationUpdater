@@ -365,7 +365,7 @@ This mod allows bodies to disable collision upon death and vice versa.=此模组
 
 
 
-//6*能量气场模组_AURA MOD
+//6*气场模组_AURA MOD
 AURA MOD BETA 1.5=气场模组 BETA 1.5
 Let me aura farm.=让我刷气场.
 //*人物
@@ -18160,3 +18160,20 @@ Be advised, ExplosiveBehaviour should not be added to androids with \"IsAndroid\
 <noparse>Contraption Optimizer</noparse>=<noparse>装置优化器</noparse>
 Optimisations for Contraption save/load.=针对装置保存/加载的优化。
 <size%3D1.5em>Contraption Optimizer</size>\nOptimisations for Contraption save/load.\n<noparse>A mod by EmperorFish for game version 1.27+</noparse>=<size%3D1.5em>装置优化器</size>\n针对装置保存/加载的优化。\n<noparse>由 EmperorFish 制作的模组，适用于游戏版本 1.27+</noparse>
+
+
+
+
+
+
+
+
+//381*一些强力玩具_Some powerful toys
+<noparse>Some powerful toys</noparse>=<noparse>一些强力玩具</noparse>
+<size%3D1.5em>Some powerful toys</size>\n\n<noparse>A mod by EmperorFish for game version 1.27+</noparse>=<size%3D1.5em>一些强力玩具</size>\n\n<noparse>由 EmperorFish 制作的模组，适用于游戏版本 1.27+</noparse>
+
+<size%3D200%>Spear of Longinus</size>=<size%3D200%>朗基努斯之枪</size>
+<b><size%3D200%>Spear of Longinus</size></b>\r\n\nBaptized in holy blood, it stands as the ultimate paradox: a relic of absolute divinity forged into the perfect instrument of deicide. It does not merely pierce; it unmakes. Where its shadow falls, eternity shatters and gods descend into dust. It is the quietus of all myths—the absolute, silent, and undeniable end.=<b><size%3D200%>朗基努斯之枪</size></b>\r\n\n受圣血洗礼，它矗立为终极悖论：一件绝对神性的遗物，被锻造为弑神的完美工具。它不仅仅是刺穿；它使万物瓦解。在它的阴影落下的地方，永恒破碎，诸神化为尘土。它是所有神话的终结——绝对、沉默、不容置疑的终点。
+
+<size%3D200%>Toy Hammer</size>=<size%3D200%>玩具锤</size>
+<b><size%3D200%>Toy Hammer</size></b>\r\n<size%3D120%>\nYou are a piece a cake...\nImagine that this entire game is made entirely of porcelain.\nEverything will break with just a light touch.</size>.=<b><size%3D200%>玩具锤</size></b>\r\n<size%3D120%>\n你简直是小菜一碟……\n想象一下，整个游戏完全是由瓷器制成的。\n只需轻轻一碰，一切都会碎裂。</size>.
