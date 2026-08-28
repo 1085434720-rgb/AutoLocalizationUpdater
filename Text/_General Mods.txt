@@ -18177,3 +18177,5 @@ Optimisations for Contraption save/load.=针对装置保存/加载的优化。
 
 <size%3D200%>Toy Hammer</size>=<size%3D200%>玩具锤</size>
 <b><size%3D200%>Toy Hammer</size></b>\r\n<size%3D120%>\nYou are a piece a cake...\nImagine that this entire game is made entirely of porcelain.\nEverything will break with just a light touch.</size>.=<b><size%3D200%>玩具锤</size></b>\r\n<size%3D120%>\n你简直是小菜一碟……\n想象一下，整个游戏完全是由瓷器制成的。\n只需轻轻一碰，一切都会碎裂。</size>.
+
+Intercept All Power=拦截所有能力

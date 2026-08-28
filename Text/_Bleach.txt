@@ -2136,6 +2136,38 @@ Power Ball Evolution=崩玉进化
 Dragon=龙
 Monster_Giant=怪物_巨人
 Helement=元素
+BS_1=胸部大小_1
+BS_3=胸部大小_3
+BS_0=胸部大小_0
+Eye_0=眼睛_0
+Eye_1=眼睛_1
+Eye_2=眼睛_2
+Eye_3=眼睛_3
+
+SwordForm Tiger II=剑形态 虎 II
+SwordForm Shark II=剑形态 鲨 II
+MaskForm Butcher Mask II=面具形态 屠夫面具 II
+MaskForm Blind Mask I=面具形态 盲眼面具 I
+SwordForm Bat II=剑形态 蝙蝠 II
+SwordForm Bat III=剑形态 蝙蝠 III
+MaskForm [C] Shark Mask I=面具形态 [C] 鲨鱼面具 I
+MaskForm [C] Shark Mask II=面具形态 [C] 鲨鱼面具 II
+UpperB_2=上躯干B_2
+UpperB_3=上躯干B_3
+MiddleB_2=中躯干B_2
+MiddleB_3=中躯干B_3
+UpperA_fr_1=上臂A_前_1
+UpperA_fr_2=上臂A_前_2
+UpperA_fr_3=上臂A_前_3
+LowerA_fr_1=下臂A_前_1
+LowerA_fr_2=下臂A_前_2
+LowerA_fr_3=下臂A_前_3
+UpperA_bk_1=上臂A_后_1
+UpperA_bk_2=上臂A_后_2
+UpperA_bk_3=上臂A_后_3
+LowerA_bk_1=下臂A_后_1
+LowerA_bk_2=下臂A_后_2
+LowerA_bk_3=下臂A_后_3
 
 
 
