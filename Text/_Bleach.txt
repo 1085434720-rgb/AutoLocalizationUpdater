@@ -1767,11 +1767,13 @@ Caster Settings=施法者设置
 
 
 
-//*面罩切换栏
+//*面罩
+sr:"<size%3D60%><b>Mask Form: (.*?)</b></size>" = "<size%3D60%><b>面具形态：$1</b></size>"
 Butcher Mask I=屠夫面具 I
 MF: Butcher Mask I=MF: 屠夫面具 I
 Butcher Mask II=屠夫面具 II
 MF: Butcher Mask II=MF: 屠夫面具 II
+<size%3D60%><b>Mask Form: Butcher Mask II</b></size>\nRequired 50.000 ENERGY=<size%3D60%><b>面具形态：屠夫面具 II</b></size>\n需要50.000能量
 
 Death Mask=死亡面具
 MF: Death Mask=MF: 死亡面具 
@@ -1784,6 +1786,46 @@ Tiger Mask I=老虎面具 I
 MF: Tiger Mask I=MF: 老虎面具 I
 Tiger Mask II=老虎面具 II
 MF: Tiger Mask II=MF: 老虎面具 II
+
+MF: [C] Shark Mask I=MF: [C] 鲨鱼面具 I
+MF: [C] Shark Mask II=MF: [C] 鲨鱼面具 II
+[C] Shark Mask I=[C] 鲨鱼面具 I
+[C] Shark Mask II=[C] 鲨鱼面具 II
+
+MF: [C] Blood Mask I=MF: [C] 血之面具 I
+MF: [C] Blood Mask II=MF: [C] 血之面具 II
+[C] Blood Mask I=[C] 血之面具 I
+[C] Blood Mask II=[C] 血之面具 II
+
+MF: Bat Mask I=MF: 蝙蝠面具 I
+MF: Bat Mask II=MF: 蝙蝠面具 II
+MF: Bat Mask III=MF: 蝙蝠面具 III
+Bat Mask I=蝙蝠面具 I
+Bat Mask II=蝙蝠面具 II
+Bat Mask III=蝙蝠面具 III
+
+MF: Berserk Mask I=MF: 狂战士面具 I
+Berserk Mask I=狂战士面具 I
+
+MF: Blind Mask I=MF: 盲眼面具 I
+Blind Mask I=盲眼面具 I
+
+MF: [C] Explosion Mask I=MF: [C] 爆炸面具 I
+[C] Explosion Mask I=[C] 爆炸面具 I
+
+MF: Delusion Mask I=MF: 妄想面具 I
+Delusion Mask I=妄想面具 I
+
+MF: Shark Mask I=MF: 鲨鱼面具 I
+MF: Shark Mask II=MF: 鲨鱼面具 II
+Shark Mask I=鲨鱼面具 I
+Shark Mask II=鲨鱼面具 II
+
+MF: Wolf Mask I=MF: 狼面具 I
+MF: Wolf Mask II=MF: 狼面具 II
+Wolf Mask I=狼面具 I
+Wolf Mask II=狼面具 II
+
 
 
 
@@ -2095,6 +2137,377 @@ Dragon=龙
 Monster_Giant=怪物_巨人
 Helement=元素
 
+
+
+
+
+
+
+
+
+//布料
+
+//SPG*
+SPG_Grade1_SoulCloth_Universal=SPG_一级_灵魂布料_通用
+SPG_Grade1_SoulCloth_FootWear=SPG_一级_灵魂布料_足部
+SPG_Grade1_SoulCloth_Pants=SPG_一级_灵魂布料_裤子
+SPG_Archer_FootWear=SPG_弓箭手_足部
+SPG_Archer_Pants=SPG_弓箭手_裤子
+SPG_Archer_Soul_Attachment=SPG_弓箭手_灵魂_附件
+SPG_Archer_UniformCape=SPG_弓箭手_制服披风
+SPG_Archer_UniformCloth=SPG_弓箭手_制服布料
+SPG_Bat_Additions=SPG_蝙蝠_附加
+SPG_Bat_FootWear=SPG_蝙蝠_足部
+SPG_Bat_Pants=SPG_蝙蝠_裤子
+SPG_Bat_UniformCloth=SPG_蝙蝠_制服布料
+SPG_Bat_Additions=SPG_蝙蝠_附加
+SPG_Bat_FootWear_Form2=SPG_蝙蝠_足部_形态2
+SPG_Bat_Pants_Form2=SPG_蝙蝠_裤子_形态2
+SPG_Bat_UniformCloth_Form2=SPG_蝙蝠_制服布料_形态2
+SPG_Bat_FootWear_Form3=SPG_蝙蝠_足部_形态3
+SPG_Bat_Pants_Form3=SPG_蝙蝠_裤子_形态3
+SPG_Bat_UniformCloth_Form3=SPG_蝙蝠_制服布料_形态3
+SPG_Berserk_Eyepatch=SPG_狂战士_眼罩
+SPG_BigKnife_Soul_UniformCloth=SPG_大刀_灵魂_制服布料
+SPG_SoulCloth_Form3Sword=SPG_灵魂布料_形态3剑
+SPG_Soul_Form3Sword_Pants=SPG_灵魂_形态3剑_裤子
+SPG_SoulCape_Form3Sword=SPG_灵魂披风_形态3剑
+SPG_Male_WhiteCloth=SPG_男性_白色布料
+SPG_Male_WhiteFootwear=SPG_男性_白色足部
+SPG_Male_WhitePants=SPG_男性_白色裤子
+SPG_SoulClothWhite_Form3=SPG_白色灵魂布料_形态3
+SPG_SoulPantsWhite_Form3=SPG_白色灵魂裤子_形态3
+SPG_Blind_Cloth=SPG_盲人_布料
+SPG_Blind_Hair=SPG_盲人_头发
+SPG_Boxer_FootWear=SPG_拳击手_足部
+SPG_Boxer_Pants=SPG_拳击手_裤子
+SPG_Boxer_UniformCloth=SPG_拳击手_制服布料
+SPG_ButcherMonster_additions=SPG_屠夫怪物_附加
+SPG_Butcher_Monster_Footwear=SPG_屠夫_怪物_足部
+Bomb_Transformation=炸弹_变身
+Control_eye=控制之眼
+SPG_Christmas_Hat=SPG_圣诞帽
+SPG_Death_Additions=SPG_死亡_附加
+SPG_Death_Cape=SPG_死亡_披风
+SPG_Death_FootWear=SPG_死亡_足部
+SPG_Death_Pants=SPG_死亡_裤子
+SPG_Death_UniformCloth=SPG_死亡_制服布料
+SPG_Death_form2_FootWear=SPG_死亡_形态2_足部
+SPG_Death_Form2_Pants=SPG_死亡_形态2_裤子
+SPG_Death_Form2_UniformCloth=SPG_死亡_形态2_制服布料
+SPG_Empty_FootWear=SPG_空_足部
+SPG_Empty_Pants=SPG_空_裤子
+SPG_Evil_Cape=SPG_邪恶_披风
+SPG_Evil_FootWear=SPG_邪恶_足部
+SPG_Evil_Pants=SPG_邪恶_裤子
+SPG_Evil_UniformCloth=SPG_邪恶_制服布料
+SPG_PowerBallF1_Cape=SPG_能量球F1_披风
+SPG_PowerBallF1_FootWear=SPG_能量球F1_足部
+SPG_PowerBallF1_Helm=SPG_能量球F1_头盔
+SPG_PowerBallF1_Pants=SPG_能量球F1_裤子
+SPG_PowerBallF1_UniformCloth=SPG_能量球F1_制服布料
+SPG_PowerBallF2_Cape=SPG_能量球F2_披风
+SPG_PowerBallF2_Eyes=SPG_能量球F2_眼睛
+SPG_PowerBallF2_FootWear=SPG_能量球F2_足部
+SPG_PowerBallF2_Pants=SPG_能量球F2_裤子
+SPG_PowerBallF2_UniformCloth=SPG_能量球F2_制服布料
+SPG_Fox_Cape=SPG_狐狸_披风
+SPG_Fox_FootWear=SPG_狐狸_足部
+SPG_Fox_Pants=SPG_狐狸_裤子
+SPG_Fox_UniformCloth=SPG_狐狸_制服布料
+SPG_Green_ShopCape_UniformCloth1=SPG_绿色商店披风_制服布料1
+SPG_Green_Shop_Footwear=SPG_绿色商店_足部
+SPG_Green_Shop_Pants=SPG_绿色商店_裤子
+SPG_Green_Shop_UniformCloth=SPG_绿色商店_制服布料
+SPG_Heal_Cape=SPG_治愈_披风
+SPG_Heal_FootWear=SPG_治愈_足部
+SPG_Heal_Pants=SPG_治愈_裤子
+SPG_Heal_SoulCloth=SPG_治愈_灵魂布料
+Revealed_Ice_FootWear=显露_寒冰_足部
+Revealed_Ice_Form=显露_寒冰_形态
+SPG_GiantMonster_Skirt=SPG_巨型怪物_裙
+SPG_Mouth_OneTooth=SPG_嘴_单牙
+SPG_Mouth_Teeth=SPG_嘴_牙齿
+SPG_Pink_Cape=SPG_粉色_披风
+SPG_Rage_Cape=SPG_愤怒_披风
+SPG_RedBeast_Soul_Attachment=SPG_红兽_灵魂_附件
+SPG_RedBeast_Soul_Attachment1=SPG_红兽_灵魂_附件1
+SPG_Samurai_Cape=SPG_武士_披风
+SPG_Samurai_Soul_Cloth=SPG_武士_灵魂_布料
+SPG_Shark_FootWear=SPG_鲨鱼_足部
+SPG_Shark_Pants=SPG_鲨鱼_裤子
+SPG_Shark_UniformCloth=SPG_鲨鱼_制服布料
+SPG_Shark_FootWear_Form2=SPG_鲨鱼_足部_形态2
+SPG_Shark_Pants_Form2=SPG_鲨鱼_裤子_形态2
+SPG_Shark_UniformCloth_Form2=SPG_鲨鱼_制服布料_形态2
+SPG_Soul_Cape=SPG_灵魂_披风
+SPG_Tiger_FootWear=SPG_老虎_足部
+SPG_Tiger_Pants=SPG_老虎_裤子
+SPG_Tiger_UniformCloth=SPG_老虎_制服布料
+SPG_Tiger_UniformCloth_Form2=SPG_老虎_制服布料_形态2
+SPG_Wolf_FootWear=SPG_狼_足部
+SPG_Wolf_Pants=SPG_狼_裤子
+SPG_Wolf_UniformCloth=SPG_狼_制服布料
+SPG_Wolf_Form2_Cape=SPG_狼_形态2_披风
+SPG_Wolf_Form2_FootWear=SPG_狼_形态2_足部
+SPG_Wolf_Form2_Pants=SPG_狼_形态2_裤子
+SPG_Wolf_Form2_UniformCloth=SPG_狼_形态2_制服布料
+Aizen_Evil_Hair=蓝染_邪恶_头发
+Aizen_Googles_Attachment=蓝染_护目镜_附件
+Aizen_Hair=蓝染_头发
+Doofy_Aizen_Evil_Hair=呆版_蓝染_邪恶_头发
+Aizen_Form2_Hair=蓝染_形态2_头发
+Baraggan_Hair=拜勒岗_头发
+Byakuya_Hair=白哉_头发
+ChadHair=茶渡_头发
+Gin_Hair=银_头发
+Grimmjow_Hair=葛力姆乔_头发
+Tier_Hair=蒂雅_头发
+Hichigo_Hair=白一护_头发
+Hisagi_Additions=桧佐木_附加
+Hisagi_Hair=桧佐木_头发
+Hisagi_Kemono=桧佐木_兽耳
+IchigoHair=一护_头发
+SPG_MaleSchool_SchoolFootwear=SPG_男校_学校足部
+SPG_MaleSchool_SchoolUniformCloth=SPG_男校_学校制服布料
+SPG_MaleSchool_SchoolUniformPants=SPG_男校_学校制服裤子
+SPG_SchooMale_SchoolJacket=SPG_男校_学校夹克
+IshidaHair=石田_头发
+Ishida_Googles_Attachment=石田_护目镜_附件
+Arhcer_Googles_Attachment=弓箭手_护目镜_附件
+SPG_ArcherSchool_Pants=SPG_弓箭手学校_裤子
+SPG_ArhcerSchool_UniformCloth=SPG_弓箭手学校_制服布料
+Izuru_Hair=吉良_头发
+Kenpachi_Hair=剑八_头发
+Kyoraku_Hair=京乐_头发
+Kyoraku_Hat=京乐_帽子
+Matsumoto_additions=松本_附加
+Matsumoto_Hair=松本_头发
+Mayuri_Additions=涅_附加
+Mayuri_Hair=涅_头发
+OrihimeHair=织姬_头发
+SPG_SchoolGirl_FootWear=SPG_女校_足部
+SPG_SchoolGirl_UniformCloth=SPG_女校_制服布料
+SPG_SchoolGirl_UniformPants=SPG_女校_制服裤子
+RenjiHair=恋次_头发
+Renji_HeadBand=恋次_头带
+RukiaHair=露琪亚_头发
+Hirako_Hair=平子_头发
+Shinji_Footwear=真嗣_足部
+Shinji_Pants=真嗣_裤子
+Shinji_UniformCloth=真嗣_制服布料
+SoiFon_Cape=碎蜂_披风
+SoiFon_FootWear=碎蜂_足部
+SoiFon_Hair=碎蜂_头发
+SoiFon_Pants=碎蜂_裤子
+SoiFon_UnderCloth=碎蜂_内衬布料
+SoiFon_UniformCloth=碎蜂_制服布料
+Stark_Hair=史塔克_头发
+Granz_FootWear=格兰兹_足部
+Granz_Hair=格兰兹_头发
+Granz_Pants=格兰兹_裤子
+Granz_Cape=格兰兹_披风
+Granz_UniformCloth=格兰兹_制服布料
+Granz_Form2_FootWear=格兰兹_形态2_足部
+Granz_Form2_Hair=格兰兹_形态2_头发
+Granz_Form2_Pants=格兰兹_形态2_裤子
+Granz_Form2_UniformCloth=格兰兹_形态2_制服布料
+Toshiro_Hair=冬狮郎_头发
+Tousen_Additions=东仙_附加
+Tousen_FootWear=东仙_足部
+Tousen_Hair=东仙_头发
+Tousen_Pants=东仙_裤子
+Tousen_UniformCloth=东仙_制服布料
+Ukitake_Hair=浮竹_头发
+Ulqiorra_Hair=乌尔奇奥拉_头发
+SPG_Green_Shop_Hat=SPG_绿色商店_帽子
+UraharaHair=浦原_头发
+Yamamoto_Beard=山本_胡须
+Yamamoto_Cape=山本_披风
+Yoruichi_Boots=夜一_靴子
+Yoruichi_Cape=夜一_披风
+Yoruichi_Hair=夜一_头发
+Yoruichi_Pants=夜一_裤子
+Yoruichi_Scarf=夜一_围巾
+Yoruichi_Uniform=夜一_制服
+
+sr:"^([A-Za-z0-9_]+) \[(.*?)\]$"="$1 [$2]"
+Clothes=服装
+Footwear=鞋类
+Pants=裤子
+Hair=头发
+Mouth=嘴巴
+Blanket=覆盖层
+UnderClothes=内衣
+
+
+//CM*
+Tie=领带
+Aki_Cape=秋_披风
+Aki_Cloth=秋_衣服
+Aki_Footwear=秋_鞋
+Aki_Hair=秋_头发
+Aki_Pants=秋_裤子
+Beam_Hair=比姆_头发
+Beam_Pants=比姆_裤子
+Denji_Cloth=电次_衣服
+Denji_Footwear=电次_鞋
+Denji_Hair=电次_头发
+Denji_Pants=电次_裤子
+Makima_Cape=玛奇玛_披风
+Makima_Cloth=玛奇玛_衣服
+Makima_Footwear=玛奇玛_鞋
+Makima_Hair=玛奇玛_头发
+Makima_Pants=玛奇玛_裤子
+Power_Cape=帕瓦_披风
+Power_Cloth=帕瓦_衣服
+Power_Footwear=帕瓦_鞋
+Power_Hair=帕瓦_头发
+Power_Pants=帕瓦_裤子
+Reze_Cloth=蕾塞_衣服
+Reze_Footwear=蕾塞_鞋
+Reze_Hair=蕾塞_头发
+Reze_Pants=蕾塞_裤子
+Reze_SkinPart=蕾塞_皮肤部分
+Reze_Stockings=蕾塞_长袜
+
+SkinPart=皮肤部分
+Eyes=眼睛
+
+
+
+
+
+//咒回M*
+Itadori_Footwear=虎杖_鞋
+Itadori_Hair=虎杖_头发
+Itadori_Cloth=虎杖_衣服
+Itadori_Head=虎杖_头部
+Itadori_Pants=虎杖_裤子
+ItadoriWhite_Cloth=虎杖白色_衣服
+ItadoriWhite_Head=虎杖白色_头部
+ItadoriClaws=虎杖_爪
+ItadoriYoung_Cloth=虎杖年轻_衣服
+ItadoriYoung_Footwear=虎杖年轻_鞋
+ItadoriYoung_Hair=虎杖年轻_头发
+ItadoriYoung_Pants=虎杖年轻_裤子
+CursedQueen_Ring=咒术女王_戒指
+Tsurugi_Cloth=真剑_衣服
+Tsurugi_Footwear=真剑_鞋
+Tsurugi_Hair=真剑_头发
+Tsurugi_Pants=真剑_裤子
+Usami_Cape=宇佐美_披风
+Usami_Cloth=宇佐美_衣服
+Usami_Footwear=宇佐美_鞋
+Usami_Gloves=宇佐美_手套
+Usami_Hair=宇佐美_头发
+Usami_Pants=宇佐美_裤子
+Usami_Tatoo=宇佐美_纹身
+Yuka_Cloth=由花_衣服
+Yuka_Footwear=由花_鞋
+Yuka_Hair=由花_头发
+Yuka_Pants=由花_裤子
+
+Ring=戒指
+Glove=手套
+
+
+
+//无敌少侠*
+MarkBlue_cloth=马克蓝_服装
+MarkBlue_FootWear=马克蓝_鞋子
+MarkBlue_Hair=马克蓝_头发
+MarkClass_cloth=马克经典_服装
+MarkClass_FootWear=马克经典_鞋子
+MarkClass_Hair=马克经典_头发
+Anissa_cloth=安妮莎_服装
+Anissa_FootWear=安妮莎_鞋子
+Anissa_Hair=安妮莎_头发
+AtomEve_FootWear=原子伊娃_鞋子
+AtomEve_Armor=原子伊娃_护甲
+AtomEve_cloth=原子伊娃_服装
+AtomEve_FootWear=原子伊娃_鞋子
+AtomEve_Hair=原子伊娃_头发
+MarkBlue_cloth=马克蓝_服装
+MarkBlue_FootWear=马克蓝_鞋子
+MarkBlue_Hair=马克蓝_头发
+MarkBurger_cloth=汉堡马克_服装
+MarkBurger_FootWear=汉堡马克_鞋子
+MarkBurger_Hair=汉堡马克_头发
+MarkClass_cloth=马克经典_服装
+MarkClass_FootWear=马克经典_鞋子
+MarkClass_Hair=马克经典_头发
+Conquest_cloth=征服者_服装
+Conquest_FootWear=征服者_鞋子
+Conquest_Hair=征服者_头发
+Conquest_Pants=征服者_裤子
+MarkEmperor_cloth=帝王马克_服装
+MarkEmperor_FootWear=帝王马克_鞋子
+MarkEmperor_Hair=帝王马克_头发
+MarkFlaxan_cloth=弗拉克森马克_服装
+MarkFlaxan_FootWear=弗拉克森马克_鞋子
+MarkFlaxan_Hair=弗拉克森马克_头发
+MarkFlaxan_Pants=弗拉克森马克_裤子
+MarkFullMask_cloth=全脸面具马克_服装
+MarkFullMask_FootWear=全脸面具马克_鞋子
+MarkFullMask_Hair=全脸面具马克_头发
+MarkGDA_cloth=GDA马克_服装
+MarkGDA_FootWear=GDA马克_鞋子
+MarkGDA_Hair=GDA马克_头发
+MarkKuma_cloth=熊马克_服装
+MarkKuma_FootWear=熊马克_鞋子
+MarkKuma_Hair=熊马克_头发
+MarkNyan_Cape=光喵马克_披风
+MarkNyan_cloth=光喵马克_服装
+MarkNyan_FootWear=光喵马克_鞋子
+MarkNyan_Hair=光喵马克_头发
+MarkNyan_Mask=光喵马克_面具
+MarkNyan_Pants=光喵马克_裤子
+MarkMohawk_FootWear=莫西干头马克_鞋子
+MarkMohawk_Hair=莫西干头马克_头发
+MarkMohawk_cloth=莫西干头马克_服装
+Oliver_cloth=奥利弗_服装
+Oliver_FootWear=奥利弗_鞋子
+Oliver_Hair=奥利弗_头发
+OmniMan_cloth=全能侠_服装
+OmniMan_FootWear=全能侠_鞋子
+OmniMan_Hair=全能侠_头发
+MarkOmni_cloth=全能马克_服装
+MarkOmni_FootWear=全能马克_鞋子
+MarkOmni_Hair=全能马克_头发
+MarkPrisoner_cloth=囚犯马克_服装
+MarkPrisoner_Hair=囚犯马克_头发
+MarkPrisoner_Pants=囚犯马克_裤子
+Reaniman_cloth=活死人军团_服装
+Reaniman_FootWear=活死人军团_鞋子
+Reaniman_Hair=活死人军团_头发
+Reaniman_Pants=活死人军团_裤子
+BlackRobot_Armor=黑色机器人_护甲
+OrangeRobot_Armor=橙色机器人_护甲
+Robot_Beard=机器人_胡子
+Robot_Cape=机器人_披风
+Robot_cloth=机器人_服装
+Robot_FootWear=机器人_鞋子
+Robot_Hair=机器人_头发
+Robot_Pants=机器人_裤子
+MarkSheist_cloth=蒙面马克_服装
+MarkSheist_FootWear=蒙面马克_鞋子
+MarkSheist_Hair=蒙面马克_头发
+MarkSin_cloth=极恶马克_服装
+MarkSin_FootWear=极恶马克_鞋子
+MarkSin_Hair=极恶马克_头发
+Thragg_Cape=崔格_披风
+Thragg_cloth=崔格_服装
+Thragg_FootWear=崔格_鞋子
+Thragg_Hair=崔格_头发
+Thragg_Pants=崔格_裤子
+MarkTracksuit_cloth=运动服马克_服装
+MarkTracksuit_FootWear=运动服马克_鞋子
+MarkTracksuit_Hair=运动服马克_头发
+MarkViltrum_cloth=维特鲁姆人马克_服装
+MarkViltrum_FootWear=维特鲁姆人马克_鞋子
+MarkViltrum_Hair=维特鲁姆人马克_头发
+MarkViltrum_Pants=维特鲁姆人马克_裤子
 
 
 
