@@ -69,6 +69,7 @@ General=通用
 //占位
 I=I
 O=O
+R=R
 
 
 
@@ -17602,6 +17603,7 @@ Show / Hide <color%3D#00d682>Transform Objects<color%3D#ffffff>.=显示/隐藏 <
 [<color%3D#30d87f>Debug Draw<color%3D#ffffff>]: Transform Objects Shown=[<color%3D#30d87f>调试绘制<color%3D#ffffff>]：变换物体已显示
 
 [<color%3D#30d87f>Debug Draw<color%3D#ffffff>] Open/Close UI=[<color%3D#30d87f>调试绘制<color%3D#ffffff>] 打开/关闭UI
+Placeholder, does nothing.=占位符，无任何作用.
 
 
 
@@ -18179,3 +18181,78 @@ Optimisations for Contraption save/load.=针对装置保存/加载的优化。
 <b><size%3D200%>Toy Hammer</size></b>\r\n<size%3D120%>\nYou are a piece a cake...\nImagine that this entire game is made entirely of porcelain.\nEverything will break with just a light touch.</size>.=<b><size%3D200%>玩具锤</size></b>\r\n<size%3D120%>\n你简直是小菜一碟……\n想象一下，整个游戏完全是由瓷器制成的。\n只需轻轻一碰，一切都会碎裂。</size>.
 
 Intercept All Power=拦截所有能力
+
+
+
+
+
+
+
+
+//382*Bale光影_BaleLighting
+<noparse>BaleLighting</noparse>=<noparse>Bale光影</noparse>
+2D light: soft shadows, nice fps idk=2D光照：柔和阴影，帧数表现不错
+<size%3D1.5em>BaleLighting</size>\n2D light: soft shadows, nice fps idk\n<noparse>A mod by Baleibo for game version 1.26+</noparse>=<size%3D1.5em>Bale光影</size>\n2D光照：柔和阴影，帧数表现不错\n<noparse>由 Baleibo 制作的模组，适用于游戏版本 1.26+</noparse>
+
+\n\nThanks for installing BaleLighting!\n\nDynamic light and soft shadows are now active.\n\nAlt+F8  -  settings  (rebindable in controls)\n\nFound a bug or have feedback? Please leave a comment.\nA rating helps a lot. Have fun!=\n\n感谢安装 Bale光影！\n\n动态光照和柔和阴影现已启用。\n\nAlt+F8  -  设置（可在控制设置中重新绑定按键）\n\n发现错误或有反馈？请留下评论。\n一个好评会很有帮助。祝玩得愉快！
+
+BALELIGHTING=BALE光影
+Version {{A}}=版本 {{A}}
+PRESET=预设
+QUALITY=质量
+Render Scale=渲染缩放
+Shadow Quality=阴影质量
+IMAGE=图像
+Ambient Light=环境光
+Ambient Warmth=环境色温
+SHADOWS=阴影
+Shadow Strength=阴影强度
+Shadow Softness=阴影柔和度
+ADVANCED=高级
+Show advanced settings=显示高级设置
+Internals. Nothing here needs changing to play. Wrong values will make the lighting look broken.=内部设置。游玩时无需更改此处。错误的数值会使光照看起来不正常。
+Reset Image=重置图像
+Reset All=重置全部
+Not covered by the presets. Use Reset All to get back.=不在预设覆盖范围内。使用“重置全部”可恢复。
+Blur full-res passes=模糊全分辨率通道
+Blur pyramid depth=模糊金字塔深度
+Blur min scale=模糊最小缩放
+Shadow grid cap=阴影网格上限
+Min cell size, world=最小网格单元尺寸（世界空间）
+Grid area padding=网格区域填充
+Skip light below px=跳过小于该像素的光源
+No shadows below px=小于该像素不投射阴影
+Penumbra floor, texels=半影下限（纹素）
+Emitter size scale=发射器大小缩放
+Occluder view padding=遮挡物视口填充
+Max colliders: {{A}} (fixed)=最大碰撞数：{{A}}（固定）
+Beam lights total: {{A}} (fixed)=光束灯总数：{{A}}（固定）
+Live flashes: {{A}} (fixed)=实时闪光：{{A}}（固定）
+Muzzle flash=枪口闪光
+Muzzle intensity=枪口闪光强度
+Muzzle radius=枪口闪光半径
+Muzzle life=枪口闪光持续时间
+Muzzle offset=枪口闪光偏移
+Spark intensity=火花强度
+Spark radius=火花半径
+Spark life=火花持续时间
+Beam light=光束光照
+Beam intensity=光束强度
+Beam radius=光束半径
+Beam light spacing=光束光照间隔
+Beam casts shadows=光束投射阴影
+Bolt intensity=闪电强度
+Bolt radius=闪电半径
+Explosion flash=爆炸闪光
+Explosion intensity=爆炸强度
+Explosion radius=爆炸半径
+Explosion life=爆炸持续时间
+Beam lights total: {{A}} (fixed)=光束灯总数：{{A}}（固定）
+Live flashes: {{A}} (fixed)=实时闪光：{{A}}（固定）
+TELEMETRY=遥测
+Measure frame=测量帧数
+Off. Turn on, play for a few seconds, then copy.=关闭. 开启后，游玩几秒钟，然后复制.
+Copy full report to clipboard=复制完整报告到剪贴板
+Copy effect report=复制效果报告
+Effect report lists every particle system and beam in the scene with the verdict and the reason it was kept or skipped.=效果报告列出场景中的每个粒子系统和光束，附带判定结果以及保留或跳过的原因.
+
