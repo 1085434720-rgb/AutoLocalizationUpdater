@@ -16624,6 +16624,7 @@ Reaniman Helmet=复苏人头盔
 
 
 //能力
+<color%3Dyellow>Open Stages Picker=<color%3Dyellow>打开阶段选择器
 Stages=阶段
 Stage\n1=阶段\n1
 Stages Picker=阶段选择器
@@ -18196,7 +18197,6 @@ Intercept All Power=拦截所有能力
 
 \n\nThanks for installing BaleLighting!\n\nDynamic light and soft shadows are now active.\n\nAlt+F8  -  settings  (rebindable in controls)\n\nFound a bug or have feedback? Please leave a comment.\nA rating helps a lot. Have fun!=\n\n感谢安装 Bale光影！\n\n动态光照和柔和阴影现已启用。\n\nAlt+F8  -  设置（可在控制设置中重新绑定按键）\n\n发现错误或有反馈？请留下评论。\n一个好评会很有帮助。祝玩得愉快！
 
-BALELIGHTING=BALE光影
 Version {{A}}=版本 {{A}}
 PRESET=预设
 QUALITY=质量
@@ -18255,4 +18255,90 @@ Off. Turn on, play for a few seconds, then copy.=关闭. 开启后，游玩几�
 Copy full report to clipboard=复制完整报告到剪贴板
 Copy effect report=复制效果报告
 Effect report lists every particle system and beam in the scene with the verdict and the reason it was kept or skipped.=效果报告列出场景中的每个粒子系统和光束，附带判定结果以及保留或跳过的原因.
+Disable shadows=禁用阴影
+Enable shadows=启用阴影
+Toggle shadows=切换阴影
+Toggle BaleLighting shadow casting for this object=切换此对象的BaleLighting阴影投射
+Toggle BaleLighting shadow casting for this object.=切换此对象的BaleLighting阴影投射.
 
+
+
+
+
+
+
+
+
+
+
+//383*衔尾蛇-0 - 纳米机器人身体_OUROBOROS-0 - Nanobot Body
+<noparse>OUROBOROS-0 - Nanobot Body</noparse>=<noparse>衔尾蛇-0 - 纳米机器人身体</noparse>
+A mod built around nanobots.=一个围绕纳米机器人构建的模组。
+<size%3D1.5em>OUROBOROS-0 - Nanobot Body</size>\nA mod built around nanobots.\n<noparse>A mod by lebangalademowgli for game version 1.27+</noparse>=<size%3D1.5em>衔尾蛇-0 - 纳米机器人身体</size>\n一个围绕纳米机器人构建的模组。\n<noparse>由 lebangalademowgli 制作的模组，适用于游戏版本 1.27+</noparse>
+
+OUROBOROS-0 Syringe [NANO]=衔尾蛇-0 注射器 [纳米]
+<b>OUROBOROS-0 Syringe [NANO]</b>\r\nReplaces flesh with nanobots. A torn limb scatters into fragments that come back and rebuild it.=<b>衔尾蛇-0 注射器 [纳米]</b>\r\n用纳米机器人替换血肉。撕裂的肢体散落成碎片，这些碎片会重新聚集并重建它.
+
+r:"^Nanobots: ([\d,]+)$" = "纳米机器人：$1"
+What he has left. Every power spends it.=他的剩余数量。每项能力都会消耗它。
+Limit: 1.00B=上限：1.00B
+r:"^Limit: ([\d.,]+[BM]?)$" = "上限：$1"
+Click and type a new maximum.=点击并输入新的最大值。
+Regen: 1.6M/s=再生：1.6M/s
+r:"^Regen: ([\d.,]+[MG]?/s)$" = "再生：$1"
+Click and type how many come back per second.=点击并输入每秒恢复的数量。
+Travel as a swarm=以蜂群形态移动
+F on the head, then click a spot: he scatters and reforms there.=在头部按F键，然后点击一个位置：他会散开并在那里重组。
+Reflex: on=反射：开
+Reflex: off=反射：关
+A plate rises where a fast hit lands. Never the first one.=在快速打击落点处会升起一块护板。第一次打击不会触发。
+Regeneration: on=再生：开
+Regeneration: off=再生：关
+Wounds, bones and torn limbs come back on their own.=伤口、骨骼和撕裂的肢体会自动恢复。
+Weakness: on=弱点：开
+Weakness: off=弱点：关
+Current, EMP and fire eat his nanobots. Off, nothing does.=电流、EMP和火焰会消耗他的纳米机器人。关闭后，则没有东西能消耗。
+Nanobot colour=纳米机器人颜色
+Colours everything: swarm, plating, blood, splatter.=为所有东西着色：蜂群、护甲、血液、飞溅。
+Nanobot skin: on=纳米机器人皮肤：开
+Nanobot skin: off=纳米机器人皮肤：关
+A few nanobots stirring under his skin. Just to look at.=少量纳米机器人在他的皮肤下涌动。仅用于视觉效果。
+Nanobot limit=纳米机器人上限
+Regeneration per second=每秒再生
+Pick the colour of his nanobots=选择他纳米机器人的颜色
+Split in two=一分为二
+Someone's double=某人的分身
+Reabsorb the double=重新吸收分身
+F on the middle body: half his nanobots stand up beside him.=在中躯干按F键：他一半的纳米机器人会在他身旁站起。
+Plating: off=护甲：关
+Plating: on=护甲：开
+F on the upper body: scales over his skin. Heavy, tough, no healing.=在上半身按F键：鳞甲覆盖他的皮肤。沉重、坚韧，无法自愈。
+Send the swarm=派出蜂群
+F on the arm, then click a target: the swarm eats it and returns.=在手臂上按F键，然后点击目标：蜂群会吞噬它并返回。
+
+
+
+
+
+
+
+
+//384*自定义能力赋予器_CustomPowerGiver
+<noparse>CustomPowerGiver</noparse>=<noparse>自定义能力赋予器</noparse>
+Custom Power Giver allows you to transform any ragdoll into a superhuman entity by granting, customizing, and managing stats (Max 9.5M), barrage, lightning and exploding heat.=自定义能力赋予器允许你通过授予、自定义和管理属性（最高950万）、弹幕、闪电和爆炸热量，将任何布娃娃转变为超人实体。
+<size%3D1.5em>CustomPowerGiver</size>\nOneEyedLord’s mod Custom Power Giver\n\nClick any ragdoll to open the power menu and grant custom abilities:\n\n* Stats: Customizable Health, Invulnerability, and Punch Power.\n* Abilities: Fist Barrage, Lightning Fists, and Explosive Strikes.\n=<size%3D1.5em>自定义能力赋予器</size>\n独眼领主的模组：自定义能力赋予器\n\n点击任意布娃娃以打开能力菜单并授予自定义能力：\n\n* 属性：可自定义生命值、无敌状态和拳击力量。\n* 能力：拳击弹幕、闪电之拳和爆炸打击。\n
+
+Custom Power Giver=自定义能力赋予器
+<b>Custom Power Giver</b>\r\nTouch a person or click on them to open the power selector.<br><color%3D#aaaaaa>Health, durability, punch strength, barrage and exploding heat.</color>.=<b>自定义能力赋予器</b>\r\n触摸或点击一个人以打开能力选择器。<br><color%3D#aaaaaa>生命值、耐久度、拳击力量、弹幕和爆炸热量。</color>.
+
+Next >=下一个 >
+Punch Strength=打击力量
+Special Ability=特殊能力
+Lightning Fists=闪电之拳
+Exploding Heat=爆炸热量
+Lightning Fists ✓=闪电之拳 ✓
+Exploding Heat ✓=爆炸热量 ✓
+Power Color=能量颜色
+<b>Barrage power granted.</b>=<b>弹幕能力已授予.</b>
+<b>Exploding Heat granted.</b>=<b>爆炸热量已授予.</b>
+<b>Lightning Fists.</b>=<b>闪电之拳.</b>
