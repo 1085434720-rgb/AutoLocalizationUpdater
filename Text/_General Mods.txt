@@ -17073,23 +17073,23 @@ Turn the Evil Morty Powerset's precognitive dodge on or off. While on, this pers
 
 <b><color%3D#AAAAAA>Regeneration: OFF</color></b>=<b><color%3D#AAAAAA>再生：关</color></b>
 <b><color%3D#39FF6A>Regeneration: ON</color></b>=<b><color%3D#39FF6A>再生：开</color></b>
-Turn Rick Prime's Powerset's Regeneration on or off. While on, wounds, missing limbs, and even being killed outright all heal back gradually on their own.=开启或关闭瑞克·普莱姆能力集的再生能力。开启时，伤口、缺失的肢体，甚至直接被杀死都会逐渐自行恢复。
+Turn Rick Prime's Powerset's Regeneration on or off. While on, wounds, missing limbs, and even being killed outright all heal back gradually on their own.=开启或关闭瑞克·普莱姆能力集的再生能力. 开启时，伤口、缺失的肢体，甚至直接被杀死都会逐渐自行恢复. 
 
 <b><color%3D#AAAAAA>Telepathy: OFF</color></b>=<b><color%3D#AAAAAA>心灵感应：关</color></b>
 <b><color%3D#39FF6A>Telepathy: ON</color></b>=<b><color%3D#39FF6A>心灵感应：开</color></b>
-Turn Rick Prime's Powerset's Telepathy on or off. While on, press F with the mouse over one of this person's lower arms to psychically grab whatever's under the cursor and drag it around, invisibly.=开启或关闭瑞克·普莱姆能力集的心灵感应。开启时，将鼠标悬停在此人的前臂上并按F键，即可用意念抓取光标下的物体并进行隐形拖拽。
+Turn Rick Prime's Powerset's Telepathy on or off. While on, press F with the mouse over one of this person's lower arms to psychically grab whatever's under the cursor and drag it around, invisibly.=开启或关闭瑞克·普莱姆能力集的心灵感应. 开启时，将鼠标悬停在此人的前臂上并按F键，即可用意念抓取光标下的物体并进行隐形拖拽. 
 
 <b><color%3D#AAAAAA>Chronoskip: OFF</color></b>=<b><color%3D#AAAAAA>时跳：关</color></b>
 <b><color%3D#39FF6A>Chronoskip: ON</color></b>=<b><color%3D#39FF6A>时跳：开</color></b>
-Turn Rick Prime's Powerset's Chronoskip on or off. Press F with the mouse over this person's head to turn it on, and again to turn it back off - slows everything else nearby to a crawl while it's on.=开启或关闭瑞克·普莱姆能力集的时跳。将鼠标悬停在此人的头部并按F键开启，再次按F键关闭——开启时会大幅减缓周围一切的速度。
+Turn Rick Prime's Powerset's Chronoskip on or off. Press F with the mouse over this person's head to turn it on, and again to turn it back off - slows everything else nearby to a crawl while it's on.=开启或关闭瑞克·普莱姆能力集的时跳. 将鼠标悬停在此人的头部并按F键开启，再次按F键关闭——开启时会大幅减缓周围一切的速度. 
 
 <b><color%3D#39FF6A>Show Boots: ON</color></b>=<b><color%3D#39FF6A>显示靴子：开</color></b>
 <b><color%3D#AAAAAA>Show Boots: OFF</color></b>=<b><color%3D#AAAAAA>显示靴子：关</color></b>
-Toggle Rick Prime's Powerset's boots overlay. Turn this off if the character's own skin already has shoes/boots drawn on, to avoid wearing two pairs at once.=切换瑞克·普莱姆能力集的靴子叠加层。如果角色本身的皮肤上已经画有鞋子/靴子，请关闭此选项，以避免同时穿两双。
+Toggle Rick Prime's Powerset's boots overlay. Turn this off if the character's own skin already has shoes/boots drawn on, to avoid wearing two pairs at once.=切换瑞克·普莱姆能力集的靴子叠加层. 如果角色本身的皮肤上已经画有鞋子/靴子，请关闭此选项，以避免同时穿两双. 
 
 <b><color%3D#7CFC9A>Show Eyepatch: ON</color></b>=<b><color%3D#7CFC9A>显示眼罩：开</color></b>
 <b><color%3D#AAAAAA>Show Eyepatch: OFF</color></b>=<b><color%3D#AAAAAA>显示眼罩：关</color></b>
-Toggle the Evil Morty Powerset's eyepatch overlay. Turn this off if the character's own skin already has an eyepatch drawn on, to avoid wearing two at once.=切换邪恶莫蒂能力集的眼罩叠加层。如果角色本身的皮肤上已经画有眼罩，请关闭此选项，以避免同时佩戴两个。
+Toggle the Evil Morty Powerset's eyepatch overlay. Turn this off if the character's own skin already has an eyepatch drawn on, to avoid wearing two at once.=切换邪恶莫蒂能力集的眼罩叠加层. 如果角色本身的皮肤上已经画有眼罩，请关闭此选项，以避免同时佩戴两个. 
 
 
 
@@ -18161,8 +18161,8 @@ Be advised, ExplosiveBehaviour should not be added to androids with \"IsAndroid\
 
 //380*装置优化器_Contraption Optimizer
 <noparse>Contraption Optimizer</noparse>=<noparse>装置优化器</noparse>
-Optimisations for Contraption save/load.=针对装置保存/加载的优化。
-<size%3D1.5em>Contraption Optimizer</size>\nOptimisations for Contraption save/load.\n<noparse>A mod by EmperorFish for game version 1.27+</noparse>=<size%3D1.5em>装置优化器</size>\n针对装置保存/加载的优化。\n<noparse>由 EmperorFish 制作的模组，适用于游戏版本 1.27+</noparse>
+Optimisations for Contraption save/load.=针对装置保存/加载的优化. 
+<size%3D1.5em>Contraption Optimizer</size>\nOptimisations for Contraption save/load.\n<noparse>A mod by EmperorFish for game version 1.27+</noparse>=<size%3D1.5em>装置优化器</size>\n针对装置保存/加载的优化. \n<noparse>由 EmperorFish 制作的模组，适用于游戏版本 1.27+</noparse>
 
 
 
@@ -18176,10 +18176,10 @@ Optimisations for Contraption save/load.=针对装置保存/加载的优化。
 <size%3D1.5em>Some powerful toys</size>\n\n<noparse>A mod by EmperorFish for game version 1.27+</noparse>=<size%3D1.5em>一些强力玩具</size>\n\n<noparse>由 EmperorFish 制作的模组，适用于游戏版本 1.27+</noparse>
 
 <size%3D200%>Spear of Longinus</size>=<size%3D200%>朗基努斯之枪</size>
-<b><size%3D200%>Spear of Longinus</size></b>\r\n\nBaptized in holy blood, it stands as the ultimate paradox: a relic of absolute divinity forged into the perfect instrument of deicide. It does not merely pierce; it unmakes. Where its shadow falls, eternity shatters and gods descend into dust. It is the quietus of all myths—the absolute, silent, and undeniable end.=<b><size%3D200%>朗基努斯之枪</size></b>\r\n\n受圣血洗礼，它矗立为终极悖论：一件绝对神性的遗物，被锻造为弑神的完美工具。它不仅仅是刺穿；它使万物瓦解。在它的阴影落下的地方，永恒破碎，诸神化为尘土。它是所有神话的终结——绝对、沉默、不容置疑的终点。
+<b><size%3D200%>Spear of Longinus</size></b>\r\n\nBaptized in holy blood, it stands as the ultimate paradox: a relic of absolute divinity forged into the perfect instrument of deicide. It does not merely pierce; it unmakes. Where its shadow falls, eternity shatters and gods descend into dust. It is the quietus of all myths—the absolute, silent, and undeniable end.=<b><size%3D200%>朗基努斯之枪</size></b>\r\n\n受圣血洗礼，它矗立为终极悖论：一件绝对神性的遗物，被锻造为弑神的完美工具. 它不仅仅是刺穿；它使万物瓦解. 在它的阴影落下的地方，永恒破碎，诸神化为尘土. 它是所有神话的终结——绝对、沉默、不容置疑的终点. 
 
 <size%3D200%>Toy Hammer</size>=<size%3D200%>玩具锤</size>
-<b><size%3D200%>Toy Hammer</size></b>\r\n<size%3D120%>\nYou are a piece a cake...\nImagine that this entire game is made entirely of porcelain.\nEverything will break with just a light touch.</size>.=<b><size%3D200%>玩具锤</size></b>\r\n<size%3D120%>\n你简直是小菜一碟……\n想象一下，整个游戏完全是由瓷器制成的。\n只需轻轻一碰，一切都会碎裂。</size>.
+<b><size%3D200%>Toy Hammer</size></b>\r\n<size%3D120%>\nYou are a piece a cake...\nImagine that this entire game is made entirely of porcelain.\nEverything will break with just a light touch.</size>.=<b><size%3D200%>玩具锤</size></b>\r\n<size%3D120%>\n你简直是小菜一碟……\n想象一下，整个游戏完全是由瓷器制成的. \n只需轻轻一碰，一切都会碎裂. </size>.
 
 Intercept All Power=拦截所有能力
 
@@ -18195,7 +18195,7 @@ Intercept All Power=拦截所有能力
 2D light: soft shadows, nice fps idk=2D光照：柔和阴影，帧数表现不错
 <size%3D1.5em>BaleLighting</size>\n2D light: soft shadows, nice fps idk\n<noparse>A mod by Baleibo for game version 1.26+</noparse>=<size%3D1.5em>Bale光影</size>\n2D光照：柔和阴影，帧数表现不错\n<noparse>由 Baleibo 制作的模组，适用于游戏版本 1.26+</noparse>
 
-\n\nThanks for installing BaleLighting!\n\nDynamic light and soft shadows are now active.\n\nAlt+F8  -  settings  (rebindable in controls)\n\nFound a bug or have feedback? Please leave a comment.\nA rating helps a lot. Have fun!=\n\n感谢安装 Bale光影！\n\n动态光照和柔和阴影现已启用。\n\nAlt+F8  -  设置（可在控制设置中重新绑定按键）\n\n发现错误或有反馈？请留下评论。\n一个好评会很有帮助。祝玩得愉快！
+\n\nThanks for installing BaleLighting!\n\nDynamic light and soft shadows are now active.\n\nAlt+F8  -  settings  (rebindable in controls)\n\nFound a bug or have feedback? Please leave a comment.\nA rating helps a lot. Have fun!=\n\n感谢安装 Bale光影！\n\n动态光照和柔和阴影现已启用. \n\nAlt+F8  -  设置（可在控制设置中重新绑定按键）\n\n发现错误或有反馈？请留下评论. \n一个好评会很有帮助. 祝玩得愉快！
 
 Version {{A}}=版本 {{A}}
 PRESET=预设
@@ -18210,10 +18210,10 @@ Shadow Strength=阴影强度
 Shadow Softness=阴影柔和度
 ADVANCED=高级
 Show advanced settings=显示高级设置
-Internals. Nothing here needs changing to play. Wrong values will make the lighting look broken.=内部设置。游玩时无需更改此处。错误的数值会使光照看起来不正常。
+Internals. Nothing here needs changing to play. Wrong values will make the lighting look broken.=内部设置. 游玩时无需更改此处. 错误的数值会使光照看起来不正常. 
 Reset Image=重置图像
 Reset All=重置全部
-Not covered by the presets. Use Reset All to get back.=不在预设覆盖范围内。使用“重置全部”可恢复。
+Not covered by the presets. Use Reset All to get back.=不在预设覆盖范围内. 使用“重置全部”可恢复. 
 Blur full-res passes=模糊全分辨率通道
 Blur pyramid depth=模糊金字塔深度
 Blur min scale=模糊最小缩放
@@ -18273,48 +18273,48 @@ Toggle BaleLighting shadow casting for this object.=切换此对象的BaleLighti
 
 //383*衔尾蛇-0 - 纳米机器人身体_OUROBOROS-0 - Nanobot Body
 <noparse>OUROBOROS-0 - Nanobot Body</noparse>=<noparse>衔尾蛇-0 - 纳米机器人身体</noparse>
-A mod built around nanobots.=一个围绕纳米机器人构建的模组。
-<size%3D1.5em>OUROBOROS-0 - Nanobot Body</size>\nA mod built around nanobots.\n<noparse>A mod by lebangalademowgli for game version 1.27+</noparse>=<size%3D1.5em>衔尾蛇-0 - 纳米机器人身体</size>\n一个围绕纳米机器人构建的模组。\n<noparse>由 lebangalademowgli 制作的模组，适用于游戏版本 1.27+</noparse>
+A mod built around nanobots.=一个围绕纳米机器人构建的模组. 
+<size%3D1.5em>OUROBOROS-0 - Nanobot Body</size>\nA mod built around nanobots.\n<noparse>A mod by lebangalademowgli for game version 1.27+</noparse>=<size%3D1.5em>衔尾蛇-0 - 纳米机器人身体</size>\n一个围绕纳米机器人构建的模组. \n<noparse>由 lebangalademowgli 制作的模组，适用于游戏版本 1.27+</noparse>
 
 OUROBOROS-0 Syringe [NANO]=衔尾蛇-0 注射器 [纳米]
-<b>OUROBOROS-0 Syringe [NANO]</b>\r\nReplaces flesh with nanobots. A torn limb scatters into fragments that come back and rebuild it.=<b>衔尾蛇-0 注射器 [纳米]</b>\r\n用纳米机器人替换血肉。撕裂的肢体散落成碎片，这些碎片会重新聚集并重建它.
+<b>OUROBOROS-0 Syringe [NANO]</b>\r\nReplaces flesh with nanobots. A torn limb scatters into fragments that come back and rebuild it.=<b>衔尾蛇-0 注射器 [纳米]</b>\r\n用纳米机器人替换血肉. 撕裂的肢体散落成碎片，这些碎片会重新聚集并重建它.
 
-r:"^Nanobots: ([\d,]+)$" = "纳米机器人：$1"
-What he has left. Every power spends it.=他的剩余数量。每项能力都会消耗它。
+r:"^Nanobots:\s*([\d, ]+)$" = "纳米机器人：$1"
+What he has left. Every power spends it.=他的剩余数量. 每项能力都会消耗它. 
 Limit: 1.00B=上限：1.00B
 r:"^Limit: ([\d.,]+[BM]?)$" = "上限：$1"
-Click and type a new maximum.=点击并输入新的最大值。
+Click and type a new maximum.=点击并输入新的最大值. 
 Regen: 1.6M/s=再生：1.6M/s
 r:"^Regen: ([\d.,]+[MG]?/s)$" = "再生：$1"
-Click and type how many come back per second.=点击并输入每秒恢复的数量。
+Click and type how many come back per second.=点击并输入每秒恢复的数量. 
 Travel as a swarm=以蜂群形态移动
-F on the head, then click a spot: he scatters and reforms there.=在头部按F键，然后点击一个位置：他会散开并在那里重组。
+F on the head, then click a spot: he scatters and reforms there.=在头部按F键，然后点击一个位置：他会散开并在那里重组. 
 Reflex: on=反射：开
 Reflex: off=反射：关
-A plate rises where a fast hit lands. Never the first one.=在快速打击落点处会升起一块护板。第一次打击不会触发。
+A plate rises where a fast hit lands. Never the first one.=在快速打击落点处会升起一块护板. 第一次打击不会触发. 
 Regeneration: on=再生：开
 Regeneration: off=再生：关
-Wounds, bones and torn limbs come back on their own.=伤口、骨骼和撕裂的肢体会自动恢复。
+Wounds, bones and torn limbs come back on their own.=伤口、骨骼和撕裂的肢体会自动恢复. 
 Weakness: on=弱点：开
 Weakness: off=弱点：关
-Current, EMP and fire eat his nanobots. Off, nothing does.=电流、EMP和火焰会消耗他的纳米机器人。关闭后，则没有东西能消耗。
+Current, EMP and fire eat his nanobots. Off, nothing does.=电流、EMP和火焰会消耗他的纳米机器人. 关闭后，则没有东西能消耗. 
 Nanobot colour=纳米机器人颜色
-Colours everything: swarm, plating, blood, splatter.=为所有东西着色：蜂群、护甲、血液、飞溅。
+Colours everything: swarm, plating, blood, splatter.=为所有东西着色：蜂群、护甲、血液、飞溅. 
 Nanobot skin: on=纳米机器人皮肤：开
 Nanobot skin: off=纳米机器人皮肤：关
-A few nanobots stirring under his skin. Just to look at.=少量纳米机器人在他的皮肤下涌动。仅用于视觉效果。
+A few nanobots stirring under his skin. Just to look at.=少量纳米机器人在他的皮肤下涌动. 仅用于视觉效果. 
 Nanobot limit=纳米机器人上限
 Regeneration per second=每秒再生
 Pick the colour of his nanobots=选择他纳米机器人的颜色
 Split in two=一分为二
 Someone's double=某人的分身
 Reabsorb the double=重新吸收分身
-F on the middle body: half his nanobots stand up beside him.=在中躯干按F键：他一半的纳米机器人会在他身旁站起。
+F on the middle body: half his nanobots stand up beside him.=在中躯干按F键：他一半的纳米机器人会在他身旁站起. 
 Plating: off=护甲：关
 Plating: on=护甲：开
-F on the upper body: scales over his skin. Heavy, tough, no healing.=在上半身按F键：鳞甲覆盖他的皮肤。沉重、坚韧，无法自愈。
+F on the upper body: scales over his skin. Heavy, tough, no healing.=在上半身按F键：鳞甲覆盖他的皮肤. 沉重、坚韧，无法自愈. 
 Send the swarm=派出蜂群
-F on the arm, then click a target: the swarm eats it and returns.=在手臂上按F键，然后点击目标：蜂群会吞噬它并返回。
+F on the arm, then click a target: the swarm eats it and returns.=在手臂上按F键，然后点击目标：蜂群会吞噬它并返回. 
 
 
 
@@ -18325,11 +18325,11 @@ F on the arm, then click a target: the swarm eats it and returns.=在手臂上�
 
 //384*自定义能力赋予器_CustomPowerGiver
 <noparse>CustomPowerGiver</noparse>=<noparse>自定义能力赋予器</noparse>
-Custom Power Giver allows you to transform any ragdoll into a superhuman entity by granting, customizing, and managing stats (Max 9.5M), barrage, lightning and exploding heat.=自定义能力赋予器允许你通过授予、自定义和管理属性（最高950万）、弹幕、闪电和爆炸热量，将任何布娃娃转变为超人实体。
-<size%3D1.5em>CustomPowerGiver</size>\nOneEyedLord’s mod Custom Power Giver\n\nClick any ragdoll to open the power menu and grant custom abilities:\n\n* Stats: Customizable Health, Invulnerability, and Punch Power.\n* Abilities: Fist Barrage, Lightning Fists, and Explosive Strikes.\n=<size%3D1.5em>自定义能力赋予器</size>\n独眼领主的模组：自定义能力赋予器\n\n点击任意布娃娃以打开能力菜单并授予自定义能力：\n\n* 属性：可自定义生命值、无敌状态和拳击力量。\n* 能力：拳击弹幕、闪电之拳和爆炸打击。\n
+Custom Power Giver allows you to transform any ragdoll into a superhuman entity by granting, customizing, and managing stats (Max 9.5M), barrage, lightning and exploding heat.=自定义能力赋予器允许你通过授予、自定义和管理属性（最高950万）、弹幕、闪电和爆炸热量，将任何布娃娃转变为超人实体. 
+<size%3D1.5em>CustomPowerGiver</size>\nOneEyedLord’s mod Custom Power Giver\n\nClick any ragdoll to open the power menu and grant custom abilities:\n\n* Stats: Customizable Health, Invulnerability, and Punch Power.\n* Abilities: Fist Barrage, Lightning Fists, and Explosive Strikes.\n=<size%3D1.5em>自定义能力赋予器</size>\n独眼领主的模组：自定义能力赋予器\n\n点击任意布娃娃以打开能力菜单并授予自定义能力：\n\n* 属性：可自定义生命值、无敌状态和拳击力量. \n* 能力：拳击弹幕、闪电之拳和爆炸打击. \n
 
 Custom Power Giver=自定义能力赋予器
-<b>Custom Power Giver</b>\r\nTouch a person or click on them to open the power selector.<br><color%3D#aaaaaa>Health, durability, punch strength, barrage and exploding heat.</color>.=<b>自定义能力赋予器</b>\r\n触摸或点击一个人以打开能力选择器。<br><color%3D#aaaaaa>生命值、耐久度、拳击力量、弹幕和爆炸热量。</color>.
+<b>Custom Power Giver</b>\r\nTouch a person or click on them to open the power selector.<br><color%3D#aaaaaa>Health, durability, punch strength, barrage and exploding heat.</color>.=<b>自定义能力赋予器</b>\r\n触摸或点击一个人以打开能力选择器. <br><color%3D#aaaaaa>生命值、耐久度、拳击力量、弹幕和爆炸热量. </color>.
 
 Next >=下一个 >
 Punch Strength=打击力量
