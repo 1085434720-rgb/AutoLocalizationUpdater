@@ -18381,3 +18381,60 @@ Power Color=能量颜色
 <b>Barrage power granted.</b>=<b>弹幕能力已授予.</b>
 <b>Exploding Heat granted.</b>=<b>爆炸热量已授予.</b>
 <b>Lightning Fists granted.</b>=<b>闪电之拳已授予.</b>
+
+
+
+
+
+
+
+
+//385*程序化建筑生成器_Procedural Building Generator
+<noparse>Procedural Building Generator</noparse>=<noparse>程序化建筑生成器</noparse>
+Generate configurable destructible buildings in just 2 clicks=只需点击2次即可生成可配置的可摧毁建筑
+<size%3D1.5em>Procedural Building Generator</size>\nGenerate configurable destructible buildings in just 2 clicks\n<noparse>A mod by zazareviews for game version 1.27.7+</noparse>=<size%3D1.5em>程序化建筑生成器</size>\n只需点击2次即可生成可配置的可摧毁建筑\n<noparse>由 zazareviews 制作的模组，适用于游戏版本 1.27.7+</noparse>
+
+<b>Building Designer</b>\nOpen the procedural building designer.=<b>建筑设计师</b>\n打开程序化建筑设计师.
+
+Small House=小房子
+Office=办公室
+Apartment=公寓
+Warehouse=仓库
+
+STRUCTURE=结构
+Floors=楼层
+Vertical stories.=垂直层数.
+Rooms across=横向房间数
+Room bays on each floor.=每层房间开间数.
+Room width=房间宽度
+Horizontal wall segments per room.=每间房水平墙段数.
+Room height=房间高度
+Vertical wall segments per floor.=每层垂直墙段数.
+Interior divider walls=内部分隔墙
+
+LIVE PREVIEW=实时预览
+r:"Props\s+(\d+)\s+Steel bindings\s+~(\d+)\s+Total\s+~(\d+)\\nRooms\s+(\d+)\\n([\d.]+) m wide\s+×\s+([\d.]+) m tall\s+Frozen bottom (\d+)%" = "构件  $1     钢制绑带  ~$2     总计  ~$3\n房间  $4\n$5 米宽  ×  $6 米高     底部冻结 $7%"
+
+WINDOWS=窗户
+Use exterior windows=使用外墙窗户
+Left exterior=左侧外墙
+Right exterior=右侧外墙
+Tempered glass=钢化玻璃
+Window height=窗户高度
+Centered glass rows per floor.=每层居中玻璃行数.
+Glass thickness=玻璃厚度
+
+STRUCTURAL STRENGTH=结构强度
+Binding integrity=绑定完整性
+Binding multiplier=绑定倍率
+Joint frequency=关节频率
+Joint damping=关节阻尼
+0 Hz %3D fully stiff joint · 1.00 damping %3D maximum oscillation suppression=0 Hz %3D 完全刚性关节 · 1.00 阻尼 %3D 最大振荡抑制
+
+SPAWN BEHAVIOR=生成行为
+Freeze height=冻结高度
+Generated parts ignore each other=生成的部件互相忽略
+0% %3D off · freezes bottom-up in 5% steps=0% %3D 关闭 · 从下往上以5%的步长冻结
+
+Preview matches the exact planned prop layout.=预览与实际规划的布局一致.
+GENERATE=生成
