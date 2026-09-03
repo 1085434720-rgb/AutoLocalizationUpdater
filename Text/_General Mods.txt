@@ -18316,7 +18316,46 @@ F on the upper body: scales over his skin. Heavy, tough, no healing.=在上半�
 Send the swarm=派出蜂群
 F on the arm, then click a target: the swarm eats it and returns.=在手臂上按F键，然后点击目标：蜂群会吞噬它并返回. 
 
-
+Open ability menu=打开能力菜单
+A real panel, with everything on it.=一个真正的面板，上面什么都有.
+OUROBOROS-0=衔尾蛇-0
+r:"Nanobots ([\d, ]+)" = "纳米机器人 $1"
+HEAD=头部
+Infest someone=侵染目标
+Infest: pick someone=侵染：选择目标
+ARMS=手臂
+FORGE=锻造
+SHAPE THE ARM=塑造手臂
+sr:"^Shape the arm: (.*?)$" = "塑造手臂：$1"
+blade=刀刃
+gun=枪械
+fist=拳头
+     Blade   -   a long, heavy edge=     刀刃 - 长而重的锋刃
+     Gun   -   it fires at what he faces=     枪械 - 朝面对的方向开火
+     Fist   -   it does not cut, it caves in=     拳头 - 不切割，只砸碎
+UNDO=撤销
+Back to a hand=变回手臂
+Hunt: pick the prey=狩猎：选择猎物
+Transfer: off=转移：关
+Transfer: on=转移：开
+Spikes=尖刺
+UPPER BODY=上半身
+MIDDLE BODY=中躯干
+r:"Nanobot limit\s+([\d.]+[BKM]?)" = "纳米机器人上限：$1"
+r:"Nanobots per second\s+([\d.]+[BKM]?)" = "每秒纳米机器人：$1"
+r:"Repair speed\s+x([\d.]+)" = "修复速度：x$1"
+r:"Limb speed\s+x([\d.]+)" = "肢体速度：x$1"
+r:"Cost of powers\s+x([\d.]+)" = "能力消耗：x$1"
+Automatic plating: on=自动装甲：开启
+Automatic plating: off=自动装甲：关闭
+Weakness: on   (current, EMP, fire, magnets)=弱点：开启（电流、EMP、火焰、磁铁）
+Weakness: off=弱点：关闭
+sr:"Detail: (.*)" = "细节：$1"
+LOWER BODY=下半身
+Take a look=查看
+Morph: pick a look=变形：选择外观
+off=关闭
+on=开启
 
 
 
@@ -18341,4 +18380,4 @@ Exploding Heat ✓=爆炸热量 ✓
 Power Color=能量颜色
 <b>Barrage power granted.</b>=<b>弹幕能力已授予.</b>
 <b>Exploding Heat granted.</b>=<b>爆炸热量已授予.</b>
-<b>Lightning Fists.</b>=<b>闪电之拳.</b>
+<b>Lightning Fists granted.</b>=<b>闪电之拳已授予.</b>
