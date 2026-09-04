@@ -18411,6 +18411,11 @@ Horizontal wall segments per room.=每间房水平墙段数.
 Room height=房间高度
 Vertical wall segments per floor.=每层垂直墙段数.
 Interior divider walls=内部分隔墙
+Wall material=墙体材质
+Wall integrity=墙体完整性
+Wall health=墙体生命值
+Cobblestone Wall=鹅卵石墙
+Stone Brick Wall=石砖墙
 
 LIVE PREVIEW=实时预览
 r:"Props\s+(\d+)\s+Steel bindings\s+~(\d+)\s+Total\s+~(\d+)\\nRooms\s+(\d+)\\n([\d.]+) m wide\s+×\s+([\d.]+) m tall\s+Frozen bottom (\d+)%" = "构件  $1     钢制绑带  ~$2     总计  ~$3\n房间  $4\n$5 米宽  ×  $6 米高     底部冻结 $7%"
@@ -18437,4 +18442,47 @@ Generated parts ignore each other=生成的部件互相忽略
 0% %3D off · freezes bottom-up in 5% steps=0% %3D 关闭 · 从下往上以5%的步长冻结
 
 Preview matches the exact planned prop layout.=预览与实际规划的布局一致.
+Too many props. Limit: 450.=构件过多. 上限：450.
+Heavy structure: expect a short generation pause.=重型结构：预计生成会短暂暂停.
 GENERATE=生成
+
+
+
+
+
+
+
+//386*鲁迪乌斯·格雷拉特模组_A Rudeus Greyrat Mod
+<noparse>A Rudeus Greyrat Mod</noparse>=<noparse>鲁迪乌斯·格雷拉特模组</noparse>
+Adds Rudeus Greyrat from Mushoku Tensei with his magic, abilities, staff, and custom effects.=添加了来自《无职转生》的鲁迪乌斯·格雷拉特，包含他的魔法、能力、法杖和自定义效果。
+<size%3D1.5em>A Rudeus Greyrat Mod</size>\nAdds Rudeus Greyrat from Mushoku Tensei with his magic, abilities, staff, and custom effects.\n<noparse>A mod by Rems for game version 1.27+</noparse>=<size%3D1.5em>鲁迪乌斯·格雷拉特模组</size>\n添加了来自《无职转生》的鲁迪乌斯·格雷拉特，包含他的魔法、能力、法杖和自定义效果。\n<noparse>由 Rems 制作的模组，适用于游戏版本 1.27+</noparse>
+
+Rudeus Greyrat=鲁迪乌斯·格雷拉特
+<b>Rudeus Greyrat</b>\r\nRudeus Greyrat from Mushoku Tensei.=<b>鲁迪乌斯·格雷拉特</b>\r\n来自《无职转生》的鲁迪乌斯·格雷拉特.
+Rudeus Staff=鲁迪乌斯法杖
+<b>Rudeus Staff</b>\r\nRudeus Greyrat's magical staff.=<b>鲁迪乌斯法杖</b>\r\n鲁迪乌斯·格雷拉特的魔法法杖.
+
+Open Rudeus Power Menu=打开鲁迪乌斯能力菜单
+Open Rudeus Power Menu.=打开鲁迪乌斯能力菜单。
+Rudeus Powers=鲁迪乌斯的能力
+Stone Cannon=石弹
+Quagmire=泥沼
+Foresight Eye=预知眼
+Healing Magic=治愈魔法
+Nuclear Explosion [LOCKED]=核爆 [已锁定]
+Nuclear Explosion=核爆
+sr:"^Rudeus Magic: (.*?)$" = "鲁迪乌斯魔法：$1"
+Foresight Eye: ON=预知眼：开
+Foresight Eye: OFF=预知眼：关
+Nuclear Explosion is locked.=核爆已锁定.
+Nuclear Explosion charging...=核爆充能中...
+Nuclear Explosion Unlocked=核爆已解锁
+Nuclear Explosion: Select Target=核爆：选择目标
+Target out of range.=目标超出范围.
+Stone Cannon: High Rotation=石弹：高速旋转
+Stone Cannon: Maximum Rotation=石弹：最大旋转
+Fireball: Green Flame=火球：绿焰
+Fireball: Red Flame=火球：红焰
+Fireball: Blue Flame=火球：蓝焰
+Fireball: Purple Flame=火球：紫焰
+Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again!=让这股神圣之力化为滋养的养分，使失去力量之人重获崛起之力！
