@@ -13128,7 +13128,7 @@ Melee enhancement on leg contact.=腿部接触时近战强化.
 Kick Power  <size%3D70%><color%3D#444>Physical=踢击力量 <size%3D70%><color%3D#444>物理
 r:"Granted Kick Power to (.*?)\."="已向 $1 赋予踢击力量. "
 
-Barrage=连续拳击
+Barrage=弹幕拳击
 Passive rapid projectile barrage (hold H).=被动快速弹幕（按住H）. 
 Barrage  <size%3D70%><color%3D#444>Physical=弹幕拳 <size%3D70%><color%3D#444>物理
 r:"Granted Barrage to (.*?)\."="已向 $1 赋予弹幕拳. "
@@ -18367,6 +18367,8 @@ on=开启
 Custom Power Giver allows you to transform any ragdoll into a superhuman entity by granting, customizing, and managing stats (Max 9.5M), barrage, lightning and exploding heat.=自定义能力赋予器允许你通过授予、自定义和管理属性（最高950万）、弹幕、闪电和爆炸热量，将任何布娃娃转变为超人实体. 
 <size%3D1.5em>CustomPowerGiver</size>\nOneEyedLord’s mod Custom Power Giver\n\nClick any ragdoll to open the power menu and grant custom abilities:\n\n* Stats: Customizable Health, Invulnerability, and Punch Power.\n* Abilities: Fist Barrage, Lightning Fists, and Explosive Strikes.\n=<size%3D1.5em>自定义能力赋予器</size>\n独眼领主的模组：自定义能力赋予器\n\n点击任意布娃娃以打开能力菜单并授予自定义能力：\n\n* 属性：可自定义生命值、无敌状态和拳击力量. \n* 能力：拳击弹幕、闪电之拳和爆炸打击. \n
 
+<b>CustomPowerGiver</b>\r\nCustom Power Giver.=<b>自定义能力赋予器</b>\r\n自定义能力赋予器.
+
 Custom Power Giver=自定义能力赋予器
 <b>Custom Power Giver</b>\r\nTouch a person or click on them to open the power selector.<br><color%3D#aaaaaa>Health, durability, punch strength, barrage and exploding heat.</color>.=<b>自定义能力赋予器</b>\r\n触摸或点击一个人以打开能力选择器. <br><color%3D#aaaaaa>生命值、耐久度、拳击力量、弹幕和爆炸热量. </color>.
 
@@ -18486,3 +18488,132 @@ Fireball: Red Flame=火球：红焰
 Fireball: Blue Flame=火球：蓝焰
 Fireball: Purple Flame=火球：紫焰
 Let this divine power be as satisfying nourishment, giving one who has lost their strength the strength to rise again!=让这股神圣之力化为滋养的养分，使失去力量之人重获崛起之力！
+
+
+
+
+
+
+
+
+
+//389*拉格纳模组 重制版_Ragna Mod Remake
+<noparse>Ragna Mod Remake</noparse>=<noparse>拉格纳模组 重制版</noparse>
+<size%3D1.5em>Ragna Mod Remake</size>\n\n<noparse>A mod by Kuro, Wasted for game version 1.27+</noparse>=<size%3D1.5em>拉格纳模组 重制版</size>\n\n<noparse>由 Kuro、Wasted 制作的模组，适用于游戏版本 1.27+</noparse>
+
+<b>Ragna Crimson</b>.\r\n=<b>狩龙人拉格纳</b>.\r\n
+
+[Ragna Crimson] On/Off HealthRegenerator.=[狩龙人拉格纳] 生命回复器 开/关
+<b>[Ragna Crimson] On/Off HealthRegenerator.</b>\r\nToggle HealthRegenerator.=<b>[狩龙人拉格纳] 生命回复器 开/关</b>\r\n切换生命回复器.
+[Ragna Crimson] Ragna=[狩龙人拉格纳] 拉格纳
+<b>[Ragna Crimson] Ragna</b>.\r\n=<b>[狩龙人拉格纳] 拉格纳</b>.\r\n
+[Ragna Crimson] Sword=[狩龙人拉格纳] 剑
+<b>[Ragna Crimson] Sword</b>\r\nSilver Sword.=<b>[狩龙人拉格纳] 剑</b>\r\n银剑.
+
+
+HealthRegenerator Off=生命回复器 关
+HealthRegenerator On=生命回复器 开
+Outfit Settings=服装设置
+Настройки одежды на этом персонаже.=这个角色的服装设置.
+
+No abilities=无能力
+Full Body Passives=全身被动能力
+
+Slow Time=时缓
+
+Super Fly=超级飞行
+Super Fly +1=超级飞行 +1
+Enable flight=启用飞行
+Turn the flight mode on or off=开启或关闭飞行模式
+Speed multiplier=速度倍率
+Speed scales with distance to the cursor=速度随与光标的距离缩放
+Max speed=最大速度
+Upper speed limit=速度上限
+Acceleration=加速度
+How fast velocity catches up to the target=速度追赶目标的速度
+Turn strength=转向强度
+How hard the body turns toward the cursor=身体转向光标的力度
+Max turn rate=最大转向速度
+Angular speed limit, prevents spinning=角速度限制，防止旋转
+Turn smoothing=转向平滑度
+Lower is smoother, higher is snappier=数值越低越平滑，越高越干脆
+Upright speed=直立速度
+Below this speed the body returns upright=低于此速度时身体恢复直立
+
+Single Limb Barrage=单肢弹幕
+
+Super Kick (F)=超级踢击 (F)
+Super Kick — Settings=超级踢击 — 设置
+Сила удара (множитель урона)=打击力度（伤害倍率）
+Min Velocity=最小速度
+Минимальная скорость срабатывания=最小触发速度
+Раздавливать при добивании=终结时碾碎
+Отрывать (разрыв) при добивании=终结时撕裂（断肢）
+Low HP Boost=低血量增幅
+Усиление передачи скорости по слабым целям=对弱目标的速度传递增强
+Hand Slowdown=手部减速
+Насколько гасится рука после удара=击打后手臂减速程度
+Max Transfer Speed=最大传递速度
+Максимальная скорость, передаваемая цели=传递给目标的最大速度
+Additive Transfer=叠加传递
+Складывать скорость с текущей (иначе — заменять)=与当前速度叠加（否则替换）
+Chain Range=连锁范围
+Радиус цепной передачи урона=连锁伤害传递半径
+Chain Falloff=连锁衰减
+Доля урона следующей конечности=下一肢体的伤害比例
+Chain Bounces=连锁弹跳次数
+Число прыжков урона=伤害跳跃次数
+Copy to all limbs=复制到所有肢体
+Применить настройки к остальным рукам/ногам=将设置应用到其他手臂/腿部
+Apply to all=应用到全部
+
+SwordSpawn=剑生成
+SwordSpawn +1=剑生成 +1
+
+Sword Rain=剑雨
+Sword Rain +1=剑雨 +1
+Fire rate=射速
+Swords spawned per second while the key is held=按住按键时每秒生成的剑数
+Swords per shot=每次发射剑数
+How many swords appear at once=一次性出现的剑的数量
+Launch speed=发射速度
+Initial speed of every spawned sword=每把剑的初始速度
+Spread=散布
+Random angle spread in degrees=随机角度扩散（度）
+Sword lifetime=剑的持续时间
+Seconds before a sword dissolves away=剑消散前的秒数
+Max active swords=最大活跃剑数
+Safety limit on simultaneously spawned swords=同时生成剑的安全数量限制
+Muzzle distance=枪口距离
+How far from the limb swords appear=剑从肢体前方多远出现
+Spawn scatter=生成散布
+Random offset around the spawn point=生成点周围的随机偏移
+Dissolve effect=消散效果
+Materialise and vanish swords with the dissolve shader=使用消散着色器使剑出现和消失
+Dissolve in time=消散进入时间
+How long a sword takes to materialise=剑出现所需时间
+Dissolve out time=消散退出时间
+How long a sword takes to vanish=剑消失所需时间
+Dissolve type=消散类型
+Which dissolve pattern the shader uses=着色器使用的消散模式
+
+Super Punch (F)=超级拳击（F）
+Super Punch — Settings=超级拳击 — 设置
+
++1 passive=+1 被动
+
+Aura Style=气场样式
+Old particles / New particles / Material=旧粒子 / 新粒子 / 材质
+Aura Tint=气场色调
+Tint multiplied over the whole aura=色调叠加在整个气场上
+Sprite Scale=精灵缩放
+Extra scale of the duplicated sprite=复制精灵的额外缩放
+Sorting Offset=排序偏移
+How far behind the body the aura sits=气场位于身体后方多远
+Rebuild Aura=重建气场
+Re-create the aura sprites (after changing padding)=重新创建气场精灵（更改内边距后）
+Back to the default material values=恢复默认材质值
+Material=材质
+Old Particles=旧粒子
+New Particles=新粒子
+Rebuild=重建
