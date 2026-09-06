@@ -17,6 +17,8 @@ MPW Library Patch Notification.\n\nYou may notice a terminal opening. This is <c
 I understand and will restart=我明白了，我会重启
 MPWSettings: Settings reset=MPW设置：设置已重置
 
+MPW Library Patch Notification.\r\n\r\nThe patch was applied successfully. Please <color%3Dyellow>restart</color> People Playground.\r\nFor more details, check the mod description on workshop page.\r\nIf you want to revert the patch, use Verify integrity of game files on Steam.=MPW库补丁通知.\r\n\r\n补丁已成功应用. 请<color%3Dyellow>重启</color> People Playground.\r\n更多详情请查看创意工坊页面上的模组描述. \r\n如果你想还原补丁，请在Steam上使用验证游戏文件完整性.
+
 
 
 
@@ -222,46 +224,119 @@ Prostheses Mod Rework=义肢模组重制
 Rework of the old Prostheses Mod: new prosthetics, improved old ones, as well as other unique devices and items.=重制旧假肢模组：新义体、改进旧义体，以及其他独特装置和物品.
 New Update=新更新
 <b>Prostheses 2.0</b>\r\nProsthetics, implants, devices, and other cybernetic items.=<b>[假肢 2.0]TF_RC汉化</b>\r\n假体、植入物、装置及其他义体组件.
+
+
 //*物品
-<b>[PMR] Enhanced fireworks</b>\r\nA small firework rocket, but enhanced - meaning it has higher speed, longer time before explosion, and increased damage.=<b>[PMR] 强化烟花</b>\r\n一个小型烟花火箭，但经过强化——速度更快，爆炸前时间更长，伤害也更高.
-<b>[PMR] Broadcast television</b>\r\nBroadcast television. Switch channels by clicking a buttons on the object itself. The video content on the channels changes over time.=<b>[PMR] 广播电视</b>\r\n广播电视. 通过点击物体本身的按钮切换频道. 频道上的视频内容会随时间变化.
+[PMR] Broadcast television=[PMR] 广播电视
+<b>[PMR] Broadcast television</b>\r\nBroadcast television. There are 4 channels. Switch between them by clicking a buttons on the object itself. The video content on the channels changes over time.=<b>[PMR] 广播电视</b>\r\n广播电视. 共有4个频道. 通过点击物体本身的按钮在它们之间切换. 频道上的视频内容会随时间变化.
+
+[PMR] Enhanced fireworks=[PMR] 强化烟花
+<b>[PMR] Enhanced fireworks</b>\r\nA small firework rocket, but enhanced - meaning it has higher speed, longer time before explosion, and increased damage.=<b>[PMR] 强化烟花</b>\r\n一种小型烟花火箭，但经过强化—意味着它具有更高的速度、更长的爆炸延迟时间和更高的伤害.
+
+[PMR] Glue Container=[PMR] 胶水容器
+<b>[PMR] Glue Container</b>\r\nA liquid container that can hold any liquid from the game. Can be used for glue weapons.=<b>[PMR] 胶水容器</b>\r\n一种液体容器，可容纳游戏中的任何液体. 可用于胶水武器.
+
+
 //*假肢
-<b>[PMR] Gravitational Ray Arm <size%3D14><color%3Dyellow>[Grab-3]</size></color></b>\r\nGravity prosthesis, designed to manipulate objects using energy beams.\nBy <color%3Dred>H by default</color> creates two energy beams that grab an object.\nBy <color%3Dred>Double H by default</color> throws the currently grabbed object forward.=<b>[PMR] 引力射线臂 <size%3D14><color%3Dyellow>[Grab-3]</size></color></b>\r\n重力义体，设计用于使用能量束操控物体.\n默认按 <color%3Dred>H</color> 可生成两道能量束抓取物体.\n默认按 <color%3Dred>双击 H</color> 可向前抛出当前抓取的物体.
-<b>[PMR] Tactical Blade Arm <size%3D14><color%3Dyellow>[Blart-1]</size></color></b>\r\nA prosthesis equipped with retractable blades for close combat.\nBy <color%3Dred>H by default</color> to extend the sharp blades.\nBy <color%3Dred>Double H by default</color> throws objects in front of it forward.=<b>[PMR] 战术刀臂 <size%3D14><color%3Dyellow>[Blart-1]</size></color></b>\r\n一种配备可伸缩刀片的义体，用于近战.\n默认按 <color%3Dred>H</color> 伸出锋利的刀片.\n默认按 <color%3Dred>双击 H</color> 将前方的物体向前抛出.
-<b>[PMR] Circularsaw Arm <size%3D14><color%3Dyellow>[CSA-1]</size></color></b>\r\nMassive circularsaw arm, highly effective against flesh. In most cases, it tears the target to pieces.\nBy <color%3Dred>H by default</color> spins up the saw, dealing colossal cutting damage.=<b>[PMR] 圆锯臂 <size%3D14><color%3Dyellow>[CSA-1]</size></color></b>\r\n巨大的圆锯臂，对血肉极为有效. 大多数情况下，它能将目标撕成碎片. \n默认按 <color%3Dred>H</color> 启动圆锯旋转，造成巨量切割伤害.
-<b>[PMR] Homing Rocket Launcher <size%3D14><color%3Dyellow>[HRL-1]</color></size></b>\r\nMissile prosthesis, designed to launch small homing rockets.\nBy <color%3Dred>H by default</color> opens its palm cover and launches a homing missile forward.=<b>[PMR] 制导火箭发射器 <size%3D14><color%3Dyellow>[HRL-1]</color></size></b>\r\n导弹义体，设计用于发射小型制导火箭. \n默认按 <color%3Dred>H</color> 打开手掌盖并向前发射一枚制导导弹.
-<b>[PMR] Firework Launcher <size%3D14><color%3Dyellow>[FWL]</size></color></b>\r\nA firework-launcher prosthesis. Uses fireworks as ammo (standard and enhanced).\nBy <color%3Dred>H by default</color> By default, pressing H launches a firework forward in sequence, starting from the first slot.=<b>[PMR] 烟花发射器 <size%3D14><color%3Dyellow>[FWL]</size></color></b>\r\n一种烟花发射义体. 使用烟花作为弹药（标准型和强化型）. \n默认按 <color%3Dred>H</color> 默认情况下，按 H 会从第一个槽位开始依次向前发射一枚烟花. 
-<b>[PMR] Energy Sword Arm-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\nA prosthesis with a pink energy sword inside.\nBy <color%3Dred>H by default</color> opens a lid on the palm and activates the energy sword.=<b>[PMR] 能量剑臂-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\n一种内部装有粉色能量剑的义体.\n默认按 <color%3Dred>H</color> 打开手掌盖并激活能量剑.
-<b>[PMR] Energy Karambit</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower arm</color>=<b>[PMR] 能量爪刀</b>\r\n一种金属义体，无特殊功能.\n替换 <color%3Dred>下臂</color>
-<b>[PMR] Glue Shooter <size%3D14><color%3Dyellow>[GluS-1]</size></color></b>\r\nA “Sticky” prosthesis, designed to shoot sticky blobs of glue.\nBy <color%3Dred>H by default</color> releases a glue blob that, upon contact with any physical object, causes it to stick to the background or nearby objects.=<b>[PMR] 胶水发射器 <size%3D14><color%3Dyellow>[GluS-1]</size></color></b>\r\n一种“粘性”义体，设计用于发射粘性胶团.\n默认按 <color%3Dred>H</color> 释放一团胶水，当它与任何物理对象接触时，会使其粘附在背景或附近物体上.
-<b>[PMR] Shock Hand-1 <size%3D14><color%3Dyellow>[SH-1]</color></size></b>\r\nAn electrically based prosthesis that harnesses the power of electricity.\nBy <color%3Dred>H by default</color> electrifies the palm, shocking any struck object.\nBy <color%3Dred>holding H by default</color>, starts charging up, and releasing it unleashes the energy forward.=<b>[PMR] 电击手-1 <size%3D14><color%3Dyellow>[SH-1]</color></size></b>\r\n一种基于电力的义体，驾驭电能之力.\n默认按 <color%3Dred>H</color> 使手掌带电，电击任何被击中的物体.\n默认按住 <color%3Dred>H</color> 开始充能，松开时将能量向前释放.
-<b>[PMR] Personal Weaponized Arm <size%3D14><color%3Dyellow>[Pewo-1]</size></color></b>\r\nA machine-gun arm with high rate of fire and mobility.\nBy <color%3Dred>H by default</color> fires a massive volley of bullets.=<b>[PMR] 个人武装臂 <size%3D14><color%3Dyellow>[Pewo-1]</size></color></b>\r\n一种高射速、高机动性的机枪臂.\n默认按 <color%3Dred>H</color> 发射大量子弹.
-<b>[PMR] Retro Warrior Arm <size%3D14><color%3Dyellow>[RWA]</size></color></b>\r\nRetro prosthesis with a wrist shield that blocks bullets, reinforced frame, and sharp spikes on the lower arm.\nBy <color%3Dred>H by default</color> toggles Freeze Rotation function.=<b>[PMR] 复古战士臂 <size%3D14><color%3Dyellow>[RWA]</size></color></b>\r\n复古义体，带有可挡子弹的手腕护盾、强化框架以及下臂上的锋利尖刺.\n默认按 <color%3Dred>H</color> 切换冻结旋转功能.
-<b>[PMR] Energy Sword Arm-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\nA prosthesis with a energy sword inside.\nBy <color%3Dred>H by default</color> opens a lid on the palm and activates the energy sword.=<b>[PMR] 能量剑臂-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\n一种内部装有能量剑的义体.\n默认按 <color%3Dred>H</color> 打开手掌盖并激活能量剑.
-<b>[PMR] Energy Blade Foot <size%3D14><color%3Dyellow>[EBF]</size></color></b>\r\nA energy prosthesis is designed for close combat, dealing the highest damage and heating enemies on impact.\nBy <color%3Dred>H by default</color> activates a energy blade on a foot.=<b>[PMR] 能量刃脚 <size%3D14><color%3Dyellow>[EBF]</size></color></b>\r\n一种能量义体，专为近战设计，造成最高伤害并在撞击时加热敌人.\n默认按 <color%3Dred>H</color> 激活脚上的能量刃.
-<b>[PMR] Energy Karambit <size%3D14><color%3Dyellow>[EK]</size></color></b>\r\nA energy prosthesis is designed for close combat, featuring a shortened curved blade that deals more damage than the extended version.\nBy <color%3Dred>H by default</color> rotates the mechanism and activates a energy blade.=<b>[PMR] 能量爪刀 <size%3D14><color%3Dyellow>[EK]</size></color></b>\r\n一种能量义体，专为近战设计，具有缩短的弯曲刀刃，比加长版造成更高伤害.\n默认按 <color%3Dred>H</color> 旋转机械结构并激活能量刀刃.
-<b>[PMR] Metal long full arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper and lower arm</color>=<b>[PMR] 金属长全臂</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上臂和下臂</color>
-<b>[PMR] Metal long full leg</b>\r\nA metal prosthesis with no special features, but with a comically long frame.\nReplaces <color%3Dred>upper and lower leg and foot</color>=<b>[PMR] 金属长全腿</b>\r\n一种无特殊功能的金属义体，但有着滑稽的长骨架.\n替换 <color%3Dred>大腿、小腿和脚</color>
-<b>[PMR] Cheap full arm</b>\r\nMetal frame that is fairly fragile, but stronger than wooden ones and can break apart into pieces.\nReplaces <color%3Dred>upper and lower arm</color>=<b>[PMR] 廉价全臂</b>\r\n金属框架，相当脆弱，但比木制义体更坚固，且可以碎裂成片.\n替换 <color%3Dred>上臂和下臂</color>
-<b>[PMR] Cheap full leg</b>\r\nMetal frame that is fairly fragile, but stronger than wooden ones and can break apart into pieces.\nReplaces <color%3Dred>upper and lower leg and foot</color>=<b>[PMR] 廉价全腿</b>\r\n金属框架，相当脆弱，但比木制义体更坚固，且可以碎裂成片.\n替换 <color%3Dred>大腿、小腿和脚</color>
-<b>[PMR] Wooden hook</b>\r\nProsthesis with a sharp hook at the end.\nReplaces <color%3Dred>lower arm</color>=<b>[PMR] 木制钩爪</b>\r\n末端带有锋利钩子的义体.\n替换 <color%3Dred>下臂</color>
-<b>[PMR] Wooden lower leg</b>\r\nFeel like a pirate. Because of its low durability, it can easily break into pieces.\nReplaces <color%3Dred>lower leg</color>=<b>[PMR] 木制小腿</b>\r\n感觉自己像个海盗.由于其低耐久度，它很容易碎裂成片.\n替换 <color%3Dred>小腿</color>
-<b>[PMR] Metal upper arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper arm</color>=<b>[PMR] 金属上臂</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上臂</color>
-<b>[PMR] Metal lower arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower arm</color>=<b>[PMR] 金属下臂</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>下臂</color>
-<b>[PMR] Metal full arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper and lower arm</color>=<b>[PMR] 金属全臂</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上臂和下臂</color>
-<b>[PMR] Metal upper leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper leg</color>=<b>[PMR] 金属大腿</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>大腿</color>
-<b>[PMR] Metal lower leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower leg and foot</color>=<b>[PMR] 金属小腿</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>小腿和脚</color>
-<b>[PMR] Metal foot</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>foot</color>=<b>[PMR] 金属脚</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>脚</color>
-<b>[PMR] Metal full leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper and lower leg and foot</color>=<b>[PMR] 金属全腿</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>大腿、小腿和脚</color>
-<b>[PMR] Metal upper body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper body</color>=<b>[PMR] 金属上半身</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上半身</color>
-<b>[PMR] Metal middle body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>middle body</color>=<b>[PMR] 金属中段躯干</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>中段躯干</color>
-<b>[PMR] Metal lower body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower body</color>=<b>[PMR] 金属下半身</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>下半身</color>
-<b>[PMR] Metal full body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper, middle and lower body</color>=<b>[PMR] 金属全身</b>\r\n一种无特殊功能的金属义体.\n替换 <color%3Dred>上半身、中段躯干和下半身</color>
+[PMR] Gravitational Ray Arm <size%3D14><color%3Dyellow>[Grab-3]</size></color>=[PMR] 引力射线臂 <size%3D14><color%3Dyellow>[Grab-3]</size></color>
+<b>[PMR] Gravitational Ray Arm <size%3D14><color%3Dyellow>[Grab-3]</size></color></b>\r\nGravity prosthesis, designed to manipulate objects using energy beams.\nBy <color%3Dred>H by default</color> creates two energy beams that grab an object.\nBy <color%3Dred>Double H by default</color> throws the currently grabbed object forward.=<b>[PMR] 引力射线臂 <size%3D14><color%3Dyellow>[Grab-3]</size></color></b>\r\n重力义肢，设计用于使用能量束操控物体. \n默认按 <color%3Dred>H</color> 可产生两道抓住物体的能量束. \n默认按 <color%3Dred>两次 H</color> 可将当前抓住的物体向前投掷. 
+
+[PMR] Tactical Blade Arm <size%3D14><color%3Dyellow>[Blart-1]</color></size>=[PMR] 战术刀锋臂 <size%3D14><color%3Dyellow>[Blart-1]</color></size>
+<b>[PMR] Tactical Blade Arm <size%3D14><color%3Dyellow>[Blart-1]</color></size></b>\r\nA prosthesis equipped with retractable blades for close combat.\nBy <color%3Dred>H by default</color> to extend the sharp blades.\nBy <color%3Dred>Double H by default</color> throws objects in front of it forward.=<b>[PMR] 战术刀锋臂 <size%3D14><color%3Dyellow>[Blart-1]</color></size></b>\r\n一种配备可伸缩刀片的义肢，用于近身战斗. \n默认按 <color%3Dred>H</color> 伸出锋利刀片. \n默认按 <color%3Dred>两次 H</color> 将前方物体向前投掷. 
+
+[PMR] Circularsaw Arm <size%3D14><color%3Dyellow>[CSA-1]</size></color>=[PMR] 圆锯臂 <size%3D14><color%3Dyellow>[CSA-1]</size></color>
+<b>[PMR] Circularsaw Arm <size%3D14><color%3Dyellow>[CSA-1]</size></color></b>\r\nMassive circular saw arm, highly effective against flesh. In most cases, it tears the target to pieces.\nBy <color%3Dred>H by default</color> spins up the saw, dealing colossal cutting damage.=<b>[PMR] 圆锯臂 <size%3D14><color%3Dyellow>[CSA-1]</size></color></b>\r\n巨大的圆锯臂，对血肉极其有效. 大多数情况下，它能将目标撕成碎片. \n默认按 <color%3Dred>H</color> 启动圆锯旋转，造成巨大的切割伤害. 
+
+[PMR] Homing Rocket Launcher <size%3D14><color%3Dyellow>[HRL-1]</color></size>=[PMR] 追踪火箭发射器 <size%3D14><color%3Dyellow>[HRL-1]</color></size>
+<b>[PMR] Homing Rocket Launcher <size%3D14><color%3Dyellow>[HRL-1]</color></size></b>\r\nMissile prosthesis, designed to launch small homing rockets.\nBy <color%3Dred>H by default</color> opens its palm cover and launches a homing missile forward.=<b>[PMR] 追踪火箭发射器 <size%3D14><color%3Dyellow>[HRL-1]</color></size></b>\r\n导弹义肢，设计用于发射小型追踪火箭. \n默认按 <color%3Dred>H</color> 打开掌心盖并向前发射追踪导弹. 
+
+[PMR] Retro Warrior Arm <size%3D14><color%3Dyellow>[RWA]</size></color>=[PMR] 复古战士臂 <size%3D14><color%3Dyellow>[RWA]</size></color>
+<b>[PMR] Retro Warrior Arm <size%3D14><color%3Dyellow>[RWA]</size></color></b>\r\nRetro prosthesis with a wrist shield that blocks bullets, reinforced frame, and sharp spikes on the lower arm.\r\nBy <color%3Dred>H by default</color> toggles Freeze Rotation function.=<b>[PMR] 复古战士臂 <size%3D14><color%3Dyellow>[RWA]</size></color></b>\r\n复古义肢，配备可阻挡子弹的手腕护盾、加固框架和前臂上的锋利尖刺. \n默认按 <color%3Dred>H</color> 切换冻结旋转功能. 
+
+[PMR] Personal Weaponized Arm <size%3D14><color%3Dyellow>[Pewo-1]</size></color>=[PMR] 个人武装臂 <size%3D14><color%3Dyellow>[Pewo-1]</size></color>
+<b>[PMR] Personal Weaponized Arm <size%3D14><color%3Dyellow>[Pewo-1]</size></color></b>\r\nA machine-gun arm with high rate of fire and mobility.  \r\nBy <color%3Dred>H by default</color> fires a massive volley of bullets.=<b>[PMR] 个人武装臂 <size%3D14><color%3Dyellow>[Pewo-1]</size></color></b>\r\n一种高射速、高机动性的机枪手臂. \n默认按 <color%3Dred>H</color> 发射大量子弹齐射. 
+
+[PMR] Shock Hand-1 <size%3D14><color%3Dyellow>[SH-1]</color></size>=[PMR] 电击手-1 <size%3D14><color%3Dyellow>[SH-1]</color></size>
+<b>[PMR] Shock Hand-1 <size%3D14><color%3Dyellow>[SH-1]</color></size></b>\r\nAn electrically based prosthesis that harnesses the power of electricity.\nBy <color%3Dred>H by default</color> electrifies the palm, shocking any struck object.\nBy <color%3Dred>holding H by default</color>, starts charging up, and releasing it unleashes the energy forward.=<b>[PMR] 电击手-1 <size%3D14><color%3Dyellow>[SH-1]</color></size></b>\r\n一种基于电力的义肢，能驾驭电能. \n默认按 <color%3Dred>H</color> 使手掌带电，电击任何被击中的物体. \n默认 <color%3Dred>长按 H</color> 开始充能，释放时将能量向前方释放. 
+
+[PMR] Firework Launcher <size%3D14><color%3Dyellow>[FWL]</size></color>=[PMR] 烟花发射器 <size%3D14><color%3Dyellow>[FWL]</size></color>
+<b>[PMR] Firework Launcher <size%3D14><color%3Dyellow>[FWL]</size></color></b>\r\nA firework-launcher prosthesis. Uses fireworks as ammo (standard and enhanced).\nBy <color%3Dred>H by default</color> By default, pressing H launches a firework forward in sequence, starting from the first slot.=<b>[PMR] 烟花发射器 <size%3D14><color%3Dyellow>[FWL]</size></color></b>\r\n一种烟花发射器义肢. 使用烟花作为弹药（标准和强化型）. \n默认按 <color%3Dred>H</color> 从第一个槽位开始依次向前发射烟花. 
+
+[PMR] Glue Shooter <size%3D14><color%3Dyellow>[GluS-1]</size></color>=[PMR] 胶水发射器 <size%3D14><color%3Dyellow>[GluS-1]</size></color>
+<b>[PMR] Glue Shooter <size%3D14><color%3Dyellow>[GluS-1]</size></color></b>\r\nA “Sticky” prosthesis, designed to shoot sticky blobs of glue.\nBy <color%3Dred>H by default</color> releases a glue blob that, upon contact with any physical object, causes it to stick to the background or nearby objects.=<b>[PMR] 胶水发射器 <size%3D14><color%3Dyellow>[GluS-1]</size></color></b>\r\n一种“粘性”义肢，设计用于发射粘性胶团. \n默认按 <color%3Dred>H</color> 释放胶团，接触任何物理物体后会使其粘附在背景或附近物体上. 
+
+[PMR] Energy Sword Arm-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color>=[PMR] 能量剑臂-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color>
+<b>[PMR] Energy Sword Arm-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\nA prosthesis with a energy sword inside.\nBy <color%3Dred>H by default</color> opens a lid on the palm and activates the energy sword.=<b>[PMR] 能量剑臂-1 <size%3D14><color%3Dyellow>[ESA-1]</size></color></b>\r\n一种内置能量剑的义肢. \n默认按 <color%3Dred>H</color> 打开手掌上的盖子并激活能量剑. 
+
+[PMR] Energy Karambit <size%3D14><color%3Dyellow>[EK]</size></color>=[PMR] 能量爪刀 <size%3D14><color%3Dyellow>[EK]</size></color>
+<b>[PMR] Energy Karambit <size%3D14><color%3Dyellow>[EK]</size></color></b>\r\nA energy prosthesis is designed for close combat, featuring a shortened curved blade that deals more damage than the extended version.\nBy <color%3Dred>H by default</color> rotates the mechanism and activates a energy blade.=<b>[PMR] 能量爪刀 <size%3D14><color%3Dyellow>[EK]</size></color></b>\r\n一种专为近战设计的能量义肢，拥有缩短的弧形刀片，比伸展版本造成更高伤害. \n默认按 <color%3Dred>H</color> 旋转机构并激活能量刀片. 
+
+[PMR] Energy Blade Foot <size%3D14><color%3Dyellow>[EBF]</size></color>=[PMR] 能量刃足 <size%3D14><color%3Dyellow>[EBF]</size></color>
+<b>[PMR] Energy Blade Foot <size%3D14><color%3Dyellow>[EBF]</size></color></b>\r\nA energy prosthesis is designed for close combat, dealing the highest damage and heating enemies on impact.  \r\nBy <color%3Dred>H by default</color> activates a energy blade on a foot.  =<b>[PMR] 能量刃足 <size%3D14><color%3Dyellow>[EBF]</size></color></b>\r\n一种专为近战设计的能量义肢，造成最高伤害并在撞击时加热敌人. \n默认按 <color%3Dred>H</color> 激活足部能量刃. 
+
+[PMR] Metal full body=[PMR] 金属全身
+<b>[PMR] Metal full body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper, middle and lower body</color>.=<b>[PMR] 金属全身</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>上躯干、中躯干和下躯干</color>. 
+
+[PMR] Metal full arm=[PMR] 金属全臂
+<b>[PMR] Metal full arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper and lower arm</color>.=<b>[PMR] 金属全臂</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>上臂和前臂</color>. 
+
+[PMR] Metal lower arm=[PMR] 金属前臂
+<b>[PMR] Metal lower arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower arm</color>.=<b>[PMR] 金属前臂</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>前臂</color>. 
+
+[PMR] Metal upper arm=[PMR] 金属上臂
+<b>[PMR] Metal upper arm</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper arm</color>.=<b>[PMR] 金属上臂</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>上臂</color>. 
+
+[PMR] Metal long full arm=[PMR] 金属长全臂
+<b>[PMR] Metal long full arm</b>\r\nA metal prosthesis with no special features, but with a comically long frame.\r\nReplaces <color%3Dred>upper and lower arm</color>.=<b>[PMR] 金属长全臂</b>\r\n一种无特殊功能但框架异常长的金属义肢. \n替换 <color%3Dred>上臂和前臂</color>. 
+
+[PMR] Metal full leg=[PMR] 金属全腿
+<b>[PMR] Metal full leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper and lower leg and foot</color>.=<b>[PMR] 金属全腿</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>大腿、小腿和脚</color>. 
+
+[PMR] Metal lower leg=[PMR] 金属小腿
+<b>[PMR] Metal lower leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower leg and foot</color>.=<b>[PMR] 金属小腿</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>小腿和脚</color>. 
+
+[PMR] Metal upper leg=[PMR] 金属大腿
+<b>[PMR] Metal upper leg</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper leg</color>.=<b>[PMR] 金属大腿</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>大腿</color>. 
+
+[PMR] Metal foot=[PMR] 金属脚
+<b>[PMR] Metal foot</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>foot</color>.=<b>[PMR] 金属脚</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>脚</color>. 
+
+[PMR] Metal long full leg=[PMR] 金属长全腿
+<b>[PMR] Metal long full leg</b>\r\nA metal prosthesis with no special features, but with a comically long frame.\nReplaces <color%3Dred>upper and lower leg and foot</color>.=<b>[PMR] 金属长全腿</b>\r\n一种无特殊功能但框架异常长的金属义肢. \n替换 <color%3Dred>大腿、小腿和脚</color>. 
+
+[PMR] Metal upper body=[PMR] 金属上躯干
+<b>[PMR] Metal upper body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>upper body</color>.=<b>[PMR] 金属上躯干</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>上躯干</color>. 
+
+[PMR] Metal middle body=[PMR] 金属中躯干
+<b>[PMR] Metal middle body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>middle body</color>.=<b>[PMR] 金属中躯干</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>中躯干</color>. 
+
+[PMR] Metal lower body=[PMR] 金属下躯干
+<b>[PMR] Metal lower body</b>\r\nA metal prosthesis with no special features.\nReplaces <color%3Dred>lower body</color>.=<b>[PMR] 金属下躯干</b>\r\n一种无特殊功能的金属义肢. \n替换 <color%3Dred>下躯干</color>. 
+
+[PMR] Cheap full arm=[PMR] 廉价全臂
+<b>[PMR] Cheap full arm</b>\r\nMetal frame that is fairly fragile, but stronger than wooden ones and can break apart into pieces.  \r\nReplaces <color%3Dred>upper and lower arm</color>.=<b>[PMR] 廉价全臂</b>\r\n相当脆弱的金属框架，但比木质义肢坚固，并能碎裂成碎片. \n替换 <color%3Dred>上臂和前臂</color>. 
+
+[PMR] Cheap full leg=[PMR] 廉价全腿
+<b>[PMR] Cheap full leg</b>\r\nMetal frame that is fairly fragile, but stronger than wooden ones and can break apart into pieces.  \r\nReplaces <color%3Dred>upper and lower leg and foot</color>.=<b>[PMR] 廉价全腿</b>\r\n相当脆弱的金属框架，但比木质义肢坚固，并能碎裂成碎片. \n替换 <color%3Dred>大腿、小腿和脚</color>. 
+
+[PMR] Wooden hook=[PMR] 木质钩
+<b>[PMR] Wooden hook</b>\r\nProsthesis with a sharp hook at the end.\nReplaces <color%3Dred>lower arm</color>.=<b>[PMR] 木质钩</b>\r\n末端带有锋利钩子的义肢. \n替换 <color%3Dred>前臂</color>. 
+
+[PMR] Wooden lower leg=[PMR] 木质小腿
+<b>[PMR] Wooden lower leg</b>\r\nFeel like a pirate. Because of its low durability, it can easily break into pieces.\nReplaces <color%3Dred>lower leg</color>.=<b>[PMR] 木质小腿</b>\r\n感觉自己像个海盗. 由于耐久度低，很容易碎裂成碎片. \n替换 <color%3Dred>小腿</color>. 
+
+
 //*武器
-<b>[PMR] Blink Dagger</b>\r\nEnergy dagger. Uses teleportation mechanics. Can be configured in the context menu.\nBy <color%3Dred>H by default</color> teleports a dagger forward.\nBy <color%3Dred>Holding H by default</color> aiming at the nearest target.=<b>[PMR] 闪烁匕首</b>\r\n能量匕首. 使用传送机制. 可在右键菜单中配置.\n默认按 <color%3Dred>H</color> 将匕首向前传送.\n默认按住 <color%3Dred>H</color> 瞄准最近的目标.
-<b>[PMR] Chain Blink Dagger</b>\r\nAn upgraded version of the blink dagger, but it teleports in a chain between different entities. Can be configured in the context menu.\nBy <color%3Dred>F by default</color> teleports a dagger forward.\nBy <color%3Dred>Holding F by default</color> aiming at the nearest target.=<b>[PMR] 连锁闪烁匕首</b>\r\n闪烁匕首的升级版，可在不同实体之间连锁传送. 可在右键菜单中配置.\n默认按 <color%3Dred>F</color> 将匕首向前传送.\n默认按住 <color%3Dred>F</color> 瞄准最近的目标.
-<b>[PMR] Glue Gun</b>\r\nGlue Shooter gun version. It’s great when you can use glue while having both hands!=<b>[PMR] 胶水枪</b>\r\n胶水发射器的枪械版本. 能在双手空闲时使用胶水真是太棒了!
-<b>[PMR] Glue Container</b>\r\nA liquid container that can hold any liquid from the game. Required for glue weapons.=<b>[PMR] 胶水容器</b>\r\n可容纳游戏中任何液体的液体容器. 胶水武器所需.
+[PMR] Blink Dagger=[PMR] 闪烁匕首
+<b>[PMR] Blink Dagger</b>\r\nEnergy dagger. Uses teleportation mechanics. Can be configured in the context menu.\nBy <color%3Dred>F by default</color> teleports a dagger forward.\nBy <color%3Dred>Holding F by default</color> aiming at the nearest target.=<b>[PMR] 闪烁匕首</b>\r\n能量匕首. 使用传送机制. 可在上下文菜单中配置. \n默认按 <color%3Dred>F</color> 将匕首向前传送. \n默认 <color%3Dred>长按 F</color> 瞄准最近的目标. 
+
+[PMR] Chain Blink Dagger=[PMR] 连锁闪烁匕首
+<b>[PMR] Chain Blink Dagger</b>\r\nAn upgraded version of the blink dagger, but it teleports in a chain between different entities. Can be configured in the context menu.\nBy <color%3Dred>F by default</color> teleports a dagger forward.\nBy <color%3Dred>Holding F by default</color> aiming at the nearest target.=<b>[PMR] 连锁闪烁匕首</b>\r\n闪烁匕首的升级版，可在不同实体之间连锁传送. 可在上下文菜单中配置. \n默认按 <color%3Dred>F</color> 将匕首向前传送. \n默认 <color%3Dred>长按 F</color> 瞄准最近的目标. 
+
+[PMR] Glue Gun=[PMR] 胶水枪
+<b>[PMR] Glue Gun</b>\r\nGlue Shooter gun version. It’s great when you can use glue while having both hands!=<b>[PMR] 胶水枪</b>\r\n胶水发射器的枪械版本. 当你能双手同时使用胶水时非常棒！
+
+
 //*右键菜单
 Detach prosthesis=分离义体
 Detach prostheses=卸下义肢
@@ -327,6 +402,9 @@ Clear all launched glue. From Prostheses 2.0.=清除所有已发射的胶水.来
 Liquid: =液体: 
 Set liquid. From Prostheses 2.0.=设置液体. 来自假肢模组 2.0.
 Select liquid=选择液体
+Remove cell=移除细胞
+Remove selected inserted cells. From Prostheses 2.0.=移除所选插入的细胞. 来自义肢2.0.
+
 //*设置
 [PMR] Settings=[PMR] 设置
 Special prostheses=特殊义体
@@ -360,6 +438,13 @@ A prosthesis will automatically change the attachment side if it can attach to t
 MPW library not found, you may not have subscribed to it in the workshop or it is not enabled.=未找到 MPW 库，你可能尚未在创意工坊中订阅它，或者它未被启用.
 Subscribe=订阅
 Retry=重试
+Infinite repair kit health amount=无限修理包生命值
+Will the health that a repair kits can repair be infinite by default?=修理包可修复的生命值默认会是无限的吗？
+Channel: "Commerce TV".=频道：“商业电视台”.
+Channel: "Entertainment TV".=频道：“娱乐电视台”.
+Channel: "91 Report TV".=频道：“91报道电视台”.
+
+
 
 
 
