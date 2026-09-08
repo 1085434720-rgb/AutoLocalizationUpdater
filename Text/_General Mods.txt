@@ -18152,6 +18152,21 @@ Replace the selected lights with a different color. \n\n Will destroy wires, pin
 Replaces the selected objects with new ones, with the same scale and settings. \n\n Will destroy wires, pins, and other kinds of connections=用新的物体替换所选物体，保留相同的缩放和设置. \n\n 会销毁线缆、销钉以及其他类型的连接
 Be advised, ExplosiveBehaviour should not be added to androids with \"IsAndroid\" set to false. \nThe limb will not explode, and will end up breaking things due to how zooi coded the game.\nConsider removing ExplosiveBehaviour from the android.=请注意，不应向 \"IsAndroid\" 设置为 false 的安卓添加 ExplosiveBehaviour. \n该肢体不会爆炸，并且会由于 zooi 编写游戏的方式而破坏东西.\n请考虑从该安卓上移除 ExplosiveBehaviour.
 
+//键位
+Disintegrate Object=瓦解物体
+Follow Object=跟随物体
+Heal Limb/Revive Entity=治愈肢体/复活实体
+Filter By Color=按颜色筛选
+Recolor Housing/Entity=重新着色外壳/实体
+Toggle Phys Buttons=切换物理按钮
+Toggle Wire Buttons=切换电线按钮
+Toggle Explosive Buttons=切换爆炸物按钮
+Toggle Entity Buttons=切换实体按钮
+Toggle Housing Buttons=切换外壳按钮
+Toggle Firearm Buttons=切换枪械按钮
+Toggle Machinery Buttons=切换机械按钮
+Toggle Light Buttons=切换灯光按钮
+
 
 
 
@@ -18374,6 +18389,7 @@ Custom Power Giver=自定义能力赋予器
 
 Next >=下一个 >
 Punch Strength=打击力量
+Knock back force=击退力度
 Special Ability=特殊能力
 Lightning Fists=闪电之拳
 Exploding Heat=爆炸热量
@@ -18617,3 +18633,150 @@ Material=材质
 Old Particles=旧粒子
 New Particles=新粒子
 Rebuild=重建
+
+
+
+
+
+
+
+
+
+
+
+//340*
+<noparse>Power Syringes</noparse>=<noparse>力量注射器</noparse>
+42 power syringes, sorted by discipline and graded A to D: Biomancy, Energy, Gravity, Kinetic, Psionic, Reality. No external requirements.=42支力量注射器，按学科分类并分为A至D级：生命操控、能量、重力、动能、灵能、现实。无需外部依赖。
+<size%3D1.5em>Power Syringes</size>\n42 power syringes, sorted by discipline and graded A to D: Biomancy, Energy, Gravity, Kinetic, Psionic, Reality. No external requirements.\n<noparse>A mod by Gank for game version 1.22+</noparse>=<size%3D1.5em>力量注射器</size>\n42支力量注射器，按学科分类并分为A至D级：生命操控、能量、重力、动能、灵能、现实。无需外部依赖。\n<noparse>由 Gank 制作的模组，适用于游戏版本 1.22+</noparse>
+
+<b>Power Syringes</b>\r\nEvery power from the Marvel Power Pack, isolated as syringes. - Team Wilson.=<b>力量注射器</b>\r\n来自漫威力量包的每一种能力，都被分离为注射器。——威尔逊团队。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Carbonadium Tentacles=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 碳钠合金触手
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Carbonadium Tentacles</b>\r\n[F] on a lower arm to grow a jointed metal coil. Right-click the tip to load a liquid, and it pumps that into whatever it impales.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 碳钠合金触手</b>\r\n在前臂上按[F]可生长出带关节的金属线圈。右键点击尖端可装载液体，它会将其注入所刺穿的目标。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Enhanced Strength=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 强化力量
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Enhanced Strength</b>\r\nAlways on. Strike the ground to create a shockwave, or simply rip your target apart.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 强化力量</b>\r\n始终生效。击打地面可产生冲击波，或者直接将目标撕碎。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Metal Form=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 金属形态
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Metal Form</b>\r\n[F] on head to turn to metal. Bulletproof and more resilient.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 金属形态</b>\r\n在头部按[F]可转变为金属。防弹且更具韧性。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Regeneration=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 再生
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Regeneration</b>\r\nAlways on. Wounds close and health returns by itself.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 再生</b>\r\n始终生效。伤口会自行愈合，生命值也会自动恢复。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Shapeshifter=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 变形者
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [B] Shapeshifter</b>\r\n[F] on head, then click a person to become them, powers and all. [F] again to change back.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [B] 变形者</b>\r\n在头部按[F]，然后点击一个人即可变成对方，连能力一同复制。再次按[F]可恢复原样。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [C] Elasticity=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [C] 弹性
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [C] Elasticity</b>\r\n[F] on a lower arm. The limb stretches, following the cursor. [F] again to recoil.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [C] 弹性</b>\r\n在前臂上按[F]。肢体将伸长，跟随光标移动。再次按[F]可收回。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [D] Bullseye=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [D] 靶心
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [D] Bullseye</b>\r\n[F] on head, then click to mark a target. Anything you throw homes in on the mark.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [D] 靶心</b>\r\n在头部按[F]，然后点击以标记目标。你投掷的任何东西都会追踪该标记。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [D] Power Grab=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [D] 力量抓取
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [D] Power Grab</b>\r\n[F] on a hand to clamp onto whatever is in front of it. [F] again to throw it.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [D] 力量抓取</b>\r\n在手上按[F]可夹住前方的任何物体。再次按[F]可将其投掷出去。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [D] Regeneration: Reattachment=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [D] 再生：重新附着
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[BIOMANCY]<color%3Dwhite> [D] Regeneration: Reattachment</b>\r\nHold a severed limb near where it came off and it snaps back on.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[生命操控]<color%3Dwhite> [D] 再生：重新附着</b>\r\n将断肢靠近其原来的位置，它就会重新接上。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [A] Energy Form=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [A] 能量形态
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [A] Energy Form</b>\r\n[F] on head. The user hovers lightly, radiant and indestructible, but slowly burning themselves away. Nothing can heal the user in this state.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [A] 能量形态</b>\r\n在头部按[F]。使用者会轻微悬浮，散发光芒且坚不可摧，但会缓慢燃烧自身。在此状态下无法治愈使用者。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [B] Optic Blasts=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [B] 眼部冲击
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [B] Optic Blasts</b>\r\nTap [F] on head to fire straight ahead. Hold [F] to aim, then reflect the beam at will.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [B] 眼部冲击</b>\r\n在头部轻按[F]可向前方发射。按住[F]可瞄准，然后随意反射光束。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [B] Photon Energy=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [B] 光子能量
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [B] Photon Energy</b>\r\nHold [F] on a hand for a beam that does not stop. Effectively unlimited range, and it cuts through walls.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [B] 光子能量</b>\r\n在手上按住[F]可发射永不停止的光束。实际上无限射程，并能穿透墙壁。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [C] Conduit=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [C] 导体
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [C] Conduit</b>\r\nAlways on. The body carries current through all of it at once, and nothing electrical can burn it. Hold [F] on head to release the charge.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [C] 导体</b>\r\n始终生效。身体同时传导电流，任何电力都无法灼烧它。在头部按住[F]可释放电荷。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [D] Charged Punch=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [D] 充能拳击
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[ENERGY]<color%3Dwhite> [D] Charged Punch</b>\r\nAlways on. The fists carry a charge. Whatever they hit is shocked.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[能量]<color%3Dwhite> [D] 充能拳击</b>\r\n始终生效。拳头带有电荷。被击中的目标会受到电击。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [A] Magnetic Shift=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [A] 磁力偏移
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [A] Magnetic Shift</b>\r\n[F] on HEAD, then point: everything near you falls that way, you included, and you are pinned until you [F] again. [F] on the UPPER BODY instead and only your own down changes: walk up walls and across ceilings, moving freely.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [A] 磁力偏移</b>\r\n在头部按[F]，然后指向某个方向：附近的一切（包括你自己）都会朝该方向坠落，并且你将被固定住，直到再次按[F]。在上半身按[F]则只改变你自己的下方向：可以走上墙壁和天花板，自由移动。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [B] Event Horizon=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [B] 事件视界
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [B] Event Horizon</b>\r\n[F] on head to raise an inescapable shell. Anything crossing it falls into orbit, people included. [F] again to collapse it and throw everything outwards at once.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [B] 事件视界</b>\r\n在头部按[F]可升起一道无法逃脱的屏障。任何穿过它的东西都会坠入轨道，包括人。再次按[F]可使其坍缩，将所有东西向外抛出。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [B] Gravity Well=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [B] 重力井
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [B] Gravity Well</b>\r\n[F] on a lower arm, then click a point. Everything nearby is dragged into it, harder the longer it runs.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [B] 重力井</b>\r\n在前臂上按[F]，然后点击一个位置。附近的一切都会被拖入其中，持续时间越长拉力越强。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [B] Tidal Shear=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [B] 潮汐剪切
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [B] Tidal Shear</b>\r\nPoint an arm and [F] on it. A line tears out of the hand, and anything it crosses is pulled both ways at once until it comes apart.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [B] 潮汐剪切</b>\r\n瞄准一个方向并在手臂上按[F]。一道线从手中撕裂而出，被其穿过的任何物体会同时被拉向两个方向，直到被撕碎。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [C] Anchor=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [C] 锚定
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [C] Anchor</b>\r\n[F] on head to plant yourself. Nothing moves you, knocks you down or takes a limb, and whatever hits you hard is thrown back the way it came. You still walk freely. [F] again to let go.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [C] 锚定</b>\r\n在头部按[F]可固定自身。没有任何东西能移动你、击倒你或夺走你的肢体，任何重击你的东西都会被弹回原路。你仍可自由行走。再次按[F]可解除锚定。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [C] Attraction=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [C] 吸引
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [C] Attraction</b>\r\n[F] on a lower arm, then click two objects. They are drawn together, faster and faster, until they meet.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [C] 吸引</b>\r\n在前臂上按[F]，然后点击两个物体。它们会越靠越近，速度越来越快，直到相遇。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [C] Gravitational Distortion=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [C] 引力扭曲
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[GRAVITY]<color%3Dwhite> [C] Gravitational Distortion</b>\r\n[F] on a hand, then click a spot. A sphere settles there and drives everything away from it. Three at once; [F] on head to dispel them.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[重力]<color%3Dwhite> [C] 引力扭曲</b>\r\n在手上按[F]，然后点击一个位置。一个球体会在那里形成并推开周围的一切。最多可同时存在三个；在头部按[F]可驱散它们。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [B] Kinetic Absorption=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [B] 动能吸收
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [B] Kinetic Absorption</b>\r\nAlways on. Hits are stored as charge instead of harm. [F] on a lower arm to spend it all in one strike.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [B] 动能吸收</b>\r\n始终生效。攻击会被储存为电荷而非伤害。在前臂上按[F]可将其一次性释放为一击。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [B] Kinetic Field=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [B] 动能场
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [B] Kinetic Field</b>\r\n[F] on head to toggle. Anything moving fast is stopped dead; slow things pass straight through.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [B] 动能场</b>\r\n在头部按[F]可切换。快速移动的物体会被完全阻挡；慢速物体则可直接穿过。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [B] Kinetic Shell=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [B] 动能外壳
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [B] Kinetic Shell</b>\r\nAlways on. The harder something hits, the less of it gets through, and the skin turns bullets.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [B] 动能外壳</b>\r\n始终生效。攻击越猛烈，穿透力越弱，皮肤会变得像子弹一样坚硬。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [C] Kinetic Propulsion=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [C] 动能推进
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [C] Kinetic Propulsion</b>\r\n[F] on the chest, then click where you want to be. The further the click, the harder the dash. Nothing can hurt you until you land.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [C] 动能推进</b>\r\n在胸部按[F]，然后点击你想去的地方。点击的距离越远，冲刺力度越大。在落地前你无法受到任何伤害。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [C] Kinetic Wave=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [C] 动能波
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [C] Kinetic Wave</b>\r\n[F] on a hand to throw out a shockwave. Anything in front of it goes flying.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [C] 动能波</b>\r\n在手上按[F]可释放冲击波。前方的任何物体都会被击飞。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [C] Unstoppable Momentum=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [C] 不可阻挡动量
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[KINETIC]<color%3Dwhite> [C] Unstoppable Momentum</b>\r\n[F] on head to toggle. Nothing slows you while you are moving, and whatever you meet is thrown aside.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[动能]<color%3Dwhite> [C] 不可阻挡动量</b>\r\n在头部按[F]可切换。移动时没有任何东西能减慢你的速度，遇到的任何物体都会被撞开。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [A] Telekinesis=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [A] 念力
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [A] Telekinesis</b>\r\n[F] on a lower arm, then click anything, your own limbs included, to make it follow the cursor. Click again to throw it.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [A] 念力</b>\r\n在前臂上按[F]，然后点击任何物体（包括你自己的肢体），使其跟随光标移动。再次点击可将其投掷出去。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Instant Step=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 瞬步
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Instant Step</b>\r\n[F] on head to toggle. The body steps clear of anything about to hit it, phasing through on the way.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 瞬步</b>\r\n在头部按[F]可切换。身体会闪避即将击中的任何攻击，并在过程中相位移动。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Psionic Ward=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 灵能护盾
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Psionic Ward</b>\r\n[F] on a hand, then draw with the cursor. An impassable barrier of solid psionic energy. [F] on head to clear them all.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 灵能护盾</b>\r\n在手上按[F]，然后用光标绘制。会形成一道由实体灵能构成的无法穿越的屏障。在头部按[F]可清除所有屏障。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Reflection=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 反射
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Reflection</b>\r\n[F] on a lower arm pointed at something. A reflection of your target appears, matching everything they do.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 反射</b>\r\n在前臂上按[F]并指向某个目标。会生成一个目标的镜像，复制其一切动作。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Silence=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 沉默
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Silence</b>\r\n[F] on head, then click a spot. Nothing inside the bubble can be used, no guns and no powers. [F] on head to lift it.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 沉默</b>\r\n在头部按[F]，然后点击一个位置。气泡内的任何东西都无法使用，包括枪械和能力。在头部按[F]可解除该效果。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Teleport=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 传送
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [B] Teleport</b>\r\n[F] on head to arm, then click anywhere to appear there.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [B] 传送</b>\r\n在头部按[F]以激活，然后点击任意位置即可传送到那里。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [C] Flight=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [C] 飞行
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [C] Flight</b>\r\n[F] on head to toggle. The body stops falling. It goes where it is pushed and stays where it is left.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [C] 飞行</b>\r\n在头部按[F]可切换。身体停止下落。它会前往被推往的方向，并停留在被放置的位置。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [C] Phantom Limb=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [C] 幻影肢体
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [C] Phantom Limb</b>\r\nAlways on. A severed limb is replaced at once by a ghost of itself, solid and beyond harm.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [C] 幻影肢体</b>\r\n始终生效。断肢会立即被自身的幽灵替代，实体化且不受伤害。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [D] Echo=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [D] 回声
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[PSIONIC]<color%3Dwhite> [D] Echo</b>\r\n[F] on head to toggle. A copy repeats what you did half a second ago. You pass through it, nothing else does.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[灵能]<color%3Dwhite> [D] 回声</b>\r\n在头部按[F]可切换。一个复制体会重复你半秒前的动作。你可以穿过它，其他东西则不行。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [A] Disintegrating Touch=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [A] 瓦解之触
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [A] Disintegrating Touch</b>\r\n[F] on head to light the hands. Whatever they touch burns away where they touch it, permanently.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [A] 瓦解之触</b>\r\n在头部按[F]可点亮双手。被其触碰的任何东西都会永久性地烧蚀殆尽。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [A] Hidden Inventory=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [A] 隐藏背包
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [A] Hidden Inventory</b>\r\n[F] on head to open a window into a pocket of space that only you can reach into. [F] on the window for its menu.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [A] 隐藏背包</b>\r\n在头部按[F]可打开一个只有你能触及的空间口袋窗口。在窗口上按[F]可打开其菜单。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [A] Phase Shift=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [A] 相位转移
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [A] Phase Shift</b>\r\n[F] on a hand, then click a target to phase it out of the world entirely. Hold [F] to pick several. [F] on head to bring them back.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [A] 相位转移</b>\r\n在手上按[F]，然后点击目标可将其完全移出现实。按住[F]可选择多个。在头部按[F]可将它们召回。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [A] Rewind=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [A] 回放
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [A] Rewind</b>\r\n[F] on head to mark the world. [F] again and everything returns to how it was, wounds and broken walls included.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [A] 回放</b>\r\n在头部按[F]可标记世界状态。再次按[F]可使一切（包括伤口和破损墙壁）恢复到标记时的状态。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [B] Stasis=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [B] 停滞
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [B] Stasis</b>\r\n[F] on head to lock the body in place: frozen, weightless and immune to everything. [F] again to release.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [B] 停滞</b>\r\n在头部按[F]可锁定身体：冻结、失重且免疫一切。再次按[F]可解除。
+
+ <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [C] Frictionless=<color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [C] 无摩擦
+<b> <color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[REALITY]<color%3Dwhite> [C] Frictionless</b>\r\n[F] on a hand, then click anything to strip its friction away. Hold [F] to pick several. [F] on head to restore it.=<b><color%3Dred>[PSY] <color%3Dwhite><color%3D#f6f755>[现实]<color%3Dwhite> [C] 无摩擦</b>\r\n在手上按[F]，然后点击任何物体可移除其摩擦力。按住[F]可选择多个。在头部按[F]可恢复摩擦力。
+
+<color%3Dred>[PSY] <color%3Dwhite>Magnetic Shift: <color%3D#8b7dff>aiming<color%3Dwhite>=<color%3Dred>[PSY] <color%3Dwhite>磁力偏移：<color%3D#8b7dff>瞄准中<color%3Dwhite>
+<color%3Dred>[PSY] <color%3Dwhite>Magnetic Shift: <color%3D#7ce38b>set<color%3Dwhite> - [F] to end=<color%3Dred>[PSY] <color%3Dwhite>磁力偏移：<color%3D#7ce38b>已设定<color%3Dwhite> - 按[F]结束
+<color%3Dred>[PSY] <color%3Dwhite>Magnetic Shift: <color%3D#ff7878>ended<color%3Dwhite>=<color%3Dred>[PSY] <color%3Dwhite>磁力偏移：<color%3D#ff7878>已结束<color%3Dwhite>
