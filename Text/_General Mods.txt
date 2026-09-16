@@ -18644,7 +18644,7 @@ Rebuild=重建
 
 
 
-//340*
+//340*力量注射器_Power Syringes
 <noparse>Power Syringes</noparse>=<noparse>力量注射器</noparse>
 42 power syringes, sorted by discipline and graded A to D: Biomancy, Energy, Gravity, Kinetic, Psionic, Reality. No external requirements.=42支力量注射器，按学科分类并分为A至D级：生命操控、能量、重力、动能、灵能、现实。无需外部依赖。
 <size%3D1.5em>Power Syringes</size>\n42 power syringes, sorted by discipline and graded A to D: Biomancy, Energy, Gravity, Kinetic, Psionic, Reality. No external requirements.\n<noparse>A mod by Gank for game version 1.22+</noparse>=<size%3D1.5em>力量注射器</size>\n42支力量注射器，按学科分类并分为A至D级：生命操控、能量、重力、动能、灵能、现实。无需外部依赖。\n<noparse>由 Gank 制作的模组，适用于游戏版本 1.22+</noparse>
@@ -18780,3 +18780,323 @@ Rebuild=重建
 <color%3Dred>[PSY] <color%3Dwhite>Magnetic Shift: <color%3D#8b7dff>aiming<color%3Dwhite>=<color%3Dred>[PSY] <color%3Dwhite>磁力偏移：<color%3D#8b7dff>瞄准中<color%3Dwhite>
 <color%3Dred>[PSY] <color%3Dwhite>Magnetic Shift: <color%3D#7ce38b>set<color%3Dwhite> - [F] to end=<color%3Dred>[PSY] <color%3Dwhite>磁力偏移：<color%3D#7ce38b>已设定<color%3Dwhite> - 按[F]结束
 <color%3Dred>[PSY] <color%3Dwhite>Magnetic Shift: <color%3D#ff7878>ended<color%3Dwhite>=<color%3Dred>[PSY] <color%3Dwhite>磁力偏移：<color%3D#ff7878>已结束<color%3Dwhite>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//341*Sendomaru的哨兵模组_Sendomaru's Sentry Mod
+<noparse>Sendomaru's Sentry Mod</noparse>=<noparse>Sendomaru的哨兵模组</noparse>
+<size%3D1.5em>Sendomaru's Sentry Mod</size>\n\n<noparse>A mod by Sendomaru for game version 1.10+</noparse>=<size%3D1.5em>Sendomaru的哨兵模组</size>\n\n<noparse>由 Sendomaru 制作的模组，适用于游戏版本 1.10+</noparse>
+
+<b>Sentry</b>\r\nSentry=<b>哨兵</b>\r\n哨兵
+
+Power Giver=能力赋予器
+<b>Power Giver</b>\r\nClick on the target to grant it the sentry’s abilities.=<b>能力赋予器</b>\r\n点击目标以赋予其哨兵的能力.
+
+Sentry=哨兵
+<b>Sentry</b>\r\nWhy would a god take orders from anyone at all?=<b>哨兵</b>\r\n神明又怎会听从任何人的命令？
+
+Manage character abilities=管理角色能力
+Manage character abilities.=管理角色能力。
+ABILITY MENU=能力菜单
+FRONT=正面
+r:"Key: (.*)"=按键：$1
+Hold H on head to burn objects=按住头部H键以燃烧物体
+
+Void Mode=虚空模式
+Toggle dark form=切换黑暗形态
+
+Activate upper body to fly=激活上半身以飞行
+
+Shock wave=冲击波
+Push objects away=将物体推开
+
+Grab and move objects=抓取并移动物体
+
+
+
+
+
+
+
+
+
+//342*
+<noparse>Person Connectome</noparse>=<noparse>人格连接组</noparse>
+A bounded MaleCNS-derived Human controller with per-limb motor routing, screen telemetry and a full located-soma brain activity map.=一个基于MaleCNS的人类控制器，具有逐肢体运动路由、屏幕遥测以及完整的定位胞体大脑活动图。
+<size%3D1.5em>Person Connectome</size>\n<align%3D"center"><b><color%3D#00E5FF>MaleCNS-derived Human controller</color></b></align>\r\n\r\n<b><color%3D#FFD700>PLAY</color></b>\r\nEnable Person Connectome with Shady Code Rejection enabled, then spawn Person Connectome (Active) from Entities. Stock Humans remain unchanged.\r\n\r\nThe screen panel starts at the top center. Prev / Next selects a person; freed numbers are reused by new spawns. Drag the title to move the panel and the bottom-right corner to resize it. A- / A+ changes text size; Collapse keeps a small header. Scroll each page to see all readings. Layout lasts this session.\r\n\r\n<b><color%3D#FFD700>READ THE PANEL</color></b>\r\nOverview: native body state, local limb capability and requested movement. Requests are not measured motion; filtered neural activity is shown separately.\r\nSenses: native readings and proxies. Audio includes jukebox/attached playback; last heard persists with its age. Liquid percentages show peak tracked-limb concentration, not dose. Blood shows native amounts and maximum limb drop since its observed peak, not total lost blood.\r\nBrain: workload, actual spikes and all located source soma positions. The legend lists every superclass in the asset. Flashes mark captured spikes; dark points do not prove inactivity. Points may share pixels.\r\n\r\n<b><color%3D#FFD700>HOW IT WORKS</color></b>\r\nThe unchanged MaleCNS-derived graph has 176,422 neurons and 6,287,749 retained connections. The map displays all 141,781 located neurons; all graph neurons remain in the simulation.\r\n\r\nAmbient/local lamp-light changes, external audio, regional contact, joint motion, hot/cold and geometric visual cues feed annotated populations. Sampled health drops and newly lost limbs supply engineered tactile injury events. The panel's pain and adrenaline values still come from the game, not a measured feeling.\r\n\r\nNeural activity drives filtered movement requests through native game APIs. Walking bridges brief firing gaps. A qualified neural escape starts a 0.6-second walking burst; shooter direction is unknown. These are engineering settings, not biological calibration or guaranteed walking. Native poses and standing mechanics still contribute.\r\n\r\nStock Pumpkin supplies labeled nearby/head-contact gameplay cues to real food-related populations. Proximity includes walls. No eating, nutrition or measured smell/taste is added.\r\n\r\n<b><color%3D#FFD700>LIMITS</color></b>\r\nFixed fly connections drive a game Human; it has no experience-based learning or complete fly mind. Vision samples five head-relative frontal bands using bounds, motion, line of sight and light; audio uses external playback and coarse frequency bands when available. Local light omits exact beam textures/shadows. No semantic sight, sound understanding, smell, taste, flight or biological swimming is claimed.\r\n\r\nCirculating liquids and native zombie state are observed separately. Exposure does not prove an effect or neural understanding. No liquid is injected. Existing restorative adjustments are engineered gameplay interventions, not neural healing.\r\n\r\nWater alone does not disable healthy limbs. Brain injury/unconsciousness is not death; terminal states and unavailable/low consciousness suppress active output. All active inputs are integrated; the 24,000-spike propagation cap can still drop excess spikes. No frame-rate or zero-latency guarantee is made.\r\n\r\n<b><color%3D#FFD700>SOURCE & ATTRIBUTION</color></b>\r\nMale CNS data: CC BY 4.0\r\nhttps:%2F%2Fmale-cns.janelia.org/\r\nhttps:%2F%2Fmale-cns.janelia.org/download/\r\nPrepared derivative, sensory/motor reference and visualizer inspiration:\r\nhttps:%2F%2Fgithub.com/blendi-remade/fly-brain-minecraft\r\nMod source, full instructions, tests and provenance:\r\nhttps:%2F%2Fgithub.com/TailsProwerWorks/PersonConnectome\r\n\r\nBuild c1e3838935d3 | Author: ShadowNineX\r\n\r\nReference mapping adaptation license (fly-brain-minecraft):\r\nMIT License\r\nCopyright (c) 2026 Blendi Remade / fal.ai\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy\r\nof this software and associated documentation files (the "Software"), to deal\r\nin the Software without restriction, including without limitation the rights\r\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\r\ncopies of the Software, and to permit persons to whom the Software is\r\nfurnished to do so, subject to the following conditions:\r\nThe above copyright notice and this permission notice shall be included in all\r\ncopies or substantial portions of the Software.\r\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\r\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\r\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\r\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\r\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\r\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\r\nSOFTWARE.\r\n=<size%3D1.5em>人格连接组</size>\n<align%3D"center"><b><color%3D#00E5FF>基于MaleCNS的人类控制器</color></b></align>\r\n\r\n<b><color%3D#FFD700>开始</color></b>\r\n启用“人格连接组”并开启“可疑代码拒绝”，然后从实体中生成“人格连接组（激活）”。原版人类保持不变。\r\n\r\n屏幕面板从顶部中央开始。上一页/下一页选择一个人；释放的编号会被新生成的实体重用。拖动标题可移动面板，拖动右下角可调整大小。A- / A+ 更改文字大小；折叠则保留一个小标题。滚动每一页以查看所有读数。布局仅在本次会话中有效。\r\n\r\n<b><color%3D#FFD700>阅读面板</color></b>\r\n概览：原生身体状态、局部肢体能力和请求的运动。请求并非测量到的运动；过滤后的神经活动单独显示。\r\n感官：原生读数和代理值。音频包括点唱机/附加播放；最后听到的内容会连同其时间一起保留。液体百分比显示被追踪肢体的峰值浓度，而非剂量。血液显示原生血量以及自观测峰值以来肢体的最大下降量，而非总失血量。\r\n大脑：工作负载、实际脉冲以及所有定位的源胞体位置。图例列出了资源中的每个超类。闪烁标记捕获的脉冲；暗点并不能证明无活动。点可能共享像素。\r\n\r\n<b><color%3D#FFD700>工作原理</color></b>\r\n未更改的MaleCNS衍生图拥有176,422个神经元和6,287,749条保留连接。该图显示了全部141,781个定位神经元；所有图神经元仍保留在模拟中。\r\n\r\n环境/局部灯光变化、外部音频、区域接触、关节运动、冷/热以及几何视觉线索会馈入带注释的神经元群。采样的生命值下降和新失去的肢体会提供工程化的触觉损伤事件。面板的疼痛和肾上腺素值仍来自游戏，而非测量到的感觉。\r\n\r\n神经活动通过原生游戏API驱动过滤后的运动请求。行走会桥接短暂的发火间隙。符合条件的神经逃逸会启动0.6秒的行走爆发；射击者方向未知。这些是工程设置，而非生物校准或保证行走。原生姿势和站立机制仍有贡献。\r\n\r\n原版南瓜会向真实的食物相关神经元群提供标记的附近/头部接触游戏线索。接近判定包含墙壁。不添加进食、营养或测量到的嗅觉/味觉。\r\n\r\n<b><color%3D#FFD700>限制</color></b>\r\n固定的果蝇连接驱动一个游戏人类；它没有基于经验的学习或完整的果蝇思维。视觉使用边界、运动、视线和光线采样五个头部相对的前额带；音频在可用时使用外部播放和粗略频带。局部光线忽略精确的光束纹理/阴影。不声称具有语义视觉、声音理解、嗅觉、味觉、飞行或生物游泳能力。\r\n\r\n循环液体和原生僵尸状态分别观察。暴露并不能证明效果或神经理解。不注射任何液体。现有的恢复性调整是工程化的游戏干预，而非神经治疗。\r\n\r\n仅靠水并不能使健康肢体失效。脑损伤/无意识并非死亡；终末状态和不可用/低意识会抑制主动输出。所有主动输入都会被整合；24,000个脉冲的传播上限仍可能丢弃多余的脉冲。不保证帧率或零延迟。\r\n\r\n<b><color%3D#FFD700>来源与署名</color></b>\r\n雄性CNS数据：CC BY 4.0\r\nhttps:%2F%2Fmale-cns.janelia.org/\r\nhttps:%2F%2Fmale-cns.janelia.org/download/\r\n准备的衍生品、感觉/运动参考和可视化器灵感：\r\nhttps:%2F%2Fgithub.com/blendi-remade/fly-brain-minecraft\r\n模组源码、完整说明、测试和出处：\r\nhttps:%2F%2Fgithub.com/TailsProwerWorks/PersonConnectome\r\n\r\n构建 c1e3838935d3 | 作者：ShadowNineX\r\n\r\n参考映射适配许可证（fly-brain-minecraft）：\r\nMIT许可证\r\n版权所有 (c) 2026 Blendi Remade / fal.ai\r\n\r\n特此免费授予任何获得本软件及相关文档文件（“软件”）副本的人，不受限制地处理本软件的权利，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或销售本软件副本的权利，并允许获得本软件的人这样做，但须满足以下条件：\r\n上述版权声明和本许可声明应包含在本软件的所有副本或主要部分中。\r\n本软件按“原样”提供，不提供任何形式的明示或暗示保证，包括但不限于对适销性、特定用途适用性和非侵权的保证。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权行为还是其他方面，均因本软件或本软件的使用或其他交易而产生、引起或与之相关。\r\n
+
+Person Connectome (Active)=人格连接组（激活）
+<b>Person Connectome (Active)</b>\r\nBounded connectome control with screen telemetry and a full located-soma brain activity map.=<b>人格连接组（激活）</b>\r\n有界连接组控制，带有屏幕遥测和完整的定位胞体大脑活动图.
+
+Expand=展开
+Drag title to move | Drag corner to resize=拖动标题以移动 | 拖动角落以调整大小
+r:"^Person Connectome \| #(\d+)$" = "人格连接组 | #$1"
+r:"^(\d+) controlled \| at ([\d.-]+), ([\d.-]+)$" = "$1 个受控 | 位于 $2, $3"
+
+sr:"^BODY THREAT: (.*?)$" = "身体威胁：$1"
+clear=清除
+stopped=已停止
+
+sr:"^NEURAL ESCAPE: (.*?)$" = "神经逃逸：$1"
+idle=空闲
+active=激活
+engaged=交战
+walking=行走
+
+sr:"^(.*?) \| (.*?) ([\d.]+)\nInput: ([\d.]+) s ago \| loop ([\d.]+) ms \(sensor ([\d.]+) / brain ([\d.]+) / actuator ([\d.]+)\) \| UI ([\d.]+) ms\nSkipped game time: ([\d.]+) s \| scroll below for more$" = "$1 | $2 $3\n输入: $4 秒前 | 循环 $5 毫秒（传感器 $6 / 大脑 $7 / 执行器 $8）| UI $9 毫秒\n跳过的游戏时间：$10 秒 | 向下滚动查看更多"
+SENSING=感知
+NEARBY=附近
+BODY THREAT=身体威胁
+AMBIENT HEAT=环境热量
+UNCONSCIOUS=无意识
+SHOCK=休克
+DEAD=已死亡
+DEATH=死亡
+BRAIN DEAD=脑死亡
+BRAIN DEATH=脑死亡
+BRAIN INJURED=脑部受伤
+BRAIN INJURY=脑损伤
+LOW OXYGEN=低氧
+FALLING=下落
+PAIN/INJURY=疼痛/损伤
+NATIVE ADRENALINE=原生肾上腺素
+
+Overview=概览
+BODY:=身体：
+native-hp=原生生命值
+limb-damage=肢体损伤
+damage-event=损伤事件
+pain=疼痛
+shock=休克
+oxygen=氧气
+conscious=有意识
+unconscious=无意识
+adrenaline(raw)=肾上腺素（原始值）
+adrenaline(normalized)=肾上腺素（归一化）
+heartbeat=心跳
+velocity=速度
+velocity-xy(native rigidbody)=速度-xy（原生刚体）
+angular-velocity(native)=角速度（原生）
+falling=下落
+rotation=旋转
+tilt(native angle proxy)=倾斜（原生角度代理）
+balance=平衡
+proprioception(proxy)=本体感觉（代理）
+joint-reading position=关节读数位置
+motion=运动
+
+<color%3D#00E5FF><b>brain</b></color>=<color%3D#00E5FF><b>大脑</b></color>
+r:"^LIMBS: total%3D(\d+) driveable%3D(\d+)/(\d+) lost%3D(\d+)/(\d+) submitted%3D(\d+) walk-request%3D([\d.-]+)$" = "肢体：总计%3D$1 可驱动%3D$2/$3 已失去%3D$4/$5 已提交%3D$6 行走请求%3D$7"
+r:"<color%3D#AFC7CE>%3D</color> <color%3D#F2F7FA>([\d.]+) deg/s; native walking gate%3D([\d.]+)\.</color>" = "<color%3D#AFC7CE>%3D</color> <color%3D#F2F7FA>$1 度/秒；原生行走门槛%3D$2。</color>"
+<color%3D#00E5FF><b>Joint target limit</b></color>=<color%3D#00E5FF><b>关节目标限制</b></color>
+<color%3D#63D9F0><b>EXCLUDED:</b></color>=<color%3D#63D9F0><b>已排除：</b></color>
+  MiddleBody:no-joint=  中躯干：无关节
+REQUEST (WALK IDLE):=请求（行走空闲）：
+REQUEST (WALK FORWARD):=请求（向前行走）：
+REQUEST (WALK BACKWARD):=请求（向后行走）：
+
+legs=腿部
+core=核心
+grips=抓握
+escape-burst-remaining=剩余逃逸爆发
+
+THREAT SOURCES=威胁来源
+injury-event=损伤事件
+looming=逼近
+DNp01-fired=DNp01已触发
+escape-request=逃逸请求
+recent-threat-window=近期威胁窗口
+response=响应
+FILTERED NEURAL READOUT (fractions):=过滤后的神经读数（分数）：
+<color%3D#00E5FF><b>backward</b></color>=<color%3D#00E5FF><b>后退</b></color>
+<color%3D#00E5FF><b>turn(R-L)</b></color>=<color%3D#00E5FF><b>转向（右-左）</b></color>
+REQUESTED MOTOR OUTPUT | -1 TO +1=请求的运动输出 | -1 到 +1
+r:"^Walk  ([+-]?[\d.]+)$"=行走  $1
+r:"^Left arm  ([+-]?[\d.]+)$"=左臂  $1
+r:"^Right arm  ([+-]?[\d.]+)$"=右臂  $1
+r:"^Left leg  ([+-]?[\d.]+)$"=左腿  $1
+r:"^Right leg  ([+-]?[\d.]+)$"=右腿  $1
+r:"^Core  ([+-]?[\d.]+)$"=核心  $1
+r:"^Head  ([+-]?[\d.]+)$"=头部  $1
+
+Senses=感官
+NORMALIZED GAME READINGS=归一化游戏读数
+INJURY:=损伤：
+<color%3D#00E5FF><b>internal</b></color>=<color%3D#00E5FF><b>内部</b></color>
+<color%3D#00E5FF><b>wounds</b></color>=<color%3D#00E5FF><b>伤口</b></color>
+<color%3D#00E5FF><b>max-limb-blood-drop(observed peak)</b></color>=<color%3D#00E5FF><b>最大肢体失血量（观测峰值）</b></color>
+<color%3D#00E5FF><b>blood/native limb min-max</b></color>=<color%3D#00E5FF><b>血液/原生肢体最小-最大值</b></color>
+<color%3D#00E5FF><b>readable</b></color>=<color%3D#00E5FF><b>可读</b></color>
+<color%3D#00E5FF><b>min-limb-health</b></color>=<color%3D#00E5FF><b>最低肢体生命值</b></color>
+<color%3D#00E5FF><b>circulation</b></color>=<color%3D#00E5FF><b>血液循环</b></color>
+<color%3D#00E5FF><b>limb-loss</b></color>=<color%3D#00E5FF><b>肢体缺失</b></color>
+<color%3D#00E5FF><b>breakage</b></color>=<color%3D#00E5FF><b>断裂</b></color>
+<color%3D#00E5FF><b>disconnected</b></color>=<color%3D#00E5FF><b>已断开</b></color>
+<color%3D#00E5FF><b>joint-stress</b></color>=<color%3D#00E5FF><b>关节应力</b></color>
+<color%3D#00E5FF><b>paralysis</b></color>=<color%3D#00E5FF><b>瘫痪</b></color>
+<color%3D#00E5FF><b>numbness</b></color>=<color%3D#00E5FF><b>麻木</b></color>
+<color%3D#00E5FF><b>lung-damage</b></color>=<color%3D#00E5FF><b>肺部损伤</b></color>
+<color%3D#00E5FF><b>zombie(native)</b></color>=<color%3D#00E5FF><b>僵尸（原生）</b></color>
+<color%3D#00E5FF><b>brain-damage</b></color>=<color%3D#00E5FF><b>脑损伤</b></color>
+<color%3D#00E5FF><b>seizure</b></color>=<color%3D#00E5FF><b>癫痫发作</b></color>
+<color%3D#00E5FF><b>frozen</b></color>=<color%3D#00E5FF><b>冻结</b></color>
+ENVIRONMENT:=环境：
+<color%3D#00E5FF><b>fire</b></color>=<color%3D#00E5FF><b>火焰</b></color>
+<color%3D#00E5FF><b>lava</b></color>=<color%3D#00E5FF><b>熔岩</b></color>
+<color%3D#00E5FF><b>acid</b></color>=<color%3D#00E5FF><b>酸液</b></color>
+<color%3D#00E5FF><b>heat</b></color>=<color%3D#00E5FF><b>高温</b></color>
+<color%3D#00E5FF><b>cold</b></color>=<color%3D#00E5FF><b>寒冷</b></color>
+<color%3D#00E5FF><b>ambient-heat</b></color>=<color%3D#00E5FF><b>环境高温</b></color>
+<color%3D#00E5FF><b>ambient-cold</b></color>=<color%3D#00E5FF><b>环境寒冷</b></color>
+<color%3D#00E5FF><b>light(total proxy)</b></color>=<color%3D#00E5FF><b>光照（总代理）</b></color>
+<color%3D#00E5FF><b>ambient-light</b></color>=<color%3D#00E5FF><b>环境光</b></color>
+<color%3D#00E5FF><b>local-light-proxy</b></color>=<color%3D#00E5FF><b>局部光照代理</b></color>
+<color%3D#00E5FF><b>contributing-light-sprites</b></color>=<color%3D#00E5FF><b>贡献光照精灵</b></color>
+<color%3D#00E5FF><b>light-scan</b></color>=<color%3D#00E5FF><b>光照扫描</b></color>
+<color%3D#00E5FF><b>nearby</b></color>=<color%3D#00E5FF><b>附近</b></color>
+<color%3D#00E5FF><b>direction</b></color>=<color%3D#00E5FF><b>方向</b></color>
+<color%3D#00E5FF><b>vision</b></color>=<color%3D#00E5FF><b>视觉</b></color>
+<color%3D#00E5FF><b>direction-world-x</b></color>=<color%3D#00E5FF><b>方向-世界-X</b></color>
+<color%3D#00E5FF><b>approach proxy</b></color>=<color%3D#00E5FF><b>接近代理</b></color>
+<color%3D#00E5FF><b>target</b></color>=<color%3D#00E5FF><b>目标</b></color>
+<color%3D#00E5FF><b>audio-scan</b></color>=<color%3D#00E5FF><b>音频扫描</b></color>
+<color%3D#00E5FF><b>sound</b></color>=<color%3D#00E5FF><b>声音</b></color>
+<color%3D#00E5FF><b>direction-world-x</b></color>=<color%3D#00E5FF><b>方向-世界-X</b></color>
+<color%3D#00E5FF><b>impact</b></color>=<color%3D#00E5FF><b>冲击</b></color>
+<color%3D#00E5FF><b>vibration</b></color>=<color%3D#00E5FF><b>振动</b></color>
+<color%3D#00E5FF><b>projectile</b></color>=<color%3D#00E5FF><b>投射物</b></color>
+<color%3D#00E5FF><b>touch</b></color>=<color%3D#00E5FF><b>触碰</b></color>
+<color%3D#00E5FF><b>contact/held</b></color>=<color%3D#00E5FF><b>接触/持有</b></color>
+<color%3D#00E5FF><b>wet</b></color>=<color%3D#00E5FF><b>潮湿</b></color>
+<color%3D#00E5FF><b>underwater</b></color>=<color%3D#00E5FF><b>水下</b></color>
+<color%3D#00E5FF><b>submerged-hypoxia</b></color>=<color%3D#00E5FF><b>淹没缺氧</b></color>
+<color%3D#00E5FF><b>liquid</b></color>=<color%3D#00E5FF><b>液体</b></color>
+<color%3D#00E5FF><b>hazard-exposure</b></color>=<color%3D#00E5FF><b>危险暴露</b></color>
+<color%3D#00E5FF><b>sedative-exposure</b></color>=<color%3D#00E5FF><b>镇静剂暴露</b></color>
+<color%3D#00E5FF><b>stimulant-exposure</b></color>=<color%3D#00E5FF><b>兴奋剂暴露</b></color>
+<color%3D#00E5FF><b>restorative-exposure</b></color>=<color%3D#00E5FF><b>恢复剂暴露</b></color>
+<color%3D#00E5FF><b>water-liquid</b></color>=<color%3D#00E5FF><b>水-液体</b></color>
+<color%3D#00E5FF><b>stabbed</b></color>=<color%3D#00E5FF><b>被刺伤</b></color>
+<color%3D#00E5FF><b>weightless</b></color>=<color%3D#00E5FF><b>失重</b></color>
+<color%3D#00E5FF><b>sliding</b></color>=<color%3D#00E5FF><b>滑动</b></color>
+<color%3D#63D9F0><b>FOOD CUES (gameplay; stock Pumpkin):</b></color>=<color%3D#63D9F0><b>食物线索（游戏玩法；原版南瓜）：</b></color>
+<color%3D#00E5FF><b>nearby</b></color>=<color%3D#00E5FF><b>附近</b></color>
+<color%3D#00E5FF><b>head-contact</b></color>=<color%3D#00E5FF><b>头部接触</b></color>
+  Proximity includes walls; no measured smell, taste or eating.=  接近判定包含墙壁；不测量嗅觉、味觉或进食。
+<color%3D#00E5FF><b>region-touch(head/arms/legs/core)</b></color>=<color%3D#00E5FF><b>区域接触（头/手臂/腿/核心）</b></color>
+<color%3D#00E5FF><b>head-facing-world-deg</b></color>=<color%3D#00E5FF><b>头部朝向-世界-度数</b></color>
+<color%3D#00E5FF><b>view</b></color>=<color%3D#00E5FF><b>视野</b></color>
+<color%3D#00E5FF><b>target-bearing-head-deg</b></color>=<color%3D#00E5FF><b>目标方位-头部-度数</b></color>
+<color%3D#00E5FF><b>vision-scan</b></color>=<color%3D#00E5FF><b>视觉扫描</b></color>
+<color%3D#00E5FF><b>view bands CW2/CW1/front/CCW1/CCW2</b></color>=<color%3D#00E5FF><b>视野带 顺时针2/顺时针1/前/逆时针1/逆时针2</b></color>
+<color%3D#00E5FF><b>nearest visual bounds geometry</b></color>=<color%3D#00E5FF><b>最近视觉边界几何体</b></color>
+<color%3D#00E5FF><b>source spectrum energy (below 100 / 100+ Hz)</b></color>=<color%3D#00E5FF><b>源频谱能量（低于100 / 100+ Hz）</b></color>
+CIRCULATING LIQUIDS=循环液体
+Highest fraction in any tracked limb (including detached limbs).=任何被追踪肢体（包括已分离肢体）中的最高占比。
+Exposure categories are adapter mappings, not measured effect strength.=暴露类别是适配器映射，而非测量到的效果强度。
+  BLOOD: 100.0% (Blood)=  血液：100.0%（血）
+AUDIO (LATEST SAMPLE): none=音频（最新样本）：无
+LAST HEARD: 162.9 seconds ago (real time)=最后听到：162.9 秒前（真实时间）
+  external person Foot/Foot=  外部人员 脚/脚
+<color%3D#00E5FF><b>distance at detection</b></color>=<color%3D#00E5FF><b>检测时距离</b></color>
+<color%3D#00E5FF><b>signal at detection</b></color>=<color%3D#00E5FF><b>检测时信号</b></color>
+<color%3D#00E5FF><b>volume at detection</b></color>=<color%3D#00E5FF><b>检测时音量</b></color>
+DERIVED PROXIES=派生代理
+Damage/blood loss, temperature bands, falling, vibration, proprioception and submerged hypoxia combine native readings.=伤害/失血、温度带、下落、振动、本体感觉和淹没缺氧综合了原生读数。
+Vision is nearest-collider line of sight combined with ambient + nearby light proxy. Local light uses enabled native light sprites and an approximate footprint; no texture/shadow sampling. Audio is external object playback. No semantic sight or smell.=视觉是最近碰撞体的视线结合环境光 + 附近光照代理。局部光照使用启用的原生光照精灵和近似覆盖范围；不进行纹理/阴影采样。音频是外部对象播放。不具备语义视觉或嗅觉。
+Min-limb-health is the lowest valid normalized health among connected limbs; it is not native Vitality.=最低肢体生命值是相连肢体中最低的有效归一化生命值；它不是原生活力。
+
+NEURAL:=神经：
+<color%3D#00E5FF><b>input</b></color>=<color%3D#00E5FF><b>输入</b></color>
+<color%3D#00E5FF><b>queued</b></color>=<color%3D#00E5FF><b>已排队</b></color>
+<color%3D#00E5FF><b>integrated</b></color>=<color%3D#00E5FF><b>已整合</b></color>
+<color%3D#00E5FF><b>decay-only</b></color>=<color%3D#00E5FF><b>仅衰减</b></color>
+<color%3D#00E5FF><b>dropped-spikes</b></color>=<color%3D#00E5FF><b>已丢弃脉冲</b></color>
+<color%3D#00E5FF><b>fired</b></color>=<color%3D#00E5FF><b>已触发</b></color>
+<color%3D#00E5FF><b>scheduler</b></color>=<color%3D#00E5FF><b>调度器</b></color>
+DERIVED INPUT DRIVES=派生的输入驱动
+<color%3D#63D9F0><b>LIVE ENCODER REQUESTS (normalized amplitudes, not Hz):</b></color>=<color%3D#63D9F0><b>实时编码器请求（归一化振幅，非 Hz）：</b></color>
+<color%3D#00E5FF><b>light</b></color>=<color%3D#00E5FF><b>光照</b></color>
+<color%3D#00E5FF><b>broad-touch</b></color>=<color%3D#00E5FF><b>广泛触碰</b></color>
+<color%3D#00E5FF><b>injury-proxy</b></color>=<color%3D#00E5FF><b>损伤代理</b></color>
+<color%3D#00E5FF><b>regional-touch</b></color>=<color%3D#00E5FF><b>区域触碰</b></color>
+<color%3D#00E5FF><b>gravity-proxy</b></color>=<color%3D#00E5FF><b>重力代理</b></color>
+<color%3D#00E5FF><b>joints</b></color>=<color%3D#00E5FF><b>关节</b></color>
+<color%3D#00E5FF><b>small-visual</b></color>=<color%3D#00E5FF><b>小视觉</b></color>
+<color%3D#00E5FF><b>optic-roll</b></color>=<color%3D#00E5FF><b>视滚动</b></color>
+<color%3D#00E5FF><b>light-level change ON</b></color>=<color%3D#00E5FF><b>光照水平变化 开</b></color>
+<color%3D#00E5FF><b>warm</b></color>=<color%3D#00E5FF><b>暖</b></color>
+<color%3D#00E5FF><b>cool</b></color>=<color%3D#00E5FF><b>冷</b></color>
+<color%3D#00E5FF><b>approach-proxy</b></color>=<color%3D#00E5FF><b>接近代理</b></color>
+<color%3D#00E5FF><b>food-nearby(gameplay)</b></color>=<color%3D#00E5FF><b>食物-附近（游戏玩法）</b></color>
+<color%3D#00E5FF><b>food-head-contact(gameplay)</b></color>=<color%3D#00E5FF><b>食物-头部接触（游戏玩法）</b></color>
+<color%3D#00E5FF><b>input neurons queued this tick</b></color>=<color%3D#00E5FF><b>本 tick 排队的输入神经元</b></color>
+Food cues are explicit catalog-based gameplay mappings, not measured smell/taste. Health/chemistry remain telemetry and control constraints.=食物线索是基于目录的显式游戏玩法映射，而非测量到的嗅觉/味觉。生命值/化学状态仍为遥测和控制约束。
+Visual directions use head-relative 2D bearing (positive CCW to R); audio/tilt use world horizontal. These are engineering projections.=视觉方向使用头部相对的 2D 方位（正值逆时针向右）；音频/倾斜使用世界水平。这些是工程投影。
+SPIKES / NEURAL TICK=脉冲 / 神经 tick
+r:"LATEST (\d+) SPIKES \| scale peak (\d+) \| one bar per processed tick"="最新 $1 个脉冲 \| 缩放峰值 $2 \| 每处理一个 tick 显示一根柱"
+SOMA ACTIVITY | RAW X/Z PROJECTION=胞体活动 | 原始 X/Z 投影
+r:"SOMA ACTIVITY \| RAW X/Z PROJECTION\\n(\d+) displayed / (\d+) located / (\d+) neurons"="胞体活动 | 原始 X/Z 投影\n$1 已显示 / $2 已定位 / $3 个神经元"
+r:"TICK (\d+) \| (\d+) graph spikes\\nDrag to pan \| scroll or use - / \+ to zoom \| 1:1 resets\."="TICK $1 | $2 个图脉冲\n拖动以平移 \| 滚动或使用 - / + 缩放 \| 1:1 重置。"
+Ascending neurons=上行神经元
+Ascending output neurons=上行输出神经元
+Ascending sensory neurons=上行感觉神经元
+Ascending sensory neurons (pending classification)=上行感觉神经元（待分类）
+Central brain hormone-control neurons=中央脑激素控制神经元
+Central brain local-circuit neurons=中央脑局部回路神经元
+Central brain motor neurons=中央脑运动神经元
+Central brain output neurons=中央脑输出神经元
+Central brain sensory neurons=中央脑感觉神经元
+Central brain sensory neurons (pending classification)=中央脑感觉神经元（待分类）
+Descending neurons=下行神经元
+Descending neurons (pending classification)=下行神经元（待分类）
+Descending output neurons=下行输出神经元
+Descending sensory neurons=下行感觉神经元
+Enteric nervous system=肠神经系统
+Optic lobe local-circuit neurons=视叶局部回路神经元
+Optic lobe sensory neurons=视叶感觉神经元
+Unannotated neurons=未注释神经元
+Ventral nerve cord hormone-control neurons=腹神经索激素控制神经元
+Ventral nerve cord local-circuit neurons=腹神经索局部回路神经元
+Ventral nerve cord motor neurons=腹神经索运动神经元
+Ventral nerve cord neurons (pending classification)=腹神经索神经元（待分类）
+Ventral nerve cord output neurons=腹神经索输出神经元
+Ventral nerve cord sensory neurons=腹神经索感觉神经元
+Ventral nerve cord sensory neurons (pending classification)=腹神经索感觉神经元（待分类）
+Visual centrifugal neurons (visual-system feedback)=视觉离心神经元（视觉系统反馈）
+Visual projection neurons=视觉投射神经元
+Visual projection neurons (pending classification)=视觉投射神经元（待分类）
+POPULATIONS | FIRED / MEMBERS=种群 | 已触发 / 成员
+
+Stimulation=刺激
+MANUAL INPUT STIMULATION=手动输入刺激
+Editing person #1 | settings are session-local and independent=正在编辑人物 #1 | 设置仅对本次会话有效且相互独立
+INACTIVE | live input=未激活 | 实时输入
+sr:"^(ACTIVE|INACTIVE) \| (.*?)$"="$1 | $2"
+Overrides neural input stimulation, not the body's physical state.=覆盖神经输入刺激，而非身体的物理状态。
+Manual override=手动覆盖
+Input mode | Mixed or Manual only=输入模式 | 混合或仅手动
+Mixed=混合
+Manual only=仅手动
+Zero manual values=清零手动数值
+Return to live=返回实时
+Pulse=脉冲
+Fire pulse=触发脉冲
+Override=覆盖
