@@ -19100,3 +19100,27 @@ Return to live=返回实时
 Pulse=脉冲
 Fire pulse=触发脉冲
 Override=覆盖
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//343*RE_PPG-01编译器
+<color%3D#4ade80>Safe Filter Passed. For security reasons, please confirm to load this mod.</color>\n<color%3D#9ca3af>Remember, automated filter cannot guarantee complete protection. Load only if you trust the mod author and source.</color>=<color%3D#4ade80>安全过滤已通过. 出于安全原因，请确认加载此模组。</color>\n<color%3D#9ca3af>请记住，自动过滤器无法保证完全保护. 仅当您信任模组作者和来源时才加载. </color>
+
+Bypass compiler security checks?\nThis mod can access your files and network and run code with your account's permissions.\nOnly continue if you trust its author.=绕过编译器安全检查？\n此模组可以访问您的文件和网络，并使用您账户的权限运行代码。\n仅当您信任其作者时才继续。
+
+Trust and run=信任并运行
+

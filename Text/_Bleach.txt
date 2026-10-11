@@ -2632,3 +2632,79 @@ Fast Abilities=快速能力
 
 
 
+
+
+
+
+
+//3.5新东西
+
+///*死神
+
+//武器
+[SPG 01] Snake III Sword Form=[SPG 01] 蛇 III 剑形态
+<b>[SPG 01] Snake III Sword Form</b>\r\n[Hold H] Extend body | [Hold J] Retract body | [Jaw Activa] Charge & Fire Energy Beam | [Jaw Select + H] Rapid Snap Bite | [Context Menu] Settings & Release Victims.=<b>[SPG 01] 蛇 III 剑形态</b>\r\n[按住H] 伸展身体 | [按住J] 缩回身体 | [颚部激活] 充能并发射能量光束 | [颚部选择 + H] 快速撕咬 | [上下文菜单] 设置与释放受害者。
+
+[SPG 01] Evil Science Sword=[SPG 01] 邪恶科学之剑
+<b>[SPG 01] Evil Science Sword</b>.\r\n=<b>[SPG 01] 邪恶科学之剑</b>.\r\n
+
+[SPG 01] Chain Sword=[SPG 01] 锁链剑
+<b>[SPG 01] Chain Sword</b>.\r\n=<b>[SPG 01] 锁链剑</b>.\r\n
+
+[SPG 01] Needle Sword=[SPG 01] 针剑
+<b>[SPG 01] Needle Sword</b>.\r\n=<b>[SPG 01] 针剑</b>.\r\n
+
+[SPG 01] [C] Curse I Sword Form=[SPG 01] [C] 诅咒 I 剑形态
+<b>[SPG 01] [C] Curse I Sword Form</b>.\r\n=<b>[SPG 01] [C] 诅咒 I 剑形态</b>.\r\n
+
+[SPG 01] Butcher IV Sword Form=[SPG 01] 屠夫 IV 剑形态
+<b>[SPG 01] Butcher IV Sword Form</b>\r\nExtra full power of butcher knife.=<b>[SPG 01] 屠夫 IV 剑形态</b>\r\n屠刀的额外全力。
+
+[SPG 01] Chain I Sword Form=[SPG 01] 锁链 I 剑形态
+<b>[SPG 01] Chain I Sword Form</b>.\r\n=<b>[SPG 01] 锁链 I 剑形态</b>.\r\n
+
+[SPG 01] Chain II Sword Form=[SPG 01] 锁链 II 剑形态
+<b>[SPG 01] Chain II Sword Form</b>\r\n[X] Switch Action Mode (Control / Throw) | [H] Recall / Throw Sword | [J] Grab / Release Chain.=<b>[SPG 01] 锁链 II 剑形态</b>\r\n[X] 切换动作模式（控制 / 投掷） | [H] 召回 / 投掷剑 | [J] 抓取 / 释放锁链。
+
+[SPG 01] Hypnosis II Sword Form=[SPG 01] 镜花水月 II 剑形态
+<b>[SPG 01] Hypnosis II Sword Form</b>\r\nUnlocks basic hypnosis.=<b>[SPG 01] 镜花水月 II 剑形态</b>\r\n解锁基础催眠。
+
+[SPG 01] Hypnosis III Sword Form=[SPG 01] 镜花水月 III 剑形态
+<b>[SPG 01] Hypnosis III Sword Form</b>\r\nSlightly buffs stats and unlocks hypnosis strike.=<b>[SPG 01] 镜花水月 III 剑形态</b>\r\n略微提升属性并解锁催眠打击。
+
+[SPG 01] Hypnosis IV Sword Form=[SPG 01] 镜花水月 IV 剑形态
+<b>[SPG 01] Hypnosis IV Sword Form</b>\r\nFurther buffs stats and unlocks charged hypnosis strike.=<b>[SPG 01] 镜花水月 IV 剑形态</b>\r\n进一步强化属性并解锁充能催眠打击。
+
+[SPG 01] Needle I Sword Form=[SPG 01] 针 I 剑形态
+<b>[SPG 01] Needle I Sword Form</b>.\r\n=<b>[SPG 01] 针 I 剑形态</b>.\r\n
+
+[SPG 01] Needle II Sword Form=[SPG 01] 针 II 剑形态
+<b>[SPG 01] Needle II Sword Form</b>\r\nStabbing targets applies a Butterfly Tattoo. Stabbing an existing tattoo marker triggers a fatal execution.=<b>[SPG 01] 针 II 剑形态</b>\r\n刺击目标会施加蝴蝶纹身。刺击已有的纹身标记会触发致命处决。
+
+[SPG 01] Needle III Sword Form=[SPG 01] 针 III 剑形态
+<b>[SPG 01] Needle III Sword Form</b>\r\n[H] Launch Missile | [X] Select Launch Mode | [J] Open Settings | [K] Supercharge Rocket. Configurable warheads and salvo count.=<b>[SPG 01] 针 III 剑形态</b>\r\n[H] 发射导弹 | [X] 选择发射模式 | [J] 打开设置 | [K] 超级充能火箭。可配置弹头与齐射数量。
+
+[SPG 01] Snake III Sword Form=[SPG 01] 蛇 III 剑形态
+<b>[SPG 01] Snake III Sword Form</b>\r\n[Hold H] Extend body | [Hold J] Retract body | [Jaw Activa] Charge & Fire Energy Beam | [Jaw Select + H] Rapid Snap Bite | [Context Menu] Settings & Release Victims.=<b>[SPG 01] 蛇 III 剑形态</b>\r\n[按住H] 伸展身体 | [按住J] 缩回身体 | [颚部激活] 充能并发射能量光束 | [颚部选择 + H] 快速撕咬 | [上下文菜单] 设置与释放受害者.
+
+
+
+
+
+
+//人物
+[SPG 01] Shuhei Hisagi=[SPG 01] 桧佐木修兵
+
+<b>[SPG 01] Shuhei Hisagi</b>\r\nEnergy : <color%3D#B24C00FF>45000</color>  |  Energy Throughput : <color%3D#9F7FB4FF>1500</color>\nPhysical : <color%3D#8C87B1FF>1400</color>  |  Speed : <color%3D#59A600FF>650</color>\n[MP] : <color%3D#40BF00FF>750</color> | [AM] : <color%3D#47B800FF>720</color> | [DM] : <color%3D#40BF00FF>750</color> | [HM] : <color%3D#669900FF>600</color>\nState : [Soul]  |  [AC] : <color%3D#42C126FF>COLOR</color>.=<b>[SPG 01] 桧佐木修兵</b>\r\n能量：<color%3D#B24C00FF>45000</color>  |  能量吞吐量：<color%3D#9F7FB4FF>1500</color>\n物理：<color%3D#8C87B1FF>1400</color>  |  速度：<color%3D#59A600FF>650</color>\n[MP]：<color%3D#40BF00FF>750</color> | [AM]：<color%3D#47B800FF>720</color> | [DM]：<color%3D#40BF00FF>750</color> | [HM]：<color%3D#669900FF>600</color>\n状态：[灵魂]  |  [AC]：<color%3D#42C126FF>颜色</color>
+
+[SPG 01] Sui-Feng=[SPG 01] 碎蜂
+
+<b>[SPG 01] Sui-Feng</b>\r\nEnergy : <color%3D#B24C00FF>45000</color>  |  Energy Throughput : <color%3D#40A6A6FF>1000</color>\nPhysical : <color%3D#798FAEFF>1300</color>  |  Speed : <color%3D#B378B7FF>1600</color>\n[MP] : <color%3D#40BF00FF>750</color> | [AM] : <color%3D#669900FF>600</color> | [DM] : <color%3D#4CB200FF>700</color> | [HM] : <color%3D#E61A00FF>100</color>\nState : [Soul]  |  [AC] : <color%3D#FFD31AFF>COLOR</color>.=<b>[SPG 01] 碎蜂</b>\r\n能量：<color%3D#B24C00FF>45000</color>  |  能量吞吐量：<color%3D#40A6A6FF>1000</color>\n物理：<color%3D#798FAEFF>1300</color>  |  速度：<color%3D#B378B7FF>1600</color>\n[MP]：<color%3D#40BF00FF>750</color> | [AM]：<color%3D#669900FF>600</color> | [DM]：<color%3D#4CB200FF>700</color> | [HM]：<color%3D#E61A00FF>100</color>\n状态：[灵魂]  |  [AC]：<color%3D#FFD31AFF>颜色</color>
+
+[SPG 01] Szayelaporro Granz=[SPG 01] 萨尔阿波罗·格兰兹
+
+<b>[SPG 01] Szayelaporro Granz</b>\r\nEnergy : <color%3D#AA5500FF>50000</color>  |  Energy Throughput : <color%3D#5DA200FF>635</color>\nPhysical : <color%3D#838BB0FF>1350</color>  |  Speed : <color%3D#738C00FF>550</color>\n[MP] : <color%3D#59A600FF>650</color> | [AM] : <color%3D#808000FF>500</color> | [DM] : <color%3D#FF0000FF>0</color> | [HM] : <color%3D#FF0000FF>0</color>\nState : [Human]  |  [AC] : <color%3D#D9008CFF>COLOR</color>.=<b>[SPG 01] 萨尔阿波罗·格兰兹</b>\r\n能量：<color%3D#AA5500FF>50000</color>  |  能量吞吐量：<color%3D#5DA200FF>635</color>\n物理：<color%3D#838BB0FF>1350</color>  |  速度：<color%3D#738C00FF>550</color>\n[MP]：<color%3D#59A600FF>650</color> | [AM]：<color%3D#808000FF>500</color> | [DM]：<color%3D#FF0000FF>0</color> | [HM]：<color%3D#FF0000FF>0</color>\n状态：[人类]  |  [AC]：<color%3D#D9008CFF>颜色</color>
+
+[SPG 01] Zangetsu=[SPG 01] 斩月
+
+<b>[SPG 01] Zangetsu</b>\r\nEnergy : <color%3D#40A6A6FF>150000</color>  |  Energy Throughput : <color%3D#9F7FB4FF>1500</color>\nPhysical : <color%3D#FF59C2FF>2250</color>  |  Speed : <color%3D#C670B9FF>1700</color>\n[MP] : <color%3D#9F7FB4FF>1500</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Human]  |  [AC] : <color%3D#554070FF>COLOR</color>.=<b>[SPG 01] 斩月</b>\r\n能量：<color%3D#40A6A6FF>150000</color>  |  能量吞吐量：<color%3D#9F7FB4FF>1500</color>\n物理：<color%3D#FF59C2FF>2250</color>  |  速度：<color%3D#C670B9FF>1700</color>\n[MP]：<color%3D#9F7FB4FF>1500</color> | [AM]：<color%3D#4CB200FF>700</color> | [DM]：<color%3D#FA0500FF>20</color> | [HM]：<color%3D#FE0100FF>5</color>\n状态：[人类]  |  [AC]：<color%3D#554070FF>颜色</color>
