@@ -1347,7 +1347,7 @@ Death II=灭亡之斧 II
 Death Sword Menu=灭亡之斧 刀剑菜单
 Death Sword Menu.=灭亡之斧刀剑菜单
 You also can find seperate button for this menu in context menu of object.=在对象的右键菜单中，你也可以找到此菜单的单独按钮.
-Cast System=等级制度
+Cast System=施法系统
 Casting: <color%3D#FF0000FF>Disabled</color>=施法: <color%3D#FF0000FF>已禁用</color>
 Casting: <color%3D#00FF00FF>Enabled</color>=施法: <color%3D#00FF00FF>已开启</color>
 You can switch active casting for each caster you want.=你可以为每个你想要的施法者切换主动施法.
@@ -2641,53 +2641,165 @@ Fast Abilities=快速能力
 
 ///*死神
 
+
+//崩玉
+r:"^Evolution Power Mult: ([\d.]+)$"="进化力量倍率：$1"
+r:"^Evolution Speed Mult: ([\d.]+)$"="进化速度倍率：$1"
+Force Devolve=强制退化
+sr:"^(.*?) Unlocked!$"="$1 已解锁！"
+Devolved=已退化
+
+Snake III Sword Form=蛇 III 剑形态
+Evil Science Sword=邪恶科学之剑
+Chain Sword=锁链剑
+Needle Sword=针剑
+[C] Curse I Sword Form=[C] 诅咒 I 剑形态
+Butcher IV Sword Form=斩月 IV 剑形态
+Chain I Sword Form=锁链 I 剑形态
+Chain II Sword Form=锁链 II 剑形态
+Hypnosis II Sword Form=镜花水月 II 剑形态
+Hypnosis III Sword Form=镜花水月 III 剑形态
+Hypnosis IV Sword Form=镜花水月 IV 剑形态
+Hypnosis III and IV Sword Forms=镜花水月 III和 IV 剑形态
+Needle I Sword Form=针 I 剑形态
+Needle II Sword Form=针 II 剑形态
+Needle III Sword Form=针 III 剑形态
+
+Alter Butcher I Sword Form=白斩月 I
+Alter Butcher II Sword Form=白斩月 II
+Alter Butcher III Sword Form=白斩月 III
+Ash I Sword Form=灰猫 I
+Ash II Sword Form=灰猫 II
+Bat I Sword Form=黑翼大魔 I
+Bat II Sword Form=黑翼大魔 II
+Bat III Sword Form=黑翼大魔 III
+Berserk I Sword Form=野晒 I
+Blind I Sword Form=清虫 I
+Blind II Sword Form=清虫 II
+Bow I Sword Form=弧雀 I
+Butcher I Sword Form=斩月 I
+Butcher II Sword Form=斩月 II
+Butcher III Sword Form=斩月 III
+Death I Sword Form=灭亡之斧 I
+Death II Sword Form=灭亡之斧 II
+Delusion I Sword Form=逆抚 I
+Delusion II Sword Form=逆抚 II
+Fire I Sword Form=流刃若火 I
+Fire II Sword Form=流刃若火 II
+Green I Sword Form=红姬 I
+Green II Sword Form=红姬 II
+Hypnosis I Sword Form=镜花水月 I
+Hypnosis II Sword Form=镜花水月 II
+Ice I Sword Form=冰轮丸 I
+Ice II Sword Form=冰轮丸 II
+Long I Sword Form=神枪 I
+Long II Sword Form=神杀枪 II
+Reverse I Sword Form=双鱼理 I
+Reverse II Sword Form=双鱼理 II
+Sakura I Sword Form=千本樱 I
+Sakura II Sword Form=千本樱 II
+Science I Sword Form=疋杀地藏 I
+Science II Sword Form=疋杀地藏 II
+Shark I Sword Form=皇鲛后 I
+Shark II Sword Form=皇鲛后 II
+Snake I Sword Form=蛇尾丸 I
+Snake II Sword Form=蛇尾丸 II
+Snow I Sword Form=袖白雪 I
+Snow II Sword Form=袖白雪 II
+Tricky I Sword Form=花天狂骨 I
+Tricky II Sword Form=花天狂骨 II
+Weight I Sword Form=侘助 I
+Weight II Sword Form=侘助 II
+Wolf I Sword Form=孤狼 I
+Wolf II Sword Form=孤狼 II
+
+//蓝染进化
+Transcendence=超越
+Monster Form=怪物形态
+
+
 //武器
+//武器
+Snake III=蛇 III
 [SPG 01] Snake III Sword Form=[SPG 01] 蛇 III 剑形态
 <b>[SPG 01] Snake III Sword Form</b>\r\n[Hold H] Extend body | [Hold J] Retract body | [Jaw Activa] Charge & Fire Energy Beam | [Jaw Select + H] Rapid Snap Bite | [Context Menu] Settings & Release Victims.=<b>[SPG 01] 蛇 III 剑形态</b>\r\n[按住H] 伸展身体 | [按住J] 缩回身体 | [颚部激活] 充能并发射能量光束 | [颚部选择 + H] 快速撕咬 | [上下文菜单] 设置与释放受害者。
 
+Evil Science=邪恶科学
+Evil Science I=邪恶科学 I
 [SPG 01] Evil Science Sword=[SPG 01] 邪恶科学之剑
 <b>[SPG 01] Evil Science Sword</b>.\r\n=<b>[SPG 01] 邪恶科学之剑</b>.\r\n
 
+Evil Science II=邪恶科学 II
+Grants 2 abilities (Tentacles Aura & Tentacles Attack).\nIncreases Physical, Magic, and Max Energy stats by 2x.=赋予2项能力（触手气场与触手攻击）。\n将物理、魔法和最大能量属性提升2倍。
+
+Chain=锁链
 [SPG 01] Chain Sword=[SPG 01] 锁链剑
 <b>[SPG 01] Chain Sword</b>.\r\n=<b>[SPG 01] 锁链剑</b>.\r\n
 
+Needle=针剑
 [SPG 01] Needle Sword=[SPG 01] 针剑
 <b>[SPG 01] Needle Sword</b>.\r\n=<b>[SPG 01] 针剑</b>.\r\n
 
+[C] Curse I=[C] 诅咒 I
 [SPG 01] [C] Curse I Sword Form=[SPG 01] [C] 诅咒 I 剑形态
 <b>[SPG 01] [C] Curse I Sword Form</b>.\r\n=<b>[SPG 01] [C] 诅咒 I 剑形态</b>.\r\n
 
-[SPG 01] Butcher IV Sword Form=[SPG 01] 屠夫 IV 剑形态
-<b>[SPG 01] Butcher IV Sword Form</b>\r\nExtra full power of butcher knife.=<b>[SPG 01] 屠夫 IV 剑形态</b>\r\n屠刀的额外全力。
+Butcher IV=斩月 IV
+Extra full power of butcher knife.=额外拥有屠刀的全部威力.
+[SPG 01] Butcher IV Sword Form=[SPG 01] 斩月 IV 剑形态
+<b>[SPG 01] Butcher IV Sword Form</b>\r\nExtra full power of butcher knife.=<b>[SPG 01] 斩月 IV 剑形态</b>\r\n额外拥有屠刀的全部威力.
 
+Butcher V=斩月 V
+This is my final...=这是我最后的……
+[SPG 01] Butcher V Sword Form=[SPG 01] 斩月 V 剑形态
+<b>[SPG 01] Butcher V Sword Form</b>\r\nThis is my final...=<b>[SPG 01] 斩月 V 剑形态</b>\r\n这是我最后的……
+
+Chain I=锁链 I
 [SPG 01] Chain I Sword Form=[SPG 01] 锁链 I 剑形态
 <b>[SPG 01] Chain I Sword Form</b>.\r\n=<b>[SPG 01] 锁链 I 剑形态</b>.\r\n
 
+Chain II=锁链 II
+[X] Switch Action Mode (Control / Throw) | [H] Recall / Throw Sword | [J] Grab / Release Chain.=[X] 切换动作模式（控制 / 投掷） | [H] 召回 / 投掷剑 | [J] 抓取 / 释放锁链.
+<b>[SPG 01] Chain II Sword Form</b>\r\n[X] Switch Action Mode (Control / Throw) | [H] Recall / Throw Sword | [J] Grab / Release Chain.=<b>[SPG 01] 锁链 II 剑形态</b>\r\n[X] 切换动作模式（控制 / 投掷） | [H] 召回 / 投掷剑 | [J] 抓取 / 释放锁链.
 [SPG 01] Chain II Sword Form=[SPG 01] 锁链 II 剑形态
-<b>[SPG 01] Chain II Sword Form</b>\r\n[X] Switch Action Mode (Control / Throw) | [H] Recall / Throw Sword | [J] Grab / Release Chain.=<b>[SPG 01] 锁链 II 剑形态</b>\r\n[X] 切换动作模式（控制 / 投掷） | [H] 召回 / 投掷剑 | [J] 抓取 / 释放锁链。
 
+Hypnosis II=镜花水月 II
+Unlocks basic hypnosis.=解锁基础催眠。
 [SPG 01] Hypnosis II Sword Form=[SPG 01] 镜花水月 II 剑形态
 <b>[SPG 01] Hypnosis II Sword Form</b>\r\nUnlocks basic hypnosis.=<b>[SPG 01] 镜花水月 II 剑形态</b>\r\n解锁基础催眠。
 
+Hypnosis III=镜花水月 III
+Slightly buffs stats and unlocks hypnosis strike.=略微提升属性并解锁催眠打击。
 [SPG 01] Hypnosis III Sword Form=[SPG 01] 镜花水月 III 剑形态
 <b>[SPG 01] Hypnosis III Sword Form</b>\r\nSlightly buffs stats and unlocks hypnosis strike.=<b>[SPG 01] 镜花水月 III 剑形态</b>\r\n略微提升属性并解锁催眠打击。
 
+Hypnosis IV=镜花水月 IV
+Further buffs stats and unlocks charged hypnosis strike.=进一步强化属性并解锁充能催眠打击。
 [SPG 01] Hypnosis IV Sword Form=[SPG 01] 镜花水月 IV 剑形态
 <b>[SPG 01] Hypnosis IV Sword Form</b>\r\nFurther buffs stats and unlocks charged hypnosis strike.=<b>[SPG 01] 镜花水月 IV 剑形态</b>\r\n进一步强化属性并解锁充能催眠打击。
 
+Needle I=针 I
 [SPG 01] Needle I Sword Form=[SPG 01] 针 I 剑形态
 <b>[SPG 01] Needle I Sword Form</b>.\r\n=<b>[SPG 01] 针 I 剑形态</b>.\r\n
 
+Needle II=针 II
+Stabbing targets applies a Butterfly Tattoo. Stabbing an existing tattoo marker triggers a fatal execution.=刺击目标会施加蝴蝶纹身。刺击已有的纹身标记会触发致命处决。
 [SPG 01] Needle II Sword Form=[SPG 01] 针 II 剑形态
 <b>[SPG 01] Needle II Sword Form</b>\r\nStabbing targets applies a Butterfly Tattoo. Stabbing an existing tattoo marker triggers a fatal execution.=<b>[SPG 01] 针 II 剑形态</b>\r\n刺击目标会施加蝴蝶纹身。刺击已有的纹身标记会触发致命处决。
 
+Needle III=针 III
+[H] Launch Missile | [X] Select Launch Mode | [J] Open Settings | [K] Supercharge Rocket. Configurable warheads and salvo count.=[H] 发射导弹 | [X] 选择发射模式 | [J] 打开设置 | [K] 超级充能火箭。可配置弹头与齐射数量。
 [SPG 01] Needle III Sword Form=[SPG 01] 针 III 剑形态
 <b>[SPG 01] Needle III Sword Form</b>\r\n[H] Launch Missile | [X] Select Launch Mode | [J] Open Settings | [K] Supercharge Rocket. Configurable warheads and salvo count.=<b>[SPG 01] 针 III 剑形态</b>\r\n[H] 发射导弹 | [X] 选择发射模式 | [J] 打开设置 | [K] 超级充能火箭。可配置弹头与齐射数量。
 
+Snake III=蛇 III
 [SPG 01] Snake III Sword Form=[SPG 01] 蛇 III 剑形态
 <b>[SPG 01] Snake III Sword Form</b>\r\n[Hold H] Extend body | [Hold J] Retract body | [Jaw Activa] Charge & Fire Energy Beam | [Jaw Select + H] Rapid Snap Bite | [Context Menu] Settings & Release Victims.=<b>[SPG 01] 蛇 III 剑形态</b>\r\n[按住H] 伸展身体 | [按住J] 缩回身体 | [颚部激活] 充能并发射能量光束 | [颚部选择 + H] 快速撕咬 | [上下文菜单] 设置与释放受害者.
 
 
+Who even use it lol??=这玩意儿谁还用啊哈哈??
+IS A BUTCHER KNIFE!=这是一把屠夫刀！
+Full power of butcher knife.=杀鸡焉用牛刀. 
 
 
 
@@ -2708,3 +2820,242 @@ Fast Abilities=快速能力
 [SPG 01] Zangetsu=[SPG 01] 斩月
 
 <b>[SPG 01] Zangetsu</b>\r\nEnergy : <color%3D#40A6A6FF>150000</color>  |  Energy Throughput : <color%3D#9F7FB4FF>1500</color>\nPhysical : <color%3D#FF59C2FF>2250</color>  |  Speed : <color%3D#C670B9FF>1700</color>\n[MP] : <color%3D#9F7FB4FF>1500</color> | [AM] : <color%3D#4CB200FF>700</color> | [DM] : <color%3D#FA0500FF>20</color> | [HM] : <color%3D#FE0100FF>5</color>\nState : [Human]  |  [AC] : <color%3D#554070FF>COLOR</color>.=<b>[SPG 01] 斩月</b>\r\n能量：<color%3D#40A6A6FF>150000</color>  |  能量吞吐量：<color%3D#9F7FB4FF>1500</color>\n物理：<color%3D#FF59C2FF>2250</color>  |  速度：<color%3D#C670B9FF>1700</color>\n[MP]：<color%3D#9F7FB4FF>1500</color> | [AM]：<color%3D#4CB200FF>700</color> | [DM]：<color%3D#FA0500FF>20</color> | [HM]：<color%3D#FE0100FF>5</color>\n状态：[人类]  |  [AC]：<color%3D#554070FF>颜色</color>
+
+
+
+
+
+
+
+//能力
+
+//头
+Edit Passive Regrowth=编辑被动再生
+Edit Passive Regrowth.=编辑被动再生.
+r:"^Regrowth Root Id: (\d+)$"="再生根 ID：$1"
+Set Regrowth Root Id [0 - 13]=设置再生根 ID [0 - 13]
+Should Revive: <color%3D#00FF00FF>Enabled</color>=是否复活：<color%3D#00FF00FF>已启用</color>
+Should Revive: <color%3D#FF0000FF>Disabled</color>=是否复活：<color%3D#FF0000FF>已禁用</color>
+
+Edit Passive Immortality=编辑被动不朽
+Edit Passive Immortality.=编辑被动不朽.
+
+Boss Form Settings=Boss形态设置
+Boss Form Settings.=Boss形态设置.
+Refill Full HP=回满生命值
+r:"^Max Health: ([\d.]+)$"="最大生命值：$1"
+Set Max Health [1 - 1000]=设置最大生命值 [1 - 1000]
+Set Health Regen Speed [0 - 100]=设置生命再生速度 [0 - 100]
+Defeat Boss Form=击败Boss形态
+
+<color%3Dred>Theme:</color> Full <color%3D#888888>Black</color>=<color%3Dred>主题：</color> 全<color%3D#888888>黑</color>
+<color%3Dred>Theme:</color> <color%3D#000538>C</color><color%3D#161B49>o</color><color%3D#2D315B>l</color><color%3D#43476C>o</color><color%3D#595C7E>r</color><color%3D#70728F>a</color><color%3D#8688A0>b</color><color%3D#9C9EB2>l</color><color%3D#B2B4C3>e</color>=<color%3Dred>主题：</color> <color%3D#000538>可</color><color%3D#161B49>着</color><color%3D#2D315B>色</color><color%3D#43476C></color><color%3D#595C7E></color><color%3D#70728F></color><color%3D#8688A0></color><color%3D#9C9EB2></color><color%3D#B2B4C3></color>
+Toggle theme between Full Black and Colorable.=在“全黑”与“可着色”之间切换主题.
+
+<color%3Dyellow>Change Color Theme</color>=<color%3Dyellow>更改颜色主题</color>
+Change Color Theme=更改颜色主题
+Change Color Theme.=更改颜色主题.
+Color Theme=颜色主题
+
+<color%3Dred>B&W Aura:</color> <color%3D#888888>OFF</color>=<color%3Dred>黑白气场：</color> <color%3D#888888>关</color>
+<color%3Dred>B&W Aura:</color> <color%3Dgreen>ON</color>=<color%3Dred>黑白气场：</color> <color%3Dgreen>开</color>
+Toggle 3x Black & White Distortion Aura.=切换 3 倍黑白扭曲气场.
+
+Butcher Masked: <color%3D#FF0000FF>Disabled</color>=斩月蒙面：<color%3D#FF0000FF>已禁用</color>
+Butcher Masked: <color%3D#00FF00FF>Enabled</color>=斩月蒙面：<color%3D#00FF00FF>已启用</color>
+Switch Butcher Masked=切换斩月蒙面
+Switch Butcher Masked.=切换斩月蒙面.
+
+Ability Silence=能力沉默
+Press F or H to stun all other abilities in radius (default 5).\nHas a cooldown.=按F或H眩晕半径内所有其他能力（默认半径5）。\n有冷却时间。
+Enable Ability Silence=<color%3D#00FF00FF>启用能力沉默
+Disable Ability Silence=<color%3D#FF0000FF>禁用能力沉默
+Toggle Ability Silence=切换能力沉默
+Toggle Ability Silence.=切换能力沉默.
+Ability Silence Open Menu=<color%3D#FFD800>打开能力沉默菜单
+Ability Silence Open Menu.=打开能力沉默菜单。
+Ability Silence Options=能力沉默选项
+Set Radius Mult [0.1 - 10]=设置半径倍率 [0.1 - 10]
+Set Stun Time [0.1 - 10]=设置眩晕时间 [0.1 - 10]
+Set Delay Time [0.1 - 10]=设置延迟时间 [0.1 - 10]
+r:"^Radius Mult: ([\d.]+)$"="半径倍率：$1"
+r:"^Stun Time: ([\d.]+)$"="眩晕时间：$1"
+r:"^Delay Time: ([\d.]+)$"="延迟时间：$1"
+
+
+//上半身
+
+Arm Swing=挥臂
+Windmill-like arm swing for striking with weapons.\nHold F to swing arms in a circle.=像大风车一样挥动手臂，用武器进行打击.\n按住F键让手臂做圆周挥动.
+Enable Arm Swing=<color%3D#00FF00FF>启用挥臂
+Disable Arm Swing=<color%3D#FF0000FF>禁用挥臂
+Toggle Arm Swing.=切换挥臂.
+Arm Swing Open Menu=<color%3D#FFD800>打开挥臂菜单
+Arm Swing Open Menu.=打开挥臂菜单.
+Arm Swing Options=挥臂选项
+Set Spin Speed Mult [0.1 - 10]=设置旋转速度倍率 [0.1 - 10]
+r:"^Spin Speed Mult: ([\d.]+)$"="旋转速度倍率：$1"
+
+Disable Strong Wings User=<color%3D#FF0000FF>禁用强力之翼使用者
+Enable Strong Wings User=<color%3D#00FF00FF>启用强力之翼使用者
+Toggle Strong Wings User=切换强力之翼使用者
+Toggle Strong Wings User.=切换强力之翼使用者.
+Strong Wings User Open Menu=<color%3D#FFD800>打开强力之翼使用者菜单
+Strong Wings User Open Menu.=打开强力之翼使用者菜单.
+Strong Wings User Options=强力之翼使用者选项
+Reject Projectiles <color%3D#00FF00FF>Enabled</color>=排斥投射物 <color%3D#00FF00FF>已启用</color>
+Reject Projectiles <color%3D#FF0000FF>Disabled</color>=排斥投射物 <color%3D#FF0000FF>已禁用</color>
+Auto Aim Beams: <color%3D#FF0000FF>Disabled</color>=自动瞄准光束：<color%3D#FF0000FF>已禁用</color>
+Auto Aim Beams: <color%3D#00FF00FF>Enabled</color>=自动瞄准光束：<color%3D#00FF00FF>已启用</color>
+Toggle auto-aiming beams at nearest target=切换是否自动瞄准最近目标的光束
+r:"^Aim Angle: ([\d.]+)°$"="瞄准角度：$1°"
+Max angle in degrees to find targets (default: 45°)=寻找目标的最大角度（单位：度）（默认：45°）
+Set Aim Angle [5 - 360]=设置瞄准角度 [5 - 360]
+
+
+//下半身
+Enable Instant Move=<color%3D#00FF00FF>启用瞬移
+Disable Instant Move=<color%3D#FF0000FF>禁用瞬移
+Toggle Instant Move=切换瞬移
+Toggle Instant Move.=切换瞬移.
+Instant Move Open Menu=<color%3D#FFD800>打开瞬移菜单
+Instant Move Open Menu.=打开瞬移菜单.
+Instant Move (Left / Backward)=瞬移（左 / 后）
+Instant Move (Right / Forward)=瞬移（右 / 前）
+Instant Move (Behind Target)=瞬移（目标背后）
+
+
+//手
+Disable Hypnosis User=<color%3D#FF0000FF>禁用镜花水月使用者
+Enable Hypnosis User=<color%3D#00FF00FF>启用镜花水月使用者
+Toggle Hypnosis User=切换镜花水月使用者
+Toggle Hypnosis User.=切换镜花水月使用者。
+Hypnosis User Open Menu=<color%3D#FFD800>打开镜花水月使用者菜单
+Hypnosis User Open Menu.=打开镜花水月使用者菜单.
+Hypnosis User Menu=<color%3D#FFD800>镜花水月使用者菜单
+Hypnosis User Menu.=镜花水月使用者菜单.
+
+
+
+//刀菜单
+sr:"^Cast: (.*?)$"="施法：$1"
+Concentrated dark slice.=凝聚暗影斩.
+Cast Settings=施放设置
+Configure Draw Dark options.=配置暗影拔刀选项.
+Draw Dark Options=暗影拔刀选项
+Arc Assist: <color%3D#FF0000FF>Disabled</color>=圆弧辅助：<color%3D#FF0000FF>已禁用</color>
+Arc Assist: <color%3D#00FF00FF>Enabled</color>=圆弧辅助：<color%3D#00FF00FF>已启用</color>
+Automatically smoothens your blade swing into a perfect circular arc.=自动将你的挥剑动作平滑成完美的圆弧.
+
+Chain Sword Menu=锁链剑菜单
+Chain Sword Menu.=锁链剑菜单。
+Throw Distance=投掷距离
+Set flight and ricochet seek distance=设置飞行与弹射寻敌距离
+Max Ricochets=最大弹射次数
+Set max targets to chain hit=设置连锁命中的最大目标数
+Max Fly Speed=最大飞行速度
+Set maximum travel speed=设置最大移动速度
+Hitstop Duration=打击停顿持续时间
+Set pause duration on impact=设置命中时的停顿持续时间
+Flight Acceleration=飞行加速度
+Set acceleration curve (ease in)=设置加速曲线（缓入）
+Max Spin Speed=最大旋转速度
+Set max rotation speed=设置最大旋转速度
+
+<color%3Dyellow>Supercharge Rocket</color>=<color%3Dyellow>超级充能火箭</color>
+<color%3Dyellow>Supercharged (Ready)</color>=<color%3Dyellow>已超级充能（就绪）</color>
+Rocket is fully upgraded=火箭已完全升级
+Expand rocket length and unlock heavy warheads=延长火箭长度并解锁重型弹头
+Rocket Supercharged! (Nuclear)=火箭已超级充能！（核弹）
+Launch Mode=发射模式
+sr:"^Current: (.*?)$"="当前：$1"
+Launch Mode Selection=发射模式选择
+Warhead Type=弹头类型
+Warhead Type Selection=弹头类型选择
+Nuclear=核弹
+Fusion=聚变
+Cluster Strong=强力集束
+Cluster Many=多重集束
+Weak=弱化
+Black Hole=黑洞
+r:"^Salvo Count: (\d+) missile\(s\)$"="齐射数量：$1 枚导弹"
+Salvo Count [1 - 50]=齐射数量 [1 - 50]
+r:"^Agility: ([\d.]+)x$"="机动性：$1倍"
+Agility Multiplier [0.5 - 3.0]=机动性倍率 [0.5 - 3.0]
+
+Disable Tentacles Ability=<color%3D#FF0000FF>禁用触手能力
+Enable Tentacles Ability=<color%3D#00FF00FF>启用触手能力
+Toggle Tentacles Ability=切换触手能力
+Toggle Tentacles Ability.=切换触手能力.
+Tentacles Ability Open Menu=<color%3D#FFD800>打开触手能力菜单
+Tentacles Ability Open Menu.=打开触手能力菜单.
+Tentacles Ability Options=触手能力选项
+Current Attack Type=当前攻击类型
+Current Attack Type Selection=当前攻击类型选择
+Rebirth Active=转生激活
+RebirthActive=转生激活
+Passive Revive <color%3D#00FF00FF>Enabled</color>=被动复活 <color%3D#00FF00FF>已启用</color>
+Passive Revive <color%3D#FF0000FF>Disabled</color>=被动复活 <color%3D#FF0000FF>已禁用</color>
+Set Tendrils Size Mult [0.1 - 10]=设置卷须大小倍率 [0.1 - 10]
+Set Tendrils Lengt Mult [0.1 - 10]=设置卷须长度倍率 [0.1 - 10]
+Set Tendrils Lengt Mult [1 - 10]=设置卷须数量 [1 - 10]
+r:"^Tendrils Size Mult: ([\d.]+)$"="卷须大小倍率：$1"
+r:"^Tendrils Lenght Mult: ([\d.]+)$"="卷须长度倍率：$1"
+r:"^Tendrils Count: (\d+)$"="卷须数量：$1"
+
+
+
+//刀能力
+
+Lock Grip Joint: <color%3D#00FF00FF>Enabled</color>=锁定握持关节：<color%3D#00FF00FF>已启用</color>
+Lock Grip Joint: <color%3D#FF0000FF>Disabled</color>=锁定握持关节：<color%3D#FF0000FF>已禁用</color>
+Switch Lock Grip Joint=切换锁定握持状态
+Switch Lock Grip Joint.=切换锁定握持状态.
+
+Sword Clash: <color%3D#00FF00FF>Enabled</color>=剑刃交锋：<color%3D#00FF00FF>已启用</color>
+Sword Clash: <color%3D#FF0000FF>Disabled</color>=剑刃交锋：<color%3D#FF0000FF>已禁用</color>
+Toggle Sword Clash=切换剑刃交锋
+Toggle Sword Clash.=切换剑刃交锋.
+
+Block Monster Blast: <color%3D#00FF00FF>Enabled</color>=格挡怪物冲击波：<color%3D#00FF00FF>已启用</color>
+Block Monster Blast: <color%3D#FF0000FF>Disabled</color>=格挡怪物冲击波：<color%3D#FF0000FF>已禁用</color>
+Toggle blocking monster blasts=切换格挡怪物冲击波
+Toggle blocking monster blasts.=切换格挡怪物冲击波.
+
+Cast from Blade Energy: <color%3D#00FF00FF>Enabled</color>=从剑刃能量施放：<color%3D#00FF00FF>已启用</color>
+Cast from Blade Energy: <color%3D#FF0000FF>Disabled</color>=从剑刃能量施放：<color%3D#FF0000FF>已禁用</color>
+Toggle casting from blade energy vs direct SoulSystem energy=切换施放来源：剑刃能量 或 直接使用灵魂系统能量
+Toggle casting from blade energy vs direct SoulSystem energy.=切换施放来源：剑刃能量 或 直接使用灵魂系统能量.
+
+Maintain Blade Energy: <color%3D#FF0000FF>Disabled</color>=维持剑刃能量：<color%3D#FF0000FF>已禁用</color>
+Maintain Blade Energy: <color%3D#00FF00FF>Enabled</color>=维持剑刃能量：<color%3D#00FF00FF>已启用</color>
+Toggle auto blade energy charging=切换剑刃能量自动充能
+Toggle auto blade energy charging.=切换剑刃能量自动充能.
+
+
+
+
+
+
+//刀快捷能力
+Hypno Strike=催眠打击
+Charged Hypno Strike=充能催眠打击
+
+Draw Default=拔刀式
+Draw Path=拔刀-绘制斩径
+I'm sick and tired...=我真是受够了……
+This...=这……
+..is my final.=……就是我的最终形态.
+Draw Dark=暗影拔刀
+Final Cut=终末斩
+Exhausted=力竭
+
+FIX!=固定!
+
+sr:"^Mode: (.*?)$"="模式：$1"
+Direct=直接
+Target=目标
+Mouse=鼠标
+
+
+
