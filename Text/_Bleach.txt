@@ -35,7 +35,8 @@ Max Floors=最大楼层
 
 <b>Monster [Tier 2]</b>.=<b>虚 [等级2].</b>
 
-<b>Monster Giganto [Tier 3]</b>.=<b>大虚 [等级3].</b>
+[SPG 01] Monster Giganto=[SPG 01] 大虚
+<b>[SPG 01] Monster Giganto</b>.\r\n=<b>[SPG 01] 大虚</b>.\r\n
 
 <b>[SPG 01] Aizen Sosuke</b>\r\nEnergy : <color%3D#FF59C2FF>300000</color>  |  Energy Throughput : <color%3D#FF59C2FF>2000</color>\nPhysical : <color%3D#FF59C2FF>3000</color>  |  Speed : <color%3D#FF59C2FF>2000</color>\n[MP] : <color%3D#FF59C2FF>2000</color> | [AM] : <color%3D#00FF00FF>999</color> | [DM] : <color%3D#00FF00FF>999</color> | [HM] : <color%3D#00FF00FF>999</color>\nState : [Soul]  |  [AC] : <color%3D#41138CFF>COLOR</color>.=<b>[SPG 01] 蓝染惣右介</b>\n能量 : <color%3D#FF59C2FF>300000</color> | 能量吞吐量 : <color%3D#FF59C2FF>2000</color>\n物理 : <color%3D#FF59C2FF>3000</color> | 速度 : <color%3D#FF59C2FF>2000</color>\n[MP] : <color%3D#FF59C2FF>2000</color> | [AM] : <color%3D#00FF00FF>999</color> | [DM] : <color%3D#00FF00FF>999</color> | [HM] : <color%3D#00FF00FF>999</color>\n状态 : [灵魂] | [AC] : <color%3D#41138CFF>COLOR</color>.
 
@@ -2882,6 +2883,25 @@ r:"^Radius Mult: ([\d.]+)$"="半径倍率：$1"
 r:"^Stun Time: ([\d.]+)$"="眩晕时间：$1"
 r:"^Delay Time: ([\d.]+)$"="延迟时间：$1"
 
+Always Move Back: <color%3D#00FF00FF>Enabled</color>=始终向后移动：<color%3D#00FF00FF>已启用</color>
+Always Move Back: <color%3D#FF0000FF>Disabled</color>=始终向后移动：<color%3D#FF0000FF>已禁用</color>
+Dont Move On Dash: <color%3D#00FF00FF>Enabled</color>=闪避时不移动：<color%3D#00FF00FF>已启用</color>
+Dont Move On Dash: <color%3D#FF0000FF>Disabled</color>=闪避时不移动：<color%3D#FF0000FF>已禁用</color>
+
+
+Fairy Pin=六花发夹
+Magical hairpins with fairies.=寄宿着六花的魔法发夹。
+Fairy Pin Options=六花发夹选项
+Summon All Fairies=召唤所有六花
+Summons all available fairy petals.=召唤所有可用的六花花瓣。
+Recall All Fairies=召回所有六花
+Recalls all summoned fairies back to the hairpin.=将所有已召唤的六花召回发夹。
+Flight Mode: <color%3D#FF0000FF>Disabled</color>=飞行模式：<color%3D#FF0000FF>已禁用</color>
+Flight Mode: <color%3D#00FF00FF>Enabled</color>=飞行模式：<color%3D#00FF00FF>已启用</color>
+Toggle levitation flight using fairies.=切换使用六花进行悬浮飞行。
+Rainbow Fairies: <color%3D#FF0000FF>Disabled</color>=彩虹六花：<color%3D#FF0000FF>已禁用</color>
+Rainbow Fairies: <color%3D#00FF00FF>Enabled</color>=彩虹六花：<color%3D#00FF00FF>已启用</color>
+
 
 //上半身
 
@@ -2912,6 +2932,16 @@ r:"^Aim Angle: ([\d.]+)°$"="瞄准角度：$1°"
 Max angle in degrees to find targets (default: 45°)=寻找目标的最大角度（单位：度）（默认：45°）
 Set Aim Angle [5 - 360]=设置瞄准角度 [5 - 360]
 
+Outline Effect <color%3D#00FF00FF>Enabled</color>=轮廓效果 <color%3D#00FF00FF>已启用</color>
+Outline Effect <color%3D#FF0000FF>Disabled</color>=轮廓效果 <color%3D#FF0000FF>已禁用</color>
+Custom Outline Color <color%3D#FF0000FF>Disabled</color>=自定义轮廓颜色 <color%3D#FF0000FF>已禁用</color>
+Custom Outline Color <color%3D#FF0000FF>Disabled</color>=自定义轮廓颜色 <color%3D#FF0000FF>已禁用</color>
+Set Custom Outline Color=设置自定义轮廓颜色
+Change color of pressure outline=更改灵压轮廓的颜色
+Toggle visibility of the pressure outline circle.=切换压力轮廓圈的可见性.
+When disabled, outline color follows the character's aura color.=禁用时，轮廓颜色将跟随角色的气场颜色.
+Pick custom color for the pressure outline.=为压力轮廓选择自定义颜色.
+
 
 //下半身
 Enable Instant Move=<color%3D#00FF00FF>启用瞬移
@@ -2935,6 +2965,21 @@ Hypnosis User Open Menu.=打开镜花水月使用者菜单.
 Hypnosis User Menu=<color%3D#FFD800>镜花水月使用者菜单
 Hypnosis User Menu.=镜花水月使用者菜单.
 
+Fairy Control=六花操控
+[H] Summon Fairy | [J] Recall Fairy | [K] Toggle Shield Freeze | [X] Switch Mode. Controls fairy pin techniques.=[H] 召唤六花 | [J] 召回六花 | [K] 切换护盾冻结 | [X] 切换模式。操控六花发夹的技法。
+Fairy Control Options=六花操控选项
+Select Fairy Type=选择六花类型
+sr:"^Current Type: (.*?)$"="当前类型：$1"
+Select Fairy Type Selection=选择六花类型选项
+Protect3=三天结盾
+Protect4=四天抗盾
+Heal Self=双天归盾
+Set Attack Power Multiplier [0.5 - 5.0]=设置攻击力倍率 [0.5 - 5.0]
+r:"^Energy Cost: ([\d.]+)$"="能量消耗：$1"
+Summon Next Fairy (H)=召唤下一个六花（H）
+Summon one fairy petal.=召唤一枚六花花瓣。
+Recall Last Fairy (J)=召回上一个六花（J）
+Recall one fairy petal.=召回一枚六花花瓣。
 
 
 //刀菜单
